@@ -1,7 +1,10 @@
-# Revelation — 22 chapters (staging text snapshot)
+# Revelation — 22 chapters
 
-Status: **staging text snapshot; Bespoke English editorial revision pending.** 405 verse units.
+Provisional Bespoke Saints English editorial revision dated 7 November 2026. All 405 verse units were compared with the German Bible Society’s displayed NA28 running text. 330 received wording or punctuation changes. The reading text was verified across all 22 staging chapters. See [verification.json](verification.json) for page-by-page checks.
 
-[verses.json](verses.json) preserves the Revelation text currently published on the Saints.Bible staging site, so that cross-reference and study records can pin exact wording. It was taken from the site's `/wp-json/saints/v1/text?book=revelation&format=json` output (generated 2026-10-16T13:00:29Z) and checked against all 22 live chapter pages on 1 November 2026. Every verse matches the page text exactly once footnote markers such as `[n]` are removed, and every verse anchor (`v1-1` … `v22-21`) is present on its page.
+The English preserves recurring Greek images, parallel clauses, and key word distinctions. Direct address to God or Jesus follows the established Thou/Thee/Thy convention. Ordinary dialogue uses you and modern verb endings. Phrasing and sentence breaks were reviewed for spoken cadence. See [source checks and decisions](source-checks.md).
 
-This is not an editorial pass. Revelation remains the next book for the Bespoke revision in [progress.json](../progress.json); when that revision is made, this record should be replaced in the usual way and dependent records re-pinned.
+- [Verse records](verses.json), [change log](changes.json), [text edition](Revelation.txt), and [HTML reader](Revelation.html)
+- [Original staging backup](original-staging-backup.zip), [verified staging archive](verified-staging-content.zip), and [restoration instructions](RESTORE.md)
+
+NA28 remains the authorized provisional base. Review against UBS6 and ECM, review of the critical apparatus, independent Greek review and human read-aloud review remain pending.

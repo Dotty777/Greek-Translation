@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-07",
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
-  "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
-  "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 69,
-  "pending_book_revisions": 1,
-  "next_book": "Revelation",
+  "current_task": "Review the seventy-book Bespoke edition for Greek fidelity and an elevated, readable English register.",
+  "completion_definition": "Completed book records count provisional English editorial passes with staging verification and a GitHub record. Full Bible completion also requires outstanding source, independent Greek and read-aloud reviews.",
+  "completed_book_records": 70,
+  "pending_book_revisions": 0,
+  "next_book": null,
   "full_bible_complete": false,
   "books": [
     {
@@ -744,40 +744,19 @@
       "order": 70,
       "book": "Revelation",
       "staging_path": "/bible/glory/revelation/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "NA28 running-text comparison and provisional English pass complete; staging verified; specialist review pending",
+      "records": "revelation/"
     }
   ],
-  "current_division": "Discipleship",
+  "current_division": "Glory",
   "division_progress": {
-    "division": "Discipleship",
+    "division": "Glory",
     "completed_books": [
-      "Acts",
-      "Romans",
-      "1 Corinthians",
-      "2 Corinthians",
-      "Galatians",
-      "Ephesians",
-      "Philippians",
-      "Colossians",
-      "1 Thessalonians",
-      "2 Thessalonians",
-      "1 Timothy",
-      "2 Timothy",
-      "Titus",
-      "Philemon",
-      "Hebrews",
-      "James",
-      "1 Peter",
-      "2 Peter",
-      "1 John",
-      "2 John",
-      "3 John",
-      "Jude"
+      "Revelation"
     ],
     "pending_books": 0,
-    "next_book": "Revelation",
-    "status": "English editorial and staging complete for listed books; specialist review pending"
+    "next_book": null,
+    "status": "Provisional English editorial pass and staging verification complete; specialist review pending"
   },
   "completed_divisions": [
     "Law",
@@ -785,13 +764,14 @@
     "Wisdom",
     "Providence",
     "Salvation",
-    "Discipleship"
+    "Discipleship",
+    "Glory"
   ],
-  "current_priority": "Continue the remaining New Testament books one at a time, using the authorized provisional NA28 base, preserving records, verifying staging and uploading to GitHub main.",
+  "current_priority": "Continue source collation and independent Greek and read-aloud review across the seventy-book edition.",
   "old_testament_completed_book_records": 43,
   "old_testament_pending_book_revisions": 0,
-  "next_division": "Glory",
-  "current_instruction": "After completing the Old Testament, continue all 27 New Testament books one at a time, with staging verification and uploads to GitHub main.",
+  "next_division": null,
+  "current_instruction": "Review the whole seventy-book edition in WordPress staging and GitHub for literal Greek fidelity, spoken cadence and elevated traditional English.",
   "new_testament_source_status": {
     "preferred_edition": "UBS6, with ECM consultation, as recommended by the newer Bespoke PDF",
     "full_preferred_text_obtained": false,
@@ -912,9 +892,14 @@
       "Jude": {
         "staging_changes": 2,
         "status": "All 1 chapters and index saved and verified; 25 rendered verse units matched the reviewed draft; 9 wording changes."
+      },
+      "Revelation": {
+        "staging_changes": 22,
+        "status": "All 405 verse units compared with displayed NA28. All 22 chapters saved and verified on staging. 330 changed verse units."
       }
     }
   },
-  "new_testament_completed_book_records": 26,
-  "new_testament_pending_book_revisions": 1
+  "new_testament_completed_book_records": 27,
+  "new_testament_pending_book_revisions": 0,
+  "provisional_editorial_pass_complete": true
 }
