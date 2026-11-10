@@ -80,3 +80,5 @@ The newer Bespoke policy governs. The working Greek bases are Rahlfs–Hanhart 2
 GitHub archives the edition. WordPress staging updates are made and verified separately.
 
 [7 November 2026 review](review-2026-11-07.md) records the full-edition staging comparison, export gaps, and outstanding Greek checks.
+
+[9 November 2026 Greek fidelity and reading review](review-2026-11-09.md) records the whole-edition structural check and the focused wording revisions. The individual book staging-verification dates above refer to the earlier editions.
