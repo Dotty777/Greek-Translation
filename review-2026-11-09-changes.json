@@ -1,0 +1,965 @@
+{
+  "date": "2026-11-09",
+  "base_commit": "ef8f801dce8d87816cbb85dd47dde2b2bc0e7096",
+  "scope": {
+    "edition": "Bespoke Saints English Translation",
+    "old_testament": "Rahlfs–Hanhart 2006 running text with the existing book-level source exceptions",
+    "new_testament": "NA28 running text",
+    "checked_structure": {
+      "books": 70,
+      "reading_sections": 1297,
+      "text_units": 34523
+    },
+    "revised_books": 16,
+    "revised_verse_units": 67,
+    "independent_review_status": "pending"
+  },
+  "changes": [
+    {
+      "book": "1-samuel",
+      "reference": "1 Samuel 7:2",
+      "anchor": "v7-2",
+      "before": "From the day the ark was in Kiriath-jearim, the days multiplied until twenty years had passed. All Israel’s house looked after the Lord.",
+      "after": "From the day the ark was in Kiriath-jearim, the days multiplied until twenty years had passed. The whole house of Israel looked to the Lord.",
+      "sources": [
+        "https://www.die-bibel.de/bibel/LXX/1SA.7"
+      ],
+      "rationale": "The publisher’s Rahlfs–Hanhart running text has ἐπέβλεψεν … ὀπίσω κυρίου. ‘Looked to’ carries the orientation of the Greek in spoken English without suggesting that Israel took care of the Lord. It preserves the distinction from Samuel’s verb ‘returning’ in the next verse."
+    },
+    {
+      "book": "2-samuel",
+      "reference": "2 Samuel 20:21",
+      "anchor": "v20-21",
+      "before": "That is not the matter. A man from the hill country of Ephraim, named Sheba son of Bichri, has raised his hand against King David. Give him alone to me, and I will withdraw from the city.” The woman said to Joab, “His head will be thrown to you through the wall.”",
+      "after": "That is not the matter. A man from the hill country of Ephraim, named Sheba son of Bichri, has raised his hand against King David. Give him alone to me, and I will withdraw from the city.” The woman said to Joab, “Behold, his head will be thrown to you through the wall.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/2SA.20"
+      ],
+      "rationale": "Restore Ἰδού with the restrained archaism ‘Behold’ where it stands in the Greek, at the beginning of the woman’s answer to Joab."
+    },
+    {
+      "book": "2-chronicles",
+      "reference": "2 Chronicles 5:13",
+      "anchor": "v5-13",
+      "before": "there was one voice in trumpeting, singing psalms, and shouting, to give thanks and praise to the Lord. When they raised their voice with trumpets, cymbals, and musical instruments, they said, “Give thanks to the Lord, for it is good, for His mercy endures for ever.” The house was filled with a cloud of the Lord’s glory.",
+      "after": "there was one voice as they sounded the trumpets, sang psalms, and cried out with one voice to give thanks and praise to the Lord. And as they raised their voice with trumpets, cymbals, and musical instruments and said, “Give thanks to the Lord, for it is good, for His mercy endures for ever,” the house was filled with a cloud of the Lord’s glory.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/2CH.5"
+      ],
+      "rationale": "The running text first says μία φωνή and then repeats it with the dative φωνῇ μιᾷ. Preserve both instances and connect the raising of the voice to the house being filled, following the displayed Greek temporal construction. Retain the neuter expression ‘for it is good’ in the quoted song."
+    },
+    {
+      "book": "matthew",
+      "reference": "Matthew 4:4",
+      "anchor": "v4-4",
+      "before": "But He answered, “It is written: ‘A human being shall not live on bread alone, but on every word proceeding through the mouth of God.’”",
+      "after": "But He answered, “It is written: ‘Man shall not live by bread alone, but by every word that comes forth through the mouth of God.’”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.4",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4",
+        "https://www.die-bibel.de/en/bible/LXX/DEU.8"
+      ],
+      "rationale": "Carries the existing Deuteronomy wording into the Gospel where the Greek agrees and retains the source image of the word coming through God’s mouth."
+    },
+    {
+      "book": "matthew",
+      "reference": "Matthew 13:15",
+      "anchor": "v13-15",
+      "before": "For the heart of this people has grown fat, and with their ears they heard with difficulty, and they closed their eyes, lest they see with their eyes, hear with their ears, understand with their heart, and turn, and I will heal them.’",
+      "after": "For the heart of this people has grown dull, and with their ears they heard but faintly, and their eyes they shut, lest they see with their eyes, hear with their ears, understand with their heart, and turn, and I will heal them.’",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.13",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.6"
+      ],
+      "rationale": "Ἐπαχύνθη is figurative in this parallel of heart, ears and eyes. Dull conveys that sense, and the revised sequence preserves the repeated organs, the people's agency in shutting their eyes, and the future healing."
+    },
+    {
+      "book": "matthew",
+      "reference": "Matthew 15:9",
+      "anchor": "v15-9",
+      "before": "In vain they worship Me, teaching human commandments as teachings.’”",
+      "after": "In vain do they worship Me, teaching human commands for doctrine.’”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.15",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.7",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.29"
+      ],
+      "rationale": "Makes audible the relationship between the Greek participle and its predicate expression. Isaiah has a distinct construction with commands and teachings coordinated."
+    },
+    {
+      "book": "matthew",
+      "reference": "Matthew 19:5",
+      "anchor": "v19-5",
+      "before": "and said, ‘For this reason a man will leave father and mother and be joined to his wife, and the two will become one flesh’?",
+      "after": "and said, ‘For this reason a man shall leave father and mother and cleave to his wife, and the two shall become one flesh’?",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.19",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.10",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.2"
+      ],
+      "rationale": "Restores the traditional sense of close attachment in κολληθήσεται and echoes the existing Greek Genesis wording where the clause agrees."
+    },
+    {
+      "book": "matthew",
+      "reference": "Matthew 21:13",
+      "anchor": "v21-13",
+      "before": "He said to them, “It is written, ‘My house will be called a house of prayer,’ but you make it a robbers’ cave.”",
+      "after": "He said to them, “It is written, ‘My house will be called a house of prayer,’ but you make it a den of robbers.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.21",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.11",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.19",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.56",
+        "https://www.die-bibel.de/en/bible/LXX/JER.7"
+      ],
+      "rationale": "Aligns the identical Greek image with Mark and Luke. Matthew retains the present tense of make and the shorter Isaiah quotation."
+    },
+    {
+      "book": "matthew",
+      "reference": "Matthew 22:44",
+      "anchor": "v22-44",
+      "before": "‘The Lord said to my Lord: Sit at My right until I put Thy enemies beneath Thy feet’?",
+      "after": "‘The Lord said to my Lord: Sit at My right hand until I put Thy enemies beneath Thy feet’?",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.22",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.12",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.20",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109"
+      ],
+      "rationale": "Restores the idiomatic referent of the substantival Greek right side. Matthew and Mark retain beneath Thy feet, while Luke and the Psalm retain the footstool image."
+    },
+    {
+      "book": "luke",
+      "reference": "Luke 4:4",
+      "anchor": "v4-4",
+      "before": "Jesus answered him, “It is written: ‘A human being shall not live on bread alone.’”",
+      "after": "Jesus answered him, “It is written: ‘Man shall not live by bread alone.’”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.4",
+        "https://www.die-bibel.de/en/bible/LXX/DEU.8"
+      ],
+      "rationale": "Matches the shared clause in Matthew and Deuteronomy. The shorter quotation follows the NA28 running text."
+    },
+    {
+      "book": "luke",
+      "reference": "Luke 4:18",
+      "anchor": "v4-18",
+      "before": "“The Spirit of the Lord is upon Me, because He anointed Me to proclaim good news to the poor. He has sent Me to proclaim release to captives and recovery of sight to the blind, to send the oppressed away in release,",
+      "after": "“The Spirit of the Lord is upon Me, because He anointed Me to proclaim good news to the poor. He has sent Me to proclaim release to captives and recovery of sight to the blind, to let the crushed go free,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.61",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.58"
+      ],
+      "rationale": "Keeps the metaphor of being crushed while giving the Greek release idiom a clear audible form. This line echoes Isaiah 58:6 within the quotation largely drawn from Isaiah 61:1–2."
+    },
+    {
+      "book": "luke",
+      "reference": "Luke 4:19",
+      "anchor": "v4-19",
+      "before": "to proclaim the Lord’s acceptable year.”",
+      "after": "to proclaim the Lord’s year of favor.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.61"
+      ],
+      "rationale": "Gives δεκτός its sense of a time of welcome or favor and coordinates with the Isaiah rendering. Luke retains its own verb and ends the quotation before the day of recompense."
+    },
+    {
+      "book": "luke",
+      "reference": "Luke 22:37",
+      "anchor": "v22-37",
+      "before": "For I tell you that this which is written must be accomplished in Me: ‘And He was counted with the lawless.’ For what concerns Me is reaching its completion.”",
+      "after": "For I tell you that this which is written must be accomplished in Me: ‘And He was numbered with the lawless.’ For what concerns Me is reaching its completion.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/LUK.22",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.53"
+      ],
+      "rationale": "Echoes Isaiah's existing English for the same Greek verb ἐλογίσθη and keeps Luke's with in distinction to Isaiah's among."
+    },
+    {
+      "book": "mark",
+      "reference": "Mark 7:6",
+      "anchor": "v7-6",
+      "before": "He said to them, “Isaiah prophesied well about you hypocrites, as it is written: ‘This people honors Me with its lips, but their heart is far from Me.",
+      "after": "He said to them, “Isaiah prophesied well about you hypocrites, as it is written: ‘This people honors Me with their lips, but their heart is far from Me.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.7",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.15",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.29"
+      ],
+      "rationale": "Uses consistent English possessives for the collective people. The quotation keeps the plural lips and collective singular heart."
+    },
+    {
+      "book": "mark",
+      "reference": "Mark 7:7",
+      "anchor": "v7-7",
+      "before": "In vain do they worship Me, teaching human commandments as teachings.’",
+      "after": "In vain do they worship Me, teaching human commands for doctrine.’",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.7",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.15",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.29"
+      ],
+      "rationale": "The two Gospels share the same Greek line. The rendering distinguishes teaching the commands as doctrine from the two coordinated objects in Greek Isaiah."
+    },
+    {
+      "book": "mark",
+      "reference": "Mark 10:7",
+      "anchor": "v10-7",
+      "before": "‘For this reason a man will leave his father and mother and be joined to his wife,",
+      "after": "‘For this reason a man shall leave his father and mother and cleave to his wife,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.10",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.19",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.2"
+      ],
+      "rationale": "Matches Genesis and Matthew where the quotation shares wording. The source prints the joining clause in square brackets. This revision retains the existing reading while documenting its textual status."
+    },
+    {
+      "book": "mark",
+      "reference": "Mark 10:8",
+      "anchor": "v10-8",
+      "before": "and the two will become one flesh.’ So they are no longer two, but one flesh.",
+      "after": "and the two shall become one flesh.’ So they are no longer two, but one flesh.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.10",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.19",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.2"
+      ],
+      "rationale": "Carries the same future construction into the shared conclusion of the Genesis quotation."
+    },
+    {
+      "book": "mark",
+      "reference": "Mark 11:17",
+      "anchor": "v11-17",
+      "before": "He taught and said to them, “Is it not written, ‘My house shall be called a house of prayer for all the nations’? But you have made it a den of robbers.”",
+      "after": "He taught and said to them, “Is it not written, ‘My house will be called a house of prayer for all nations’? But you have made it a den of robbers.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.11",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.56",
+        "https://www.die-bibel.de/en/bible/LXX/JER.7"
+      ],
+      "rationale": "Carries through the existing English phrase from the nearly word-for-word Greek Isaiah quotation. The clause for all nations is present here and in Isaiah."
+    },
+    {
+      "book": "mark",
+      "reference": "Mark 12:36",
+      "anchor": "v12-36",
+      "before": "David himself said in the Holy Spirit, ‘The Lord said to my Lord: Sit at My right until I put Thy enemies beneath Thy feet.’",
+      "after": "David himself said in the Holy Spirit, ‘The Lord said to my Lord: Sit at My right hand until I put Thy enemies beneath Thy feet.’",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.12",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.22",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.20",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109"
+      ],
+      "rationale": "Restores the conventional English form of the Greek idiom for sitting at the right hand while preserving Mark's distinct wording from Luke and the Psalm."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 2:17",
+      "anchor": "v2-17",
+      "before": "‘In the last days, God says, I will pour out of My Spirit upon all flesh. Your sons and your daughters will prophesy; your young men will see visions, and your elders will dream dreams.",
+      "after": "‘And it shall come to pass in the last days, says God, that I will pour out of My Spirit upon all flesh. Your sons and your daughters will prophesy, your young men will see visions, and your elders will dream dreams.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/LXX/JOL.3"
+      ],
+      "rationale": "Restores the prophetic formula καὶ ἔσται and preserves Peter’s own last-days opening, the attribution to God and the order of the young and the elders."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 2:19",
+      "anchor": "v2-19",
+      "before": "I will give wonders in heaven above and signs on the earth below: blood and fire and a cloud of smoke.",
+      "after": "And I will give wonders in heaven above and signs on the earth below: blood and fire and a vapor of smoke.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/LXX/JOL.3"
+      ],
+      "rationale": "Restores the continuing καὶ and gives the same English to ἀτμίδα καπνοῦ as Joel 3:3. Retains Peter’s above, signs and below."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 2:21",
+      "anchor": "v2-21",
+      "before": "And everyone who calls upon the name of the Lord will be saved.’",
+      "after": "And it shall come to pass that everyone who calls upon the name of the Lord will be saved.’",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/LXX/JOL.3"
+      ],
+      "rationale": "Restores the repeated καὶ ἔσται at the end of Peter’s citation, echoing the same formula at Acts 2:17 and Joel 3:5."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 2:25",
+      "anchor": "v2-25",
+      "before": "For David says concerning Him, ‘I kept the Lord before me always, for He is at my right hand so that I will not be shaken.",
+      "after": "For David says concerning Him, ‘I saw the Lord ever before me, for He is at my right hand, that I may not be shaken.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.15"
+      ],
+      "rationale": "The Greek imperfect describes ongoing sight and the ἵνα clause expresses purpose. Matches the shared psalm wording without importing its superscription."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 2:26",
+      "anchor": "v2-26",
+      "before": "Therefore my heart rejoiced and my tongue exulted; moreover, my flesh will dwell in hope,",
+      "after": "Therefore my heart rejoiced, and my tongue exulted; indeed, even my flesh will dwell in hope,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.15"
+      ],
+      "rationale": "Preserves both ἔτι δὲ καί as an emphatic progression to the flesh and the cadence of the otherwise matching Psalm 15:9."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 2:27",
+      "anchor": "v2-27",
+      "before": "because Thou wilt not abandon my soul to Hades, nor allow Thy Holy One to see decay.",
+      "after": "for Thou wilt not abandon my soul to Hades, nor let Thy Holy One see decay.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.15"
+      ],
+      "rationale": "Aligns the shared wording with Psalm 15:10 and keeps decay, which points to bodily decay in Peter’s argument."
+    },
+    {
+      "book": "acts",
+      "reference": "Acts 15:17",
+      "anchor": "v15-17",
+      "before": "so that the rest of humanity may seek the Lord, and all the nations upon whom My name has been called, says the Lord, who makes these things",
+      "after": "so that the remnant of humankind and all the nations over whom My name has been called may seek the Lord, says the Lord, who makes these things",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.15",
+        "https://www.die-bibel.de/en/bible/LXX/AMO.9"
+      ],
+      "rationale": "Places both coordinated subjects before the English verb and keeps all, the perfect passive of the divine name, and Acts’ explicit object the Lord. The verse remains linked syntactically to verse 18."
+    },
+    {
+      "book": "joel",
+      "reference": "Joel 3:5",
+      "anchor": "v3-5",
+      "before": "Everyone who calls upon the Lord’s name will be saved, for on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and bearers of good news whom the Lord has called.”",
+      "after": "And it shall come to pass that everyone who calls upon the name of the Lord will be saved, for on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and bearers of good news whom the Lord has called.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/JOL.3",
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2",
+        "https://www.die-bibel.de/en/bible/NA28/ROM.10"
+      ],
+      "rationale": "Restores καὶ ἔσται and matches the shared words of Peter’s quotation. Retains Joel’s continuation and Paul’s shorter form at Romans 10:13."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 15:8",
+      "anchor": "v15-8",
+      "before": "I kept seeing the Lord before me continually, because He is at my right hand, so that I may not be shaken.",
+      "after": "I saw the Lord ever before me, for He is at my right hand, that I may not be shaken.",
+      "display_before": "I kept seeing the Lord before me continually,\nbecause He is at my right hand, so that I may not be shaken.",
+      "display_after": "I saw the Lord ever before me,\nfor He is at my right hand, that I may not be shaken.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.15",
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2"
+      ],
+      "rationale": "Maintains the imperfect sense of continually seeing the Lord and the purpose clause. The shared English lets the reader hear Peter’s citation."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 15:10",
+      "anchor": "v15-10",
+      "before": "for Thou wilt not abandon my soul to Hades, nor let Thy holy one see corruption.",
+      "after": "for Thou wilt not abandon my soul to Hades, nor let Thy holy one see decay.",
+      "display_before": "for Thou wilt not abandon my soul to Hades,\nnor let Thy holy one see corruption.",
+      "display_after": "for Thou wilt not abandon my soul to Hades,\nnor let Thy holy one see decay.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.15",
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2"
+      ],
+      "rationale": "The Greek phrase matches Acts 2:27. Decay communicates bodily corruption in the context of the preceding flesh and keeps the shared wording audible."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 15:11",
+      "anchor": "v15-11",
+      "before": "Thou madest known to me ways of life; Thou wilt fill me with gladness in Thy presence; pleasures are at Thy right hand for ever.",
+      "after": "Thou hast made known to me the paths of life; Thou wilt fill me with gladness in Thy presence; pleasures are at Thy right hand for ever.",
+      "display_before": "Thou madest known to me ways of life;\nThou wilt fill me with gladness in Thy presence;\npleasures are at Thy right hand for ever.",
+      "display_after": "Thou hast made known to me the paths of life;\nThou wilt fill me with gladness in Thy presence;\npleasures are at Thy right hand for ever.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.15",
+        "https://www.die-bibel.de/en/bible/NA28/ACT.2"
+      ],
+      "rationale": "The first two clauses are shared with Acts 2:28. Retains the final line present in the Psalm alone."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 8:3",
+      "anchor": "v8-3",
+      "before": "From the mouth of infants and nursing children Thou didst prepare praise, because of Thine enemies, to bring down the enemy and the avenger.",
+      "after": "Out of the mouth of infants and nursing children Thou didst prepare praise, because of Thine enemies, to bring down the enemy and the avenger.",
+      "display_before": "From the mouth of infants and nursing children Thou didst prepare praise,\nbecause of Thine enemies,\nto bring down the enemy and the avenger.",
+      "display_after": "Out of the mouth of infants and nursing children Thou didst prepare praise,\nbecause of Thine enemies,\nto bring down the enemy and the avenger.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.8",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.21"
+      ],
+      "rationale": "Matches Jesus’ wording in Matthew 21:16 where both Greek sources have the same clause. Retains the Psalm’s two following lines."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 21:2",
+      "anchor": "v21-2",
+      "before": "God, my God, attend to me; why didst Thou abandon me? Far from my salvation are the words of my transgressions.",
+      "after": "God, my God, give heed to me; why hast Thou forsaken me? Far from my salvation are the words of my transgressions.",
+      "display_before": "God, my God, attend to me; why didst Thou abandon me?\nFar from my salvation are the words of my transgressions.",
+      "display_after": "God, my God, give heed to me; why hast Thou forsaken me?\nFar from my salvation are the words of my transgressions.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.21",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.27"
+      ],
+      "rationale": "The shared verb is ἐγκατέλιπές. The traditional ‘forsaken’ echoes Jesus’ cry and keeps the Psalm’s additional plea and following line."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 21:8",
+      "anchor": "v21-8",
+      "before": "All who watch me sneered at me; they spoke with their lips and shook their heads:",
+      "after": "All who saw me sneered at me; they spoke with their lips and shook their heads:",
+      "display_before": "All who watch me sneered at me;\nthey spoke with their lips and shook their heads:",
+      "display_after": "All who saw me sneered at me;\nthey spoke with their lips and shook their heads:",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.21",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.27"
+      ],
+      "rationale": "The present participle θεωροῦντες accompanies a past finite verb here. English past-tense concord keeps the watching and sneering contemporaneous."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 21:23",
+      "anchor": "v21-23",
+      "before": "I will recount Thy name to my brothers; in the midst of the assembly I will sing hymns unto Thee:",
+      "after": "I will recount Thy name to my brothers; in the midst of the assembly I will sing praise to Thee:",
+      "display_before": "I will recount Thy name to my brothers;\nin the midst of the assembly I will sing hymns unto Thee:",
+      "display_after": "I will recount Thy name to my brothers;\nin the midst of the assembly I will sing praise to Thee:",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.21",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.2"
+      ],
+      "rationale": "Aligns the identical Greek second line with Hebrews 2:12. Keeps ‘recount’ for the Psalm’s διηγήσομαι alongside Hebrews’ ‘announce’ for ἀπαγγελῶ."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 39:7",
+      "anchor": "v39-7",
+      "before": "Sacrifice and offering Thou didst not desire, but ears Thou didst prepare for me. Burnt offering and an offering for sin Thou didst not request.",
+      "after": "Sacrifice and offering Thou didst not desire, but ears Thou didst prepare for me. Whole burnt offering and an offering for sin Thou didst not request.",
+      "display_before": "Sacrifice and offering Thou didst not desire,\nbut ears Thou didst prepare for me.\nBurnt offering and an offering for sin Thou didst not request.",
+      "display_after": "Sacrifice and offering Thou didst not desire,\nbut ears Thou didst prepare for me.\nWhole burnt offering and an offering for sin Thou didst not request.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.39",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.10",
+        "https://vulgata-dialog.ch/ojs/index.php/vidbor/article/download/1524/1304"
+      ],
+      "rationale": "ὁλοκαύτωμα denotes an offering wholly burnt. Retains ‘ears’ in the Rahlfs–Hanhart reading and the distinct ‘a body’ in Hebrews 10:5, also attested in major Greek Psalter witnesses."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 39:9",
+      "anchor": "v39-9",
+      "before": "I desired to do Thy will, my God, and Thy law within my belly.”",
+      "after": "I desired to do Thy will, my God, and Thy law is deep within me.”",
+      "display_before": "I desired to do Thy will, my God,\nand Thy law within my belly.”",
+      "display_after": "I desired to do Thy will, my God,\nand Thy law is deep within me.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.39",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.10"
+      ],
+      "rationale": "Restores the implied English copula. ‘Deep within me’ voices the Greek metaphor, literally ‘in the midst of my belly’. Hebrews 10:7 ends its quote earlier."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 109:2",
+      "anchor": "v109-2",
+      "before": "The Lord will send out the rod of your power from Zion. Exercise dominion in the midst of your enemies.",
+      "after": "The Lord will send forth the rod of your power from Zion. Rule in the midst of your enemies.",
+      "display_before": "The Lord will send out the rod of your power from Zion.\nExercise dominion in the midst of your enemies.",
+      "display_after": "The Lord will send forth the rod of your power from Zion.\nRule in the midst of your enemies.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109"
+      ],
+      "rationale": "Keeps Zion, the rod, and the imperative κατακυρίευε. ‘Send forth’ and ‘Rule’ give the parallel lines a more direct oral cadence."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 109:4",
+      "anchor": "v109-4",
+      "before": "The Lord swore and will not change His purpose: You are a priest for ever according to the order of Melchizedek.",
+      "after": "The Lord swore and will not change His mind: You are a priest forever according to the order of Melchizedek.",
+      "display_before": "The Lord swore and will not change His purpose:\nYou are a priest for ever\naccording to the order of Melchizedek.",
+      "display_after": "The Lord swore and will not change His mind:\nYou are a priest forever\naccording to the order of Melchizedek.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.5",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "‘Change His mind’ conveys μεταμεληθήσεται and matches Hebrews 7:21. The shared εἰς τὸν αἰῶνα is rendered ‘forever’ across the quotation cluster."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 117:22",
+      "anchor": "v117-22",
+      "before": "The stone the builders rejected— this has become the head of the corner.",
+      "after": "The stone the builders rejected, that very stone has become the head of the corner.",
+      "display_before": "The stone the builders rejected—\nthis has become the head of the corner.",
+      "display_after": "The stone the builders rejected,\nthat very stone has become the head of the corner.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.117",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.21",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.12"
+      ],
+      "rationale": "Voices the emphatic demonstrative οὗτος and preserves the architectural image of the head of the corner."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 44:7",
+      "anchor": "v44-7",
+      "before": "Your throne, God, is for age upon age; a rod of uprightness is the rod of your kingdom.",
+      "after": "Your throne, O God, endures forever and ever; a rod of uprightness is the rod of your kingdom.",
+      "display_before": "Your throne, God, is for age upon age;\na rod of uprightness is the rod of your kingdom.",
+      "display_after": "Your throne, O God, endures forever and ever;\na rod of uprightness is the rod of your kingdom.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.44",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.1"
+      ],
+      "rationale": "The same εἰς τὸν αἰῶνα τοῦ αἰῶνος appears in Hebrews 1:8. The English phrase carries the repeated emphasis, and the psalm keeps its existing second-person convention."
+    },
+    {
+      "book": "amos",
+      "reference": "Amos 9:12",
+      "anchor": "v9-12",
+      "before": "so that the remaining human beings and all the nations over whom My name is called may seek,” says the Lord God, who does these things.",
+      "after": "so that the remnant of humankind and all the nations over whom My name has been called may seek,” says the Lord God, who does these things.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/AMO.9",
+        "https://www.die-bibel.de/en/bible/NA28/ACT.15"
+      ],
+      "rationale": "Renders the shared remnant expression and perfect passive like Acts. Rahlfs–Hanhart Amos gives no explicit object for seek, while Acts does."
+    },
+    {
+      "book": "romans",
+      "reference": "Romans 9:26",
+      "anchor": "v9-26",
+      "before": "and in the place where it was said to them, ‘You are not My people,’ there they will be called sons of the living God.”",
+      "after": "and it shall come to pass that in the place where it was said to them, ‘You are not My people,’ there they will be called sons of the living God.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ROM.9",
+        "https://www.die-bibel.de/en/bible/LXX/HOS.2"
+      ],
+      "rationale": "Restores the prophetic καὶ ἔσται, shared with Hosea 2:1, and keeps the locative repetition of the Greek."
+    },
+    {
+      "book": "romans",
+      "reference": "Romans 10:11",
+      "anchor": "v10-11",
+      "before": "For the Scripture says, “Everyone who believes in Him will not be put to shame.”",
+      "after": "For the Scripture says, “Whoever believes in Him shall not be put to shame.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ROM.10",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.28"
+      ],
+      "rationale": "The English gives a clear universal promise while retaining the passive and simple negation. Isaiah 28:16 uses stronger negation and lacks Paul’s explicit πᾶς."
+    },
+    {
+      "book": "romans",
+      "reference": "Romans 10:16",
+      "anchor": "v10-16",
+      "before": "But not all obeyed the gospel. For Isaiah says, “Lord, who believed our report?”",
+      "after": "But not all obeyed the gospel. For Isaiah says, “O Lord, who has believed our report?”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ROM.10",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.53"
+      ],
+      "rationale": "Uses the same English as Isaiah 53:1 for the identical Greek quotation. The vocative can be heard and the question reads naturally in the context."
+    },
+    {
+      "book": "isaiah",
+      "reference": "Isaiah 6:10",
+      "anchor": "v6-10",
+      "before": "For the heart of this people has grown dull, and with their ears they have heard heavily, and they have closed their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and turn, and I will heal them.",
+      "after": "For the heart of this people has grown dull, and with their ears they heard but faintly, and they have closed their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and turn, and I will heal them.",
+      "display_before": "For the heart of this people has grown dull,\nand with their ears they have heard heavily,\nand they have closed their eyes;\nlest they see with their eyes, and hear with their ears,\nand understand with their heart, and turn,\nand I will heal them.",
+      "display_after": "For the heart of this people has grown dull,\nand with their ears they heard but faintly,\nand they have closed their eyes;\nlest they see with their eyes, and hear with their ears,\nand understand with their heart, and turn,\nand I will heal them.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/ISA.6",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.13"
+      ],
+      "rationale": "Uses an English simple past for ἤκουσαν and expresses βαρέως as impaired hearing. Matches the shared phrase in Matthew 13:15."
+    },
+    {
+      "book": "isaiah",
+      "reference": "Isaiah 53:4",
+      "anchor": "v53-4",
+      "before": "He bears our sins, and suffers pain for us; yet we reckoned him to be in toil and affliction and distress.",
+      "after": "He bears our sins and suffers pain for us; yet we reckoned him in pain, under blows, and in affliction.",
+      "display_before": "He bears our sins, and suffers pain for us;\nyet we reckoned him to be in toil and affliction and distress.",
+      "display_after": "He bears our sins and suffers pain for us;\nyet we reckoned him in pain, under blows, and in affliction.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/ISA.53",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.8"
+      ],
+      "rationale": "Recovers the concrete πληγή, ‘blow’ or ‘wound’, within the threefold description. Preserves Isaiah’s ‘sins’ alongside the different nouns ‘weaknesses’ and ‘diseases’ in Matthew 8:17."
+    },
+    {
+      "book": "isaiah",
+      "reference": "Isaiah 53:8",
+      "anchor": "v53-8",
+      "before": "In his humiliation his judgment was taken away. Who will declare his generation? For his life is taken from the earth; because of the iniquities of My people he was led to death.",
+      "after": "In his humiliation his judgment was taken away. Who will recount his generation? For his life is taken from the earth; because of the iniquities of My people he was led to death.",
+      "display_before": "In his humiliation his judgment was taken away.\nWho will declare his generation?\nFor his life is taken from the earth;\nbecause of the iniquities of My people he was led to death.",
+      "display_after": "In his humiliation his judgment was taken away.\nWho will recount his generation?\nFor his life is taken from the earth;\nbecause of the iniquities of My people he was led to death.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/ISA.53",
+        "https://www.die-bibel.de/en/bible/NA28/ACT.8"
+      ],
+      "rationale": "Aligns the shared διηγήσεται with Acts 8:33. Keeps Isaiah’s additional final line about the iniquities of My people."
+    },
+    {
+      "book": "isaiah",
+      "reference": "Isaiah 58:6",
+      "anchor": "v58-6",
+      "before": "‘It is not such a fast that I chose,’ says the Lord. ‘Instead, loosen every bond of injustice, undo the strangling ties of coercive agreements, release the crushed, and tear up every unjust written contract.",
+      "after": "‘It is not such a fast that I chose,’ says the Lord. ‘Instead, loosen every bond of injustice, undo the strangling ties of coercive agreements, let the crushed go free, and tear up every unjust written contract.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/ISA.58",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4"
+      ],
+      "rationale": "Makes the result of sending the crushed away in release clear in English. Luke 4:18 draws on the same Greek clause."
+    },
+    {
+      "book": "isaiah",
+      "reference": "Isaiah 61:1",
+      "anchor": "v61-1",
+      "before": "The Lord’s spirit is upon me, because He anointed me. He sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to captives and recovery of sight to the blind,",
+      "after": "The Spirit of the Lord is upon me, because He anointed me. He has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to captives and recovery of sight to the blind,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/ISA.61",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4"
+      ],
+      "rationale": "Shares the natural opening with Luke 4:18. The Greek perfect ἀπέσταλκεν is ‘has sent’. Keeps Isaiah’s healing clause and its different syntax for the purpose of the sending."
+    },
+    {
+      "book": "isaiah",
+      "reference": "Isaiah 61:2",
+      "anchor": "v61-2",
+      "before": "to announce the Lord’s acceptable year and a day of recompense, to comfort all who mourn,",
+      "after": "to announce the Lord’s year of favor and a day of recompense, to comfort all who mourn,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/ISA.61",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4"
+      ],
+      "rationale": "‘Year of favor’ gives δεκτός natural English. Isaiah’s καλέσαι stays ‘announce’, alongside Luke’s ‘proclaim’ for κηρύξαι. Retains Isaiah’s recompense and mourning clauses."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 5:6",
+      "anchor": "v5-6",
+      "before": "as He also says in another place, “Thou art a priest for the age, according to the order of Melchizedek.”",
+      "after": "as He also says in another place, “Thou art a priest forever, according to the order of Melchizedek.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.5",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "Renders εἰς τὸν αἰῶνα consistently with Psalms 109:4. In Hebrews 7:16 and 23–25 the indestructible life and enduring priesthood establish the meaning in context."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 6:20",
+      "anchor": "v6-20",
+      "before": "where Jesus entered as a forerunner on our behalf, having become high priest for the age according to the order of Melchizedek.",
+      "after": "where Jesus entered as a forerunner on our behalf, having become high priest forever according to the order of Melchizedek.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.6",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "Renders εἰς τὸν αἰῶνα consistently with Psalms 109:4. In Hebrews 7:16 and 23–25 the indestructible life and enduring priesthood establish the meaning in context."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 7:17",
+      "anchor": "v7-17",
+      "before": "For it is testified, “Thou art a priest for the age, according to the order of Melchizedek.”",
+      "after": "For it is testified, “Thou art a priest forever, according to the order of Melchizedek.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "Renders εἰς τὸν αἰῶνα consistently with Psalms 109:4. In Hebrews 7:16 and 23–25 the indestructible life and enduring priesthood establish the meaning in context."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 7:21",
+      "anchor": "v7-21",
+      "before": "but He with an oath through the One who said to Him, “The Lord swore and will not change His mind: Thou art a priest for the age”—",
+      "after": "but He with an oath through the One who said to Him, “The Lord swore and will not change His mind: Thou art a priest forever”—",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "Renders εἰς τὸν αἰῶνα consistently with Psalms 109:4. In Hebrews 7:16 and 23–25 the indestructible life and enduring priesthood establish the meaning in context."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 7:24",
+      "anchor": "v7-24",
+      "before": "but He, because He remains for the age, has a permanent priesthood.",
+      "after": "but He, because He remains forever, has a permanent priesthood.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "Renders εἰς τὸν αἰῶνα consistently with Psalms 109:4. In Hebrews 7:16 and 23–25 the indestructible life and enduring priesthood establish the meaning in context."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 7:28",
+      "anchor": "v7-28",
+      "before": "For the law appoints people subject to weakness as high priests, but the word of the oath, which came after the law, appoints a Son, perfected for the age.",
+      "after": "For the law appoints people subject to weakness as high priests, but the word of the oath, which came after the law, appoints a Son, perfected forever.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.7"
+      ],
+      "rationale": "Renders εἰς τὸν αἰῶνα consistently with Psalms 109:4. In Hebrews 7:16 and 23–25 the indestructible life and enduring priesthood establish the meaning in context."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 10:7",
+      "anchor": "v10-7",
+      "before": "Then I said, ‘Look, I have come—in the scroll of the book it is written about Me—to do Thy will, O God.’”",
+      "after": "Then I said, ‘Behold, I have come—in the scroll of the book it is written concerning Me—to do Thy will, O God.’”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.39",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.10"
+      ],
+      "rationale": "Echoes the Psalm’s English rendering for two identical Greek expressions. Retains the distinct placement of the address to God and the purpose clause in Hebrews."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 10:9",
+      "anchor": "v10-9",
+      "before": "He then said, “Look, I have come to do Thy will.” He takes away the first in order to establish the second.",
+      "after": "He then said, “Behold, I have come to do Thy will.” He takes away the first in order to establish the second.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/PSA.39",
+        "https://www.die-bibel.de/en/bible/NA28/HEB.10"
+      ],
+      "rationale": "Echoes the repeated ἰδού with the same English cue as 10:7 and Psalms 39:8."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 1:8",
+      "anchor": "v1-8",
+      "before": "But concerning the Son, “Thy throne, O God, is for the age of the age, and the scepter of uprightness is the scepter of Thy kingdom.",
+      "after": "But concerning the Son, “Thy throne, O God, endures forever and ever, and the scepter of uprightness is the scepter of Thy kingdom.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/HEB.1",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.44"
+      ],
+      "rationale": "Render the doubled age formula as enduring perpetuity in audible English. Preserve the address to God and the wording of the scepter clause."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 3:9",
+      "anchor": "v3-9",
+      "before": "where your fathers tested Me with a trial and saw My works",
+      "after": "where your fathers put Me to the test and saw My works",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/HEB.3",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.94"
+      ],
+      "rationale": "The cognate trial expression denotes testing. The English idiom carries the force without a clumsy doublet. Hebrews still puts forty years with seeing the works, while Psalm 94 puts it with God's indignation."
+    },
+    {
+      "book": "hebrews",
+      "reference": "Hebrews 8:8",
+      "anchor": "v8-8",
+      "before": "For, finding fault with them, He says, “Look, days are coming, says the Lord, and I will conclude a new covenant with the house of Israel and with the house of Judah,",
+      "after": "For, finding fault with them, He says, “Behold, days are coming, says the Lord, and I will conclude a new covenant with the house of Israel and with the house of Judah,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/HEB.8",
+        "https://www.die-bibel.de/en/bible/LXX/JER.38"
+      ],
+      "rationale": "The proclamation preserves the force of ἰδού and echoes the existing Jeremiah wording. Retain 'conclude' for Hebrews' distinct covenant verb."
+    },
+    {
+      "book": "1-peter",
+      "reference": "1 Peter 1:24",
+      "anchor": "v1-24",
+      "before": "For “All flesh is like grass, and all its glory like a flower of grass. The grass withered, and the flower fell,",
+      "after": "For “All flesh is like grass, and all its glory like a flower of grass. The grass has withered, and the flower has fallen,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/1PE.1",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.40"
+      ],
+      "rationale": "Repeat the audible cadence and wording of the shared aorist clause in Isaiah 40:7 while preserving Peter's distinct 'like grass,' 'its glory,' and, in the next verse, 'the Lord.'"
+    },
+    {
+      "book": "1-peter",
+      "reference": "1 Peter 2:6",
+      "anchor": "v2-6",
+      "before": "For it stands in Scripture: “Look, I am laying in Zion a stone, a chosen, precious cornerstone, and the one who believes in Him will certainly not be put to shame.”",
+      "after": "For it stands in Scripture: “Behold, I am laying in Zion a stone, a chosen, precious cornerstone, and the one who believes in Him will certainly not be put to shame.”",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/1PE.2",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.28"
+      ],
+      "rationale": "Use the same opening call as the Isaiah citation while preserving Peter's distinct form of the cornerstone passage."
+    },
+    {
+      "book": "1-peter",
+      "reference": "1 Peter 2:24",
+      "anchor": "v2-24",
+      "before": "He Himself bore our sins in His body upon the tree, so that, having died to sins, we might live to righteousness. By His wound you were healed.",
+      "after": "He Himself bore our sins in His body upon the tree, so that, having died to sins, we might live for righteousness. By His bruise you were healed.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/1PE.2",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.53"
+      ],
+      "rationale": "Render the dative purpose in natural English and use the specific injury image, a single bruise or welt, as in Isaiah 53:5. Keep Peter's 'you' distinct from Isaiah's 'we.'"
+    },
+    {
+      "book": "1-peter",
+      "reference": "1 Peter 3:15",
+      "anchor": "v3-15",
+      "before": "but sanctify Christ as Lord in your hearts, always ready to give a defense to everyone who asks you for an account of the hope within you,",
+      "after": "but hallow Christ as Lord in your hearts, always ready to give a defense to everyone who asks you for an account of the hope within you,",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/1PE.3",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.8"
+      ],
+      "rationale": "Hallow means to hold sacred. It retains the imperative's force without suggesting that readers make Christ holy. Peter's Christ reference remains explicit against Isaiah's wording."
+    },
+    {
+      "book": "jeremiah",
+      "reference": "Jeremiah 7:11",
+      "anchor": "v7-11",
+      "before": "is My house, over which My name has been called there, a robbers’ cave before you? And behold, I have seen, says the Lord.",
+      "after": "is My house, over which My name has been called there, a den of robbers before you? And behold, I have seen, says the Lord.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/JER.7",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.21",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.11",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.19"
+      ],
+      "rationale": "Aligns the rendering of the identical Greek σπήλαιον λῃστῶν with Jesus’ words in the Synoptic temple accounts. Keeps the distinct question in Jeremiah."
+    },
+    {
+      "book": "hosea",
+      "reference": "Hosea 2:1",
+      "anchor": "v2-1",
+      "before": "The number of Israel’s sons was like the sand of the sea, which will not be measured or counted. In the place where it was said to them, ‘You are not My people,’ there they will be called sons of the living God.",
+      "after": "The number of Israel’s sons was like the sand of the sea, which will not be measured or counted. And it shall come to pass that in the place where it was said to them, ‘You are not My people,’ there they will be called sons of the living God.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/HOS.2",
+        "https://www.die-bibel.de/en/bible/NA28/ROM.9"
+      ],
+      "rationale": "Restore the future formula καὶ ἔσται, which the English had omitted in both Hosea and Paul. Keep the Psalm-like sand image and the earlier past tense in Hosea’s opening clause."
+    }
+  ],
+  "retained_source_distinctions": [
+    {
+      "references": [
+        "Luke 4:4",
+        "Matthew 4:4",
+        "Deuteronomy 8:3"
+      ],
+      "note": "The shared opening is consistent. Luke’s running text ends after bread alone, while Matthew and Deuteronomy continue.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.4",
+        "https://www.die-bibel.de/en/bible/LXX/DEU.8"
+      ]
+    },
+    {
+      "references": [
+        "Luke 4:18–19",
+        "Isaiah 58:6",
+        "Isaiah 61:1–2"
+      ],
+      "note": "Luke includes the release of the crushed from Isaiah 58:6. The healing of the brokenhearted and the day of recompense remain in Isaiah 61. Luke’s displayed NA28 text has neither clause.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/LUK.4",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.58",
+        "https://www.die-bibel.de/en/bible/LXX/ISA.61"
+      ]
+    },
+    {
+      "references": [
+        "Matthew 22:44",
+        "Mark 12:36",
+        "Luke 20:42–43",
+        "Psalms 109:1"
+      ],
+      "note": "Matthew and Mark say ‘beneath Thy feet’. Luke and the Psalm retain the footstool image.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MAT.22",
+        "https://www.die-bibel.de/en/bible/NA28/MRK.12",
+        "https://www.die-bibel.de/en/bible/NA28/LUK.20",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.109"
+      ]
+    },
+    {
+      "references": [
+        "Acts 15:17",
+        "Amos 9:12"
+      ],
+      "note": "Acts names the Lord as the object of seeking. The working Greek text of Amos leaves the object implicit.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ACT.15",
+        "https://www.die-bibel.de/en/bible/LXX/AMO.9"
+      ]
+    },
+    {
+      "references": [
+        "Hebrews 10:5",
+        "Psalms 39:7"
+      ],
+      "note": "Hebrews reads ‘a body’. The Rahlfs–Hanhart running text of the Psalm reads ‘ears’. Each wording is preserved in its own passage.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/HEB.10",
+        "https://www.die-bibel.de/en/bible/LXX/PSA.39"
+      ]
+    },
+    {
+      "references": [
+        "Exodus 3:14",
+        "John 8:58"
+      ],
+      "note": "The possible echo remains visible in the inherited English. Exodus calls God ‘the One Who Is’, while the words of Jesus in John are ‘I am’. The Greek phrases differ, and John does not introduce them as a quotation.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/EXO.3",
+        "https://www.die-bibel.de/en/bible/NA28/JHN.8"
+      ]
+    },
+    {
+      "references": [
+        "Mark 10:7",
+        "Matthew 19:5",
+        "Genesis 2:24"
+      ],
+      "note": "NA28 prints the clause about cleaving to one’s wife in square brackets in Mark. This pass retains the archive’s reading and records the bracketed status here.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/MRK.10",
+        "https://www.die-bibel.de/en/bible/NA28/MAT.19",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.2"
+      ]
+    }
+  ]
+}
