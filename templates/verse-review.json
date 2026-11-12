@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "record_type": "verse_review_template",
+  "is_template": true,
+  "status": "template_not_reviewed",
+  "guidance": {
+    "identity": "Copy the actual book, reading-section and anchor identity; do not invent a conventional verse for a special unit.",
+    "token_alignment": "Populate greek_tokens with token_id, form, lemma, morphology, clause_id, english_spans, realization_type and rationale. realization_type can be explicit, grammatical, implicit or unresolved. Account for every token with many-to-many alignment when needed.",
+    "alternatives": "Record reading, category (textual_variant or translation_alternative), evidence_ids, rationale and disposition. Do not invent consulted sources.",
+    "reviewers": "Record reviewer identity, human_or_ai, qualification/role, independence, exact scope, date and decision; an AI pass is not independent human review.",
+    "publication": "A prepared draft has no publication status beyond draft. Verify each output before recording release completion."
+  },
+  "review_id": null,
+  "batch_id": null,
+  "book_id": null,
+  "reading_section_id": null,
+  "verse_anchor": null,
+  "display_reference": null,
+  "baseline": {
+    "repository_commit": null,
+    "english_text": null,
+    "source_record": null
+  },
+  "source": {
+    "edition_id": null,
+    "textual_form": null,
+    "locator": null,
+    "accessed_on": null,
+    "greek_excerpt": null,
+    "excerpt_permissions": null,
+    "full_relevant_source_access_verified": false,
+    "apparatus_consulted": false
+  },
+  "analysis": {
+    "greek_tokens": [],
+    "clauses": [],
+    "semantic_notes": [],
+    "supplied_english": [],
+    "textual_variants": [],
+    "translation_alternatives": [],
+    "unresolved_questions": []
+  },
+  "drafts": {
+    "close": null,
+    "spoken": null,
+    "literary": null,
+    "final_candidate": null
+  },
+  "decision": {
+    "action": null,
+    "rationale": null,
+    "source_evidence_ids": [],
+    "benchmark_change": false,
+    "editorial_decision": null,
+    "decided_by": null,
+    "decided_on": null
+  },
+  "reviews": {
+    "source_collation": null,
+    "apparatus": null,
+    "independent_greek": null,
+    "human_read_aloud": null,
+    "editorial_acceptance": null
+  },
+  "relationships": {
+    "quotation_links": [],
+    "glossary_ids": [],
+    "word_study_ids": [],
+    "highlight_records": [],
+    "alternate_numbering": []
+  },
+  "evidence": [],
+  "publication": {
+    "snapshot_id": null,
+    "staging_receipt": null,
+    "production_receipt": null,
+    "affected_outputs": [],
+    "rollback_record": null
+  }
+}

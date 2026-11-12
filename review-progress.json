@@ -1,0 +1,4317 @@
+{
+  "schema_version": "1.0",
+  "programme": "Bespoke Saints English Greek-led translation and review",
+  "updated": "2026-11-12",
+  "roadmap": "ROADMAP.md",
+  "standard": "TRANSLATION-STANDARD.md",
+  "word_studies_plan": "docs/WORD-STUDIES.md",
+  "baseline": {
+    "repository_commit": "6d1b2eaf6a8b1dfaf894e8554416fbbec24ecdba",
+    "legacy_progress": "progress.json",
+    "legacy_book_count": 70,
+    "reported_reading_sections": 1297,
+    "reported_stored_units": 34523,
+    "count_evidence": "review-2026-11-09.md",
+    "counts_freshly_recomputed": false
+  },
+  "status": "planning_prepared",
+  "new_programme_completed_units": 0,
+  "counting_policy": "Zero counts refer only to new programme work. Historical scoped review coverage is not yet reconciled, not assumed absent. Null means unknown, not zero. Count distinct composite passage identities against the recorded snapshot.",
+  "stage_keys": [
+    "source_collation",
+    "apparatus_review",
+    "independent_greek_review",
+    "human_read_aloud",
+    "editorial_acceptance",
+    "staging_verification",
+    "production_release"
+  ],
+  "next_batch": {
+    "id": "GT-001",
+    "book": "Genesis",
+    "scope": "Genesis 1:1–5",
+    "status": "not_started",
+    "first_step": "Verify the exact Genesis 1 source, then record fresh close drafts beside accepted wording.",
+    "source_policy": "Use the already authorized Rahlfs–Hanhart provisional route if Göttingen is inaccessible, preserving the access limitation."
+  },
+  "word_studies": {
+    "next_batch": "WS-001",
+    "next_content_pilot": "WS-002: James 2:24",
+    "status": "planned_with_draft_example",
+    "existing_coverage_total": null,
+    "new_published_studies": 0,
+    "new_source_checked_studies": 0,
+    "new_independently_reviewed_studies": 0,
+    "notes": "Example content and workflow documented in docs/WORD-STUDIES.md; no live studies updated."
+  },
+  "batches": [
+    {
+      "id": "GT-001",
+      "scope": "Genesis 1:1–5",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "GT-002",
+      "scope": "Remainder of Genesis 1",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "GT-003",
+      "scope": "John 1:1–18",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "GT-004",
+      "scope": "Psalm 22 LXX / 23 MT; Isaiah 53; Acts 8:32–35",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "GT-005",
+      "scope": "Romans 3:21–31; James 2:14–26",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "GT-006",
+      "scope": "Exceptional reading-unit publishing fixtures",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "WS-001",
+      "scope": "Existing highlighted studies inventory",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "WS-002",
+      "scope": "James 2:24 word and phrase popup pilot",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "WS-003",
+      "scope": "10–20 representative word-study occurrences",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "WS-004",
+      "scope": "Staging popup integration",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "WS-005",
+      "scope": "Book-by-book word-study expansion",
+      "status": "not_started",
+      "evidence": []
+    }
+  ],
+  "books": [
+    {
+      "order": 1,
+      "book": "Genesis",
+      "book_id": "genesis",
+      "division": "law",
+      "testament": "OT",
+      "legacy_records": "genesis/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "genesis/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": "GT-001"
+    },
+    {
+      "order": 2,
+      "book": "Exodus",
+      "book_id": "exodus",
+      "division": "law",
+      "testament": "OT",
+      "legacy_records": "exodus/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "exodus/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 3,
+      "book": "Leviticus",
+      "book_id": "leviticus",
+      "division": "law",
+      "testament": "OT",
+      "legacy_records": "leviticus/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "leviticus/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 4,
+      "book": "Numbers",
+      "book_id": "numbers",
+      "division": "law",
+      "testament": "OT",
+      "legacy_records": "numbers/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "numbers/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 5,
+      "book": "Deuteronomy",
+      "book_id": "deuteronomy",
+      "division": "law",
+      "testament": "OT",
+      "legacy_records": "deuteronomy/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "deuteronomy/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 6,
+      "book": "Joshua",
+      "book_id": "joshua",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "joshua/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "joshua/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 7,
+      "book": "Judges",
+      "book_id": "judges",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "judges/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "judges/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 8,
+      "book": "Ruth",
+      "book_id": "ruth",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "ruth/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "ruth/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 9,
+      "book": "1 Samuel",
+      "book_id": "1-samuel",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "1-samuel/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-samuel/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 10,
+      "book": "2 Samuel",
+      "book_id": "2-samuel",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "2-samuel/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-samuel/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 11,
+      "book": "1 Kings",
+      "book_id": "1-kings",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "1-kings/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-kings/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 12,
+      "book": "2 Kings",
+      "book_id": "2-kings",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "2-kings/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-kings/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 13,
+      "book": "1 Chronicles",
+      "book_id": "1-chronicles",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "1-chronicles/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-chronicles/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 14,
+      "book": "2 Chronicles",
+      "book_id": "2-chronicles",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "2-chronicles/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-chronicles/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 15,
+      "book": "1 Maccabees",
+      "book_id": "1-maccabees",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "1-maccabees/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-maccabees/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 16,
+      "book": "2 Maccabees",
+      "book_id": "2-maccabees",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "2-maccabees/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-maccabees/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 17,
+      "book": "Ezra",
+      "book_id": "ezra",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "ezra/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "ezra/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 18,
+      "book": "Nehemiah",
+      "book_id": "nehemiah",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "nehemiah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "nehemiah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 19,
+      "book": "Esther",
+      "book_id": "esther",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "esther/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "esther/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 20,
+      "book": "Job",
+      "book_id": "job",
+      "division": "judgement",
+      "testament": "OT",
+      "legacy_records": "job/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "job/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 21,
+      "book": "Psalms",
+      "book_id": "psalms",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "psalms/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "psalms/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 22,
+      "book": "Proverbs",
+      "book_id": "proverbs",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "proverbs/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "proverbs/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 23,
+      "book": "Ecclesiastes",
+      "book_id": "ecclesiastes",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "ecclesiastes/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "ecclesiastes/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 24,
+      "book": "Song of Songs",
+      "book_id": "song-of-songs",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "song-of-songs/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "song-of-songs/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 25,
+      "book": "Lamentations",
+      "book_id": "lamentations",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "lamentations/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "lamentations/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 26,
+      "book": "Wisdom of Solomon",
+      "book_id": "wisdom-of-solomon",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "wisdom-of-solomon/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "wisdom-of-solomon/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 27,
+      "book": "Sirach",
+      "book_id": "sirach",
+      "division": "wisdom",
+      "testament": "OT",
+      "legacy_records": "sirach/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "sirach/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 28,
+      "book": "Isaiah",
+      "book_id": "isaiah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "isaiah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "isaiah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 29,
+      "book": "Jeremiah",
+      "book_id": "jeremiah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "jeremiah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "jeremiah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 30,
+      "book": "Ezekiel",
+      "book_id": "ezekiel",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "ezekiel/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "ezekiel/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 31,
+      "book": "Daniel",
+      "book_id": "daniel",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "daniel/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "daniel/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 32,
+      "book": "Hosea",
+      "book_id": "hosea",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "hosea/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "hosea/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 33,
+      "book": "Joel",
+      "book_id": "joel",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "joel/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "joel/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 34,
+      "book": "Amos",
+      "book_id": "amos",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "amos/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "amos/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 35,
+      "book": "Obadiah",
+      "book_id": "obadiah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "obadiah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "obadiah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 36,
+      "book": "Jonah",
+      "book_id": "jonah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "jonah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "jonah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 37,
+      "book": "Micah",
+      "book_id": "micah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "micah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "micah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 38,
+      "book": "Nahum",
+      "book_id": "nahum",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "nahum/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "nahum/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 39,
+      "book": "Habakkuk",
+      "book_id": "habakkuk",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "habakkuk/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "habakkuk/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 40,
+      "book": "Zephaniah",
+      "book_id": "zephaniah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "zephaniah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "zephaniah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 41,
+      "book": "Haggai",
+      "book_id": "haggai",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "haggai/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "haggai/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 42,
+      "book": "Zechariah",
+      "book_id": "zechariah",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "zechariah/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "zechariah/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 43,
+      "book": "Malachi",
+      "book_id": "malachi",
+      "division": "providence",
+      "testament": "OT",
+      "legacy_records": "malachi/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "malachi/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
+      "target_review": "Book-specific Göttingen comparison where available and accessible",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 44,
+      "book": "Matthew",
+      "book_id": "matthew",
+      "division": "salvation",
+      "testament": "NT",
+      "legacy_records": "matthew/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "matthew/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 45,
+      "book": "Mark",
+      "book_id": "mark",
+      "division": "salvation",
+      "testament": "NT",
+      "legacy_records": "mark/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "mark/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 46,
+      "book": "Luke",
+      "book_id": "luke",
+      "division": "salvation",
+      "testament": "NT",
+      "legacy_records": "luke/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "luke/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 47,
+      "book": "John",
+      "book_id": "john",
+      "division": "salvation",
+      "testament": "NT",
+      "legacy_records": "john/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "john/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 48,
+      "book": "Acts",
+      "book_id": "acts",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "acts/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "acts/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 49,
+      "book": "Romans",
+      "book_id": "romans",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "romans/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "romans/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 50,
+      "book": "1 Corinthians",
+      "book_id": "1-corinthians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "1-corinthians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-corinthians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 51,
+      "book": "2 Corinthians",
+      "book_id": "2-corinthians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "2-corinthians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-corinthians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 52,
+      "book": "Galatians",
+      "book_id": "galatians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "galatians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "galatians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 53,
+      "book": "Ephesians",
+      "book_id": "ephesians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "ephesians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "ephesians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 54,
+      "book": "Philippians",
+      "book_id": "philippians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "philippians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "philippians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 55,
+      "book": "Colossians",
+      "book_id": "colossians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "colossians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "colossians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 56,
+      "book": "1 Thessalonians",
+      "book_id": "1-thessalonians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "1-thessalonians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-thessalonians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 57,
+      "book": "2 Thessalonians",
+      "book_id": "2-thessalonians",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "2-thessalonians/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-thessalonians/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 58,
+      "book": "1 Timothy",
+      "book_id": "1-timothy",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "1-timothy/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-timothy/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 59,
+      "book": "2 Timothy",
+      "book_id": "2-timothy",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "2-timothy/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-timothy/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 60,
+      "book": "Titus",
+      "book_id": "titus",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "titus/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "titus/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 61,
+      "book": "Philemon",
+      "book_id": "philemon",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "philemon/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "philemon/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 62,
+      "book": "Hebrews",
+      "book_id": "hebrews",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "hebrews/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "hebrews/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 63,
+      "book": "James",
+      "book_id": "james",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "james/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "james/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 64,
+      "book": "1 Peter",
+      "book_id": "1-peter",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "1-peter/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-peter/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 65,
+      "book": "2 Peter",
+      "book_id": "2-peter",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "2-peter/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-peter/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 66,
+      "book": "1 John",
+      "book_id": "1-john",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "1-john/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "1-john/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 67,
+      "book": "2 John",
+      "book_id": "2-john",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "2-john/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "2-john/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 68,
+      "book": "3 John",
+      "book_id": "3-john",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "3-john/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "3-john/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 69,
+      "book": "Jude",
+      "book_id": "jude",
+      "division": "discipleship",
+      "testament": "NT",
+      "legacy_records": "jude/",
+      "legacy_status": "English pass and staging verification complete; specialist review pending",
+      "legacy_source_record": "jude/source-checks.json",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    },
+    {
+      "order": 70,
+      "book": "Revelation",
+      "book_id": "revelation",
+      "division": "glory",
+      "testament": "NT",
+      "legacy_records": "revelation/",
+      "legacy_status": "NA28 running-text comparison and provisional English pass complete; staging verified; specialist review pending",
+      "legacy_source_record": "revelation/source-checks.md",
+      "programme_status": "awaiting_evidence_reconciliation",
+      "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
+      "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
+      "total_units_verified_for_programme": null,
+      "new_programme_completed_units": 0,
+      "stages": {
+        "source_collation": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "apparatus_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "independent_greek_review": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "human_read_aloud": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "editorial_acceptance": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "staging_verification": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        },
+        "production_release": {
+          "new_programme_units": 0,
+          "historical_verified_units": null,
+          "evidence": []
+        }
+      },
+      "word_studies": {
+        "existing_occurrences": null,
+        "reviewed_current_occurrences": null,
+        "stale_occurrences": null,
+        "published_new_occurrences": 0
+      },
+      "issues": [],
+      "next_batch": null
+    }
+  ]
+}

@@ -2,6 +2,19 @@
 
 Book-by-book Bespoke Saints English editorial editions, change records and review status.
 
+## Greek translation and word-study programme
+
+**[Read the Greek Translation Roadmap](ROADMAP.md)** — accuracy first, natural reading aloud second, reverent poetic English third.
+
+- [Translation standard](TRANSLATION-STANDARD.md) and [source/access register](docs/SOURCE-REGISTER.md).
+- [Highlighted word and phrase studies](docs/WORD-STUDIES.md), including the James 2:24 popup pilot.
+- [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).
+- [Wider Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md).
+
+The programme was documented on 12 November 2026. The historical book records below describe provisional English editorial work and their dated verification. They do not establish completion of the new full Greek-review programme. No Scripture or website wording changes are made by this planning release.
+
+## Existing book records
+
 - [Genesis — 50 chapters](genesis/README.md): accepted benchmark for 1–11; provisional editorial revision for 12–50. Staging verified on 14 October 2026.
 - [Exodus — 40 chapters](exodus/README.md): provisional editorial revision; 1,165 verse units, 531 wording changes. Staging verified on 14 October 2026.
 - [Leviticus — 27 chapters](leviticus/README.md): provisional editorial revision; 859 verse units, 537 wording changes; 93 word-study phrases aligned. Staging verified on 14 October 2026.

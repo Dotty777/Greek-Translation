@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "record_type": "word_or_phrase_study_template",
+  "is_template": true,
+  "status": "template_not_reviewed",
+  "guidance": {
+    "scope": "An occurrence study links a general lemma entry to an exact verse or phrase. Keep theological interpretations distinct from lexical analysis.",
+    "spans": "Use exact source token IDs plus English span selectors tied to a text snapshot. Include the selected text and contextual anchors; validate after revision.",
+    "alternatives": "Each alternative needs wording, classification (direct_rendering, explanatory_rendering or interpretive_reading), evidence_ids, contextual_reason and limitation.",
+    "interpretations": "Each attributed view needs named source/author/tradition, exact locator, source_checked_on, accurate summary, relation to the Greek evidence and review status.",
+    "colour": "Thematic categories describe context, not lexical senses. Studies must remain reachable when colours are disabled.",
+    "publication": "Do not auto-publish a draft or a stale study. Confirm the existing storage/renderer before adapting this planning shape."
+  },
+  "study_id": null,
+  "lemma_entry_ids": [],
+  "record_kind": null,
+  "book_id": null,
+  "reading_section_id": null,
+  "verse_anchor": null,
+  "display_reference": null,
+  "text_snapshot": {
+    "repository_commit": null,
+    "edition_id": null,
+    "english_text": null,
+    "english_text_hash": null
+  },
+  "source": {
+    "greek_edition_id": null,
+    "source_locator": null,
+    "greek_forms": [],
+    "lemmas": [],
+    "transliteration": null,
+    "morphology": [],
+    "greek_token_ids": []
+  },
+  "english_spans": [],
+  "summary": null,
+  "meaning_in_context": null,
+  "why_this_wording": null,
+  "alternatives": [],
+  "phrase_analysis": null,
+  "interpretations": [],
+  "related_passages": [],
+  "theme_categories": [],
+  "theme_rationale": null,
+  "evidence": [],
+  "review": {
+    "source_checked": null,
+    "language_reviewed": null,
+    "theological_attributions_reviewed": null,
+    "editorially_accepted": null,
+    "independently_reviewed": null
+  },
+  "freshness": {
+    "status": "draft",
+    "last_validated_against_snapshot": null,
+    "stale_reason": null
+  },
+  "publication": {
+    "state": "not_published",
+    "staging_url": null,
+    "release_snapshot": null,
+    "offline_inclusion": null
+  },
+  "accessibility": {
+    "accessible_label": null,
+    "full_study_url": null
+  },
+  "revision_history": []
+}

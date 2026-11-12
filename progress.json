@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-12",
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Review the seventy-book Bespoke edition for Greek fidelity and an elevated, readable English register.",
   "completion_definition": "Completed book records count provisional English editorial passes with staging verification and a GitHub record. Full Bible completion also requires outstanding source, independent Greek and read-aloud reviews.",
@@ -910,5 +910,15 @@
   },
   "new_testament_completed_book_records": 27,
   "new_testament_pending_book_revisions": 0,
-  "provisional_editorial_pass_complete": true
+  "provisional_editorial_pass_complete": true,
+  "review_programme": {
+    "roadmap": "ROADMAP.md",
+    "tracker": "review-progress.json",
+    "standard": "TRANSLATION-STANDARD.md",
+    "word_studies": "docs/WORD-STUDIES.md",
+    "status": "planning_prepared",
+    "next_batch": "GT-001: Genesis 1:1–5",
+    "next_word_study_pilot": "WS-002: James 2:24",
+    "note": "Existing completion fields describe the inherited provisional editorial pass. New Greek collation, independent review and word-study coverage are tracked separately; no new Scripture or website changes are claimed."
+  }
 }
