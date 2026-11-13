@@ -1,0 +1,45 @@
+{
+  "batch_id": "OT-008",
+  "result": "pass",
+  "stored_units": 244,
+  "chapter_counts": {
+    "31": 53,
+    "32": 33,
+    "33": 20,
+    "34": 31,
+    "35": 28,
+    "36": 43,
+    "37": 36
+  },
+  "proposal_references": [
+    "Genesis 31:44"
+  ],
+  "checks": [
+    "Every inherited scoped unit appears exactly once in order",
+    "Baseline text and IDs equal pinned Git source",
+    "All close/spoken/literary drafts populated",
+    "Candidate hashes recomputed from UTF-8 text",
+    "No fabricated 31:51 or 35:21",
+    "Chapter 32 retains all 33 units including Laban farewell and sinew explanation",
+    "No inherited poetic units in assigned scope; changed poetry would require explicit display text",
+    "All original book files remain unchanged",
+    "No human review, apparatus review, acceptance or publication claimed"
+  ],
+  "source_specific_numeric_checks": {
+    "31:7": "ten lambs retained",
+    "31:41": "fourteen + six = twenty years; ten ewe lambs retained",
+    "32:7": "400 men",
+    "32:15": "200 female goats;20 male goats;200 sheep;20 rams",
+    "32:16": "30 nursing camels with young;40 cows;10 bulls;20 donkeys;10 foals;camel numeral scope unresolved",
+    "32:23": "two wives;two slave women;eleven children",
+    "33:3": "seven bows",
+    "33:19": "100 lambs",
+    "34:25": "third day",
+    "35:23-26": "six + two + two + two = twelve sons;birthplace summary unresolved",
+    "35:28": "Isaac180years",
+    "36:27": "four names retained",
+    "37:2": "Joseph17years",
+    "37:9": "eleven stars",
+    "37:28": "twenty gold pieces"
+  }
+}

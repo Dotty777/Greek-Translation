@@ -1,0 +1,2147 @@
+{
+  "edition_id": "Saints-English-OT-provisional-2026-11-12",
+  "title": "Bespoke Saints English — Complete Old Testament Reading Draft",
+  "date": "2026-11-12",
+  "updated": "2026-11-13",
+  "baseline_repository": "https://github.com/Dotty777/Greek-Translation",
+  "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+  "status": "complete_inherited_reading_manuscript_with_provisional_comparison_candidates",
+  "scope": "All 43 selected Old Testament books only. Existing project selection, order, source histories and exceptional units preserved.",
+  "source_policy": "Rahlfs–Hanhart 2006 provisional base with inherited book-specific records; Daniel uses Old Greek. No new Göttingen or full apparatus collation claimed.",
+  "authorship": "Inherited Saints English manuscript plus separately evidenced AI candidate proposals. Not 26,580 freshly translated or independently reviewed units.",
+  "counts": {
+    "books": 43,
+    "reading_sections": 1037,
+    "stored_units": 26580,
+    "attached_continuation_paragraphs": 7,
+    "reading_paragraphs_including_continuations": 26587,
+    "fresh_focused_comparison_continuation_paragraphs": 1,
+    "fresh_focused_comparison_units": 12912,
+    "inherited_without_new_comparison": 13668,
+    "proposed_changed_units": 336,
+    "retained_after_focused_comparison": 12576,
+    "new_token_aligned_units": 1,
+    "aligned_source_tokens": 19,
+    "three_stage_draft_units": 12815,
+    "independently_reviewed_units": 0,
+    "human_read_aloud_units": 0,
+    "new_editorially_accepted_units": 0,
+    "recovered_poetry_units": 32
+  },
+  "counting_policy": "Token-aligned units are a subset of the running-text comparison count, not an additional group. Three-stage drafts may deliberately retain the same wording; they do not credit human reading or acceptance.",
+  "book_inventory": [
+    {
+      "book_id": "genesis",
+      "book": "Genesis",
+      "division": "law",
+      "reading_sections": 50,
+      "stored_units": 1531,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 1531,
+      "proposed_changed_units": 26,
+      "token_aligned_units": 1,
+      "three_stage_draft_units": 1482,
+      "verse_path": "genesis/verses.json",
+      "source_record": "genesis/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "exodus",
+      "book": "Exodus",
+      "division": "law",
+      "reading_sections": 40,
+      "stored_units": 1165,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 1165,
+      "proposed_changed_units": 12,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 1165,
+      "verse_path": "exodus/verses.json",
+      "source_record": "exodus/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "leviticus",
+      "book": "Leviticus",
+      "division": "law",
+      "reading_sections": 27,
+      "stored_units": 859,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 859,
+      "proposed_changed_units": 3,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 859,
+      "verse_path": "leviticus/verses.json",
+      "source_record": "leviticus/source-checks.json",
+      "original_schema": "flat_verse_array"
+    },
+    {
+      "book_id": "numbers",
+      "book": "Numbers",
+      "division": "law",
+      "reading_sections": 36,
+      "stored_units": 1287,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 1287,
+      "proposed_changed_units": 10,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 1287,
+      "verse_path": "numbers/verses.json",
+      "source_record": "numbers/source-checks.json",
+      "original_schema": "flat_verse_array"
+    },
+    {
+      "book_id": "deuteronomy",
+      "book": "Deuteronomy",
+      "division": "law",
+      "reading_sections": 34,
+      "stored_units": 959,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 959,
+      "proposed_changed_units": 27,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 959,
+      "verse_path": "deuteronomy/verses.json",
+      "source_record": "deuteronomy/source-checks.json",
+      "original_schema": "flat_verse_array"
+    },
+    {
+      "book_id": "joshua",
+      "book": "Joshua",
+      "division": "judgement",
+      "reading_sections": 24,
+      "stored_units": 659,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 659,
+      "proposed_changed_units": 18,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 659,
+      "verse_path": "joshua/verses.json",
+      "source_record": "joshua/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "judges",
+      "book": "Judges",
+      "division": "judgement",
+      "reading_sections": 21,
+      "stored_units": 618,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 618,
+      "proposed_changed_units": 22,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 618,
+      "verse_path": "judges/verses.json",
+      "source_record": "judges/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ruth",
+      "book": "Ruth",
+      "division": "judgement",
+      "reading_sections": 4,
+      "stored_units": 85,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 85,
+      "proposed_changed_units": 2,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 85,
+      "verse_path": "ruth/verses.json",
+      "source_record": "ruth/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-samuel",
+      "book": "1 Samuel",
+      "division": "judgement",
+      "reading_sections": 31,
+      "stored_units": 773,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 773,
+      "proposed_changed_units": 58,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 773,
+      "verse_path": "1-samuel/verses.json",
+      "source_record": "1-samuel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-samuel",
+      "book": "2 Samuel",
+      "division": "judgement",
+      "reading_sections": 24,
+      "stored_units": 696,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 696,
+      "proposed_changed_units": 68,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 696,
+      "verse_path": "2-samuel/verses.json",
+      "source_record": "2-samuel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-kings",
+      "book": "1 Kings",
+      "division": "judgement",
+      "reading_sections": 22,
+      "stored_units": 822,
+      "continuation_paragraphs": 1,
+      "fresh_focused_comparison_units": 822,
+      "proposed_changed_units": 26,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 822,
+      "verse_path": "1-kings/verses.json",
+      "source_record": "1-kings/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-kings",
+      "book": "2 Kings",
+      "division": "judgement",
+      "reading_sections": 25,
+      "stored_units": 723,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 723,
+      "proposed_changed_units": 23,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 723,
+      "verse_path": "2-kings/verses.json",
+      "source_record": "2-kings/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-chronicles",
+      "book": "1 Chronicles",
+      "division": "judgement",
+      "reading_sections": 29,
+      "stored_units": 930,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 930,
+      "proposed_changed_units": 7,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 930,
+      "verse_path": "1-chronicles/verses.json",
+      "source_record": "1-chronicles/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-chronicles",
+      "book": "2 Chronicles",
+      "division": "judgement",
+      "reading_sections": 36,
+      "stored_units": 833,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 833,
+      "proposed_changed_units": 11,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 833,
+      "verse_path": "2-chronicles/verses.json",
+      "source_record": "2-chronicles/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-maccabees",
+      "book": "1 Maccabees",
+      "division": "judgement",
+      "reading_sections": 16,
+      "stored_units": 924,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 924,
+      "proposed_changed_units": 20,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 924,
+      "verse_path": "1-maccabees/verses.json",
+      "source_record": "1-maccabees/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-maccabees",
+      "book": "2 Maccabees",
+      "division": "judgement",
+      "reading_sections": 15,
+      "stored_units": 555,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "2-maccabees/verses.json",
+      "source_record": "2-maccabees/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ezra",
+      "book": "Ezra",
+      "division": "judgement",
+      "reading_sections": 10,
+      "stored_units": 280,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "ezra/verses.json",
+      "source_record": "ezra/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "nehemiah",
+      "book": "Nehemiah",
+      "division": "judgement",
+      "reading_sections": 13,
+      "stored_units": 392,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "nehemiah/verses.json",
+      "source_record": "nehemiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "esther",
+      "book": "Esther",
+      "division": "judgement",
+      "reading_sections": 10,
+      "stored_units": 246,
+      "continuation_paragraphs": 6,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "esther/verses.json",
+      "source_record": "esther/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "job",
+      "book": "Job",
+      "division": "judgement",
+      "reading_sections": 42,
+      "stored_units": 1083,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "job/verses.json",
+      "source_record": "job/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "psalms",
+      "book": "Psalms",
+      "division": "wisdom",
+      "reading_sections": 151,
+      "stored_units": 2534,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "psalms/verses.json",
+      "source_record": "psalms/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "proverbs",
+      "book": "Proverbs",
+      "division": "wisdom",
+      "reading_sections": 34,
+      "stored_units": 939,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "proverbs/verses.json",
+      "source_record": "proverbs/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ecclesiastes",
+      "book": "Ecclesiastes",
+      "division": "wisdom",
+      "reading_sections": 12,
+      "stored_units": 222,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "ecclesiastes/verses.json",
+      "source_record": "ecclesiastes/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "song-of-songs",
+      "book": "Song of Songs",
+      "division": "wisdom",
+      "reading_sections": 8,
+      "stored_units": 117,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "song-of-songs/verses.json",
+      "source_record": "song-of-songs/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "lamentations",
+      "book": "Lamentations",
+      "division": "wisdom",
+      "reading_sections": 5,
+      "stored_units": 150,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "lamentations/verses.json",
+      "source_record": "lamentations/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "wisdom-of-solomon",
+      "book": "Wisdom of Solomon",
+      "division": "wisdom",
+      "reading_sections": 19,
+      "stored_units": 435,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "wisdom-of-solomon/verses.json",
+      "source_record": "wisdom-of-solomon/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "sirach",
+      "book": "Sirach",
+      "division": "wisdom",
+      "reading_sections": 52,
+      "stored_units": 1374,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "sirach/verses.json",
+      "source_record": "sirach/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "isaiah",
+      "book": "Isaiah",
+      "division": "providence",
+      "reading_sections": 66,
+      "stored_units": 1289,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "isaiah/verses.json",
+      "source_record": "isaiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "jeremiah",
+      "book": "Jeremiah",
+      "division": "providence",
+      "reading_sections": 52,
+      "stored_units": 1296,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "jeremiah/verses.json",
+      "source_record": "jeremiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ezekiel",
+      "book": "Ezekiel",
+      "division": "providence",
+      "reading_sections": 48,
+      "stored_units": 1267,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "ezekiel/verses.json",
+      "source_record": "ezekiel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "daniel",
+      "book": "Daniel",
+      "division": "providence",
+      "reading_sections": 14,
+      "stored_units": 487,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "daniel/verses.json",
+      "source_record": "daniel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "hosea",
+      "book": "Hosea",
+      "division": "providence",
+      "reading_sections": 14,
+      "stored_units": 197,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "hosea/verses.json",
+      "source_record": "hosea/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "joel",
+      "book": "Joel",
+      "division": "providence",
+      "reading_sections": 4,
+      "stored_units": 73,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "joel/verses.json",
+      "source_record": "joel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "amos",
+      "book": "Amos",
+      "division": "providence",
+      "reading_sections": 9,
+      "stored_units": 146,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "amos/verses.json",
+      "source_record": "amos/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "obadiah",
+      "book": "Obadiah",
+      "division": "providence",
+      "reading_sections": 1,
+      "stored_units": 21,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "obadiah/verses.json",
+      "source_record": "obadiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "jonah",
+      "book": "Jonah",
+      "division": "providence",
+      "reading_sections": 4,
+      "stored_units": 48,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 48,
+      "proposed_changed_units": 3,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "jonah/verses.json",
+      "source_record": "jonah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "micah",
+      "book": "Micah",
+      "division": "providence",
+      "reading_sections": 7,
+      "stored_units": 105,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "micah/verses.json",
+      "source_record": "micah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "nahum",
+      "book": "Nahum",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 47,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "nahum/verses.json",
+      "source_record": "nahum/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "habakkuk",
+      "book": "Habakkuk",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 56,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "habakkuk/verses.json",
+      "source_record": "habakkuk/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "zephaniah",
+      "book": "Zephaniah",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 53,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "zephaniah/verses.json",
+      "source_record": "zephaniah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "haggai",
+      "book": "Haggai",
+      "division": "providence",
+      "reading_sections": 2,
+      "stored_units": 38,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "haggai/verses.json",
+      "source_record": "haggai/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "zechariah",
+      "book": "Zechariah",
+      "division": "providence",
+      "reading_sections": 14,
+      "stored_units": 211,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "zechariah/verses.json",
+      "source_record": "zechariah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "malachi",
+      "book": "Malachi",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 55,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "verse_path": "malachi/verses.json",
+      "source_record": "malachi/source-checks.json",
+      "original_schema": "chapter_container"
+    }
+  ],
+  "review_inputs": [
+    {
+      "path": "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json",
+      "sha256": "5cdb8cb28044e42a9719f21dd1b6ed613954606caabf6d1a304b66cee4d1df53",
+      "records": 31
+    },
+    {
+      "path": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "sha256": "00f0e03593adb6862c06b648e078630c774b9af7339348180c5bceb616c86816",
+      "records": 49
+    },
+    {
+      "path": "reviews/2026-11-12-OT-003-jonah/focused-reviews.json",
+      "sha256": "741cf105b71a34755f5d65350bffe1747c11c5f6b47a16ae95c6b913d7c6cedc",
+      "records": 48
+    },
+    {
+      "path": "reviews/2026-11-12-OT-004-genesis-4/focused-reviews.json",
+      "sha256": "7ddc874d80cfe3f2c5c83b0d05aa92de7493bdf6fdb7478264b67af489d76e06",
+      "records": 26
+    },
+    {
+      "path": "reviews/2026-11-12-OT-005-genesis-5-11/focused-reviews.json",
+      "sha256": "c4c449efbb3137395670e7cc800c53b22ef7c4b56d24974d1907c292dd0cb2d5",
+      "records": 193
+    },
+    {
+      "path": "reviews/2026-11-12-OT-006-genesis-12-20/focused-reviews.json",
+      "sha256": "d3c87f014d9ad9f4f7bd855b066c070c26f9cc7bcc59f3e6013391d6cc7f3043",
+      "records": 215
+    },
+    {
+      "path": "reviews/2026-11-12-OT-007-genesis-21-30/focused-reviews.json",
+      "sha256": "b7281aed592af84dd086c5a29784c94b13be79bd9eb28f41130f65f0b991c871",
+      "records": 360
+    },
+    {
+      "path": "reviews/2026-11-12-OT-008-genesis-31-37/focused-reviews.json",
+      "sha256": "00412ec7c4a3045c8cc8db297b3359f0e8a015b6fe857c827b62837847d1f2a8",
+      "records": 244
+    },
+    {
+      "path": "reviews/2026-11-12-OT-009-genesis-38-44/focused-reviews.json",
+      "sha256": "f7c8d0b04b86be2f4017508113f7be25cc08326ec66d7a291a7fa539c8e36272",
+      "records": 239
+    },
+    {
+      "path": "reviews/2026-11-12-OT-010-genesis-45-50/focused-reviews.json",
+      "sha256": "111d478f0acd98ed5dd3960316b60f9fccc8268398f111f8d4c7360b06357eb1",
+      "records": 174
+    },
+    {
+      "path": "reviews/2026-11-12-OT-011-exodus-1-2/focused-reviews.json",
+      "sha256": "d833c9e11f92e7854fc5210d9c8d2d03b27d01a690347393aadfc063451d7b86",
+      "records": 47
+    },
+    {
+      "path": "reviews/2026-11-12-OT-012-exodus-3-15/focused-reviews.json",
+      "sha256": "3082ee83c2b446f126161a53a2964c312ace21cd92c298619e02a2ac1e17e5c3",
+      "records": 368
+    },
+    {
+      "path": "reviews/2026-11-12-OT-013-exodus-16-27/focused-reviews.json",
+      "sha256": "498827443986a77bcdad77347ea46bb056e6e73aab816e4a422f13848a6b0394",
+      "records": 345
+    },
+    {
+      "path": "reviews/2026-11-12-OT-014-exodus-28-40/focused-reviews.json",
+      "sha256": "ef1097ea09a4efa0ce6a1f4923d55ec78d5898056df0a7e59f0b88cdf1608a88",
+      "records": 405
+    },
+    {
+      "path": "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json",
+      "sha256": "8bc6c37b49fd236f034edb0c0a7337730691cc3b4de38bf2f541ed0766ded77d",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-016-leviticus-4-7/focused-reviews.json",
+      "sha256": "b3e11330c38ab0278b953552f3c1aea0df2275b5ce7d3da38773bb03c4c7dcc7",
+      "records": 122
+    },
+    {
+      "path": "reviews/2026-11-13-OT-017-leviticus-8-10/focused-reviews.json",
+      "sha256": "876b32b49fdfd64f754154b2270b37978d7c969d9a8249d83f61d970d26bec9a",
+      "records": 80
+    },
+    {
+      "path": "reviews/2026-11-13-OT-018-leviticus-11-13/focused-reviews.json",
+      "sha256": "2b7b0842b7a74b58accc4cd9c7a45664e2b1fed487fc7ba2177fdd056e295388",
+      "records": 114
+    },
+    {
+      "path": "reviews/2026-11-13-OT-019-leviticus-14-15/focused-reviews.json",
+      "sha256": "27502aa12a892f2871907fe537f6bb67c875fe875466e68527b0b4f2441a6bdb",
+      "records": 90
+    },
+    {
+      "path": "reviews/2026-11-13-OT-020-leviticus-16-19/focused-reviews.json",
+      "sha256": "6baff42494da5f0a3eef2ce54d9de7512ae839e9c02ed0618e8272fcf528d696",
+      "records": 117
+    },
+    {
+      "path": "reviews/2026-11-13-OT-021-leviticus-20-22/focused-reviews.json",
+      "sha256": "de233c1cfbd36457a587f44f30682a179ab43288c0245a502e751386af3c4d3f",
+      "records": 84
+    },
+    {
+      "path": "reviews/2026-11-13-OT-022-leviticus-23-24/focused-reviews.json",
+      "sha256": "1de62b1722871369391a7b933a402f5b8dc06480245748537dead83907dac5bb",
+      "records": 67
+    },
+    {
+      "path": "reviews/2026-11-13-OT-023-leviticus-25-27/focused-reviews.json",
+      "sha256": "b1546ad5f957b72dd20f08e738b394c603f9548cc8c4af950504c5d36a940a0a",
+      "records": 135
+    },
+    {
+      "path": "reviews/2026-11-13-OT-024-numbers-1-2/focused-reviews.json",
+      "sha256": "d05583b49914d7e8d928eab942c22d0bde5b877d7448bf3355c279dfc0b6b93d",
+      "records": 88
+    },
+    {
+      "path": "reviews/2026-11-13-OT-025-numbers-3-4/focused-reviews.json",
+      "sha256": "818c4d86cc283dd66db6fd46bc624f05ad55c9a4504a63ed43c4d82a654cc836",
+      "records": 100
+    },
+    {
+      "path": "reviews/2026-11-13-OT-026-numbers-5-6/focused-reviews.json",
+      "sha256": "dad6c7208edea08de102b4fe769808a6db62a649f88f3a53feb8be30d2b7e858",
+      "records": 57
+    },
+    {
+      "path": "reviews/2026-11-13-OT-027-numbers-7/focused-reviews.json",
+      "sha256": "a86d0c5a3a09660203eaf144dd6b3d20e944dd2941f7dd98262a807e8f90cf47",
+      "records": 89
+    },
+    {
+      "path": "reviews/2026-11-13-OT-028-numbers-8-10/focused-reviews.json",
+      "sha256": "12ab5d2c4eea27668df47e44b5c448efa3cc419e05bb5857e73ff9b673698c15",
+      "records": 85
+    },
+    {
+      "path": "reviews/2026-11-13-OT-029-numbers-11-12/focused-reviews.json",
+      "sha256": "7ef76194ab0fe6316fcf88d6d7fa8fd2b677eb8f094754626ec8f427c74bb41a",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-030-numbers-13-14/focused-reviews.json",
+      "sha256": "f930c72451aab388a4f8782700e41638d59345289736afe7ba09b1c4b0c92b7d",
+      "records": 78
+    },
+    {
+      "path": "reviews/2026-11-13-OT-031-numbers-15-16/focused-reviews.json",
+      "sha256": "ad36a08859d4cf619912c41debb9f582b2e1c6b99faca252644a0a55da619233",
+      "records": 76
+    },
+    {
+      "path": "reviews/2026-11-13-OT-032-numbers-17-18/focused-reviews.json",
+      "sha256": "cf7a144dc2501853b57649d3f302ebe00a4873a31df52a8a9485665be0ec87a0",
+      "records": 60
+    },
+    {
+      "path": "reviews/2026-11-13-OT-033-numbers-19-20/focused-reviews.json",
+      "sha256": "d0552571a27853011ab36c5382e770a54a7284eb2974b95f4ecab6d965ea2231",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-034-numbers-21-22/focused-reviews.json",
+      "sha256": "04331c118a91171f5b7b24b3f6e3bdcce13f794900acf38fb68dbc8c433c82a1",
+      "records": 76
+    },
+    {
+      "path": "reviews/2026-11-13-OT-035-numbers-23-24/focused-reviews.json",
+      "sha256": "681f94b0555893330fa901443d6832f950d1b3f0a8642afdf8d3483ead7643f9",
+      "records": 55
+    },
+    {
+      "path": "reviews/2026-11-13-OT-036-numbers-25-26/focused-reviews.json",
+      "sha256": "b8c96f70ad98f37a83597d4e3926bddfed38fbe07d27f2c970ccc9ff310448ec",
+      "records": 83
+    },
+    {
+      "path": "reviews/2026-11-13-OT-037-numbers-27-29/focused-reviews.json",
+      "sha256": "456f7f329e086bb43a4f31d011675d60acb7f00cc17a0c5a6c1ea492bba47600",
+      "records": 93
+    },
+    {
+      "path": "reviews/2026-11-13-OT-038-numbers-30-31/focused-reviews.json",
+      "sha256": "142e0fa8ff1e0f06d5a24fa6ff8dfccbcd25881894863cfc4693a86a1a5e5154",
+      "records": 71
+    },
+    {
+      "path": "reviews/2026-11-13-OT-039-numbers-32-33/focused-reviews.json",
+      "sha256": "8b7f9f7d388ac388991f3cd714d40ae57f26ca775ef452f5ac61bc1e26769522",
+      "records": 98
+    },
+    {
+      "path": "reviews/2026-11-13-OT-040-numbers-34-36/focused-reviews.json",
+      "sha256": "04559a33b8cf12eafbcead50bc4f028145f41364911f2a17e7ce8d3993eb416e",
+      "records": 76
+    },
+    {
+      "path": "reviews/2026-11-13-OT-041-deuteronomy-1-2/focused-reviews.json",
+      "sha256": "64724e7aa59b3bea832000760ddce58887d97d19c609b7f46a18a7524168af20",
+      "records": 83
+    },
+    {
+      "path": "reviews/2026-11-13-OT-042-deuteronomy-3-4/focused-reviews.json",
+      "sha256": "2f14755fe4d075d79f2b3ed597f793a99b05fbad1ba3806fae07ea09f5c0570a",
+      "records": 78
+    },
+    {
+      "path": "reviews/2026-11-13-OT-043-deuteronomy-5-7/focused-reviews.json",
+      "sha256": "e14d6a6a3fe7bc754887959597416614a909901ef32842c80e3f2a3051efe263",
+      "records": 84
+    },
+    {
+      "path": "reviews/2026-11-13-OT-044-deuteronomy-8-10/focused-reviews.json",
+      "sha256": "36fc92a273ebc00b5df247d3845f55a58c9757cf966275556108933addba3493",
+      "records": 71
+    },
+    {
+      "path": "reviews/2026-11-13-OT-045-deuteronomy-11-13/focused-reviews.json",
+      "sha256": "71141cf185558f914d2377f8629c4779d4d3805b85f627b0a8dc6c128ae98053",
+      "records": 82
+    },
+    {
+      "path": "reviews/2026-11-13-OT-046-deuteronomy-14-16/focused-reviews.json",
+      "sha256": "5bc1ac328ec7f717b79f387cac93f2e99a1550117f8a484d958f4bd8e1d693c0",
+      "records": 74
+    },
+    {
+      "path": "reviews/2026-11-13-OT-047-deuteronomy-17-20/focused-reviews.json",
+      "sha256": "7c87575e5516e6e861a7de32433e953b264c627347dd7db8a79dd82d02f3bbaf",
+      "records": 83
+    },
+    {
+      "path": "reviews/2026-11-13-OT-048-deuteronomy-21-23/focused-reviews.json",
+      "sha256": "be8a6d0b79c3a2eb6c7743fcc8147681bfe617a4f89977fda2fdfa4caf27cf5e",
+      "records": 78
+    },
+    {
+      "path": "reviews/2026-11-13-OT-049-deuteronomy-24-26/focused-reviews.json",
+      "sha256": "b2e8b49508c97067b400040d9183fb74922c9831c9b2d55cdb356f04c8522b5e",
+      "records": 60
+    },
+    {
+      "path": "reviews/2026-11-13-OT-050-deuteronomy-27-28/focused-reviews.json",
+      "sha256": "14ddb7d24ad9dab32df7cf02d9b159cea7a139dc6a30a617ebff977d53daadeb",
+      "records": 95
+    },
+    {
+      "path": "reviews/2026-11-13-OT-051-deuteronomy-29-31/focused-reviews.json",
+      "sha256": "bcf45549bd5dcdb6a17c2e9453dbef0c4568e0a368c9cf12991712a1496e64cf",
+      "records": 78
+    },
+    {
+      "path": "reviews/2026-11-13-OT-052-deuteronomy-32-34/focused-reviews.json",
+      "sha256": "004bc5bc2fafd8a17ffe9bc517f6a1f6ce298dba6a13f0a36785b4816a359653",
+      "records": 93
+    },
+    {
+      "path": "reviews/2026-11-13-OT-053-joshua-1-3/focused-reviews.json",
+      "sha256": "e8ed1c940e0e3f4c2e00b7e69de6d6fff8dbe03a3e97828e5884e27b75d73773",
+      "records": 59
+    },
+    {
+      "path": "reviews/2026-11-13-OT-054-joshua-4-6/focused-reviews.json",
+      "sha256": "31ab221a642447e7a4b5d09ae985ce97c1666a740a6a3d7b5f2edf481cb4e12b",
+      "records": 65
+    },
+    {
+      "path": "reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json",
+      "sha256": "413a8fe20a699beda2f856d72fc210ab9568d6f106145443ad2bc2538b12be11",
+      "records": 86
+    },
+    {
+      "path": "reviews/2026-11-13-OT-056-joshua-10-12/focused-reviews.json",
+      "sha256": "44200e40627ed9ea4b9040d5922ff24a58e323c9aa0f1f6a1cb2f9c11081c8c7",
+      "records": 88
+    },
+    {
+      "path": "reviews/2026-11-13-OT-057-joshua-13-14/focused-reviews.json",
+      "sha256": "2869427ac11faf5120c128f605e61b99719e679ac1f43270a7848aff1970ff2a",
+      "records": 47
+    },
+    {
+      "path": "reviews/2026-11-13-OT-058-joshua-15/focused-reviews.json",
+      "sha256": "d50b634d99e36074f132bcdd869ad1a331c02e07dc95bbbcca6215ca5211b388",
+      "records": 64
+    },
+    {
+      "path": "reviews/2026-11-13-OT-059-joshua-16-18/focused-reviews.json",
+      "sha256": "d7cfaeb958acfcb9cc0fa867f0685c3bdba0f5855bcf818fed196f4efa5c8d1d",
+      "records": 56
+    },
+    {
+      "path": "reviews/2026-11-13-OT-060-joshua-19-20/focused-reviews.json",
+      "sha256": "a2befbe3db02e82a030d077f6aa8b3995d2f14c1abfcfe609a2f1d7450b3e14b",
+      "records": 59
+    },
+    {
+      "path": "reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json",
+      "sha256": "146ef056dc3a628f748aa77a01cc62e432940f1005ba573c7012900b03be1321",
+      "records": 83
+    },
+    {
+      "path": "reviews/2026-11-13-OT-062-joshua-23-24/focused-reviews.json",
+      "sha256": "ed82000a75220f5b0db05e1fac20de900bd4a6ac8d99ac137173bce3debca7de",
+      "records": 52
+    },
+    {
+      "path": "reviews/2026-11-13-OT-063-judges-1-3/focused-reviews.json",
+      "sha256": "88b176bf49fc3aabf4a336aab038b4de30fdfa8c6a94dd4ebe5f55428cdbf185",
+      "records": 90
+    },
+    {
+      "path": "reviews/2026-11-13-OT-064-judges-4-5/focused-reviews.json",
+      "sha256": "9e1c8d5a90cee2ac501cd97137e43c6f3fa5036ff976ac1e06f02bdc3dfd5775",
+      "records": 55
+    },
+    {
+      "path": "reviews/2026-11-13-OT-065-judges-6-7/focused-reviews.json",
+      "sha256": "f21ad34126595818fe6e5021e398d870784f71a7c957c3ef2344704c381335f0",
+      "records": 65
+    },
+    {
+      "path": "reviews/2026-11-13-OT-066-judges-8/focused-reviews.json",
+      "sha256": "e5b4d5a50f7d10fc2ac29c40528dd79f67b5367e6a3794e0dd27a18524363c94",
+      "records": 35
+    },
+    {
+      "path": "reviews/2026-11-13-OT-067-judges-9/focused-reviews.json",
+      "sha256": "4fd21f48eeb82e08cfa11afa0a7069b81a860f18778586a41c16d9ec648d546e",
+      "records": 57
+    },
+    {
+      "path": "reviews/2026-11-13-OT-068-judges-10-11/focused-reviews.json",
+      "sha256": "3b811cfc9ca8babed831f3e4265edaca212d2556957dc20298401b3df8630815",
+      "records": 58
+    },
+    {
+      "path": "reviews/2026-11-13-OT-069-judges-12-13/focused-reviews.json",
+      "sha256": "bb2243daba24b9e41c0a7b073e619f42565ac5d3d06ebdbe934d43834efa8d63",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-070-judges-14-15/focused-reviews.json",
+      "sha256": "74851c954b08b962d6a42e6218163e266d961a38ed72b70df617914c89951581",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-071-judges-16-17/focused-reviews.json",
+      "sha256": "a0ff329364ffe2d4de53979334016edc11e48b31e7657c7dbb5e321aa185d58a",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-072-judges-18/focused-reviews.json",
+      "sha256": "6edb46eff4b403be05b6891ea15b1b3dc417b0c7a66102aa88cb60bc6500d51f",
+      "records": 31
+    },
+    {
+      "path": "reviews/2026-11-13-OT-073-judges-19/focused-reviews.json",
+      "sha256": "9ffb5a3f4768993def833f3b566c4bc276a9ef0e171a6eb33597857d96a2c76d",
+      "records": 30
+    },
+    {
+      "path": "reviews/2026-11-13-OT-074-judges-20/focused-reviews.json",
+      "sha256": "906d70efecf4f870fcd981b3ab1431a471bf2735d5f70b2024c24acace13dad6",
+      "records": 48
+    },
+    {
+      "path": "reviews/2026-11-13-OT-075-judges-21/focused-reviews.json",
+      "sha256": "34504ff48738e2d66dd965310115712725ade5b8a2538afce54c3ed0769f1117",
+      "records": 25
+    },
+    {
+      "path": "reviews/2026-11-13-OT-076-ruth-1-2/focused-reviews.json",
+      "sha256": "461c980f35fca97472cc57d5f9c5828579429308a18d95110c7e86bc1906cadc",
+      "records": 45
+    },
+    {
+      "path": "reviews/2026-11-13-OT-077-ruth-3-4/focused-reviews.json",
+      "sha256": "4781b3caa5fd3475ad48a508a73c59491f9385f216835c9b876590bbc2fc394a",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-078-1-samuel-1/focused-reviews.json",
+      "sha256": "c7221f4ad6fa7b11bd7638aa06d3f55b2a5758d21f6873f7a1c109f39b58f3a0",
+      "records": 28
+    },
+    {
+      "path": "reviews/2026-11-13-OT-079-1-samuel-2/focused-reviews.json",
+      "sha256": "32c35c8a95ba1b02924a9888545efcce29e4388de6937535e6d06ee9c4e8d94f",
+      "records": 36
+    },
+    {
+      "path": "reviews/2026-11-13-OT-080-1-samuel-3-4/focused-reviews.json",
+      "sha256": "9ee5c16d8fce5eb550886e77d6e3c5905ca9565fa9c729d6dab493f408cccb4d",
+      "records": 43
+    },
+    {
+      "path": "reviews/2026-11-13-OT-081-1-samuel-5-6/focused-reviews.json",
+      "sha256": "411c8646be113af6a7c8ab751898cade17d07a5fad02dac847afc4fee5cf5fb9",
+      "records": 33
+    },
+    {
+      "path": "reviews/2026-11-13-OT-082-1-samuel-7-8/focused-reviews.json",
+      "sha256": "9c03f13e4820ae343b8bae0e0d8a506d76c06158f8ef6279c785c9c48a27c00d",
+      "records": 39
+    },
+    {
+      "path": "reviews/2026-11-13-OT-083-1-samuel-9-10/focused-reviews.json",
+      "sha256": "6732bf9095b9418ac27c92e9bb2a8f1243f74539b4f3221190f2ebc2f562faba",
+      "records": 54
+    },
+    {
+      "path": "reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json",
+      "sha256": "e016823d159c061ac23571999eeb4bb10bd21ca7224f0e288bf187fc1e9bbbb0",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-085-1-samuel-13/focused-reviews.json",
+      "sha256": "23dc09f5f9d637932146a5279f3cefa4d54a2e22542ae8870bc13f26303cb7fd",
+      "records": 22
+    },
+    {
+      "path": "reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json",
+      "sha256": "d4f2cc549a51c10673c206072c74d21d6f0db18b8133326f3392a2b48afce63c",
+      "records": 52
+    },
+    {
+      "path": "reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json",
+      "sha256": "0bf3935ef0c4e30acf1ec6db1ae8dd318646f55260b4273bec09ebc1c519c5cc",
+      "records": 58
+    },
+    {
+      "path": "reviews/2026-11-13-OT-088-1-samuel-17-18/focused-reviews.json",
+      "sha256": "081333bbdb7b45d46ddde151b1219c50bba9b1dca22e81ed1b14e8e2495cdcb7",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-089-1-samuel-19-20/focused-reviews.json",
+      "sha256": "cff4f5551ec99a70f82eeab3727d3b780ed878d0d784b7933724c59c42be4522",
+      "records": 66
+    },
+    {
+      "path": "reviews/2026-11-13-OT-090-1-samuel-21-22/focused-reviews.json",
+      "sha256": "02a020bce0db5b733c6fe1412b4530feec046dd56ac9934d867b0882efdc33c6",
+      "records": 39
+    },
+    {
+      "path": "reviews/2026-11-13-OT-091-1-samuel-23-24/focused-reviews.json",
+      "sha256": "91bcb8153121e1eac7ab0b4d6f141bd9e45351dcc02047315dc9d5ff67224ddd",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-092-1-samuel-25/focused-reviews.json",
+      "sha256": "9e864eab51a507c48dc1c82999af3df203be064c2d1eb0fb3bf3695859f5aaa7",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-093-1-samuel-26-27/focused-reviews.json",
+      "sha256": "a7f97ae5b6d4a0ccfb4e1b3dbdeee59ce340c9991eac373855667669656152d4",
+      "records": 37
+    },
+    {
+      "path": "reviews/2026-11-13-OT-094-1-samuel-28-29/focused-reviews.json",
+      "sha256": "53762e8b405bfc943c83f770ef7861b1dc6f0e34724a1ebef135b5fc31471756",
+      "records": 36
+    },
+    {
+      "path": "reviews/2026-11-13-OT-095-1-samuel-30-31/focused-reviews.json",
+      "sha256": "0db3ab2af3148fb03f8a78bbde29204832920de8542f0a63e8e047cb99c2553a",
+      "records": 45
+    },
+    {
+      "path": "reviews/2026-11-13-OT-096-2-samuel-1/focused-reviews.json",
+      "sha256": "65e14c16cfdf3513db0c8f7b5e026a95079a553e24e03592b8797c9e83f18f2a",
+      "records": 27
+    },
+    {
+      "path": "reviews/2026-11-13-OT-097-2-samuel-2/focused-reviews.json",
+      "sha256": "14b320645ea06a33193fa8d44240ce8d1242ed5c6e8fb020162862c3111dc2e4",
+      "records": 32
+    },
+    {
+      "path": "reviews/2026-11-13-OT-098-2-samuel-3-4/focused-reviews.json",
+      "sha256": "44638c78d58783c41924c13413ccffffcaa2461dd5857fed2f72e451dfcb7232",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-099-2-samuel-5-6/focused-reviews.json",
+      "sha256": "7837b42089df8709ca599a7df6e66304cddf96c5af0a69e07a8575cf0f27e95e",
+      "records": 49
+    },
+    {
+      "path": "reviews/2026-11-13-OT-100-2-samuel-7-8/focused-reviews.json",
+      "sha256": "74f5e986b70a99d59db384ed0b7b872ae473306daea369237aa33777eca2790b",
+      "records": 47
+    },
+    {
+      "path": "reviews/2026-11-13-OT-101-2-samuel-9-10/focused-reviews.json",
+      "sha256": "b2d595f332a4160459504f19f8ebc2066abb1abc1fdf7079461ceb87d705f570",
+      "records": 32
+    },
+    {
+      "path": "reviews/2026-11-13-OT-102-2-samuel-11-12/focused-reviews.json",
+      "sha256": "97195af4a28a3e4ab619a7644784c43b8d931fcce3bc6f346537d2d3106ea403",
+      "records": 58
+    },
+    {
+      "path": "reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json",
+      "sha256": "5bcbdaba028be720eb9fd126d14b5286beab6173b54c447cfde81acd196ddccd",
+      "records": 39
+    },
+    {
+      "path": "reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json",
+      "sha256": "b6b855b3d308504d566abc7bf1984e49e5ab117a003dd46ee77d47ebb147538d",
+      "records": 33
+    },
+    {
+      "path": "reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json",
+      "sha256": "358c3450edce273bef9499ceee680c9653e2dd99a19a3d4907eb186f4b7f0df6",
+      "records": 60
+    },
+    {
+      "path": "reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json",
+      "sha256": "74f1d2f330b474582c2b4a0712487758d632f1b3b8fe7390ae3bad1c75a136d7",
+      "records": 61
+    },
+    {
+      "path": "reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json",
+      "sha256": "39a873c5f0d2290dc116c5653e88e0e8dcc336ec145014b0db708b63b14a4b99",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-108-2-samuel-20-21/focused-reviews.json",
+      "sha256": "d50d42e0deae2843e443fbdb425b15fe8b3dce2d0bcc6b565a4362dfcf583ede",
+      "records": 48
+    },
+    {
+      "path": "reviews/2026-11-13-OT-109-2-samuel-22/focused-reviews.json",
+      "sha256": "297ec8036fa81c53bbbeb3243134dcd803c2afc0132e021dafec0884b6803eab",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-110-2-samuel-23-24/focused-reviews.json",
+      "sha256": "300349482c860aba10cc982ab00cb3f5e128c029ce047931bdf2a602e630ffb7",
+      "records": 64
+    },
+    {
+      "path": "reviews/2026-11-13-OT-111-1-kings-1/focused-reviews.json",
+      "sha256": "a50401a30ed2df2d1048f67f0ce33ad7b25107497653fc9ce254ebb3de9c676f",
+      "records": 53
+    },
+    {
+      "path": "reviews/2026-11-13-OT-112-1-kings-2/focused-reviews.json",
+      "sha256": "2f74d6855ac26bca01cfa4cd32ca3444f9c23834a93d554b70e7ec8a5280cb15",
+      "records": 71
+    },
+    {
+      "path": "reviews/2026-11-13-OT-113-1-kings-3-4/focused-reviews.json",
+      "sha256": "dc22cabc739cb44b4134ee040ffe7ad2444d64151ea597d2cf893722b2f5751f",
+      "records": 46
+    },
+    {
+      "path": "reviews/2026-11-13-OT-114-1-kings-5-6/focused-reviews.json",
+      "sha256": "bbc7751bdcb2b26a38c9645e231ab10d5c16ddab79d883b01e6f33626139abb7",
+      "records": 65
+    },
+    {
+      "path": "reviews/2026-11-13-OT-115-1-kings-7/focused-reviews.json",
+      "sha256": "b42ef79862d61932b80633d04c156afd6d472ffb03726df51b453b64210af7c1",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-116-1-kings-8/focused-reviews.json",
+      "sha256": "143339abab2953241e786e4f612df12a37bf30d04c1b44eee51526b776338fa1",
+      "records": 65
+    },
+    {
+      "path": "reviews/2026-11-13-OT-117-1-kings-9-10/focused-reviews.json",
+      "sha256": "7434baeffec29c42063e90f66a8ac586d6c3b2d8a58518b0e41d5fc219ee767f",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-118-1-kings-11/focused-reviews.json",
+      "sha256": "a572c846e0dfbc4e465949127f10c6c6112985c3f7fc0202b4914475698fc374",
+      "records": 36
+    },
+    {
+      "path": "reviews/2026-11-13-OT-119-1-kings-12/focused-reviews.json",
+      "sha256": "df682190612d4c07a671c856e2e547f0652a50adb3c896d9d556ffe8041d2d5e",
+      "records": 54
+    },
+    {
+      "path": "reviews/2026-11-13-OT-120-1-kings-13-14/focused-reviews.json",
+      "sha256": "9049e1027a95cc004b764dc3a8b66760414183cf28d771b5ef539989765c8e34",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-121-1-kings-15-16/focused-reviews.json",
+      "sha256": "09b39f3b0a83b08a1f0b3d2696e0dd389d25c653eb6091a190dd9f3adfe209f0",
+      "records": 74
+    },
+    {
+      "path": "reviews/2026-11-13-OT-122-1-kings-17-18/focused-reviews.json",
+      "sha256": "35af284c104b14a752270d24176d3d072cfd896711c3e50202ab40a72e672b68",
+      "records": 70
+    },
+    {
+      "path": "reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json",
+      "sha256": "125033e15f44b22cc32d6f7985b6e65525ea4ed5c9a95f212baf482bce04e746",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-124-1-kings-21/focused-reviews.json",
+      "sha256": "f771e556da2876af407d0c2c5ff2098685619b013ab39034ec9d2e6d62feff71",
+      "records": 43
+    },
+    {
+      "path": "reviews/2026-11-13-OT-125-1-kings-22/focused-reviews.json",
+      "sha256": "285af4982d4b0633e32b4218d402ea3bf2e121851fb51fd970043e1fc9b2028f",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-126-2-kings-1-2/focused-reviews.json",
+      "sha256": "492fb4516fa6f9b64ae32ddd5693b2f31a015059b30b25b9a7bdaf4e51e914c2",
+      "records": 47
+    },
+    {
+      "path": "reviews/2026-11-13-OT-127-2-kings-3/focused-reviews.json",
+      "sha256": "b7614b0824b29520c716853a29ca9ec0c8c38c90dce5d13aea49b7e99b3d6448",
+      "records": 27
+    },
+    {
+      "path": "reviews/2026-11-13-OT-128-2-kings-4/focused-reviews.json",
+      "sha256": "684cb589cd2a0db2287bfe12ad07267ce26ddbdcbc16f44d5b4afafb7a3940cf",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-129-2-kings-5-6/focused-reviews.json",
+      "sha256": "1579bb4c2ed7c28fcd1cda7926d262d69ace00bf8194ec215442cf863bc6c95a",
+      "records": 60
+    },
+    {
+      "path": "reviews/2026-11-13-OT-130-2-kings-7-8/focused-reviews.json",
+      "sha256": "bc15695a990102f6f415bde13f6022e65b73ededdb69e12d59aa90f03c973f09",
+      "records": 49
+    },
+    {
+      "path": "reviews/2026-11-13-OT-131-2-kings-9/focused-reviews.json",
+      "sha256": "742b6b3fcbdc3e6d5d02f038f130ef3268ac25dfa3485cced93a55a42bb8c13e",
+      "records": 37
+    },
+    {
+      "path": "reviews/2026-11-13-OT-132-2-kings-10-11/focused-reviews.json",
+      "sha256": "d58e97a0247f5cc6f962e92303a667870ee812585faa05ae7c66b93cca66f6b9",
+      "records": 56
+    },
+    {
+      "path": "reviews/2026-11-13-OT-133-2-kings-12-13/focused-reviews.json",
+      "sha256": "b374e740e111759eafef39f9518661847ef2ea9a04682b781e6c4349cdbabde4",
+      "records": 47
+    },
+    {
+      "path": "reviews/2026-11-13-OT-134-2-kings-14-15/focused-reviews.json",
+      "sha256": "1a554e89782a2cd7fbdf478612862cf3d6fe94e760e550c1f3be8a807d4f822e",
+      "records": 67
+    },
+    {
+      "path": "reviews/2026-11-13-OT-135-2-kings-16-17/focused-reviews.json",
+      "sha256": "80523830344e4e1539309235602834c550fe73e7c854c391d44cb4664acc7f3e",
+      "records": 61
+    },
+    {
+      "path": "reviews/2026-11-13-OT-136-2-kings-18/focused-reviews.json",
+      "sha256": "776b0df16324d1f46d317ad03b2e21d4ebec5dddb173e39c90a765c6dd14b929",
+      "records": 37
+    },
+    {
+      "path": "reviews/2026-11-13-OT-137-2-kings-19/focused-reviews.json",
+      "sha256": "45116ef95b4875f0a0af816f687b9ee0933a595cb7590569bad7b9692bffcb94",
+      "records": 37
+    },
+    {
+      "path": "reviews/2026-11-13-OT-138-2-kings-20-21/focused-reviews.json",
+      "sha256": "6c8b94552c557863833def2124575b0e73ce34cacf65cf33f4bb991b33db1b3b",
+      "records": 47
+    },
+    {
+      "path": "reviews/2026-11-13-OT-139-2-kings-22-23/focused-reviews.json",
+      "sha256": "8a216139a1fecd0157a1bccd57a574bd8b74d714784a8c0fa8a50fc9838bfbeb",
+      "records": 57
+    },
+    {
+      "path": "reviews/2026-11-13-OT-140-2-kings-24-25/focused-reviews.json",
+      "sha256": "91e0726a63c20ac8c740079a46d7f8b6a0added10e6c95754cba55ca1f9eec45",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-141-1-chronicles-1/focused-reviews.json",
+      "sha256": "a019744072fef321aace85599590bf76f045c95e1d2c4a1cc01fcf709f15face",
+      "records": 42
+    },
+    {
+      "path": "reviews/2026-11-13-OT-142-1-chronicles-2/focused-reviews.json",
+      "sha256": "0d7b90815e8f337f3282ac8d5529faf0225dd2f341a9f2582672aad5d8115c46",
+      "records": 55
+    },
+    {
+      "path": "reviews/2026-11-13-OT-143-1-chronicles-3-4/focused-reviews.json",
+      "sha256": "5928f0aa6a0f7fea6da70045ab8016c7618b9f041f4f203251556c6ed6cc9331",
+      "records": 67
+    },
+    {
+      "path": "reviews/2026-11-13-OT-144-1-chronicles-5/focused-reviews.json",
+      "sha256": "69f2529fa458152a7930802ca8e3c6dd2fd1ca970f51f844b005725d911d8f68",
+      "records": 41
+    },
+    {
+      "path": "reviews/2026-11-13-OT-145-1-chronicles-6/focused-reviews.json",
+      "sha256": "75674f7407e96830f8eabc519dc73151a9684b1d89ac7b7eedf090fc0b3d7973",
+      "records": 66
+    },
+    {
+      "path": "reviews/2026-11-13-OT-146-1-chronicles-7/focused-reviews.json",
+      "sha256": "329f71a6be33b0776d944494ba0bec5a94f53495a0d4db0ca773e8a3662ebdaa",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-147-1-chronicles-8/focused-reviews.json",
+      "sha256": "1763bbf59e7e05a70652abcacb0874992cfae6279f2aa2969c02644037aa904e",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-148-1-chronicles-9/focused-reviews.json",
+      "sha256": "83336f1ed550b6056ca47ab0f6fc86b238ccfe6305a397894fceeedd01a05c05",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-149-1-chronicles-10-11/focused-reviews.json",
+      "sha256": "11725740e2901621aa6436ae2bf3a33f97c311b603675ea4ad4f3dc53c660a96",
+      "records": 61
+    },
+    {
+      "path": "reviews/2026-11-13-OT-150-1-chronicles-12/focused-reviews.json",
+      "sha256": "309c4947a44c661801077a1add8b0299e6d8807c4a2747a7a966a9108519e477",
+      "records": 41
+    },
+    {
+      "path": "reviews/2026-11-13-OT-151-1-chronicles-13-14/focused-reviews.json",
+      "sha256": "61b9bae5a7e2b7c9cc4239e1a7293713ad58bbfbd535972fbe4f796755c45f9b",
+      "records": 31
+    },
+    {
+      "path": "reviews/2026-11-13-OT-152-1-chronicles-15/focused-reviews.json",
+      "sha256": "d92d476fcc812716fc6a6c9521eb87d5e50d765e8ef124aa1135b4e30c0221bd",
+      "records": 29
+    },
+    {
+      "path": "reviews/2026-11-13-OT-153-1-chronicles-16/focused-reviews.json",
+      "sha256": "44724db9cceee7df501d542f60226338a93a52d0ca4c3d6b0928be5d9563f070",
+      "records": 42
+    },
+    {
+      "path": "reviews/2026-11-13-OT-154-1-chronicles-17-18/focused-reviews.json",
+      "sha256": "31cecfb495f60da0186a50be715e250ad4a430b299453b0d63a4ce572744eed1",
+      "records": 44
+    },
+    {
+      "path": "reviews/2026-11-13-OT-155-1-chronicles-19-21/focused-reviews.json",
+      "sha256": "a8f8e5e0b117ce1db4a004d926dce656b6a408a3a75c57a844da70c3c883f90a",
+      "records": 57
+    },
+    {
+      "path": "reviews/2026-11-13-OT-156-1-chronicles-22-23/focused-reviews.json",
+      "sha256": "02e845448094065f79ccb99594666c8ebc421f767e755bfc2a4dfb4492e05213",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-157-1-chronicles-24-25/focused-reviews.json",
+      "sha256": "09d986a6117716a787814d129355c50113a15e0a3daf36ec60607f745f1a2d97",
+      "records": 62
+    },
+    {
+      "path": "reviews/2026-11-13-OT-158-1-chronicles-26-27/focused-reviews.json",
+      "sha256": "d2f10aab2916efb7c68484910ab6b71932ef817035b54bd201df4be82870acbb",
+      "records": 66
+    },
+    {
+      "path": "reviews/2026-11-13-OT-159-1-chronicles-28-29/focused-reviews.json",
+      "sha256": "217b7a366af3f237441fc988c4372c00ed2f1a060ddd0e2102306cfeac5f5b80",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-160-2-chronicles-1-2/focused-reviews.json",
+      "sha256": "c10ac97ef7aace6625ae80d143a711dcc134975521ac8d52bc59f36ea5cff546",
+      "records": 35
+    },
+    {
+      "path": "reviews/2026-11-13-OT-161-2-chronicles-3-5/focused-reviews.json",
+      "sha256": "80020ecc22b949cf687e9f9df9c0950607e7730515cb56d9fc4f8625baefd52a",
+      "records": 53
+    },
+    {
+      "path": "reviews/2026-11-13-OT-162-2-chronicles-6/focused-reviews.json",
+      "sha256": "f22822250e66eed6ad85049479fe07f4cb9072f038a2fa9a34a169a67327c4a0",
+      "records": 42
+    },
+    {
+      "path": "reviews/2026-11-13-OT-163-2-chronicles-7-8/focused-reviews.json",
+      "sha256": "55e770232dca5f48225ed08e8cc60e7dae88a08a40250644ec0770ddf5328eec",
+      "records": 40
+    },
+    {
+      "path": "reviews/2026-11-13-OT-164-2-chronicles-9-10/focused-reviews.json",
+      "sha256": "78f258d457a7dd0029629b6cf5b94a4aa4e5fd6e2ae480ec3bb4832b263914c3",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-165-2-chronicles-11-12/focused-reviews.json",
+      "sha256": "d87cead6e99f6ef549ecb61525dd08a2ca0ee5c9c803f19207e8554e65840e18",
+      "records": 39
+    },
+    {
+      "path": "reviews/2026-11-13-OT-166-2-chronicles-13-14/focused-reviews.json",
+      "sha256": "fcdaf077857496d504763d1f08f2f4ab1e068529f9f1dea9cd07d5c899adf4fc",
+      "records": 37
+    },
+    {
+      "path": "reviews/2026-11-13-OT-167-2-chronicles-15-16/focused-reviews.json",
+      "sha256": "f2fc70f1385351ed7a599c6bc1a8d56d4faf422d3f9e217a2eab68c4ba3b3505",
+      "records": 33
+    },
+    {
+      "path": "reviews/2026-11-13-OT-168-2-chronicles-17-18/focused-reviews.json",
+      "sha256": "de9b5ae9ca3cc6cd5289f1a5ac6b769055cb258cc5b6692faa22f9de916432f3",
+      "records": 53
+    },
+    {
+      "path": "reviews/2026-11-13-OT-169-2-chronicles-19-20/focused-reviews.json",
+      "sha256": "3371bd98148607a5a483fba47532bb8b2be6fc1cb1cf9260a99d97de1384e395",
+      "records": 48
+    },
+    {
+      "path": "reviews/2026-11-13-OT-170-2-chronicles-21-22/focused-reviews.json",
+      "sha256": "21c150f28bc8a7fb59aa161019b857b92b9b0044a19f35d4755c4b4c0e6a8ce4",
+      "records": 32
+    },
+    {
+      "path": "reviews/2026-11-13-OT-171-2-chronicles-23-24/focused-reviews.json",
+      "sha256": "fffa87cf46267ed07b3208dfdc0955a3b08f1ab5d43ad7505cfa8e8570ab4edd",
+      "records": 48
+    },
+    {
+      "path": "reviews/2026-11-13-OT-172-2-chronicles-25-26/focused-reviews.json",
+      "sha256": "95becfe5135fa525067f196e3e21fa31c1b4300cd66e2f71a797eb216b1494be",
+      "records": 51
+    },
+    {
+      "path": "reviews/2026-11-13-OT-173-2-chronicles-27-28/focused-reviews.json",
+      "sha256": "ec4c61d45eabc1f7475309472509faf17e41fb487481ebab21f9fce1a8993b8d",
+      "records": 35
+    },
+    {
+      "path": "reviews/2026-11-13-OT-174-2-chronicles-29/focused-reviews.json",
+      "sha256": "0d6eb7bbe4051596e736baee8fb4dd28cf6c7d55fa324f4c8466652e98c001c5",
+      "records": 36
+    },
+    {
+      "path": "reviews/2026-11-13-OT-175-2-chronicles-30-31/focused-reviews.json",
+      "sha256": "f4d2bea8e32a0ab0dbd86e79dd4704ceb8d3a135d6f8882838bd87139c2a5a4e",
+      "records": 48
+    },
+    {
+      "path": "reviews/2026-11-13-OT-176-2-chronicles-32-33/focused-reviews.json",
+      "sha256": "a13f58d6e6133459f1462c3aae2d96046dd5574432543759c4001c54dddc46ba",
+      "records": 58
+    },
+    {
+      "path": "reviews/2026-11-13-OT-177-2-chronicles-34/focused-reviews.json",
+      "sha256": "1bf90aa9e17280ba5089d1b2ceb7d5be15fc3bd802a86afa2b504384560e3032",
+      "records": 33
+    },
+    {
+      "path": "reviews/2026-11-13-OT-178-2-chronicles-35-36/focused-reviews.json",
+      "sha256": "bb6c0fe4ac58b327ba5de2e7d78142ed8fe5deeb3c3ae5ab095d0bec386e8d81",
+      "records": 62
+    },
+    {
+      "path": "reviews/2026-11-13-OT-179-1-maccabees-1/focused-reviews.json",
+      "sha256": "e413bc8b07a2485a7494aa8ce7f038733ed4c9f6e01d8caf28ec3f45bd725c0a",
+      "records": 64
+    },
+    {
+      "path": "reviews/2026-11-13-OT-180-1-maccabees-2/focused-reviews.json",
+      "sha256": "39d18d95b8d86b9d11abba9e28f5f232411e2173fcfebd66cf7a534000e7b537",
+      "records": 70
+    },
+    {
+      "path": "reviews/2026-11-13-OT-181-1-maccabees-3/focused-reviews.json",
+      "sha256": "790db78b159a70a4476fcddcc23dcd69e45d617d0aa54517df19ffa9bdce258f",
+      "records": 60
+    },
+    {
+      "path": "reviews/2026-11-13-OT-182-1-maccabees-4/focused-reviews.json",
+      "sha256": "630079ef3640c4569d9bc63867cb93a92501c9db5d89457a410f7f90f0b88ed3",
+      "records": 61
+    },
+    {
+      "path": "reviews/2026-11-13-OT-183-1-maccabees-5/focused-reviews.json",
+      "sha256": "b1467cab8c7b032b9614e63af45e9f11a6461a5296f661be8406665d4d4d2a3b",
+      "records": 68
+    },
+    {
+      "path": "reviews/2026-11-13-OT-184-1-maccabees-6/focused-reviews.json",
+      "sha256": "df8bb243ddde74571caca49d27e8f2d52ccae187c48cac74bff521e4adc4c3da",
+      "records": 63
+    },
+    {
+      "path": "reviews/2026-11-13-OT-185-1-maccabees-7/focused-reviews.json",
+      "sha256": "e5a4a0773ac5a8de209bd668516eefde04b479fa1dc0bd6e68a95b9de6e5f52e",
+      "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-186-1-maccabees-8/focused-reviews.json",
+      "sha256": "946b7b5824ba891fbda0cfe96ffdffe3286d94bbf4381d23c1b20373abb91aa3",
+      "records": 32
+    },
+    {
+      "path": "reviews/2026-11-13-OT-187-1-maccabees-9/focused-reviews.json",
+      "sha256": "c5755e1ba487c402be94f97a335945a2f3774cb4a6d18c50891e51d192c6ffce",
+      "records": 73
+    },
+    {
+      "path": "reviews/2026-11-13-OT-188-1-maccabees-10/focused-reviews.json",
+      "sha256": "b755d756645aa33086095dacdedfd91d9b1a798d85e3081e5170e8381cd2843c",
+      "records": 89
+    },
+    {
+      "path": "reviews/2026-11-13-OT-189-1-maccabees-11/focused-reviews.json",
+      "sha256": "dc949262fd7d83235b8cbad46f8c42933cb14f6afae600b2aaaacf42892b729c",
+      "records": 74
+    },
+    {
+      "path": "reviews/2026-11-13-OT-190-1-maccabees-12/focused-reviews.json",
+      "sha256": "571b3249f4f54ae257554f3710e350b2a4ae15fb235f1399a94a0ed386bcc5e8",
+      "records": 53
+    },
+    {
+      "path": "reviews/2026-11-13-OT-191-1-maccabees-13/focused-reviews.json",
+      "sha256": "d74288607d016a8ba61a517cb3f10d40df1e6e7133164b0b88d6b8d25c12ccc3",
+      "records": 53
+    },
+    {
+      "path": "reviews/2026-11-13-OT-192-1-maccabees-14/focused-reviews.json",
+      "sha256": "10891c445af5c8ec60cbdc600a8c1e143297bfba639e98775bb6508c9bd32fe9",
+      "records": 49
+    },
+    {
+      "path": "reviews/2026-11-13-OT-193-1-maccabees-15/focused-reviews.json",
+      "sha256": "01f4c6f2cd9d11d29593fb60fcc095d2cb7004ded9d66dc2d63ff6c04dca4ed5",
+      "records": 41
+    },
+    {
+      "path": "reviews/2026-11-13-OT-194-1-maccabees-16/focused-reviews.json",
+      "sha256": "10a949d2270a589623b6daf0d32ed43aa41bc49171fa7c03797ef8cd6248c903",
+      "records": 24
+    }
+  ],
+  "missing_planned_review_inputs": [],
+  "source_files": [
+    {
+      "path": "genesis/Genesis.html",
+      "sha256": "982f140c5a0fd47368d8f2ac80ecf5ab4b17bbd5412cc4467d1aa4cecec4dee5",
+      "use": "Recover recorded poetry breaks only; source wording must match verses.json"
+    },
+    {
+      "path": "genesis/verses.json",
+      "sha256": "cacb8a9104b71044876467c31ab90908c350d4238c033cc56239a831e518182e",
+      "git_blob": "cb03fe4a864c66380de2577e70a74b0c87a62886",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "genesis/source-checks.json",
+      "sha256": "d792c255a62d828a262ac7ebb1b780a1f78025771d6b91bc3c5b51898dc30704",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "exodus/Exodus.html",
+      "sha256": "7a9cfcd64605124d03021ff530e7ad35dbe01fdf9ffa62de7edd8239d78fd07c",
+      "use": "Recover recorded poetry breaks only; source wording must match verses.json"
+    },
+    {
+      "path": "exodus/verses.json",
+      "sha256": "a52942229abc202d2f6ce2cfff22fe0229d56499e0b94cfff5f53d06fb815bb0",
+      "git_blob": "10d700d84ea79ee19c32481f88ebc6c3d046a975",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "exodus/source-checks.json",
+      "sha256": "b8b1c5d8fe9a27a7ce64ce8e2de836df899559ce70c6ea8567284c744fd40fad",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "leviticus/verses.json",
+      "sha256": "2d722c4a93a5cf0ec08162ec4919e410bdea584058f2cabb38201fd7c068a2ca",
+      "git_blob": "579aa009229810013259f2f24296f6f9a2c3c8f4",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "leviticus/source-checks.json",
+      "sha256": "7d3cec83ba34f16c539aa68ef2de716e5941e2612048e76a9fbef8a5ff5551f3",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "numbers/verses.json",
+      "sha256": "5e1297f0960ee3272843a2eff90f72909365418012f2dcfeb44127a1be6bef1d",
+      "git_blob": "f52d97f715891170060a770c8e2bd55267a3d5ca",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "numbers/source-checks.json",
+      "sha256": "07cd434a717c8d426939253c82dc579884f75cbb32e6cc7dfafabd96c6e14c42",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "deuteronomy/verses.json",
+      "sha256": "a569a71dacce92f9e966f102723956acd742cbbd0ca4a32741c37544ca81bbcd",
+      "git_blob": "eb8309b456e5b6b87e756a4ff457a02237be00fb",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "deuteronomy/source-checks.json",
+      "sha256": "0413b88168f4cbc2a52a9bc24fae8905f328e0e72fe427187c8fee378fc43e28",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "joshua/verses.json",
+      "sha256": "eb93d63cea7acf7f4e4b28b1c35436ad11acd02a5be7d25ce5c95d737ea54040",
+      "git_blob": "20323ec8aab28987867dca2e8102276d626ad33e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "joshua/source-checks.json",
+      "sha256": "c1b4ae913829e16ccc59f078ab03c8473d4fd9066fb64116a84ddcf30b982a5b",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "judges/verses.json",
+      "sha256": "bc00ee37a3b832eeac7929234102b393ec34ac10158ec548249b0ef187306eec",
+      "git_blob": "09fb1589032e5367d2f1f0081d1060fdd601f88f",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "judges/source-checks.json",
+      "sha256": "252949012c43571dec2097290dcfc533b00a055c317da3d59f98f95968af0b2d",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ruth/verses.json",
+      "sha256": "539a006ecb648bcca7542ea3596f1ef2a3ba7acb2e7d094fa1a32b92f6f879d9",
+      "git_blob": "25d7b5626a802494e87f0b5413aecb82b2428e18",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ruth/source-checks.json",
+      "sha256": "22a76714a0ad6b2423fe1ac3813e59d07cecb4519930b48a3e2e8292b4c67aec",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-samuel/verses.json",
+      "sha256": "093f77c98b26561250b7fcc736fc1c0ad239dca806899dfb62fb33b897f99b66",
+      "git_blob": "c7606f25f6b3fcff60b173f36fe520dbb050a540",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-samuel/source-checks.json",
+      "sha256": "73bd2523578599495bc34d884d7a426d3c144f15bee203b52417849bff2fd24b",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-samuel/verses.json",
+      "sha256": "25f6b9b46cbfe4dc3a30a600e85b906faec5a2f7b647a94aba6575298e5d1b9d",
+      "git_blob": "45c2375e2a91962e0f2b548c746560498b9b39f5",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-samuel/source-checks.json",
+      "sha256": "d2f29e3784e4e575b245cf0b83223da94c5d78a5178549ab18a501622e91f03f",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-kings/verses.json",
+      "sha256": "4507bb462ae060708641d3eba087a3ca39cb6b8ce0e460e38a8be4bb34f9498d",
+      "git_blob": "00f7db4eede7e186cc8b7986b2249079495b4cc2",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-kings/source-checks.json",
+      "sha256": "4b4d43c7f7ced7e3ce8fa3c95860a142e5c07bf7fdebda8d1151153085d84048",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-kings/verses.json",
+      "sha256": "b4a8fe8bda1a8decb3addb817883f90d1539ee50f1a91dd44d5d5a20c02344c7",
+      "git_blob": "2cd20f65a020ea02f6ccdda727d47c2feb2dbb55",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-kings/source-checks.json",
+      "sha256": "f749b49abf043324f77aa80e49aa3f1b2c18d48d93e7db761035da6c240ac36e",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-chronicles/verses.json",
+      "sha256": "2f3b41f3542698e2808137f822d03f704f8fc1dff5d4ced8cee815289c2ef730",
+      "git_blob": "2101f758b42ee75471f73d6e75912dbe9090a35b",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-chronicles/source-checks.json",
+      "sha256": "99f0aaabe709e56da80c295bc4449eccc734feb3cee771475435f18b109efa48",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-chronicles/verses.json",
+      "sha256": "fef99a8cf81b94d7a7bbc42fd70c26ac6097b22e0d42e3b83145fdc01b17164c",
+      "git_blob": "c1c5ed31124f98b1fba4823ec02afc0aee20f582",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-chronicles/source-checks.json",
+      "sha256": "3b3aee096b81ce53e6c14f906d47b54f6c17b06962dada99bd51ca78f1683e51",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-maccabees/verses.json",
+      "sha256": "29c83bbc4b58b9eeeee0675768e1f40a0b0b7a0e01249a146d64ee573b42b8af",
+      "git_blob": "41754e1990877ca2270f272220676773bd179b3c",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-maccabees/source-checks.json",
+      "sha256": "6b0d521a95b102842cadfba63ab856dede97caa40f8543aa1522fea43eca1601",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-maccabees/verses.json",
+      "sha256": "4748eb2422bf0bcdbf16d1292dd94f486c21ff54ae7590fdd2c98590f87fbc1d",
+      "git_blob": "7f54b48b4e284348aa8918b1cb14cd4300d227c2",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-maccabees/source-checks.json",
+      "sha256": "815162cf890b8a9a7b9ea6673b32622b3ede033de56716364a0e88406b4e002a",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ezra/verses.json",
+      "sha256": "296ecf2cc7e86670eae99db1f718edf88ce13b117ac5aec5cb40f08220b53798",
+      "git_blob": "7556e4111c7d9cf947f31760284b62f5edca9302",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ezra/source-checks.json",
+      "sha256": "d7af311157845eb8298a37d38c52452d505c8f9f6ec39d9434621b1d4c98b5be",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "nehemiah/verses.json",
+      "sha256": "90cd08204d8e2f9ec82c69c69a64202bc1f765e59ccb202270881819be776da1",
+      "git_blob": "2293e026368c9466269afa1e0ecfcadf751dd88a",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "nehemiah/source-checks.json",
+      "sha256": "6d39a70f6396e6863a909ef77614a404ad3db746ddb53e079bf1fef852ba4394",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "esther/verses.json",
+      "sha256": "f56aa793cef88543fce4ea36fba02f7e1cbae0ba250dd261ea27f50213823590",
+      "git_blob": "6df661a54d219eb4f3f340cfca93a84ee8a120ed",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "esther/source-checks.json",
+      "sha256": "2caf0b660e6e6bc7071695158903282367820571fcd6afd4aa9d626af331bb53",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "job/verses.json",
+      "sha256": "f1bdc648c4b1e5355c4f4518f33c52762ba228635cb0fc726d9e228a30a910e3",
+      "git_blob": "07361990c34eac0a99553b11dd9d4b2482c3b37f",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "job/source-checks.json",
+      "sha256": "8a9489abe23f1cb8f6262707fc94b1a6e5379bf4c8eb011e3a9d6c11b37121d5",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "psalms/verses.json",
+      "sha256": "984622b09d08866d3a432706302208ecec8d04e9204668a95a101215253c3dba",
+      "git_blob": "53514604a8c6d146b8295fa4a38c6943ef1d8c9e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "psalms/source-checks.json",
+      "sha256": "2bcae600f13c676ce183c30904ec8e4801fa23449a06ba2bdacbee1cc39d6672",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "proverbs/verses.json",
+      "sha256": "4a71c007b9a1b1bf8063977f6e09a8167aff458ddb81692dd424c109687f5f9c",
+      "git_blob": "c5f312fbf47c53c3fc5f40ecdf0dec036545587b",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "proverbs/source-checks.json",
+      "sha256": "ca101a228b8fe59eb345c1fb7e672d81e532a84a8f61075bc7282949f07b07aa",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ecclesiastes/verses.json",
+      "sha256": "ce7e9557345e71da9a5f5e95e31cc78453b9bbe917ff90ac0dee03d7a5ce6fd9",
+      "git_blob": "48f381cd900cf9fee506ab8b3eeb02bbfdc242b3",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ecclesiastes/source-checks.json",
+      "sha256": "2b3609badcd6a513c5c6fec2b6c4f288544d7d110d7315bcb0ed2a1a3c8ad0de",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "song-of-songs/verses.json",
+      "sha256": "fa7b151c994b63707866718b0d9fef2aa06c92c4840b4f780d153aa093b6ad82",
+      "git_blob": "c25dcabd0c7416a129af37911b972ee3b89ed821",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "song-of-songs/source-checks.json",
+      "sha256": "8310435c3ca80c3a9e467cc66b050902f7c204ab42ae7919f9a6dad8421e8c71",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "lamentations/verses.json",
+      "sha256": "be3b5973fc064988fad8a510686393314d29e3a92497e0afb7c2f14dbbaea46d",
+      "git_blob": "05d7755a5e96cf65f30173d3e025cd7af50cdb5c",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "lamentations/source-checks.json",
+      "sha256": "45043aae8ce74fe17e01abad214b5b8455af371e4165e7327f75fd202a3bf4b8",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "wisdom-of-solomon/verses.json",
+      "sha256": "a1f47345b1bbe02d78701fb6c23f6b03865b0083c507e3ddd2f1118931e09329",
+      "git_blob": "468127efad884589c0e3009ffb16ab7d1ad2fe10",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "wisdom-of-solomon/source-checks.json",
+      "sha256": "9c8132b42ba1b3533d6cb1e951187b5add6ddff07e6fe8d7a76e6a8253e357b8",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "sirach/verses.json",
+      "sha256": "8b53aaab1ea06f1660535a0ee5902eabf29fcdf4e4de97cf052525430f0a3efd",
+      "git_blob": "645c35de50dd8eec05e9c156c1656b88842dd7eb",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "sirach/source-checks.json",
+      "sha256": "fd643f9be96fc8274390f40507a85bfa8db16841bcd703b7d0de5c9f7b44c34c",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "isaiah/verses.json",
+      "sha256": "0f56370779d429683179c14cb067f563c9365c8e3000215b6e92fb2643b9c6ed",
+      "git_blob": "cdaf7ebfe417953d5f985f1e7e06d96dd697658c",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "isaiah/source-checks.json",
+      "sha256": "8f5cf2663493a45a45b45a4acda48c9b6e3eacc915c42310d18b9880126a616e",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "jeremiah/verses.json",
+      "sha256": "b44cb9306f3b28060e5d1d1f0a1ac78c1f8cb8e8506389f0bcbfeaf735d29cf5",
+      "git_blob": "1b5ee4d35f52a584de692ac387fa5b0965183b68",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "jeremiah/source-checks.json",
+      "sha256": "5d5bca99e4145cd96af295393011ae55ade159b5b25fd2e717e438d996b6e00d",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ezekiel/verses.json",
+      "sha256": "31729286e293686282312c3f4fc3209e3795d00948b39f60cf52bfa5595ab35c",
+      "git_blob": "b0ef2643ca9eec85f56f1b44e516672ca81e8b3d",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ezekiel/source-checks.json",
+      "sha256": "b462f702663f4e0a0ed8bb3c6bfa88c19b94b4fe0cdea631cf30c9e6ea398298",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "daniel/verses.json",
+      "sha256": "41fe27c56d5c0a23e4e970d7beb9376fdb8a55c16721aea1a1cc1b6ac23fe3f8",
+      "git_blob": "a5f238b35d6182e1e913dff88715e3870fbfb229",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "daniel/source-checks.json",
+      "sha256": "e25e8d4558bdc96be02e199342cdd762638cd023a96fe9af350f98ad0f3dbe4d",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "hosea/verses.json",
+      "sha256": "8a8ee297841073a742f7a82ef310ecdf787c1360af2ec729a5e17c6cad62838b",
+      "git_blob": "2001b9acc2907fe3e35437ddf342c38f8e060f59",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "hosea/source-checks.json",
+      "sha256": "5e9766ad97fc4cb214b84a97db947b1b2f442078f7ee76d7a71cd4b943fe8a00",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "joel/verses.json",
+      "sha256": "c5b3cd2a108092457f3ff65382f711078ce24b77c5601effb4041ecf3a66088e",
+      "git_blob": "a0937b500e0c9ae37557ed4c84cbe39ecd5125be",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "joel/source-checks.json",
+      "sha256": "59f92086ac8a2de0f0125dfdf02902fa01f107af68db9f6b2fc2e76e68c0b143",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "amos/verses.json",
+      "sha256": "d06d73541befd466a733f8aa11686a07716d926824df4e565f602819349ee5ef",
+      "git_blob": "93448e10e7339f7c6765e364f1d20b7cf7aadc88",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "amos/source-checks.json",
+      "sha256": "64897fade09d79fce0f0595afd66a8e51f1b434f4a4b4b73cf7574f12a6d1cb4",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "obadiah/verses.json",
+      "sha256": "b9ec760606d72a32074ac60de6ba26b35f5ab85555b61d0ab92535e25e64e79a",
+      "git_blob": "cce5abd4ebba2e72e79e4fcdc060236679e2a1ab",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "obadiah/source-checks.json",
+      "sha256": "7e62e834924d22abab750b7d8107e46ee0fb7441fbafd056d6f9eccebaf7f774",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "jonah/verses.json",
+      "sha256": "7e7485d556b7aa1b3cc4e181c6e75cba2ef5b6ef39add2c7e6c89323299ea75c",
+      "git_blob": "b2f33077a19167cd7c2c8cdb48562b942ce91380",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "jonah/source-checks.json",
+      "sha256": "8883264a4155d1a13e85b35bd8d220e88f3fe12b1da4e8efae739c345d8983a8",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "micah/verses.json",
+      "sha256": "7865b16d1dc1c4f8c6092298d6cd7ac22b15c3ddf6d51c29e3044f50f13d4672",
+      "git_blob": "319c7964e056f960bdff58c9abc8e9ddd04d7ed5",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "micah/source-checks.json",
+      "sha256": "38065166ddba6cf21b45dbccbd5092951186bd47b8d209d061614f67565fe783",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "nahum/verses.json",
+      "sha256": "94993c64086f0d82213bbf6e86a7068c0c5493aa08e5c2b4f194805ed382a9ae",
+      "git_blob": "6901c800e024c859800afa7ab1e4fcda4e9d2658",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "nahum/source-checks.json",
+      "sha256": "b79dc35b0815a7ffe2e03e53fc979d63e6669a0130fd70092ff2ea0ab5d07118",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "habakkuk/verses.json",
+      "sha256": "e8d3d262b944f0ec474ec3ceec0ba7fbcda4aa07b5fc07f1c24a91ebb8e68f4a",
+      "git_blob": "063a4d3ef92c24ad68dc9ab29277e898efb3e22e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "habakkuk/source-checks.json",
+      "sha256": "19cd6f1e888647820a5c8ac1f6145141916a991e726d23f346fb4ac8aff40de0",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "zephaniah/verses.json",
+      "sha256": "9a519ad34d0289e9974d6397d0f461591a1bde16e4e7990ba802896232d873d1",
+      "git_blob": "0c97c5b11c38e2daddb34710025bd1e1454ca2c6",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "zephaniah/source-checks.json",
+      "sha256": "4e3d5ba6e0dfc47102ade022e7f497c430168a1f0745a7bd87a5b02709549c04",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "haggai/verses.json",
+      "sha256": "7f6e5d534b9fe88ecc9efa48fa072a87dc1e7432a50fd42dfcb2e4644c0fc4c8",
+      "git_blob": "b9623d3c2c80b65db6366f940ccbb200a2c4ba5d",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "haggai/source-checks.json",
+      "sha256": "8f4da76719dc7e9c77841fab05e5732234971ebb113810b2db07c6e1fe8cd771",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "zechariah/verses.json",
+      "sha256": "d57fdae9f1c79aff5b7eefd79e798681bb026d0634bee2f71623f587275d4aa3",
+      "git_blob": "16228318100b747c05311caeb18f15f5f378c765",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "zechariah/source-checks.json",
+      "sha256": "bc97b9b7948916ca6e9301229448670f6cbc5ac993794024d7571f04f0ed43d1",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "malachi/verses.json",
+      "sha256": "d29d04b2a258ab9edd05e722dd723fc5b00c3e73c72484adcfbd701f19c7f464",
+      "git_blob": "a7fd092b220b6da8c5525e04c56db3a59786782e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "malachi/source-checks.json",
+      "sha256": "77a18918ea3c3eddc457259652be9936ca3da4b47bbf7ccb312556feff7fa23e",
+      "use": "Historical source claims; not newly certified"
+    }
+  ],
+  "website_deployed": false,
+  "remaining": [
+    "Complete source-led comparison and word accounting across every OT unit",
+    "Specialist lexical and textual decisions",
+    "Relevant apparatus and Göttingen consultation",
+    "Independent Greek review",
+    "Human read-aloud review",
+    "Editorial acceptance",
+    "Separately authorized, verified publication"
+  ]
+}

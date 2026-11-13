@@ -6,14 +6,16 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 
 **[Read the Greek Translation Roadmap](ROADMAP.md)** — accuracy first, natural reading aloud second, reverent poetic English third.
 
-- [Translation standard](TRANSLATION-STANDARD.md) and [source/access register](docs/SOURCE-REGISTER.md).
+- [Translation standard](TRANSLATION-STANDARD.md), [source/access register](docs/SOURCE-REGISTER.md) and [provisional name decisions](docs/OT-NAME-DECISIONS.json).
 - [Highlighted word and phrase studies](docs/WORD-STUDIES.md), including the James 2:24 popup pilot.
 - [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).
 - [Wider Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md).
 
+**Current assignment: Old Testament only.** The owner's latest instruction is to continue from Genesis 4 through the entire selected Old Testament. The [43-book working manuscript](editions/2026-11-12-ot-reading-draft/README.md) preserves the inherited Saints English text and overlays separately evidenced proposals. The [continuation report](reviews/2026-11-12-OT-CONTINUATION.md) lists the finished passage batches; the [OT progress record](old-testament-progress.json) records exact comparison counts and the next passage. The full OT task remains in progress: inherited manuscript coverage, fresh Greek comparison, token accounting and completed human review are distinct. Original book files, the accepted Genesis benchmark and New Testament text/evidence remain intact.
+
 **[Complete New Testament reading draft](editions/2026-11-12-nt-reading-draft/README.md)** — all 27 books, 260 chapters and 7,943 stored units are now assembled from the inherited Saints English manuscripts, with seven proposed John 1 revisions. This is a complete provisional manuscript, **not a completed fresh Greek audit or an accepted release**.
 
-The new programme has candidate evidence for **153 units**: the [John 1:1–18 pilot](reviews/2026-11-12-GT-003-john-1-1-18/README.md) has 18 token-aligned records; the new edition adds 135 focused running-text comparisons covering the rest of John 1, Romans 3:21–31, James 2:14–26, Philemon, 2 John, 3 John and Jude. The remaining 7,790 units retain inherited draft status. Eight occurrence studies are drafted across the two batches. Full token accounting, specialist/apparatus work, UBS6/GNT6 migration, independent Greek review, human reading aloud, acceptance and publication remain open. Next detailed John batch: John 2. Original book files remain intact.
+The earlier NT work has candidate evidence for **153 units**: the [John 1:1–18 pilot](reviews/2026-11-12-GT-003-john-1-1-18/README.md) has 18 token-aligned records; the new edition adds 135 focused running-text comparisons covering the rest of John 1, Romans 3:21–31, James 2:14–26, Philemon, 2 John, 3 John and Jude. The remaining 7,790 units retain inherited draft status. Eight occurrence studies are drafted across the two batches. Full token accounting, specialist/apparatus work, UBS6/GNT6 migration, independent Greek review, human reading aloud, acceptance and publication remain open. Its earlier next-batch marker is John 2; further NT work is outside the current OT-only assignment. Original book files remain intact.
 
 ## Existing book records
 

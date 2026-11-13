@@ -1,0 +1,3551 @@
+{
+  "status": "passed",
+  "date": "2026-11-13",
+  "counts": {
+    "books": 43,
+    "reading_sections": 1037,
+    "stored_units": 26580,
+    "attached_continuation_paragraphs": 7,
+    "reading_paragraphs_including_continuations": 26587,
+    "fresh_focused_comparison_continuation_paragraphs": 1,
+    "fresh_focused_comparison_units": 12912,
+    "inherited_without_new_comparison": 13668,
+    "proposed_changed_units": 336,
+    "retained_after_focused_comparison": 12576,
+    "new_token_aligned_units": 1,
+    "aligned_source_tokens": 19,
+    "three_stage_draft_units": 12815,
+    "independently_reviewed_units": 0,
+    "human_read_aloud_units": 0,
+    "new_editorially_accepted_units": 0,
+    "recovered_poetry_units": 32
+  },
+  "checks": [
+    {
+      "check": "Exactly the inherited 43 OT books in project order",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: genesis",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Unique inherited HTML for poetry: genesis",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Inherited poetry HTML unchanged: genesis",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetry positions recovered: genesis",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v1-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v2-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v2-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v3-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v3-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v3-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Token accounting has nonempty unique identities ('genesis', 'v4-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Each aligned token has a form and realization ('genesis', 'v4-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v6-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v6-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v6-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v7-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v7-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v7-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v8-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v8-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v9-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v9-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v10-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v11-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v11-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v12-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v19-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v21-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v31-44')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v41-40')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('genesis', 'v41-40')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v42-38')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('genesis', 'v42-38')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v43-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('genesis', 'v43-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: genesis",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: exodus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Unique inherited HTML for poetry: exodus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Inherited poetry HTML unchanged: exodus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetry positions recovered: exodus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v2-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v4-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v4-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v8-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v8-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v9-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v9-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v10-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v10-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v12-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v12-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v12-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('exodus', 'v12-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v16-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v24-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v30-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: exodus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: leviticus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('leviticus', 'v3-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('leviticus', 'v5-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('leviticus', 'v11-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: leviticus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: numbers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v2-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v4-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v11-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v14-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v15-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v19-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v21-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v25-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v27-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v29-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: numbers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: deuteronomy",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v1-37')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v2-35')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v3-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v3-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v3-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v5-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v5-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v7-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v7-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v10-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v11-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v11-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v15-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v18-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v20-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v22-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v23-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v23-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v23-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v24-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v25-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v25-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v28-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v28-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v28-51')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v30-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('deuteronomy', 'v31-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-1')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-35')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-37')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-38')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-39')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-40')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-41')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v32-43')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('deuteronomy', 'v33-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: deuteronomy",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: joshua",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v1-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v2-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v5-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v6-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v7-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v7-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v9-2b')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v9-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v9-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v10-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v13-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v15-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v20-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v22-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v22-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v22-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v22-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('joshua', 'v22-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: joshua",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: judges",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v3-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v3-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v4-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v5-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v6-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v7-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v7-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v8-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v9-43')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v9-54')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v10-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v11-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v12-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v12-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v14-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v14-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v15-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('judges', 'v15-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v16-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v18-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v18-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v19-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v19-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v19-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v20-39')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('judges', 'v21-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: judges",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: ruth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('ruth', 'v1-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('ruth', 'v1-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('ruth', 'v2-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('ruth', 'v4-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: ruth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 1-samuel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v1-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v2-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v2-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v2-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v4-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v8-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v9-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v10-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v10-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v10-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v10-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v11-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v11-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v12-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v12-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v12-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v12-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v13-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v14-39')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v15-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v15-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v15-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v15-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v15-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v16-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v16-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v16-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v16-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v16-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v17-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v17-47')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v18-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v18-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v18-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v20-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v20-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v20-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v20-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v20-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v21-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v21-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v22-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v23-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v23-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v24-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v25-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v26-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v26-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v26-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v26-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v27-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v29-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-samuel', 'v29-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v29-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v30-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-samuel', 'v30-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 1-samuel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 2-samuel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v1-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v1-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v3-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v3-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v3-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v3-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v3-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v9-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v9-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v10-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v10-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v11-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v11-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v12-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v12-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v13-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v14-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v14-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v14-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v14-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v14-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v14-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v15-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v15-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v15-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v15-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v15-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v15-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-1')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v16-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v17-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v17-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v18-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v19-1')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v19-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v19-43')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v20-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetic proposal supplies reviewed line breaks ('2-samuel', 'v22-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v22-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v22-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetic proposal supplies reviewed line breaks ('2-samuel', 'v22-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v22-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v22-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetic proposal supplies reviewed line breaks ('2-samuel', 'v22-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v22-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v22-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetic proposal supplies reviewed line breaks ('2-samuel', 'v22-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v22-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v22-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetic proposal supplies reviewed line breaks ('2-samuel', 'v23-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v23-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-samuel', 'v23-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v23-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v23-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-samuel', 'v23-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 2-samuel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 1-kings",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v1-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v1-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v2-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v2-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v5-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-kings', 'v8-53a')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All attached continuations have comparisons ('1-kings', 'v8-53a')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Attached continuation identity and retained wording ('1-kings', 'v8-53a')/1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Attached continuation authored evidence and drafts ('1-kings', 'v8-53a')/1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Attached continuation lineation preserves wording ('1-kings', 'v8-53a')/1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v9-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v10-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v16-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v16-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v17-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v19-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v21-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v21-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 1-kings",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 2-kings",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v1-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v1-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v1-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v1-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v4-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v6-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v6-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v9-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v9-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v11-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v12-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v13-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v13-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v15-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v17-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v17-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v17-39')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v18-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v19-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v19-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v19-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-kings', 'v19-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v19-35')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-kings', 'v22-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 2-kings",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 1-chronicles",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v1-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v5-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v9-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v10-1')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v10-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v12-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-16')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-18')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-34')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-35')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-chronicles', 'v16-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v19-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-chronicles', 'v27-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 1-chronicles",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 2-chronicles",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v4-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v5-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v6-1')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v6-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v6-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v6-41')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v6-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v7-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v7-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v10-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v14-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v19-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('2-chronicles', 'v20-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v25-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v25-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v34-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v34-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v35-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('2-chronicles', 'v35-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 2-chronicles",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 1-maccabees",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v1-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v1-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v1-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v1-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v1-38')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v1-39')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v1-40')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v2-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v2-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v2-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v2-61')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v2-61')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v2-62')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v2-63')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Poetic proposal supplies reviewed line breaks ('1-maccabees', 'v3-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v3-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-8')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-45')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-50')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-51')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v3-52')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v4-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v4-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v4-31')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v4-32')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v4-33')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v5-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v5-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v5-58')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v7-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v7-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v7-37')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v7-38')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v7-41')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v7-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v8-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v9-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v9-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v9-39')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v9-41')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v9-54')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v10-47')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v10-89')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v11-66')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v11-68')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v12-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v12-43')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v13-50')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v14-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-13')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-maccabees', 'v14-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-maccabees', 'v16-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 1-maccabees",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: 2-maccabees",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: 2-maccabees",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: ezra",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: ezra",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: nehemiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: nehemiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: esther",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: esther",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: job",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: job",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: psalms",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: psalms",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: proverbs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: proverbs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: ecclesiastes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: ecclesiastes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: song-of-songs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: song-of-songs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: lamentations",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: lamentations",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: wisdom-of-solomon",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: wisdom-of-solomon",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: sirach",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: sirach",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: isaiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: isaiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: jeremiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: jeremiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: ezekiel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: ezekiel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: daniel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: daniel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: hosea",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: hosea",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: joel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: joel",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: amos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: amos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: obadiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: obadiah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: jonah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('jonah', 'v3-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('jonah', 'v4-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('jonah', 'v4-11')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: jonah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: micah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: micah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: nahum",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: nahum",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: habakkuk",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: habakkuk",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: zephaniah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: zephaniah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: haggai",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: haggai",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: zechariah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: zechariah",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Frozen inherited Scripture unchanged: malachi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Source history unchanged: malachi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Every supplied review maps to exactly one OT unit",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "26,580 stored OT units preserved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Unique scoped unit IDs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All seven continuation paragraphs preserved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Esther six attached continuations preserved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Psalm 151 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Daniel preface and both additions retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Sirach prologue retained as distinct section",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proverbs 34 sections retain inherited reading order",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Existing NT Scripture and review edition unchanged",
+      "passed": true,
+      "details": "No tracked differences against the baseline"
+    },
+    {
+      "check": "JSON file round-trips all inherited records and candidates",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "HTML exact ordered display text including every continuation",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "HTML IDs are globally unique",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TXT exact ordered display text including every continuation",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Every candidate text hash rechecks",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Original Genesis 1–11 benchmark Git content untouched",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Unique review identity",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review matches frozen commit",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review matches inherited reading section",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review matches exact inherited reference",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review matches exact inherited wording",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review candidate hash agrees",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review decision agrees",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review benchmark flag agrees",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Review records source-access metadata",
+      "passed": true,
+      "cases": 12912
+    },
+    {
+      "check": "Source locator matches chapter",
+      "passed": true,
+      "cases": 12864
+    },
+    {
+      "check": "Continuation has three draft stages",
+      "passed": true,
+      "cases": 12784
+    },
+    {
+      "check": "Literary stage agrees with candidate",
+      "passed": true,
+      "cases": 12784
+    },
+    {
+      "check": "Nonempty inherited and candidate text",
+      "passed": true,
+      "cases": 26580
+    },
+    {
+      "check": "Poetry text agrees with JSON",
+      "passed": true,
+      "cases": 32
+    }
+  ],
+  "limits": "Structural/content checks and AI passage comparisons only; not independent Greek or human read-aloud review. No website publication. Browser visual checks, if performed, are recorded separately."
+}
