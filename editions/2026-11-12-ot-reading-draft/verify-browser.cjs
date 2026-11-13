@@ -87,6 +87,17 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`Leviticus ${anchor.slice(1).replace('-',':')} proposal and baseline visible on mobile`);
     await page.screenshot({path:path.join(__dirname,`reader-mobile-leviticus-${anchor.slice(1)}.png`)});
   }
+  for (const [section,anchor,candidate,baseline] of [[2,'v2-17','shall set out in the middle','shall be raised in the middle'],[4,'v4-36','two thousand two hundred fifty','two thousand seven hundred fifty']]) {
+    await page.goto(url+`#numbers-section-${section}`);
+    const proposal=page.locator(`#numbers-section-${section}-${anchor}`);
+    await proposal.locator('summary').click();
+    assert((await proposal.locator('.reading-text').innerText()).includes(candidate));
+    assert((await proposal.locator('.baseline').innerText()).includes(baseline));
+    await proposal.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`Numbers ${anchor.slice(1).replace('-',':')} proposal and baseline visible on mobile`);
+    await page.screenshot({path:path.join(__dirname,`reader-mobile-numbers-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');

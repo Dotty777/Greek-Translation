@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "status": "scoped_working_name_register_not_complete_or_editorially_approved",
   "scope": "Selected name distinctions encountered in the opening OT work; not an exhaustive personal or place-name index.",
   "policy": "Retain inherited English forms while investigating source and identity distinctions. Matching Greek spelling does not establish matching persons; different names in a narrative are not silently harmonized.",
@@ -28,16 +28,33 @@
       "greek_form": "Καιναν",
       "inherited_english_form": "Cainan",
       "reference": "Genesis 10:24; 11:12–13",
-      "sources": ["https://www.die-bibel.de/en/bible/LXX/GEN.10", "https://www.die-bibel.de/en/bible/LXX/GEN.11"],
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/GEN.10",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.11"
+      ],
       "decision": "Retain Arphaxad–Cainan–Shelah in the selected text, including the material grouped within 11:13. Do not merge this record with the earlier Cainan in Genesis 5 merely because the Greek spelling agrees.",
       "approved_english_form": null
     },
     {
       "record_id": "GEN-SARA-SARAH",
-      "greek_forms": ["Σαρα", "Σαρρα"],
-      "inherited_english_forms": ["Sara", "Sarah"],
-      "references": ["Genesis 12", "Genesis 17:15", "Genesis 21"],
-      "sources": ["https://www.die-bibel.de/en/bible/LXX/GEN.12", "https://www.die-bibel.de/en/bible/LXX/GEN.17", "https://www.die-bibel.de/en/bible/LXX/GEN.21"],
+      "greek_forms": [
+        "Σαρα",
+        "Σαρρα"
+      ],
+      "inherited_english_forms": [
+        "Sara",
+        "Sarah"
+      ],
+      "references": [
+        "Genesis 12",
+        "Genesis 17:15",
+        "Genesis 21"
+      ],
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/GEN.12",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.17",
+        "https://www.die-bibel.de/en/bible/LXX/GEN.21"
+      ],
       "decision": "Preserve the deliberate before/after naming distinction in the existing manuscript; do not normalize both spellings globally.",
       "approved_english_form": null
     },
@@ -62,11 +79,416 @@
     },
     {
       "record_id": "EXO-JETHRO-REUEL-QUESTION",
-      "greek_forms": ["Ιοθορ", "Ραγουηλ"],
-      "inherited_english_forms": ["Jethro", "Reuel"],
-      "references": ["Exodus 2:16", "Exodus 2:18"],
+      "greek_forms": [
+        "Ιοθορ",
+        "Ραγουηλ"
+      ],
+      "inherited_english_forms": [
+        "Jethro",
+        "Reuel"
+      ],
+      "references": [
+        "Exodus 2:16",
+        "Exodus 2:18"
+      ],
       "source": "https://www.die-bibel.de/en/bible/LXX/EXO.2",
       "decision": "Preserve both names where printed. Their historical or genealogical relationship remains unresolved in this batch; no alias equivalence or apparatus solution is asserted.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-REUBEN",
+      "reference": "Numbers 1:5; corresponding camp entry in Numbers 2",
+      "tribe": "Reuben",
+      "greek_form": "Ελισουρ",
+      "inherited_english_form": "Elizur",
+      "father_greek_form": "Σεδιουρ",
+      "father_inherited_english_form": "Shedeur",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-SIMEON",
+      "reference": "Numbers 1:6; corresponding camp entry in Numbers 2",
+      "tribe": "Simeon",
+      "greek_form": "Σαλαμιηλ",
+      "inherited_english_form": "Shelumiel",
+      "father_greek_form": "Σουρισαδαι",
+      "father_inherited_english_form": "Zurishaddai",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-JUDAH",
+      "reference": "Numbers 1:7; corresponding camp entry in Numbers 2",
+      "tribe": "Judah",
+      "greek_form": "Ναασσων",
+      "inherited_english_form": "Nahshon",
+      "father_greek_form": "Αμιναδαβ",
+      "father_inherited_english_form": "Amminadab",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-ISSACHAR",
+      "reference": "Numbers 1:8; corresponding camp entry in Numbers 2",
+      "tribe": "Issachar",
+      "greek_form": "Ναθαναηλ",
+      "inherited_english_form": "Nethanel",
+      "father_greek_form": "Σωγαρ",
+      "father_inherited_english_form": "Zuar",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-ZEBULUN",
+      "reference": "Numbers 1:9; corresponding camp entry in Numbers 2",
+      "tribe": "Zebulun",
+      "greek_form": "Ελιαβ",
+      "inherited_english_form": "Eliab",
+      "father_greek_form": "Χαιλων",
+      "father_inherited_english_form": "Helon",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-EPHRAIM",
+      "reference": "Numbers 1:10; corresponding camp entry in Numbers 2",
+      "tribe": "Ephraim",
+      "greek_form": "Ελισαμα",
+      "inherited_english_form": "Elishama",
+      "father_greek_form": "Εμιουδ",
+      "father_inherited_english_form": "Ammihud",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-MANASSEH",
+      "reference": "Numbers 1:10; corresponding camp entry in Numbers 2",
+      "tribe": "Manasseh",
+      "greek_form": "Γαμαλιηλ",
+      "inherited_english_form": "Gamaliel",
+      "father_greek_form": "Φαδασσουρ",
+      "father_inherited_english_form": "Pedahzur",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-BENJAMIN",
+      "reference": "Numbers 1:11; corresponding camp entry in Numbers 2",
+      "tribe": "Benjamin",
+      "greek_form": "Αβιδαν",
+      "inherited_english_form": "Abidan",
+      "father_greek_form": "Γαδεωνι",
+      "father_inherited_english_form": "Gideoni",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-DAN",
+      "reference": "Numbers 1:12; corresponding camp entry in Numbers 2",
+      "tribe": "Dan",
+      "greek_form": "Αχιεζερ",
+      "inherited_english_form": "Ahiezer",
+      "father_greek_form": "Αμισαδαι",
+      "father_inherited_english_form": "Ammishaddai",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-ASHER",
+      "reference": "Numbers 1:13; corresponding camp entry in Numbers 2",
+      "tribe": "Asher",
+      "greek_form": "Φαγαιηλ",
+      "inherited_english_form": "Pagiel",
+      "father_greek_form": "Εχραν",
+      "father_inherited_english_form": "Ocran",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-GAD",
+      "reference": "Numbers 1:14; corresponding camp entry in Numbers 2",
+      "tribe": "Gad",
+      "greek_form": "Ελισαφ",
+      "inherited_english_form": "Eliasaph",
+      "father_greek_form": "Ραγουηλ",
+      "father_inherited_english_form": "Reuel",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-CENSUS-NAPHTALI",
+      "reference": "Numbers 1:15; corresponding camp entry in Numbers 2",
+      "tribe": "Naphtali",
+      "greek_form": "Αχιρε",
+      "inherited_english_form": "Ahira",
+      "father_greek_form": "Αιναν",
+      "father_inherited_english_form": "Enan",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.1",
+        "https://www.die-bibel.de/en/bible/LXX/NUM.2"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited English forms as provisional equivalents for this source-identified leader/father pair; investigate spelling and identity before any normalization.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-HOBAB",
+      "reference": "Numbers 10:29",
+      "greek_form": "Ιωβαβ",
+      "inherited_english_form": "Hobab",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.10"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited conventional English equivalent provisionally; selected Greek spelling is recorded, with no editorial normalization approved.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-MEDAD",
+      "reference": "Numbers 11:26–27",
+      "greek_form": "Μωδαδ",
+      "inherited_english_form": "Medad",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.11"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain inherited conventional English equivalent provisionally; selected Greek spelling is recorded, with no editorial normalization approved.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-REUBEN",
+      "reference": "Numbers 13:4",
+      "tribe": "Reuben",
+      "greek_form": "Σαλαμιηλ",
+      "inherited_english_form": "Salamiel",
+      "father_greek_form": "Ζακχουρ",
+      "father_inherited_english_form": "Zaccur",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-SIMEON",
+      "reference": "Numbers 13:5",
+      "tribe": "Simeon",
+      "greek_form": "Σαφατ",
+      "inherited_english_form": "Shaphat",
+      "father_greek_form": "Σουρι",
+      "father_inherited_english_form": "Souri",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-JUDAH",
+      "reference": "Numbers 13:6",
+      "tribe": "Judah",
+      "greek_form": "Χαλεβ",
+      "inherited_english_form": "Caleb",
+      "father_greek_form": "Ιεφοννη",
+      "father_inherited_english_form": "Jephunneh",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-ISSACHAR",
+      "reference": "Numbers 13:7",
+      "tribe": "Issachar",
+      "greek_form": "Ιγααλ",
+      "inherited_english_form": "Igal",
+      "father_greek_form": "Ιωσηφ",
+      "father_inherited_english_form": "Joseph",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-EPHRAIM",
+      "reference": "Numbers 13:8",
+      "tribe": "Ephraim",
+      "greek_form": "Αυση",
+      "inherited_english_form": "Hoshea",
+      "father_greek_form": "Ναυη",
+      "father_inherited_english_form": "Nun",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-BENJAMIN",
+      "reference": "Numbers 13:9",
+      "tribe": "Benjamin",
+      "greek_form": "Φαλτι",
+      "inherited_english_form": "Palti",
+      "father_greek_form": "Ραφου",
+      "father_inherited_english_form": "Raphu",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-ZEBULUN",
+      "reference": "Numbers 13:10",
+      "tribe": "Zebulun",
+      "greek_form": "Γουδιηλ",
+      "inherited_english_form": "Gaddiel",
+      "father_greek_form": "Σουδι",
+      "father_inherited_english_form": "Sodi",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-MANASSEH",
+      "reference": "Numbers 13:11",
+      "tribe": "Manasseh",
+      "greek_form": "Γαδδι",
+      "inherited_english_form": "Gaddi",
+      "father_greek_form": "Σουσι",
+      "father_inherited_english_form": "Susi",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-DAN",
+      "reference": "Numbers 13:12",
+      "tribe": "Dan",
+      "greek_form": "Αμιηλ",
+      "inherited_english_form": "Ammiel",
+      "father_greek_form": "Γαμαλι",
+      "father_inherited_english_form": "Gemalli",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-ASHER",
+      "reference": "Numbers 13:13",
+      "tribe": "Asher",
+      "greek_form": "Σαθουρ",
+      "inherited_english_form": "Sethur",
+      "father_greek_form": "Μιχαηλ",
+      "father_inherited_english_form": "Michael",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-NAPHTALI",
+      "reference": "Numbers 13:14",
+      "tribe": "Naphtali",
+      "greek_form": "Ναβι",
+      "inherited_english_form": "Nahbi",
+      "father_greek_form": "Ιαβι",
+      "father_inherited_english_form": "Iabi",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "NUM-SCOUT-GAD",
+      "reference": "Numbers 13:15",
+      "tribe": "Gad",
+      "greek_form": "Γουδιηλ",
+      "inherited_english_form": "Gaddiel",
+      "father_greek_form": "Μακχι",
+      "father_inherited_english_form": "Machi",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/LXX/NUM.13"
+      ],
+      "accessed_on": "2026-11-13",
+      "decision": "Retain this source-identified pair provisionally. Distinctive and repeated selected names are not harmonized to another textual tradition.",
       "approved_english_form": null
     }
   ],

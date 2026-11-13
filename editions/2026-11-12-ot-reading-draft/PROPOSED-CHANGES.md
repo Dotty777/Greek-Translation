@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**44 proposals · 12 November 2026 · editorial acceptance pending**
+**48 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -741,6 +741,78 @@ The hand idiom expresses insufficient means. Propose animal from the flock inste
 Propose paws for hands in the quadruped context. LSJ cheir I.3 explicitly covers animal paws and cites this passage; the close stage preserves the inherited literal hands wording.
 
 [Focused evidence](../../reviews/2026-11-13-OT-018-leviticus-11-13/focused-reviews.json) · anchor `v11-27`
+
+## Numbers 2:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the Tent of Testimony and the camp of the Levites shall be raised in the middle of the camps. As they camp, so they shall set out, each beside his neighbour according to command.
+
+**Proposed**
+
+> And the Tent of Testimony and the camp of the Levites shall set out in the middle of the camps. As they camp, so they shall set out, each beside his neighbour according to command.
+
+**Reason and limits**
+
+Propose shall set out for shall be raised: the tent and Levitical camp move among the marching camps, and the following clause explicitly compares camping with departure. The close draft retains shall be taken up.
+
+[Focused evidence](../../reviews/2026-11-13-OT-024-numbers-1-2/focused-reviews.json) · anchor `v2-17`
+
+## Numbers 4:36
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And their enrolment by their divisions was two thousand seven hundred fifty.
+
+**Proposed**
+
+> And their enrolment by their divisions was two thousand two hundred fifty.
+
+**Reason and limits**
+
+Propose two thousand two hundred fifty in place of two thousand seven hundred fifty. The selected Greek explicitly reads dischilioi diakosioi pentekonta, or 2,250; the resulting disagreement with the chapter total is preserved for apparatus review.
+
+[Focused evidence](../../reviews/2026-11-13-OT-025-numbers-3-4/focused-reviews.json) · anchor `v4-36`
+
+## Numbers 11:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> But if Thou do thus unto me, slay me outright, if I have found mercy with Thee, that I may not see my misery.
+
+**Proposed**
+
+> But if Thou dost thus unto me, slay me outright, if I have found mercy with Thee, that I may not see my misery.
+
+**Reason and limits**
+
+The literary proposal uses dost for the present direct address to God, smoothing the inherited if Thou do construction while retaining the conditional request, emphatic killing and mercy clause.
+
+[Focused evidence](../../reviews/2026-11-13-OT-029-numbers-11-12/focused-reviews.json) · anchor `v11-15`
+
+## Numbers 14:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Only do not become deserters from the Lord. Do not fear the people of the land, for they are food for us. Their season has passed away from them, but the Lord is among us. Do not fear them.
+
+**Proposed**
+
+> But do not become deserters from the Lord. Do not fear the people of the land, for they are food for us. Their season has passed away from them, but the Lord is among us. Do not fear them.
+
+**Reason and limits**
+
+The proposal replaces initial Only with But to express the selected adversative without adding a restriction. Deserters, food, departed season and the repeated fear prohibition remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-030-numbers-13-14/focused-reviews.json) · anchor `v14-9`
 
 ## Jonah 3:9
 

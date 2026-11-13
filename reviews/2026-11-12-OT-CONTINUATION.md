@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 3,475 focused comparison records. Across the current OT programme, 3,603 of 26,580 stored units have new comparisons; 22,977 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 4,023 focused comparison records. Across the current OT programme, 4,151 of 26,580 stored units have new comparisons; 22,429 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -26,11 +26,18 @@ This continuation adds 3,475 focused comparison records. Across the current OT p
 | [OT-021](2026-11-13-OT-021-leviticus-20-22/README.md) | Leviticus 20–22; all 84 stored units in the selected source numbering | 84 | 0 |
 | [OT-022](2026-11-13-OT-022-leviticus-23-24/README.md) | Leviticus 23–24; all 67 stored units in the selected source numbering | 67 | 0 |
 | [OT-023](2026-11-13-OT-023-leviticus-25-27/README.md) | Leviticus 25–27; all 135 stored units in the selected source numbering | 135 | 0 |
+| [OT-024](2026-11-13-OT-024-numbers-1-2/README.md) | Numbers 1–2; all 88 stored units in the selected source numbering | 88 | 1 |
+| [OT-025](2026-11-13-OT-025-numbers-3-4/README.md) | Numbers 3–4; all 100 stored units in the selected source numbering | 100 | 1 |
+| [OT-026](2026-11-13-OT-026-numbers-5-6/README.md) | Numbers 5–6; all 57 stored units in the selected source numbering | 57 | 0 |
+| [OT-027](2026-11-13-OT-027-numbers-7/README.md) | Numbers 7; all 89 stored units | 89 | 0 |
+| [OT-028](2026-11-13-OT-028-numbers-8-10/README.md) | Numbers 8–10; all 85 stored units in the selected source numbering | 85 | 0 |
+| [OT-029](2026-11-13-OT-029-numbers-11-12/README.md) | Numbers 11–12; all 51 stored units | 51 | 1 |
+| [OT-030](2026-11-13-OT-030-numbers-13-14/README.md) | Numbers 13–14; all 78 stored units | 78 | 1 |
 
-Next source-led drafting passage: **Numbers 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **Numbers 15**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 3,506 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 4,054 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

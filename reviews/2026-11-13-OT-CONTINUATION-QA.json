@@ -2,7 +2,7 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "type": "same_assistant_scoped_AI_recheck",
-  "scope": "Leviticus 4–27, 809 individually authored comparison records, with emphasis on the two new literary proposals and output identity",
+  "scope": "Leviticus 4–27 (809 authored comparison records) and Numbers 1–14 (548 authored comparison records), with emphasis on six new literary proposals, numerical checks and output identity",
   "findings": [
     {
       "reference": "Leviticus 5:7",
@@ -19,6 +19,22 @@
     {
       "reference": "Leviticus 27:3–7, 25",
       "result": "Age ranges, amounts and the stated twenty-obol equivalence were compared to the Greek running text."
+    },
+    {
+      "reference": "Numbers 2:17; 4:36; 11:15; 14:9",
+      "result": "The four new candidates were rechecked against exact baseline and authored source comparisons: movement of the camp, selected 2,250, direct-address dost, and adversative But. No general replacement rule was applied."
+    },
+    {
+      "reference": "Numbers 3:22–39; 4:36–48",
+      "result": "Selected subgroup totals differ from stated chapter totals by 150 and 500 respectively. These source discrepancies remain explicit; the draft does not change Greek figures to balance arithmetic."
+    },
+    {
+      "reference": "Numbers 1–2; 7",
+      "result": "Census and offering arithmetic agrees with the manually compared figures. The repeated offering lists remain in full."
+    },
+    {
+      "reference": "Numbers 6:23–26; 10:34–36; 13–14",
+      "result": "Selected clause placement, ordering, scout names and fuller readings are preserved with explicit unresolved syntax and name decisions."
     }
   ],
   "limits": "No independent reviewer, exhaustive token alignment, apparatus collation or human read-aloud stage is credited. Retention does not resolve the questions explicitly listed in the passage records."

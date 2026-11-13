@@ -2,7 +2,7 @@
 
 **43 books · 1,037 reading sections · 26,580 stored units · 7 attached continuation paragraphs · 12 November 2026**
 
-The entire inherited Saints English Old Testament is assembled here. New focused Greek comparisons cover **3603 units**, including **44 unaccepted wording proposals**. The other **22,977 units remain inherited drafts without a new comparison in this batch**. This is a complete reading manuscript, not a completed fresh translation, exhaustive Greek audit or accepted release.
+The entire inherited Saints English Old Testament is assembled here. New focused Greek comparisons cover **4151 units**, including **48 unaccepted wording proposals**. The other **22,429 units remain inherited drafts without a new comparison in this batch**. This is a complete reading manuscript, not a completed fresh translation, exhaustive Greek audit or accepted release.
 
 - [Read the Old Testament](Saints-English-Old-Testament.html) — standalone offline HTML with book selection, every reading section and expandable proposal comparisons. Download and open locally; all text remains available without JavaScript.
 - [Plain-text edition](Saints-English-Old-Testament.txt) and [structured edition](old-testament.json).
@@ -11,7 +11,7 @@ The entire inherited Saints English Old Testament is assembled here. New focused
 
 ## Review boundaries
 
-The working source remains Rahlfs–Hanhart 2006 subject to the book-specific histories; Daniel uses Old Greek. Fresh evidence resides in the dated OT batch directories listed in the manifest. Of the compared units, 1 have explicit token accounting (19 source tokens); these are a subset of the comparison total. Three working draft stages are recorded for 3506 units and may deliberately agree. These statuses do not imply critical-apparatus collation or resolved interpretation. Independent human Greek review, human read-aloud review, editorial acceptance and publication remain pending. No New Testament work is included or altered.
+The working source remains Rahlfs–Hanhart 2006 subject to the book-specific histories; Daniel uses Old Greek. Fresh evidence resides in the dated OT batch directories listed in the manifest. Of the compared units, 1 have explicit token accounting (19 source tokens); these are a subset of the comparison total. Three working draft stages are recorded for 4054 units and may deliberately agree. These statuses do not imply critical-apparatus collation or resolved interpretation. Independent human Greek review, human read-aloud review, editorial acceptance and publication remain pending. No New Testament work is included or altered.
 
 Each proposed wording change is visibly marked in the reader and plain text. The JSON retains the exact original unit, including display text and metadata, alongside its candidate. Genesis 1–11's accepted historical benchmark remains intact in the original book archive. Proposed corrections do not silently change that status.
 
@@ -35,4 +35,4 @@ Baseline: `39a2bb990f252f9c867879f14942b200c4a86aa5`. The original book files ar
 
 ## Browser verification
 
-[Browser checks](browser-validation.json) record 19 passing checks in local headless Chrome at desktop and phone widths, tied to the current reader's SHA-256. [Visual inspection](visual-verification.json) records the scope of the AI screenshot inspection. No human read-aloud, real-phone or assistive-technology review is implied. `verify-browser.cjs` reproduces the browser checks with configurable runtime paths.
+[Browser checks](browser-validation.json) record 21 passing checks in local headless Chrome at desktop and phone widths, tied to the current reader's SHA-256. [Visual inspection](visual-verification.json) records the scope of the AI screenshot inspection. No human read-aloud, real-phone or assistive-technology review is implied. `verify-browser.cjs` reproduces the browser checks with configurable runtime paths.

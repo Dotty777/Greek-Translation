@@ -7,13 +7,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 3603,
-    "inherited_without_new_comparison": 22977,
-    "proposed_changed_units": 44,
-    "retained_after_focused_comparison": 3559,
+    "fresh_focused_comparison_units": 4151,
+    "inherited_without_new_comparison": 22429,
+    "proposed_changed_units": 48,
+    "retained_after_focused_comparison": 4103,
     "new_token_aligned_units": 1,
     "aligned_source_tokens": 19,
-    "three_stage_draft_units": 3506,
+    "three_stage_draft_units": 4054,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,
@@ -302,6 +302,26 @@
     },
     {
       "check": "Frozen inherited Scripture unchanged: numbers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v2-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v4-36')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v11-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('numbers', 'v14-9')",
       "passed": true,
       "details": null
     },
@@ -798,62 +818,62 @@
     {
       "check": "Unique review identity",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review matches frozen commit",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review matches inherited reading section",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review matches exact inherited reference",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review matches exact inherited wording",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review candidate hash agrees",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review decision agrees",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review benchmark flag agrees",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Review records source-access metadata",
       "passed": true,
-      "cases": 3603
+      "cases": 4151
     },
     {
       "check": "Source locator matches chapter",
       "passed": true,
-      "cases": 3555
+      "cases": 4103
     },
     {
       "check": "Continuation has three draft stages",
       "passed": true,
-      "cases": 3475
+      "cases": 4023
     },
     {
       "check": "Literary stage agrees with candidate",
       "passed": true,
-      "cases": 3475
+      "cases": 4023
     },
     {
       "check": "Nonempty inherited and candidate text",
