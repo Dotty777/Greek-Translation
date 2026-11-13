@@ -3,58 +3,69 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "90051bd98eac60133fdd9b521860ff8af5c69a684ddc1c6cf6efe88f719d8d67",
+  "reader_sha256": "bf5bb0bef6de3cf7f33529c3848fc63003a917eb5f105eec66e578f39479b13b",
   "images_inspected": [
     "reader-desktop.png",
     "reader-mobile.png",
-    "reader-mobile-numbers-25-8.png",
-    "reader-mobile-numbers-2-17.png",
-    "reader-mobile-numbers-4-36.png",
-    "reader-mobile-leviticus-5-7.png",
-    "reader-mobile-leviticus-11-27.png",
-    "reader-mobile-jonah.png",
-    "reader-mobile-jonah-proposal.png",
-    "reader-mobile-genesis-4-7.png",
+    "reader-mobile-deuteronomy-18-20.png",
+    "reader-mobile-deuteronomy-32-43.png",
+    "reader-mobile-deuteronomy-33-3.png",
     "reader-mobile-exodus-2-20.png",
-    "reader-mobile-leviticus-3-14.png"
+    "reader-mobile-genesis-4-7.png",
+    "reader-mobile-jonah-proposal.png",
+    "reader-mobile-jonah.png",
+    "reader-mobile-leviticus-11-27.png",
+    "reader-mobile-leviticus-3-14.png",
+    "reader-mobile-leviticus-5-7.png",
+    "reader-mobile-numbers-2-17.png",
+    "reader-mobile-numbers-25-8.png",
+    "reader-mobile-numbers-4-36.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "918c6e4d318e7e615c2d4239ce90daf78389e28e38eaa23738719d1f361834cd",
-    "reader-mobile.png": "fdc2dac02a8e0331d6e7e1fbde720a74d85c579f24fedb8331bd909fdfcf7e8d",
-    "reader-mobile-numbers-25-8.png": "e1ca2014a9f9996ec23c2839771380907ee4aed1fe82139db53bfb75a4639968",
-    "reader-mobile-numbers-2-17.png": "7ac7c5d6aead675c9f0449a3234731584d44fb33a5899510f80b82f033a3bfcb",
-    "reader-mobile-numbers-4-36.png": "2e5d890d9e0e026c80bf045ba84a647a015fb2799f518ea44e94e63099882001",
-    "reader-mobile-leviticus-5-7.png": "89b98b83c63791d6ae2f65122d19b98f2c101f3d8f52ae5bf224f82901173877",
-    "reader-mobile-leviticus-11-27.png": "cd137d8480b5c666935a0c0a8b3d8bd26469359b674a95d58016d0cbb4907aed",
-    "reader-mobile-jonah.png": "cbc8c4e31e1798fa9e47a38977441ccd281bd6e499d451f2ed7d45136fc45c50",
-    "reader-mobile-jonah-proposal.png": "d69021ca9d6400ee60ae3b76d1307372ef4db21cfff84af68a20314ed023a4b0",
-    "reader-mobile-genesis-4-7.png": "fbf366977a3775a25c165a580f6b46300d0883146038f23382e3d9423a88999d",
+    "reader-desktop.png": "958560e8390e93079edcc3b6a1f3503b46f657c8791791d3b28cfc87584608c5",
+    "reader-mobile.png": "fa76d433da59738a6529838f00132ac9ce2149b46656ffbce0fa5cc7669efc34",
+    "reader-mobile-deuteronomy-18-20.png": "5a18ad380d74870878f3b11611a78eb62de27c2e19baf3df0532480477585f86",
+    "reader-mobile-deuteronomy-32-43.png": "fceaac0c5fb0619f1ac096ae8ebbfed77c2c4dea8483b49a5e73d5bb2d4a6939",
+    "reader-mobile-deuteronomy-33-3.png": "b781415f76068409b7cd2485f4ab647fa03d058fc875effff0c88db429003f0b",
     "reader-mobile-exodus-2-20.png": "bc04c16be9ca8e8df465a8ac7366183aeb291a89dc1192157063e41674d7fee8",
-    "reader-mobile-leviticus-3-14.png": "9488601e59555db2a02d553a4a8abbb743feaacdcf1c7b592e6519f2e4a40f55"
+    "reader-mobile-genesis-4-7.png": "fbf366977a3775a25c165a580f6b46300d0883146038f23382e3d9423a88999d",
+    "reader-mobile-jonah-proposal.png": "d69021ca9d6400ee60ae3b76d1307372ef4db21cfff84af68a20314ed023a4b0",
+    "reader-mobile-jonah.png": "cbc8c4e31e1798fa9e47a38977441ccd281bd6e499d451f2ed7d45136fc45c50",
+    "reader-mobile-leviticus-11-27.png": "cd137d8480b5c666935a0c0a8b3d8bd26469359b674a95d58016d0cbb4907aed",
+    "reader-mobile-leviticus-3-14.png": "9488601e59555db2a02d553a4a8abbb743feaacdcf1c7b592e6519f2e4a40f55",
+    "reader-mobile-leviticus-5-7.png": "89b98b83c63791d6ae2f65122d19b98f2c101f3d8f52ae5bf224f82901173877",
+    "reader-mobile-numbers-2-17.png": "7ac7c5d6aead675c9f0449a3234731584d44fb33a5899510f80b82f033a3bfcb",
+    "reader-mobile-numbers-25-8.png": "e1ca2014a9f9996ec23c2839771380907ee4aed1fe82139db53bfb75a4639968",
+    "reader-mobile-numbers-4-36.png": "2e5d890d9e0e026c80bf045ba84a647a015fb2799f518ea44e94e63099882001"
   },
   "findings": [
-    "Updated desktop and phone headers show 4,890 comparisons and 54 proposals with legible navigation and controls.",
-    "Numbers 25:8 clearly separates the provisional kiln candidate from inherited chamber, with rationale, source and unresolved specialist questions visible at 390px without horizontal clipping.",
-    "Nine earlier passage screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
+    "Desktop and phone headers accurately show 5,849 comparisons and 81 proposals, with legible navigation and controls.",
+    "Deuteronomy 18:20 clearly distinguishes the corrected negation from the inherited wording, with its rationale and evidence links.",
+    "Deuteronomy 32:43 preserves all eight poetic clauses; the proposed lineation and unresolved lexical choices remain visible.",
+    "Deuteronomy 33:3 exposes the uncertainty behind Thy/Thee rather than allowing capitalization to conceal it.",
+    "Ten earlier screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
   ],
-  "scope_limits": "Three current screenshots inspected by AI; nine earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Twenty-two automated functional checks are recorded separately.",
+  "scope_limits": "Five current screenshots inspected by AI; ten earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Twenty-five automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
     "reader-mobile.png",
-    "reader-mobile-numbers-25-8.png"
+    "reader-mobile-deuteronomy-18-20.png",
+    "reader-mobile-deuteronomy-32-43.png",
+    "reader-mobile-deuteronomy-33-3.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
     "date": "2026-11-13",
     "images": [
-      "reader-mobile-numbers-2-17.png",
-      "reader-mobile-numbers-4-36.png",
-      "reader-mobile-leviticus-5-7.png",
-      "reader-mobile-leviticus-11-27.png",
-      "reader-mobile-jonah.png",
-      "reader-mobile-jonah-proposal.png",
-      "reader-mobile-genesis-4-7.png",
       "reader-mobile-exodus-2-20.png",
-      "reader-mobile-leviticus-3-14.png"
+      "reader-mobile-genesis-4-7.png",
+      "reader-mobile-jonah-proposal.png",
+      "reader-mobile-jonah.png",
+      "reader-mobile-leviticus-11-27.png",
+      "reader-mobile-leviticus-3-14.png",
+      "reader-mobile-leviticus-5-7.png",
+      "reader-mobile-numbers-2-17.png",
+      "reader-mobile-numbers-25-8.png",
+      "reader-mobile-numbers-4-36.png"
     ]
   }
 }

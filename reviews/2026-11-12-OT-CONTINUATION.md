@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 4,762 focused comparison records. Across the current OT programme, 4,890 of 26,580 stored units have new comparisons; 21,690 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 5,721 focused comparison records. Across the current OT programme, 5,849 of 26,580 stored units have new comparisons; 20,731 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -43,11 +43,23 @@ This continuation adds 4,762 focused comparison records. Across the current OT p
 | [OT-038](2026-11-13-OT-038-numbers-30-31/README.md) | Numbers 30–31; all 71 stored units in the selected source numbering | 71 | 0 |
 | [OT-039](2026-11-13-OT-039-numbers-32-33/README.md) | Numbers 32–33; all 98 stored units | 98 | 0 |
 | [OT-040](2026-11-13-OT-040-numbers-34-36/README.md) | Numbers 34–36; all 76 stored units | 76 | 0 |
+| [OT-041](2026-11-13-OT-041-deuteronomy-1-2/README.md) | Deuteronomy 1–2; all 83 stored units | 83 | 2 |
+| [OT-042](2026-11-13-OT-042-deuteronomy-3-4/README.md) | Deuteronomy 3–4; all 78 stored units | 78 | 3 |
+| [OT-043](2026-11-13-OT-043-deuteronomy-5-7/README.md) | Deuteronomy 5–7; all 84 stored units | 84 | 4 |
+| [OT-044](2026-11-13-OT-044-deuteronomy-8-10/README.md) | Deuteronomy 8–10; all 71 stored units | 71 | 1 |
+| [OT-045](2026-11-13-OT-045-deuteronomy-11-13/README.md) | Deuteronomy 11–13; all 82 stored units, including selected 13:1 boundary | 82 | 2 |
+| [OT-046](2026-11-13-OT-046-deuteronomy-14-16/README.md) | Deuteronomy 14–16; all 74 stored units | 74 | 1 |
+| [OT-047](2026-11-13-OT-047-deuteronomy-17-20/README.md) | Deuteronomy 17–20; all 83 stored units | 83 | 2 |
+| [OT-048](2026-11-13-OT-048-deuteronomy-21-23/README.md) | Deuteronomy 21–23; all 78 stored units, including selected 23:1 boundary | 78 | 4 |
+| [OT-049](2026-11-13-OT-049-deuteronomy-24-26/README.md) | Deuteronomy 24-26; all 60 stored units | 60 | 3 |
+| [OT-050](2026-11-13-OT-050-deuteronomy-27-28/README.md) | Deuteronomy 27-28; all 95 stored units including the 28:69 covenant heading | 95 | 3 |
+| [OT-051](2026-11-13-OT-051-deuteronomy-29-31/README.md) | Deuteronomy 29-31; all 78 stored units | 78 | 2 |
+| [OT-052](2026-11-13-OT-052-deuteronomy-32-34/README.md) | Deuteronomy 32-34; all 93 stored units | 93 | 0 |
 
-Next source-led drafting passage: **Deuteronomy 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **Joshua 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 4,793 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 5,752 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

@@ -1,12 +1,12 @@
 {
   "status": "passed",
   "date": "2026-11-13",
-  "reader_sha256": "90051bd98eac60133fdd9b521860ff8af5c69a684ddc1c6cf6efe88f719d8d67",
+  "reader_sha256": "bf5bb0bef6de3cf7f33529c3848fc63003a917eb5f105eec66e578f39479b13b",
   "environment": "Headless Chrome on Windows; local file, 1440×1000 and 390×844",
   "checks": [
     "All 43 books available",
     "26,580 units and seven continuations rendered",
-    "54 proposals visibly marked",
+    "81 proposals visibly marked",
     "All 1,037 reading sections rendered",
     "Book picker shows Jonah only",
     "Book links update filtered view",
@@ -24,6 +24,9 @@
     "Numbers 2:17 proposal and baseline visible on mobile",
     "Numbers 4:36 proposal and baseline visible on mobile",
     "Numbers 25:8 proposal and baseline visible on mobile",
+    "Deuteronomy 18:20 negation correction and baseline are distinct on mobile",
+    "Deuteronomy 32:43 retains all eight poetic clauses and identifies proposed lineation",
+    "Deuteronomy 33:3 exposes the unresolved divine-address interpretation",
     "Book control is keyboard focusable",
     "No JavaScript page errors"
   ],

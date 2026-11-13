@@ -91,3 +91,14 @@ The publisher’s English-interface Numbers 21 page timed out; the [German-inter
 For Numbers 25:8, the [bounded lexical record](../reviews/2026-11-13-OT-036-numbers-25-26/lexical-checks.json) identifies the LSJ entry and scholarly review actually consulted in proposing kiln. The competing alcove sense and the limits of access remain explicit. Cited papyri and other scholarly works were not independently consulted. This proposal does not represent settled specialist consensus.
 
 The census, offerings and spoil records preserve manually read quantities and separately label arithmetic. Both itinerary movements in 33:36, difficult boundary wording and selected legal clauses remain intact. No full Greek corpus, apparatus collation, independent human review or editorial acceptance is claimed.
+
+
+## 13 November 2026 — Deuteronomy completed in the provisional comparison pass
+
+Complete selected Rahlfs–Hanhart Greek and exact inherited English were read for all 34 chapters. Batches OT-041 through OT-052 contain 959 authored unit comparisons and 27 wording proposals. The [continuation report](../reviews/2026-11-12-OT-CONTINUATION.md) carries cumulative progress; the whole Old Testament assignment remains active, with Joshua next.
+
+The [German-interface Deuteronomy 9 page](https://www.die-bibel.de/bibel/LXX/DEU.9) supplied the complete text after the English-interface response was truncated and a reopening timed out. Other chapter sources and reopened tails are recorded in the batch metadata. No source access is represented as a new apparatus collation.
+
+Proposals distinguish generic livestock from cattle, clarify causal expressions, restore children as the subjects at 11:19, correct the negation scope at 18:20, and preserve selected prepositions and conjunctions. The difficult legal, ritual, animal, geographic and poetic expressions remain explicit review questions. The [closing batch](../reviews/2026-11-13-OT-052-deuteronomy-32-34/README.md) also supplies 70 proposed poetic display lineations whose normalized wording is unchanged. These are authored display choices, not recovered inherited formatting.
+
+No exhaustive token accounting, specialist lexicon programme, independent human Greek review, reading aloud, editorial acceptance or website publication is credited. Original book files, source histories and New Testament materials remain unchanged.

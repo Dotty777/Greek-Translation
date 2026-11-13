@@ -64,6 +64,18 @@ REVIEW_DIRS = [
     "reviews/2026-11-13-OT-038-numbers-30-31",
     "reviews/2026-11-13-OT-039-numbers-32-33",
     "reviews/2026-11-13-OT-040-numbers-34-36",
+    "reviews/2026-11-13-OT-041-deuteronomy-1-2",
+    "reviews/2026-11-13-OT-042-deuteronomy-3-4",
+    "reviews/2026-11-13-OT-043-deuteronomy-5-7",
+    "reviews/2026-11-13-OT-044-deuteronomy-8-10",
+    "reviews/2026-11-13-OT-045-deuteronomy-11-13",
+    "reviews/2026-11-13-OT-046-deuteronomy-14-16",
+    "reviews/2026-11-13-OT-047-deuteronomy-17-20",
+    "reviews/2026-11-13-OT-048-deuteronomy-21-23",
+    "reviews/2026-11-13-OT-049-deuteronomy-24-26",
+    "reviews/2026-11-13-OT-050-deuteronomy-27-28",
+    "reviews/2026-11-13-OT-051-deuteronomy-29-31",
+    "reviews/2026-11-13-OT-052-deuteronomy-32-34",
 ]
 
 
@@ -278,10 +290,10 @@ def build(required=False):
                     check(f"Review decision agrees with wording {key}", r.get("decision") == ("propose_revision" if changed else "retain_provisionally"))
                     check(f"Review benchmark flag agrees {key}", bool(r.get("benchmark_change")) == (changed and book_id == 'genesis' and chapter['chapter'] <= 11))
                     check(f"Review records source-access metadata {key}", r.get('source', {}).get('running_text_read') is True and bool(r.get('source', {}).get('url')) and bool(r.get('source', {}).get('accessed_on')))
-                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers'):
-                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM'}[book_id]
+                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy'):
+                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU'}[book_id]
                         check(f"Source locator matches chapter {key}", r['source']['url'].rstrip('/').endswith(f"/LXX/{source_code}.{chapter['chapter']}"))
-                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers'):
+                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy'):
                         check(f"Continuation has three draft stages {key}", has_three_drafts(r))
                         check(f"Literary stage agrees with candidate {key}", r['drafts']['literary'] == r['candidate_text'])
                     if r.get("review", {}).get("all_tokens_accounted_for"):
@@ -305,6 +317,11 @@ def build(required=False):
                                         "benchmark_proposal": book_id == "genesis" and chapter["chapter"] <= 11,
                                         "editorial_acceptance": "pending", "evidence": r["evidence_path"],
                                         "rationale": r.get("analysis", r.get("rationale", "See the focused review record."))})
+                    if "candidate_display_text" in r:
+                        unit["display_text"] = r["candidate_display_text"].replace("\\n", "\n")
+                        check(f"Reviewed display preserves candidate wording {key}", norm(unit["display_text"]) == norm(candidate))
+                        if not changed and unit["display_text"] != display:
+                            unit["display_review_note"] = "Poetic line breaks proposed by AI from the selected Greek clause parallels; wording retained and editorial acceptance pending."
                     used_reviews.add(key)
                 check(f"Nonempty inherited and candidate text {book_id}/{anchor}", bool(text.strip()) and bool(unit["text"].strip()))
                 unit["continuation_paragraphs"] = copy.deepcopy(original.get("continuation_paragraphs", []))
@@ -447,6 +464,8 @@ def render_reader(edition, inventory):
                     if not isinstance(analysis, str):
                         analysis = json.dumps(analysis, ensure_ascii=False)
                     parts.append(f'<p>{e(analysis)}</p>')
+                    if verse.get("display_review_note"):
+                        parts.append(f'<p>{e(verse["display_review_note"])}</p>')
                     if verse.get("source_url"):
                         parts.append(f'<p><a href="{e(verse["source_url"])}">Greek running text consulted</a></p>')
                     for stage, draft in verse.get("drafts", {}).items():
@@ -513,7 +532,7 @@ Each proposed wording change is visibly marked in the reader and plain text. The
 
 Preserved: Psalm 151; all Greek Esther additions and six attached continuation paragraphs; the additional continuation at 1 Kings 8:53a; Daniel's separate chapter-five preface, furnace material, Susanna and Bel and the Dragon; Sirach's translator's prologue; all 34 Proverbs sections in the inherited reading order. Stored units and attached continuations are counted separately. Lettered/grouped references and meaningful gaps remain unchanged.
 
-All 4,008 inherited display-text differences remain available in `inherited_unit`; escaped line breaks are rendered as line breaks. The {counts['recovered_poetry_units']} Genesis/Exodus units whose JSON recorded only a break count recover their exact breaks from matching inherited HTML; normalized wording is checked against the JSON before use. No poetry is invented.
+All 4,008 inherited display-text differences remain available in `inherited_unit`; escaped line breaks are rendered as line breaks. The {counts['recovered_poetry_units']} Genesis/Exodus units whose JSON recorded only a break count recover their exact breaks from matching inherited HTML; normalized wording is checked against the JSON before use. Existing poetry is preserved. Explicit AI-proposed lineation for retained wording is identified in its passage evidence; normalized words must still match the candidate exactly.
 
 ## Rebuild and verification
 

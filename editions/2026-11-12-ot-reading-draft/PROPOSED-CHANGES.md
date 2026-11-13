@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**54 proposals · 12 November 2026 · editorial acceptance pending**
+**81 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -921,6 +921,492 @@ Propose some of your glory for the partitive construction, supplying natural Eng
 New-moon and continual offerings are additional. Propose singular continual whole burnt offering to match the selected noun, retaining the plural accompanying sacrifices and drinks.
 
 [Focused evidence](../../reviews/2026-11-13-OT-037-numbers-27-29/focused-reviews.json) · anchor `v29-6`
+
+## Deuteronomy 1:37
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the Lord was angry with me also for your sakes, saying: You shall not enter there either.
+
+**Proposed**
+
+> And the Lord was angry with me also because of you, saying: You shall not enter there either.
+
+**Reason and limits**
+
+Propose because of you for for your sakes: dia with the accusative states the cause of anger, while the inherited phrase can suggest benefit. Moses remains excluded as well.
+
+[Focused evidence](../../reviews/2026-11-13-OT-041-deuteronomy-1-2/focused-reviews.json) · anchor `v1-37`
+
+## Deuteronomy 2:35
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Only the cattle we took as plunder, and the spoil of the cities we took.
+
+**Proposed**
+
+> Only the livestock we took as plunder, and the spoil of the cities we took.
+
+**Reason and limits**
+
+Propose livestock for cattle: the selected generic ktene covers domestic livestock, whereas current English cattle ordinarily narrows it to bovines. The exception and city spoil remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-041-deuteronomy-1-2/focused-reviews.json) · anchor `v2-35`
+
+## Deuteronomy 3:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And all the cattle and the spoil of the cities we took as plunder for ourselves.
+
+**Proposed**
+
+> And all the livestock and the spoil of the cities we took as plunder for ourselves.
+
+**Reason and limits**
+
+Propose livestock for cattle to preserve the generic ktene in this plunder list. All, city spoil and for ourselves remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-042-deuteronomy-3-4/focused-reviews.json) · anchor `v3-7`
+
+## Deuteronomy 3:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Only let your wives, and your children, and your cattle, for I know that you have much cattle, dwell in your cities which I have given you,
+
+**Proposed**
+
+> Only let your wives, and your children, and your livestock, for I know that you have much livestock, dwell in your cities which I have given you,
+
+**Reason and limits**
+
+Propose livestock in both occurrences of cattle, preserving the generic animal term and the parenthetical recognition of its abundance. Wives and children remain separate groups.
+
+[Focused evidence](../../reviews/2026-11-13-OT-042-deuteronomy-3-4/focused-reviews.json) · anchor `v3-19`
+
+## Deuteronomy 3:26
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the Lord disregarded me for your sakes, and did not hearken unto me; and the Lord said unto me: Let it suffice you; speak no more of this matter.
+
+**Proposed**
+
+> And the Lord disregarded me because of you, and did not hearken unto me; and the Lord said unto me: Let it suffice you; speak no more of this matter.
+
+**Reason and limits**
+
+Propose because of you for for your sakes to clarify the causal heneken phrase. The selected disregarded verb, refusal to hear and command to speak no more remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-042-deuteronomy-3-4/focused-reviews.json) · anchor `v3-26`
+
+## Deuteronomy 5:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> but the seventh day is a Sabbath unto the Lord your God. You shall do no work therein, you, nor your sons, nor your daughter, nor your male slave, nor your female slave, nor your ox, nor your beast of burden, nor any of your cattle, nor the sojourner dwelling with you; that your male slave and your female slave may rest as you do.
+
+**Proposed**
+
+> but the seventh day is a Sabbath unto the Lord your God. You shall do no work therein, you, nor your sons, nor your daughter, nor your male slave, nor your female slave, nor your ox, nor your beast of burden, nor any of your livestock, nor the sojourner dwelling with you; that your male slave and your female slave may rest as you do.
+
+**Reason and limits**
+
+Propose livestock for the generic animal category after ox and beast of burden. Plural sons, singular daughter, both slave groups, the sojourner and equal rest all remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-043-deuteronomy-5-7/focused-reviews.json) · anchor `v5-14`
+
+## Deuteronomy 5:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You shall not covet your neighbour’s wife. You shall not covet your neighbour’s house, nor his field, nor his male slave, nor his female slave, nor his ox, nor his beast of burden, nor any of his cattle, nor anything that is your neighbour’s.
+
+**Proposed**
+
+> You shall not covet your neighbour’s wife. You shall not covet your neighbour’s house, nor his field, nor his male slave, nor his female slave, nor his ox, nor his beast of burden, nor any of his livestock, nor anything that is your neighbour’s.
+
+**Reason and limits**
+
+Propose livestock for the generic category after ox and beast of burden. Both coveting prohibitions and wife, house, field, slaves and every possession remain in order.
+
+[Focused evidence](../../reviews/2026-11-13-OT-043-deuteronomy-5-7/focused-reviews.json) · anchor `v5-21`
+
+## Deuteronomy 7:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You shall be blessed above all the nations; there shall be no barren male or female among you, nor among your cattle.
+
+**Proposed**
+
+> You shall be blessed above all the nations; there shall be no barren male or female among you, nor among your livestock.
+
+**Reason and limits**
+
+Propose livestock for the generic ktene. The blessing excludes barren male and female among both people and livestock, not just bovines.
+
+[Focused evidence](../../reviews/2026-11-13-OT-043-deuteronomy-5-7/focused-reviews.json) · anchor `v7-14`
+
+## Deuteronomy 7:25
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You shall burn the graven images of their gods with fire. You shall not covet the silver or gold upon them, nor take it unto yourself, lest you stumble thereby; for it is an abomination unto the Lord your God.
+
+**Proposed**
+
+> You shall burn the graven images of their gods with fire. You shall not covet the silver or gold from them, nor take it unto yourself, lest you stumble thereby; for it is an abomination unto the Lord your God.
+
+**Reason and limits**
+
+Propose from them for upon them to represent the selected apo phrase without adding a location for the silver and gold. Burning images, rejecting gain and avoiding stumbling remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-043-deuteronomy-5-7/focused-reviews.json) · anchor `v7-25`
+
+## Deuteronomy 10:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> For the Lord your God, He is God of gods and Lord of lords, the great and mighty and fearful God, who shows no partiality, neither takes a bribe;
+
+**Proposed**
+
+> For the Lord your God, He is God of gods and Lord of lords, the great and mighty and fearsome God, who shows no partiality, neither takes a bribe;
+
+**Reason and limits**
+
+Propose fearsome for fearful so the adjective clearly means causing fear rather than being afraid. God of gods, Lord of lords, greatness, might, impartiality and refusal of bribes remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-044-deuteronomy-8-10/focused-reviews.json) · anchor `v10-17`
+
+## Deuteronomy 11:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And He shall give grass in your fields for your cattle; and when you have eaten and are filled,
+
+**Proposed**
+
+> And He shall give grass in your fields for your livestock; and when you have eaten and are filled,
+
+**Reason and limits**
+
+Propose livestock for cattle because the selected generic animal term covers the field-fed domestic animals broadly. Eating and fullness still lead into the warning.
+
+[Focused evidence](../../reviews/2026-11-13-OT-045-deuteronomy-11-13/focused-reviews.json) · anchor `v11-15`
+
+## Deuteronomy 11:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And you shall teach them unto your children, to speak of them when you sit in the house, and when you walk in the way, and when you lie down, and when you rise up.
+
+**Proposed**
+
+> And you shall teach your children to speak of them when they sit in the house, and when they walk in the way, and when they lie down, and when they rise up.
+
+**Reason and limits**
+
+Propose making the children the speakers and subjects of sitting, walking, lying and rising. The accusative participles follow the children and infinitive speak, unlike the nominative parent-directed construction in 6:7. Teach your children to speak of them naturally represents the repeated word-object through one English complement.
+
+[Focused evidence](../../reviews/2026-11-13-OT-045-deuteronomy-11-13/focused-reviews.json) · anchor `v11-19`
+
+## Deuteronomy 15:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Take heed unto yourself, lest there be a hidden, lawless thought in your heart, saying: The seventh year, the year of release, draws near; and your eye be evil toward your needy brother, and you give him nothing, and he cry against you unto the Lord, and there be great sin upon you.
+
+**Proposed**
+
+> Take heed unto yourself, lest there be a hidden, lawless thought in your heart, saying: The seventh year, the year of release, draws near; and your eye be evil toward your needy brother, and you give him nothing, and he cry against you unto the Lord, and there be great sin in you.
+
+**Reason and limits**
+
+Propose in you for upon you to preserve the selected en soi in the great-sin conclusion, alongside the inward lawless thought and evil eye. Imminent release must not motivate withholding aid.
+
+[Focused evidence](../../reviews/2026-11-13-OT-046-deuteronomy-14-16/focused-reviews.json) · anchor `v15-9`
+
+## Deuteronomy 18:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> But the prophet who shall act ungodly, speaking in My name a word which I commanded him not to speak, or who shall speak in the name of other gods, that prophet shall die.
+
+**Proposed**
+
+> But the prophet who shall act ungodly, speaking in My name a word which I did not command him to speak, or who shall speak in the name of other gods, that prophet shall die.
+
+**Reason and limits**
+
+Propose a word which I did not command him to speak. The selected negative qualifies commanded, whereas inherited commanded him not to speak incorrectly turns absence of authorization into an explicit prohibition. The alternative other-gods speech and death sentence remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-047-deuteronomy-17-20/focused-reviews.json) · anchor `v18-20`
+
+## Deuteronomy 20:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> save the women and the dependent households. And you shall take as spoil unto yourself all the cattle, and all that is in the city, and all its goods; and you shall eat all the spoil of your enemies which the Lord your God gives you.
+
+**Proposed**
+
+> save the women and the dependent households. And you shall take as spoil unto yourself all the livestock, and all that is in the city, and all its goods; and you shall eat all the spoil of your enemies which the Lord your God gives you.
+
+**Reason and limits**
+
+Propose livestock for generic ktene in the spoil list, retaining women, dependent households, all city contents and goods separately.
+
+[Focused evidence](../../reviews/2026-11-13-OT-047-deuteronomy-17-20/focused-reviews.json) · anchor `v20-14`
+
+## Deuteronomy 22:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and behold, he brings charges against her as a pretext, saying: I did not find the tokens of your daughter’s virginity. Yet these are the tokens of my daughter’s virginity. And they shall spread the garment before the elders of the city.
+
+**Proposed**
+
+> and now he himself brings charges against her as a pretext, saying: I did not find the tokens of your daughter’s virginity. Yet these are the tokens of my daughter’s virginity. And they shall spread the garment before the elders of the city.
+
+**Reason and limits**
+
+Propose and now he himself for and behold, he. Selected autos nyn supplies personal emphasis and now, not an unexpressed behold. The allegation, counterevidence and spreading of the garment remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-048-deuteronomy-21-23/focused-reviews.json) · anchor `v22-17`
+
+## Deuteronomy 23:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You shall not speak peace unto them, nor seek their advantage, all your days for ever.
+
+**Proposed**
+
+> You shall not speak peace unto them, nor words to their advantage, all your days for ever.
+
+**Reason and limits**
+
+Propose nor words to their advantage for nor seek their advantage: the selected speaking verb governs both peaceful and beneficial speech, without an expressed seek verb. The full duration remains.
+
+[Focused evidence](../../reviews/2026-11-13-OT-048-deuteronomy-21-23/focused-reviews.json) · anchor `v23-7`
+
+## Deuteronomy 23:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And if you vow a vow unto the Lord your God, you shall not delay to pay it; for the Lord your God shall surely require it of you, and there shall be sin upon you.
+
+**Proposed**
+
+> And if you vow a vow unto the Lord your God, you shall not delay to pay it; for the Lord your God shall surely require it of you, and there shall be sin in you.
+
+**Reason and limits**
+
+Propose sin in you for sin upon you to retain the selected en soi. A vow must not be delayed because the Lord emphatically requires it.
+
+[Focused evidence](../../reviews/2026-11-13-OT-048-deuteronomy-21-23/focused-reviews.json) · anchor `v23-22`
+
+## Deuteronomy 23:23
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> But if you do not desire to vow, there is no sin upon you.
+
+**Proposed**
+
+> But if you do not desire to vow, there is no sin in you.
+
+**Reason and limits**
+
+Propose no sin in you for no sin upon you, preserving the same selected construction in the contrasting case of not choosing to vow.
+
+[Focused evidence](../../reviews/2026-11-13-OT-048-deuteronomy-21-23/focused-reviews.json) · anchor `v23-23`
+
+## Deuteronomy 24:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> On the same day you shall pay his wages; the sun shall not go down upon them, for he is poor and sets his hope upon them; lest he cry against you unto the Lord, and there be sin upon you.
+
+**Proposed**
+
+> On the same day you shall pay his wages; the sun shall not go down upon them, for he is poor and sets his hope upon them; lest he cry against you unto the Lord, and there be sin in you.
+
+**Reason and limits**
+
+Same-day payment, sunset, poverty and hope in the wages remain. En soi is rendered in you, consistent with 23:22-23, rather than upon you.
+
+[Focused evidence](../../reviews/2026-11-13-OT-049-deuteronomy-24-26/focused-reviews.json) · anchor `v24-15`
+
+## Deuteronomy 25:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You shall not have in your pouch differing weights, a great and a small.
+
+**Proposed**
+
+> You shall not have in your pouch differing weights, a great or a small.
+
+**Reason and limits**
+
+The selected e links great or small; revise and to or while retaining differing weights as the contextual rendering of the repeated weight noun.
+
+[Focused evidence](../../reviews/2026-11-13-OT-049-deuteronomy-24-26/focused-reviews.json) · anchor `v25-13`
+
+## Deuteronomy 25:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You shall not have in your house differing measures, a great and a small.
+
+**Proposed**
+
+> You shall not have in your house differing measures, a great or a small.
+
+**Reason and limits**
+
+The corresponding measure prohibition likewise uses great or small; apply the same conjunction correction as at 25:13.
+
+[Focused evidence](../../reviews/2026-11-13-OT-049-deuteronomy-24-26/focused-reviews.json) · anchor `v25-14`
+
+## Deuteronomy 28:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the Lord your God shall multiply you in good things, in the offspring of your womb, and in the produce of your land, and in the offspring of your cattle, upon the land which the Lord sware unto your fathers to give you.
+
+**Proposed**
+
+> And the Lord your God shall multiply you in good things, in the offspring of your womb, and in the produce of your land, and in the offspring of your livestock, upon the land which the Lord sware unto your fathers to give you.
+
+**Reason and limits**
+
+The sequence is womb, land and livestock offspring. Revise generic ktenon from cattle to livestock, distinguishing it from the bovine term at 28:4.
+
+[Focused evidence](../../reviews/2026-11-13-OT-050-deuteronomy-27-28/focused-reviews.json) · anchor `v28-11`
+
+## Deuteronomy 28:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord your God make you the head, and not the tail; and you shall be above, and not beneath, if you hearken unto the commandments of the Lord your God which I command you this day to keep and do.
+
+**Proposed**
+
+> The Lord your God make you the head, and not the tail; and you shall then be above, and not beneath, if you hearken unto the commandments of the Lord your God which I command you this day to keep and do.
+
+**Reason and limits**
+
+Head versus tail and above versus beneath express the paired reversals; restore then for the selected tote in the second pair.
+
+[Focused evidence](../../reviews/2026-11-13-OT-050-deuteronomy-27-28/focused-reviews.json) · anchor `v28-13`
+
+## Deuteronomy 28:51
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And it shall consume the offspring of your cattle and the produce of your land, leaving you neither grain, nor wine, nor oil, nor the herds of your cattle, nor the flocks of your sheep, until it destroys you.
+
+**Proposed**
+
+> And it shall consume the offspring of your livestock and the produce of your land, leaving you neither grain, nor wine, nor oil, nor the herds of your cattle, nor the flocks of your sheep, until it destroys you.
+
+**Reason and limits**
+
+Generic livestock offspring precede the specifically bovine herds and sheep flocks. Revise only the first cattle to livestock, leaving the later cattle for boon.
+
+[Focused evidence](../../reviews/2026-11-13-OT-050-deuteronomy-27-28/focused-reviews.json) · anchor `v28-51`
+
+## Deuteronomy 30:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the Lord your God shall care greatly for you in every work of your hands, in the offspring of your womb, and in the produce of your land, and in the offspring of your cattle; for the Lord your God shall again rejoice over you for good, as He rejoiced over your fathers,
+
+**Proposed**
+
+> And the Lord your God shall care greatly for you in every work of your hands, in the offspring of your womb, and in the produce of your land, and in the offspring of your livestock; for the Lord your God shall again rejoice over you for good, as He rejoiced over your fathers,
+
+**Reason and limits**
+
+Care greatly preserves the selected polyoresei; generic ktenon is revised from cattle to livestock, keeping womb, land and livestock order.
+
+[Focused evidence](../../reviews/2026-11-13-OT-051-deuteronomy-29-31/focused-reviews.json) · anchor `v30-9`
+
+## Deuteronomy 31:26
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Take this book of the law, and lay it beside the ark of the covenant of the Lord your God; and it shall be there for a witness against you.
+
+**Proposed**
+
+> Take this book of the law, and lay it beside the ark of the covenant of the Lord your God; and it shall be there for a witness among you.
+
+**Reason and limits**
+
+The book is beside the ark, not inside it. Revise against you to among you for en soi, leaving its adversarial function to context rather than substituting a preposition.
+
+[Focused evidence](../../reviews/2026-11-13-OT-051-deuteronomy-29-31/focused-reviews.json) · anchor `v31-26`
 
 ## Jonah 3:9
 
