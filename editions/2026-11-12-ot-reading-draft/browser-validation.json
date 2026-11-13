@@ -1,12 +1,12 @@
 {
   "status": "passed",
   "date": "2026-11-13",
-  "reader_sha256": "bf5bb0bef6de3cf7f33529c3848fc63003a917eb5f105eec66e578f39479b13b",
+  "reader_sha256": "6439fd29cb69d1464ac3225a1be67d7b6880fd27b5f9eafef1b964e0235dbf60",
   "environment": "Headless Chrome on Windows; local file, 1440×1000 and 390×844",
   "checks": [
     "All 43 books available",
     "26,580 units and seven continuations rendered",
-    "81 proposals visibly marked",
+    "99 proposals visibly marked",
     "All 1,037 reading sections rendered",
     "Book picker shows Jonah only",
     "Book links update filtered view",
@@ -27,6 +27,11 @@
     "Deuteronomy 18:20 negation correction and baseline are distinct on mobile",
     "Deuteronomy 32:43 retains all eight poetic clauses and identifies proposed lineation",
     "Deuteronomy 33:3 exposes the unresolved divine-address interpretation",
+    "Joshua 15:59a lettered Bethlehem-area list and comparison remain accessible on mobile",
+    "Joshua 22:24 negative-purpose proposal, baseline and supplied-grammar explanation are distinct",
+    "Joshua 22:29 keeps salamin separate from the revised ritual label and exposes its uncertainty",
+    "Joshua longer ending remains accessible with its full final lettered unit",
+    "All 659 Joshua stored units remain rendered with stable identities",
     "Book control is keyboard focusable",
     "No JavaScript page errors"
   ],

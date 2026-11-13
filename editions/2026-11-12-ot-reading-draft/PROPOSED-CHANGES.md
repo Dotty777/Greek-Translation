@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**81 proposals · 12 November 2026 · editorial acceptance pending**
+**99 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -1407,6 +1407,330 @@ Care greatly preserves the selected polyoresei; generic ktenon is revised from c
 The book is beside the ark, not inside it. Revise against you to among you for en soi, leaving its adversarial function to context rather than substituting a preposition.
 
 [Focused evidence](../../reviews/2026-11-13-OT-051-deuteronomy-29-31/focused-reviews.json) · anchor `v31-26`
+
+## Joshua 1:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Whoever disobeys you or does not heed your words in all that you command him, let him die. Only be strong and courageous!”
+
+**Proposed**
+
+> Whoever disobeys you and does not heed your words in all that you command him, let him die. But be strong and courageous!”
+
+**Reason and limits**
+
+Propose and for or between disobedience and non-hearing, preserving the selected coordinating kai. Replace final Only with But for alla, which does not restrict the exhortation to strength alone.
+
+[Focused evidence](../../reviews/2026-11-13-OT-053-joshua-1-3/focused-reviews.json) · anchor `v1-18`
+
+## Joshua 2:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and keep alive my father’s household, my mother, my brothers, my whole household, and all who belong to them, and rescue my life from death.”
+
+**Proposed**
+
+> and keep alive my father’s household, my mother, my brothers, my whole household, and all that belongs to them, and rescue my life from death.”
+
+**Reason and limits**
+
+Propose all that belongs to them for all who belong to them: the selected neuter all that they have is broader than persons alone. The repeated household groups and rescue of my life remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-053-joshua-1-3/focused-reviews.json) · anchor `v2-13`
+
+## Joshua 5:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to him, “I have now come as chief captain of the host of the Lord.” Joshua fell on his face to the earth and said to him, “Master, what do you command your servant?”
+
+**Proposed**
+
+> He said to him, “I have now come as chief captain of the host of the Lord.” Joshua fell on his face to the earth and said to him, “Master, what do you command your household servant?”
+
+**Reason and limits**
+
+Propose household servant for oiketes in Joshua's address, preserving the specific household-service term. Master and ordinary you leave the commander's identity unresolved.
+
+[Focused evidence](../../reviews/2026-11-13-OT-054-joshua-4-6/focused-reviews.json) · anchor `v5-14`
+
+## Joshua 6:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and returned to the camp. This was done for six days.
+
+**Proposed**
+
+> and returned to the camp. He did this for six days.
+
+**Reason and limits**
+
+Propose He did this for six days for This was done for six days, preserving the selected singular active epoiei rather than replacing it with a passive.
+
+[Focused evidence](../../reviews/2026-11-13-OT-054-joshua-4-6/focused-reviews.json) · anchor `v6-14`
+
+## Joshua 7:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> I saw among the spoil a beautiful patterned carpet, two hundred didrachms of silver, and one tongue-shaped bar of gold weighing fifty didrachms. I coveted them and took them. They are hidden in the ground in my tent, and the silver is hidden underneath them.”
+
+**Proposed**
+
+> I saw among the spoil a beautiful patterned carpet, two hundred didrachms of silver, and one tongue-shaped bar of gold weighing fifty didrachms. I coveted them and took them. Behold, they are hidden in the ground in my tent, and the silver is hidden underneath them.”
+
+**Reason and limits**
+
+Restore Behold before the hidden goods for explicit idou. The patterned carpet, two hundred silver didrachms and one fifty-didrachm gold tongue remain distinct.
+
+[Focused evidence](../../reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json) · anchor `v7-21`
+
+## Joshua 7:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Joshua took Achar son of Zerah and brought him up to the ravine of Achor, with his sons, his daughters, his cattle, his beasts of burden, all his sheep, his tent, and everything belonging to him. All the people were with him, and he brought them up to Emek-achor.
+
+**Proposed**
+
+> Joshua took Achar son of Zerah and brought him up to the ravine of Achor, with his sons, his daughters, his calves, his beasts of burden, all his sheep, his tent, and everything belonging to him. All the people were with him, and he brought them up to Emek-achor.
+
+**Reason and limits**
+
+Propose calves for moschous rather than generic cattle. The shorter Achar son of Zerah, both Achor and Emek-achor, family, other animals, tent and possessions all remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json) · anchor `v7-24`
+
+## Joshua 9:2b
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> as Moses, the servant of the Lord, commanded the sons of Israel, as written in Moses’ law: an altar of whole stones on which no iron had been applied. He offered whole burnt offerings to the Lord there and a sacrifice of well-being.
+
+**Proposed**
+
+> as Moses, the servant of the Lord, commanded the sons of Israel, as written in Moses’ law: an altar of whole stones on which no iron had been applied. He offered whole burnt offerings to the Lord there and a sacrifice of deliverance.
+
+**Reason and limits**
+
+Whole stones untouched by iron, whole burnt offerings and a soteriou sacrifice remain. Propose sacrifice of deliverance for well-being to match the working rendering of this selected ritual phrase.
+
+[Focused evidence](../../reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json) · anchor `v9-2b`
+
+## Joshua 9:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They said to Joshua, “We are your servants.” Joshua said to them, “Where are you from, and where have you come from?”
+
+**Proposed**
+
+> They said to Joshua, “We are your household servants.” Joshua said to them, “Where are you from, and where have you come from?”
+
+**Reason and limits**
+
+Propose household servants for oiketai, distinct from paides at 9:9; Joshua's two origin questions remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json) · anchor `v9-8`
+
+## Joshua 9:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> When our elders and all the inhabitants of our land heard, they told us, ‘Take provisions for the journey, go to meet them, and say to them, “We are your servants; now make a covenant with us.”’
+
+**Proposed**
+
+> When our elders and all the inhabitants of our land heard, they told us, ‘Take provisions for the journey, go to meet them, and say to them, “We are your household servants; now make a covenant with us.”’
+
+**Reason and limits**
+
+Propose household servants for the repeated oiketai self-description. Elders and all inhabitants commission the journey, provisions and covenant request.
+
+[Focused evidence](../../reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json) · anchor `v9-11`
+
+## Joshua 10:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They were greatly afraid of them, for he knew that Gibeon was a great city, like one of the chief cities, and all its men were strong.
+
+**Proposed**
+
+> They were filled with great fear, for he knew that Gibeon was a great city, like one of the chief cities, and all its men were strong.
+
+**Reason and limits**
+
+Propose They were filled with great fear rather than afraid of them. En autois locates fear in the group and supplies no explicit object of fear; he knew remains singular after the plural fearful group.
+
+[Focused evidence](../../reviews/2026-11-13-OT-056-joshua-10-12/focused-reviews.json) · anchor `v10-2`
+
+## Joshua 13:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All who dwell in the hill country from Lebanon to Misrephoth-maim, all the Sidonians, I will destroy before Israel. Only distribute it by lot to Israel, as I commanded you.
+
+**Proposed**
+
+> All who dwell in the hill country from Lebanon to Misrephoth-maim, all the Sidonians, I will destroy before Israel. But distribute it by lot to Israel, as I commanded you.
+
+**Reason and limits**
+
+Divine destruction is promised for the mountain inhabitants and Sidonians. Propose But distribute for Only distribute to preserve alla's contrast without making distribution Joshua's sole stated task.
+
+[Focused evidence](../../reviews/2026-11-13-OT-057-joshua-13-14/focused-reviews.json) · anchor `v13-6`
+
+## Joshua 15:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The boundary passes from the mountain’s summit to the spring of the water of Naphtho and passes to Mount Ephron. The boundary leads to Baal—that is the city of Jearim.
+
+**Proposed**
+
+> The boundary passes from the mountain’s summit to the spring of the water of Naphtho and passes to Mount Ephron. The boundary will lead to Baal—that is the city of Jearim.
+
+**Reason and limits**
+
+The two present passage verbs are followed by future exaxei. Change leads to will lead to preserve this selected shift, retaining Naphtho, Ephron and Baal's Jearim identification.
+
+[Focused evidence](../../reviews/2026-11-13-OT-058-joshua-15/focused-reviews.json) · anchor `v15-9`
+
+## Joshua 20:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> “Speak to the sons of Israel, saying, ‘Appoint for yourselves the cities of refuge of which I spoke to you through Moses,
+
+**Proposed**
+
+> “Speak to the sons of Israel, saying, ‘Appoint the cities of refuge of which I spoke to you through Moses,
+
+**Reason and limits**
+
+The selected command is to appoint the cities of refuge previously spoken of through Moses. Remove for yourselves, which has no reflexive or beneficiary expression here; the explicit for you remains in 20:3.
+
+[Focused evidence](../../reviews/2026-11-13-OT-060-joshua-19-20/focused-reviews.json) · anchor `v20-2`
+
+## Joshua 22:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Only take great care to do the commandments and the law which Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all His ways, to keep His commandments, to cling to Him, and to serve Him with all your mind and all your soul.”
+
+**Proposed**
+
+> But take great care to do the commandments and the law which Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all His ways, to keep His commandments, to cling to Him, and to serve Him with all your mind and all your soul.”
+
+**Reason and limits**
+
+Replace initial Only with But for alla, preserving the contrasting exhortation without an unsupported exclusive limit. The us commanded by Moses, your God, all His ways, mind and soul remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json) · anchor `v22-5`
+
+## Joshua 22:23
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> If we built ourselves an altar to depart from the Lord our God, to offer on it a sacrifice of whole burnt offerings or a sacrifice of well-being, the Lord will require an account.
+
+**Proposed**
+
+> If we built ourselves an altar to depart from the Lord our God, to offer on it a sacrifice of whole burnt offerings or a sacrifice of deliverance, the Lord will require an account.
+
+**Reason and limits**
+
+The conditional altar-building for apostasy and its two sacrificial purposes remain. Replace well-being with deliverance for the working rendering of the selected soteriou ritual phrase.
+
+[Focused evidence](../../reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json) · anchor `v22-23`
+
+## Joshua 22:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> We did this out of concern about this matter, saying, ‘Tomorrow your children might say to our children, “What do you have to do with the Lord, the God of Israel?
+
+**Proposed**
+
+> But we did this out of concern about this matter, saying, ‘It is so that your children may not say to our children tomorrow, “What do you have to do with the Lord, the God of Israel?
+
+**Reason and limits**
+
+Restore initial But for alla and explicitly render hina me as so that your children may not say. Inherited might expresses fear but leaves the negative purpose implicit. The close draft preserves the elliptical purpose opening; literary It is supplies an English clause frame referring to this action, without adding a new purpose. The nested question continues into 22:25.
+
+[Focused evidence](../../reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json) · anchor `v22-24`
+
+## Joshua 22:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> but so that it may be a testimony between us and you, and between our generations after us, that we may perform service to the Lord before Him with our offerings and our sacrifices and our sacrifices of well-being. Then your children shall not say to our children tomorrow, ‘You have no portion in the Lord.’
+
+**Proposed**
+
+> but so that it may be a testimony between us and you, and between our generations after us, that we may perform service to the Lord before Him with our offerings and our sacrifices and our sacrifices of deliverance. Then your children shall not say to our children tomorrow, ‘You have no portion in the Lord.’
+
+**Reason and limits**
+
+The altar's testimony between groups and succeeding generations concerns service before the Lord with three offering categories. Replace sacrifices of well-being with sacrifices of deliverance for the selected soterion phrase; tomorrow's denial is explicitly negated.
+
+[Focused evidence](../../reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json) · anchor `v22-27`
+
+## Joshua 22:29
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> May it never be that we turn away from the Lord in these present days, departing from the Lord by building an altar for offerings, salamin sacrifices, and a sacrifice of well-being apart from the Lord’s altar before His tent.”
+
+**Proposed**
+
+> May it never be that we turn away from the Lord in these present days, departing from the Lord by building an altar for offerings, salamin sacrifices, and a sacrifice of deliverance apart from the Lord’s altar before His tent.”
+
+**Reason and limits**
+
+The rejection of departure, present days, repeated Lord references and separate offerings, salamin sacrifices and soteriou sacrifice remain. Change only well-being to deliverance in the last category.
+
+[Focused evidence](../../reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json) · anchor `v22-29`
 
 ## Jonah 3:9
 

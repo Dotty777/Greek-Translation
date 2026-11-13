@@ -27,9 +27,9 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "OT-JOSHUA-001",
-    "book": "Joshua",
-    "scope": "Joshua 1",
+    "id": "OT-JUDGES-001",
+    "book": "Judges",
+    "scope": "Judges 1",
     "status": "not_started",
     "first_step": "Access and read the selected Greek passage, draft by unit and compare the exact inherited text; preserve original files and identify unresolved choices.",
     "parallel_review_debt": "Complete token accounting and specialist review for compared passages. Genesis 4:7 token accounting does not resolve pronoun antecedents. Jonah 2:7 and 2:10 remain open.",
@@ -637,6 +637,96 @@
         "reviews/2026-11-13-OT-052-deuteronomy-32-34/README.md",
         "reviews/2026-11-13-OT-052-deuteronomy-32-34/focused-reviews.json"
       ]
+    },
+    {
+      "id": "OT-053",
+      "scope": "Joshua 1-3; all 59 stored units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-053-joshua-1-3/README.md",
+        "reviews/2026-11-13-OT-053-joshua-1-3/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-054",
+      "scope": "Joshua 4-6; all 65 stored units, preserving the 6:4 gap and full 6:26 continuation",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-054-joshua-4-6/README.md",
+        "reviews/2026-11-13-OT-054-joshua-4-6/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-055",
+      "scope": "Joshua 7-9; all 86 stored units, including 9:2a-2f and selected chapter 8 gaps",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-055-joshua-7-9/README.md",
+        "reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-056",
+      "scope": "Joshua 10-12; all 88 stored units and the selected 29-king list",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-056-joshua-10-12/README.md",
+        "reviews/2026-11-13-OT-056-joshua-10-12/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-057",
+      "scope": "Joshua 13-14; all 47 stored units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-057-joshua-13-14/README.md",
+        "reviews/2026-11-13-OT-057-joshua-13-14/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-058",
+      "scope": "Joshua 15; all 64 stored units including 15:59a",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-058-joshua-15/README.md",
+        "reviews/2026-11-13-OT-058-joshua-15/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-059",
+      "scope": "Joshua 16-18; all 56 stored units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-059-joshua-16-18/README.md",
+        "reviews/2026-11-13-OT-059-joshua-16-18/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-060",
+      "scope": "Joshua 19-20; all 59 stored units including 19:47a and 19:48a",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-060-joshua-19-20/README.md",
+        "reviews/2026-11-13-OT-060-joshua-19-20/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-061",
+      "scope": "Joshua 21-22; all 83 stored units including 21:42a-42d",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-061-joshua-21-22/README.md",
+        "reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-062",
+      "scope": "Joshua 23-24; all 52 stored units including 24:31a and 24:33a-33b",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-062-joshua-23-24/README.md",
+        "reviews/2026-11-13-OT-062-joshua-23-24/focused-reviews.json"
+      ]
     }
   ],
   "books": [
@@ -1064,7 +1154,7 @@
       "legacy_records": "joshua/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "joshua/source-checks.json",
-      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
+      "programme_status": "complete_running_text_comparison_full_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 659,
@@ -1113,16 +1203,29 @@
         "stale_occurrences": null,
         "published_new_occurrences": 0
       },
-      "issues": [],
-      "next_batch": "OT-JOSHUA-001",
+      "issues": [
+        "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
+      ],
+      "next_batch": null,
       "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
-      "new_programme_drafted_units": 0,
-      "focused_running_text_compared_units": 0,
+      "new_programme_drafted_units": 659,
+      "focused_running_text_compared_units": 659,
       "token_aligned_units": 0,
-      "three_stage_draft_units": 0,
-      "focused_comparison_evidence": []
+      "three_stage_draft_units": 659,
+      "focused_comparison_evidence": [
+        "reviews/2026-11-13-OT-053-joshua-1-3/focused-reviews.json",
+        "reviews/2026-11-13-OT-054-joshua-4-6/focused-reviews.json",
+        "reviews/2026-11-13-OT-055-joshua-7-9/focused-reviews.json",
+        "reviews/2026-11-13-OT-056-joshua-10-12/focused-reviews.json",
+        "reviews/2026-11-13-OT-057-joshua-13-14/focused-reviews.json",
+        "reviews/2026-11-13-OT-058-joshua-15/focused-reviews.json",
+        "reviews/2026-11-13-OT-059-joshua-16-18/focused-reviews.json",
+        "reviews/2026-11-13-OT-060-joshua-19-20/focused-reviews.json",
+        "reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json",
+        "reviews/2026-11-13-OT-062-joshua-23-24/focused-reviews.json"
+      ]
     },
     {
       "order": 7,
@@ -1183,7 +1286,7 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null,
+      "next_batch": "OT-JUDGES-001",
       "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
@@ -5448,8 +5551,8 @@
       "token_aligned_units": 0
     }
   ],
-  "new_programme_drafted_units": 6002,
-  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: Joshua 1. Existing NT text and evidence remain unchanged.",
+  "new_programme_drafted_units": 6661,
+  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: Judges 1. Existing NT text and evidence remain unchanged.",
   "nt_manuscript": {
     "status": "complete_provisional_manuscript",
     "books": 27,
@@ -5472,13 +5575,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 5849,
-    "inherited_without_new_comparison": 20731,
-    "proposed_changed_units": 81,
-    "retained_after_focused_comparison": 5768,
+    "fresh_focused_comparison_units": 6508,
+    "inherited_without_new_comparison": 20072,
+    "proposed_changed_units": 99,
+    "retained_after_focused_comparison": 6409,
     "new_token_aligned_units": 1,
     "aligned_source_tokens": 19,
-    "three_stage_draft_units": 5752,
+    "three_stage_draft_units": 6411,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,

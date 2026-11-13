@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 5,721 focused comparison records. Across the current OT programme, 5,849 of 26,580 stored units have new comparisons; 20,731 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 6,380 focused comparison records. Across the current OT programme, 6,508 of 26,580 stored units have new comparisons; 20,072 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -55,11 +55,21 @@ This continuation adds 5,721 focused comparison records. Across the current OT p
 | [OT-050](2026-11-13-OT-050-deuteronomy-27-28/README.md) | Deuteronomy 27-28; all 95 stored units including the 28:69 covenant heading | 95 | 3 |
 | [OT-051](2026-11-13-OT-051-deuteronomy-29-31/README.md) | Deuteronomy 29-31; all 78 stored units | 78 | 2 |
 | [OT-052](2026-11-13-OT-052-deuteronomy-32-34/README.md) | Deuteronomy 32-34; all 93 stored units | 93 | 0 |
+| [OT-053](2026-11-13-OT-053-joshua-1-3/README.md) | Joshua 1-3; all 59 stored units | 59 | 2 |
+| [OT-054](2026-11-13-OT-054-joshua-4-6/README.md) | Joshua 4-6; all 65 stored units, preserving the 6:4 gap and full 6:26 continuation | 65 | 2 |
+| [OT-055](2026-11-13-OT-055-joshua-7-9/README.md) | Joshua 7-9; all 86 stored units, including 9:2a-2f and selected chapter 8 gaps | 86 | 5 |
+| [OT-056](2026-11-13-OT-056-joshua-10-12/README.md) | Joshua 10-12; all 88 stored units and the selected 29-king list | 88 | 1 |
+| [OT-057](2026-11-13-OT-057-joshua-13-14/README.md) | Joshua 13-14; all 47 stored units | 47 | 1 |
+| [OT-058](2026-11-13-OT-058-joshua-15/README.md) | Joshua 15; all 64 stored units including 15:59a | 64 | 1 |
+| [OT-059](2026-11-13-OT-059-joshua-16-18/README.md) | Joshua 16-18; all 56 stored units | 56 | 0 |
+| [OT-060](2026-11-13-OT-060-joshua-19-20/README.md) | Joshua 19-20; all 59 stored units including 19:47a and 19:48a | 59 | 1 |
+| [OT-061](2026-11-13-OT-061-joshua-21-22/README.md) | Joshua 21-22; all 83 stored units including 21:42a-42d | 83 | 5 |
+| [OT-062](2026-11-13-OT-062-joshua-23-24/README.md) | Joshua 23-24; all 52 stored units including 24:31a and 24:33a-33b | 52 | 0 |
 
-Next source-led drafting passage: **Joshua 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **Judges 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 5,752 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 6,411 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

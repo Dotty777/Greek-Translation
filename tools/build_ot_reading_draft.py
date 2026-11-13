@@ -76,6 +76,16 @@ REVIEW_DIRS = [
     "reviews/2026-11-13-OT-050-deuteronomy-27-28",
     "reviews/2026-11-13-OT-051-deuteronomy-29-31",
     "reviews/2026-11-13-OT-052-deuteronomy-32-34",
+    "reviews/2026-11-13-OT-053-joshua-1-3",
+    "reviews/2026-11-13-OT-054-joshua-4-6",
+    "reviews/2026-11-13-OT-055-joshua-7-9",
+    "reviews/2026-11-13-OT-056-joshua-10-12",
+    "reviews/2026-11-13-OT-057-joshua-13-14",
+    "reviews/2026-11-13-OT-058-joshua-15",
+    "reviews/2026-11-13-OT-059-joshua-16-18",
+    "reviews/2026-11-13-OT-060-joshua-19-20",
+    "reviews/2026-11-13-OT-061-joshua-21-22",
+    "reviews/2026-11-13-OT-062-joshua-23-24",
 ]
 
 
@@ -290,10 +300,10 @@ def build(required=False):
                     check(f"Review decision agrees with wording {key}", r.get("decision") == ("propose_revision" if changed else "retain_provisionally"))
                     check(f"Review benchmark flag agrees {key}", bool(r.get("benchmark_change")) == (changed and book_id == 'genesis' and chapter['chapter'] <= 11))
                     check(f"Review records source-access metadata {key}", r.get('source', {}).get('running_text_read') is True and bool(r.get('source', {}).get('url')) and bool(r.get('source', {}).get('accessed_on')))
-                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy'):
-                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU'}[book_id]
+                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua'):
+                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU', 'joshua': 'JOS'}[book_id]
                         check(f"Source locator matches chapter {key}", r['source']['url'].rstrip('/').endswith(f"/LXX/{source_code}.{chapter['chapter']}"))
-                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy'):
+                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua'):
                         check(f"Continuation has three draft stages {key}", has_three_drafts(r))
                         check(f"Literary stage agrees with candidate {key}", r['drafts']['literary'] == r['candidate_text'])
                     if r.get("review", {}).get("all_tokens_accounted_for"):
