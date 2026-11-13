@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**181 proposals · 12 November 2026 · editorial acceptance pending**
+**249 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -3207,6 +3207,1230 @@ Propose because to connect the people's talk of stoning David to their anguish o
 Propose For before the second explanation: the equal share of fighter and equipment keeper follows their being no less than the others. The question, equality claim and concluding equal division remain.
 
 [Focused evidence](../../reviews/2026-11-13-OT-095-1-samuel-30-31/focused-reviews.json) · anchor `v30-24`
+
+## 2 Samuel 1:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> From the blood of the slain, from the fat of the mighty, Jonathan’s bow did not turn back empty, and Saul’s sword did not return empty.
+
+**Proposed**
+
+> From the blood of the wounded, from the fat of the mighty, Jonathan’s bow did not turn back empty, and Saul’s sword did not return empty.
+
+**Reason and limits**
+
+Propose blood of the wounded rather than blood of the slain: traumatiai names wounded people and this clause need not assert the death of everyone whose blood is in view. Fat of the mighty, Jonathan's bow and Saul's sword with repeated empty remain; three authored lines retain the parallels.
+
+[Focused evidence](../../reviews/2026-11-13-OT-096-2-samuel-1/focused-reviews.json) · anchor `v1-22`
+
+## 2 Samuel 3:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Abner became very angry over Mephibosheth’s statement. Abner said to him, “Am I a dog’s head? Today I have shown mercy to the house of Saul your father, and toward brothers and acquaintances, and I have not deserted to David’s house. Yet today you call me to account for wrongdoing concerning a woman!
+
+**Proposed**
+
+> Abner became very angry over Mephibosheth’s statement. Abner said to him, “Am I a dog’s head? Today I have shown mercy to the house of Saul your father, and toward brothers and acquaintances, and I have not deserted to David’s house. Yet today you call me to account for wrongdoing concerning a woman?
+
+**Reason and limits**
+
+Propose a question mark after the final today, restoring the accusatory question alongside Am I a dog's head? Mercy, brothers, acquaintances and denial of desertion remain; no Judah qualification is added.
+
+[Focused evidence](../../reviews/2026-11-13-OT-098-2-samuel-3-4/focused-reviews.json) · anchor `v3-8`
+
+## 2 Samuel 3:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Abner sent messengers to David at Thailam, where he was at the time, saying, “Make your covenant with me, and behold, my hand will be with you to turn all the house of Israel to you.”
+
+**Proposed**
+
+> Abner sent messengers to David at Thailam, where he was at the time, saying, “Make your covenant with me, and behold, my hand is with you to turn all the house of Israel to you.”
+
+**Reason and limits**
+
+Propose my hand is with you rather than will be with you for the presentative verbless pledge. Thailam, the covenant request and turning all Israel's house to David remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-098-2-samuel-3-4/focused-reviews.json) · anchor `v3-12`
+
+## 2 Samuel 3:25
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Do you not know the wickedness of Abner son of Ner? He came to deceive you, to learn your going out and your coming in, and to learn everything you are doing.”
+
+**Proposed**
+
+> Do you not know the wickedness of Abner son of Ner? For he came to deceive you, to learn your going out and your coming in, and to learn everything you are doing.”
+
+**Reason and limits**
+
+Propose For he came after the wickedness question, preserving the explanatory hoti link. Deceiving David and learning both movements and all actions remain Joab's allegations.
+
+[Focused evidence](../../reviews/2026-11-13-OT-098-2-samuel-3-4/focused-reviews.json) · anchor `v3-25`
+
+## 2 Samuel 9:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David said to him, “Do not fear. I will certainly show you mercy because of Jonathan your father. I will restore to you all the land of Saul your father’s father, and you will eat bread at my table continually.”
+
+**Proposed**
+
+> David said to him, “Do not fear. For I will certainly show you mercy because of Jonathan your father. I will restore to you all the land of Saul your father’s father, and you will eat bread at my table continually.”
+
+**Reason and limits**
+
+Propose For I will certainly show you mercy after Do not fear, retaining the explanatory hoti and emphatic cognate construction. Jonathan, restored ancestral land and continual table fellowship remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-101-2-samuel-9-10/focused-reviews.json) · anchor `v9-7`
+
+## 2 Samuel 9:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You, your sons, and your servants shall work the land for him. You shall bring loaves to your master’s son, and he will eat them. But Mephibosheth, your master’s son, shall eat bread continually at my table.” Ziba had fifteen sons and twenty servants.
+
+**Proposed**
+
+> You, your sons, and your servants shall work the land for him. You shall bring loaves to your master’s son, and he will eat them. And Mephibosheth, your master’s son, shall eat bread continually at my table.” Ziba had fifteen sons and twenty servants.
+
+**Reason and limits**
+
+Propose And Mephibosheth instead of But Mephibosheth for the coordinating kai. Land work, loaves for the master's son, continual royal-table bread, fifteen sons and twenty servants remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-101-2-samuel-9-10/focused-reviews.json) · anchor `v9-10`
+
+## 2 Samuel 10:3
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The leaders of the sons of Ammon said to Hanun their lord, “Do you think David is glorifying your father by sending comforters to you? Has David not sent his servants to you so that they may search the city, spy it out, and inspect it?”
+
+**Proposed**
+
+> The leaders of the sons of Ammon said to Hanun their lord, “Do you think David is glorifying your father by sending comforters to you? But has David not sent his servants to you so that they may search the city, spy it out, and inspect it?”
+
+**Reason and limits**
+
+Propose But has David not for the second question, preserving the adversative alla. Honouring the father and searching, spying and inspecting the city remain the leaders' competing interpretations.
+
+[Focused evidence](../../reviews/2026-11-13-OT-101-2-samuel-9-10/focused-reviews.json) · anchor `v10-3`
+
+## 2 Samuel 10:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Joab and his people with him advanced to battle against Syria, and they fled before him.
+
+**Proposed**
+
+> Joab and his people with him advanced to battle against Syria, and the Syrians fled before him.
+
+**Reason and limits**
+
+Propose the Syrians fled instead of they fled to clarify the collective enemy subject after Joab and his people advance.
+
+[Focused evidence](../../reviews/2026-11-13-OT-101-2-samuel-9-10/focused-reviews.json) · anchor `v10-13`
+
+## 2 Samuel 11:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David called him, and he ate and drank before him, and David made him drunk. In the evening he went out to lie on his bed with his lord’s servants, but he did not go down to his house.
+
+**Proposed**
+
+> David called him, and he ate and drank before him, and David made him drunk. In the evening Uriah went out to lie on his bed with his lord’s servants, but he did not go down to his house.
+
+**Reason and limits**
+
+Propose Uriah went out in the evening rather than he went out after David made him drunk, clarifying the return to Uriah as subject. Drinking, David's causation and continued refusal to go home remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-102-2-samuel-11-12/focused-reviews.json) · anchor `v11-13`
+
+## 2 Samuel 11:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He wrote in the letter, “Bring Uriah to face the fiercest battle, and you shall withdraw from behind him, and he will be struck and die.”
+
+**Proposed**
+
+> He wrote in the letter, “Bring Uriah to face the fiercest battle, and you all shall withdraw from behind him, and he will be struck and die.”
+
+**Reason and limits**
+
+Propose you all shall withdraw for the plural withdrawal verb, distinguishing the collective retreat from the singular initial order to bring Uriah forward. Being struck and dying remain the intended sequence.
+
+[Focused evidence](../../reviews/2026-11-13-OT-102-2-samuel-11-12/focused-reviews.json) · anchor `v11-15`
+
+## 2 Samuel 12:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You acted in secret, but I will do this thing before all Israel and before this sun.’”
+
+**Proposed**
+
+> For you acted in secret, but I will do this thing before all Israel and before this sun.’”
+
+**Reason and limits**
+
+Propose For you acted in secret, preserving hoti as the explanatory link to the public action before all Israel and this sun.
+
+[Focused evidence](../../reviews/2026-11-13-OT-102-2-samuel-11-12/focused-reviews.json) · anchor `v12-12`
+
+## 2 Samuel 12:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> On the seventh day the child died. David’s servants were afraid to tell him that the child had died, for they said, “While the child was still alive, we spoke to him and he did not listen to us. How can we tell him that the child has died? He may do harmful things.”
+
+**Proposed**
+
+> On the seventh day the child died. David’s servants were afraid to tell him that the child had died, for they said, “Behold, while the child was still alive, we spoke to him and he did not listen to us. How can we tell him that the child has died? He will do harmful things.”
+
+**Reason and limits**
+
+Propose Behold at the servants' opening and He will do harmful things for the future poiesei rather than He may. The seventh-day death, fearful withholding and prior refusal to listen remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-102-2-samuel-11-12/focused-reviews.json) · anchor `v12-18`
+
+## 2 Samuel 13:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Amnon was so distressed over Tamar his sister that he became ill. She was a virgin, and it seemed exceedingly difficult to Amnon to do anything to her.
+
+**Proposed**
+
+> Amnon was so distressed over Tamar his sister that he became ill. For she was a virgin, and it seemed exceedingly difficult to Amnon to do anything to her.
+
+**Reason and limits**
+
+Propose For she was a virgin to retain the explanatory hoti in Amnon's distress and perceived difficulty of doing anything to her.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-2`
+
+## 2 Samuel 13:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> She said to him, “No, my brother! Do not violate me! Such a thing must not be done in Israel. Do not commit this folly!
+
+**Proposed**
+
+> She said to him, “No, my brother! Do not violate me! For such a thing must not be done in Israel. Do not commit this folly!
+
+**Reason and limits**
+
+Propose For such a thing must not be done in Israel to retain the explanatory dioti. Her initial No, brother address, prohibition of violation and folly remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-12`
+
+## 2 Samuel 13:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Then Amnon hated her with very great hatred. The hatred with which he hated her was greater than the love with which he had loved her. Amnon said to her, “Arise and go!”
+
+**Proposed**
+
+> Then Amnon hated her with very great hatred. For the hatred with which he hated her was greater than the love with which he had loved her. Amnon said to her, “Arise and go!”
+
+**Reason and limits**
+
+Propose For the hatred to preserve the causal explanation that the hatred exceeded the prior love. Both repeated cognate expressions and dismissal remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-15`
+
+## 2 Samuel 13:16
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Tamar said to him, “No, brother! This last evil, sending me away, is greater than the first thing you have done to me.” But Amnon refused to listen to her.
+
+**Proposed**
+
+> Tamar said to him, “No, brother! For this last evil, sending me away, is greater than the first thing you have done to me.” But Amnon refused to listen to her.
+
+**Reason and limits**
+
+Propose For this last evil after No, brother, preserving her explanation that sending her away is greater than the first evil. His renewed refusal to listen remains.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-16`
+
+## 2 Samuel 13:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Absalom came to the king and said, “They are shearing sheep for your servant. Please let the king and his servants go with your servant.”
+
+**Proposed**
+
+> Absalom came to the king and said, “Behold, they are shearing sheep for your servant. Please let the king and his servants go with your servant.”
+
+**Reason and limits**
+
+Propose Behold at Absalom's introduction of the shearing, preserving the presentative and the invitation to the king and his servants.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-24`
+
+## 2 Samuel 13:28
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Absalom instructed his young men, “Watch when Amnon’s heart is merry with wine. When I say to you, ‘Strike Amnon,’ kill him. Do not be afraid. Am I not the one commanding you? Be courageous and be powerful men.”
+
+**Proposed**
+
+> Absalom instructed his young men, “Watch when Amnon’s heart is merry with wine. When I say to you, ‘Strike Amnon,’ kill him. Do not be afraid. For am I not the one commanding you? Be courageous and be powerful men.”
+
+**Reason and limits**
+
+Propose For am I not the one commanding you? to retain the causal appeal supporting Do not be afraid. Wine, signal, strike-and-kill order and courage exhortation remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-28`
+
+## 2 Samuel 13:32
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Jonadab son of Shimeah, David’s brother, answered, “Let my lord the king not say that he has killed all the young men, the king’s sons. Amnon alone has died. He had been marked out by Absalom from the day he violated Tamar his sister.
+
+**Proposed**
+
+> Jonadab son of Shimeah, David’s brother, answered, “Let my lord the king not say that he has killed all the young men, the king’s sons. For Amnon alone has died. For he had been marked out by Absalom from the day he violated Tamar his sister.
+
+**Reason and limits**
+
+Propose For Amnon alone and For he had been marked out to preserve both explanatory hoti links in Jonadab's correction.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-32`
+
+## 2 Samuel 13:33
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Now let my lord the king not take to heart the report that all the king’s sons have died. Only Amnon has died.”
+
+**Proposed**
+
+> Now let my lord the king not take to heart the report that all the king’s sons have died. For only Amnon has died.”
+
+**Reason and limits**
+
+Propose For only Amnon has died to preserve the explanation for rejecting the all-sons report. Only is expressly supported by the exceptive and emphatic alone wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-33`
+
+## 2 Samuel 13:34
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Absalom escaped. The young watchman raised his eyes and saw a large crowd coming along the road behind him, from the side of the mountain, on the descent. The watchman came and reported to the king, “I have seen men coming from the road of Horonen, from the side of the mountain.”
+
+**Proposed**
+
+> Absalom escaped. The young watchman raised his eyes and saw, and behold, a large crowd coming along the road behind him, from the side of the mountain, on the descent. The watchman came and reported to the king, “I have seen men coming from the road of Horonen, from the side of the mountain.”
+
+**Reason and limits**
+
+Propose saw, and behold, a large crowd to retain the presentative in the watchman's view. The full added descent and Horonen-road report remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-34`
+
+## 2 Samuel 13:36
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> As he finished speaking, the king’s sons arrived, raised their voices, and wept. The king and all his servants also wept very bitterly.
+
+**Proposed**
+
+> As he finished speaking, behold, the king’s sons arrived, raised their voices, and wept. The king and all his servants also wept very bitterly.
+
+**Reason and limits**
+
+Propose behold before the sons' arrival while Jonadab finishes; their raised voices and the king and all servants' very great weeping remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-103-2-samuel-13/focused-reviews.json) · anchor `v13-36`
+
+## 2 Samuel 14:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Now the whole paternal family has risen against your servant. They say, ‘Hand over the one who struck his brother, and we will put him to death for the life of the brother he killed. We will remove your heir as well.’ They would extinguish my last remaining ember, leaving my husband neither remnant nor name on the face of the earth.”
+
+**Proposed**
+
+> Behold, the whole paternal family has risen against your servant. They say, ‘Hand over the one who struck his brother, and we will put him to death for the life of the brother he killed. We will remove your heir as well.’ They will extinguish my last remaining ember, leaving my husband neither remnant nor name on the face of the earth.”
+
+**Reason and limits**
+
+Propose Behold instead of Now and They will extinguish instead of They would extinguish, preserving the presentative and future in the claimed threat. Family demand, heir, remaining ember and loss of name remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json) · anchor `v14-7`
+
+## 2 Samuel 14:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> We must certainly die and are like water poured onto the ground that will not be gathered again. God will take a life, while planning to banish a banished one from Him.
+
+**Proposed**
+
+> For we must certainly die and are like water poured onto the ground that will not be gathered again. God will take a life, while planning to banish a banished one from Him.
+
+**Reason and limits**
+
+Propose For we must certainly die to preserve the explanatory hoti. Spilled ungatherable water and both positive divine actions remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json) · anchor `v14-14`
+
+## 2 Samuel 14:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> What I have come to say to my lord the king is this, because the people will see me. Your servant will say, ‘Let someone speak to the king; perhaps the king will grant his servant’s request,
+
+**Proposed**
+
+> Now what I have come to say to my lord the king is this, because the people will see me. Your servant will say, ‘Let someone speak to the king; perhaps the king will grant his servant’s request,
+
+**Reason and limits**
+
+Propose Now what I have come to say to preserve the discourse transition. People will see me and the servant's future speech remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json) · anchor `v14-15`
+
+## 2 Samuel 14:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king said, “Is Joab’s hand with you in all this?” The woman said to the king, “As your soul lives, my lord the king, there is no turning right or left from anything my lord the king has said. Your servant Joab commanded me; he put all these words into your servant’s mouth.
+
+**Proposed**
+
+> The king said, “Is Joab’s hand with you in all this?” The woman said to the king, “As your soul lives, my lord the king, there is no turning right or left from anything my lord the king has said. For your servant Joab commanded me; he put all these words into your servant’s mouth.
+
+**Reason and limits**
+
+Propose For your servant Joab to retain the causal explanation for her oath-bound agreement. Joab's command and placing all words in her mouth remain emphatic.
+
+[Focused evidence](../../reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json) · anchor `v14-19`
+
+## 2 Samuel 14:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king said to Joab, “I have now acted for you according to this request of yours. Go and bring back the young man Absalom.”
+
+**Proposed**
+
+> The king said to Joab, “Behold, I have now acted for you according to this request of yours. Go and bring back the young man Absalom.”
+
+**Reason and limits**
+
+Propose Behold, I have now acted to retain the presentative before the king's assent and command to bring back young Absalom.
+
+[Focused evidence](../../reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json) · anchor `v14-21`
+
+## 2 Samuel 14:32
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Absalom said to Joab, “I sent to you, saying, ‘Come here, and I will send you to the king to say, “Why did I come from Geshur? It would be better for me still to be there.”’ Now behold, I have not seen the king’s face. If there is wrongdoing in me, put me to death.”
+
+**Proposed**
+
+> Absalom said to Joab, “Behold, I sent to you, saying, ‘Come here, and I will send you to the king to say, “Why did I come from Geshur? It would be better for me still to be there.”’ Now behold, I have not seen the king’s face. If there is wrongdoing in me, put me to death.”
+
+**Reason and limits**
+
+Propose Behold at the initial I sent to you, retaining both presentatives in Absalom's explanation. Geshur, still being there, not seeing the king's face and conditional death request remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-104-2-samuel-14/focused-reviews.json) · anchor `v14-32`
+
+## 2 Samuel 15:3
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Absalom would say to him, “Your claims are good and straightforward, but no one from the king is here to hear you.”
+
+**Proposed**
+
+> Absalom would say to him, “Behold, your claims are good and straightforward, but no one from the king is here to hear you.”
+
+**Reason and limits**
+
+Propose Behold before the favourable assessment of the claimant's words; the claim that no royal hearer is available remains Absalom's assertion.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v15-3`
+
+## 2 Samuel 15:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Your servant made a vow while I was living at Geshur in Syria: ‘If the Lord indeed brings me back to Jerusalem, I will worship the Lord.’”
+
+**Proposed**
+
+> For your servant made a vow while I was living at Geshur in Syria: ‘If the Lord indeed brings me back to Jerusalem, I will worship the Lord.’”
+
+**Reason and limits**
+
+Propose For your servant made a vow to retain the explanatory link. Geshur in Syria, emphatic restoration to Jerusalem and worship remain within Absalom's account.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v15-8`
+
+## 2 Samuel 15:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Zadok was also there, with all the Levites carrying the ark of the Lord’s covenant from Baithar. They set down God’s ark, and Abiathar went up until all the people had finished passing out of the city.
+
+**Proposed**
+
+> Behold, Zadok was also there, with all the Levites carrying the ark of the Lord’s covenant from Baithar. They set down God’s ark, and Abiathar went up until all the people had finished passing out of the city.
+
+**Reason and limits**
+
+Propose Behold at Zadok's appearance, retaining all Levites, the ark from Baithar, setting it down and Abiathar's ascent until the people finish leaving.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v15-24`
+
+## 2 Samuel 15:32
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> As David came to Roos, where he bowed down to God, Hushai the Archite, David’s companion, came to meet him, his tunic torn and earth on his head.
+
+**Proposed**
+
+> As David came to Roos, where he bowed down to God, and behold, Hushai the Archite, David’s companion, came to meet him, his tunic torn and earth on his head.
+
+**Reason and limits**
+
+Propose and behold at Hushai's arrival, preserving Roos, David's worship, Hushai's Archite identity, torn tunic and earth on his head.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v15-32`
+
+## 2 Samuel 15:34
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> But if you return to the city and say to Absalom, ‘Your brothers have passed on, and the king, your father, has passed on behind me. Now I am your servant, O king; let me live. I was your father’s servant then and just now, and now I am your servant,’ you can scatter Ahithophel’s counsel for me.
+
+**Proposed**
+
+> But if you return to the city and say to Absalom, ‘Your brothers have passed on, and the king, your father, has passed on behind me. Now I am your servant, O king; let me live. I was your father’s servant then and just now, and now I am your servant,’ you will scatter Ahithophel’s counsel for me.
+
+**Reason and limits**
+
+Propose you will scatter instead of you can scatter for the future result in David's alternative. The entire expanded cover story retains brothers, father behind him, plea to live and repeated servant claims.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v15-34`
+
+## 2 Samuel 15:36
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Their two sons are there with them: Ahimaaz, Zadok’s son, and Jonathan, Abiathar’s son. Send me through them everything you hear.”
+
+**Proposed**
+
+> Behold, their two sons are there with them: Ahimaaz, Zadok’s son, and Jonathan, Abiathar’s son. Send me through them everything you hear.”
+
+**Reason and limits**
+
+Propose Behold before the two sons, preserving their individual parentages and the plural send/hear instructions to the cooperating group.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v15-36`
+
+## 2 Samuel 16:1
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David had passed a little beyond Roos when Ziba, Mephibosheth’s servant, met him with a pair of loaded donkeys. On them were two hundred loaves, a hundred raisins, a hundred dates, and a vessel of wine.
+
+**Proposed**
+
+> David had passed a little beyond Roos when, behold, Ziba, Mephibosheth’s servant, met him with a pair of loaded donkeys. On them were two hundred loaves, a hundred raisins, a hundred dates, and a vessel of wine.
+
+**Reason and limits**
+
+Propose behold at Ziba's meeting with David beyond Roos. The pair of donkeys, two hundred loaves, hundred raisins, hundred dates and wine vessel remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-1`
+
+## 2 Samuel 16:3
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king said, “Where is your lord’s son?” Ziba said to the king, “He is staying in Jerusalem, for he said, ‘Today the house of Israel will restore my father’s kingdom to me.’”
+
+**Proposed**
+
+> The king said, “Where is your lord’s son?” Ziba said to the king, “Behold, he is staying in Jerusalem, for he said, ‘Today the house of Israel will restore my father’s kingdom to me.’”
+
+**Reason and limits**
+
+Propose Behold before Ziba's claim that his lord's son stays in Jerusalem expecting his father's kingdom restored.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-3`
+
+## 2 Samuel 16:4
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king said to Ziba, “Everything belonging to Mephibosheth is now yours.” Ziba bowed down and said, “May I find favour in your eyes, my lord the king.”
+
+**Proposed**
+
+> The king said to Ziba, “Behold, everything belonging to Mephibosheth is yours.” Ziba bowed down and said, “May I find favour in your eyes, my lord the king.”
+
+**Reason and limits**
+
+Propose Behold, everything belonging to Mephibosheth is yours instead of the added temporal now. The grant and Ziba's bowed wish for favour remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-4`
+
+## 2 Samuel 16:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> King David came to Bahurim. A man from the kin of Saul’s house was coming out from there, named Shimei son of Gera. He came out, continually cursing,
+
+**Proposed**
+
+> King David came to Bahurim. Behold, a man from the kin of Saul’s house was coming out from there, named Shimei son of Gera. He came out, continually cursing,
+
+**Reason and limits**
+
+Propose Behold at Shimei's appearance from Saul's kin at Bahurim; his Gera parentage and continual cursing remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-5`
+
+## 2 Samuel 16:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord has brought back upon you all the blood of Saul’s house, because you became king in his place. The Lord has given the kingdom into the hand of Absalom your son. Now you are in calamity, because you are a man of bloodshed.”
+
+**Proposed**
+
+> The Lord has brought back upon you all the blood of Saul’s house, because you became king in his place. The Lord has given the kingdom into the hand of Absalom your son. Behold, you are in calamity, because you are a man of bloodshed.”
+
+**Reason and limits**
+
+Propose Behold instead of Now before the calamity claim, retaining Shimei's assertions about Saul's blood, succession and Absalom's kingship.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-8`
+
+## 2 Samuel 16:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David said to Abishai and all his servants, “My own son, who came from my belly, seeks my life. And now this son of the Benjaminite as well! Leave him alone to curse, for the Lord has told him.
+
+**Proposed**
+
+> David said to Abishai and all his servants, “Behold, my own son, who came from my belly, seeks my life. And now this son of the Benjaminite as well! Leave him alone to curse, for the Lord has told him.
+
+**Reason and limits**
+
+Propose Behold before David's own son's attempt on his life. Belly, the additional Benjaminite and repeated command to let him curse remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-11`
+
+## 2 Samuel 16:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Hushai said to Absalom, “No. From now on I will belong to the one whom the Lord, this people, and every man of Israel have chosen, and I will stay with him.
+
+**Proposed**
+
+> Hushai said to Absalom, “No, but I will follow the one whom the Lord, this people, and every man of Israel have chosen; I will belong to him and stay with him.
+
+**Reason and limits**
+
+Propose following the chosen one instead of From now on: katopisthen expresses following/behind, not a temporal beginning. Preserve No, but, the Lord/people/Israel's choice, belonging to him and staying with him.
+
+[Focused evidence](../../reviews/2026-11-13-OT-105-2-samuel-15-16/focused-reviews.json) · anchor `v16-18`
+
+## 2 Samuel 17:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Even now he is hiding in one of the hills or in some other place. When he falls upon them at the outset, whoever hears will say, ‘There has been a crushing defeat among the people following Absalom.’
+
+**Proposed**
+
+> For behold, now he is hiding in one of the hills or in some other place. When he falls upon them at the outset, whoever hears will say, ‘There has been a crushing defeat among the people following Absalom.’
+
+**Reason and limits**
+
+Propose For behold, now instead of Even now to retain both gar and idou. Hiding, initial attack and the report of defeat among Absalom's followers remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v17-9`
+
+## 2 Samuel 17:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> This is the counsel I have given: all Israel will gather to you, from Dan to Beersheba, as numerous as the sand beside the sea, with you yourself going in their midst.
+
+**Proposed**
+
+> For this is the counsel I have given: all Israel will gather to you, from Dan to Beersheba, as numerous as the sand beside the sea, with you yourself going in their midst.
+
+**Reason and limits**
+
+Propose For this is the counsel to retain the explanatory hoti. All Israel, Dan to Beersheba, sea-sand multitude and Absalom personally among them remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v17-11`
+
+## 2 Samuel 18:3
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They said, “You must not go out. If we flee, they will pay no attention to us; if half of us die, they will pay no attention to us. You are worth ten thousand of us. It is better now for you to be a help to us in the city.”
+
+**Proposed**
+
+> They said, “You must not go out. For if we flee, they will pay no attention to us; if half of us die, they will pay no attention to us. For you are worth ten thousand of us. It is better now for you to be a help to us in the city.”
+
+**Reason and limits**
+
+Propose For if we flee and For you are worth ten thousand, preserving both causal links in the refusal. Repeated enemy disregard, half dying and city-based aid remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-3`
+
+## 2 Samuel 18:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> A man saw it and told Joab, “I have just seen Absalom hanging in the oak.”
+
+**Proposed**
+
+> A man saw it and told Joab, “Behold, I have seen Absalom hanging in the oak.”
+
+**Reason and limits**
+
+Propose Behold, I have seen instead of I have just seen: idou marks presentation, while just adds a narrower time claim than the perfect itself requires.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-10`
+
+## 2 Samuel 18:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Joab said to the man reporting to him, “You saw him! Why did you not strike him to the ground? I would have given you ten pieces of silver and a belt.”
+
+**Proposed**
+
+> Joab said to the man reporting to him, “Behold, you saw him! Why did you not strike him to the ground? I would have given you ten pieces of silver and a belt.”
+
+**Reason and limits**
+
+Propose Behold before You saw him, retaining Joab's rebuke and unrealized ten silver pieces and belt reward.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-11`
+
+## 2 Samuel 18:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The man said to Joab, “Even if I weigh a thousand silver shekels in my hands, I will certainly not put out my hand against the king’s son. In our hearing the king commanded you, Abishai, and Ittai, ‘Guard the young man Absalom for me,
+
+**Proposed**
+
+> The man said to Joab, “Even if I weigh a thousand silver shekels in my hands, I will certainly not put out my hand against the king’s son. For in our hearing the king commanded you, Abishai, and Ittai, ‘Guard the young man Absalom for me,
+
+**Reason and limits**
+
+Propose For in our hearing to preserve the explanation for refusing even a thousand shekels. The public command to the three leaders continues into verse 13.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-12`
+
+## 2 Samuel 18:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> so as to do no wrong against his life.’ Nothing will escape the king’s notice, and you yourself would stand opposite me.”
+
+**Proposed**
+
+> so as to do no wrong against his life.’ Nothing will escape the king’s notice, and you yourself will stand opposite me.”
+
+**Reason and limits**
+
+Propose you yourself will stand opposite me for the future stese. No wrong against his life and nothing escaping the king remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-13`
+
+## 2 Samuel 18:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David was sitting between the two gates. The watchman went up to the gate roof by the wall, raised his eyes, and saw a man running alone before him.
+
+**Proposed**
+
+> David was sitting between the two gates. The watchman went up to the gate roof by the wall, raised his eyes, and saw, and behold, a man running alone before him.
+
+**Reason and limits**
+
+Propose saw, and behold, a man running to retain the presentative; David between two gates and the rooftop watchman's viewpoint remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-24`
+
+## 2 Samuel 18:31
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Then Cushi arrived and said to the king, “Let my lord the king receive good news: the Lord has vindicated you today against the hand of all who rose against you.”
+
+**Proposed**
+
+> Behold, Cushi arrived and said to the king, “Let my lord the king receive good news: the Lord has vindicated you today against the hand of all who rose against you.”
+
+**Reason and limits**
+
+Propose Behold instead of Then at Cushi's arrival. His announcement retains today's divine vindication against all rebels.
+
+[Focused evidence](../../reviews/2026-11-13-OT-106-2-samuel-17-18/focused-reviews.json) · anchor `v18-31`
+
+## 2 Samuel 19:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Joab was told, “The king is weeping and mourning over Absalom.”
+
+**Proposed**
+
+> Joab was told, “Behold, the king is weeping and mourning over Absalom.”
+
+**Reason and limits**
+
+Propose Behold at the report to Joab, preserving the presentation of the king's weeping and mourning over Absalom.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-2`
+
+## 2 Samuel 19:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. I know today that if Absalom were alive and all of us dead today, that would be right in your eyes.
+
+**Proposed**
+
+> by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. For I know today that if Absalom were alive and all of us dead today, that would be right in your eyes.
+
+**Reason and limits**
+
+Propose For I know today to retain the explanatory hoti. Loving haters, hating lovers, officers and servants not existing, and the Absalom-alive/all-us-dead counterfactual remain Joab's accusation.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-7`
+
+## 2 Samuel 19:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Now rise, go out, and speak to your servants’ hearts. I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”
+
+**Proposed**
+
+> Now rise, go out, and speak to your servants’ hearts. For I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”
+
+**Reason and limits**
+
+Propose For I swear by the Lord to retain the causal support for the command to address servants' hearts. No overnight supporter and unprecedented calamity remain the oath-bound warning.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-8`
+
+## 2 Samuel 19:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king rose and sat in the gate. All the people announced, “The king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents.
+
+**Proposed**
+
+> The king rose and sat in the gate. All the people announced, “Behold, the king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents.
+
+**Reason and limits**
+
+Propose Behold in the announcement that the king sits at the gate; collective approach and Israel's prior flight to individual tents remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-9`
+
+## 2 Samuel 19:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”
+
+**Proposed**
+
+> For your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”
+
+**Reason and limits**
+
+Propose For your servant knows to preserve the reason for the plea. I have sinned, See and priority before all Joseph's house remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-21`
+
+## 2 Samuel 19:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Mephibosheth said to him, “My lord the king, my servant deceived me. Your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame.
+
+**Proposed**
+
+> Mephibosheth said to him, “My lord the king, my servant deceived me. For your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame.
+
+**Reason and limits**
+
+Propose For your servant had said to retain the explanation of the alleged deception. The donkey request, wish to accompany the king and lameness remain Mephibosheth's account.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-27`
+
+## 2 Samuel 19:29
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”
+
+**Proposed**
+
+> For all my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”
+
+**Reason and limits**
+
+Propose For all my father's house to retain the ground of his deference. Liability to death, royal-table placement and lack of further right to appeal remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-29`
+
+## 2 Samuel 19:42
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”
+
+**Proposed**
+
+> Behold, all the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”
+
+**Reason and limits**
+
+Propose Behold before all Israel's men arrive with the accusation that Judah stole away the king, household and David's men.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-42`
+
+## 2 Samuel 19:43
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All the men of Judah answered the men of Israel, “The king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”
+
+**Proposed**
+
+> All the men of Judah answered the men of Israel, “Because the king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”
+
+**Reason and limits**
+
+Propose Because the king is close to us to retain dioti in Judah's reply. Angry response, food at royal expense, gift and contribution remain separate questions.
+
+[Focused evidence](../../reviews/2026-11-13-OT-107-2-samuel-19/focused-reviews.json) · anchor `v19-43`
+
+## 2 Samuel 20:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> That is not the matter. A man from the hill country of Ephraim, named Sheba son of Bichri, has raised his hand against King David. Give him alone to me, and I will withdraw from the city.” The woman said to Joab, “Behold, his head will be thrown to you through the wall.”
+
+**Proposed**
+
+> That is not the matter. For a man from the hill country of Ephraim, named Sheba son of Bichri, has raised his hand against King David. Give him alone to me, and I will withdraw from the city.” The woman said to Joab, “Behold, his head will be thrown to you through the wall.”
+
+**Reason and limits**
+
+Propose For a man after That is not the matter to preserve the explanatory hoti. Sheba's name, Ephraim origin, raised hand, demand for him alone and promised head remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-108-2-samuel-20-21/focused-reviews.json) · anchor `v20-21`
+
+## 2 Samuel 22:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The crushings of death surrounded me; torrents of lawlessness stunned me.
+
+**Proposed**
+
+> For the crushings of death surrounded me; torrents of lawlessness stunned me.
+
+**Reason and limits**
+
+Propose For before the death-crushings to retain hoti, preserving torrents of lawlessness, stunned reaction and the inherited two lines.
+
+[Focused evidence](../../reviews/2026-11-13-OT-109-2-samuel-22/focused-reviews.json) · anchor `v22-5`
+
+## 2 Samuel 22:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He reached from on high and took me; He drew me out of many waters.
+
+**Proposed**
+
+> He sent from on high and took me; He drew me out of many waters.
+
+**Reason and limits**
+
+Propose He sent from on high rather than He reached from on high for apesteilen. Taking and drawing from many waters retain divine agency and both inherited lines.
+
+[Focused evidence](../../reviews/2026-11-13-OT-109-2-samuel-22/focused-reviews.json) · anchor `v22-17`
+
+## 2 Samuel 22:29
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Thou art my lamp, Lord; the Lord will light my darkness for me.
+
+**Proposed**
+
+> For Thou art my lamp, Lord; the Lord will light my darkness for me.
+
+**Reason and limits**
+
+Propose For Thou art my lamp to retain hoti; direct Lord address then third-person future lighting remain with both existing lines.
+
+[Focused evidence](../../reviews/2026-11-13-OT-109-2-samuel-22/focused-reviews.json) · anchor `v22-29`
+
+## 2 Samuel 22:30
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> By Thee I will run lightly armed; by my God I will pass over a wall.
+
+**Proposed**
+
+> For by Thee I will run lightly armed; by my God I will pass over a wall.
+
+**Reason and limits**
+
+Propose For by Thee to retain hoti before the lightly armed runner and wall crossing; existing two lines remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-109-2-samuel-22/focused-reviews.json) · anchor `v22-30`
+
+## 2 Samuel 23:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> For is not my house so with the Mighty One? He established an everlasting covenant with me, ready at every time, guarded; for all my salvation and every desire—surely the lawless one will not sprout.
+
+**Proposed**
+
+> For is not my house so with the Mighty One? For He established an everlasting covenant with me, ready at every time, guarded; for all my salvation and every desire—surely the lawless one will not sprout.
+
+**Reason and limits**
+
+Propose For He established to retain the second gar in the covenant explanation, preserving the negative question, eternal covenant, ready/guarded predicates and emphatic nonsprouting lawless one.
+
+[Focused evidence](../../reviews/2026-11-13-OT-110-2-samuel-23-24/focused-reviews.json) · anchor `v23-5`
+
+## 2 Samuel 23:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> These are the names of David’s mighty men: Jebosthe the Canaanite is chief of the third, Adinon the Asonite. He drew his sword against eight hundred who were slain at one time.
+
+**Proposed**
+
+> These are the names of David’s mighty men: Jebosthe the Canaanite is chief of the third, Adinon the Asonite. He drew his sword against eight hundred wounded men at one time.
+
+**Reason and limits**
+
+Propose eight hundred wounded men instead of eight hundred who were slain: traumatiai does not independently establish that all were killed. Jebosthe the Canaanite, chief of the third and Adinon the Asonite remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-110-2-samuel-23-24/focused-reviews.json) · anchor `v23-8`
+
+## 2 Samuel 23:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> but he stood and struck the foreigners until his hand grew weary and clung to the sword. The Lord brought about a great deliverance that day; the people sat behind him, except to strip the slain.
+
+**Proposed**
+
+> but he stood and struck the foreigners until his hand grew weary and clung to the sword. The Lord brought about a great deliverance that day; the people sat behind him, except to strip the foreigners.
+
+**Reason and limits**
+
+Propose strip the foreigners rather than strip the slain, avoiding an added assertion that all stripped persons were dead. The weary sword-clinging hand, divine deliverance and people sitting behind remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-110-2-samuel-23-24/focused-reviews.json) · anchor `v23-10`
+
+## 2 Samuel 23:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Abishai, Joab’s brother, son of Zeruiah, was chief among the three. He raised his spear against three hundred who were slain, and he had a name among the three.
+
+**Proposed**
+
+> Abishai, Joab’s brother, son of Zeruiah, was chief among the three. He raised his spear against three hundred wounded men, and he had a name among the three.
+
+**Reason and limits**
+
+Propose three hundred wounded men rather than three hundred who were slain, retaining the raised spear and reputation among three without adding death to traumatiai.
+
+[Focused evidence](../../reviews/2026-11-13-OT-110-2-samuel-23-24/focused-reviews.json) · anchor `v23-18`
 
 ## Jonah 3:9
 

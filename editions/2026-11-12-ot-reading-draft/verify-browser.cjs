@@ -248,6 +248,22 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`1 Samuel ${anchor.slice(1).replace('-',':')} selected wording and comparison remain accessible on mobile`);
     await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-samuel-${anchor.slice(1)}.png`)});
   }
+  assert.equal(await page.locator('[data-book="2-samuel"] [data-reading-key]').count(),696);
+  assert.equal(await page.locator('[id="2-samuel-section-5"] [data-reading-key]').count(),26);
+  assert.equal(await page.locator('[id="2-samuel-section-18-v18-33"]').count(),0);
+  checks.push('All 696 2 Samuel units preserve 5:16a and the lament boundary at 19:1');
+  for (const [section,anchor,phrases] of [[5,'v5-16a',['Samae','Eliphalath','All thirteen names']],[16,'v16-18',['I will follow the one','From now on','supplies a finite English predicate']],[19,'v19-1',['my son, my son','Five authored lines']],[19,'v19-23',['I do not know whether I reign','not converted']],[22,'v22-17',['He sent from on high','He reached from on high','object of sent is unexpressed']],[23,'v23-8',['eight hundred wounded men','eight hundred who were slain']],[24,'v24-25',['Solomon enlarged the altar','initial smallness']]]) {
+    await page.goto(url+`#2-samuel-section-${section}`);
+    const unit=page.locator(`[id="2-samuel-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(anchor==='v19-1') assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,5);
+    if(anchor==='v22-17') assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,2);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`2 Samuel ${anchor.slice(1).replace('-',':')} selected wording and evidence remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-2-samuel-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');
