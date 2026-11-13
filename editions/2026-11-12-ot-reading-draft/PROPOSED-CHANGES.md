@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**48 proposals · 12 November 2026 · editorial acceptance pending**
+**54 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -813,6 +813,114 @@ The literary proposal uses dost for the present direct address to God, smoothing
 The proposal replaces initial Only with But to express the selected adversative without adding a restriction. Deserters, food, departed season and the repeated fear prohibition remain.
 
 [Focused evidence](../../reviews/2026-11-13-OT-030-numbers-13-14/focused-reviews.json) · anchor `v14-9`
+
+## Numbers 15:31
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> because he treated the word of the Lord as worthless, and scattered His commandments. That soul shall surely be wiped out; his sin is upon him.
+
+**Proposed**
+
+> because he treated the word of the Lord as worthless, and scattered His commandments. That soul shall surely be wiped out; his sin is in him.
+
+**Reason and limits**
+
+Worthless treatment of the word and scattering the commandments explain emphatic destruction. The proposal retains the selected in him for the concluding sin expression instead of the inherited upon him.
+
+[Focused evidence](../../reviews/2026-11-13-OT-031-numbers-15-16/focused-reviews.json) · anchor `v15-31`
+
+## Numbers 19:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And a clean man shall take hyssop, dip it in the water, and sprinkle it around the house, the vessels, and the people who were there, and on whoever touched the human bone, the slain person, the dead person, or the tomb.
+
+**Proposed**
+
+> And a clean man shall take hyssop, dip it in the water, and sprinkle it upon the house, the vessels, and the people who were there, and on whoever touched the human bone, the slain person, the dead person, or the tomb.
+
+**Reason and limits**
+
+The proposal uses upon for the house, vessels and people, preserving the objects receiving sprinkling rather than placing it around them. The four contact categories remain complete.
+
+[Focused evidence](../../reviews/2026-11-13-OT-033-numbers-19-20/focused-reviews.json) · anchor `v19-18`
+
+## Numbers 21:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the people came unto Moses and said: We have sinned by speaking against the Lord and against you. Therefore pray unto the Lord, and let Him remove the serpents from us. Moses prayed unto the Lord for the people.
+
+**Proposed**
+
+> And the people came unto Moses and said: We have sinned by speaking against the Lord and against you. Therefore pray unto the Lord, and let Him remove the serpent from us. Moses prayed unto the Lord for the people.
+
+**Reason and limits**
+
+The proposal retains the selected singular the serpent in the removal petition. The surrounding plural snakes remain in verse 6; the collective force of the singular here is left available.
+
+[Focused evidence](../../reviews/2026-11-13-OT-034-numbers-21-22/focused-reviews.json) · anchor `v21-7`
+
+## Numbers 25:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He went after the Israelite man into the chamber and stabbed both of them, the Israelite man and the woman, through her womb. The plague against the sons of Israel stopped.
+
+**Proposed**
+
+> He went after the Israelite man into the kiln and stabbed both of them, the Israelite man and the woman, through her womb. The plague against the sons of Israel stopped.
+
+**Reason and limits**
+
+Propose kiln for the selected kaminos instead of chamber. A bounded lexical inquiry found LSJ's alcove gloss but also a scholarly critique tracing its uncertain basis and arguing from the ordinary kiln sense; see lexical-checks.json. The two victims, womb and cessation of plague remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-036-numbers-25-26/focused-reviews.json) · anchor `v25-8`
+
+## Numbers 27:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and shall put of your glory upon him, that the sons of Israel may obey him.
+
+**Proposed**
+
+> and shall put some of your glory upon him, that the sons of Israel may obey him.
+
+**Reason and limits**
+
+Propose some of your glory for the partitive construction, supplying natural English for the inherited put of your glory. The transfer's purpose remains Israel's obedience.
+
+[Focused evidence](../../reviews/2026-11-13-OT-037-numbers-27-29/focused-reviews.json) · anchor `v27-20`
+
+## Numbers 29:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> besides the whole burnt offerings of the new moon, their sacrifices and their drink offerings, and the continual whole burnt offerings, their sacrifices and their drink offerings, according to their prescription, as a sweet savour unto the Lord.
+
+**Proposed**
+
+> besides the whole burnt offerings of the new moon, their sacrifices and their drink offerings, and the continual whole burnt offering, their sacrifices and their drink offerings, according to their prescription, as a sweet savour unto the Lord.
+
+**Reason and limits**
+
+New-moon and continual offerings are additional. Propose singular continual whole burnt offering to match the selected noun, retaining the plural accompanying sacrifices and drinks.
+
+[Focused evidence](../../reviews/2026-11-13-OT-037-numbers-27-29/focused-reviews.json) · anchor `v29-6`
 
 ## Jonah 3:9
 

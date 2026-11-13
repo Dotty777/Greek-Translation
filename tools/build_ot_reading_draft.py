@@ -54,6 +54,16 @@ REVIEW_DIRS = [
     "reviews/2026-11-13-OT-028-numbers-8-10",
     "reviews/2026-11-13-OT-029-numbers-11-12",
     "reviews/2026-11-13-OT-030-numbers-13-14",
+    "reviews/2026-11-13-OT-031-numbers-15-16",
+    "reviews/2026-11-13-OT-032-numbers-17-18",
+    "reviews/2026-11-13-OT-033-numbers-19-20",
+    "reviews/2026-11-13-OT-034-numbers-21-22",
+    "reviews/2026-11-13-OT-035-numbers-23-24",
+    "reviews/2026-11-13-OT-036-numbers-25-26",
+    "reviews/2026-11-13-OT-037-numbers-27-29",
+    "reviews/2026-11-13-OT-038-numbers-30-31",
+    "reviews/2026-11-13-OT-039-numbers-32-33",
+    "reviews/2026-11-13-OT-040-numbers-34-36",
 ]
 
 

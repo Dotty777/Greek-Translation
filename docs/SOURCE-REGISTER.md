@@ -81,3 +81,13 @@ Genesis 4:7 has an explicit 19-token ledger, with morphology and English realiza
 For Genesis 34:27, the root assistant read the general [LSJ entry for traumatias, senses I–II](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n104589/). The dead-casualty sense and the immediate killing context support retaining slain. This was one bounded lexicon consultation; the entry’s cited examples were not independently collated, and no complete specialist Septuagint lexicon review is claimed. [Scoped second AI checks](../reviews/2026-11-12-OT-CONTINUATION-QA.json) identify what was checked and corrected.
 
 No critical apparatus or Göttingen volume was consulted for these continuation batches. Technical animal, ritual, gemstone, anatomical and material terms retain explicit review questions. The [selected name register](OT-NAME-DECISIONS.json) is provisional and incomplete. Full specialist, independent human Greek and human read-aloud review remain open. Original Scripture and source-history files are preserved.
+
+## 13 November 2026 — Numbers completed in the provisional comparison pass
+
+Complete selected Greek running text and exact inherited English were read for Numbers 15–36, following the earlier Numbers 1–14 work. Dated batches OT-031 through OT-040 contain 739 additional authored unit comparisons and six proposals; Numbers now has 1,287 focused comparison records. The [continuation report](../reviews/2026-11-12-OT-CONTINUATION.md) and edition manifest carry the cumulative counts. The whole Old Testament assignment remains active, with Deuteronomy next.
+
+The publisher’s English-interface Numbers 21 page timed out; the [German-interface page](https://www.die-bibel.de/bibel/LXX/NUM.21) supplied the complete same-edition Greek chapter actually read. Other chapter URLs and access dates are recorded per batch.
+
+For Numbers 25:8, the [bounded lexical record](../reviews/2026-11-13-OT-036-numbers-25-26/lexical-checks.json) identifies the LSJ entry and scholarly review actually consulted in proposing kiln. The competing alcove sense and the limits of access remain explicit. Cited papyri and other scholarly works were not independently consulted. This proposal does not represent settled specialist consensus.
+
+The census, offerings and spoil records preserve manually read quantities and separately label arithmetic. Both itinerary movements in 33:36, difficult boundary wording and selected legal clauses remain intact. No full Greek corpus, apparatus collation, independent human review or editorial acceptance is claimed.

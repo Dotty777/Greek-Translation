@@ -3,10 +3,11 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "c73a2b66eae1002dd696d0d5c27092c4a88559b2f9ec8c5816991154f8095fde",
+  "reader_sha256": "90051bd98eac60133fdd9b521860ff8af5c69a684ddc1c6cf6efe88f719d8d67",
   "images_inspected": [
     "reader-desktop.png",
     "reader-mobile.png",
+    "reader-mobile-numbers-25-8.png",
     "reader-mobile-numbers-2-17.png",
     "reader-mobile-numbers-4-36.png",
     "reader-mobile-leviticus-5-7.png",
@@ -18,8 +19,9 @@
     "reader-mobile-leviticus-3-14.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "b5a16e1394bef8d2e7d9ae9248100303ddcef4b84c45576aec23d80d12e2f7db",
-    "reader-mobile.png": "8701744a8d409e7bfc3328360ef9181653256d38e56d22db05c723ff29a993c3",
+    "reader-desktop.png": "918c6e4d318e7e615c2d4239ce90daf78389e28e38eaa23738719d1f361834cd",
+    "reader-mobile.png": "fdc2dac02a8e0331d6e7e1fbde720a74d85c579f24fedb8331bd909fdfcf7e8d",
+    "reader-mobile-numbers-25-8.png": "e1ca2014a9f9996ec23c2839771380907ee4aed1fe82139db53bfb75a4639968",
     "reader-mobile-numbers-2-17.png": "7ac7c5d6aead675c9f0449a3234731584d44fb33a5899510f80b82f033a3bfcb",
     "reader-mobile-numbers-4-36.png": "2e5d890d9e0e026c80bf045ba84a647a015fb2799f518ea44e94e63099882001",
     "reader-mobile-leviticus-5-7.png": "89b98b83c63791d6ae2f65122d19b98f2c101f3d8f52ae5bf224f82901173877",
@@ -31,20 +33,21 @@
     "reader-mobile-leviticus-3-14.png": "9488601e59555db2a02d553a4a8abbb743feaacdcf1c7b592e6519f2e4a40f55"
   },
   "findings": [
-    "Updated desktop and phone headers show 4,151 comparisons and 48 proposals with legible navigation and controls.",
-    "Numbers 2:17 and 4:36 show candidate, inherited wording, source and rationale without horizontal clipping at 390px; the numeric source discrepancy remains visible as an open question.",
-    "Seven earlier passage screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
+    "Updated desktop and phone headers show 4,890 comparisons and 54 proposals with legible navigation and controls.",
+    "Numbers 25:8 clearly separates the provisional kiln candidate from inherited chamber, with rationale, source and unresolved specialist questions visible at 390px without horizontal clipping.",
+    "Nine earlier passage screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
   ],
-  "scope_limits": "Four current screenshots inspected by AI; seven earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Twenty-one automated functional checks are recorded separately.",
+  "scope_limits": "Three current screenshots inspected by AI; nine earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Twenty-two automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
     "reader-mobile.png",
-    "reader-mobile-numbers-2-17.png",
-    "reader-mobile-numbers-4-36.png"
+    "reader-mobile-numbers-25-8.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
     "date": "2026-11-13",
     "images": [
+      "reader-mobile-numbers-2-17.png",
+      "reader-mobile-numbers-4-36.png",
       "reader-mobile-leviticus-5-7.png",
       "reader-mobile-leviticus-11-27.png",
       "reader-mobile-jonah.png",
