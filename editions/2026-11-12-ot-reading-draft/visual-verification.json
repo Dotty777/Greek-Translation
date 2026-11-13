@@ -3,9 +3,18 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "b9f6fd483bcb1f09a9c730ec53c3a1587f58bf6ec4cdd020fd331c0e89dbda2a",
+  "reader_sha256": "de9a82057263a88d21441878da563881c6b9e93878b6e19d2cec405b6ca21efc",
   "images_inspected": [
     "reader-desktop.png",
+    "reader-mobile-1-chronicles-1-29.png",
+    "reader-mobile-1-chronicles-10-1.png",
+    "reader-mobile-1-chronicles-10-14.png",
+    "reader-mobile-1-chronicles-12-19.png",
+    "reader-mobile-1-chronicles-16-35.png",
+    "reader-mobile-1-chronicles-19-14.png",
+    "reader-mobile-1-chronicles-27-5.png",
+    "reader-mobile-1-chronicles-5-21.png",
+    "reader-mobile-1-chronicles-9-11.png",
     "reader-mobile-1-kings-10-7.png",
     "reader-mobile-1-kings-12-24b.png",
     "reader-mobile-1-kings-16-9.png",
@@ -62,7 +71,16 @@
     "reader-mobile.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "6e9bc74cf6dc65e4dc49adbf22b7dd693bfd84a955782dc54266b72b173a8908",
+    "reader-desktop.png": "2415b6f23cca5a186a99554f28bfdc1d65348c0536d9867347abfcd1f3ad0ab2",
+    "reader-mobile-1-chronicles-1-29.png": "01524e540c90fe2b82484dcb5fc7fc6e9ea7c3457a574df6909c61ad835fa135",
+    "reader-mobile-1-chronicles-10-1.png": "88d7ee654e71383ee96f7812931ef8550096ea123b87d5ece0e5c58c6cf7e15c",
+    "reader-mobile-1-chronicles-10-14.png": "645c216d3f2eb0e1ef645f8dc1c691692505a21a5955d08e39491fa41b8cc39e",
+    "reader-mobile-1-chronicles-12-19.png": "aa4baa5bf8fcfedf3c90d20cb46951a30a08c92afccf432defebeedcc31be72a",
+    "reader-mobile-1-chronicles-16-35.png": "be260f396b7b39f4dc0984419b6e271ddeb044710807db8dbed4c70653348831",
+    "reader-mobile-1-chronicles-19-14.png": "9cce1fd4df2d9a65e34c0858911858f59c65d1ffd5f5329167101bca55f583a7",
+    "reader-mobile-1-chronicles-27-5.png": "aeec5f3319f5daa50293e89a8a0fec5c81c0b19c3a6c333f796d8385fde249ca",
+    "reader-mobile-1-chronicles-5-21.png": "8b85e9928f6746e8c79676977f3880c38bb847940f64f4c0454f239de5d21498",
+    "reader-mobile-1-chronicles-9-11.png": "9700f907bcab11097c66880496882f6cfa5b5a405706b8198cc759ddca83fa91",
     "reader-mobile-1-kings-10-7.png": "ef8cd6069107a6640e7eec42b8d96018be262dcc6bf077762c7b24c71327e633",
     "reader-mobile-1-kings-12-24b.png": "d567cdec258250d6bca790dc523f921229495656cbaec72cec7f1a37984a0c24",
     "reader-mobile-1-kings-16-9.png": "148e82d94f8b44d8dd7f5fa76c12b3c762b82c904228eeb5ec638bf775da0b93",
@@ -116,25 +134,25 @@
     "reader-mobile-ruth-1-17.png": "ea8cf3427c27ca90ecf4ade881144061dbd0c048ae9fcc0e2aecf080f36da842",
     "reader-mobile-ruth-2-12.png": "29024326c7b515ea78ac8864a727258f24001ae48ed384ae4b8239755104ae34",
     "reader-mobile-ruth-3-15.png": "6ab79fffb74a18e38ccc040c275cbc1f26d196ec8f42d850612f7ab8ebf9f8d9",
-    "reader-mobile.png": "222837f866d7046443eafe5361e89dfab8f1450af176876d5eb11faf180db2e8"
+    "reader-mobile.png": "fea190830e8de77cdf1d28b402d29aa30548477ce4a01d053d22e247480d72b3"
   },
   "findings": [
-    "Desktop and mobile headers display 10,225 comparison units and 298 wording proposals without clipping.",
-    "Nine new 2 Kings mobile captures were visually inspected: 1:9 presentative and punctuation, 2:14 failed strike and Appho, 6:27 negative wish, 9:6 inferred prophet, 13:11 negative scope, 17:34 affirmative wording and Jacob antecedent, 19:23 oracle lineation, 22:19 ordinary address and 25:10 sentence completion. Text, separate inherited wording, evidence and questions wrap legibly.",
-    "Forty-four prior screenshot inspections remain applicable after exact image-hash equality. Eleven images were freshly inspected in this checkpoint."
+    "Desktop and mobile headers show 11,155 compared units and 305 unaccepted wording proposals with readable navigation and no clipping.",
+    "Nine new 1 Chronicles mobile captures were visually inspected: seven wording proposals (firstborn, captives, Azaria title, two Saul-account subjects, Syrian flight, Banaias titles) and two poetic displays (12:19 and 16:35). Text, inherited wording, evidence, explicit limits and open questions wrap legibly; poetic clauses remain distinguishable.",
+    "Fifty-three earlier screenshot inspections remain applicable after exact image-hash equality. Eleven images were freshly inspected at this checkpoint."
   ],
-  "scope_limits": "Eleven current screenshots inspected by AI; forty-four earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Seventy-four automated functional checks are recorded separately.",
+  "scope_limits": "Eleven current screenshots inspected by AI; fifty-three earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Eighty-four automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
-    "reader-mobile-2-kings-1-9.png",
-    "reader-mobile-2-kings-13-11.png",
-    "reader-mobile-2-kings-17-34.png",
-    "reader-mobile-2-kings-19-23.png",
-    "reader-mobile-2-kings-2-14.png",
-    "reader-mobile-2-kings-22-19.png",
-    "reader-mobile-2-kings-25-10.png",
-    "reader-mobile-2-kings-6-27.png",
-    "reader-mobile-2-kings-9-6.png",
+    "reader-mobile-1-chronicles-1-29.png",
+    "reader-mobile-1-chronicles-10-1.png",
+    "reader-mobile-1-chronicles-10-14.png",
+    "reader-mobile-1-chronicles-12-19.png",
+    "reader-mobile-1-chronicles-16-35.png",
+    "reader-mobile-1-chronicles-19-14.png",
+    "reader-mobile-1-chronicles-27-5.png",
+    "reader-mobile-1-chronicles-5-21.png",
+    "reader-mobile-1-chronicles-9-11.png",
     "reader-mobile.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
@@ -152,6 +170,15 @@
       "reader-mobile-1-samuel-20-12.png",
       "reader-mobile-1-samuel-21-6.png",
       "reader-mobile-1-samuel-30-28a.png",
+      "reader-mobile-2-kings-1-9.png",
+      "reader-mobile-2-kings-13-11.png",
+      "reader-mobile-2-kings-17-34.png",
+      "reader-mobile-2-kings-19-23.png",
+      "reader-mobile-2-kings-2-14.png",
+      "reader-mobile-2-kings-22-19.png",
+      "reader-mobile-2-kings-25-10.png",
+      "reader-mobile-2-kings-6-27.png",
+      "reader-mobile-2-kings-9-6.png",
       "reader-mobile-2-samuel-16-18.png",
       "reader-mobile-2-samuel-19-1.png",
       "reader-mobile-2-samuel-19-23.png",
@@ -185,6 +212,6 @@
       "reader-mobile-ruth-2-12.png",
       "reader-mobile-ruth-3-15.png"
     ],
-    "previous_reader_sha256": "1a4c33a52e0a95d7740d048b7821c7827dc201ccf4ed2fa78f5cdfe3c8fa2a6a"
+    "previous_reader_sha256": "b9f6fd483bcb1f09a9c730ec53c3a1587f58bf6ec4cdd020fd331c0e89dbda2a"
   }
 }

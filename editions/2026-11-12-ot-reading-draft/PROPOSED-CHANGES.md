@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**298 proposals · 12 November 2026 · editorial acceptance pending**
+**305 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -5313,6 +5313,132 @@ Remove the second they from behold, they were all dead bodies: behold, all were 
 Replace you did feel shame, did rend and did weep with you felt shame, tore and wept in ordinary address to Josiah. Retain softened heart, the Lord's presence, obliteration and curse, garments, tears and divine hearing. The close draft preserves the inherited finite forms.
 
 [Focused evidence](../../reviews/2026-11-13-OT-139-2-kings-22-23/focused-reviews.json) · anchor `v22-19`
+
+## 1 Chronicles 1:29
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> These are the generations of Ishmael’s firstborn: Nabaioth, Kedar, Nabdeel, Mabsan,
+
+**Proposed**
+
+> These are the generations of Ishmael, the firstborn: Nabaioth, Kedar, Nabdeel, Mabsan,
+
+**Reason and limits**
+
+Propose generations of Ishmael, the firstborn for generations of Ishmael's firstborn. This reads the genitive firstborn designation with Ishmael as the genealogy's subject, in keeping with the following list ending these are Ishmael's sons, instead of making the list descendants of an unnamed firstborn son. The close draft retains the inherited construal; Nabaioth, Kedar, Nabdeel and Mabsan remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-141-1-chronicles-1/focused-reviews.json) · anchor `v1-29`
+
+## 1 Chronicles 5:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They captured their baggage: five thousand camels, two hundred fifty thousand sheep, two thousand donkeys, and one hundred thousand human lives.
+
+**Proposed**
+
+> They captured their baggage: five thousand camels, two hundred fifty thousand sheep, two thousand donkeys, and one hundred thousand men.
+
+**Reason and limits**
+
+Propose one hundred thousand men for one hundred thousand human lives. The captured persons are expressed by the Greek souls/lives of men construction; men makes clear that this is a captive count alongside captured property, not a death toll, and preserves the male noun. Retain five thousand camels, two hundred fifty thousand sheep and two thousand donkeys; the close draft keeps human lives.
+
+[Focused evidence](../../reviews/2026-11-13-OT-144-1-chronicles-5/focused-reviews.json) · anchor `v5-21`
+
+## 1 Chronicles 9:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Azaria son of Chelkia, son of Mosollam, son of Sadok, son of Maraioth, son of Achitob, leader of the house of God,
+
+**Proposed**
+
+> Azaria, leader of the house of God, son of Chelkia, son of Mosollam, son of Sadok, son of Maraioth, son of Achitob,
+
+**Reason and limits**
+
+Move leader of the house of God directly after Azaria so the English title clearly describes him. The Greek nominative hegoumenos agrees with the listed Azaria, while the intervening fathers stand in genitive relationships; final placement in English can misleadingly attach the title to Achitob. Preserve every ancestor and retain the inherited order in the close draft.
+
+[Focused evidence](../../reviews/2026-11-13-OT-148-1-chronicles-9/focused-reviews.json) · anchor `v9-11`
+
+## 1 Chronicles 10:1
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The foreigners fought against Israel. They fled before the foreigners and fell wounded on Mount Gelboue.
+
+**Proposed**
+
+> The foreigners fought against Israel. The Israelites fled before the foreigners and fell wounded on Mount Gelboue.
+
+**Reason and limits**
+
+Propose The Israelites fled for They fled after the foreigners' attack. The Greek leaves the fleeing subject unexpressed, but the opposing sides and verse 7's explicit Israel had fled identify it contextually; the English pronoun could otherwise suggest that the foreigners fled. Retain foreigners, Mount Gelboue and fell wounded; the close draft preserves the pronoun.
+
+[Focused evidence](../../reviews/2026-11-13-OT-149-1-chronicles-10-11/focused-reviews.json) · anchor `v10-1`
+
+## 1 Chronicles 10:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He did not seek the Lord, and He killed him and turned the kingdom over to David son of Jesse.
+
+**Proposed**
+
+> He did not seek the Lord, and the Lord killed him and turned the kingdom over to David son of Jesse.
+
+**Reason and limits**
+
+Propose and the Lord killed him for and He killed him to distinguish Saul as the non-seeking subject from the divine killing and transfer of kingship. The Greek does not repeat the divine name as subject; the contextual inference is grounded in the immediately preceding Lord and the theological explanation. The close draft retains the inherited capitalization cue alone.
+
+[Focused evidence](../../reviews/2026-11-13-OT-149-1-chronicles-10-11/focused-reviews.json) · anchor `v10-14`
+
+## 1 Chronicles 19:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Joab and the people with him arrayed themselves opposite the Syrians for war, and they fled from him.
+
+**Proposed**
+
+> Joab and the people with him arrayed themselves opposite the Syrians for war, and the Syrians fled from him.
+
+**Reason and limits**
+
+Propose the Syrians fled in place of they fled. The selected Greek leaves the fleeing subject implicit after Joab and his people, but verse 15 expressly identifies the Syrians as having fled; the clarification prevents a misleading English subject carryover. All battle actions remain; the close stage preserves the inherited pronoun.
+
+[Focused evidence](../../reviews/2026-11-13-OT-155-1-chronicles-19-21/focused-reviews.json) · anchor `v19-14`
+
+## 1 Chronicles 27:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The third, for the third month, was Banaias son of Jodae, the priest, the ruler. His division had twenty-four thousand.
+
+**Proposed**
+
+> The third, for the third month, was Banaias, priest and ruler, son of Jodae. His division had twenty-four thousand.
+
+**Reason and limits**
+
+Propose placing priest and ruler directly after Banaias before son of Jodae. The selected nominative titles agree with Banaias, while Jodae belongs to the genitive parentage phrase. The old placement can misattach the offices to his father; the close stage preserves it. Third month and 24,000 remain unchanged.
+
+[Focused evidence](../../reviews/2026-11-13-OT-158-1-chronicles-26-27/focused-reviews.json) · anchor `v27-5`
 
 ## Jonah 3:9
 

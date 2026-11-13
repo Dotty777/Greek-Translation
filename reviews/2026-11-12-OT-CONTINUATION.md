@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 10,097 focused comparison records. Across the current OT programme, 10,225 of 26,580 stored units have new comparisons; 16,355 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 11,027 focused comparison records. Across the current OT programme, 11,155 of 26,580 stored units have new comparisons; 15,425 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -143,11 +143,30 @@ This continuation adds 10,097 focused comparison records. Across the current OT 
 | [OT-138](2026-11-13-OT-138-2-kings-20-21/README.md) | 2 Kings 20–21; all 47 stored units | 47 | 0 |
 | [OT-139](2026-11-13-OT-139-2-kings-22-23/README.md) | 2 Kings 22–23; all 57 stored units | 57 | 1 |
 | [OT-140](2026-11-13-OT-140-2-kings-24-25/README.md) | 2 Kings 24–25; all 50 stored units | 50 | 0 |
+| [OT-141](2026-11-13-OT-141-1-chronicles-1/README.md) | 1 Chronicles 1; all 42 stored units | 42 | 1 |
+| [OT-142](2026-11-13-OT-142-1-chronicles-2/README.md) | 1 Chronicles 2; all 55 stored units | 55 | 0 |
+| [OT-143](2026-11-13-OT-143-1-chronicles-3-4/README.md) | 1 Chronicles 3–4; all 67 stored units | 67 | 0 |
+| [OT-144](2026-11-13-OT-144-1-chronicles-5/README.md) | 1 Chronicles 5; all 41 stored units | 41 | 1 |
+| [OT-145](2026-11-13-OT-145-1-chronicles-6/README.md) | 1 Chronicles 6; all 66 stored units | 66 | 0 |
+| [OT-146](2026-11-13-OT-146-1-chronicles-7/README.md) | 1 Chronicles 7; all 40 stored units | 40 | 0 |
+| [OT-147](2026-11-13-OT-147-1-chronicles-8/README.md) | 1 Chronicles 8; all 40 stored units | 40 | 0 |
+| [OT-148](2026-11-13-OT-148-1-chronicles-9/README.md) | 1 Chronicles 9; all 44 stored units | 44 | 1 |
+| [OT-149](2026-11-13-OT-149-1-chronicles-10-11/README.md) | 1 Chronicles 10–11; all 61 stored units | 61 | 2 |
+| [OT-150](2026-11-13-OT-150-1-chronicles-12/README.md) | 1 Chronicles 12; all 41 stored units | 41 | 0 |
+| [OT-151](2026-11-13-OT-151-1-chronicles-13-14/README.md) | 1 Chronicles 13–14; all 31 stored units | 31 | 0 |
+| [OT-152](2026-11-13-OT-152-1-chronicles-15/README.md) | 1 Chronicles 15; all 29 stored units | 29 | 0 |
+| [OT-153](2026-11-13-OT-153-1-chronicles-16/README.md) | 1 Chronicles 16; all 42 stored units, preserving the verse 24 gap | 42 | 0 |
+| [OT-154](2026-11-13-OT-154-1-chronicles-17-18/README.md) | 1 Chronicles 17–18; all 44 stored units | 44 | 0 |
+| [OT-155](2026-11-13-OT-155-1-chronicles-19-21/README.md) | 1 Chronicles 19–21; all 57 stored units | 57 | 1 |
+| [OT-156](2026-11-13-OT-156-1-chronicles-22-23/README.md) | 1 Chronicles 22–23; all 51 stored units | 51 | 0 |
+| [OT-157](2026-11-13-OT-157-1-chronicles-24-25/README.md) | 1 Chronicles 24–25; all 62 stored units | 62 | 0 |
+| [OT-158](2026-11-13-OT-158-1-chronicles-26-27/README.md) | 1 Chronicles 26–27; all 66 stored units | 66 | 1 |
+| [OT-159](2026-11-13-OT-159-1-chronicles-28-29/README.md) | 1 Chronicles 28–29; all 51 stored units | 51 | 0 |
 
-Next source-led drafting passage: **1 Chronicles 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **2 Chronicles 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 10,128 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 11,058 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

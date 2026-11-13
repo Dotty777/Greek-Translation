@@ -310,6 +310,25 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`2 Kings ${anchor.slice(1).replace('-',':')} selected wording and evidence remain accessible on mobile`);
     await unit.screenshot({path:path.join(__dirname,`reader-mobile-2-kings-${anchor.slice(1)}.png`)});
   }
+  assert.equal(await page.locator('[data-book="1-chronicles"] .verse').count(),930);
+  assert.equal(await page.locator('[id="1-chronicles-section-1"] .verse').count(),42);
+  assert.equal(await page.locator('[id="1-chronicles-section-5"] .verse').count(),41);
+  assert.equal(await page.locator('[id="1-chronicles-section-6"] .verse').count(),66);
+  for (const verse of [11,12,13,14,15,16,18,19,20,21,22,23]) assert.equal(await page.locator(`[id="1-chronicles-section-1-v1-${verse}"]`).count(),0);
+  assert.equal(await page.locator('[id="1-chronicles-section-16-v16-24"]').count(),0);
+  assert((await page.locator('[id="1-chronicles-section-29-v29-30"] .reading-text').innerText()).endsWith('all the kingdoms of the earth.'));
+  checks.push('All 930 1 Chronicles units preserve selected chapter boundaries, Genesis-list and psalm gaps, and the final record notice');
+  for (const [section,anchor,phrases,lines] of [[1,'v1-29',['generations of Ishmael, the firstborn','Ishmael’s firstborn'],0],[5,'v5-21',['one hundred thousand men','human lives'],0],[9,'v9-11',['Azaria, leader of the house of God','son of Achitob'],0],[10,'v10-1',['The Israelites fled','They fled'],0],[10,'v10-14',['and the Lord killed him','and He killed him'],0],[12,'v12-19',['A spirit clothed Amasai','Poetic line breaks proposed by AI'],7],[16,'v16-35',['Thy holy name','Poetic line breaks proposed by AI'],4],[19,'v19-14',['and the Syrians fled','and they fled'],0],[27,'v27-5',['Banaias, priest and ruler, son of Jodae','nominative titles'],0]]) {
+    await page.goto(url+`#1-chronicles-section-${section}`);
+    const unit=page.locator(`[id="1-chronicles-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(lines) assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,lines);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`1 Chronicles ${anchor.slice(1).replace('-',':')} selected wording, provisional evidence and display remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-chronicles-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');
