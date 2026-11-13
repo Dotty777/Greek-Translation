@@ -329,6 +329,38 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`1 Chronicles ${anchor.slice(1).replace('-',':')} selected wording, provisional evidence and display remain accessible on mobile`);
     await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-chronicles-${anchor.slice(1)}.png`)});
   }
+  assert.equal(await page.locator('[data-book="2-chronicles"] .verse').count(),833);
+  assert.equal(await page.locator('[id="2-chronicles-section-27"] .verse').count(),8);
+  assert.equal(await page.locator('[id="2-chronicles-section-27-v27-8"]').count(),0);
+  for (const [section,anchors] of [[35,['19a','19b','19c','19d']],[36,['2a','2b','2c','4a','5a','5b','5c','5d']]]) {
+    for (const anchor of anchors) assert.equal(await page.locator(`[id="2-chronicles-section-${section}-v${section}-${anchor}"]`).count(),1);
+  }
+  assert((await page.locator('[id="2-chronicles-section-36-v36-23"] .reading-text').innerText()).endsWith('and let him go up.”'));
+  checks.push('All 833 2 Chronicles units preserve the gap at 27:8, twelve lettered additions and the final ascent command');
+  // The scoped package records provide exact before/after text independently of HTML rendering.
+  let twoChroniclesCompared=0;
+  for (const folder of fs.readdirSync(path.join(__dirname,'../../reviews')).filter(name=>/^2026-11-13-OT-\d+-2-chronicles-/.test(name))) {
+    const records=JSON.parse(fs.readFileSync(path.join(__dirname,'../../reviews',folder,'focused-reviews.json'),'utf8')).records;
+    for (const record of records.filter(record=>record.decision==='propose_revision')) {
+      const unit=page.locator(`[id="2-chronicles-section-${record.reading_section_id}-${record.verse_anchor}"]`);
+      assert.equal((await unit.locator('.reading-text').innerText()).replace(/\s+/g,' ').trim(),record.candidate_text.replace(/\s+/g,' ').trim());
+      assert((await unit.textContent()).includes(record.baseline_text));
+      twoChroniclesCompared++;
+    }
+  }
+  assert.equal(twoChroniclesCompared,11);
+  checks.push('All eleven 2 Chronicles proposals render exact candidate wording and preserve their inherited comparison');
+  for (const [section,anchor,phrases,lines] of [[4,'v4-13',['on one network','on each network','distributive'],0],[6,'v6-27',['they will walk','they should walk'],0],[6,'v6-41',['Thy sons','Poetic line breaks proposed by AI'],4],[10,'v10-11',['Now my father','and-now'],0],[14,'v14-4',['he was at peace','he made peace'],0],[19,'v19-10',['Each of you shall','distributive attachment'],0],[20,'v20-21',['Give thanks to the Lord','Poetic line breaks proposed by AI'],3],[25,'v25-15',['that people’s gods, who did not rescue','could not rescue'],0],[25,'v25-19',['You said','You say'],0],[34,'v34-22',['herself keeper of the robes','feminine keeper participle'],0],[34,'v34-24',['Behold, I am bringing','expressly'],0],[35,'v35-25',['male and female rulers','and behold, it is written'],0],[36,'v36-5d',['Jehoiakim shed','did not wish to destroy'],0]]) {
+    await page.goto(url+`#2-chronicles-section-${section}`);
+    const unit=page.locator(`[id="2-chronicles-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(lines) assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,lines);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`2 Chronicles ${anchor.slice(1).replace('-',':')} selected wording, provisional evidence and display remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-2-chronicles-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');

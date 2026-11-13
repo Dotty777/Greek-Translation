@@ -183,6 +183,25 @@ REVIEW_DIRS = [
     "reviews/2026-11-13-OT-157-1-chronicles-24-25",
     "reviews/2026-11-13-OT-158-1-chronicles-26-27",
     "reviews/2026-11-13-OT-159-1-chronicles-28-29",
+    "reviews/2026-11-13-OT-160-2-chronicles-1-2",
+    "reviews/2026-11-13-OT-161-2-chronicles-3-5",
+    "reviews/2026-11-13-OT-162-2-chronicles-6",
+    "reviews/2026-11-13-OT-163-2-chronicles-7-8",
+    "reviews/2026-11-13-OT-164-2-chronicles-9-10",
+    "reviews/2026-11-13-OT-165-2-chronicles-11-12",
+    "reviews/2026-11-13-OT-166-2-chronicles-13-14",
+    "reviews/2026-11-13-OT-167-2-chronicles-15-16",
+    "reviews/2026-11-13-OT-168-2-chronicles-17-18",
+    "reviews/2026-11-13-OT-169-2-chronicles-19-20",
+    "reviews/2026-11-13-OT-170-2-chronicles-21-22",
+    "reviews/2026-11-13-OT-171-2-chronicles-23-24",
+    "reviews/2026-11-13-OT-172-2-chronicles-25-26",
+    "reviews/2026-11-13-OT-173-2-chronicles-27-28",
+    "reviews/2026-11-13-OT-174-2-chronicles-29",
+    "reviews/2026-11-13-OT-175-2-chronicles-30-31",
+    "reviews/2026-11-13-OT-176-2-chronicles-32-33",
+    "reviews/2026-11-13-OT-177-2-chronicles-34",
+    "reviews/2026-11-13-OT-178-2-chronicles-35-36",
 ]
 
 
@@ -397,10 +416,10 @@ def build(required=False):
                     check(f"Review decision agrees with wording {key}", r.get("decision") == ("propose_revision" if changed else "retain_provisionally"))
                     check(f"Review benchmark flag agrees {key}", bool(r.get("benchmark_change")) == (changed and book_id == 'genesis' and chapter['chapter'] <= 11))
                     check(f"Review records source-access metadata {key}", r.get('source', {}).get('running_text_read') is True and bool(r.get('source', {}).get('url')) and bool(r.get('source', {}).get('accessed_on')))
-                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings', '2-kings', '1-chronicles'):
-                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU', 'joshua': 'JOS', 'judges': 'JDG', 'ruth': 'RUT', '1-samuel': '1SA', '2-samuel': '2SA', '1-kings': '1KI', '2-kings': '2KI', '1-chronicles': '1CH'}[book_id]
+                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings', '2-kings', '1-chronicles', '2-chronicles'):
+                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU', 'joshua': 'JOS', 'judges': 'JDG', 'ruth': 'RUT', '1-samuel': '1SA', '2-samuel': '2SA', '1-kings': '1KI', '2-kings': '2KI', '1-chronicles': '1CH', '2-chronicles': '2CH'}[book_id]
                         check(f"Source locator matches chapter {key}", r['source']['url'].rstrip('/').endswith(f"/LXX/{source_code}.{chapter['chapter']}"))
-                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings', '2-kings', '1-chronicles'):
+                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings', '2-kings', '1-chronicles', '2-chronicles'):
                         check(f"Continuation has three draft stages {key}", has_three_drafts(r))
                         check(f"Literary stage agrees with candidate {key}", r['drafts']['literary'] == r['candidate_text'])
                     if r.get("review", {}).get("all_tokens_accounted_for"):

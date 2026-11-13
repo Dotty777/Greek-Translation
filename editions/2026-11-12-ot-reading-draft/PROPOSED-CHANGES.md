@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**305 proposals · 12 November 2026 · editorial acceptance pending**
+**316 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -5439,6 +5439,204 @@ Propose the Syrians fled in place of they fled. The selected Greek leaves the fl
 Propose placing priest and ruler directly after Banaias before son of Jodae. The selected nominative titles agree with Banaias, while Jodae belongs to the genitive parentage phrase. The old placement can misattach the offices to his father; the close stage preserves it. Third month and 24,000 remain unchanged.
 
 [Focused evidence](../../reviews/2026-11-13-OT-158-1-chronicles-26-27/focused-reviews.json) · anchor `v27-5`
+
+## 2 Chronicles 4:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> four hundred golden bells for the two networks, and two groups of pomegranates on each network, covering the two golath of the chothareth above the pillars.
+
+**Proposed**
+
+> four hundred golden bells for the two networks, and two groups of pomegranates on one network, covering the two golath of the chothareth above the pillars.
+
+**Reason and limits**
+
+Propose on one network instead of on each network for the selected singular on the one network expression. This avoids silently distributing the two pomegranate groups across both networks. Retain 400 golden bells, two networks, two groups and both golath/chothareth expressions; the close draft preserves each.
+
+[Focused evidence](../../reviews/2026-11-13-OT-161-2-chronicles-3-5/focused-reviews.json) · anchor `v4-13`
+
+## 2 Chronicles 6:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> then hear from heaven and be propitious toward the sins of Thy servants and Thy people Israel, for Thou wilt make known to them the good way in which they should walk. Give rain upon Thy land that Thou didst give Thy people as an inheritance.
+
+**Proposed**
+
+> then hear from heaven and be propitious toward the sins of Thy servants and Thy people Israel, for Thou wilt make known to them the good way in which they will walk. Give rain upon Thy land that Thou didst give Thy people as an inheritance.
+
+**Reason and limits**
+
+Propose in which they will walk in place of in which they should walk. The selected relative clause has a future indicative, not an explicit obligation modal. This keeps the anticipated walking alongside Thou wilt make known, while the surrounding prayer requests remain. Preserve servants, Israel, rain and inherited land; the close stage retains should.
+
+[Focused evidence](../../reviews/2026-11-13-OT-162-2-chronicles-6/focused-reviews.json) · anchor `v6-27`
+
+## 2 Chronicles 10:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> My father disciplined you with a heavy yoke; I will add to your yoke. My father disciplined you with whips; I will discipline you with scorpions.’”
+
+**Proposed**
+
+> Now my father disciplined you with a heavy yoke; I will add to your yoke. My father disciplined you with whips; I will discipline you with scorpions.’”
+
+**Reason and limits**
+
+Propose restoring Now at the opening to represent the selected and-now discourse turn omitted from the inherited line. Retain the father disciplining with a heavy yoke, addition to the yoke and the contrast of whips and scorpions. The close stage preserves the inherited unmarked opening; no literal-animal explanation is added.
+
+[Focused evidence](../../reviews/2026-11-13-OT-164-2-chronicles-9-10/focused-reviews.json) · anchor `v10-11`
+
+## 2 Chronicles 14:4
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He removed the altars and idols from all Judah’s cities, and he made peace;
+
+**Proposed**
+
+> He removed the altars and idols from all Judah’s cities, and he was at peace;
+
+**Reason and limits**
+
+Propose he was at peace for he made peace. The selected intransitive peace verb has no object and is repeated with the land as subject in verse 5; the proposal avoids suggesting an unexpressed act of peacemaking. Retain removal of altars and idols from all cities and the continuation semicolon; the close stage preserves the inherited wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-166-2-chronicles-13-14/focused-reviews.json) · anchor `v14-4`
+
+## 2 Chronicles 19:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Whatever judgment comes before you from your brethren dwelling in their cities, between blood and blood, between ordinance and commandment, and statutes and judgments, you shall give them clear instruction, so that they do not sin against the Lord, and wrath does not come upon you and your brethren. This is how you shall act, and you shall not sin.
+
+**Proposed**
+
+> Each of you shall give them clear instruction about any judgment that comes before you from your brethren dwelling in their cities—between blood and blood, between ordinance and commandment, and statutes and judgments. They will not sin against the Lord, and wrath will not come upon you and your brethren. This is how you shall act, and you shall not sin.
+
+**Reason and limits**
+
+Restore the opening each-person expression by addressing each of the judges before the instruction about cases. Preserve blood and blood, the four legal categories, explicit future non-sinning and absence of wrath, and the final repeated command and assurance. The inherited text remains the close draft; the proposed literary syntax supplies of you from the judicial address.
+
+[Focused evidence](../../reviews/2026-11-13-OT-169-2-chronicles-19-20/focused-reviews.json) · anchor `v19-10`
+
+## 2 Chronicles 25:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord’s wrath came upon Amaziah, and He sent him prophets who said, “Why have you sought the gods of a people who could not rescue their own people from your hand?”
+
+**Proposed**
+
+> The Lord’s wrath came upon Amaziah, and He sent him prophets who said, “Why have you sought that people’s gods, who did not rescue their people from your hand?”
+
+**Reason and limits**
+
+Revise to that people's gods, who did not rescue their people, making the gods the clear antecedent of the relative clause. Replace could not rescue with did not rescue because the selected verb reports the failure without an explicit ability modal. Retain plural prophets and the Lord's wrath; preserve inherited wording as the close draft.
+
+[Focused evidence](../../reviews/2026-11-13-OT-172-2-chronicles-25-26/focused-reviews.json) · anchor `v25-15`
+
+## 2 Chronicles 25:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> You say, ‘Behold, you have struck Idumea,’ and your heavy heart lifts you up. Now remain in your house. Why engage in evil, so that you fall, you and Judah with you?”
+
+**Proposed**
+
+> You said, ‘Behold, you have struck Idumea,’ and your heavy heart lifts you up. Now remain in your house. Why engage in evil, so that you fall, you and Judah with you?”
+
+**Reason and limits**
+
+Change You say to You said to reflect the selected aorist while retaining the difficult second-person quotation, heavy heart, lifting, staying home and danger to both king and Judah. The close draft preserves the inherited present.
+
+[Focused evidence](../../reviews/2026-11-13-OT-172-2-chronicles-25-26/focused-reviews.json) · anchor `v25-19`
+
+## 2 Chronicles 34:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> ‘Thus says the Lord: I am bringing evils upon this place—all the words written in the book read before the king of Judah,
+
+**Proposed**
+
+> ‘Thus says the Lord: Behold, I am bringing evils upon this place—all the words written in the book read before the king of Judah,
+
+**Reason and limits**
+
+Restore Behold before I am bringing, since the selected oracle expressly marks the announcement. Retain evils upon this place and all words in the book read before Judah's king; do not substitute curses or add inhabitants within this verse. The close draft preserves inherited wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-177-2-chronicles-34/focused-reviews.json) · anchor `v34-24`
+
+## 2 Chronicles 34:28
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> I am adding you to your fathers, and you will be added to your tombs in peace. Your eyes will not see all the evils I am bringing upon this place and its inhabitants.’” They brought word back to the king.
+
+**Proposed**
+
+> Behold, I am adding you to your fathers, and you will be added to your tombs in peace. Your eyes will not see all the evils I am bringing upon this place and its inhabitants.’” They brought word back to the king.
+
+**Reason and limits**
+
+Restore Behold before I am adding, preserving the second explicit announcement marker. Retain adding to fathers, plural your tombs, in peace, eyes not seeing all coming evils and the report back. The close draft preserves inherited wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-177-2-chronicles-34/focused-reviews.json) · anchor `v34-28`
+
+## 2 Chronicles 35:25
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and Jeremiah lamented over Josiah. All the male and female rulers spoke a lament over Josiah to this day. They made it an ordinance for Israel, and it is written among the laments.
+
+**Proposed**
+
+> and Jeremiah lamented over Josiah. All the male and female rulers spoke a lament over Josiah to this day. They made it an ordinance for Israel, and behold, it is written among the laments.
+
+**Reason and limits**
+
+Restore the explicit behold before the record notice. Retain Jeremiah's lament, male and female rulers, to-this-day lament and ordinance for Israel. Rulers is not changed to singers to harmonize another text; the close draft preserves inherited wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-178-2-chronicles-35-36/focused-reviews.json) · anchor `v35-25`
+
+## 2 Chronicles 35:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and his deeds, first and last, are written in the Book of the Kings of Israel and Judah.
+
+**Proposed**
+
+> and his deeds, first and last—behold, they are written in the Book of the Kings of Israel and Judah.
+
+**Reason and limits**
+
+Restore behold in the final record notice while retaining first/last deeds and the Book of the Kings of Israel and Judah. The close draft preserves inherited wording; no access to the named ancient record is implied.
+
+[Focused evidence](../../reviews/2026-11-13-OT-178-2-chronicles-35-36/focused-reviews.json) · anchor `v35-27`
 
 ## Jonah 3:9
 
