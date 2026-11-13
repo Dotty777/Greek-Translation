@@ -1,0 +1,1804 @@
+{
+  "batch_id": "OT-003",
+  "scope": "Jonah 1–4; all 48 existing LXX-numbered units (16/11/10/11).",
+  "date": "2026-11-12",
+  "status": "focused_running_text_comparison_drafted_full_alignment_pending",
+  "source_access": "All four publisher running-text chapters were retrieved and read on 12 November 2026. This does not establish apparatus access or manuscript collation.",
+  "counts": {
+    "units": 48,
+    "retained_provisionally": 45,
+    "proposed_revisions": 3,
+    "token_aligned": 0,
+    "editorially_accepted": 0
+  },
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-1",
+      "book_id": "jonah",
+      "reference": "Jonah 1:1",
+      "verse_anchor": "v1-1",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The word of the Lord came to Jonah, the son of Amittai, saying:",
+      "candidate_text": "The word of the Lord came to Jonah, the son of Amittai, saying:",
+      "candidate_sha256": "34ad3efe94b974bb209c3a76b05f74d73b52f5d37dec91fa57122f16aa023310",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The arrival of the Lord's word, Jonah as recipient, his patronymic and the introduction of direct speech are retained. The opening narrative conjunction is not separately expressed in the inherited opening sentence; its discourse function remains visible in the transition into the command. This is a focused comparison, not full token accounting.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-2",
+      "book_id": "jonah",
+      "reference": "Jonah 1:2",
+      "verse_anchor": "v1-2",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "“Rise and go to Nineveh, the great city, and proclaim in it, for the outcry of its wickedness has come up to Me.”",
+      "candidate_text": "“Rise and go to Nineveh, the great city, and proclaim in it, for the outcry of its wickedness has come up to Me.”",
+      "candidate_sha256": "7833300bd5dd9171ec380cdd67f13f3dee0192aa2daa5e1735b613a4fb1ab9f2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The two singular imperatives command rising and going; the further imperative commands proclamation within Nineveh. The causal clause concerns the outcry arising from the city's wickedness, not simply its size. The inherited wording preserves the great-city description, the outcry and the direction toward God. No additional object such as repentance is supplied for proclaim.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-3",
+      "book_id": "jonah",
+      "reference": "Jonah 1:3",
+      "verse_anchor": "v1-3",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa, found a ship traveling to Tarshish, paid its fare and boarded it, to sail with them to Tarshish from the presence of the Lord.",
+      "candidate_text": "But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa, found a ship traveling to Tarshish, paid its fare and boarded it, to sail with them to Tarshish from the presence of the Lord.",
+      "candidate_sha256": "fcc950b6377041a215b6b57fe1ed2bf9dbdbad2fd75dfdc2e2826100eb4bc971",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The purpose of Jonah's rising is flight, in deliberate contrast to the preceding command. But expresses that contextual contrast although the connective itself is the ordinary narrative conjunction. Three occurrences of Tarshish and both departures from the Lord's presence are retained. The sequence of descent, finding, payment and boarding is preserved; them identifies the people aboard without inventing a named company.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-4",
+      "book_id": "jonah",
+      "reference": "Jonah 1:4",
+      "verse_anchor": "v1-4",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The Lord stirred up a wind upon the sea, and there was a great surge on the sea; the ship was in danger of being shattered.",
+      "candidate_text": "The Lord stirred up a wind upon the sea, and there was a great surge on the sea; the ship was in danger of being shattered.",
+      "candidate_sha256": "bc1e7340b2039a74d5674d33e421317e427f24eefb0f55bf46da4f9cea998342",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord is the explicit subject who rouses the wind; the great surge follows, and the ship is in danger of being shattered. The final imperfect construction describes danger rather than an accomplished shipwreck. Wind is the contextual sense of the noun elsewhere capable of spirit; the candidate does not imply a new divine title or agent.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-5",
+      "book_id": "jonah",
+      "reference": "Jonah 1:5",
+      "verse_anchor": "v1-5",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The sailors were afraid, and each was crying out to their god. They threw the equipment in the ship into the sea, to lighten their load. But Jonah had gone down into the hollow of the ship, and was sleeping and snoring.",
+      "candidate_text": "The sailors were afraid, and each was crying out to their god. They threw the equipment in the ship into the sea, to lighten their load. But Jonah had gone down into the hollow of the ship, and was sleeping and snoring.",
+      "candidate_sha256": "f1e23ee2460cd4af07541645dbee37fb9af7abdf6b0b0cb9a61251acffa51b07",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The sailors' fear and repeated crying, the equipment thrown overboard and the purpose of relief are preserved. Each with their god reflects the displayed singular distributive with a plural possessive without deciding whether the gods were shared. Lighten their load supplies an English object for the relief construction and merits further syntax review. Jonah's contrasting descent, sleeping and snoring remain distinct; snoring is not reduced to sleep.",
+      "unresolved_questions": [
+        "Distributive each with plural their god; grammar of the cargo-lightening purpose."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-6",
+      "book_id": "jonah",
+      "reference": "Jonah 1:6",
+      "verse_anchor": "v1-6",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The ship’s officer approached him and said, “Why are you snoring? Rise and call upon your god, so that the god may bring us safely through and we may not perish.”",
+      "candidate_text": "The ship’s officer approached him and said, “Why are you snoring? Rise and call upon your god, so that the god may bring us safely through and we may not perish.”",
+      "candidate_sha256": "52f1449f6d1ac801f38a0f57bb955dcdb35e56a563f21951d802e5c2c67b2058",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The officer approaches Jonah, questions his snoring and orders rising and invocation of Jonah's god. The rescue clause has purpose/hope rather than a guarantee. Ship's officer avoids an unsupported modern rank for the bow-related title; exact nautical terminology remains open. The god is the speaker's anaphoric designation and is not silently converted into the narrator's theological identification.",
+      "unresolved_questions": [
+        "Exact ancient nautical office; anaphoric divine designation in the officer's speech."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-7",
+      "book_id": "jonah",
+      "reference": "Jonah 1:7",
+      "verse_anchor": "v1-7",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Each said to his neighbor, “Come, let us cast lots and learn on whose account this calamity is among us.” They cast lots, and the lot fell on Jonah.",
+      "candidate_text": "Each said to his neighbor, “Come, let us cast lots and learn on whose account this calamity is among us.” They cast lots, and the lot fell on Jonah.",
+      "candidate_sha256": "6d61f44be28c5c449d3833706f3eccf6a36fb2e560bcea8f76524746845928d9",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The distributive speakers address their neighbors and propose lot casting to discover whose responsibility explains the calamity. The action and its outcome are separate clauses; the lot falls on Jonah. Learn conveys coming to know in this context. The inherited English retains the recurrence of lot instead of varying it for literary effect.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-8",
+      "book_id": "jonah",
+      "reference": "Jonah 1:8",
+      "verse_anchor": "v1-8",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "They said to him, “Tell us on whose account this calamity is among us. What is your occupation? Where do you come from? What country and what people are you from?”",
+      "candidate_text": "They said to him, “Tell us on whose account this calamity is among us. What is your occupation? Where do you come from? What country and what people are you from?”",
+      "candidate_sha256": "e5ae3771bf1bd085d610e0104ac5833384c0255e4e391ed3c2a4b9fa28e33ea4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The question about the calamity is retained even after the lot has identified Jonah. The four questions concern work, point of departure, country and people. Smoothing the last two into a coordinated question does not merge country with ethnic affiliation. No answer such as Hebrew is imported from another textual tradition.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-9",
+      "book_id": "jonah",
+      "reference": "Jonah 1:9",
+      "verse_anchor": "v1-9",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to them, “I am a servant of the Lord, and I worship the Lord, the God of heaven, who made the sea and the dry land.”",
+      "candidate_text": "He said to them, “I am a servant of the Lord, and I worship the Lord, the God of heaven, who made the sea and the dry land.”",
+      "candidate_sha256": "0c11f89db9839bcb557bb98749ca5bcd0b050c0e9cd73095d279702c9eb1efc2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The displayed Greek identifies Jonah as a servant of the Lord; that reading is retained rather than replaced by a familiar Hebrew-based self-identification. Worship renders the verb of reverence without converting it into a claim about his conduct. The Lord is identified as God of heaven and maker of the sea and dry land, both creation objects being preserved.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-10",
+      "book_id": "jonah",
+      "reference": "Jonah 1:10",
+      "verse_anchor": "v1-10",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The men were greatly afraid and said to him, “What is this you have done?” For the men knew that he was fleeing from the presence of the Lord, because he had told them.",
+      "candidate_text": "The men were greatly afraid and said to him, “What is this you have done?” For the men knew that he was fleeing from the presence of the Lord, because he had told them.",
+      "candidate_sha256": "d98e785258e9767066c4e5ebb5c0d0fba07a008119d1e3b88ff6ccd320cc10e7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Greatly afraid represents the cognate verb/noun expression of great fear. The sailors' question is followed by two causal explanations: they knew Jonah was fleeing because he had told them. The inherited pluperfect appropriately locates his disclosure before their reaction. The repeated subject men is retained in the explanatory clause.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-11",
+      "book_id": "jonah",
+      "reference": "Jonah 1:11",
+      "verse_anchor": "v1-11",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "They said to him, “What shall we do to you, so that the sea may subside for us?” For the sea kept raising a greater surge.",
+      "candidate_text": "They said to him, “What shall we do to you, so that the sea may subside for us?” For the sea kept raising a greater surge.",
+      "candidate_sha256": "d622fe8f71a4fd40de78f7feaa766ef8117131e9bdc781ec12a3a5a12831234c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The question joins the action toward Jonah with the sea's prospective subsiding. English so that expresses the expected outcome of the Greek coordinated future construction without changing the addressees. The continued intensification of the sea is retained in kept raising a greater surge. This is not an instruction from the narrator to harm Jonah.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-12",
+      "book_id": "jonah",
+      "reference": "Jonah 1:12",
+      "verse_anchor": "v1-12",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jonah said to them, “Lift me up and throw me into the sea; then the sea will subside for you. For I know that this great surge is upon you because of me.”",
+      "candidate_text": "Jonah said to them, “Lift me up and throw me into the sea; then the sea will subside for you. For I know that this great surge is upon you because of me.”",
+      "candidate_sha256": "5e76aaf2a134edb0d68143fa557265d624ee41f9d88fd8706e5863dbb853b2e3",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Jonah directs the men to lift and throw him into the sea, with subsiding as the stated result. He identifies himself as the reason for this great surge. I know is appropriate for the resulting state conveyed by the Greek perfect; it is not weakened to speculation. You is plural here, though ordinary English does not mark that number.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-13",
+      "book_id": "jonah",
+      "reference": "Jonah 1:13",
+      "verse_anchor": "v1-13",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "But the men strained to return to land and could not, for the sea kept rising more fiercely against them.",
+      "candidate_text": "But the men strained to return to land and could not, for the sea kept rising more fiercely against them.",
+      "candidate_sha256": "e226f69baa7530333fb7ab3b13551f60817bbe47920a7b500e45d6677d4b9144",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The men strive to return toward land but are unable. The purposive infinitive and explicit negative are retained. The text does not specify rowing, so strained remains suitably general. The continued, intensified movement of the sea against them explains their inability and parallels the preceding increase.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-14",
+      "book_id": "jonah",
+      "reference": "Jonah 1:14",
+      "verse_anchor": "v1-14",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "They cried out to the Lord and said, “By no means, Lord! May we not perish for this man’s life, and do not lay innocent blood upon us, for Thou, Lord, hast done as Thou didst wish.”",
+      "candidate_text": "They cried out to the Lord and said, “By no means, Lord! May we not perish for this man’s life, and do not lay innocent blood upon us, for Thou, Lord, hast done as Thou didst wish.”",
+      "candidate_sha256": "94611ae3c17ea77332d895b0646b3848280caabd2e80c3ffb5255ba606554ea4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The sailors petition the Lord not to let them perish on account of this man's life and not to charge them with innocent blood. Innocent renders the blood adjective in this juridical plea, without certifying Jonah's entire character. The strongly negative opening and subsequent prohibition are both represented. Thou/hast/didst follow direct singular divine address; the conclusion concerns God's action according to His will.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-15",
+      "book_id": "jonah",
+      "reference": "Jonah 1:15",
+      "verse_anchor": "v1-15",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "They took Jonah and threw him out into the sea, and the sea stopped its tossing.",
+      "candidate_text": "They took Jonah and threw him out into the sea, and the sea stopped its tossing.",
+      "candidate_sha256": "d29c2ee98aa00c5ab4f493a20a88ee11429272a471d930a32221e14e6bac0bb0",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The men take Jonah and throw him out into the sea; the sea then ceases its tossing. The distinct action and result are retained. The sentence does not yet include the sea creature, which belongs to the following source-numbered chapter. No miraculous mechanism beyond the stated cessation is added.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-1-16",
+      "book_id": "jonah",
+      "reference": "Jonah 1:16",
+      "verse_anchor": "v1-16",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The men feared the Lord with great fear, offered a sacrifice to the Lord and made vows.",
+      "candidate_text": "The men feared the Lord with great fear, offered a sacrifice to the Lord and made vows.",
+      "candidate_sha256": "64afc080465d998eb2ba107edb78945571ff5901fb8f43c80539d30b6531cbba",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Fear with great fear, sacrifice to the Lord and vows form the sailors' response. The inherited wording retains the emphatic fear expression, the Lord as object/recipient and the sequence of sacrifice and vows. It does not explain the practical timing of sacrifice or import a later conversion narrative.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-1",
+      "book_id": "jonah",
+      "reference": "Jonah 2:1",
+      "verse_anchor": "v2-1",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The Lord commanded a great sea creature to swallow Jonah, and Jonah was in the sea creature’s belly three days and three nights.",
+      "candidate_text": "The Lord commanded a great sea creature to swallow Jonah, and Jonah was in the sea creature’s belly three days and three nights.",
+      "candidate_sha256": "b7ae7ef3a8a92d3870b04d561d4e85ddcc86f2325168c96c1b1ac2a4c4f99108",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord commands a great sea creature to swallow Jonah. The creature's size is explicit, but a modern species is not. Three days and three nights and Jonah's location in the belly are retained. This is source-numbered 2:1, not silently reassigned to 1:17; the chapter division is part of the edition's stable identity.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-2",
+      "book_id": "jonah",
+      "reference": "Jonah 2:2",
+      "verse_anchor": "v2-2",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jonah prayed to the Lord his God from the sea creature’s belly,",
+      "candidate_text": "Jonah prayed to the Lord his God from the sea creature’s belly,",
+      "candidate_sha256": "e9f1625322fe3fef700a08dda5ceba4d164075397988f44d7a10da2fa21d6e52",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Jonah prays to the Lord his God from the creature's belly. The possessive and location are retained, and the comma continues into the next unit's introduction of speech. Prayer is not described as occurring after emergence. The verse boundary and open syntactic continuation remain intact.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-3",
+      "book_id": "jonah",
+      "reference": "Jonah 2:3",
+      "verse_anchor": "v2-3",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "and said: “In my affliction I cried to the Lord my God, and He listened to me. From the belly of Hades Thou didst hear the voice of my cry.",
+      "candidate_text": "and said: “In my affliction I cried to the Lord my God, and He listened to me. From the belly of Hades Thou didst hear the voice of my cry.",
+      "candidate_sha256": "f7ac83ae9c6b9613d29e3c255913b13ec9901616b5134b937620c01b17578aea",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The first clause narrates Jonah's cry in distress and God's listening; the second turns to direct divine address. Hades remains a named underworld image rather than a doctrinal expansion. Voice of my cry is an English synthesis of the displayed cry/voice genitives; the precise attachment remains a syntax-review item, not a claim of exhaustive alignment. The change from He to Thou follows the source's person change.",
+      "unresolved_questions": [
+        "Attachment of cry and voice genitives."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-4",
+      "book_id": "jonah",
+      "reference": "Jonah 2:4",
+      "verse_anchor": "v2-4",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Thou didst cast me into the depths of the heart of the sea, and rivers encircled me. All Thy billows and Thy waves passed over me.",
+      "candidate_text": "Thou didst cast me into the depths of the heart of the sea, and rivers encircled me. All Thy billows and Thy waves passed over me.",
+      "candidate_sha256": "d23eb63785f7b5e01a95332c2f0225ebb41140a33bef5469cb36e2b43197b2e8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "God is addressed as the one who cast Jonah into sea-depths. Rivers and the two wave terms remain separate images; the repeated divine possessive is retained. All qualifies the billows in the coordinated phrase. The candidate neither relocates the setting to a literal river nor removes the poem's images in favor of an explanatory paraphrase.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-5",
+      "book_id": "jonah",
+      "reference": "Jonah 2:5",
+      "verse_anchor": "v2-5",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "I said, ‘I have been thrust away from Thine eyes. Shall I again look toward Thy holy sanctuary?’",
+      "candidate_text": "I said, ‘I have been thrust away from Thine eyes. Shall I again look toward Thy holy sanctuary?’",
+      "candidate_sha256": "294a714a08278dbc089149feebdf5790c10c8d7d08d1cc08b7b100f356524c35",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The speaker's banishment from God's eyes and the question about looking again toward the sanctuary are retained. The question particle is not replaced by an unconditional assurance that he will return. Again is warranted by the construction meaning to add/continue to look, unlike an ornamental insertion. Sanctuary is the inherited rendering of the temple noun; its exact contextual referent remains for review.",
+      "unresolved_questions": [
+        "Force of the question and sanctuary referent."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-6",
+      "book_id": "jonah",
+      "reference": "Jonah 2:6",
+      "verse_anchor": "v2-6",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Water poured around me up to my life; the uttermost abyss encircled me; my head sank into clefts of mountains.",
+      "candidate_text": "Water poured around me up to my life; the uttermost abyss encircled me; my head sank into clefts of mountains.",
+      "candidate_sha256": "692f1c03dbda43d84d4d0121fb65db75206645ba45cdf43f3e32f05dcc72c6d5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The verse has enclosing water, the uttermost abyss and the head's descent into mountain clefts. The difficult expression reaching as far as life is retained provisionally rather than changed to neck from another language or tradition. Up to my life is awkward English and needs a better Greek-grounded spoken draft. The imagery is not converted into a geographical or anatomical claim.",
+      "unresolved_questions": [
+        "An idiomatic rendering of the life-threatening water expression that accounts for the selected Greek."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-7",
+      "book_id": "jonah",
+      "reference": "Jonah 2:7",
+      "verse_anchor": "v2-7",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "I descended into a land whose bars are everlasting restraints; and let the ruin of my life rise up, Lord my God.",
+      "candidate_text": "I descended into a land whose bars are everlasting restraints; and let the ruin of my life rise up, Lord my God.",
+      "candidate_sha256": "379f51431ac766f256b2be656ee9d9aec37e60c8c52fed5fbcf559f4c48f40f0",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The land's bars/restraints are everlasting, followed by a third-person imperative with ruin/corruption as its apparent nominative subject. The inherited let the ruin of my life rise up preserves that difficult surface construction. It is NOT treated as a resolved translation: the sense and genitive attachment require specialist syntax, broader usage and apparatus comparison. The wording must not be silently changed to an accomplished Thou didst bring up my life, which is not this displayed Greek construction.",
+      "unresolved_questions": [
+        "Sense of ruin/corruption as apparent subject of the imperative; genitive attachment; relevant apparatus and broader Greek usage."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-8",
+      "book_id": "jonah",
+      "reference": "Jonah 2:8",
+      "verse_anchor": "v2-8",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "As my life was failing me, I remembered the Lord; may my prayer come to Thee, into Thy holy sanctuary.",
+      "candidate_text": "As my life was failing me, I remembered the Lord; may my prayer come to Thee, into Thy holy sanctuary.",
+      "candidate_sha256": "259765b577fef42b9c36da4ccd57b56d072bcf391050740912def1d7fb6d21bb",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The temporal infinitival construction places recollection of the Lord during the failing of Jonah's life. The following optative is retained as a wish, may my prayer come, not as a report that the prayer already arrived. Direct Thee/Thy follows the shift back to address. Into the holy sanctuary preserves the source's destination image.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-9",
+      "book_id": "jonah",
+      "reference": "Jonah 2:9",
+      "verse_anchor": "v2-9",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Those who guard vain and false things abandoned their mercy.",
+      "candidate_text": "Those who guard vain and false things abandoned their mercy.",
+      "candidate_sha256": "48975460bd2e9f1dc078549cbf725d2b512151969991bb74c5825a4aefc4bf00",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The subject is people attending to vain and false things; abandoned retains the aorist predicate instead of automatically converting it to a present maxim. Their mercy preserves the possessive but leaves its referent unresolved: mercy they should show or mercy available to them need contextual/lexical review. Guard is formally close yet may obscure attending to or observing; no accepted replacement is claimed.",
+      "unresolved_questions": [
+        "Sense of observing/guarding and referent of their mercy."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-10",
+      "book_id": "jonah",
+      "reference": "Jonah 2:10",
+      "verse_anchor": "v2-10",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "But I, with a voice of praise and thanksgiving, will sacrifice to Thee. Whatever I vowed I will repay to Thee, for deliverance to the Lord!”",
+      "candidate_text": "But I, with a voice of praise and thanksgiving, will sacrifice to Thee. Whatever I vowed I will repay to Thee, for deliverance to the Lord!”",
+      "candidate_sha256": "e21d40435e7750c2031b236146bb9f92833dd510ceeed4cc633249dfed5b76a7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The contrastive I, voiced praise and thanksgiving, future sacrifice and repayment of vows are retained. The final genitive form relating to deliverance followed by to the Lord is syntactically difficult; the inherited for deliverance to the Lord is provisional and not idiomatic resolved English. It must not be recast as the familiar Salvation belongs to the Lord without evidence that this accounts for the selected Greek syntax. Lexical sense and attachment remain explicit open issues.",
+      "unresolved_questions": [
+        "Function and attachment of the final genitive deliverance expression and dative to the Lord; idiomatic English remains unresolved."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-2-11",
+      "book_id": "jonah",
+      "reference": "Jonah 2:11",
+      "verse_anchor": "v2-11",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The sea creature was commanded, and it cast Jonah out onto dry land.",
+      "candidate_text": "The sea creature was commanded, and it cast Jonah out onto dry land.",
+      "candidate_sha256": "1ae58333137d7a7652af8ae640564fd232caac3ad1e2345c60affbacd180b269",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The displayed passive states that the sea creature was commanded, without an expressed agent in this clause. The inherited passive therefore avoids adding the Lord as an explicit grammatical subject. It then expels Jonah onto dry land. The repeated creature designation and the destination are retained without implying a species.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-1",
+      "book_id": "jonah",
+      "reference": "Jonah 3:1",
+      "verse_anchor": "v3-1",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The word of the Lord came to Jonah a second time, saying:",
+      "candidate_text": "The word of the Lord came to Jonah a second time, saying:",
+      "candidate_sha256": "568d1b116849c6b4e8a99d531c2bba133f08b1862be8dfdef474d350fae123cc",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The word comes to Jonah a second time, explicitly linking this commission with the first. Second time is a stated feature, not inferred repetition. The inherited introductory sentence and colon retain the recipient, divine source and speech transition; the initial narrative conjunction is represented by the sequence of sentences rather than a separate And.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-2",
+      "book_id": "jonah",
+      "reference": "Jonah 3:2",
+      "verse_anchor": "v3-2",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "“Rise and go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.”",
+      "candidate_text": "“Rise and go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.”",
+      "candidate_sha256": "30861dce1baabedf0506084fa080cb47d5517403b32c95a25e0a384643c70d83",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Rising, going and proclaiming are again commanded to Jonah singular. The proclamation is tied to the former message already spoken to him. The inherited English preserves that backward reference instead of changing it to an unspecified future message. Nineveh's great-city description and proclamation within it are both retained.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-3",
+      "book_id": "jonah",
+      "reference": "Jonah 3:3",
+      "verse_anchor": "v3-3",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jonah rose and went to Nineveh as the Lord had spoken. Now Nineveh was a city great before God, about a three-day journey.",
+      "candidate_text": "Jonah rose and went to Nineveh as the Lord had spoken. Now Nineveh was a city great before God, about a three-day journey.",
+      "candidate_sha256": "9bf1898cea6c35ac8fdea9f7f283cc0591fdb9c114a6a817836e22f01b99a920",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Jonah rises and goes in accordance with the Lord's speech. Great before God keeps the explicit divine dative visible, although an intensive interpretation of the phrase remains possible. The approximate three-day journey is not turned into a precise diameter, circumference or modern distance; the Greek itself does not supply that geographical clarification.",
+      "unresolved_questions": [
+        "Divine dative's force and exact journey measure."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-4",
+      "book_id": "jonah",
+      "reference": "Jonah 3:4",
+      "verse_anchor": "v3-4",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Jonah began to enter the city, about a day’s journey, and he proclaimed and said, “Three more days, and Nineveh shall be overthrown.”",
+      "candidate_text": "And Jonah began to enter the city, about a day’s journey, and he proclaimed and said, “Three more days, and Nineveh shall be overthrown.”",
+      "candidate_sha256": "9a4602d3f5e099f9252179c9eb66a26c45bda248346086b29d1a957bf26bd33c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The approximate one-day entry, the two speech verbs and the three-day warning are retained. The displayed Rahlfs–Hanhart running text reads three, so forty is not substituted from familiar versions. The future passive leaves the overthrowing agent implicit. These are source-specific observations, not a new manuscript/apparatus collation.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-5",
+      "book_id": "jonah",
+      "reference": "Jonah 3:5",
+      "verse_anchor": "v3-5",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The people of Nineveh believed God, proclaimed a fast and put on sackcloth, from their greatest to their least.",
+      "candidate_text": "The people of Nineveh believed God, proclaimed a fast and put on sackcloth, from their greatest to their least.",
+      "candidate_sha256": "3342b128b3b44a94a3bae225fde8b8c77a1f180cd5693f8cce434caa8646e311",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Ninevites believe God, proclaim a fast and put on sackcloth from greatest to least. People is a contextual collective rendering of the word for men here; it does not assert a different census. Greatest/least preserves social breadth without forcing an age-only interpretation. The plural action remains separate from the king's response in the next unit.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-6",
+      "book_id": "jonah",
+      "reference": "Jonah 3:6",
+      "verse_anchor": "v3-6",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The word reached the king of Nineveh. He rose from his throne, took his robe off himself, wrapped himself in sackcloth and sat in ashes.",
+      "candidate_text": "The word reached the king of Nineveh. He rose from his throne, took his robe off himself, wrapped himself in sackcloth and sat in ashes.",
+      "candidate_sha256": "bb09015a6c257df5f0618a67f91b71e8b13be899aee0a3e64dd769cb9c43f18b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The report reaches the king, who rises, removes his robe, puts on sackcloth and sits in ashes. The sequence and royal contrast are retained. Off himself represents the reflexive wording. No explanation of court ritual or extra confession is inserted into the Scripture sentence.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-7",
+      "book_id": "jonah",
+      "reference": "Jonah 3:7",
+      "verse_anchor": "v3-7",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "It was proclaimed and declared in Nineveh from the king and his nobles: “Let people and livestock, cattle and sheep, taste nothing; let them not graze or drink water.”",
+      "candidate_text": "It was proclaimed and declared in Nineveh from the king and his nobles: “Let people and livestock, cattle and sheep, taste nothing; let them not graze or drink water.”",
+      "candidate_sha256": "d70d000f443d47b0b857c741658335e54a3a2f88d0d7a05a0029243ebd6d4357",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The passive proclamation comes from the king and his nobles. The prohibition separately names people, livestock, cattle and sheep, and forbids tasting, grazing and drinking water. The repeated negatives are represented by taste nothing and let them not. The inherited quotation ends here because the following Greek verbs narrate actions rather than continuing imperative commands.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-8",
+      "book_id": "jonah",
+      "reference": "Jonah 3:8",
+      "verse_anchor": "v3-8",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "People and livestock clothed themselves in sackcloth, and they cried earnestly to God. Each turned away from his evil way and from the injustice in their hands, saying:",
+      "candidate_text": "People and livestock clothed themselves in sackcloth, and they cried earnestly to God. Each turned away from his evil way and from the injustice in their hands, saying:",
+      "candidate_sha256": "1670d6b7666fb14790a8dd44af8e8e94051a728fa090edb2d6417a4e31c4d5fd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Greek now narrates sackcloth, earnest crying and turning with past indicative verbs. The candidate preserves that form instead of harmonizing them into commands. Each with his evil way and their hands retains the source's shift between distributive singular and collective plural. The shared subject including livestock is not silently rewritten, though the practical distribution of actions is an interpretation issue.",
+      "unresolved_questions": [
+        "Distribution of narrated actions over people and animals; distributive singular/plural shift."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-9",
+      "book_id": "jonah",
+      "reference": "Jonah 3:9",
+      "verse_anchor": "v3-9",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "“Who knows whether God will relent and turn from His fierce anger, so that we certainly do not perish?”",
+      "candidate_text": "“Who knows whether God will relent and turn from His fierce anger, so that we shall not perish?”",
+      "candidate_sha256": "642811a48c8a382b9424c17555b268a5426e973342aad424f7c5c18a7bce1d95",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Propose a natural future result clause: so that we shall not perish. The displayed emphatic negative with a subjunctive expresses non-perishing, but certainly do not is awkward under the opening who-knows question and can sound like an independent present guarantee. The question remains conditional on God's possible relenting; shall not carries the firm negative without adding an assurance outside that question. His fierce anger represents the paired wrath terms. Full mood/discourse review remains open.",
+      "unresolved_questions": [
+        "Independent review of mood, emphatic negation and the result clause within the who-knows question."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-3-10",
+      "book_id": "jonah",
+      "reference": "Jonah 3:10",
+      "verse_anchor": "v3-10",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "God saw their deeds, that they had turned from their evil ways. God relented concerning the calamity He had said He would bring upon them, and He did not do it.",
+      "candidate_text": "God saw their deeds, that they had turned from their evil ways. God relented concerning the calamity He had said He would bring upon them, and He did not do it.",
+      "candidate_sha256": "d8f811630546d970faeccdee36af88c5cb6d3a65a57c20cb822aa1e53debb8ce",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "God sees their deeds, specifically their turning from evil ways, and relents concerning the threatened calamity. The inherited wording preserves the object of relenting and the explicit final non-performance. It neither changes deeds into words alone nor adds a theological account of divine repentance. The repeated God and the final He did not do it remain visible.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-1",
+      "book_id": "jonah",
+      "reference": "Jonah 4:1",
+      "verse_anchor": "v4-1",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jonah was grieved with great grief and was disturbed.",
+      "candidate_text": "Jonah was grieved with great grief and was disturbed.",
+      "candidate_sha256": "6ff2f84f3d3a634de9cb3688f2bb377defc6cfbd67dd5554f9df12a0cda30f7b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The selected Greek emphasizes grief with a cognate noun and adds disturbance/confusion. Grieved with great grief and disturbed retain both rather than importing anger as the sole description from familiar renderings. No psychological diagnosis is inferred. The verse's contrast with the city's rescue is left to the narrative context.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-2",
+      "book_id": "jonah",
+      "reference": "Jonah 4:2",
+      "verse_anchor": "v4-2",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He prayed to the Lord and said, “O Lord, were these not my words while I was still in my own land? That is why I was quick to flee to Tarshish, for I knew that Thou art merciful and compassionate, patient, abundant in mercy, and relenting concerning calamities.",
+      "candidate_text": "He prayed to the Lord and said, “O Lord, were these not my words while I was still in my own land? That is why I was quick to flee to Tarshish, for I knew that Thou art merciful and compassionate, patient, abundant in mercy, and relenting concerning calamities.",
+      "candidate_sha256": "dc548fd905e29ab92111f29f06342a2c27a1e7e80c7adc971d0e6c166cda9401",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Jonah's prayer recalls his earlier words at home and links his prior flight with his knowledge of God's character. The source lists mercy, compassion, patience, abundant mercy and relenting over calamities; all are retained. Thou art follows singular divine address. Was quick to flee is a provisional contextual rendering of the anticipatory verb; its exact temporal nuance remains open rather than an etymology-based certainty.",
+      "unresolved_questions": [
+        "Precise nuance of the anticipatory flight verb."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-3",
+      "book_id": "jonah",
+      "reference": "Jonah 4:3",
+      "verse_anchor": "v4-3",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And now, Master Lord, take my life from me, for it is better for me to die than to live.”",
+      "candidate_text": "And now, Master Lord, take my life from me, for it is better for me to die than to live.”",
+      "candidate_sha256": "fc54b7d5121f831d5daccd7d65539e0f302e1e89258c3da8ab23b1d806a29972",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The compound divine address Master Lord is retained. The imperative asks God to take Jonah's life; the reason compares dying with living. The inherited better than construction naturally renders the comparison without adding now to the death wish beyond the opening and now. No moral judgment about Jonah's request is supplied in the verse.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-4",
+      "book_id": "jonah",
+      "reference": "Jonah 4:4",
+      "verse_anchor": "v4-4",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The Lord said to Jonah, “Are you deeply grieved?”",
+      "candidate_text": "The Lord said to Jonah, “Are you deeply grieved?”",
+      "candidate_sha256": "3967392613b9ca881354788d4a9d592d7aab2129379a96593fdc794b9e82f03e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord asks whether Jonah is greatly grieved. The intensifying adverb is rendered deeply, and ordinary you is used because Jonah, not God, is addressed. The Greek question here is not silently changed into the familiar question whether Jonah is right to be angry. The state expressed by the perfect is retained in the English present description.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-5",
+      "book_id": "jonah",
+      "reference": "Jonah 4:5",
+      "verse_anchor": "v4-5",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jonah went out of the city and sat opposite the city. He made himself a shelter there and sat beneath it in the shade, until he could see what would happen to the city.",
+      "candidate_text": "Jonah went out of the city and sat opposite the city. He made himself a shelter there and sat beneath it in the shade, until he could see what would happen to the city.",
+      "candidate_sha256": "5e9ca2c6edae9c08477a3f3137045483c3d0cd9e03de285a6e03229e58926a75",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Jonah exits and sits opposite the city, makes a shelter and sits under its shade to see the outcome. Opposite is retained without importing an eastern direction. The two sitting descriptions and the repeated city preserve the narrative's arrangement. Shelter avoids asserting a specific tent material or festival significance.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-6",
+      "book_id": "jonah",
+      "reference": "Jonah 4:6",
+      "verse_anchor": "v4-6",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The Lord God commanded a gourd, and it grew up above Jonah’s head, to provide shade over his head and shelter him from his troubles. Jonah rejoiced over the gourd with great joy.",
+      "candidate_text": "The Lord God commanded a gourd, and it grew up above Jonah’s head, to provide shade over his head and shelter him from his troubles. Jonah rejoiced over the gourd with great joy.",
+      "candidate_sha256": "097c091e88eb29ba3a61a1db7d56824864f57ca343b3c8c40e7a58d4d49decc7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord God commands the gourd; its growth over Jonah's head supplies shade and protection from his troubles. The source's repeated head/shading language is substantially retained, along with great joy in parallel to the earlier great grief. Gourd is the inherited general botanical designation, not a confirmed modern species. The troubles may include discomfort and distress; no single diagnosis is imposed.",
+      "unresolved_questions": [
+        "Botanical identification; scope of troubles."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-7",
+      "book_id": "jonah",
+      "reference": "Jonah 4:7",
+      "verse_anchor": "v4-7",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "God commanded a worm at dawn the next day; it struck the gourd, and it dried up.",
+      "candidate_text": "God commanded a worm at dawn the next day; it struck the gourd, and it dried up.",
+      "candidate_sha256": "d7a3662e9377dee23b5c9de8d05b68d13356d471939659b8d7a960f1f611306d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The next-day dawn, God's command to a worm, the worm's striking of the gourd and its drying are retained. It struck grammatically refers to the worm before the plant becomes the subject of dried up. The narrative does not specify how the worm damaged the plant, and the candidate adds no mechanism.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-8",
+      "book_id": "jonah",
+      "reference": "Jonah 4:8",
+      "verse_anchor": "v4-8",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "As the sun rose, God commanded a burning, scorching wind. The sun struck Jonah’s head; he lost heart, renounced his life and said, “It is better for me to die than to live.”",
+      "candidate_text": "As the sun rose, God commanded a burning, scorching wind. The sun struck Jonah’s head; he lost heart, renounced his life and said, “It is better for me to die than to live.”",
+      "candidate_sha256": "37b458b08a382126e5e6feee3eef5d165c6be5c32f308cf9bcda119e8500ce22",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The sunrise triggers a commanded hot, scorching wind, then the sun strikes Jonah's head. The two heat expressions and striking repetition are retained. Lost heart follows the Greek verb rather than asserting a medical faint; renounced his life is a provisional rendering of the refusal/disavowal expression. Jonah repeats the preference for death, without an added account of attempted self-harm.",
+      "unresolved_questions": [
+        "Contextual nuance of losing heart and renouncing life."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-9",
+      "book_id": "jonah",
+      "reference": "Jonah 4:9",
+      "verse_anchor": "v4-9",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "God said to Jonah, “Are you deeply grieved about the gourd?” He said, “I am deeply grieved, even to death.”",
+      "candidate_text": "God said to Jonah, “Are you deeply grieved about the gourd?” He said, “I am deeply grieved, even to death.”",
+      "candidate_sha256": "d68335573df65dfae89db7e1b1e51a5ae882bd5a91a2f127e14950070dd14508",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "God repeats the question about great grief, now explicitly concerning the gourd. Jonah replies with the same intensity and the limit even to death. Ordinary singular you preserves the addressee policy, while I retains the response's emphasis. The candidate does not turn the question into a moral right-to-anger formula absent from this displayed wording.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-10",
+      "book_id": "jonah",
+      "reference": "Jonah 4:10",
+      "verse_anchor": "v4-10",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The Lord said, “You spared the gourd, over which you did not toil and which you did not nurture, which came to be in a night and perished in a night.",
+      "candidate_text": "The Lord said, “You had pity on the gourd, over which you did not toil and which you did not nurture, which came to be in a night and perished in a night.",
+      "candidate_sha256": "5080c71e0dd975d627ca1a3f6710a7d061dd283d5d9042bb83ac8b7fa7754b77",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Propose had pity on for the past form of pheidomai with the gourd as its concern. In context Jonah mourned its loss; You spared can misleadingly imply that he successfully preserved it. The same verb recurs in 4:11, where the proposed have pity on preserves that link. Middle Liddell was consulted for the general range of sparing, mercy and care; the choice here is a contextual inference, not a specialist LXX entry or apparatus verdict. The denied labor/nurture and repeated night are unchanged.",
+      "unresolved_questions": [
+        "Specialist LXX review of pheidomai with hyper; whether pity or spare best preserves the two-verse analogy."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      },
+      "lexical_evidence": [
+        {
+          "source": "Middle Liddell, pheidomai, Scaife ATLAS",
+          "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:middle-liddell.perseus-eng2-n34599/",
+          "accessed_on": "2026-11-12",
+          "scope": "General lexical entry read; no specialist Septuagint lexicon or exhaustive occurrence study claimed."
+        }
+      ],
+      "translation_alternatives": [
+        {
+          "reading": "spared / spare",
+          "disposition": "Inherited alternative retained in the baseline; proposed pity language is not accepted replacement."
+        }
+      ]
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-003-jonah-4-11",
+      "book_id": "jonah",
+      "reference": "Jonah 4:11",
+      "verse_anchor": "v4-11",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And shall I not spare Nineveh, the great city, in which dwell more than one hundred and twenty thousand people who do not know their right from their left, and much livestock?”",
+      "candidate_text": "And shall I not have pity on Nineveh, the great city, in which dwell more than one hundred and twenty thousand people who do not know their right from their left, and much livestock?”",
+      "candidate_sha256": "86015a14757401efa20d236150b646f7e05556c874b108020bb3680c390c766c",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/JON.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Propose have pity on to match the same verb in 4:10 while retaining the divine first-person future question. Its contextual implication includes sparing the city, not merely an abstract emotion. The great-city description, more than 120,000 people, right/left ignorance and many livestock are retained. The people are not identified as infants, and the concluding question is not replaced by a doctrinal explanation. The lexical choice remains a proposal requiring review.",
+      "unresolved_questions": [
+        "Same lexical decision as 4:10; retain sparing as a contextual implication of pity."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      },
+      "lexical_evidence": [
+        {
+          "source": "Middle Liddell, pheidomai, Scaife ATLAS",
+          "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:middle-liddell.perseus-eng2-n34599/",
+          "accessed_on": "2026-11-12",
+          "scope": "General lexical entry read; no specialist Septuagint lexicon or exhaustive occurrence study claimed."
+        }
+      ],
+      "translation_alternatives": [
+        {
+          "reading": "spared / spare",
+          "disposition": "Inherited alternative retained in the baseline; proposed pity language is not accepted replacement."
+        }
+      ]
+    }
+  ]
+}

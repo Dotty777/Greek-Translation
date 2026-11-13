@@ -1,0 +1,20 @@
+{
+  "status": "passed_scoped_ai_visual_inspection",
+  "date": "2026-11-12",
+  "reviewer": "OpenAI Codex assistant",
+  "reviewer_type": "AI",
+  "images_inspected": [
+    "reader-desktop.png",
+    "reader-mobile.png",
+    "reader-mobile-jonah.png",
+    "reader-mobile-jonah-proposal.png"
+  ],
+  "findings": [
+    "Desktop title, status notice, navigation, reading text and comparison controls are legible without overlap.",
+    "Phone-width navigation divisions start collapsed and the header offers a direct Begin reading Genesis link.",
+    "Jonah text wraps within the phone viewport without horizontal clipping.",
+    "Jonah 4:10 and 4:11 clearly label proposals; the expanded 4:10 comparison displays inherited wording and outstanding review limits separately from Scripture.",
+    "Source scope notices remain visible at the manuscript and book level."
+  ],
+  "scope_limits": "Representative viewport screenshots only; not every page, a real-device check, human read-aloud review, independent Greek review or an accessibility conformance audit. Browser artifact identity and functional checks are in browser-validation.json."
+}

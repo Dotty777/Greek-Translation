@@ -1,0 +1,1101 @@
+{
+  "edition_id": "Saints-English-OT-provisional-2026-11-12",
+  "title": "Bespoke Saints English — Complete Old Testament Reading Draft",
+  "date": "2026-11-12",
+  "baseline_repository": "https://github.com/Dotty777/Greek-Translation",
+  "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+  "status": "complete_inherited_reading_manuscript_with_provisional_comparison_candidates",
+  "scope": "All 43 selected Old Testament books only. Existing project selection, order, source histories and exceptional units preserved.",
+  "source_policy": "Rahlfs–Hanhart 2006 provisional base with inherited book-specific records; Daniel uses Old Greek. No new Göttingen or full apparatus collation claimed.",
+  "authorship": "Inherited Saints English manuscript plus separately evidenced AI candidate proposals. Not 26,580 freshly translated or independently reviewed units.",
+  "counts": {
+    "books": 43,
+    "reading_sections": 1037,
+    "stored_units": 26580,
+    "attached_continuation_paragraphs": 7,
+    "reading_paragraphs_including_continuations": 26587,
+    "fresh_focused_comparison_units": 128,
+    "inherited_without_new_comparison": 26452,
+    "proposed_changed_units": 9,
+    "retained_after_focused_comparison": 119,
+    "new_token_aligned_units": 0,
+    "independently_reviewed_units": 0,
+    "human_read_aloud_units": 0,
+    "new_editorially_accepted_units": 0,
+    "recovered_poetry_units": 32
+  },
+  "book_inventory": [
+    {
+      "book_id": "genesis",
+      "book": "Genesis",
+      "division": "law",
+      "reading_sections": 50,
+      "stored_units": 1531,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 80,
+      "proposed_changed_units": 6,
+      "verse_path": "genesis/verses.json",
+      "source_record": "genesis/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "exodus",
+      "book": "Exodus",
+      "division": "law",
+      "reading_sections": 40,
+      "stored_units": 1165,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "exodus/verses.json",
+      "source_record": "exodus/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "leviticus",
+      "book": "Leviticus",
+      "division": "law",
+      "reading_sections": 27,
+      "stored_units": 859,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "leviticus/verses.json",
+      "source_record": "leviticus/source-checks.json",
+      "original_schema": "flat_verse_array"
+    },
+    {
+      "book_id": "numbers",
+      "book": "Numbers",
+      "division": "law",
+      "reading_sections": 36,
+      "stored_units": 1287,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "numbers/verses.json",
+      "source_record": "numbers/source-checks.json",
+      "original_schema": "flat_verse_array"
+    },
+    {
+      "book_id": "deuteronomy",
+      "book": "Deuteronomy",
+      "division": "law",
+      "reading_sections": 34,
+      "stored_units": 959,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "deuteronomy/verses.json",
+      "source_record": "deuteronomy/source-checks.json",
+      "original_schema": "flat_verse_array"
+    },
+    {
+      "book_id": "joshua",
+      "book": "Joshua",
+      "division": "judgement",
+      "reading_sections": 24,
+      "stored_units": 659,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "joshua/verses.json",
+      "source_record": "joshua/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "judges",
+      "book": "Judges",
+      "division": "judgement",
+      "reading_sections": 21,
+      "stored_units": 618,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "judges/verses.json",
+      "source_record": "judges/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ruth",
+      "book": "Ruth",
+      "division": "judgement",
+      "reading_sections": 4,
+      "stored_units": 85,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "ruth/verses.json",
+      "source_record": "ruth/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-samuel",
+      "book": "1 Samuel",
+      "division": "judgement",
+      "reading_sections": 31,
+      "stored_units": 773,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "1-samuel/verses.json",
+      "source_record": "1-samuel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-samuel",
+      "book": "2 Samuel",
+      "division": "judgement",
+      "reading_sections": 24,
+      "stored_units": 696,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "2-samuel/verses.json",
+      "source_record": "2-samuel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-kings",
+      "book": "1 Kings",
+      "division": "judgement",
+      "reading_sections": 22,
+      "stored_units": 822,
+      "continuation_paragraphs": 1,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "1-kings/verses.json",
+      "source_record": "1-kings/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-kings",
+      "book": "2 Kings",
+      "division": "judgement",
+      "reading_sections": 25,
+      "stored_units": 723,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "2-kings/verses.json",
+      "source_record": "2-kings/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-chronicles",
+      "book": "1 Chronicles",
+      "division": "judgement",
+      "reading_sections": 29,
+      "stored_units": 930,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "1-chronicles/verses.json",
+      "source_record": "1-chronicles/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-chronicles",
+      "book": "2 Chronicles",
+      "division": "judgement",
+      "reading_sections": 36,
+      "stored_units": 833,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "2-chronicles/verses.json",
+      "source_record": "2-chronicles/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "1-maccabees",
+      "book": "1 Maccabees",
+      "division": "judgement",
+      "reading_sections": 16,
+      "stored_units": 924,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "1-maccabees/verses.json",
+      "source_record": "1-maccabees/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "2-maccabees",
+      "book": "2 Maccabees",
+      "division": "judgement",
+      "reading_sections": 15,
+      "stored_units": 555,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "2-maccabees/verses.json",
+      "source_record": "2-maccabees/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ezra",
+      "book": "Ezra",
+      "division": "judgement",
+      "reading_sections": 10,
+      "stored_units": 280,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "ezra/verses.json",
+      "source_record": "ezra/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "nehemiah",
+      "book": "Nehemiah",
+      "division": "judgement",
+      "reading_sections": 13,
+      "stored_units": 392,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "nehemiah/verses.json",
+      "source_record": "nehemiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "esther",
+      "book": "Esther",
+      "division": "judgement",
+      "reading_sections": 10,
+      "stored_units": 246,
+      "continuation_paragraphs": 6,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "esther/verses.json",
+      "source_record": "esther/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "job",
+      "book": "Job",
+      "division": "judgement",
+      "reading_sections": 42,
+      "stored_units": 1083,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "job/verses.json",
+      "source_record": "job/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "psalms",
+      "book": "Psalms",
+      "division": "wisdom",
+      "reading_sections": 151,
+      "stored_units": 2534,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "psalms/verses.json",
+      "source_record": "psalms/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "proverbs",
+      "book": "Proverbs",
+      "division": "wisdom",
+      "reading_sections": 34,
+      "stored_units": 939,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "proverbs/verses.json",
+      "source_record": "proverbs/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ecclesiastes",
+      "book": "Ecclesiastes",
+      "division": "wisdom",
+      "reading_sections": 12,
+      "stored_units": 222,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "ecclesiastes/verses.json",
+      "source_record": "ecclesiastes/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "song-of-songs",
+      "book": "Song of Songs",
+      "division": "wisdom",
+      "reading_sections": 8,
+      "stored_units": 117,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "song-of-songs/verses.json",
+      "source_record": "song-of-songs/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "lamentations",
+      "book": "Lamentations",
+      "division": "wisdom",
+      "reading_sections": 5,
+      "stored_units": 150,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "lamentations/verses.json",
+      "source_record": "lamentations/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "wisdom-of-solomon",
+      "book": "Wisdom of Solomon",
+      "division": "wisdom",
+      "reading_sections": 19,
+      "stored_units": 435,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "wisdom-of-solomon/verses.json",
+      "source_record": "wisdom-of-solomon/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "sirach",
+      "book": "Sirach",
+      "division": "wisdom",
+      "reading_sections": 52,
+      "stored_units": 1374,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "sirach/verses.json",
+      "source_record": "sirach/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "isaiah",
+      "book": "Isaiah",
+      "division": "providence",
+      "reading_sections": 66,
+      "stored_units": 1289,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "isaiah/verses.json",
+      "source_record": "isaiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "jeremiah",
+      "book": "Jeremiah",
+      "division": "providence",
+      "reading_sections": 52,
+      "stored_units": 1296,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "jeremiah/verses.json",
+      "source_record": "jeremiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "ezekiel",
+      "book": "Ezekiel",
+      "division": "providence",
+      "reading_sections": 48,
+      "stored_units": 1267,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "ezekiel/verses.json",
+      "source_record": "ezekiel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "daniel",
+      "book": "Daniel",
+      "division": "providence",
+      "reading_sections": 14,
+      "stored_units": 487,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "daniel/verses.json",
+      "source_record": "daniel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "hosea",
+      "book": "Hosea",
+      "division": "providence",
+      "reading_sections": 14,
+      "stored_units": 197,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "hosea/verses.json",
+      "source_record": "hosea/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "joel",
+      "book": "Joel",
+      "division": "providence",
+      "reading_sections": 4,
+      "stored_units": 73,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "joel/verses.json",
+      "source_record": "joel/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "amos",
+      "book": "Amos",
+      "division": "providence",
+      "reading_sections": 9,
+      "stored_units": 146,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "amos/verses.json",
+      "source_record": "amos/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "obadiah",
+      "book": "Obadiah",
+      "division": "providence",
+      "reading_sections": 1,
+      "stored_units": 21,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "obadiah/verses.json",
+      "source_record": "obadiah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "jonah",
+      "book": "Jonah",
+      "division": "providence",
+      "reading_sections": 4,
+      "stored_units": 48,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 48,
+      "proposed_changed_units": 3,
+      "verse_path": "jonah/verses.json",
+      "source_record": "jonah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "micah",
+      "book": "Micah",
+      "division": "providence",
+      "reading_sections": 7,
+      "stored_units": 105,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "micah/verses.json",
+      "source_record": "micah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "nahum",
+      "book": "Nahum",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 47,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "nahum/verses.json",
+      "source_record": "nahum/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "habakkuk",
+      "book": "Habakkuk",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 56,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "habakkuk/verses.json",
+      "source_record": "habakkuk/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "zephaniah",
+      "book": "Zephaniah",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 53,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "zephaniah/verses.json",
+      "source_record": "zephaniah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "haggai",
+      "book": "Haggai",
+      "division": "providence",
+      "reading_sections": 2,
+      "stored_units": 38,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "haggai/verses.json",
+      "source_record": "haggai/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "zechariah",
+      "book": "Zechariah",
+      "division": "providence",
+      "reading_sections": 14,
+      "stored_units": 211,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "zechariah/verses.json",
+      "source_record": "zechariah/source-checks.json",
+      "original_schema": "chapter_container"
+    },
+    {
+      "book_id": "malachi",
+      "book": "Malachi",
+      "division": "providence",
+      "reading_sections": 3,
+      "stored_units": 55,
+      "continuation_paragraphs": 0,
+      "fresh_focused_comparison_units": 0,
+      "proposed_changed_units": 0,
+      "verse_path": "malachi/verses.json",
+      "source_record": "malachi/source-checks.json",
+      "original_schema": "chapter_container"
+    }
+  ],
+  "review_inputs": [
+    {
+      "path": "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json",
+      "sha256": "5cdb8cb28044e42a9719f21dd1b6ed613954606caabf6d1a304b66cee4d1df53",
+      "records": 31
+    },
+    {
+      "path": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "sha256": "00f0e03593adb6862c06b648e078630c774b9af7339348180c5bceb616c86816",
+      "records": 49
+    },
+    {
+      "path": "reviews/2026-11-12-OT-003-jonah/focused-reviews.json",
+      "sha256": "741cf105b71a34755f5d65350bffe1747c11c5f6b47a16ae95c6b913d7c6cedc",
+      "records": 48
+    }
+  ],
+  "missing_planned_review_inputs": [],
+  "source_files": [
+    {
+      "path": "genesis/Genesis.html",
+      "sha256": "982f140c5a0fd47368d8f2ac80ecf5ab4b17bbd5412cc4467d1aa4cecec4dee5",
+      "use": "Recover recorded poetry breaks only; source wording must match verses.json"
+    },
+    {
+      "path": "genesis/verses.json",
+      "sha256": "cacb8a9104b71044876467c31ab90908c350d4238c033cc56239a831e518182e",
+      "git_blob": "cb03fe4a864c66380de2577e70a74b0c87a62886",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "genesis/source-checks.json",
+      "sha256": "d792c255a62d828a262ac7ebb1b780a1f78025771d6b91bc3c5b51898dc30704",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "exodus/Exodus.html",
+      "sha256": "7a9cfcd64605124d03021ff530e7ad35dbe01fdf9ffa62de7edd8239d78fd07c",
+      "use": "Recover recorded poetry breaks only; source wording must match verses.json"
+    },
+    {
+      "path": "exodus/verses.json",
+      "sha256": "a52942229abc202d2f6ce2cfff22fe0229d56499e0b94cfff5f53d06fb815bb0",
+      "git_blob": "10d700d84ea79ee19c32481f88ebc6c3d046a975",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "exodus/source-checks.json",
+      "sha256": "b8b1c5d8fe9a27a7ce64ce8e2de836df899559ce70c6ea8567284c744fd40fad",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "leviticus/verses.json",
+      "sha256": "2d722c4a93a5cf0ec08162ec4919e410bdea584058f2cabb38201fd7c068a2ca",
+      "git_blob": "579aa009229810013259f2f24296f6f9a2c3c8f4",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "leviticus/source-checks.json",
+      "sha256": "7d3cec83ba34f16c539aa68ef2de716e5941e2612048e76a9fbef8a5ff5551f3",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "numbers/verses.json",
+      "sha256": "5e1297f0960ee3272843a2eff90f72909365418012f2dcfeb44127a1be6bef1d",
+      "git_blob": "f52d97f715891170060a770c8e2bd55267a3d5ca",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "numbers/source-checks.json",
+      "sha256": "07cd434a717c8d426939253c82dc579884f75cbb32e6cc7dfafabd96c6e14c42",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "deuteronomy/verses.json",
+      "sha256": "a569a71dacce92f9e966f102723956acd742cbbd0ca4a32741c37544ca81bbcd",
+      "git_blob": "eb8309b456e5b6b87e756a4ff457a02237be00fb",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "deuteronomy/source-checks.json",
+      "sha256": "0413b88168f4cbc2a52a9bc24fae8905f328e0e72fe427187c8fee378fc43e28",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "joshua/verses.json",
+      "sha256": "eb93d63cea7acf7f4e4b28b1c35436ad11acd02a5be7d25ce5c95d737ea54040",
+      "git_blob": "20323ec8aab28987867dca2e8102276d626ad33e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "joshua/source-checks.json",
+      "sha256": "c1b4ae913829e16ccc59f078ab03c8473d4fd9066fb64116a84ddcf30b982a5b",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "judges/verses.json",
+      "sha256": "bc00ee37a3b832eeac7929234102b393ec34ac10158ec548249b0ef187306eec",
+      "git_blob": "09fb1589032e5367d2f1f0081d1060fdd601f88f",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "judges/source-checks.json",
+      "sha256": "252949012c43571dec2097290dcfc533b00a055c317da3d59f98f95968af0b2d",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ruth/verses.json",
+      "sha256": "539a006ecb648bcca7542ea3596f1ef2a3ba7acb2e7d094fa1a32b92f6f879d9",
+      "git_blob": "25d7b5626a802494e87f0b5413aecb82b2428e18",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ruth/source-checks.json",
+      "sha256": "22a76714a0ad6b2423fe1ac3813e59d07cecb4519930b48a3e2e8292b4c67aec",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-samuel/verses.json",
+      "sha256": "093f77c98b26561250b7fcc736fc1c0ad239dca806899dfb62fb33b897f99b66",
+      "git_blob": "c7606f25f6b3fcff60b173f36fe520dbb050a540",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-samuel/source-checks.json",
+      "sha256": "73bd2523578599495bc34d884d7a426d3c144f15bee203b52417849bff2fd24b",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-samuel/verses.json",
+      "sha256": "25f6b9b46cbfe4dc3a30a600e85b906faec5a2f7b647a94aba6575298e5d1b9d",
+      "git_blob": "45c2375e2a91962e0f2b548c746560498b9b39f5",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-samuel/source-checks.json",
+      "sha256": "d2f29e3784e4e575b245cf0b83223da94c5d78a5178549ab18a501622e91f03f",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-kings/verses.json",
+      "sha256": "4507bb462ae060708641d3eba087a3ca39cb6b8ce0e460e38a8be4bb34f9498d",
+      "git_blob": "00f7db4eede7e186cc8b7986b2249079495b4cc2",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-kings/source-checks.json",
+      "sha256": "4b4d43c7f7ced7e3ce8fa3c95860a142e5c07bf7fdebda8d1151153085d84048",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-kings/verses.json",
+      "sha256": "b4a8fe8bda1a8decb3addb817883f90d1539ee50f1a91dd44d5d5a20c02344c7",
+      "git_blob": "2cd20f65a020ea02f6ccdda727d47c2feb2dbb55",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-kings/source-checks.json",
+      "sha256": "f749b49abf043324f77aa80e49aa3f1b2c18d48d93e7db761035da6c240ac36e",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-chronicles/verses.json",
+      "sha256": "2f3b41f3542698e2808137f822d03f704f8fc1dff5d4ced8cee815289c2ef730",
+      "git_blob": "2101f758b42ee75471f73d6e75912dbe9090a35b",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-chronicles/source-checks.json",
+      "sha256": "99f0aaabe709e56da80c295bc4449eccc734feb3cee771475435f18b109efa48",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-chronicles/verses.json",
+      "sha256": "fef99a8cf81b94d7a7bbc42fd70c26ac6097b22e0d42e3b83145fdc01b17164c",
+      "git_blob": "c1c5ed31124f98b1fba4823ec02afc0aee20f582",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-chronicles/source-checks.json",
+      "sha256": "3b3aee096b81ce53e6c14f906d47b54f6c17b06962dada99bd51ca78f1683e51",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "1-maccabees/verses.json",
+      "sha256": "29c83bbc4b58b9eeeee0675768e1f40a0b0b7a0e01249a146d64ee573b42b8af",
+      "git_blob": "41754e1990877ca2270f272220676773bd179b3c",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "1-maccabees/source-checks.json",
+      "sha256": "6b0d521a95b102842cadfba63ab856dede97caa40f8543aa1522fea43eca1601",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "2-maccabees/verses.json",
+      "sha256": "4748eb2422bf0bcdbf16d1292dd94f486c21ff54ae7590fdd2c98590f87fbc1d",
+      "git_blob": "7f54b48b4e284348aa8918b1cb14cd4300d227c2",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "2-maccabees/source-checks.json",
+      "sha256": "815162cf890b8a9a7b9ea6673b32622b3ede033de56716364a0e88406b4e002a",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ezra/verses.json",
+      "sha256": "296ecf2cc7e86670eae99db1f718edf88ce13b117ac5aec5cb40f08220b53798",
+      "git_blob": "7556e4111c7d9cf947f31760284b62f5edca9302",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ezra/source-checks.json",
+      "sha256": "d7af311157845eb8298a37d38c52452d505c8f9f6ec39d9434621b1d4c98b5be",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "nehemiah/verses.json",
+      "sha256": "90cd08204d8e2f9ec82c69c69a64202bc1f765e59ccb202270881819be776da1",
+      "git_blob": "2293e026368c9466269afa1e0ecfcadf751dd88a",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "nehemiah/source-checks.json",
+      "sha256": "6d39a70f6396e6863a909ef77614a404ad3db746ddb53e079bf1fef852ba4394",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "esther/verses.json",
+      "sha256": "f56aa793cef88543fce4ea36fba02f7e1cbae0ba250dd261ea27f50213823590",
+      "git_blob": "6df661a54d219eb4f3f340cfca93a84ee8a120ed",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "esther/source-checks.json",
+      "sha256": "2caf0b660e6e6bc7071695158903282367820571fcd6afd4aa9d626af331bb53",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "job/verses.json",
+      "sha256": "f1bdc648c4b1e5355c4f4518f33c52762ba228635cb0fc726d9e228a30a910e3",
+      "git_blob": "07361990c34eac0a99553b11dd9d4b2482c3b37f",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "job/source-checks.json",
+      "sha256": "8a9489abe23f1cb8f6262707fc94b1a6e5379bf4c8eb011e3a9d6c11b37121d5",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "psalms/verses.json",
+      "sha256": "984622b09d08866d3a432706302208ecec8d04e9204668a95a101215253c3dba",
+      "git_blob": "53514604a8c6d146b8295fa4a38c6943ef1d8c9e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "psalms/source-checks.json",
+      "sha256": "2bcae600f13c676ce183c30904ec8e4801fa23449a06ba2bdacbee1cc39d6672",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "proverbs/verses.json",
+      "sha256": "4a71c007b9a1b1bf8063977f6e09a8167aff458ddb81692dd424c109687f5f9c",
+      "git_blob": "c5f312fbf47c53c3fc5f40ecdf0dec036545587b",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "proverbs/source-checks.json",
+      "sha256": "ca101a228b8fe59eb345c1fb7e672d81e532a84a8f61075bc7282949f07b07aa",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ecclesiastes/verses.json",
+      "sha256": "ce7e9557345e71da9a5f5e95e31cc78453b9bbe917ff90ac0dee03d7a5ce6fd9",
+      "git_blob": "48f381cd900cf9fee506ab8b3eeb02bbfdc242b3",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ecclesiastes/source-checks.json",
+      "sha256": "2b3609badcd6a513c5c6fec2b6c4f288544d7d110d7315bcb0ed2a1a3c8ad0de",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "song-of-songs/verses.json",
+      "sha256": "fa7b151c994b63707866718b0d9fef2aa06c92c4840b4f780d153aa093b6ad82",
+      "git_blob": "c25dcabd0c7416a129af37911b972ee3b89ed821",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "song-of-songs/source-checks.json",
+      "sha256": "8310435c3ca80c3a9e467cc66b050902f7c204ab42ae7919f9a6dad8421e8c71",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "lamentations/verses.json",
+      "sha256": "be3b5973fc064988fad8a510686393314d29e3a92497e0afb7c2f14dbbaea46d",
+      "git_blob": "05d7755a5e96cf65f30173d3e025cd7af50cdb5c",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "lamentations/source-checks.json",
+      "sha256": "45043aae8ce74fe17e01abad214b5b8455af371e4165e7327f75fd202a3bf4b8",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "wisdom-of-solomon/verses.json",
+      "sha256": "a1f47345b1bbe02d78701fb6c23f6b03865b0083c507e3ddd2f1118931e09329",
+      "git_blob": "468127efad884589c0e3009ffb16ab7d1ad2fe10",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "wisdom-of-solomon/source-checks.json",
+      "sha256": "9c8132b42ba1b3533d6cb1e951187b5add6ddff07e6fe8d7a76e6a8253e357b8",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "sirach/verses.json",
+      "sha256": "8b53aaab1ea06f1660535a0ee5902eabf29fcdf4e4de97cf052525430f0a3efd",
+      "git_blob": "645c35de50dd8eec05e9c156c1656b88842dd7eb",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "sirach/source-checks.json",
+      "sha256": "fd643f9be96fc8274390f40507a85bfa8db16841bcd703b7d0de5c9f7b44c34c",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "isaiah/verses.json",
+      "sha256": "0f56370779d429683179c14cb067f563c9365c8e3000215b6e92fb2643b9c6ed",
+      "git_blob": "cdaf7ebfe417953d5f985f1e7e06d96dd697658c",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "isaiah/source-checks.json",
+      "sha256": "8f5cf2663493a45a45b45a4acda48c9b6e3eacc915c42310d18b9880126a616e",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "jeremiah/verses.json",
+      "sha256": "b44cb9306f3b28060e5d1d1f0a1ac78c1f8cb8e8506389f0bcbfeaf735d29cf5",
+      "git_blob": "1b5ee4d35f52a584de692ac387fa5b0965183b68",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "jeremiah/source-checks.json",
+      "sha256": "5d5bca99e4145cd96af295393011ae55ade159b5b25fd2e717e438d996b6e00d",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "ezekiel/verses.json",
+      "sha256": "31729286e293686282312c3f4fc3209e3795d00948b39f60cf52bfa5595ab35c",
+      "git_blob": "b0ef2643ca9eec85f56f1b44e516672ca81e8b3d",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "ezekiel/source-checks.json",
+      "sha256": "b462f702663f4e0a0ed8bb3c6bfa88c19b94b4fe0cdea631cf30c9e6ea398298",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "daniel/verses.json",
+      "sha256": "41fe27c56d5c0a23e4e970d7beb9376fdb8a55c16721aea1a1cc1b6ac23fe3f8",
+      "git_blob": "a5f238b35d6182e1e913dff88715e3870fbfb229",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "daniel/source-checks.json",
+      "sha256": "e25e8d4558bdc96be02e199342cdd762638cd023a96fe9af350f98ad0f3dbe4d",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "hosea/verses.json",
+      "sha256": "8a8ee297841073a742f7a82ef310ecdf787c1360af2ec729a5e17c6cad62838b",
+      "git_blob": "2001b9acc2907fe3e35437ddf342c38f8e060f59",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "hosea/source-checks.json",
+      "sha256": "5e9766ad97fc4cb214b84a97db947b1b2f442078f7ee76d7a71cd4b943fe8a00",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "joel/verses.json",
+      "sha256": "c5b3cd2a108092457f3ff65382f711078ce24b77c5601effb4041ecf3a66088e",
+      "git_blob": "a0937b500e0c9ae37557ed4c84cbe39ecd5125be",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "joel/source-checks.json",
+      "sha256": "59f92086ac8a2de0f0125dfdf02902fa01f107af68db9f6b2fc2e76e68c0b143",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "amos/verses.json",
+      "sha256": "d06d73541befd466a733f8aa11686a07716d926824df4e565f602819349ee5ef",
+      "git_blob": "93448e10e7339f7c6765e364f1d20b7cf7aadc88",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "amos/source-checks.json",
+      "sha256": "64897fade09d79fce0f0595afd66a8e51f1b434f4a4b4b73cf7574f12a6d1cb4",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "obadiah/verses.json",
+      "sha256": "b9ec760606d72a32074ac60de6ba26b35f5ab85555b61d0ab92535e25e64e79a",
+      "git_blob": "cce5abd4ebba2e72e79e4fcdc060236679e2a1ab",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "obadiah/source-checks.json",
+      "sha256": "7e62e834924d22abab750b7d8107e46ee0fb7441fbafd056d6f9eccebaf7f774",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "jonah/verses.json",
+      "sha256": "7e7485d556b7aa1b3cc4e181c6e75cba2ef5b6ef39add2c7e6c89323299ea75c",
+      "git_blob": "b2f33077a19167cd7c2c8cdb48562b942ce91380",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "jonah/source-checks.json",
+      "sha256": "8883264a4155d1a13e85b35bd8d220e88f3fe12b1da4e8efae739c345d8983a8",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "micah/verses.json",
+      "sha256": "7865b16d1dc1c4f8c6092298d6cd7ac22b15c3ddf6d51c29e3044f50f13d4672",
+      "git_blob": "319c7964e056f960bdff58c9abc8e9ddd04d7ed5",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "micah/source-checks.json",
+      "sha256": "38065166ddba6cf21b45dbccbd5092951186bd47b8d209d061614f67565fe783",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "nahum/verses.json",
+      "sha256": "94993c64086f0d82213bbf6e86a7068c0c5493aa08e5c2b4f194805ed382a9ae",
+      "git_blob": "6901c800e024c859800afa7ab1e4fcda4e9d2658",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "nahum/source-checks.json",
+      "sha256": "b79dc35b0815a7ffe2e03e53fc979d63e6669a0130fd70092ff2ea0ab5d07118",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "habakkuk/verses.json",
+      "sha256": "e8d3d262b944f0ec474ec3ceec0ba7fbcda4aa07b5fc07f1c24a91ebb8e68f4a",
+      "git_blob": "063a4d3ef92c24ad68dc9ab29277e898efb3e22e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "habakkuk/source-checks.json",
+      "sha256": "19cd6f1e888647820a5c8ac1f6145141916a991e726d23f346fb4ac8aff40de0",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "zephaniah/verses.json",
+      "sha256": "9a519ad34d0289e9974d6397d0f461591a1bde16e4e7990ba802896232d873d1",
+      "git_blob": "0c97c5b11c38e2daddb34710025bd1e1454ca2c6",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "zephaniah/source-checks.json",
+      "sha256": "4e3d5ba6e0dfc47102ade022e7f497c430168a1f0745a7bd87a5b02709549c04",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "haggai/verses.json",
+      "sha256": "7f6e5d534b9fe88ecc9efa48fa072a87dc1e7432a50fd42dfcb2e4644c0fc4c8",
+      "git_blob": "b9623d3c2c80b65db6366f940ccbb200a2c4ba5d",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "haggai/source-checks.json",
+      "sha256": "8f4da76719dc7e9c77841fab05e5732234971ebb113810b2db07c6e1fe8cd771",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "zechariah/verses.json",
+      "sha256": "d57fdae9f1c79aff5b7eefd79e798681bb026d0634bee2f71623f587275d4aa3",
+      "git_blob": "16228318100b747c05311caeb18f15f5f378c765",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "zechariah/source-checks.json",
+      "sha256": "bc97b9b7948916ca6e9301229448670f6cbc5ac993794024d7571f04f0ed43d1",
+      "use": "Historical source claims; not newly certified"
+    },
+    {
+      "path": "malachi/verses.json",
+      "sha256": "d29d04b2a258ab9edd05e722dd723fc5b00c3e73c72484adcfbd701f19c7f464",
+      "git_blob": "a7fd092b220b6da8c5525e04c56db3a59786782e",
+      "use": "Inherited English Scripture and passage identities"
+    },
+    {
+      "path": "malachi/source-checks.json",
+      "sha256": "77a18918ea3c3eddc457259652be9936ca3da4b47bbf7ccb312556feff7fa23e",
+      "use": "Historical source claims; not newly certified"
+    }
+  ],
+  "website_deployed": false,
+  "remaining": [
+    "Complete source-led comparison and word accounting across every OT unit",
+    "Specialist lexical and textual decisions",
+    "Relevant apparatus and Göttingen consultation",
+    "Independent Greek review",
+    "Human read-aloud review",
+    "Editorial acceptance",
+    "Separately authorized, verified publication"
+  ]
+}

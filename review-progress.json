@@ -14,9 +14,9 @@
     "count_evidence": "review-2026-11-09.md",
     "counts_freshly_recomputed": false
   },
-  "status": "complete_nt_provisional_manuscript_assembled_greek_review_in_progress",
+  "status": "old_testament_only_initial_comparisons_drafted",
   "new_programme_completed_units": 0,
-  "counting_policy": "The NT edition contains 7,943 inherited stored units, not 7,943 newly reviewed translations. Newly evidenced candidate units total 153: 18 token-aligned and 135 focused running-text comparisons. Completion requires the distinct review/acceptance stages; completed remains zero. Historical evidence is preserved, not silently counted as new review.",
+  "counting_policy": "Current OT batch: 26,580 inherited stored units plus seven attached continuations; 128 focused Greek comparisons, no full token alignments or newly accepted units. The 26,452 other OT units are inherited without a new comparison in this batch. Earlier NT evidence remains 153 candidate units (18 token-aligned, 135 focused); no new NT work. Inherited manuscript assembly, focused comparison, token accounting, human review, acceptance and publication are separate counts.",
   "stage_keys": [
     "source_collation",
     "apparatus_review",
@@ -27,12 +27,13 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "NT-JHN-003",
-    "book": "John",
-    "scope": "John 2",
+    "id": "OT-GEN-004",
+    "book": "Genesis",
+    "scope": "Genesis 4",
     "status": "not_started",
-    "first_step": "Access selected running text; prepare full token accounting and compare inherited English. Detailed alignment of the 135 focused comparisons also remains open.",
-    "source_policy": "Continue provisional NA28; UBS6/GNT6 migration requires actual access and collation."
+    "first_step": "Read the selected Greek running text and draft each unit, preserving inherited benchmark wording and proposed corrections separately.",
+    "parallel_review_debt": "Complete token accounting and resolve Genesis 1–3 questions; Jonah 2:7 and 2:10 remain unresolved. Do not count focused comparisons as final acceptance.",
+    "source_policy": "Rahlfs–Hanhart 2006 provisional running text; book-specific source identity, Göttingen and apparatus review remain separately recorded."
   },
   "word_studies": {
     "next_batch": "WS-001",
@@ -54,16 +55,20 @@
     {
       "id": "GT-001",
       "scope": "Genesis 1:1–5",
-      "status": "not_started",
-      "evidence": [],
-      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
+      "status": "focused_comparison_and_close_drafts_prepared_full_alignment_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json"
+      ],
+      "priority_note": "Current OT-only assignment; no complete token accounting, human reading or acceptance claimed."
     },
     {
       "id": "GT-002",
       "scope": "Remainder of Genesis 1",
-      "status": "not_started",
-      "evidence": [],
-      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
+      "status": "focused_comparison_and_close_drafts_prepared_full_alignment_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json"
+      ],
+      "priority_note": "Current OT-only assignment; no complete token accounting, human reading or acceptance claimed."
     },
     {
       "id": "GT-003",
@@ -81,7 +86,7 @@
       "scope": "Psalm 22 LXX / 23 MT; Isaiah 53; Acts 8:32–35",
       "status": "not_started",
       "evidence": [],
-      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
+      "priority_note": "OT components remain planned under the latest OT-only instruction. The Acts comparison is outside the current assignment; original mixed scope is retained as history."
     },
     {
       "id": "GT-005",
@@ -95,9 +100,12 @@
     {
       "id": "GT-006",
       "scope": "Exceptional reading-unit publishing fixtures",
-      "status": "not_started",
-      "evidence": [],
-      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
+      "status": "structural_export_preservation_verified_greek_review_pending",
+      "evidence": [
+        "editions/2026-11-12-ot-reading-draft/manifest.json",
+        "editions/2026-11-12-ot-reading-draft/validation.json"
+      ],
+      "priority_note": "OT special units preserved in this manuscript; fresh Greek review of these units remains pending."
     },
     {
       "id": "WS-001",
@@ -161,6 +169,33 @@
       "scope": "John 2",
       "status": "not_started",
       "evidence": []
+    },
+    {
+      "id": "OT-001",
+      "scope": "Genesis 1",
+      "status": "focused_comparison_drafted_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-001-genesis-1/README.md",
+        "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-002",
+      "scope": "Genesis 2–3",
+      "status": "focused_comparison_drafted_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-002-genesis-2-3/README.md",
+        "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-003",
+      "scope": "Jonah 1–4",
+      "status": "focused_comparison_drafted_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-003-jonah/README.md",
+        "reviews/2026-11-12-OT-003-jonah/focused-reviews.json"
+      ]
     }
   ],
   "books": [
@@ -173,10 +208,10 @@
       "legacy_records": "genesis/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "genesis/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_focused_running_text_evidence",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1531,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -221,8 +256,21 @@
         "stale_occurrences": null,
         "published_new_occurrences": 0
       },
-      "issues": [],
-      "next_batch": "GT-001"
+      "issues": [
+        "Full token alignment, applicable apparatus and specialist lexical/syntactic review remain pending.",
+        "Independent human Greek review, human read-aloud, editorial acceptance and website publication remain pending."
+      ],
+      "next_batch": "OT-GEN-004",
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 80,
+      "focused_running_text_compared_units": 80,
+      "token_aligned_units": 0,
+      "focused_comparison_evidence": [
+        "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json",
+        "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json"
+      ]
     },
     {
       "order": 2,
@@ -233,10 +281,10 @@
       "legacy_records": "exodus/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "exodus/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1165,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -282,7 +330,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 3,
@@ -293,10 +347,10 @@
       "legacy_records": "leviticus/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "leviticus/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 859,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -342,7 +396,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 4,
@@ -353,10 +413,10 @@
       "legacy_records": "numbers/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "numbers/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1287,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -402,7 +462,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 5,
@@ -413,10 +479,10 @@
       "legacy_records": "deuteronomy/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "deuteronomy/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 959,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -462,7 +528,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 6,
@@ -473,10 +545,10 @@
       "legacy_records": "joshua/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "joshua/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 659,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -522,7 +594,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 7,
@@ -533,10 +611,10 @@
       "legacy_records": "judges/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "judges/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 618,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -582,7 +660,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 8,
@@ -593,10 +677,10 @@
       "legacy_records": "ruth/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "ruth/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 85,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -642,7 +726,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 9,
@@ -653,10 +743,10 @@
       "legacy_records": "1-samuel/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-samuel/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 773,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -702,7 +792,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 10,
@@ -713,10 +809,10 @@
       "legacy_records": "2-samuel/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-samuel/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 696,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -762,7 +858,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 11,
@@ -773,10 +875,10 @@
       "legacy_records": "1-kings/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-kings/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 822,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -822,7 +924,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 12,
@@ -833,10 +941,10 @@
       "legacy_records": "2-kings/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-kings/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 723,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -882,7 +990,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 13,
@@ -893,10 +1007,10 @@
       "legacy_records": "1-chronicles/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-chronicles/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 930,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -942,7 +1056,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 14,
@@ -953,10 +1073,10 @@
       "legacy_records": "2-chronicles/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-chronicles/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 833,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1002,7 +1122,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 15,
@@ -1013,10 +1139,10 @@
       "legacy_records": "1-maccabees/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-maccabees/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 924,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1062,7 +1188,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 16,
@@ -1073,10 +1205,10 @@
       "legacy_records": "2-maccabees/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-maccabees/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 555,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1122,7 +1254,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 17,
@@ -1133,10 +1271,10 @@
       "legacy_records": "ezra/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "ezra/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 280,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1182,7 +1320,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 18,
@@ -1193,10 +1337,10 @@
       "legacy_records": "nehemiah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "nehemiah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 392,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1242,7 +1386,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 19,
@@ -1253,10 +1403,10 @@
       "legacy_records": "esther/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "esther/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 246,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1302,7 +1452,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 20,
@@ -1313,10 +1469,10 @@
       "legacy_records": "job/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "job/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1083,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1362,7 +1518,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 21,
@@ -1373,10 +1535,10 @@
       "legacy_records": "psalms/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "psalms/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 2534,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1422,7 +1584,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 22,
@@ -1433,10 +1601,10 @@
       "legacy_records": "proverbs/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "proverbs/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 939,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1482,7 +1650,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 23,
@@ -1493,10 +1667,10 @@
       "legacy_records": "ecclesiastes/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "ecclesiastes/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 222,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1542,7 +1716,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 24,
@@ -1553,10 +1733,10 @@
       "legacy_records": "song-of-songs/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "song-of-songs/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 117,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1602,7 +1782,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 25,
@@ -1613,10 +1799,10 @@
       "legacy_records": "lamentations/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "lamentations/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 150,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1662,7 +1848,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 26,
@@ -1673,10 +1865,10 @@
       "legacy_records": "wisdom-of-solomon/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "wisdom-of-solomon/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 435,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1722,7 +1914,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 27,
@@ -1733,10 +1931,10 @@
       "legacy_records": "sirach/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "sirach/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1374,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1782,7 +1980,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 28,
@@ -1793,10 +1997,10 @@
       "legacy_records": "isaiah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "isaiah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1289,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1842,7 +2046,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 29,
@@ -1853,10 +2063,10 @@
       "legacy_records": "jeremiah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "jeremiah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1296,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1902,7 +2112,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 30,
@@ -1913,10 +2129,10 @@
       "legacy_records": "ezekiel/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "ezekiel/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1267,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -1962,7 +2178,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 31,
@@ -1973,10 +2195,10 @@
       "legacy_records": "daniel/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "daniel/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 487,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2022,7 +2244,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 32,
@@ -2033,10 +2261,10 @@
       "legacy_records": "hosea/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "hosea/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 197,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2082,7 +2310,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 33,
@@ -2093,10 +2327,10 @@
       "legacy_records": "joel/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "joel/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 73,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2142,7 +2376,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 34,
@@ -2153,10 +2393,10 @@
       "legacy_records": "amos/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "amos/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 146,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2202,7 +2442,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 35,
@@ -2213,10 +2459,10 @@
       "legacy_records": "obadiah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "obadiah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 21,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2262,7 +2508,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 36,
@@ -2273,10 +2525,10 @@
       "legacy_records": "jonah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "jonah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_focused_running_text_evidence",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 48,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2321,8 +2573,20 @@
         "stale_occurrences": null,
         "published_new_occurrences": 0
       },
-      "issues": [],
-      "next_batch": null
+      "issues": [
+        "Full token alignment, applicable apparatus and specialist lexical/syntactic review remain pending.",
+        "Independent human Greek review, human read-aloud, editorial acceptance and website publication remain pending."
+      ],
+      "next_batch": "OT-JON-review-debt",
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 48,
+      "focused_running_text_compared_units": 48,
+      "token_aligned_units": 0,
+      "focused_comparison_evidence": [
+        "reviews/2026-11-12-OT-003-jonah/focused-reviews.json"
+      ]
     },
     {
       "order": 37,
@@ -2333,10 +2597,10 @@
       "legacy_records": "micah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "micah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 105,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2382,7 +2646,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 38,
@@ -2393,10 +2663,10 @@
       "legacy_records": "nahum/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "nahum/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 47,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2442,7 +2712,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 39,
@@ -2453,10 +2729,10 @@
       "legacy_records": "habakkuk/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "habakkuk/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 56,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2502,7 +2778,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 40,
@@ -2513,10 +2795,10 @@
       "legacy_records": "zephaniah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "zephaniah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 53,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2562,7 +2844,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 41,
@@ -2573,10 +2861,10 @@
       "legacy_records": "haggai/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "haggai/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 38,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2622,7 +2910,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 42,
@@ -2633,10 +2927,10 @@
       "legacy_records": "zechariah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "zechariah/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 211,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2682,7 +2976,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 43,
@@ -2693,10 +2993,10 @@
       "legacy_records": "malachi/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "malachi/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 55,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2742,7 +3042,13 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_ot",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 44,
@@ -4509,8 +4815,8 @@
       "token_aligned_units": 0
     }
   ],
-  "new_programme_drafted_units": 153,
-  "current_priority": "Finish the full NT Greek-led programme; the complete provisional manuscript is available. Next detailed John batch: John 2; remaining token, apparatus, specialist, human and acceptance work stays open.",
+  "new_programme_drafted_units": 281,
+  "current_priority": "Latest owner instruction: work only on the entire 43-book Old Testament. Begin fresh Greek work across the full inherited manuscript; continue drafting at Genesis 4 while completing the open review stages for Genesis 1–3 and Jonah. Existing NT work is unchanged and outside this assignment.",
   "nt_manuscript": {
     "status": "complete_provisional_manuscript",
     "books": 27,
@@ -4524,6 +4830,29 @@
       "editions/2026-11-12-nt-reading-draft/README.md",
       "editions/2026-11-12-nt-reading-draft/manifest.json",
       "editions/2026-11-12-nt-reading-draft/validation.json"
+    ],
+    "website_publication": false
+  },
+  "ot_manuscript": {
+    "books": 43,
+    "reading_sections": 1037,
+    "stored_units": 26580,
+    "attached_continuation_paragraphs": 7,
+    "reading_paragraphs_including_continuations": 26587,
+    "fresh_focused_comparison_units": 128,
+    "inherited_without_new_comparison": 26452,
+    "proposed_changed_units": 9,
+    "retained_after_focused_comparison": 119,
+    "new_token_aligned_units": 0,
+    "independently_reviewed_units": 0,
+    "human_read_aloud_units": 0,
+    "new_editorially_accepted_units": 0,
+    "recovered_poetry_units": 32,
+    "status": "complete_inherited_reading_manuscript_with_provisional_comparison_candidates",
+    "evidence": [
+      "editions/2026-11-12-ot-reading-draft/README.md",
+      "editions/2026-11-12-ot-reading-draft/manifest.json",
+      "editions/2026-11-12-ot-reading-draft/validation.json"
     ],
     "website_publication": false
   }

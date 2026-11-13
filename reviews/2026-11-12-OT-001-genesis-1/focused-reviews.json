@@ -1,0 +1,1279 @@
+{
+  "batch_id": "OT-001",
+  "scope": "Genesis 1:1–31",
+  "status": "focused_comparison_and_close_drafts_prepared_full_alignment_pending",
+  "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-1",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:1",
+      "verse_anchor": "v1-1",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "In the beginning God made heaven and earth.",
+      "candidate_text": "In the beginning God made heaven and earth.",
+      "candidate_sha256": "7af8a98f1aa740861bc862931805b296e7167ba996df2c3f57845ff590b26e53",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "In the beginning God made the heaven and the earth.",
+        "spoken": "In the beginning God made heaven and earth.",
+        "literary": "In the beginning God made heaven and earth."
+      },
+      "analysis": "The opening temporal phrase qualifies God's act of making; the subject is God and the two coordinated objects are heaven and earth. English normally omits the Greek articles with these cosmic nouns. The inherited 'made' represents the verb without replacing it with an etymological or doctrinal explanation. Retain the familiar cadence; this clause alone does not specify a philosophical account of creation.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-2",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:2",
+      "verse_anchor": "v1-2",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Now the earth was unseen and unformed, and darkness was over the deep; and the Spirit of God was moving over the water.",
+      "candidate_text": "Now the earth was unseen and unformed, and darkness was over the deep; and the Spirit of God was moving over the water.",
+      "candidate_sha256": "32d5d95deb08e198ba81e70e1c555091730fe316e8ce9cb312b6befff30b000f",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Now the earth was unseen and unprepared, and darkness was over the abyss, and a spirit of God was moving over the water.",
+        "spoken": "Now the earth was unseen and unformed, and darkness was over the deep; and the Spirit of God was moving over the water.",
+        "literary": "Now the earth was unseen and unformed, and darkness was over the deep; and the Spirit of God was moving over the water."
+      },
+      "analysis": "The contrastive connective introduces the earth's condition. The two adjectives describe it as unseen and not prepared or formed: 'unseen and unformed' is a defensible contextual rendering, not the different Hebrew-based formula 'formless and void.' The imperfect of the movement verb describes an ongoing scene without specifying a bird or adding creative action. 'Spirit of God' retains the benchmark interpretation; 'a spirit/breath/wind of God' remains a translation question because absence of the article alone settles neither reference nor capitalization. 'Deep' renders the abyss; singular water is retained.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-3",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:3",
+      "verse_anchor": "v1-3",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let there be light.” And there was light.",
+      "candidate_text": "And God said, “Let there be light.” And there was light.",
+      "candidate_sha256": "d923d5318b2d7bbed8471adb9428fa8034d13e0872505b0f2db357e9876827d1",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let light come to be.' And light came to be.",
+        "spoken": "And God said, “Let there be light.” And there was light.",
+        "literary": "And God said, “Let there be light.” And there was light."
+      },
+      "analysis": "The divine command and its fulfillment use related forms of the same verb. The established 'Let there be light / there was light' communicates the command/result and preserves the repeated light. No 'again,' elapsed period, or explanatory actor is added.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-4",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:4",
+      "verse_anchor": "v1-4",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God saw that the light was good, and God divided the light from the darkness.",
+      "candidate_text": "And God saw that the light was good, and God divided the light from the darkness.",
+      "candidate_sha256": "b6de3a76066a0cf249ca7235a356e8d476ae2921e396f51a35c3b8b97f1d9406",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God saw the light, that it was good; and God separated between the light and between the darkness.",
+        "spoken": "And God saw that the light was good, and God divided the light from the darkness.",
+        "literary": "And God saw that the light was good, and God divided the light from the darkness."
+      },
+      "analysis": "The first clause evaluates the light; the second names God again as the agent of separation. English 'divided the light from the darkness' realizes the repeated 'between' construction idiomatically, without claiming the dark was called evil. The second divine subject remains explicit.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-5",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:5",
+      "verse_anchor": "v1-5",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God called the light Day, and the darkness He called Night. And there was evening, and there was morning: one day.",
+      "candidate_text": "And God called the light Day, and the darkness He called Night. And there was evening, and there was morning: one day.",
+      "candidate_sha256": "2a80673d75786851ab492194e2e98bdb7101b76ee91b143ea127f3e26963f4b8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God called the light Day, and the darkness He called Night. And evening came, and morning came: one day.",
+        "spoken": "And God called the light Day, and the darkness He called Night. And there was evening, and there was morning: one day.",
+        "literary": "And God called the light Day, and the darkness He called Night. And there was evening, and there was morning: one day."
+      },
+      "analysis": "Both naming clauses and both coming-to-be clauses remain visible. The last expression uses the cardinal 'one,' unlike the subsequent ordinal days; preserve 'one day' rather than normalize it to 'the first day.' Capitalized Day and Night are editorial naming conventions, not a Greek manuscript distinction.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-6",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:6",
+      "verse_anchor": "v1-6",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let there be a firmament in the midst of the water, and let it divide water from water.” And it was so.",
+      "candidate_text": "And God said, “Let there be a firmament in the midst of the water, and let it divide water from water.” And it was so.",
+      "candidate_sha256": "dcb7d3c9d0bbe7acd95f535026a274b6192ff5bcf222aa10097f1340951ea205",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let a firmament come to be in the midst of the water, and let it separate between water and water.' And it was so.",
+        "spoken": "And God said, “Let there be a firmament in the midst of the water, and let it divide water from water.” And it was so.",
+        "literary": "And God said, “Let there be a firmament in the midst of the water, and let it divide water from water.” And it was so."
+      },
+      "analysis": "The firmament is commanded into existence and assigned a separating function. 'Firmament' preserves the established traditional term; its contextual sense is the sky structure separating waters, not an inserted modern scientific mechanism. The command's two clauses and the Greek fulfillment sentence at this verse are retained. The supplied English subject in 'let it divide' realizes the Greek participial construction.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-7",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:7",
+      "verse_anchor": "v1-7",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God made the firmament, and God divided the water beneath the firmament from the water above the firmament.",
+      "candidate_text": "And God made the firmament, and God divided the water beneath the firmament from the water above the firmament.",
+      "candidate_sha256": "6fa819ee5af4f546781a3588aecb317b1333d39d80b08a7cf327c893c4cb0532",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God made the firmament, and separated between the water that was beneath the firmament and the water above the firmament.",
+        "spoken": "And God made the firmament, and God divided the water beneath the firmament from the water above the firmament.",
+        "literary": "And God made the firmament, and God divided the water beneath the firmament from the water above the firmament."
+      },
+      "analysis": "The Greek names God as subject in the first clause; that subject governs the following separation verb. The inherited English supplies God again to make the same referent explicit, rather than reflecting a second occurrence of the Greek noun. Firmament recurs in both water descriptions. 'Beneath' and 'above' preserve the opposing locations; the relative clause 'that was' can be represented by the English prepositional modifier without changing its referent.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-8",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:8",
+      "verse_anchor": "v1-8",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God called the firmament Heaven. And God saw that it was good. And there was evening, and there was morning: a second day.",
+      "candidate_text": "And God called the firmament Heaven. And God saw that it was good. And there was evening, and there was morning: a second day.",
+      "candidate_sha256": "d972cf3124c21ead5a6ba1fcbd9d0cf906e2bd1b34c4221ae5ff2d84a1d96ba4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God called the firmament Heaven. And God saw that it was good. And evening came, and morning came: a second day.",
+        "spoken": "And God called the firmament Heaven. And God saw that it was good. And there was evening, and there was morning: a second day.",
+        "literary": "And God called the firmament Heaven. And God saw that it was good. And there was evening, and there was morning: a second day."
+      },
+      "analysis": "The selected Greek contains the evaluation 'God saw that it was good' here; preserve it even where another textual tradition omits it. Naming, evaluation, and the doubled evening/morning formula remain distinct. The final day expression is ordinal, unlike verse 5.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-9",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:9",
+      "verse_anchor": "v1-9",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let the water beneath heaven be gathered into one place, and let the dry land appear.” And it was so. And the water beneath heaven was gathered into its gathering places, and the dry land appeared.",
+      "candidate_text": "And God said, “Let the water beneath heaven be gathered into one place, and let the dry land appear.” And it was so. And the water beneath heaven was gathered into its gathering places, and the dry land appeared.",
+      "candidate_sha256": "f63cee04ff2e918270d695a3e301778cf1566ed9b6d7b2aecfa0f08cfe7fe5e2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let the water beneath heaven be gathered into one gathering, and let dry land appear.' And it was so. And the water beneath heaven was gathered into its gatherings, and dry land appeared.",
+        "spoken": "And God said, “Let the water beneath heaven be gathered into one place, and let the dry land appear.” And it was so. And the water beneath heaven was gathered into its gathering places, and the dry land appeared.",
+        "literary": "And God said, “Let the water beneath heaven be gathered into one place, and let the dry land appear.” And it was so. And the water beneath heaven was gathered into its gathering places, and the dry land appeared."
+      },
+      "analysis": "The command speaks of one gathering; the fulfillment has plural gathering places. The inherited wording preserves this number difference and the expanded Greek fulfillment rather than harmonizing it with a shorter tradition. 'Place' and 'gathering places' express the result/location sense of the gathering noun; the close draft makes the repeated lexical relationship visible. 'Dry land' supplies the natural English head noun for the substantivized adjective.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-10",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:10",
+      "verse_anchor": "v1-10",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God called the dry land Earth, and the gathered waters He called Seas. And God saw that it was good.",
+      "candidate_text": "And God called the dry land Earth, and the gathered waters He called Seas. And God saw that it was good.",
+      "candidate_sha256": "0b6f52df03cb11074b340458f061b6c4261b1efccd2f11a9adbb94152037aa2d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God called the dry land Earth, and the collections of waters He called Seas. And God saw that it was good.",
+        "spoken": "And God called the dry land Earth, and the gathered waters He called Seas. And God saw that it was good.",
+        "literary": "And God called the dry land Earth, and the gathered waters He called Seas. And God saw that it was good."
+      },
+      "analysis": "The naming clauses distinguish dry land from collected waters. 'Gathered waters' expresses the collections as an English noun phrase; Seas remains plural. The evaluation concerns the resulting scene; no causal or theological explanation is added.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-11",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:11",
+      "verse_anchor": "v1-11",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let the earth bring forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind.” And it was so.",
+      "candidate_text": "And God said, “Let the earth bring forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind.” And it was so.",
+      "candidate_sha256": "3d79a0ce57329c692b1ff9a2691faee2ecfdc962787a79ad4ccf5afe32ff2fb4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let the earth sprout grassy vegetation sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it was so.",
+        "spoken": "And God said, “Let the earth bring forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind.” And it was so.",
+        "literary": "And God said, “Let the earth bring forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind.” And it was so."
+      },
+      "analysis": "The command includes vegetation, seed, kind and likeness, and fruit-bearing trees whose seed is within. The benchmark's collective vegetation and plural trees are natural English for the source's collective categories. 'Each' distributes the tree description rather than adding a new botanical claim. Grass/herbage is compressed into 'vegetation'; whether 'grassy vegetation' would better preserve the nested phrase remains a lexical question for specialist review. The repeated kind/likeness wording is retained rather than abbreviated to a single classification.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-12",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:12",
+      "verse_anchor": "v1-12",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the earth brought forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind. And God saw that it was good.",
+      "candidate_text": "And the earth brought forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind. And God saw that it was good.",
+      "candidate_sha256": "8012cb6a4eaad119b840aba6f9f815f813fd5b1d33e5e8bfc44d9a3ef0b3d0c1",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And the earth brought forth grassy vegetation sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth. And God saw that it was good.",
+        "spoken": "And the earth brought forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind. And God saw that it was good.",
+        "literary": "And the earth brought forth vegetation sowing seed according to its kind and likeness, and fruit-bearing trees upon the earth, each yielding fruit with its seed within it, according to its kind. And God saw that it was good."
+      },
+      "analysis": "The fulfillment substantially repeats the command rather than replacing it with a summary. The inherited wording maintains the sequence vegetation, sowing, kind, likeness, tree, fruit and seed within. The collective and grammatical choices are the same as verse 11; the open question about the grassy/herbage description applies here too. The closing evaluation remains a separate clause.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-13",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:13",
+      "verse_anchor": "v1-13",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And there was evening, and there was morning: a third day.",
+      "candidate_text": "And there was evening, and there was morning: a third day.",
+      "candidate_sha256": "0bf59c12c7e520a1511dd235e7b08b404b5ad0decdd1fc3023d9264b535af21a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And evening came, and morning came: a third day.",
+        "spoken": "And there was evening, and there was morning: a third day.",
+        "literary": "And there was evening, and there was morning: a third day."
+      },
+      "analysis": "The two repeated event clauses and the ordinal third remain. 'There was' is the accepted English realization of the coming-to-be formula; no duration beyond the text's day label is supplied.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-14",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:14",
+      "verse_anchor": "v1-14",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let there be lights in the firmament of heaven to give light upon the earth and to divide the day from the night. Let them serve for signs and seasons, for days and years.",
+      "candidate_text": "And God said, “Let there be lights in the firmament of heaven to give light upon the earth and to divide the day from the night. Let them serve for signs and seasons, for days and years.",
+      "candidate_sha256": "683efe3ab9aa8ec30ea88499a051a3b5900203682ec21c427f5f966c2a147b0a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let lights come to be in the firmament of heaven for illumination of the earth, to separate between the day and the night; and let them be for signs and for seasons and for days and for years.'",
+        "spoken": "And God said, “Let there be lights in the firmament of heaven to give light upon the earth and to divide the day from the night. Let them serve for signs and seasons, for days and years.",
+        "literary": "And God said, “Let there be lights in the firmament of heaven to give light upon the earth and to divide the day from the night. Let them serve for signs and seasons, for days and years."
+      },
+      "analysis": "The selected Greek expressly includes illumination of the earth before the day/night purpose. The benchmark retains it and all four functions: signs, seasons, days, years. 'Seasons' is a contextual reading of appointed times; neither a festival calendar nor astronomical detail is inserted. The period before 'Let them serve' provides a spoken clause boundary for the second coordinated command; the speech continues into verse 15.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-15",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:15",
+      "verse_anchor": "v1-15",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And let them be lights in the firmament of heaven, to shine upon the earth.” And it was so.",
+      "candidate_text": "And let them be lights in the firmament of heaven, to shine upon the earth.” And it was so.",
+      "candidate_sha256": "174207b7abd4694452a3cc4ba70203e19869a2af40da0ac73c968f9741741f0c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And let them be for illumination in the firmament of heaven, so as to shine upon the earth.' And it was so.",
+        "spoken": "And let them be lights in the firmament of heaven, to shine upon the earth.” And it was so.",
+        "literary": "And let them be lights in the firmament of heaven, to shine upon the earth.” And it was so."
+      },
+      "analysis": "The illumination function is repeated from verse 14 and followed by its purpose. 'Be lights ... to shine' preserves this rather than deleting a seeming redundancy. The speech closes here and the narrator's fulfillment clause follows; the boundary must survive export.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-16",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:16",
+      "verse_anchor": "v1-16",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God made the two great lights: the greater light to rule the day, and the lesser light to rule the night; He made the stars also.",
+      "candidate_text": "And God made the two great lights: the greater light to rule the day, and the lesser light to rule the night; He made the stars also.",
+      "candidate_sha256": "84b30ea3370040c8d9af7d34b3293704de0ef080e6fc437778239d051ba3ac01",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God made the two great lights, the great light for rule of the day and the lesser light for rule of the night, and the stars.",
+        "spoken": "And God made the two great lights: the greater light to rule the day, and the lesser light to rule the night; He made the stars also.",
+        "literary": "And God made the two great lights: the greater light to rule the day, and the lesser light to rule the night; He made the stars also."
+      },
+      "analysis": "The Greek labels both lights great, then describes the first as great and the second with a comparative lesser. The inherited 'greater' makes the contextual comparison explicit; it is an English relational rendering, not the exact morphology of the first adjective. 'To rule' expresses the assigned function. 'He made' before stars supplies the verb already governing that final coordinated object; it does not add a second event. Sun and moon are not named in the source or inserted here.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-17",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:17",
+      "verse_anchor": "v1-17",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God set them in the firmament of heaven to shine upon the earth,",
+      "candidate_text": "And God set them in the firmament of heaven to shine upon the earth,",
+      "candidate_sha256": "140f7fa0d19f728fa3cfa6b37dda39e99049c61e21269452a3a4eb45b2168f63",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God placed them in the firmament of heaven, so as to shine upon the earth,",
+        "spoken": "And God set them in the firmament of heaven to shine upon the earth,",
+        "literary": "And God set them in the firmament of heaven to shine upon the earth,"
+      },
+      "analysis": "God remains the subject, the lights the object, and shining on the earth the purpose. The comma deliberately carries the purpose sequence into verse 18; the verse boundary is not a sentence boundary.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-18",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:18",
+      "verse_anchor": "v1-18",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "to rule the day and the night, and to divide the light from the darkness. And God saw that it was good.",
+      "candidate_text": "to rule the day and the night, and to divide the light from the darkness. And God saw that it was good.",
+      "candidate_sha256": "391d351e2db1eac832bd2d3e975f3374909290686d81cf8afec82981678ba963",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "and to rule the day and the night, and to separate between the light and the darkness. And God saw that it was good.",
+        "spoken": "to rule the day and the night, and to divide the light from the darkness. And God saw that it was good.",
+        "literary": "to rule the day and the night, and to divide the light from the darkness. And God saw that it was good."
+      },
+      "analysis": "The two coordinated infinitives continue verse 17's purpose clause. English 'to rule ... and to divide' preserves their parallelism. The Greek introduces this verse with 'and'; in the inherited sentence the comma plus continuation of the infinitive series serves this connection. The final evaluation is a new finite clause with God as explicit subject.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-19",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:19",
+      "verse_anchor": "v1-19",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And there was evening, and there was morning: a fourth day.",
+      "candidate_text": "And there was evening, and there was morning: a fourth day.",
+      "candidate_sha256": "6263a574355322f0b37e424f5ea5e819230615d31d73da0897476ddbbd6c94c2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And evening came, and morning came: a fourth day.",
+        "spoken": "And there was evening, and there was morning: a fourth day.",
+        "literary": "And there was evening, and there was morning: a fourth day."
+      },
+      "analysis": "Retain the doubled formula and the ordinal fourth. No extra liturgical response or 'behold' is introduced for cadence.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-20",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:20",
+      "verse_anchor": "v1-20",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let the waters bring forth living creatures that move, and birds that fly above the earth across the firmament of heaven.” And it was so.",
+      "candidate_text": "And God said, “Let the waters bring forth living creatures that move, and birds that fly above the earth across the firmament of heaven.” And it was so.",
+      "candidate_sha256": "dcfaba88c65984290622622ce27f5aa5b199211407bfccb3db7e81a648ae3134",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let the waters bring forth moving creatures of living beings, and birds flying upon the earth along the firmament of heaven.' And it was so.",
+        "spoken": "And God said, “Let the waters bring forth living creatures that move, and birds that fly above the earth across the firmament of heaven.” And it was so.",
+        "literary": "And God said, “Let the waters bring forth living creatures that move, and birds that fly above the earth across the firmament of heaven.” And it was so."
+      },
+      "analysis": "The Greek command makes waters the subject of bring forth and coordinates the living moving creatures and flying birds. The inherited English keeps that relation rather than silently changing to a separate command 'let birds fly.' 'Across' gives an intelligible spatial rendering of the phrase with firmament; its precise spatial nuance remains open. The fulfillment sentence belongs to the selected Greek and remains present.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-21",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:21",
+      "verse_anchor": "v1-21",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God made the great sea creatures, and every living creature that moves, which the waters brought forth according to their kinds, and every winged bird according to its kind. And God saw that they were good.",
+      "candidate_text": "And God made the great sea creatures, and every living creature that moves, which the waters brought forth according to their kinds, and every winged bird according to its kind. And God saw that they were good.",
+      "candidate_sha256": "01f06d5ab9fe477c56254b44854d80a397e88accf05d7d9c89327a3c651c67a5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God made the great sea creatures and every living being of moving animals which the waters brought forth according to their kinds, and every winged bird according to kind. And God saw that they were good.",
+        "spoken": "And God made the great sea creatures, and every living creature that moves, which the waters brought forth according to their kinds, and every winged bird according to its kind. And God saw that they were good.",
+        "literary": "And God made the great sea creatures, and every living creature that moves, which the waters brought forth according to their kinds, and every winged bird according to its kind. And God saw that they were good."
+      },
+      "analysis": "The sea-creature term is not narrowed to modern whales; the collective living/moving phrase and waters as producer are retained. The Greek alternates plural kinds for the aquatic creatures and singular kind for the bird category, reflected in the English. The evaluation is plural 'good'; 'they were good' makes that natural in English.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-22",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:22",
+      "verse_anchor": "v1-22",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God blessed them, saying, “Grow and multiply, and fill the waters in the seas; and let the birds multiply upon the earth.”",
+      "candidate_text": "And God blessed them, saying, “Grow and multiply, and fill the waters in the seas; and let the birds multiply upon the earth.”",
+      "candidate_sha256": "a90b237d7c4b63de02ce49995ae7f5b2e353b5d2fb8da8cffcf38b0b51c385af",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God blessed them, saying, 'Grow and multiply and fill the waters in the seas, and let the birds multiply upon the earth.'",
+        "spoken": "And God blessed them, saying, “Grow and multiply, and fill the waters in the seas; and let the birds multiply upon the earth.”",
+        "literary": "And God blessed them, saying, “Grow and multiply, and fill the waters in the seas; and let the birds multiply upon the earth.”"
+      },
+      "analysis": "The blessing contains three plural commands and then a separate third-person command for the birds. 'Grow' preserves the source's growth verb without substituting a different Hebrew-based formula automatically. 'Let the birds multiply' keeps the change in grammatical person. Divine speech to creatures takes ordinary imperatives, not Thou forms.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-23",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:23",
+      "verse_anchor": "v1-23",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And there was evening, and there was morning: a fifth day.",
+      "candidate_text": "And there was evening, and there was morning: a fifth day.",
+      "candidate_sha256": "20ea8838035e9ff7bafdadbc0ff8777b190da3dc431ee006444f1a6c59725ac8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And evening came, and morning came: a fifth day.",
+        "spoken": "And there was evening, and there was morning: a fifth day.",
+        "literary": "And there was evening, and there was morning: a fifth day."
+      },
+      "analysis": "Both event clauses and the fifth-day ordinal remain as in the recurring formula. The elevated cadence is achieved through source repetition, not additional words.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-24",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:24",
+      "verse_anchor": "v1-24",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let the earth bring forth living creatures according to their kind: four-footed animals, creeping things, and wild beasts of the earth according to their kind.” And it was so.",
+      "candidate_text": "And God said, “Let the earth bring forth living creatures according to their kind: four-footed animals, creeping things, and wild beasts of the earth according to their kind.” And it was so.",
+      "candidate_sha256": "da0e8fe99287af7bd01c9ae9540ba2a5e8677e06dcdfaf9e4effc8c73d76d582",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let the earth bring forth a living being according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it was so.",
+        "spoken": "And God said, “Let the earth bring forth living creatures according to their kind: four-footed animals, creeping things, and wild beasts of the earth according to their kind.” And it was so.",
+        "literary": "And God said, “Let the earth bring forth living creatures according to their kind: four-footed animals, creeping things, and wild beasts of the earth according to their kind.” And it was so."
+      },
+      "analysis": "The source introduces a singular collective living being before the category list. English plural 'living creatures' renders the collective category, not an added claim about a single individual. Four-footed animals are retained rather than prematurely equated with domesticated cattle; the following verse uses a different livestock term. The repeated kind formula and fulfillment remain.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-25",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:25",
+      "verse_anchor": "v1-25",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God made the wild beasts of the earth according to their kind, and the cattle according to their kind, and all the creeping things of the earth according to their kinds. And God saw that they were good.",
+      "candidate_text": "And God made the wild beasts of the earth according to their kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good.",
+      "candidate_sha256": "915e78c98f41f7feba06f81616c546a77895bc36a5597dfe946960969ac181c1",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God made the wild beasts of the earth according to kind, and the cattle according to kind, and all the creeping things of the earth according to their kind. And God saw that they were good.",
+        "spoken": "And God made the wild beasts of the earth according to their kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good.",
+        "literary": "And God made the wild beasts of the earth according to their kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good."
+      },
+      "analysis": "Propose singular 'their kind' in the final classification phrase: the Greek has singular kind with plural their, unlike the plural kinds in 1:21. The singular English is intelligible for a distributed class and preserves this source distinction. The three animal classes and repeated kind formulas remain. 'All' qualifies the creeping things here. 'Cattle' keeps the established broader traditional livestock term; its possible modern narrowing should be checked at read-aloud review. Plural 'they were good' reflects the plural evaluation.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": true,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-26",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:26",
+      "verse_anchor": "v1-26",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Let Us make man in Our image and likeness; and let them rule over the fish of the sea, the birds of heaven, the cattle, all the earth, and every creeping thing that creeps upon the earth.”",
+      "candidate_text": "And God said, “Let Us make man in Our image and likeness; and let them rule over the fish of the sea, the birds of heaven, the cattle, all the earth, and every creeping thing that creeps upon the earth.”",
+      "candidate_sha256": "f62f98a7352946fb6851a263bd8f5a8161c67872fd228376d45d51325df00f20",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Let Us make a human being according to Our image and according to likeness, and let them rule the fish of the sea and the birds of heaven and the cattle and all the earth and all the creeping things that creep upon the earth.'",
+        "spoken": "And God said, “Let Us make man in Our image and likeness; and let them rule over the fish of the sea, the birds of heaven, the cattle, all the earth, and every creeping thing that creeps upon the earth.”",
+        "literary": "And God said, “Let Us make man in Our image and likeness; and let them rule over the fish of the sea, the birds of heaven, the cattle, all the earth, and every creeping thing that creeps upon the earth.”"
+      },
+      "analysis": "The source switches from a singular collective human term to plural 'let them rule.' The inherited 'man ... them' preserves that structure but 'man' here denotes humanity, not males alone, as verse 27 confirms. Us/Our capitalization follows the benchmark and does not establish the identity of the plural speakers. The phrase about likeness shares the image phrase's possessive sense in English. The object list includes all the earth; it must not be dropped to match another tradition.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-27",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:27",
+      "verse_anchor": "v1-27",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God made man; in the image of God He made him; male and female He made them.",
+      "candidate_text": "And God made man; in the image of God He made him; male and female He made them.",
+      "candidate_sha256": "f572b081de0a79f2912019e9fdc12ca4f76887efd93a1fa433e7ec0520a32e6b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God made the human being; according to God's image He made him; male and female He made them.",
+        "spoken": "And God made man; in the image of God He made him; male and female He made them.",
+        "literary": "And God made man; in the image of God He made him; male and female He made them."
+      },
+      "analysis": "The source repeats the making verb three times and shifts singular him to plural them. The benchmark retains both repetition and number, and the explicit male/female pair. 'Man' is the collective human referent established in verse 26. No explanatory claim about social roles is inserted into the text.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-28",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:28",
+      "verse_anchor": "v1-28",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God blessed them, saying, “Grow and multiply, and fill the earth and subdue it. Rule over the fish of the sea, the birds of heaven, all the cattle, all the earth, and every creeping thing that creeps upon the earth.”",
+      "candidate_text": "And God blessed them, saying, “Grow and multiply, and fill the earth and subdue it. Rule over the fish of the sea, the birds of heaven, all the cattle, all the earth, and every creeping thing that creeps upon the earth.”",
+      "candidate_sha256": "e9144a394bee1612091dd1ea498974c984ca4e7cb79630ee5123082bd150099d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God blessed them, saying, 'Grow and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of heaven and all the cattle and all the earth and all the creeping things that creep upon the earth.'",
+        "spoken": "And God blessed them, saying, “Grow and multiply, and fill the earth and subdue it. Rule over the fish of the sea, the birds of heaven, all the cattle, all the earth, and every creeping thing that creeps upon the earth.”",
+        "literary": "And God blessed them, saying, “Grow and multiply, and fill the earth and subdue it. Rule over the fish of the sea, the birds of heaven, all the cattle, all the earth, and every creeping thing that creeps upon the earth.”"
+      },
+      "analysis": "The five coordinated plural imperatives are preserved, with a sentence break for natural speech before rule. The selected Greek repeats all with cattle, earth and creeping things, and the benchmark retains the broad list. Subdue and rule are not softened into an unexpressed ethical paraphrase; interpretation belongs outside the translation.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-29",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:29",
+      "verse_anchor": "v1-29",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Behold, I have given you every plant sowing seed upon all the earth, and every tree that bears fruit containing seed. These shall be yours for food.",
+      "candidate_text": "And God said, “Behold, I have given you every plant sowing seed upon all the earth, and every tree that bears fruit containing seed. These shall be yours for food.",
+      "candidate_sha256": "4ae1bf8c61cd3474e0d7ca0b420e9759fd2974e1a200544b214ea6d256a3dc95",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, 'Behold, I have given you every seed-bearing plant sowing seed which is upon all the earth, and every tree which has in itself fruit with seed for sowing; it shall be food for you,",
+        "spoken": "And God said, “Behold, I have given you every plant sowing seed upon all the earth, and every tree that bears fruit containing seed. These shall be yours for food.",
+        "literary": "And God said, “Behold, I have given you every plant sowing seed upon all the earth, and every tree that bears fruit containing seed. These shall be yours for food."
+      },
+      "analysis": "The demonstrative attention word, completed giving, plural recipients and two food categories are retained. 'Plant sowing seed' represents the plant adjective and participle together. In the tree phrase the adjective qualifies the seed as suitable for sowing; 'fruit with seed for sowing' restructures the genitive phrase into intelligible English. The literary draft compresses that quality to 'containing seed'; this remains a point for lexical review. The future 'shall be' is retained. The sentence continues into the animals' allocation in verse 30.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-30",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:30",
+      "verse_anchor": "v1-30",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And to every wild beast of the earth, every bird of heaven, and every creeping thing upon the earth that has life within it, I have given every green plant for food.” And it was so.",
+      "candidate_text": "And to every wild beast of the earth, every bird of heaven, and every creeping thing upon the earth that has life within it, I have given every green plant for food.” And it was so.",
+      "candidate_sha256": "05cc1d61c337fff472c4043e4c05ab08b80733c74d2327bcd31d7834bb588821",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "and to all the wild beasts of the earth and to all the birds of heaven and to every creeping thing that creeps upon the earth which has in itself a living soul, every green plant for food.' And it was so.",
+        "spoken": "And to every wild beast of the earth, every bird of heaven, and every creeping thing upon the earth that has life within it, I have given every green plant for food.” And it was so.",
+        "literary": "And to every wild beast of the earth, every bird of heaven, and every creeping thing upon the earth that has life within it, I have given every green plant for food.” And it was so."
+      },
+      "analysis": "The repeated dative recipients continue the giving verb in verse 29; the inherited 'I have given' makes that governing verb audible across the verse boundary and is grammatically supplied, not a new Greek verb here. 'Has life within it' represents the living-being/life expression without importing an immortal-soul doctrine. The close draft's living soul refers to animate life, not the different breath noun in Genesis 2:7. 'Every' distributes the animal classes and green plants. The fulfillment returns to narration after the quotation.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-001-genesis-1-31",
+      "batch_id": "OT-001",
+      "book_id": "genesis",
+      "reference": "Genesis 1:31",
+      "verse_anchor": "v1-31",
+      "reading_section_id": "1",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God saw all that He had made, and behold, it was very good. And there was evening, and there was morning: a sixth day.",
+      "candidate_text": "And God saw all that He had made, and behold, it was very good. And there was evening, and there was morning: a sixth day.",
+      "candidate_sha256": "2c428e00e2b35886cdc289599226f597997eb0c32848c3671705a8b02c1ec098",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.1",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God saw all the things that He had made, and behold, they were very good. And evening came, and morning came: a sixth day.",
+        "spoken": "And God saw all that He had made, and behold, it was very good. And there was evening, and there was morning: a sixth day.",
+        "literary": "And God saw all that He had made, and behold, it was very good. And there was evening, and there was morning: a sixth day."
+      },
+      "analysis": "The whole set of things made is evaluated. Greek plural 'good' is naturally collective English 'it was very good' in the benchmark; the intensifier very and behold are both warranted here. Both repeated event clauses and the ordinal sixth remain. No retrospective commentary is added.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Whole-verse running-text comparison and independently phrased close draft; not exhaustive token alignment or specialist certification.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    }
+  ]
+}

@@ -53,6 +53,14 @@ Where full Greek reproduction is not permitted, store source locators and allowe
 
 This register records the limits of this planning inspection. It is not a newly verified rights grant, a complete bibliography, an imported critical text or a substitute for examining the Greek.
 
+## 12 November 2026 — Old Testament assignment and opening comparisons
+
+The latest owner instruction limits new work to all 43 OT books. The [OT manuscript manifest](../editions/2026-11-12-ot-reading-draft/manifest.json) inventories the inherited text at commit `39a2bb990f252f9c867879f14942b200c4a86aa5`, including attached continuation paragraphs and special sections. Its preserved source histories are historical records, not freshly certified collations.
+
+The publisher's complete displayed running text was actually read for [Genesis 1](https://www.die-bibel.de/en/bible/LXX/GEN.1), [Genesis 2](https://www.die-bibel.de/en/bible/LXX/GEN.2), [Genesis 3](https://www.die-bibel.de/en/bible/LXX/GEN.3), and [Jonah 1](https://www.die-bibel.de/en/bible/LXX/JON.1), [2](https://www.die-bibel.de/en/bible/LXX/JON.2), [3](https://www.die-bibel.de/en/bible/LXX/JON.3), [4](https://www.die-bibel.de/en/bible/LXX/JON.4) on 12 November 2026. Each page identifies Rahlfs–Hanhart 2006, Deutsche Bibelgesellschaft. The three dated OT review folders contain 128 focused verse comparisons; Genesis 1 also supplies 31 close drafts. These are AI analyses, without full token-accounting claims. No full Greek text is redistributed, and no new rights grant is inferred from public access.
+
+No critical apparatus, Göttingen volume or specialist Septuagint lexicon was consulted for these opening records. The general Middle Liddell entry for *pheidomai* was read for the provisional Jonah 4:10–11 proposal; the exact locator and limits appear in the [Jonah record](../reviews/2026-11-12-OT-003-jonah/README.md). Textual/source differences are preserved within the selected running text; they are not claimed as freshly collated manuscript variants. Independent human Greek review, human reading aloud, acceptance and website publication remain open. The benchmark's original Genesis files remain unchanged; candidate changes are explicit proposals in the dated working edition.
+
 ## GT-003 — John 1:1–18, 12 November 2026
 
 [Batch evidence](../reviews/2026-11-12-GT-003-john-1-1-18/sources.json) records actual access to the publisher’s NA28 running text for all eighteen verses and 252 tokens. The bounded lexical sequence was compared with the openly licensed SBLGNT; punctuation differences are recorded. MorphGNT supplies openly licensed morphology, with its John 1:9 participle tag explicitly distinguished from the candidate’s selected parse. The SBL edition-comparison apparatus was read only at 1:15, 1:16 and 1:18. It is not the NA28 manuscript apparatus.

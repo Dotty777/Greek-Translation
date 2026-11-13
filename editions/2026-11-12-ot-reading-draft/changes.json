@@ -1,0 +1,122 @@
+{
+  "status": "unaccepted_proposals",
+  "changes": [
+    {
+      "book_id": "genesis",
+      "reading_section_id": "genesis-section-1",
+      "verse_anchor": "v1-25",
+      "reference": "Genesis 1:25",
+      "baseline_text": "And God made the wild beasts of the earth according to their kind, and the cattle according to their kind, and all the creeping things of the earth according to their kinds. And God saw that they were good.",
+      "candidate_text": "And God made the wild beasts of the earth according to their kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good.",
+      "candidate_sha256": "915e78c98f41f7feba06f81616c546a77895bc36a5597dfe946960969ac181c1",
+      "benchmark_proposal": true,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json",
+      "rationale": "Propose singular 'their kind' in the final classification phrase: the Greek has singular kind with plural their, unlike the plural kinds in 1:21. The singular English is intelligible for a distributed class and preserves this source distinction. The three animal classes and repeated kind formulas remain. 'All' qualifies the creeping things here. 'Cattle' keeps the established broader traditional livestock term; its possible modern narrowing should be checked at read-aloud review. Plural 'they were good' reflects the plural evaluation."
+    },
+    {
+      "book_id": "genesis",
+      "reading_section_id": "genesis-section-2",
+      "verse_anchor": "v2-9",
+      "reference": "Genesis 2:9",
+      "baseline_text": "And God caused every tree that was beautiful to behold and good for food to spring up from the earth, with the tree of life in the midst of the garden, and the tree of the knowledge of good and evil.",
+      "candidate_text": "And God also caused every tree that was beautiful to behold and good for food to spring up from the earth, with the tree of life in the midst of the garden, and the tree of the knowledge of good and evil.",
+      "candidate_sha256": "f5753c25d8d3e0d216666c35349d88cb17fe317c37476e53b7750ddb08f94b78",
+      "benchmark_proposal": true,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "rationale": "The inherited wording accounts for the trees' visual beauty, food, life and knowledge, but leaves the source's eti unexpressed. Propose 'also caused' to preserve its additive force, consistent with 'also formed' in 2:19. The knowledge-tree construction is compressed into intelligible English without claiming its syntax has no difficulty. 'Knowledge' remains preferable here to adding moral autonomy or an explanation of the tree's power."
+    },
+    {
+      "book_id": "genesis",
+      "reading_section_id": "genesis-section-2",
+      "verse_anchor": "v2-22",
+      "reference": "Genesis 2:22",
+      "baseline_text": "And the Lord God fashioned the rib He had taken from Adam into a woman, and brought her to Adam.",
+      "candidate_text": "And the Lord God built the rib He had taken from Adam into a woman, and brought her to Adam.",
+      "candidate_sha256": "2e892127a2cafc9a2fe84533cf023615067d881eb3e22849961a26fc4b0ebde3",
+      "benchmark_proposal": true,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "rationale": "The source uses a building verb for the transformation of the taken rib into a woman. Propose 'built' in place of 'fashioned' to retain that concrete image and distinguish it from the earlier forming vocabulary. 'Built the rib ... into a woman' is unusual but intelligible English. Rib/side remains an unresolved lexical choice from 2:21; this proposal changes the verb only."
+    },
+    {
+      "book_id": "genesis",
+      "reading_section_id": "genesis-section-3",
+      "verse_anchor": "v3-5",
+      "reference": "Genesis 3:5",
+      "baseline_text": "For God knew that on the day you ate of it, your eyes would be opened, and you would be as gods, knowing good and evil.”",
+      "candidate_text": "For God knew that on the day you eat of it, your eyes will be opened, and you will be as gods, knowing good and evil.”",
+      "candidate_sha256": "1796653285d3aad90436c0eef4d8fd2818ebfdf995b650b54044aff2a522c135",
+      "benchmark_proposal": true,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "rationale": "The source has a past knowing verb followed by an eating condition and future eye-opening and becoming clauses. Propose present/future English within the serpent's direct speech so 'you ate ... would be' is not mistaken for an already completed meal. Preserve 'God knew' rather than silently changing that source tense. The plural gods remains, without deciding whether the comparison denotes deities or divine beings. No doctrinal explanation is inserted."
+    },
+    {
+      "book_id": "genesis",
+      "reading_section_id": "genesis-section-3",
+      "verse_anchor": "v3-7",
+      "reference": "Genesis 3:7",
+      "baseline_text": "And the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made coverings for themselves.",
+      "candidate_text": "And the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made coverings about their waists.",
+      "candidate_sha256": "a5eddef50dd354617076b0c53dc411bdb16dab91d53c0d75e4ec9bb28e9b9a45",
+      "benchmark_proposal": true,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "rationale": "The opening of both pairs of eyes, recognition of nakedness, sewing of fig leaves and making of coverings are present. Propose 'coverings about their waists' because the garment term is more specific than unqualified coverings and refers to something girded around the body. This is not an assertion about a precise garment pattern or its dimensions; the narrative image is simply made clearer."
+    },
+    {
+      "book_id": "genesis",
+      "reading_section_id": "genesis-section-3",
+      "verse_anchor": "v3-22",
+      "reference": "Genesis 3:22",
+      "baseline_text": "And God said, “Behold, Adam has become as one of Us, knowing good and evil. And now, lest he stretch forth his hand and take also from the tree of life, and eat, and live for ever—”",
+      "candidate_text": "And God said, “Behold, Adam has become as one of Us, knowing good and evil. And now, lest he stretch forth his hand and take from the tree of life, and eat, and live for ever—”",
+      "candidate_sha256": "45ececd0e4807519264179feb59b546dbe76454926e9494665f2e7d0a564765a",
+      "benchmark_proposal": true,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+      "rationale": "The becoming-like-one-of-us clause concerns knowing good and evil; the prevention clause then lists reaching, taking, eating and living forever. Propose deleting 'also' before 'from the tree of life': the source coordinates the actions with and, but does not separately mark this taking as 'also'. The unfinished-speech dash is an English presentation choice. Plural Us is retained without specifying its referent or resolving the speech's tone."
+    },
+    {
+      "book_id": "jonah",
+      "reading_section_id": "jonah-section-3",
+      "verse_anchor": "v3-9",
+      "reference": "Jonah 3:9",
+      "baseline_text": "“Who knows whether God will relent and turn from His fierce anger, so that we certainly do not perish?”",
+      "candidate_text": "“Who knows whether God will relent and turn from His fierce anger, so that we shall not perish?”",
+      "candidate_sha256": "642811a48c8a382b9424c17555b268a5426e973342aad424f7c5c18a7bce1d95",
+      "benchmark_proposal": false,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-003-jonah/focused-reviews.json",
+      "rationale": "Propose a natural future result clause: so that we shall not perish. The displayed emphatic negative with a subjunctive expresses non-perishing, but certainly do not is awkward under the opening who-knows question and can sound like an independent present guarantee. The question remains conditional on God's possible relenting; shall not carries the firm negative without adding an assurance outside that question. His fierce anger represents the paired wrath terms. Full mood/discourse review remains open."
+    },
+    {
+      "book_id": "jonah",
+      "reading_section_id": "jonah-section-4",
+      "verse_anchor": "v4-10",
+      "reference": "Jonah 4:10",
+      "baseline_text": "The Lord said, “You spared the gourd, over which you did not toil and which you did not nurture, which came to be in a night and perished in a night.",
+      "candidate_text": "The Lord said, “You had pity on the gourd, over which you did not toil and which you did not nurture, which came to be in a night and perished in a night.",
+      "candidate_sha256": "5080c71e0dd975d627ca1a3f6710a7d061dd283d5d9042bb83ac8b7fa7754b77",
+      "benchmark_proposal": false,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-003-jonah/focused-reviews.json",
+      "rationale": "Propose had pity on for the past form of pheidomai with the gourd as its concern. In context Jonah mourned its loss; You spared can misleadingly imply that he successfully preserved it. The same verb recurs in 4:11, where the proposed have pity on preserves that link. Middle Liddell was consulted for the general range of sparing, mercy and care; the choice here is a contextual inference, not a specialist LXX entry or apparatus verdict. The denied labor/nurture and repeated night are unchanged."
+    },
+    {
+      "book_id": "jonah",
+      "reading_section_id": "jonah-section-4",
+      "verse_anchor": "v4-11",
+      "reference": "Jonah 4:11",
+      "baseline_text": "And shall I not spare Nineveh, the great city, in which dwell more than one hundred and twenty thousand people who do not know their right from their left, and much livestock?”",
+      "candidate_text": "And shall I not have pity on Nineveh, the great city, in which dwell more than one hundred and twenty thousand people who do not know their right from their left, and much livestock?”",
+      "candidate_sha256": "86015a14757401efa20d236150b646f7e05556c874b108020bb3680c390c766c",
+      "benchmark_proposal": false,
+      "editorial_acceptance": "pending",
+      "evidence": "reviews/2026-11-12-OT-003-jonah/focused-reviews.json",
+      "rationale": "Propose have pity on to match the same verb in 4:10 while retaining the divine first-person future question. Its contextual implication includes sparing the city, not merely an abstract emotion. The great-city description, more than 120,000 people, right/left ignorance and many livestock are retained. The people are not identified as infants, and the concluding question is not replaced by a doctrinal explanation. The lexical choice remains a proposal requiring review."
+    }
+  ]
+}

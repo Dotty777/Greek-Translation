@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "date": "2026-11-12",
+  "reader_sha256": "25c783b577a9528219e3bf43e2007d1f200bd9bed2eeeb1642bfa29f68a687b4",
+  "environment": "Headless Chrome on Windows; local file, 1440×1000 and 390×844",
+  "checks": [
+    "All 43 books available",
+    "26,580 units and seven continuations rendered",
+    "Nine proposals visibly marked",
+    "All 1,037 reading sections rendered",
+    "Book picker shows Jonah only",
+    "Book links update filtered view",
+    "Proposal exposes inherited wording and evidence",
+    "Deep link opens Daniel additions",
+    "Print includes every book despite screen filter",
+    "No horizontal overflow at 390px",
+    "Selected-book view fits 390px",
+    "Jonah 4 proposal and inherited comparison are readable on mobile",
+    "Book control is keyboard focusable",
+    "No JavaScript page errors"
+  ],
+  "limits": "Automated functional checks and screenshots, not human reading aloud or an accessibility conformance audit."
+}
