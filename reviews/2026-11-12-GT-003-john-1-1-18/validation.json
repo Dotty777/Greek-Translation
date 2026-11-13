@@ -1,0 +1,61 @@
+{
+  "batch_id": "GT-003",
+  "scope": "Structural and evidence-link checks only; no claim of automated proof of translation accuracy.",
+  "checks": [
+    {
+      "name": "Exactly 18 distinct inherited verse anchors",
+      "passed": true
+    },
+    {
+      "name": "Exactly 252 source tokens",
+      "passed": true
+    },
+    {
+      "name": "No duplicate token IDs",
+      "passed": true
+    },
+    {
+      "name": "Every token has a valid exact English selector",
+      "passed": true
+    },
+    {
+      "name": "Alignment ranges cover each token exactly once",
+      "passed": true
+    },
+    {
+      "name": "Six changes and twelve retained candidates",
+      "passed": true
+    },
+    {
+      "name": "All five studies reference exact candidate hashes and spans",
+      "passed": true
+    },
+    {
+      "name": "Study Greek token IDs resolve to the same verse",
+      "passed": true
+    },
+    {
+      "name": "Study evidence IDs resolve",
+      "passed": true
+    },
+    {
+      "name": "Review and deployment statuses remain pending",
+      "passed": true
+    },
+    {
+      "name": "John 1:9 parse override is explicit",
+      "passed": true
+    }
+  ],
+  "counts": {
+    "verses": 18,
+    "greek_tokens": 252,
+    "retained": 12,
+    "proposed_changes": 6,
+    "word_study_drafts": 5,
+    "independent_reviews": 0,
+    "human_read_aloud_reviews": 0,
+    "editorial_acceptances": 0,
+    "published_verses": 0
+  }
+}

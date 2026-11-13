@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "GT-003",
+  "snapshot_id": "GT-003-draft-1",
+  "date": "2026-11-12",
+  "title": "John 1:1–18 — Bespoke Saints English",
+  "status": "provisional_source_checked_ai_draft",
+  "priority": "New Testament first, as requested by Vince in this task",
+  "baseline_repository_commit": "ed9682d8d31992d463063b60a98ac05ac24c620a",
+  "website_roadmap_baseline": "8f18a02a607f8c6914542cf6425c8b87d2801005",
+  "source_edition": "NT-NA28",
+  "counts": {
+    "verses": 18,
+    "greek_tokens": 252,
+    "retained": 12,
+    "proposed_changes": 6,
+    "word_study_drafts": 5,
+    "independent_reviews": 0,
+    "human_read_aloud_reviews": 0,
+    "editorial_acceptances": 0,
+    "published_verses": 0
+  },
+  "source_scope": "All 18 verses and 252 Greek tokens; no migration to UBS6/GNT6. Open SBLGNT is a licensed token/edition-comparison witness, not a silent change of base.",
+  "source_comparison": {
+    "lexical_sequence": "No lexical-sequence differences observed between displayed NA28 and the SBLGNT witness in John 1:1–18, ignoring case, elision glyphs and punctuation-conditioned accents.",
+    "punctuation_differences": [
+      "NA28 adds a comma before sent in 1:6.",
+      "NA28 sets off the relative clause in 1:9 with commas; SBLGNT does not. This does not by itself settle the participle’s attachment.",
+      "SBLGNT encloses 1:15 in parentheses and ends 1:14 with a middle dot; NA28 presents 1:14 and 1:15 as separate sentences.",
+      "SBLGNT includes edition-apparatus markers at 1:15,16,18; these are not source tokens."
+    ],
+    "critical_apparatus_complete": false
+  },
+  "roles": [
+    {
+      "identity": "OpenAI Codex assistant",
+      "role": "AI translator and evidence recorder",
+      "independent": false
+    }
+  ],
+  "pending": [
+    "Full specialist NT lexicon and grammar review, particularly monogenēs.",
+    "NA28 critical apparatus and UBS6/GNT6 migration comparison.",
+    "Qualified independent Greek review.",
+    "Human read-aloud review of this exact candidate.",
+    "Vince’s editorial decisions on six proposed changes and disputed readings.",
+    "Accepted-text publishing, popup adapter inventory, staging/output/offline verification."
+  ],
+  "next_translation": {
+    "id": "NT-JHN-002",
+    "scope": "John 1:19–34",
+    "status": "not_started"
+  },
+  "subsequent_sequence": [
+    "John 1:35–51",
+    "Remaining John chapters",
+    "Matthew",
+    "Mark",
+    "Luke",
+    "Acts and remaining Discipleship books in roadmap order",
+    "Revelation"
+  ],
+  "parallel_content_note": "GT-005 Romans/James comparison and the James 2:24 study remain queued within NT calibration; no automatic or scheduled future work is created.",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "2dc2859960b26c7c1ac8d600fa9d4b79b1110854fd18743e864267a68a89fa83",
+      "bytes": 23230
+    },
+    {
+      "path": "reading.txt",
+      "sha256": "08ce962e33953b611708ae351f0c6335526f8b18cb7082f67436366a01a082fd",
+      "bytes": 1779
+    },
+    {
+      "path": "verse-reviews.json",
+      "sha256": "60116b48e19f09b19a50ebabe8556ab2ae55bc684ab8267b81aee4625ebd07c9",
+      "bytes": 430379
+    },
+    {
+      "path": "word-studies.json",
+      "sha256": "ad61f1b6f99549f60e5dc6c5557cb1309a104a1ec6b6d57c91d2e490cde7e1df",
+      "bytes": 21903
+    },
+    {
+      "path": "sources.json",
+      "sha256": "eee996bda572d9954fde508e1a847228bd7a38b3b07be9805fbd364739c06955",
+      "bytes": 5264
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "5df643ef1b4a011995da4fe0661f5047d27284cb2f3fe1f2b22288ef755e05fc",
+      "bytes": 1503
+    },
+    {
+      "path": "validation.json",
+      "sha256": "fca8e4c88ff78329c9391363fc386247d3bd9857474b21cc6086e246de271a2b",
+      "bytes": 1422
+    }
+  ]
+}

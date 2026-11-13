@@ -1,6 +1,6 @@
 # Bespoke Saints English — Greek Translation Roadmap
 
-**Version 1.0 · 12 November 2026 · Planning baseline**
+**Version 1.1 · 12 November 2026 · New Testament work begun**
 
 **Governing order: Greek fidelity → natural reading aloud → reverent poetic English.** A later stage may improve an earlier rendering only while preserving its meaning. This roadmap begins a documented, source-led translation and review programme for the existing Saints seventy-book edition.
 
@@ -23,7 +23,7 @@ The same records leave complete verse-by-verse Greek collation, full critical-ap
 
 **This programme will establish a traceable Greek-to-English record for every unit.** Draft directly from the identified Greek passage, then compare with the inherited Saints rendering. Retain good existing wording when the evidence supports it; record changes when it does not. Avoid treating an English polishing pass as a new translation from Greek.
 
-**Current programme status:** roadmap, standard, source register, tracker and review template prepared. No new verse translations or specialist approvals are claimed by this documentation release.
+**Current programme status:** New Testament first, at Vince’s request. [GT-003: John 1:1–18](reviews/2026-11-12-GT-003-john-1-1-18/README.md) now has a provisional Greek-led draft, 18 verse records, 252 token alignments and five word-study drafts. Twelve candidate readings retain inherited wording; six propose changes. Independent Greek review, human read-aloud review and editorial acceptance remain pending. No inherited Scripture file or website wording is replaced by this batch.
 
 ## 2. The translation covenant
 
@@ -64,7 +64,7 @@ Preserve the project's selected **43 Old Testament and 27 New Testament books**,
 | Discipleship | 22 | Acts, Romans, 1–2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1–2 Thessalonians, 1–2 Timothy, Titus, Philemon, Hebrews, James, 1–2 Peter, 1–3 John, Jude |
 | Glory | 1 | Revelation |
 
-After calibration, proceed in this order. Cross-book quotation comparisons and source-access work can be done alongside the current book without implying that those other books are complete.
+**Current priority override — 12 November 2026:** Vince requested the New Testament first. Start with GT-003 (John 1:1–18), continue John 1:19–34 and 1:35–51, then complete John. Continue Matthew, Mark, Luke, the Discipleship books in the table’s order, and Revelation. The OT batches remain queued for after the NT; Genesis benchmark status is preserved. GT-005 (Romans/James) and the James 2:24 study can be taken as NT calibration work. Cross-book comparisons do not imply that those books are complete.
 
 Keep Psalm 151, Greek Esther's additions and continuation material, Old Greek Daniel with its additions and preface, Sirach's prologue, and Proverbs' split reading sections visible in the inventory. Preserve Greek numbering, lettered/grouped units and meaningful gaps. Map alternate labels explicitly; never manufacture missing verses merely to match a conventional English count.
 
@@ -93,7 +93,7 @@ Phases 2–4 repeat by passage and book. A book may have a provisional reading r
 | **GT-005** | Romans 3:21–31 and James 2:14–26 | Test contextual consistency for faith, works, righteousness and justification. | Greek-based lexical and syntactic decisions; theological explanation remains in notes. |
 | **GT-006** | Esther continuation material, Daniel preface/additions, Sirach prologue, Proverbs split sections | Prove the publishing model can preserve exceptional units before scaling. | Mapping records and fixture-based export/link checks; this is not a claim of full-book translation. |
 
-**Next action:** start GT-001 by verifying the Genesis 1 Greek source and recording a fresh close draft beside the current accepted wording. If Göttingen access is unavailable, document that gap and use the already authorized Rahlfs–Hanhart provisional route; do not label it Göttingen-checked.
+**Next action:** continue with **John 1:19–34** (NT-JHN-002) against the accessed NA28 running text, while GT-003’s six proposed wording changes and unresolved choices await editorial and specialist review. [Read GT-003](reviews/2026-11-12-GT-003-john-1-1-18/README.md). GT-001 and GT-002 remain queued under the original OT source policy; no new Göttingen or UBS6 collation is claimed.
 
 Keep batches small enough to finish their evidence records. A starting size of 5–20 units is a planning suggestion, not a daily quota. Measure actual translation, review and correction time over the first three completed batches, then forecast by book and genre. Do not promise whole-Bible completion from raw word counts or editing speed.
 
@@ -167,7 +167,9 @@ The website roadmap's source cards, release manifests, revision explorer and dow
 - [ ] Reconcile historical source/check evidence into the new tracker.
 - [ ] Verify the exact source access and rights needed for GT-001 and later UBS6/Göttingen work.
 - [ ] Inventory the current highlighted studies and prepare the James 2:24 popup pilot (WS-001–WS-002).
-- [ ] Complete GT-001, then the remaining Genesis 1 pilot.
+- [x] Prepare the NT-first GT-003 John 1:1–18 draft with all 18 unit records and 252 token alignments; acceptance stages remain open.
+- [ ] Continue John 1:19–34, then 1:35–51 and the rest of John.
+- [ ] Complete the deferred GT-001 and remaining Genesis 1 pilot after the NT priority work.
 - [ ] Record human language/read-aloud review and concrete editorial decisions.
 - [ ] Establish the measured book-by-book production forecast.
 - [ ] Release the first accepted batch to staging with verified output parity.

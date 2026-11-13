@@ -14,7 +14,7 @@
     "count_evidence": "review-2026-11-09.md",
     "counts_freshly_recomputed": false
   },
-  "status": "planning_prepared",
+  "status": "new_testament_translation_underway",
   "new_programme_completed_units": 0,
   "counting_policy": "Zero counts refer only to new programme work. Historical scoped review coverage is not yet reconciled, not assumed absent. Null means unknown, not zero. Count distinct composite passage identities against the recorded snapshot.",
   "stage_keys": [
@@ -27,12 +27,12 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "GT-001",
-    "book": "Genesis",
-    "scope": "Genesis 1:1–5",
+    "id": "NT-JHN-002",
+    "book": "John",
+    "scope": "John 1:19–34",
     "status": "not_started",
-    "first_step": "Verify the exact Genesis 1 source, then record fresh close drafts beside accepted wording.",
-    "source_policy": "Use the already authorized Rahlfs–Hanhart provisional route if Göttingen is inaccessible, preserving the access limitation."
+    "first_step": "Access the exact Greek running text and record source-led drafts beside inherited wording.",
+    "source_policy": "Continue the authorized provisional NA28 base; record UBS6/GNT6 migration separately when accessed and collated."
   },
   "word_studies": {
     "next_batch": "WS-001",
@@ -40,34 +40,47 @@
     "status": "planned_with_draft_example",
     "existing_coverage_total": null,
     "new_published_studies": 0,
-    "new_source_checked_studies": 0,
+    "new_source_checked_studies": 2,
     "new_independently_reviewed_studies": 0,
-    "notes": "Example content and workflow documented in docs/WORD-STUDIES.md; no live studies updated."
+    "notes": "Five John occurrence-study drafts are tied to GT-003 candidate hashes; two include consulted general lexical entries. Three retain specialist lexical questions. Source-checked here is bounded preliminary evidence, not completed specialist review. James 2:24 remains the planned website popup pilot; live inventory and adapter work are unstarted. No live studies updated.",
+    "new_drafted_studies": 5,
+    "new_running_text_checked_studies": 5,
+    "evidence": [
+      "reviews/2026-11-12-GT-003-john-1-1-18/word-studies.json"
+    ]
   },
   "batches": [
     {
       "id": "GT-001",
       "scope": "Genesis 1:1–5",
       "status": "not_started",
-      "evidence": []
+      "evidence": [],
+      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
     },
     {
       "id": "GT-002",
       "scope": "Remainder of Genesis 1",
       "status": "not_started",
-      "evidence": []
+      "evidence": [],
+      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
     },
     {
       "id": "GT-003",
       "scope": "John 1:1–18",
-      "status": "not_started",
-      "evidence": []
+      "status": "provisional_draft_prepared_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-GT-003-john-1-1-18/README.md",
+        "reviews/2026-11-12-GT-003-john-1-1-18/verse-reviews.json",
+        "reviews/2026-11-12-GT-003-john-1-1-18/manifest.json",
+        "reviews/2026-11-12-GT-003-john-1-1-18/validation.json"
+      ]
     },
     {
       "id": "GT-004",
       "scope": "Psalm 22 LXX / 23 MT; Isaiah 53; Acts 8:32–35",
       "status": "not_started",
-      "evidence": []
+      "evidence": [],
+      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
     },
     {
       "id": "GT-005",
@@ -79,7 +92,8 @@
       "id": "GT-006",
       "scope": "Exceptional reading-unit publishing fixtures",
       "status": "not_started",
-      "evidence": []
+      "evidence": [],
+      "priority_note": "Deferred behind New Testament priority; original scope and unfinished status retained."
     },
     {
       "id": "WS-001",
@@ -108,6 +122,12 @@
     {
       "id": "WS-005",
       "scope": "Book-by-book word-study expansion",
+      "status": "not_started",
+      "evidence": []
+    },
+    {
+      "id": "NT-JHN-002",
+      "scope": "John 1:19–34",
       "status": "not_started",
       "evidence": []
     }
@@ -2882,16 +2902,20 @@
       "legacy_records": "john/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "john/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "partial_provisional_draft_prepared",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
       "total_units_verified_for_programme": null,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
-          "new_programme_units": 0,
+          "new_programme_units": 18,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [
+            "reviews/2026-11-12-GT-003-john-1-1-18/verse-reviews.json",
+            "reviews/2026-11-12-GT-003-john-1-1-18/sources.json"
+          ],
+          "scope_note": "John 1:1–18: all running-text tokens and English alignment, by the AI assistant; not independent language or full apparatus review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2928,10 +2952,16 @@
         "existing_occurrences": null,
         "reviewed_current_occurrences": null,
         "stale_occurrences": null,
-        "published_new_occurrences": 0
+        "published_new_occurrences": 0,
+        "new_drafted_occurrences": 5
       },
-      "issues": [],
-      "next_batch": null
+      "issues": [
+        "Full critical apparatus and UBS6/GNT6 migration remain pending.",
+        "Independent Greek, human read-aloud and editorial review remain pending.",
+        "John 1:3–4 punctuation, 1:5 lexical sense, 1:9 attachment, 1:14/18 monogenēs, and 1:16 interpretation need review."
+      ],
+      "next_batch": "NT-JHN-002",
+      "new_programme_drafted_units": 18
     },
     {
       "order": 48,
@@ -4313,5 +4343,7 @@
       "issues": [],
       "next_batch": null
     }
-  ]
+  ],
+  "new_programme_drafted_units": 18,
+  "current_priority": "New Testament first: John pilot and remaining John, then Matthew, Mark, Luke, Discipleship and Revelation."
 }

@@ -52,3 +52,9 @@ Where full Greek reproduction is not permitted, store source locators and allowe
 - [Existing Genesis source checks](../genesis/source-checks.json), [Esther source checks](../esther/source-checks.json), [Daniel record](../daniel/README.md), [Sirach record](../sirach/README.md), [NT access history](../progress.json), and [9 November review](../review-2026-11-09.md).
 
 This register records the limits of this planning inspection. It is not a newly verified rights grant, a complete bibliography, an imported critical text or a substitute for examining the Greek.
+
+## GT-003 — John 1:1–18, 12 November 2026
+
+[Batch evidence](../reviews/2026-11-12-GT-003-john-1-1-18/sources.json) records actual access to the publisher’s NA28 running text for all eighteen verses and 252 tokens. The bounded lexical sequence was compared with the openly licensed SBLGNT; punctuation differences are recorded. MorphGNT supplies openly licensed morphology, with its John 1:9 participle tag explicitly distinguished from the candidate’s selected parse. The SBL edition-comparison apparatus was read only at 1:15, 1:16 and 1:18. It is not the NA28 manuscript apparatus.
+
+Two general lexical entries and a partial monogenēs headword lookup inform preliminary notes; the partial lookup is not credited as a completed specialist study. Full NA28 apparatus, UBS6/GNT6, independent Greek and human read-aloud review remain open. Reproduced token forms come from the attributed SBLGNT witness; no full NA28 corpus or private rights correspondence is redistributed. See [attribution](../reviews/2026-11-12-GT-003-john-1-1-18/ATTRIBUTION.md).

@@ -1,0 +1,83 @@
+{
+  "batch_id": "GT-003",
+  "evidence": [
+    {
+      "id": "E-NA28",
+      "title": "Nestle–Aland 28, German Bible Society online running text",
+      "url": "https://www.die-bibel.de/en/bible/NA28/JHN.1",
+      "scope": "John 1:1–18, all 252 lexical tokens and displayed punctuation read. No printed critical apparatus was accessed.",
+      "accessed_on": "2026-11-12",
+      "edition": "Novum Testamentum Graece, 28th revised edition, 2012",
+      "reproduction": "Full NA28 text is not redistributed. Reproduced Greek forms derive from the separately attributed open SBLGNT witness."
+    },
+    {
+      "id": "E-SBL",
+      "title": "SBLGNT official text, John 1:1–18",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/d7f35adca9ec410e1d1499c63b4dd989d76c8d4d/data/sblgnt/text/John.txt",
+      "repository_commit": "d7f35adca9ec410e1d1499c63b4dd989d76c8d4d",
+      "file_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+      "scope": "All 18 verses compared as a word-form witness. Agreement in lexical sequence does not establish agreement in punctuation, apparatus or the rest of John.",
+      "accessed_on": "2026-11-12"
+    },
+    {
+      "id": "E-SBL-APP",
+      "title": "SBLGNT edition-comparison apparatus, John 1:15,16,18",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/d7f35adca9ec410e1d1499c63b4dd989d76c8d4d/data/sblgntapp/text/John.txt",
+      "scope": "Read only these three entries. Reports edition readings at 1:15, 1:16 and 1:18; not a manuscript or NA28-apparatus collation.",
+      "accessed_on": "2026-11-12"
+    },
+    {
+      "id": "E-MORPH",
+      "title": "MorphGNT SBLGNT tokenization, lemmas and parsing",
+      "url": "https://github.com/morphgnt/sblgnt/blob/aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d/64-Jn-morphgnt.txt",
+      "repository_commit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+      "file_blob_sha": "c3dab42934edab531f7dc08b630be8181638bd61",
+      "scope": "252 tokens; candidate tags considered in passage context by the assistant. Ambiguous 1:9 token 10 receives an explicit alternative. Dataset tags are evidence to examine, not independent approval.",
+      "accessed_on": "2026-11-12"
+    },
+    {
+      "id": "E-KATALAMBANO",
+      "title": "Middle Liddell, καταλαμβάνω, Perseus Scaife ATLAS",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:middle-liddell.perseus-eng2-n17020/",
+      "scope": "General lexical entry read: physical seizure/overtaking and cognitive apprehension. Contextual selection in John is the translator’s inference.",
+      "accessed_on": "2026-11-12"
+    },
+    {
+      "id": "E-ANTI",
+      "title": "LSJ, ἀντί, Perseus Scaife ATLAS, A.III and the John 1:16 example",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n9778/",
+      "scope": "Substitution sense and the entry’s increasing-grace interpretation of John 1:16 consulted. Neither is treated as an automatic final interpretation.",
+      "accessed_on": "2026-11-12"
+    },
+    {
+      "id": "E-MONOGENES",
+      "title": "Perseus Scaife ATLAS headword, μονογενής",
+      "url": "https://atlas.perseus.tufts.edu/dictionaries/headword/μονογενής/",
+      "scope": "Only the short headword gloss only/single child was accessible. The full LSJ entry and a specialist NT entry were not successfully accessed; this does not complete the monogenēs study.",
+      "accessed_on": "2026-11-12"
+    },
+    {
+      "id": "E-BASELINE",
+      "title": "Inherited Saints John verse records",
+      "url": "https://github.com/Dotty777/Greek-Translation/blob/ed9682d8d31992d463063b60a98ac05ac24c620a/john/verses.json",
+      "scope": "First 18 verse units read and preserved for exact before/after comparison.",
+      "accessed_on": "2026-11-12"
+    }
+  ],
+  "licenses": {
+    "greek_text": {
+      "attribution": "The Greek New Testament: SBL Edition, Michael W. Holmes, ed.; copyright 2010 Society of Biblical Literature and Logos Bible Software.",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/d7f35adca9ec410e1d1499c63b4dd989d76c8d4d/data/sblgnt/text/John.txt",
+      "modifications": "John 1:1–18 extracted and segmented. Apparatus marks removed from token forms; no lexical reading substituted. The publisher’s NA28 display was consulted separately as the governing passage reading."
+    },
+    "morphology": {
+      "attribution": "Tauber, J. K., ed. (2017), MorphGNT: SBLGNT Edition, version 6.12; DOI 10.5281/zenodo.376200.",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://github.com/morphgnt/sblgnt/blob/aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d/64-Jn-morphgnt.txt",
+      "modifications": "Extracted 252 tokens; added English phrase alignment and explanatory grammar. Preserved original tags and separately recorded a contextual alternative for John 1:9 token 10. Adapted token/morphology/alignment data is offered under CC BY-SA 3.0; no new blanket license is assigned to the repository or separate English reading edition."
+    }
+  }
+}

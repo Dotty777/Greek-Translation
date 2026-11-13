@@ -11,7 +11,7 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).
 - [Wider Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md).
 
-The programme was documented on 12 November 2026. The historical book records below describe provisional English editorial work and their dated verification. They do not establish completion of the new full Greek-review programme. No Scripture or website wording changes are made by this planning release.
+The programme was documented on 12 November 2026. **New Testament translation has now begun:** [John 1:1–18, GT-003](reviews/2026-11-12-GT-003-john-1-1-18/README.md) contains 18 provisional verse drafts, 252 Greek token alignments, six proposed wording changes and five occurrence-study drafts. Twelve candidate readings retain the inherited text. Next: John 1:19–34. The historical book files below remain intact; these review records do not constitute final editorial acceptance or website publication.
 
 ## Existing book records
 

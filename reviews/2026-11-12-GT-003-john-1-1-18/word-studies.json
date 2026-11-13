@@ -1,0 +1,615 @@
+{
+  "batch_id": "GT-003",
+  "records": [
+    {
+      "schema_version": "1.0",
+      "record_type": "word_or_phrase_study",
+      "is_template": false,
+      "status": "provisional_ai_draft",
+      "study_id": "john-1-5-katalambano",
+      "record_kind": "occurrence",
+      "book_id": "john",
+      "reading_section_id": "1",
+      "verse_anchor": "v1-5",
+      "display_reference": "John 1:5",
+      "title": "Overcome or comprehend?",
+      "text_snapshot": {
+        "repository_commit": null,
+        "baseline_repository_commit": "ed9682d8d31992d463063b60a98ac05ac24c620a",
+        "snapshot_id": "GT-003-draft-1",
+        "edition_id": "Bespoke-Saints-English-GT-003-draft-1",
+        "english_text": "And the light shines in the darkness, and the darkness did not overcome it.",
+        "english_text_hash": "d862c6550c86f7dd87cf5cea713bf3d9781daa696198e2ebfcbcc6ddfceb5e60"
+      },
+      "source": {
+        "greek_edition_id": "NT-NA28",
+        "reproduced_token_witness": "SBLGNT",
+        "source_locator": "https://www.die-bibel.de/en/bible/NA28/JHN.1",
+        "greek_forms": [
+          "κατέλαβεν"
+        ],
+        "lemmas": [
+          "καταλαμβάνω"
+        ],
+        "transliteration": "katelaben",
+        "morphology": [
+          "verb; third person; aorist; active; indicative; singular"
+        ],
+        "greek_token_ids": [
+          "JHN.1.5.t13"
+        ]
+      },
+      "english_spans": [
+        {
+          "text": "overcome",
+          "start": 63,
+          "end": 71,
+          "offset_unit": "UTF-16 code units",
+          "occurrence": 0
+        }
+      ],
+      "summary": "The verb can describe overcoming or understanding. This draft retains overcome for the conflict between darkness and light, while noting comprehend as a real alternative.",
+      "meaning_in_context": "Darkness fails to prevail over the light in the selected rendering.",
+      "why_this_wording": "The image favors the conflict sense in this provisional reading; morphology alone cannot choose the sense.",
+      "alternatives": [
+        {
+          "wording": "comprehend",
+          "classification": "direct_rendering",
+          "limitation": "Possible cognitive sense; would emphasize failure to understand.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH",
+            "E-KATALAMBANO"
+          ]
+        },
+        {
+          "wording": "grasp",
+          "classification": "direct_rendering",
+          "limitation": "Can echo both ideas but may be less clear aloud.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH",
+            "E-KATALAMBANO"
+          ]
+        }
+      ],
+      "interpretations": [],
+      "interpretation_notice": "No denominational or patristic position is attributed in this draft; those sources have not been consulted for this batch.",
+      "related_passages": [],
+      "theme_categories": [
+        "Indigo",
+        "Green"
+      ],
+      "theme_rationale": "Proposed contextual themes only; not a live highlight assignment or a lexical rule.",
+      "evidence": [
+        "E-NA28",
+        "E-MORPH",
+        "E-KATALAMBANO"
+      ],
+      "review": {
+        "source_checked": {
+          "by": "OpenAI Codex assistant",
+          "human_or_ai": "ai",
+          "date": "2026-11-12",
+          "scope": "running_text_and_general_lexicon_checked"
+        },
+        "language_reviewed": null,
+        "theological_attributions_reviewed": null,
+        "editorially_accepted": null,
+        "independently_reviewed": null
+      },
+      "freshness": {
+        "status": "draft_matches_candidate",
+        "last_validated_against_snapshot": "GT-003-draft-1",
+        "stale_reason": null
+      },
+      "publication": {
+        "state": "not_published",
+        "staging_url": null,
+        "release_snapshot": null,
+        "offline_inclusion": null
+      },
+      "accessibility": {
+        "accessible_label": "Overcome or comprehend?",
+        "full_study_url": null
+      },
+      "revision_history": [
+        {
+          "date": "2026-11-12",
+          "revision": "1",
+          "action": "Initial occurrence-study draft; not adapted to a live popup renderer."
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "record_type": "word_or_phrase_study",
+      "is_template": false,
+      "status": "provisional_ai_draft",
+      "study_id": "john-1-13-blood",
+      "record_kind": "occurrence",
+      "book_id": "john",
+      "reading_section_id": "1",
+      "verse_anchor": "v1-13",
+      "display_reference": "John 1:13",
+      "title": "Why blood, when the Greek is plural?",
+      "text_snapshot": {
+        "repository_commit": null,
+        "baseline_repository_commit": "ed9682d8d31992d463063b60a98ac05ac24c620a",
+        "snapshot_id": "GT-003-draft-1",
+        "edition_id": "Bespoke-Saints-English-GT-003-draft-1",
+        "english_text": "who were born, not of blood, nor of the will of the flesh, nor of the will of a man, but of God.",
+        "english_text_hash": "bd890ae6917dee4ca735993e6795ad14334dd899176c089575de08e44d39035e"
+      },
+      "source": {
+        "greek_edition_id": "NT-NA28",
+        "reproduced_token_witness": "SBLGNT",
+        "source_locator": "https://www.die-bibel.de/en/bible/NA28/JHN.1",
+        "greek_forms": [
+          "αἱμάτων"
+        ],
+        "lemmas": [
+          "αἷμα"
+        ],
+        "transliteration": "haimatōn",
+        "morphology": [
+          "noun; genitive; plural; neuter"
+        ],
+        "greek_token_ids": [
+          "JHN.1.13.t4"
+        ]
+      },
+      "english_spans": [
+        {
+          "text": "blood",
+          "start": 22,
+          "end": 27,
+          "offset_unit": "UTF-16 code units",
+          "occurrence": 0
+        }
+      ],
+      "summary": "The Greek literally has bloods. The reading draft uses the natural English mass noun blood; the close draft preserves the plural. The surrounding clauses concern the source of birth.",
+      "meaning_in_context": "Human generation is contrasted with birth from God; the plural does not itself explain a biological mechanism.",
+      "why_this_wording": "Bloods is obscure for listeners. Bloodlines is clearer but more specifically interprets the image as ancestry.",
+      "alternatives": [
+        {
+          "wording": "bloods",
+          "classification": "direct_rendering",
+          "limitation": "Exposes the Greek plural but is difficult English.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH"
+          ]
+        },
+        {
+          "wording": "bloodlines",
+          "classification": "explanatory_rendering",
+          "limitation": "Makes descent explicit and therefore narrows the image.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH"
+          ]
+        }
+      ],
+      "interpretations": [],
+      "interpretation_notice": "No denominational or patristic position is attributed in this draft; those sources have not been consulted for this batch.",
+      "related_passages": [],
+      "theme_categories": [
+        "Red"
+      ],
+      "theme_rationale": "Proposed contextual themes only; not a live highlight assignment or a lexical rule.",
+      "evidence": [
+        "E-NA28",
+        "E-MORPH"
+      ],
+      "review": {
+        "source_checked": {
+          "by": "OpenAI Codex assistant",
+          "human_or_ai": "ai",
+          "date": "2026-11-12",
+          "scope": "running_text_checked_lexical_review_pending"
+        },
+        "language_reviewed": null,
+        "theological_attributions_reviewed": null,
+        "editorially_accepted": null,
+        "independently_reviewed": null
+      },
+      "freshness": {
+        "status": "draft_matches_candidate",
+        "last_validated_against_snapshot": "GT-003-draft-1",
+        "stale_reason": null
+      },
+      "publication": {
+        "state": "not_published",
+        "staging_url": null,
+        "release_snapshot": null,
+        "offline_inclusion": null
+      },
+      "accessibility": {
+        "accessible_label": "Why blood, when the Greek is plural?",
+        "full_study_url": null
+      },
+      "revision_history": [
+        {
+          "date": "2026-11-12",
+          "revision": "1",
+          "action": "Initial occurrence-study draft; not adapted to a live popup renderer."
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "record_type": "word_or_phrase_study",
+      "is_template": false,
+      "status": "provisional_ai_draft",
+      "study_id": "john-1-14-monogenes",
+      "record_kind": "occurrence",
+      "book_id": "john",
+      "reading_section_id": "1",
+      "verse_anchor": "v1-14",
+      "display_reference": "John 1:14",
+      "title": "Only-begotten, only, or unique?",
+      "text_snapshot": {
+        "repository_commit": null,
+        "baseline_repository_commit": "ed9682d8d31992d463063b60a98ac05ac24c620a",
+        "snapshot_id": "GT-003-draft-1",
+        "edition_id": "Bespoke-Saints-English-GT-003-draft-1",
+        "english_text": "And the Word became flesh and dwelt among us, and we beheld His glory, glory as of the Only-begotten from the Father, full of grace and truth.",
+        "english_text_hash": "d8d037f4b1c21e1129aebedd8b42c2b1ae1d174e54a3559976c7358504aeb44a"
+      },
+      "source": {
+        "greek_edition_id": "NT-NA28",
+        "reproduced_token_witness": "SBLGNT",
+        "source_locator": "https://www.die-bibel.de/en/bible/NA28/JHN.1",
+        "greek_forms": [
+          "μονογενοῦς"
+        ],
+        "lemmas": [
+          "μονογενής"
+        ],
+        "transliteration": "monogenous",
+        "morphology": [
+          "adjective; genitive; singular; masculine"
+        ],
+        "greek_token_ids": [
+          "JHN.1.14.t17"
+        ]
+      },
+      "english_spans": [
+        {
+          "text": "Only-begotten",
+          "start": 87,
+          "end": 100,
+          "offset_unit": "UTF-16 code units",
+          "occurrence": 0
+        }
+      ],
+      "summary": "Only-begotten is retained provisionally from the inherited Saints edition. Only One and only child are alternatives to examine; this draft does not treat the traditional wording as the sole possible lexical rendering.",
+      "meaning_in_context": "The expression presents the Word’s glory in relation to the Father; the scope of the filial comparison needs fuller review.",
+      "why_this_wording": "A partial lexical lookup supports only/single-child language, but the specialist study is unfinished. Preserve the inherited term until the alternatives receive an explicit editorial decision.",
+      "alternatives": [
+        {
+          "wording": "Only One",
+          "classification": "direct_rendering",
+          "limitation": "Emphasizes uniqueness but leaves the filial relationship less explicit.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH",
+            "E-MONOGENES"
+          ]
+        },
+        {
+          "wording": "only child",
+          "classification": "explanatory_rendering",
+          "limitation": "Expresses the familial comparison but adds a noun absent here.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH",
+            "E-MONOGENES"
+          ]
+        }
+      ],
+      "interpretations": [],
+      "interpretation_notice": "No denominational or patristic position is attributed in this draft; those sources have not been consulted for this batch.",
+      "related_passages": [],
+      "theme_categories": [
+        "Red",
+        "Green"
+      ],
+      "theme_rationale": "Proposed contextual themes only; not a live highlight assignment or a lexical rule.",
+      "evidence": [
+        "E-NA28",
+        "E-MORPH",
+        "E-MONOGENES"
+      ],
+      "review": {
+        "source_checked": {
+          "by": "OpenAI Codex assistant",
+          "human_or_ai": "ai",
+          "date": "2026-11-12",
+          "scope": "running_text_checked_specialist_lexicon_pending"
+        },
+        "language_reviewed": null,
+        "theological_attributions_reviewed": null,
+        "editorially_accepted": null,
+        "independently_reviewed": null
+      },
+      "freshness": {
+        "status": "draft_matches_candidate",
+        "last_validated_against_snapshot": "GT-003-draft-1",
+        "stale_reason": null
+      },
+      "publication": {
+        "state": "not_published",
+        "staging_url": null,
+        "release_snapshot": null,
+        "offline_inclusion": null
+      },
+      "accessibility": {
+        "accessible_label": "Only-begotten, only, or unique?",
+        "full_study_url": null
+      },
+      "revision_history": [
+        {
+          "date": "2026-11-12",
+          "revision": "1",
+          "action": "Initial occurrence-study draft; not adapted to a live popup renderer."
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "record_type": "word_or_phrase_study",
+      "is_template": false,
+      "status": "provisional_ai_draft",
+      "study_id": "john-1-16-grace",
+      "record_kind": "phrase",
+      "book_id": "john",
+      "reading_section_id": "1",
+      "verse_anchor": "v1-16",
+      "display_reference": "John 1:16",
+      "title": "Grace in place of grace",
+      "text_snapshot": {
+        "repository_commit": null,
+        "baseline_repository_commit": "ed9682d8d31992d463063b60a98ac05ac24c620a",
+        "snapshot_id": "GT-003-draft-1",
+        "edition_id": "Bespoke-Saints-English-GT-003-draft-1",
+        "english_text": "For from His fullness we all received, even grace in place of grace.",
+        "english_text_hash": "9f040598ec9d0971fcd10bd3b9f2db28ff3624ab20a5f302e551791634d660fc"
+      },
+      "source": {
+        "greek_edition_id": "NT-NA28",
+        "reproduced_token_witness": "SBLGNT",
+        "source_locator": "https://www.die-bibel.de/en/bible/NA28/JHN.1",
+        "greek_forms": [
+          "χάριν",
+          "ἀντὶ",
+          "χάριτος"
+        ],
+        "lemmas": [
+          "χάρις",
+          "ἀντί",
+          "χάρις"
+        ],
+        "transliteration": "charin anti charitos",
+        "morphology": [
+          "noun; accusative; singular; feminine",
+          "preposition",
+          "noun; genitive; singular; feminine"
+        ],
+        "greek_token_ids": [
+          "JHN.1.16.t10",
+          "JHN.1.16.t11",
+          "JHN.1.16.t12"
+        ]
+      },
+      "english_spans": [
+        {
+          "text": "grace in place of grace",
+          "start": 44,
+          "end": 67,
+          "offset_unit": "UTF-16 code units",
+          "occurrence": 0
+        }
+      ],
+      "summary": "The draft keeps the succession or exchange image. Grace upon grace is a defensible interpretive alternative; the preposition alone does not settle which graces are meant.",
+      "meaning_in_context": "What is received comes from His fullness. The next verse speaks of Moses and Jesus Christ, but the translation does not insert an explanatory theological formula.",
+      "why_this_wording": "In place of keeps a well-attested prepositional relation visible. LSJ also interprets this Johannine phrase as increasing grace, so that alternative remains open.",
+      "alternatives": [
+        {
+          "wording": "grace upon grace",
+          "classification": "interpretive_reading",
+          "limitation": "Expresses accumulating abundance; changes the surface image.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH",
+            "E-ANTI"
+          ]
+        },
+        {
+          "wording": "grace replacing grace",
+          "classification": "explanatory_rendering",
+          "limitation": "Makes succession explicit but is less natural as reading text.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-MORPH",
+            "E-ANTI"
+          ]
+        }
+      ],
+      "interpretations": [],
+      "interpretation_notice": "No denominational or patristic position is attributed in this draft; those sources have not been consulted for this batch.",
+      "related_passages": [],
+      "theme_categories": [
+        "Violet"
+      ],
+      "theme_rationale": "Proposed contextual themes only; not a live highlight assignment or a lexical rule.",
+      "evidence": [
+        "E-NA28",
+        "E-MORPH",
+        "E-ANTI"
+      ],
+      "review": {
+        "source_checked": {
+          "by": "OpenAI Codex assistant",
+          "human_or_ai": "ai",
+          "date": "2026-11-12",
+          "scope": "running_text_and_general_lexicon_checked"
+        },
+        "language_reviewed": null,
+        "theological_attributions_reviewed": null,
+        "editorially_accepted": null,
+        "independently_reviewed": null
+      },
+      "freshness": {
+        "status": "draft_matches_candidate",
+        "last_validated_against_snapshot": "GT-003-draft-1",
+        "stale_reason": null
+      },
+      "publication": {
+        "state": "not_published",
+        "staging_url": null,
+        "release_snapshot": null,
+        "offline_inclusion": null
+      },
+      "accessibility": {
+        "accessible_label": "Grace in place of grace",
+        "full_study_url": null
+      },
+      "revision_history": [
+        {
+          "date": "2026-11-12",
+          "revision": "1",
+          "action": "Initial occurrence-study draft; not adapted to a live popup renderer."
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "record_type": "word_or_phrase_study",
+      "is_template": false,
+      "status": "provisional_ai_draft",
+      "study_id": "john-1-18-monogenes-theos",
+      "record_kind": "phrase",
+      "book_id": "john",
+      "reading_section_id": "1",
+      "verse_anchor": "v1-18",
+      "display_reference": "John 1:18",
+      "title": "Why God here, rather than Son?",
+      "text_snapshot": {
+        "repository_commit": null,
+        "baseline_repository_commit": "ed9682d8d31992d463063b60a98ac05ac24c620a",
+        "snapshot_id": "GT-003-draft-1",
+        "edition_id": "Bespoke-Saints-English-GT-003-draft-1",
+        "english_text": "No one has ever seen God; the Only-begotten God, who is in the bosom of the Father, has made Him known.",
+        "english_text_hash": "b838b8cb3a4643e3ada4913398abf32b76940858fdb69901d2cf35f0cc3fbf01"
+      },
+      "source": {
+        "greek_edition_id": "NT-NA28",
+        "reproduced_token_witness": "SBLGNT",
+        "source_locator": "https://www.die-bibel.de/en/bible/NA28/JHN.1",
+        "greek_forms": [
+          "μονογενὴς",
+          "θεὸς"
+        ],
+        "lemmas": [
+          "μονογενής",
+          "θεός"
+        ],
+        "transliteration": "monogenēs theos",
+        "morphology": [
+          "adjective; nominative; singular; masculine",
+          "noun; nominative; singular; masculine"
+        ],
+        "greek_token_ids": [
+          "JHN.1.18.t5",
+          "JHN.1.18.t6"
+        ]
+      },
+      "english_spans": [
+        {
+          "text": "Only-begotten God",
+          "start": 30,
+          "end": 47,
+          "offset_unit": "UTF-16 code units",
+          "occurrence": 0
+        }
+      ],
+      "summary": "The selected NA28 text reads God here. Son belongs to a different Greek reading; it is not simply another translation of the same noun. The meaning of Only-begotten remains under review.",
+      "meaning_in_context": "The one in the Father’s bosom makes God known. The final English Him supplies an object understood from context.",
+      "why_this_wording": "Keep the governing edition’s noun, and record the alternative reading separately from the lexical question.",
+      "alternatives": [
+        {
+          "wording": "only Son",
+          "classification": "textual_variant",
+          "limitation": "Requires another Greek reading; the consulted SBL apparatus reports it for RP.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-SBL-APP",
+            "E-MORPH",
+            "E-MONOGENES"
+          ]
+        },
+        {
+          "wording": "Only One, who is God",
+          "classification": "explanatory_rendering",
+          "limitation": "Recasts the selected noun phrase and requires further lexical/syntactic review.",
+          "evidence_ids": [
+            "E-NA28",
+            "E-SBL-APP",
+            "E-MORPH",
+            "E-MONOGENES"
+          ]
+        }
+      ],
+      "interpretations": [],
+      "interpretation_notice": "No denominational or patristic position is attributed in this draft; those sources have not been consulted for this batch.",
+      "related_passages": [],
+      "theme_categories": [
+        "Red",
+        "Green"
+      ],
+      "theme_rationale": "Proposed contextual themes only; not a live highlight assignment or a lexical rule.",
+      "evidence": [
+        "E-NA28",
+        "E-SBL-APP",
+        "E-MORPH",
+        "E-MONOGENES"
+      ],
+      "review": {
+        "source_checked": {
+          "by": "OpenAI Codex assistant",
+          "human_or_ai": "ai",
+          "date": "2026-11-12",
+          "scope": "running_text_and_limited_edition_comparison_checked"
+        },
+        "language_reviewed": null,
+        "theological_attributions_reviewed": null,
+        "editorially_accepted": null,
+        "independently_reviewed": null
+      },
+      "freshness": {
+        "status": "draft_matches_candidate",
+        "last_validated_against_snapshot": "GT-003-draft-1",
+        "stale_reason": null
+      },
+      "publication": {
+        "state": "not_published",
+        "staging_url": null,
+        "release_snapshot": null,
+        "offline_inclusion": null
+      },
+      "accessibility": {
+        "accessible_label": "Why God here, rather than Son?",
+        "full_study_url": null
+      },
+      "revision_history": [
+        {
+          "date": "2026-11-12",
+          "revision": "1",
+          "action": "Initial occurrence-study draft; not adapted to a live popup renderer."
+        }
+      ]
+    }
+  ]
+}
