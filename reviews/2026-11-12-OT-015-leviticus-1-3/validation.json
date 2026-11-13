@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "units": 50,
+  "retained": 49,
+  "proposed": 1,
+  "accepted": 0,
+  "chapter_counts": {
+    "1": 17,
+    "2": 16,
+    "3": 17
+  },
+  "checks": [
+    "Exact original text matches frozen baseline",
+    "All three chapters have a note per stored unit",
+    "Unique stable anchors",
+    "Three nonempty draft stages per unit; literary matches candidate"
+  ],
+  "limits": "Structural validation and provisional AI source comparisons; not complete token, apparatus or independent human review."
+}

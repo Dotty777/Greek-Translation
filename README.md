@@ -6,12 +6,12 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 
 **[Read the Greek Translation Roadmap](ROADMAP.md)** — accuracy first, natural reading aloud second, reverent poetic English third.
 
-- [Translation standard](TRANSLATION-STANDARD.md) and [source/access register](docs/SOURCE-REGISTER.md).
+- [Translation standard](TRANSLATION-STANDARD.md), [source/access register](docs/SOURCE-REGISTER.md) and [provisional name decisions](docs/OT-NAME-DECISIONS.json).
 - [Highlighted word and phrase studies](docs/WORD-STUDIES.md), including the James 2:24 popup pilot.
 - [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).
 - [Wider Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md).
 
-**Current assignment: Old Testament only.** The owner's latest instruction supersedes the earlier NT-first queue. The [complete 43-book Old Testament working manuscript](editions/2026-11-12-ot-reading-draft/README.md) assembles the inherited Saints English text, with new provisional Greek comparisons for Genesis 1–3 and all of Jonah. The [OT progress record](old-testament-progress.json) distinguishes manuscript coverage from fresh language work. The full Old Testament has **not** been newly translated or fully Greek-reviewed in this batch; the work has begun and the remaining scope is recorded book by book. Original book files, the accepted Genesis benchmark, and New Testament text/evidence remain intact.
+**Current assignment: Old Testament only.** The owner's latest instruction is to continue from Genesis 4 through the entire selected Old Testament. The [43-book working manuscript](editions/2026-11-12-ot-reading-draft/README.md) preserves the inherited Saints English text and overlays separately evidenced proposals. The [continuation report](reviews/2026-11-12-OT-CONTINUATION.md) lists the finished passage batches; the [OT progress record](old-testament-progress.json) records exact comparison counts and the next passage. The full OT task remains in progress: inherited manuscript coverage, fresh Greek comparison, token accounting and completed human review are distinct. Original book files, the accepted Genesis benchmark and New Testament text/evidence remain intact.
 
 **[Complete New Testament reading draft](editions/2026-11-12-nt-reading-draft/README.md)** — all 27 books, 260 chapters and 7,943 stored units are now assembled from the inherited Saints English manuscripts, with seven proposed John 1 revisions. This is a complete provisional manuscript, **not a completed fresh Greek audit or an accepted release**.
 

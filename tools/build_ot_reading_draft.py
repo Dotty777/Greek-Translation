@@ -25,6 +25,18 @@ REVIEW_DIRS = [
     "reviews/2026-11-12-OT-001-genesis-1",
     "reviews/2026-11-12-OT-002-genesis-2-3",
     "reviews/2026-11-12-OT-003-jonah",
+    "reviews/2026-11-12-OT-004-genesis-4",
+    "reviews/2026-11-12-OT-005-genesis-5-11",
+    "reviews/2026-11-12-OT-006-genesis-12-20",
+    "reviews/2026-11-12-OT-007-genesis-21-30",
+    "reviews/2026-11-12-OT-008-genesis-31-37",
+    "reviews/2026-11-12-OT-009-genesis-38-44",
+    "reviews/2026-11-12-OT-010-genesis-45-50",
+    "reviews/2026-11-12-OT-011-exodus-1-2",
+    "reviews/2026-11-12-OT-012-exodus-3-15",
+    "reviews/2026-11-12-OT-013-exodus-16-27",
+    "reviews/2026-11-12-OT-014-exodus-28-40",
+    "reviews/2026-11-12-OT-015-leviticus-1-3",
 ]
 
 
@@ -46,6 +58,11 @@ def write_json(name, value):
 
 def norm(text):
     return " ".join(text.split())
+
+
+def has_three_drafts(review):
+    return all(isinstance(review.get('drafts', {}).get(stage), str) and review['drafts'][stage].strip()
+               for stage in ('close', 'spoken', 'literary'))
 
 
 def unchanged(path):
@@ -230,12 +247,32 @@ def build(required=False):
                     check(f"Review matches exact inherited reference {key}", r["reference"] == reference)
                     check(f"Review matches exact inherited wording {key}", r["baseline_text"] == text)
                     check(f"Review candidate hash agrees {key}", r["candidate_sha256"] == sha(r["candidate_text"]))
+                    changed = r["candidate_text"] != text
+                    check(f"Review decision agrees with wording {key}", r.get("decision") == ("propose_revision" if changed else "retain_provisionally"))
+                    check(f"Review benchmark flag agrees {key}", bool(r.get("benchmark_change")) == (changed and book_id == 'genesis' and chapter['chapter'] <= 11))
+                    check(f"Review records source-access metadata {key}", r.get('source', {}).get('running_text_read') is True and bool(r.get('source', {}).get('url')) and bool(r.get('source', {}).get('accessed_on')))
+                    if book_id in ('genesis', 'exodus', 'leviticus'):
+                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV'}[book_id]
+                        check(f"Source locator matches chapter {key}", r['source']['url'].rstrip('/').endswith(f"/LXX/{source_code}.{chapter['chapter']}"))
+                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus'):
+                        check(f"Continuation has three draft stages {key}", has_three_drafts(r))
+                        check(f"Literary stage agrees with candidate {key}", r['drafts']['literary'] == r['candidate_text'])
+                    if r.get("review", {}).get("all_tokens_accounted_for"):
+                        tokens = r.get("greek_tokens", [])
+                        check(f"Token accounting has nonempty unique identities {key}", bool(tokens) and len({t['token_id'] for t in tokens}) == len(tokens))
+                        check(f"Each aligned token has a form and realization {key}", all(t.get('form') and t.get('realization_type') and t.get('rationale') and t.get('english_spans') for t in tokens))
                     candidate = r["candidate_text"]
                     unit.update({"text": candidate, "candidate_sha256": sha(candidate), "review_id": r.get("review_id"),
                                  "review_evidence": r["evidence_path"], "review_reading_section_id": r.get("reading_section_id"),
+                                 "review_analysis": r.get("analysis", ""), "drafts": r.get("drafts", {}),
+                                 "unresolved_questions": r.get("unresolved_questions", []), "source_url": r.get("source", {}).get("url"),
+                                 "tokens_accounted_for": bool(r.get("review", {}).get("all_tokens_accounted_for")),
                                  "review_status": "unaccepted_wording_proposal" if candidate != text else "focused_comparison_retained_wording"})
                     if candidate != text:
+                        if "\n" in display:
+                            check(f"Poetic proposal supplies reviewed line breaks {key}", bool(r.get("candidate_display_text")) and "\n" in r["candidate_display_text"].replace("\\n", "\n"))
                         unit["display_text"] = r.get("candidate_display_text", candidate).replace("\\n", "\n")
+                        check(f"Proposal display agrees with candidate text {key}", norm(unit["display_text"]) == norm(candidate))
                         changes.append({"book_id": book_id, "reading_section_id": section_id, "verse_anchor": anchor, "reference": reference,
                                         "baseline_text": text, "candidate_text": candidate, "candidate_sha256": sha(candidate),
                                         "benchmark_proposal": book_id == "genesis" and chapter["chapter"] <= 11,
@@ -261,6 +298,8 @@ def build(required=False):
                           "stored_units": len(book_units), "continuation_paragraphs": sum(len(v["continuation_paragraphs"]) for v in book_units),
                           "fresh_focused_comparison_units": sum(v["review_status"] != "inherited_draft_without_new_comparison" for v in book_units),
                           "proposed_changed_units": sum(v["review_status"] == "unaccepted_wording_proposal" for v in book_units),
+                          "token_aligned_units": sum(r.get("review", {}).get("all_tokens_accounted_for", False) for r in reviews if r["book_id"] == book_id),
+                          "three_stage_draft_units": sum(has_three_drafts(r) for r in reviews if r["book_id"] == book_id),
                           "verse_path": path, "source_record": source_path, "original_schema": schema})
 
     check("Every supplied review maps to exactly one OT unit", used_reviews == set(review_map), list(set(review_map) - used_reviews))
@@ -286,7 +325,10 @@ def build(required=False):
               "attached_continuation_paragraphs": continuations, "reading_paragraphs_including_continuations": len(all_units) + continuations,
               "fresh_focused_comparison_units": len(used_reviews), "inherited_without_new_comparison": len(all_units) - len(used_reviews),
               "proposed_changed_units": len(changes), "retained_after_focused_comparison": len(used_reviews) - len(changes),
-              "new_token_aligned_units": 0, "independently_reviewed_units": 0, "human_read_aloud_units": 0, "new_editorially_accepted_units": 0,
+              "new_token_aligned_units": sum(bool(r.get("review", {}).get("all_tokens_accounted_for")) for r in reviews),
+              "aligned_source_tokens": sum(len(r.get("greek_tokens", [])) for r in reviews if r.get("review", {}).get("all_tokens_accounted_for")),
+              "three_stage_draft_units": sum(has_three_drafts(r) for r in reviews),
+              "independently_reviewed_units": 0, "human_read_aloud_units": 0, "new_editorially_accepted_units": 0,
               "recovered_poetry_units": recovered_poetry}
     manifest = {"edition_id": EDITION_ID, "title": "Bespoke Saints English — Complete Old Testament Reading Draft", "date": "2026-11-12",
                 "baseline_repository": "https://github.com/Dotty777/Greek-Translation", "baseline_commit": BASELINE,
@@ -294,7 +336,7 @@ def build(required=False):
                 "scope": "All 43 selected Old Testament books only. Existing project selection, order, source histories and exceptional units preserved.",
                 "source_policy": "Rahlfs–Hanhart 2006 provisional base with inherited book-specific records; Daniel uses Old Greek. No new Göttingen or full apparatus collation claimed.",
                 "authorship": "Inherited Saints English manuscript plus separately evidenced AI candidate proposals. Not 26,580 freshly translated or independently reviewed units.",
-                "counts": counts, "book_inventory": inventory, "review_inputs": review_sources, "missing_planned_review_inputs": missing_reviews,
+                "counts": counts, "counting_policy": "Token-aligned units are a subset of the running-text comparison count, not an additional group. Three-stage drafts may deliberately retain the same wording; they do not credit human reading or acceptance.", "book_inventory": inventory, "review_inputs": review_sources, "missing_planned_review_inputs": missing_reviews,
                 "source_files": source_files, "website_deployed": False,
                 "remaining": ["Complete source-led comparison and word accounting across every OT unit", "Specialist lexical and textual decisions", "Relevant apparatus and Göttingen consultation", "Independent Greek review", "Human read-aloud review", "Editorial acceptance", "Separately authorized, verified publication"]}
     edition = {"edition_id": EDITION_ID, "baseline_commit": BASELINE, "status": manifest["status"], "counts": counts,
@@ -328,7 +370,7 @@ def build(required=False):
     write_readme(counts, missing_reviews)
     # Group routine per-unit checks, retaining failures as hard errors above.
     summary = [{"check": prefix, "passed": True, "cases": sum(c["check"].startswith(prefix) for c in checks)} for prefix in
-               ["Unique review identity", "Review matches frozen commit", "Review matches inherited reading section", "Review matches exact inherited reference", "Review matches exact inherited wording", "Review candidate hash agrees", "Nonempty inherited and candidate text", "Poetry text agrees with JSON"]]
+               ["Unique review identity", "Review matches frozen commit", "Review matches inherited reading section", "Review matches exact inherited reference", "Review matches exact inherited wording", "Review candidate hash agrees", "Review decision agrees", "Review benchmark flag agrees", "Review records source-access metadata", "Source locator matches chapter", "Continuation has three draft stages", "Literary stage agrees with candidate", "Nonempty inherited and candidate text", "Poetry text agrees with JSON"]]
     compact_checks = [c for c in checks if not any(c["check"].startswith(s["check"]) for s in summary)] + [s for s in summary if s["cases"]]
     write_json("validation.json", {"status": "passed", "date": "2026-11-12", "counts": counts, "checks": compact_checks,
                                    "limits": "Structural/content checks and AI passage comparisons only; not independent Greek or human read-aloud review. No website publication. Browser visual checks, if performed, are recorded separately."})
@@ -374,7 +416,22 @@ def render_reader(edition, inventory):
                     parts.append(f'<details class="comparison"><summary>{"Compare inherited wording and evidence" if proposal else "Comparison evidence"}</summary>')
                     if proposal:
                         parts.append(f'<p class="baseline"><strong>Inherited wording:</strong> {e(verse["inherited_unit"]["text"])}</p>')
-                    parts.append(f'<p><a href="../../{e(verse["review_evidence"])}">Focused review record</a>. AI draft; full token accounting, independent Greek review, human reading aloud and editorial acceptance remain pending.</p></details>')
+                    analysis = verse.get("review_analysis", "")
+                    if not isinstance(analysis, str):
+                        analysis = json.dumps(analysis, ensure_ascii=False)
+                    parts.append(f'<p>{e(analysis)}</p>')
+                    if verse.get("source_url"):
+                        parts.append(f'<p><a href="{e(verse["source_url"])}">Greek running text consulted</a></p>')
+                    for stage, draft in verse.get("drafts", {}).items():
+                        if draft and draft != verse["text"]:
+                            parts.append(f'<p><strong>{e(stage.capitalize())} working draft:</strong> {e(draft)}</p>')
+                    if verse.get("unresolved_questions"):
+                        parts.append('<p><strong>Open questions:</strong></p><ul>')
+                        for question in verse["unresolved_questions"]:
+                            parts.append(f'<li>{e(str(question))}</li>')
+                        parts.append('</ul>')
+                    token_notice = 'The source words have an explicit AI alignment; interpretation can still be unresolved.' if verse.get("tokens_accounted_for") else 'Complete token accounting remains pending.'
+                    parts.append(f'<p><a href="../../{e(verse["review_evidence"])}">Full review record</a>. {token_notice} Independent human Greek review, human reading aloud and editorial acceptance remain pending.</p></details>')
                 parts.append('</div>')
             parts.append('</section>')
         parts.append('</article>')
@@ -421,7 +478,7 @@ The entire inherited Saints English Old Testament is assembled here. New focused
 
 ## Review boundaries
 
-The working source remains Rahlfs–Hanhart 2006 subject to the book-specific histories; Daniel uses Old Greek. Fresh evidence resides in the three dated OT batch directories listed in the manifest. A focused running-text comparison is not exhaustive token accounting or critical-apparatus collation. Independent human Greek review, human read-aloud review, editorial acceptance and publication remain pending. No New Testament work is included or altered.
+The working source remains Rahlfs–Hanhart 2006 subject to the book-specific histories; Daniel uses Old Greek. Fresh evidence resides in the dated OT batch directories listed in the manifest. Of the compared units, {counts['new_token_aligned_units']} have explicit token accounting ({counts['aligned_source_tokens']} source tokens); these are a subset of the comparison total. Three working draft stages are recorded for {counts['three_stage_draft_units']} units and may deliberately agree. These statuses do not imply critical-apparatus collation or resolved interpretation. Independent human Greek review, human read-aloud review, editorial acceptance and publication remain pending. No New Testament work is included or altered.
 
 Each proposed wording change is visibly marked in the reader and plain text. The JSON retains the exact original unit, including display text and metadata, alongside its candidate. Genesis 1–11's accepted historical benchmark remains intact in the original book archive. Proposed corrections do not silently change that status.
 
@@ -446,7 +503,12 @@ Baseline: `{BASELINE}`. The original book files are untouched. `manifest.json` r
     if missing:
         text += "\n## Build awaiting planned review inputs\n\nThis intermediate build has not yet received: " + ", ".join(f"`{x}`" for x in missing) + ". Rebuild with `--require-reviews` before delivering the completed batch.\n"
     if (OUT / "browser-validation.json").exists():
-        text += "\n## Browser verification\n\n[Browser checks](browser-validation.json) record 14 passing checks in local headless Chrome at desktop and phone widths, tied to the reader's SHA-256. [Visual inspection](visual-verification.json) records an AI inspection of the retained screenshots, including the expanded Jonah 4 proposal. No human read-aloud, real-phone or assistive-technology review is implied. `verify-browser.cjs` reproduces the browser checks with configurable runtime paths.\n"
+        browser_check = read_json(OUT / "browser-validation.json")
+        current_browser_check = browser_check.get('status') == 'passed' and browser_check.get('reader_sha256') == sha((OUT / 'Saints-English-Old-Testament.html').read_bytes())
+        if current_browser_check:
+            text += f"\n## Browser verification\n\n[Browser checks](browser-validation.json) record {len(browser_check['checks'])} passing checks in local headless Chrome at desktop and phone widths, tied to the current reader's SHA-256. [Visual inspection](visual-verification.json) records the scope of the AI screenshot inspection. No human read-aloud, real-phone or assistive-technology review is implied. `verify-browser.cjs` reproduces the browser checks with configurable runtime paths.\n"
+        else:
+            text += "\n## Browser verification pending\n\nThe stored browser report belongs to an earlier reader revision. Rerun `verify-browser.cjs` and inspect the updated screenshots before crediting this build with browser verification.\n"
     (OUT / "README.md").write_text(text, encoding="utf-8", newline="\n")
 
 
@@ -466,6 +528,6 @@ def write_change_ledger(changes):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--require-reviews", action="store_true", help="Fail if any of the three planned review inputs is missing")
+    parser.add_argument("--require-reviews", action="store_true", help="Fail if any registered review input is missing")
     args = parser.parse_args()
     build(args.require_reviews)

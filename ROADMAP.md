@@ -1,6 +1,6 @@
 # Bespoke Saints English — Greek Translation Roadmap
 
-**Version 1.3 · 12 November 2026 · Old Testament work begun across the 43-book scope**
+**Version 1.4 · 12 November 2026 · Old Testament continuation from Genesis 4**
 
 **Governing order: Greek fidelity → natural reading aloud → reverent poetic English.** A later stage may improve an earlier rendering only while preserving its meaning. This roadmap begins a documented, source-led translation and review programme for the existing Saints seventy-book edition.
 
@@ -15,7 +15,7 @@
 
 ## Current assignment: Old Testament only
 
-The owner's latest instruction is to begin Greek-to-Saints English work on the entire Old Testament. It supersedes the earlier NT-first priority below; the existing NT manuscript and evidence are retained without new NT work. The [43-book OT working manuscript](editions/2026-11-12-ot-reading-draft/README.md) preserves the full inherited reading text and separates fresh comparison records from inherited coverage. Genesis 1–3 and Jonah 1–4 supply the opening 128 focused comparison records. Full token alignment, apparatus, independent human Greek review, human reading aloud and acceptance are still pending. [OT progress and next batches](old-testament-progress.json).
+The owner's latest instruction is to continue Greek-to-Saints English work from Genesis 4 through the entire Old Testament. It supersedes the earlier NT-first priority below; the existing NT manuscript and evidence are retained without new NT work. The [43-book OT working manuscript](editions/2026-11-12-ot-reading-draft/README.md) preserves the full inherited reading text and separates new comparison records from inherited coverage. The [continuation report](reviews/2026-11-12-OT-CONTINUATION.md) links every current batch and its exact scope. Full token accounting, apparatus, independent human Greek review, human reading aloud and acceptance remain separate unfinished stages. [OT progress and next passage](old-testament-progress.json).
 
 ## Earlier NT manuscript delivery
 
@@ -101,7 +101,7 @@ Phases 2–4 repeat by passage and book. A book may have a provisional reading r
 | **GT-005** | Romans 3:21–31 and James 2:14–26 | Test contextual consistency for faith, works, righteousness and justification. | Greek-based lexical and syntactic decisions; theological explanation remains in notes. |
 | **GT-006** | Esther continuation material, Daniel preface/additions, Sirach prologue, Proverbs split sections | Prove the publishing model can preserve exceptional units before scaling. | Mapping records and fixture-based export/link checks; this is not a claim of full-book translation. |
 
-**Next action:** complete token accounting and resolve the recorded questions for Genesis 1–3, then continue Greek-led drafting at **Genesis 4**. The [Genesis 1 record](reviews/2026-11-12-OT-001-genesis-1/README.md) begins GT-001 and GT-002 with close drafts and focused evidence, without claiming their full exit criteria are met. The [Genesis 2–3 record](reviews/2026-11-12-OT-002-genesis-2-3/README.md) and [Jonah record](reviews/2026-11-12-OT-003-jonah/README.md) preserve before/after decisions. Continue through the full OT queue in [old-testament-progress.json](old-testament-progress.json). No fresh Göttingen or critical-apparatus collation is claimed.
+**Next action:** continue source-led drafting at the first unexamined section in [old-testament-progress.json](old-testament-progress.json), while completing token accounting and the unresolved lexical/syntactic decisions for compared passages. The [opening Genesis records](reviews/2026-11-12-OT-001-genesis-1/README.md) began GT-001/GT-002 without satisfying their full exit criteria. [Continuation batches](reviews/2026-11-12-OT-CONTINUATION.md) preserve exact before/after candidates, three working draft stages and open questions. Genesis 4:7 has a bounded token ledger; this does not credit other passages with full alignment. No new Göttingen or critical-apparatus collation is claimed.
 
 Keep batches small enough to finish their evidence records. A starting size of 5–20 units is a planning suggestion, not a daily quota. Measure actual translation, review and correction time over the first three completed batches, then forecast by book and genre. Do not promise whole-Bible completion from raw word counts or editing speed.
 

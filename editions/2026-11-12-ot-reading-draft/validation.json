@@ -7,11 +7,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 128,
-    "inherited_without_new_comparison": 26452,
-    "proposed_changed_units": 9,
-    "retained_after_focused_comparison": 119,
-    "new_token_aligned_units": 0,
+    "fresh_focused_comparison_units": 2794,
+    "inherited_without_new_comparison": 23786,
+    "proposed_changed_units": 42,
+    "retained_after_focused_comparison": 2752,
+    "new_token_aligned_units": 1,
+    "aligned_source_tokens": 19,
+    "three_stage_draft_units": 2697,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,
@@ -44,6 +46,146 @@
       "details": null
     },
     {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v1-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v2-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v2-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v3-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v3-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v3-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Token accounting has nonempty unique identities ('genesis', 'v4-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Each aligned token has a form and realization ('genesis', 'v4-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v6-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v6-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v6-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v7-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v7-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v7-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v8-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v8-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v9-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v9-24')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v10-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v11-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v11-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v12-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v19-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v21-30')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v31-44')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v41-40')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v42-38')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('genesis', 'v43-11')",
+      "passed": true,
+      "details": null
+    },
+    {
       "check": "Source history unchanged: genesis",
       "passed": true,
       "details": null
@@ -69,12 +211,77 @@
       "details": null
     },
     {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v2-20')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v4-28')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v8-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v9-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v10-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-4')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v12-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v16-14')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v24-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('exodus', 'v30-21')",
+      "passed": true,
+      "details": null
+    },
+    {
       "check": "Source history unchanged: exodus",
       "passed": true,
       "details": null
     },
     {
       "check": "Frozen inherited Scripture unchanged: leviticus",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('leviticus', 'v3-14')",
       "passed": true,
       "details": null
     },
@@ -409,6 +616,21 @@
       "details": null
     },
     {
+      "check": "Proposal display agrees with candidate text ('jonah', 'v3-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('jonah', 'v4-10')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('jonah', 'v4-11')",
+      "passed": true,
+      "details": null
+    },
+    {
       "check": "Source history unchanged: jonah",
       "passed": true,
       "details": null
@@ -566,32 +788,62 @@
     {
       "check": "Unique review identity",
       "passed": true,
-      "cases": 128
+      "cases": 2794
     },
     {
       "check": "Review matches frozen commit",
       "passed": true,
-      "cases": 128
+      "cases": 2794
     },
     {
       "check": "Review matches inherited reading section",
       "passed": true,
-      "cases": 128
+      "cases": 2794
     },
     {
       "check": "Review matches exact inherited reference",
       "passed": true,
-      "cases": 128
+      "cases": 2794
     },
     {
       "check": "Review matches exact inherited wording",
       "passed": true,
-      "cases": 128
+      "cases": 2794
     },
     {
       "check": "Review candidate hash agrees",
       "passed": true,
-      "cases": 128
+      "cases": 2794
+    },
+    {
+      "check": "Review decision agrees",
+      "passed": true,
+      "cases": 2794
+    },
+    {
+      "check": "Review benchmark flag agrees",
+      "passed": true,
+      "cases": 2794
+    },
+    {
+      "check": "Review records source-access metadata",
+      "passed": true,
+      "cases": 2794
+    },
+    {
+      "check": "Source locator matches chapter",
+      "passed": true,
+      "cases": 2746
+    },
+    {
+      "check": "Continuation has three draft stages",
+      "passed": true,
+      "cases": 2666
+    },
+    {
+      "check": "Literary stage agrees with candidate",
+      "passed": true,
+      "cases": 2666
     },
     {
       "check": "Nonempty inherited and candidate text",

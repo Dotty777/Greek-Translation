@@ -4,18 +4,20 @@
   "scope": "Entire selected 43-book Saints Old Testament only",
   "instruction_precedence": "Latest owner OT-only request supersedes earlier NT-first priorities; no NT text or review evidence changed.",
   "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
-  "status": "work_begun_full_inherited_manuscript_assembled_fresh_greek_work_incomplete",
+  "status": "source_led_drafting_in_progress_full_review_incomplete",
   "counts": {
     "books": 43,
     "reading_sections": 1037,
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 128,
-    "inherited_without_new_comparison": 26452,
-    "proposed_changed_units": 9,
-    "retained_after_focused_comparison": 119,
-    "new_token_aligned_units": 0,
+    "fresh_focused_comparison_units": 2794,
+    "inherited_without_new_comparison": 23786,
+    "proposed_changed_units": 42,
+    "retained_after_focused_comparison": 2752,
+    "new_token_aligned_units": 1,
+    "aligned_source_tokens": 19,
+    "three_stage_draft_units": 2697,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,
@@ -24,25 +26,39 @@
   "counting_policy": "Stored units and attached continuation paragraphs have separate denominators. Fresh comparisons are provisional AI work, not exhaustive token accounting, human review or acceptance. The entire OT has not been freshly translated in this batch.",
   "source_policy": "Rahlfs–Hanhart 2006 provisional base with inherited book-specific records; Daniel uses Old Greek. No new Göttingen or full apparatus collation claimed.",
   "fresh_scope": [
-    "Genesis 1–3: 80 units",
-    "Jonah 1–4: 48 units"
+    "Genesis: 1531 of 1531 stored units compared; 1 with explicit token accounting",
+    "Exodus: 1165 of 1165 stored units compared; 0 with explicit token accounting",
+    "Leviticus: 50 of 859 stored units compared; 0 with explicit token accounting",
+    "Jonah: 48 of 48 stored units compared; 0 with explicit token accounting"
   ],
-  "draft_stage_scope": "Genesis 1 has 31 close, spoken and literary draft records. Other opening records compare inherited and candidate wording without claiming three separately authored stages.",
+  "draft_stage_scope": "2697 units have recorded close/spoken/literary stages, which may agree when no meaningful revision is justified. These are AI stages, not human reading-aloud review.",
   "review_evidence": [
     "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json",
     "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
-    "reviews/2026-11-12-OT-003-jonah/focused-reviews.json"
+    "reviews/2026-11-12-OT-003-jonah/focused-reviews.json",
+    "reviews/2026-11-12-OT-004-genesis-4/focused-reviews.json",
+    "reviews/2026-11-12-OT-005-genesis-5-11/focused-reviews.json",
+    "reviews/2026-11-12-OT-006-genesis-12-20/focused-reviews.json",
+    "reviews/2026-11-12-OT-007-genesis-21-30/focused-reviews.json",
+    "reviews/2026-11-12-OT-008-genesis-31-37/focused-reviews.json",
+    "reviews/2026-11-12-OT-009-genesis-38-44/focused-reviews.json",
+    "reviews/2026-11-12-OT-010-genesis-45-50/focused-reviews.json",
+    "reviews/2026-11-12-OT-011-exodus-1-2/focused-reviews.json",
+    "reviews/2026-11-12-OT-012-exodus-3-15/focused-reviews.json",
+    "reviews/2026-11-12-OT-013-exodus-16-27/focused-reviews.json",
+    "reviews/2026-11-12-OT-014-exodus-28-40/focused-reviews.json",
+    "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json"
   ],
   "manifest": "editions/2026-11-12-ot-reading-draft/manifest.json",
   "validation": "editions/2026-11-12-ot-reading-draft/validation.json",
   "next_batch": {
-    "id": "OT-GEN-004",
-    "book": "Genesis",
-    "scope": "Genesis 4",
+    "id": "OT-LEV-004",
+    "book": "Leviticus",
+    "scope": "Leviticus 4",
     "status": "not_started",
-    "first_step": "Read the selected Greek running text and draft each unit, preserving inherited benchmark wording and proposed corrections separately.",
-    "parallel_review_debt": "Complete token accounting and resolve Genesis 1–3 questions; Jonah 2:7 and 2:10 remain unresolved. Do not count focused comparisons as final acceptance.",
-    "source_policy": "Rahlfs–Hanhart 2006 provisional running text; book-specific source identity, Göttingen and apparatus review remain separately recorded."
+    "first_step": "Access and read the selected Greek passage, draft by unit and compare the exact inherited text; preserve original files and identify unresolved choices.",
+    "parallel_review_debt": "Complete token accounting and specialist review for compared passages. Genesis 4:7 token accounting does not resolve pronoun antecedents. Jonah 2:7 and 2:10 remain open.",
+    "source_policy": "Rahlfs–Hanhart 2006 provisional base with inherited book-specific records; Daniel uses Old Greek. No new Göttingen or full apparatus collation claimed."
   },
   "books": [
     {
@@ -52,16 +68,18 @@
       "reading_sections": 50,
       "stored_units": 1531,
       "continuation_paragraphs": 0,
-      "fresh_focused_comparison_units": 80,
-      "proposed_changed_units": 6,
+      "fresh_focused_comparison_units": 1531,
+      "proposed_changed_units": 26,
+      "token_aligned_units": 1,
+      "three_stage_draft_units": 1482,
       "verse_path": "genesis/verses.json",
       "source_record": "genesis/source-checks.json",
       "original_schema": "chapter_container",
-      "inherited_without_new_comparison": 1451,
-      "status": "provisional_candidates_with_focused_running_text_evidence",
+      "inherited_without_new_comparison": 0,
+      "status": "complete_running_text_comparison_full_review_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Genesis 4 drafting and Genesis 1–3 full alignment"
+      "next_work": "Complete token accounting and outstanding specialist/human review"
     },
     {
       "book_id": "exodus",
@@ -70,16 +88,18 @@
       "reading_sections": 40,
       "stored_units": 1165,
       "continuation_paragraphs": 0,
-      "fresh_focused_comparison_units": 0,
-      "proposed_changed_units": 0,
+      "fresh_focused_comparison_units": 1165,
+      "proposed_changed_units": 12,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 1165,
       "verse_path": "exodus/verses.json",
       "source_record": "exodus/source-checks.json",
       "original_schema": "chapter_container",
-      "inherited_without_new_comparison": 1165,
-      "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
+      "inherited_without_new_comparison": 0,
+      "status": "complete_running_text_comparison_full_review_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Complete token accounting and outstanding specialist/human review"
     },
     {
       "book_id": "leviticus",
@@ -88,16 +108,18 @@
       "reading_sections": 27,
       "stored_units": 859,
       "continuation_paragraphs": 0,
-      "fresh_focused_comparison_units": 0,
-      "proposed_changed_units": 0,
+      "fresh_focused_comparison_units": 50,
+      "proposed_changed_units": 1,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 50,
       "verse_path": "leviticus/verses.json",
       "source_record": "leviticus/source-checks.json",
       "original_schema": "flat_verse_array",
-      "inherited_without_new_comparison": 859,
-      "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
+      "inherited_without_new_comparison": 809,
+      "status": "partial_running_text_comparison_review_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "numbers",
@@ -108,6 +130,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "numbers/verses.json",
       "source_record": "numbers/source-checks.json",
       "original_schema": "flat_verse_array",
@@ -115,7 +139,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "deuteronomy",
@@ -126,6 +150,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "deuteronomy/verses.json",
       "source_record": "deuteronomy/source-checks.json",
       "original_schema": "flat_verse_array",
@@ -133,7 +159,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "joshua",
@@ -144,6 +170,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "joshua/verses.json",
       "source_record": "joshua/source-checks.json",
       "original_schema": "chapter_container",
@@ -151,7 +179,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "judges",
@@ -162,6 +190,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "judges/verses.json",
       "source_record": "judges/source-checks.json",
       "original_schema": "chapter_container",
@@ -169,7 +199,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "ruth",
@@ -180,6 +210,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "ruth/verses.json",
       "source_record": "ruth/source-checks.json",
       "original_schema": "chapter_container",
@@ -187,7 +219,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "1-samuel",
@@ -198,6 +230,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "1-samuel/verses.json",
       "source_record": "1-samuel/source-checks.json",
       "original_schema": "chapter_container",
@@ -205,7 +239,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "2-samuel",
@@ -216,6 +250,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "2-samuel/verses.json",
       "source_record": "2-samuel/source-checks.json",
       "original_schema": "chapter_container",
@@ -223,7 +259,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "1-kings",
@@ -234,6 +270,8 @@
       "continuation_paragraphs": 1,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "1-kings/verses.json",
       "source_record": "1-kings/source-checks.json",
       "original_schema": "chapter_container",
@@ -241,7 +279,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "2-kings",
@@ -252,6 +290,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "2-kings/verses.json",
       "source_record": "2-kings/source-checks.json",
       "original_schema": "chapter_container",
@@ -259,7 +299,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "1-chronicles",
@@ -270,6 +310,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "1-chronicles/verses.json",
       "source_record": "1-chronicles/source-checks.json",
       "original_schema": "chapter_container",
@@ -277,7 +319,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "2-chronicles",
@@ -288,6 +330,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "2-chronicles/verses.json",
       "source_record": "2-chronicles/source-checks.json",
       "original_schema": "chapter_container",
@@ -295,7 +339,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "1-maccabees",
@@ -306,6 +350,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "1-maccabees/verses.json",
       "source_record": "1-maccabees/source-checks.json",
       "original_schema": "chapter_container",
@@ -313,7 +359,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "2-maccabees",
@@ -324,6 +370,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "2-maccabees/verses.json",
       "source_record": "2-maccabees/source-checks.json",
       "original_schema": "chapter_container",
@@ -331,7 +379,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "ezra",
@@ -342,6 +390,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "ezra/verses.json",
       "source_record": "ezra/source-checks.json",
       "original_schema": "chapter_container",
@@ -349,7 +399,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "nehemiah",
@@ -360,6 +410,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "nehemiah/verses.json",
       "source_record": "nehemiah/source-checks.json",
       "original_schema": "chapter_container",
@@ -367,7 +419,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "esther",
@@ -378,6 +430,8 @@
       "continuation_paragraphs": 6,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "esther/verses.json",
       "source_record": "esther/source-checks.json",
       "original_schema": "chapter_container",
@@ -385,7 +439,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "job",
@@ -396,6 +450,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "job/verses.json",
       "source_record": "job/source-checks.json",
       "original_schema": "chapter_container",
@@ -403,7 +459,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "psalms",
@@ -414,6 +470,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "psalms/verses.json",
       "source_record": "psalms/source-checks.json",
       "original_schema": "chapter_container",
@@ -421,7 +479,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "proverbs",
@@ -432,6 +490,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "proverbs/verses.json",
       "source_record": "proverbs/source-checks.json",
       "original_schema": "chapter_container",
@@ -439,7 +499,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "ecclesiastes",
@@ -450,6 +510,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "ecclesiastes/verses.json",
       "source_record": "ecclesiastes/source-checks.json",
       "original_schema": "chapter_container",
@@ -457,7 +519,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "song-of-songs",
@@ -468,6 +530,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "song-of-songs/verses.json",
       "source_record": "song-of-songs/source-checks.json",
       "original_schema": "chapter_container",
@@ -475,7 +539,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "lamentations",
@@ -486,6 +550,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "lamentations/verses.json",
       "source_record": "lamentations/source-checks.json",
       "original_schema": "chapter_container",
@@ -493,7 +559,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "wisdom-of-solomon",
@@ -504,6 +570,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "wisdom-of-solomon/verses.json",
       "source_record": "wisdom-of-solomon/source-checks.json",
       "original_schema": "chapter_container",
@@ -511,7 +579,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "sirach",
@@ -522,6 +590,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "sirach/verses.json",
       "source_record": "sirach/source-checks.json",
       "original_schema": "chapter_container",
@@ -529,7 +599,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "isaiah",
@@ -540,6 +610,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "isaiah/verses.json",
       "source_record": "isaiah/source-checks.json",
       "original_schema": "chapter_container",
@@ -547,7 +619,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "jeremiah",
@@ -558,6 +630,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "jeremiah/verses.json",
       "source_record": "jeremiah/source-checks.json",
       "original_schema": "chapter_container",
@@ -565,7 +639,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "ezekiel",
@@ -576,6 +650,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "ezekiel/verses.json",
       "source_record": "ezekiel/source-checks.json",
       "original_schema": "chapter_container",
@@ -583,7 +659,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "daniel",
@@ -594,6 +670,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "daniel/verses.json",
       "source_record": "daniel/source-checks.json",
       "original_schema": "chapter_container",
@@ -601,7 +679,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "hosea",
@@ -612,6 +690,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "hosea/verses.json",
       "source_record": "hosea/source-checks.json",
       "original_schema": "chapter_container",
@@ -619,7 +699,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "joel",
@@ -630,6 +710,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "joel/verses.json",
       "source_record": "joel/source-checks.json",
       "original_schema": "chapter_container",
@@ -637,7 +719,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "amos",
@@ -648,6 +730,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "amos/verses.json",
       "source_record": "amos/source-checks.json",
       "original_schema": "chapter_container",
@@ -655,7 +739,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "obadiah",
@@ -666,6 +750,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "obadiah/verses.json",
       "source_record": "obadiah/source-checks.json",
       "original_schema": "chapter_container",
@@ -673,7 +759,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "jonah",
@@ -684,14 +770,16 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 48,
       "proposed_changed_units": 3,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "jonah/verses.json",
       "source_record": "jonah/source-checks.json",
       "original_schema": "chapter_container",
       "inherited_without_new_comparison": 0,
-      "status": "provisional_candidates_with_focused_running_text_evidence",
+      "status": "complete_running_text_comparison_full_review_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Resolve Jonah 2:7 and 2:10; full alignment and review of all four chapters"
+      "next_work": "Complete token accounting and outstanding specialist/human review"
     },
     {
       "book_id": "micah",
@@ -702,6 +790,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "micah/verses.json",
       "source_record": "micah/source-checks.json",
       "original_schema": "chapter_container",
@@ -709,7 +799,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "nahum",
@@ -720,6 +810,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "nahum/verses.json",
       "source_record": "nahum/source-checks.json",
       "original_schema": "chapter_container",
@@ -727,7 +819,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "habakkuk",
@@ -738,6 +830,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "habakkuk/verses.json",
       "source_record": "habakkuk/source-checks.json",
       "original_schema": "chapter_container",
@@ -745,7 +839,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "zephaniah",
@@ -756,6 +850,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "zephaniah/verses.json",
       "source_record": "zephaniah/source-checks.json",
       "original_schema": "chapter_container",
@@ -763,7 +859,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "haggai",
@@ -774,6 +870,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "haggai/verses.json",
       "source_record": "haggai/source-checks.json",
       "original_schema": "chapter_container",
@@ -781,7 +879,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "zechariah",
@@ -792,6 +890,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "zechariah/verses.json",
       "source_record": "zechariah/source-checks.json",
       "original_schema": "chapter_container",
@@ -799,7 +899,7 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     },
     {
       "book_id": "malachi",
@@ -810,6 +910,8 @@
       "continuation_paragraphs": 0,
       "fresh_focused_comparison_units": 0,
       "proposed_changed_units": 0,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
       "verse_path": "malachi/verses.json",
       "source_record": "malachi/source-checks.json",
       "original_schema": "chapter_container",
@@ -817,12 +919,12 @@
       "status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
       "fully_reviewed_units": 0,
       "newly_accepted_units": 0,
-      "next_work": "Verify book/section source identity and begin Greek-led drafting in project order"
+      "next_work": "Continue source-led drafting in project order; preserve open review debt"
     }
   ],
   "review_debt": [
-    "Fresh Greek-led work on all remaining OT units and seven attached continuations.",
-    "Full token and construction accounting for the opening 128 focused comparisons.",
+    "Source-led drafting for all remaining OT units and separately review the seven attached continuation paragraphs.",
+    "Complete token and construction accounting for every compared unit without an explicit full token ledger.",
     "Source identity and numbering reconciliation for each book and exceptional section.",
     "Book-specific Göttingen and apparatus comparison where accessible, with exact evidence.",
     "Specialist lexical/syntactic decisions; Jonah 2:7 and 2:10 explicitly unresolved.",

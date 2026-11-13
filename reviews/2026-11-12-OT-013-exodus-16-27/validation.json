@@ -1,0 +1,33 @@
+{
+  "batch_id": "OT-013",
+  "result": "pass",
+  "stored_units": 345,
+  "chapter_counts": {
+    "16": 36,
+    "17": 16,
+    "18": 27,
+    "19": 25,
+    "20": 26,
+    "21": 37,
+    "22": 30,
+    "23": 33,
+    "24": 18,
+    "25": 39,
+    "26": 37,
+    "27": 21
+  },
+  "proposal_references": [
+    "Exodus 16:14",
+    "Exodus 24:12"
+  ],
+  "checks": [
+    "All scoped inherited units appear once, in order, with pinned baseline text and exact anchors",
+    "All authored close drafts and complete spoken/literary candidates populated",
+    "Candidate hashes computed from UTF-8 text",
+    "Original Exodus scoped data equals pinned baseline",
+    "Absent 25:6 preserved",
+    "Greek commandment order at 20:13–15 and 21:37 preserved",
+    "No inherited poetic units in scope; changed poetry would require explicit display text",
+    "No human review, token-completeness, apparatus review, acceptance or publication claimed"
+  ]
+}

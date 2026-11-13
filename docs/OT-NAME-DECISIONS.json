@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-11-12",
+  "status": "scoped_working_name_register_not_complete_or_editorially_approved",
+  "scope": "Selected name distinctions encountered in the opening OT work; not an exhaustive personal or place-name index.",
+  "policy": "Retain inherited English forms while investigating source and identity distinctions. Matching Greek spelling does not establish matching persons; different names in a narrative are not silently harmonized.",
+  "entries": [
+    {
+      "record_id": "GEN-CAIN-LINE-GAIDAD",
+      "greek_form": "Γαιδαδ",
+      "inherited_english_form": "Gaidad",
+      "reference": "Genesis 4:18",
+      "source": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+      "decision": "Retain the selected Greek-based inherited form; do not silently substitute a familiar alternate genealogy name.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "GEN-CAIN-LINE-MAIEL",
+      "greek_form": "Μαιηλ",
+      "inherited_english_form": "Maiel",
+      "reference": "Genesis 4:18",
+      "source": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+      "decision": "Retain the selected Greek-based inherited form; similarity with another genealogy does not establish person identity.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "GEN-CAINAN-POSTFLOOD",
+      "greek_form": "Καιναν",
+      "inherited_english_form": "Cainan",
+      "reference": "Genesis 10:24; 11:12–13",
+      "sources": ["https://www.die-bibel.de/en/bible/LXX/GEN.10", "https://www.die-bibel.de/en/bible/LXX/GEN.11"],
+      "decision": "Retain Arphaxad–Cainan–Shelah in the selected text, including the material grouped within 11:13. Do not merge this record with the earlier Cainan in Genesis 5 merely because the Greek spelling agrees.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "GEN-SARA-SARAH",
+      "greek_forms": ["Σαρα", "Σαρρα"],
+      "inherited_english_forms": ["Sara", "Sarah"],
+      "references": ["Genesis 12", "Genesis 17:15", "Genesis 21"],
+      "sources": ["https://www.die-bibel.de/en/bible/LXX/GEN.12", "https://www.die-bibel.de/en/bible/LXX/GEN.17", "https://www.die-bibel.de/en/bible/LXX/GEN.21"],
+      "decision": "Preserve the deliberate before/after naming distinction in the existing manuscript; do not normalize both spellings globally.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "EXO-MIDWIFE-SEPPHORA",
+      "greek_form": "Σεπφωρα",
+      "inherited_english_form": "Sepphora",
+      "reference": "Exodus 1:15",
+      "source": "https://www.die-bibel.de/en/bible/LXX/EXO.1",
+      "decision": "Retain the midwife's inherited form. Shared Greek spelling with Moses's wife in 2:21 does not identify them as the same woman.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "EXO-WIFE-ZIPPORAH",
+      "greek_form": "Σεπφωρα",
+      "greek_inflected_form_in_reference": "Σεπφωραν",
+      "inherited_english_form": "Zipporah",
+      "reference": "Exodus 2:21",
+      "source": "https://www.die-bibel.de/en/bible/LXX/EXO.2",
+      "decision": "Retain the wife's inherited form and separate person record; the spelling difference from Sepphora is an inherited convention requiring later authority-list review, not evidence of different Greek lemmas.",
+      "approved_english_form": null
+    },
+    {
+      "record_id": "EXO-JETHRO-REUEL-QUESTION",
+      "greek_forms": ["Ιοθορ", "Ραγουηλ"],
+      "inherited_english_forms": ["Jethro", "Reuel"],
+      "references": ["Exodus 2:16", "Exodus 2:18"],
+      "source": "https://www.die-bibel.de/en/bible/LXX/EXO.2",
+      "decision": "Preserve both names where printed. Their historical or genealogical relationship remains unresolved in this batch; no alias equivalence or apparatus solution is asserted.",
+      "approved_english_form": null
+    }
+  ],
+  "review": {
+    "reviewer": "OpenAI Codex assistant",
+    "type": "AI",
+    "edition": "Rahlfs–Hanhart 2006 running text",
+    "independent_human_review": null,
+    "editorial_acceptance": null
+  }
+}

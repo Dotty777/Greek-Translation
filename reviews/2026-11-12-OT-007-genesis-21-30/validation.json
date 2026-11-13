@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "batch_id": "OT-007",
+  "date": "2026-11-12",
+  "counts": {
+    "units": 360,
+    "proposed_revisions": 1,
+    "retained_provisionally": 359,
+    "draft_stage_records": 360,
+    "distinct_close_stage_alternatives": 14,
+    "units_with_explicit_unresolved_questions": 29,
+    "token_aligned": 0,
+    "independently_reviewed": 0,
+    "human_read_aloud": 0,
+    "editorially_accepted": 0
+  },
+  "checks": [
+    "All 360 inherited units present in chapter and verse order",
+    "Every verse has a unique manually authored source-specific analysis",
+    "Exact frozen baseline texts, IDs and references retained",
+    "Candidate SHA-256 values generated from exact UTF-8 text",
+    "All explicit proposal and close-draft keys resolve exactly once",
+    "All records have three provisional draft-stage fields",
+    "No all-token, independent-human, human-reading, acceptance or publication completion asserted",
+    "Original Genesis archive unchanged apart from checkout line-ending representation",
+    "Generated text files use UTF-8 with LF newlines"
+  ],
+  "limits": "AI source-led focused running-text comparison and provisional draft stages only. No exhaustive token alignment, specialist lexicon consultation, critical apparatus, Göttingen collation, independent human Greek review, human reading aloud, editorial acceptance or publication is claimed."
+}

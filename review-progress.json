@@ -14,9 +14,9 @@
     "count_evidence": "review-2026-11-09.md",
     "counts_freshly_recomputed": false
   },
-  "status": "old_testament_only_initial_comparisons_drafted",
+  "status": "old_testament_only_greek_review_in_progress",
   "new_programme_completed_units": 0,
-  "counting_policy": "Current OT batch: 26,580 inherited stored units plus seven attached continuations; 128 focused Greek comparisons, no full token alignments or newly accepted units. The 26,452 other OT units are inherited without a new comparison in this batch. Earlier NT evidence remains 153 candidate units (18 token-aligned, 135 focused); no new NT work. Inherited manuscript assembly, focused comparison, token accounting, human review, acceptance and publication are separate counts.",
+  "counting_policy": "The OT manuscript contains inherited text and separately evidenced candidate drafts. Running-text comparison, token accounting (a subset), human review, acceptance and publication are separate counts. Earlier NT evidence is retained without new NT work. See ot_manuscript and old-testament-progress.json for exact current denominators.",
   "stage_keys": [
     "source_collation",
     "apparatus_review",
@@ -27,13 +27,13 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "OT-GEN-004",
-    "book": "Genesis",
-    "scope": "Genesis 4",
+    "id": "OT-LEV-004",
+    "book": "Leviticus",
+    "scope": "Leviticus 4",
     "status": "not_started",
-    "first_step": "Read the selected Greek running text and draft each unit, preserving inherited benchmark wording and proposed corrections separately.",
-    "parallel_review_debt": "Complete token accounting and resolve Genesis 1–3 questions; Jonah 2:7 and 2:10 remain unresolved. Do not count focused comparisons as final acceptance.",
-    "source_policy": "Rahlfs–Hanhart 2006 provisional running text; book-specific source identity, Göttingen and apparatus review remain separately recorded."
+    "first_step": "Access and read the selected Greek passage, draft by unit and compare the exact inherited text; preserve original files and identify unresolved choices.",
+    "parallel_review_debt": "Complete token accounting and specialist review for compared passages. Genesis 4:7 token accounting does not resolve pronoun antecedents. Jonah 2:7 and 2:10 remain open.",
+    "source_policy": "Rahlfs–Hanhart 2006 provisional base with inherited book-specific records; Daniel uses Old Greek. No new Göttingen or full apparatus collation claimed."
   },
   "word_studies": {
     "next_batch": "WS-001",
@@ -172,8 +172,8 @@
     },
     {
       "id": "OT-001",
-      "scope": "Genesis 1",
-      "status": "focused_comparison_drafted_review_pending",
+      "scope": "Genesis 1:1–31",
+      "status": "provisional_running_text_draft_review_pending",
       "evidence": [
         "reviews/2026-11-12-OT-001-genesis-1/README.md",
         "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json"
@@ -181,8 +181,8 @@
     },
     {
       "id": "OT-002",
-      "scope": "Genesis 2–3",
-      "status": "focused_comparison_drafted_review_pending",
+      "scope": "Genesis 2–3; all 49 inherited anchored units",
+      "status": "provisional_running_text_draft_review_pending",
       "evidence": [
         "reviews/2026-11-12-OT-002-genesis-2-3/README.md",
         "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json"
@@ -190,11 +190,119 @@
     },
     {
       "id": "OT-003",
-      "scope": "Jonah 1–4",
-      "status": "focused_comparison_drafted_review_pending",
+      "scope": "Jonah 1–4; all 48 existing LXX-numbered units (16/11/10/11).",
+      "status": "provisional_running_text_draft_review_pending",
       "evidence": [
         "reviews/2026-11-12-OT-003-jonah/README.md",
         "reviews/2026-11-12-OT-003-jonah/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-004",
+      "scope": "Genesis 4:1–26",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-004-genesis-4/README.md",
+        "reviews/2026-11-12-OT-004-genesis-4/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-005",
+      "scope": "Genesis 5–11; all 193 inherited stored units, including the full grouped Cainan passage at 11:13",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-005-genesis-5-11/README.md",
+        "reviews/2026-11-12-OT-005-genesis-5-11/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-006",
+      "scope": "Genesis 12–20, every existing unit",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-006-genesis-12-20/README.md",
+        "reviews/2026-11-12-OT-006-genesis-12-20/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-007",
+      "scope": "Genesis 21–30; all 360 inherited units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-007-genesis-21-30/README.md",
+        "reviews/2026-11-12-OT-007-genesis-21-30/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-008",
+      "scope": "Genesis 31–37; all 244 inherited stored units, preserving the absent labels 31:51 and 35:21 and all 33 units of chapter 32.",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-008-genesis-31-37/README.md",
+        "reviews/2026-11-12-OT-008-genesis-31-37/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-009",
+      "scope": "Genesis 38–44, every existing unit",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-009-genesis-38-44/README.md",
+        "reviews/2026-11-12-OT-009-genesis-38-44/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-010",
+      "scope": "Genesis 45–50; all 174 inherited units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-010-genesis-45-50/README.md",
+        "reviews/2026-11-12-OT-010-genesis-45-50/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-011",
+      "scope": "Exodus 1–2",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-011-exodus-1-2/README.md",
+        "reviews/2026-11-12-OT-011-exodus-1-2/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-012",
+      "scope": "Exodus 3–15, every existing unit",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-012-exodus-3-15/README.md",
+        "reviews/2026-11-12-OT-012-exodus-3-15/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-013",
+      "scope": "Exodus 16–27, all 345 inherited units; preserves absent 25:6, Greek commandment order and 21:37 numbering.",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-013-exodus-16-27/README.md",
+        "reviews/2026-11-12-OT-013-exodus-16-27/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-014",
+      "scope": "Exodus 28–40; all 405 inherited units in selected Greek order",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-014-exodus-28-40/README.md",
+        "reviews/2026-11-12-OT-014-exodus-28-40/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-015",
+      "scope": "Leviticus 1–3",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-12-OT-015-leviticus-1-3/README.md",
+        "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json"
       ]
     }
   ],
@@ -208,16 +316,19 @@
       "legacy_records": "genesis/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "genesis/source-checks.json",
-      "programme_status": "provisional_candidates_with_focused_running_text_evidence",
+      "programme_status": "complete_running_text_comparison_full_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 1531,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
-          "new_programme_units": 0,
+          "new_programme_units": 1,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [
+            "reviews/2026-11-12-OT-004-genesis-4/focused-reviews.json"
+          ],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -258,19 +369,28 @@
       },
       "issues": [
         "Full token alignment, applicable apparatus and specialist lexical/syntactic review remain pending.",
-        "Independent human Greek review, human read-aloud, editorial acceptance and website publication remain pending."
+        "Independent human Greek review, human read-aloud, editorial acceptance and website publication remain pending.",
+        "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
       ],
-      "next_batch": "OT-GEN-004",
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
-      "new_programme_drafted_units": 80,
-      "focused_running_text_compared_units": 80,
-      "token_aligned_units": 0,
+      "new_programme_drafted_units": 1531,
+      "focused_running_text_compared_units": 1531,
+      "token_aligned_units": 1,
       "focused_comparison_evidence": [
         "reviews/2026-11-12-OT-001-genesis-1/focused-reviews.json",
-        "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json"
-      ]
+        "reviews/2026-11-12-OT-002-genesis-2-3/focused-reviews.json",
+        "reviews/2026-11-12-OT-004-genesis-4/focused-reviews.json",
+        "reviews/2026-11-12-OT-005-genesis-5-11/focused-reviews.json",
+        "reviews/2026-11-12-OT-006-genesis-12-20/focused-reviews.json",
+        "reviews/2026-11-12-OT-007-genesis-21-30/focused-reviews.json",
+        "reviews/2026-11-12-OT-008-genesis-31-37/focused-reviews.json",
+        "reviews/2026-11-12-OT-009-genesis-38-44/focused-reviews.json",
+        "reviews/2026-11-12-OT-010-genesis-45-50/focused-reviews.json"
+      ],
+      "three_stage_draft_units": 1482
     },
     {
       "order": 2,
@@ -281,7 +401,7 @@
       "legacy_records": "exodus/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "exodus/source-checks.json",
-      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
+      "programme_status": "complete_running_text_comparison_full_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 1165,
@@ -290,7 +410,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -329,14 +450,23 @@
         "stale_occurrences": null,
         "published_new_occurrences": 0
       },
-      "issues": [],
+      "issues": [
+        "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
+      ],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
-      "new_programme_drafted_units": 0,
-      "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "new_programme_drafted_units": 1165,
+      "focused_running_text_compared_units": 1165,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 1165,
+      "focused_comparison_evidence": [
+        "reviews/2026-11-12-OT-011-exodus-1-2/focused-reviews.json",
+        "reviews/2026-11-12-OT-012-exodus-3-15/focused-reviews.json",
+        "reviews/2026-11-12-OT-013-exodus-16-27/focused-reviews.json",
+        "reviews/2026-11-12-OT-014-exodus-28-40/focused-reviews.json"
+      ]
     },
     {
       "order": 3,
@@ -347,7 +477,7 @@
       "legacy_records": "leviticus/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "leviticus/source-checks.json",
-      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
+      "programme_status": "partial_running_text_comparison_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 859,
@@ -356,7 +486,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -395,14 +526,20 @@
         "stale_occurrences": null,
         "published_new_occurrences": 0
       },
-      "issues": [],
-      "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "issues": [
+        "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
+      ],
+      "next_batch": "OT-LEV-004",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
-      "new_programme_drafted_units": 0,
-      "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "new_programme_drafted_units": 50,
+      "focused_running_text_compared_units": 50,
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 50,
+      "focused_comparison_evidence": [
+        "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json"
+      ]
     },
     {
       "order": 4,
@@ -422,7 +559,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -463,12 +601,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 5,
@@ -488,7 +628,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -529,12 +670,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 6,
@@ -554,7 +697,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -595,12 +739,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 7,
@@ -620,7 +766,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -661,12 +808,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 8,
@@ -686,7 +835,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -727,12 +877,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 9,
@@ -752,7 +904,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -793,12 +946,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 10,
@@ -818,7 +973,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -859,12 +1015,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 11,
@@ -884,7 +1042,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -925,12 +1084,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 12,
@@ -950,7 +1111,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -991,12 +1153,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 13,
@@ -1016,7 +1180,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1057,12 +1222,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 14,
@@ -1082,7 +1249,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1123,12 +1291,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 15,
@@ -1148,7 +1318,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1189,12 +1360,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 16,
@@ -1214,7 +1387,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1255,12 +1429,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 17,
@@ -1280,7 +1456,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1321,12 +1498,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 18,
@@ -1346,7 +1525,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1387,12 +1567,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 19,
@@ -1412,7 +1594,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1453,12 +1636,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 20,
@@ -1478,7 +1663,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1519,12 +1705,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 21,
@@ -1544,7 +1732,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1585,12 +1774,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 22,
@@ -1610,7 +1801,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1651,12 +1843,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 23,
@@ -1676,7 +1870,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1717,12 +1912,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 24,
@@ -1742,7 +1939,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1783,12 +1981,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 25,
@@ -1808,7 +2008,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1849,12 +2050,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 26,
@@ -1874,7 +2077,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1915,12 +2119,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 27,
@@ -1940,7 +2146,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -1981,12 +2188,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 28,
@@ -2006,7 +2215,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2047,12 +2257,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 29,
@@ -2072,7 +2284,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2113,12 +2326,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 30,
@@ -2138,7 +2353,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2179,12 +2395,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 31,
@@ -2204,7 +2422,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2245,12 +2464,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 32,
@@ -2270,7 +2491,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2311,12 +2533,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 33,
@@ -2336,7 +2560,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2377,12 +2602,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 34,
@@ -2402,7 +2629,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2443,12 +2671,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 35,
@@ -2468,7 +2698,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2509,12 +2740,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 36,
@@ -2525,7 +2758,7 @@
       "legacy_records": "jonah/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "jonah/source-checks.json",
-      "programme_status": "provisional_candidates_with_focused_running_text_evidence",
+      "programme_status": "complete_running_text_comparison_full_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 48,
@@ -2534,7 +2767,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2575,10 +2809,11 @@
       },
       "issues": [
         "Full token alignment, applicable apparatus and specialist lexical/syntactic review remain pending.",
-        "Independent human Greek review, human read-aloud, editorial acceptance and website publication remain pending."
+        "Independent human Greek review, human read-aloud, editorial acceptance and website publication remain pending.",
+        "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
       ],
-      "next_batch": "OT-JON-review-debt",
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "next_batch": null,
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 48,
@@ -2586,7 +2821,8 @@
       "token_aligned_units": 0,
       "focused_comparison_evidence": [
         "reviews/2026-11-12-OT-003-jonah/focused-reviews.json"
-      ]
+      ],
+      "three_stage_draft_units": 0
     },
     {
       "order": 37,
@@ -2606,7 +2842,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2647,12 +2884,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 38,
@@ -2672,7 +2911,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2713,12 +2953,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 39,
@@ -2738,7 +2980,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2779,12 +3022,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 40,
@@ -2804,7 +3049,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2845,12 +3091,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 41,
@@ -2870,7 +3118,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2911,12 +3160,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 42,
@@ -2936,7 +3187,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -2977,12 +3229,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 43,
@@ -3002,7 +3256,8 @@
         "source_collation": {
           "new_programme_units": 0,
           "historical_verified_units": null,
-          "evidence": []
+          "evidence": [],
+          "scope_note": "Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review."
         },
         "apparatus_review": {
           "new_programme_units": 0,
@@ -3043,12 +3298,14 @@
       },
       "issues": [],
       "next_batch": null,
-      "denominator_scope": "Structural inventory only; does not certify Greek translation accuracy.",
+      "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
       "new_programme_drafted_units": 0,
       "focused_running_text_compared_units": 0,
-      "token_aligned_units": 0
+      "token_aligned_units": 0,
+      "three_stage_draft_units": 0,
+      "focused_comparison_evidence": []
     },
     {
       "order": 44,
@@ -4815,8 +5072,8 @@
       "token_aligned_units": 0
     }
   ],
-  "new_programme_drafted_units": 281,
-  "current_priority": "Latest owner instruction: work only on the entire 43-book Old Testament. Begin fresh Greek work across the full inherited manuscript; continue drafting at Genesis 4 while completing the open review stages for Genesis 1–3 and Jonah. Existing NT work is unchanged and outside this assignment.",
+  "new_programme_drafted_units": 2947,
+  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: Leviticus 4. Existing NT text and evidence remain unchanged.",
   "nt_manuscript": {
     "status": "complete_provisional_manuscript",
     "books": 27,
@@ -4839,11 +5096,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 128,
-    "inherited_without_new_comparison": 26452,
-    "proposed_changed_units": 9,
-    "retained_after_focused_comparison": 119,
-    "new_token_aligned_units": 0,
+    "fresh_focused_comparison_units": 2794,
+    "inherited_without_new_comparison": 23786,
+    "proposed_changed_units": 42,
+    "retained_after_focused_comparison": 2752,
+    "new_token_aligned_units": 1,
+    "aligned_source_tokens": 19,
+    "three_stage_draft_units": 2697,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,
