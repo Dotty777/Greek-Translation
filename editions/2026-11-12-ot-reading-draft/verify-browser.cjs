@@ -76,10 +76,21 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
   checks.push('Leviticus flat-schema proposal retains reference, before/after wording and unresolved referent');
   await page.screenshot({path:path.join(__dirname,'reader-mobile-leviticus-3-14.png')});
+  for (const [section,anchor,candidate,baseline] of [[5,'v5-7','animal from the flock','sheep'],[11,'v11-27','on its paws','on its hands']]) {
+    await page.goto(url+`#leviticus-section-${section}`);
+    const proposal=page.locator(`#leviticus-section-${section}-${anchor}`);
+    await proposal.locator('summary').click();
+    assert((await proposal.locator('.reading-text').innerText()).includes(candidate));
+    assert((await proposal.locator('.baseline').innerText()).includes(baseline));
+    await proposal.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`Leviticus ${anchor.slice(1).replace('-',':')} proposal and baseline visible on mobile`);
+    await page.screenshot({path:path.join(__dirname,`reader-mobile-leviticus-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');
   await browser.close();
-  fs.writeFileSync(path.join(__dirname,'browser-validation.json'),JSON.stringify({status:'passed',date:'2026-11-12',reader_sha256:crypto.createHash('sha256').update(fs.readFileSync(path.join(__dirname,'Saints-English-Old-Testament.html'))).digest('hex'),environment:'Headless Chrome on Windows; local file, 1440×1000 and 390×844',checks,limits:'Automated functional checks and screenshots, not human reading aloud or an accessibility conformance audit.'},null,2)+'\n');
+  fs.writeFileSync(path.join(__dirname,'browser-validation.json'),JSON.stringify({status:'passed',date:manifest.updated,reader_sha256:crypto.createHash('sha256').update(fs.readFileSync(path.join(__dirname,'Saints-English-Old-Testament.html'))).digest('hex'),environment:'Headless Chrome on Windows; local file, 1440×1000 and 390×844',checks,limits:'Automated functional checks and screenshots, not human reading aloud or an accessibility conformance audit.'},null,2)+'\n');
   console.log(JSON.stringify({status:'passed',checks:checks.length},null,2));
 })().catch(e=>{console.error(e);process.exitCode=1;});

@@ -80,7 +80,7 @@ def update():
           'scope_note':'Only the specifically token-aligned records count here. Running-text AI alignment is not manuscript/apparatus collation or independent review.'})
         ot_books.append({**info,'inherited_without_new_comparison':info['stored_units']-compared,'status':status,'fully_reviewed_units':0,'newly_accepted_units':0,
                         'next_work':'Complete token accounting and outstanding specialist/human review' if compared==info['stored_units'] else 'Continue source-led drafting in project order; preserve open review debt'})
-    progress.update({'updated':'2026-11-12','status':'old_testament_only_greek_review_in_progress',
+    progress.update({'updated':manifest['updated'],'status':'old_testament_only_greek_review_in_progress',
       'current_priority':'Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: '+next_batch['scope']+'. Existing NT text and evidence remain unchanged.',
       'new_programme_drafted_units':sum(b.get('new_programme_drafted_units',0) for b in progress['books']),
       'counting_policy':'The OT manuscript contains inherited text and separately evidenced candidate drafts. Running-text comparison, token accounting (a subset), human review, acceptance and publication are separate counts. Earlier NT evidence is retained without new NT work. See ot_manuscript and old-testament-progress.json for exact current denominators.',
@@ -88,7 +88,7 @@ def update():
     new_by_id={b['id']:b for b in batches}
     progress['batches']=[new_by_id.pop(b['id'],b) for b in progress['batches']]+list(new_by_id.values())
     old=read('old-testament-progress.json')
-    old.update({'status':'source_led_drafting_in_progress_full_review_incomplete','counts':manifest['counts'],
+    old.update({'updated':manifest['updated'],'status':'source_led_drafting_in_progress_full_review_incomplete','counts':manifest['counts'],
       'fresh_scope':fresh_scope,'draft_stage_scope':f"{manifest['counts']['three_stage_draft_units']} units have recorded close/spoken/literary stages, which may agree when no meaningful revision is justified. These are AI stages, not human reading-aloud review.",
       'review_evidence':[i['path'] for i in manifest['review_inputs']],'next_batch':next_batch,'books':ot_books})
     old['review_debt'][0]='Source-led drafting for all remaining OT units and separately review the seven attached continuation paragraphs.'
@@ -105,7 +105,7 @@ def update():
         rows=data.get('records',data.get('reviews',[]))
         continuation.append((data,rows,Path(item['path']).parent.name))
     report=['# Old Testament continuation from Genesis 4','',
-      '**12 November 2026 · provisional Greek-to-Saints English work**','',
+      f"**Updated {manifest['updated']} · provisional Greek-to-Saints English work**",'',
       f"This continuation adds {sum(len(rows) for _,rows,_ in continuation):,} focused comparison records. Across the current OT programme, {manifest['counts']['fresh_focused_comparison_units']:,} of {manifest['counts']['stored_units']:,} stored units have new comparisons; {manifest['counts']['inherited_without_new_comparison']:,} remain inherited text without a new comparison. The full 43-book task is still in progress.",'',
       '| Batch | Scope | Units compared | Wording proposals |','| --- | --- | ---: | ---: |']
     for data,rows,folder in continuation:

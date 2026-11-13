@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**42 proposals · 12 November 2026 · editorial acceptance pending**
+**44 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -705,6 +705,42 @@ The Greek repeats washing and death avoidance, then states the statute for them 
 Fat covering the belly and all fat on it are named again. Propose upon it for the opening prepositional phrase: the displayed Greek has epi, not apo. The preceding altar is a plausible referent for it, but the candidate leaves the pronoun unresolved rather than inserting altar. The selected preposition must not be silently assimilated to the from-phrases in 3:3 and 3:9.
 
 [Focused evidence](../../reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json) · anchor `v3-14`
+
+## Leviticus 5:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And if his hand cannot provide enough for a sheep, he shall bring unto the Lord for the sin which he has committed two turtledoves or two young pigeons, one for sin and one for a whole burnt offering.
+
+**Proposed**
+
+> And if his hand cannot provide enough for an animal from the flock, he shall bring unto the Lord for the sin which he has committed two turtledoves or two young pigeons, one for sin and one for a whole burnt offering.
+
+**Reason and limits**
+
+The hand idiom expresses insufficient means. Propose animal from the flock instead of sheep because the preceding eligible offering explicitly includes a female goat. The two birds remain alternatives, with one for sin and one for whole burning.
+
+[Focused evidence](../../reviews/2026-11-13-OT-016-leviticus-4-7/focused-reviews.json) · anchor `v5-7`
+
+## Leviticus 11:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And among all wild animals that walk on four, whatever walks on its hands shall be unclean for you. Whosoever touches their carcasses shall be unclean until evening.
+
+**Proposed**
+
+> And among all wild animals that walk on four, whatever walks on its paws shall be unclean for you. Whosoever touches their carcasses shall be unclean until evening.
+
+**Reason and limits**
+
+Propose paws for hands in the quadruped context. LSJ cheir I.3 explicitly covers animal paws and cites this passage; the close stage preserves the inherited literal hands wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-018-leviticus-11-13/focused-reviews.json) · anchor `v11-27`
 
 ## Jonah 3:9
 

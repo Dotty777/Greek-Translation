@@ -1,12 +1,14 @@
 {
   "status": "passed_scoped_ai_visual_inspection",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "539eef7ca8659e255dca91badcf5dfc279cbcd0802ae59a1ac0c041ca7f72d0f",
+  "reader_sha256": "b110462a9d32a1a844b0b4b7e18f02b052189dd57bd5cd467b30961150f2f4c3",
   "images_inspected": [
     "reader-desktop.png",
     "reader-mobile.png",
+    "reader-mobile-leviticus-5-7.png",
+    "reader-mobile-leviticus-11-27.png",
     "reader-mobile-jonah.png",
     "reader-mobile-jonah-proposal.png",
     "reader-mobile-genesis-4-7.png",
@@ -14,8 +16,10 @@
     "reader-mobile-leviticus-3-14.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "91a0dcc2d16c50d95dd49819f7dc663d6e0e2aa908282ee0882953fe48e891d8",
-    "reader-mobile.png": "4916d6e268b2d91052104ae5a20767703cf6d2f1d7abe5ef2c5f49080bf6c107",
+    "reader-desktop.png": "530d4c0b1d7cb71b1b91a4c6984753aaad1d4a524b6e55c66b56de22e8b09fb4",
+    "reader-mobile.png": "e6a026c3f3fd4c18c8d7d921b0c63830b2985cd8a41d38d72682dcbbd3254692",
+    "reader-mobile-leviticus-5-7.png": "89b98b83c63791d6ae2f65122d19b98f2c101f3d8f52ae5bf224f82901173877",
+    "reader-mobile-leviticus-11-27.png": "cd137d8480b5c666935a0c0a8b3d8bd26469359b674a95d58016d0cbb4907aed",
     "reader-mobile-jonah.png": "cbc8c4e31e1798fa9e47a38977441ccd281bd6e499d451f2ed7d45136fc45c50",
     "reader-mobile-jonah-proposal.png": "d69021ca9d6400ee60ae3b76d1307372ef4db21cfff84af68a20314ed023a4b0",
     "reader-mobile-genesis-4-7.png": "fbf366977a3775a25c165a580f6b46300d0883146038f23382e3d9423a88999d",
@@ -23,12 +27,25 @@
     "reader-mobile-leviticus-3-14.png": "9488601e59555db2a02d553a4a8abbb743feaacdcf1c7b592e6519f2e4a40f55"
   },
   "findings": [
-    "Desktop title, updated comparison counts, navigation, reading text and controls are legible without overlap.",
-    "Phone-width header and collapsed navigation fit within the viewport; the direct Genesis link remains visible.",
-    "Jonah text and the expanded Jonah 4:10 comparison wrap within the phone viewport without horizontal clipping.",
-    "Genesis 4:7 separates Scripture, close alternative, unresolved pronouns and token-alignment status.",
-    "Exodus 2:20 and Leviticus 3:14 display clearly marked proposals, exact inherited wording and Greek source links.",
-    "Leviticus 3:14 keeps its unresolved referent visible in the expanded note; commentary remains separate from Scripture."
+    "Updated desktop and phone headers show 3,603 comparisons and 44 proposals with legible navigation and controls.",
+    "Leviticus 5:7 and 11:27 display the new wording, exact baseline, rationale, source link and close alternative without horizontal clipping at 390px.",
+    "Five earlier passage screenshots are byte-identical to the previously inspected files; their scoped findings remain applicable."
   ],
-  "scope_limits": "Representative viewport screenshots only; not every page, a real-device check, human read-aloud review, independent Greek review or an accessibility conformance audit. Browser identity and 17 functional checks are in browser-validation.json."
+  "scope_limits": "Four current screenshots inspected by AI; five earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Nineteen automated functional checks are recorded separately.",
+  "freshly_inspected": [
+    "reader-desktop.png",
+    "reader-mobile.png",
+    "reader-mobile-leviticus-5-7.png",
+    "reader-mobile-leviticus-11-27.png"
+  ],
+  "prior_inspections_reused_by_identical_image_hash": {
+    "date": "2026-11-12",
+    "images": [
+      "reader-mobile-jonah.png",
+      "reader-mobile-jonah-proposal.png",
+      "reader-mobile-genesis-4-7.png",
+      "reader-mobile-exodus-2-20.png",
+      "reader-mobile-leviticus-3-14.png"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 # Old Testament continuation from Genesis 4
 
-**12 November 2026 · provisional Greek-to-Saints English work**
+**Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 2,666 focused comparison records. Across the current OT programme, 2,794 of 26,580 stored units have new comparisons; 23,786 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 3,475 focused comparison records. Across the current OT programme, 3,603 of 26,580 stored units have new comparisons; 22,977 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -18,11 +18,19 @@ This continuation adds 2,666 focused comparison records. Across the current OT p
 | [OT-013](2026-11-12-OT-013-exodus-16-27/README.md) | Exodus 16–27, all 345 inherited units; preserves absent 25:6, Greek commandment order and 21:37 numbering. | 345 | 2 |
 | [OT-014](2026-11-12-OT-014-exodus-28-40/README.md) | Exodus 28–40; all 405 inherited units in selected Greek order | 405 | 1 |
 | [OT-015](2026-11-12-OT-015-leviticus-1-3/README.md) | Leviticus 1–3 | 50 | 1 |
+| [OT-016](2026-11-13-OT-016-leviticus-4-7/README.md) | Leviticus 4–7; all 122 stored units in the selected source numbering | 122 | 1 |
+| [OT-017](2026-11-13-OT-017-leviticus-8-10/README.md) | Leviticus 8–10; all 80 stored units in the selected source numbering | 80 | 0 |
+| [OT-018](2026-11-13-OT-018-leviticus-11-13/README.md) | Leviticus 11–13; all 114 stored units in the selected source numbering | 114 | 1 |
+| [OT-019](2026-11-13-OT-019-leviticus-14-15/README.md) | Leviticus 14–15; all 90 stored units in the selected source numbering | 90 | 0 |
+| [OT-020](2026-11-13-OT-020-leviticus-16-19/README.md) | Leviticus 16–19; all 117 stored units in the selected source numbering | 117 | 0 |
+| [OT-021](2026-11-13-OT-021-leviticus-20-22/README.md) | Leviticus 20–22; all 84 stored units in the selected source numbering | 84 | 0 |
+| [OT-022](2026-11-13-OT-022-leviticus-23-24/README.md) | Leviticus 23–24; all 67 stored units in the selected source numbering | 67 | 0 |
+| [OT-023](2026-11-13-OT-023-leviticus-25-27/README.md) | Leviticus 25–27; all 135 stored units in the selected source numbering | 135 | 0 |
 
-Next source-led drafting passage: **Leviticus 4**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **Numbers 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 2,697 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 3,506 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

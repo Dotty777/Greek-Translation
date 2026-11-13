@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "programme": "Bespoke Saints English Greek-led translation and review",
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "roadmap": "ROADMAP.md",
   "standard": "TRANSLATION-STANDARD.md",
   "word_studies_plan": "docs/WORD-STUDIES.md",
@@ -27,9 +27,9 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "OT-LEV-004",
-    "book": "Leviticus",
-    "scope": "Leviticus 4",
+    "id": "OT-NUMBERS-001",
+    "book": "Numbers",
+    "scope": "Numbers 1",
     "status": "not_started",
     "first_step": "Access and read the selected Greek passage, draft by unit and compare the exact inherited text; preserve original files and identify unresolved choices.",
     "parallel_review_debt": "Complete token accounting and specialist review for compared passages. Genesis 4:7 token accounting does not resolve pronoun antecedents. Jonah 2:7 and 2:10 remain open.",
@@ -304,6 +304,78 @@
         "reviews/2026-11-12-OT-015-leviticus-1-3/README.md",
         "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json"
       ]
+    },
+    {
+      "id": "OT-016",
+      "scope": "Leviticus 4–7; all 122 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-016-leviticus-4-7/README.md",
+        "reviews/2026-11-13-OT-016-leviticus-4-7/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-017",
+      "scope": "Leviticus 8–10; all 80 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-017-leviticus-8-10/README.md",
+        "reviews/2026-11-13-OT-017-leviticus-8-10/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-018",
+      "scope": "Leviticus 11–13; all 114 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-018-leviticus-11-13/README.md",
+        "reviews/2026-11-13-OT-018-leviticus-11-13/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-019",
+      "scope": "Leviticus 14–15; all 90 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-019-leviticus-14-15/README.md",
+        "reviews/2026-11-13-OT-019-leviticus-14-15/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-020",
+      "scope": "Leviticus 16–19; all 117 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-020-leviticus-16-19/README.md",
+        "reviews/2026-11-13-OT-020-leviticus-16-19/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-021",
+      "scope": "Leviticus 20–22; all 84 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-021-leviticus-20-22/README.md",
+        "reviews/2026-11-13-OT-021-leviticus-20-22/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-022",
+      "scope": "Leviticus 23–24; all 67 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-022-leviticus-23-24/README.md",
+        "reviews/2026-11-13-OT-022-leviticus-23-24/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-023",
+      "scope": "Leviticus 25–27; all 135 stored units in the selected source numbering",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-023-leviticus-25-27/README.md",
+        "reviews/2026-11-13-OT-023-leviticus-25-27/focused-reviews.json"
+      ]
     }
   ],
   "books": [
@@ -477,7 +549,7 @@
       "legacy_records": "leviticus/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "leviticus/source-checks.json",
-      "programme_status": "partial_running_text_comparison_review_pending",
+      "programme_status": "complete_running_text_comparison_full_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 859,
@@ -529,16 +601,24 @@
       "issues": [
         "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
       ],
-      "next_batch": "OT-LEV-004",
+      "next_batch": null,
       "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
-      "new_programme_drafted_units": 50,
-      "focused_running_text_compared_units": 50,
+      "new_programme_drafted_units": 859,
+      "focused_running_text_compared_units": 859,
       "token_aligned_units": 0,
-      "three_stage_draft_units": 50,
+      "three_stage_draft_units": 859,
       "focused_comparison_evidence": [
-        "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json"
+        "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json",
+        "reviews/2026-11-13-OT-016-leviticus-4-7/focused-reviews.json",
+        "reviews/2026-11-13-OT-017-leviticus-8-10/focused-reviews.json",
+        "reviews/2026-11-13-OT-018-leviticus-11-13/focused-reviews.json",
+        "reviews/2026-11-13-OT-019-leviticus-14-15/focused-reviews.json",
+        "reviews/2026-11-13-OT-020-leviticus-16-19/focused-reviews.json",
+        "reviews/2026-11-13-OT-021-leviticus-20-22/focused-reviews.json",
+        "reviews/2026-11-13-OT-022-leviticus-23-24/focused-reviews.json",
+        "reviews/2026-11-13-OT-023-leviticus-25-27/focused-reviews.json"
       ]
     },
     {
@@ -600,7 +680,7 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null,
+      "next_batch": "OT-NUMBERS-001",
       "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
@@ -5072,8 +5152,8 @@
       "token_aligned_units": 0
     }
   ],
-  "new_programme_drafted_units": 2947,
-  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: Leviticus 4. Existing NT text and evidence remain unchanged.",
+  "new_programme_drafted_units": 3756,
+  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: Numbers 1. Existing NT text and evidence remain unchanged.",
   "nt_manuscript": {
     "status": "complete_provisional_manuscript",
     "books": 27,
@@ -5096,13 +5176,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 2794,
-    "inherited_without_new_comparison": 23786,
-    "proposed_changed_units": 42,
-    "retained_after_focused_comparison": 2752,
+    "fresh_focused_comparison_units": 3603,
+    "inherited_without_new_comparison": 22977,
+    "proposed_changed_units": 44,
+    "retained_after_focused_comparison": 3559,
     "new_token_aligned_units": 1,
     "aligned_source_tokens": 19,
-    "three_stage_draft_units": 2697,
+    "three_stage_draft_units": 3506,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,

@@ -2,6 +2,7 @@
   "edition_id": "Saints-English-OT-provisional-2026-11-12",
   "title": "Bespoke Saints English — Complete Old Testament Reading Draft",
   "date": "2026-11-12",
+  "updated": "2026-11-13",
   "baseline_repository": "https://github.com/Dotty777/Greek-Translation",
   "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
   "status": "complete_inherited_reading_manuscript_with_provisional_comparison_candidates",
@@ -14,13 +15,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 2794,
-    "inherited_without_new_comparison": 23786,
-    "proposed_changed_units": 42,
-    "retained_after_focused_comparison": 2752,
+    "fresh_focused_comparison_units": 3603,
+    "inherited_without_new_comparison": 22977,
+    "proposed_changed_units": 44,
+    "retained_after_focused_comparison": 3559,
     "new_token_aligned_units": 1,
     "aligned_source_tokens": 19,
-    "three_stage_draft_units": 2697,
+    "three_stage_draft_units": 3506,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,
@@ -65,10 +66,10 @@
       "reading_sections": 27,
       "stored_units": 859,
       "continuation_paragraphs": 0,
-      "fresh_focused_comparison_units": 50,
-      "proposed_changed_units": 1,
+      "fresh_focused_comparison_units": 859,
+      "proposed_changed_units": 3,
       "token_aligned_units": 0,
-      "three_stage_draft_units": 50,
+      "three_stage_draft_units": 859,
       "verse_path": "leviticus/verses.json",
       "source_record": "leviticus/source-checks.json",
       "original_schema": "flat_verse_array"
@@ -749,6 +750,46 @@
       "path": "reviews/2026-11-12-OT-015-leviticus-1-3/focused-reviews.json",
       "sha256": "8bc6c37b49fd236f034edb0c0a7337730691cc3b4de38bf2f541ed0766ded77d",
       "records": 50
+    },
+    {
+      "path": "reviews/2026-11-13-OT-016-leviticus-4-7/focused-reviews.json",
+      "sha256": "b3e11330c38ab0278b953552f3c1aea0df2275b5ce7d3da38773bb03c4c7dcc7",
+      "records": 122
+    },
+    {
+      "path": "reviews/2026-11-13-OT-017-leviticus-8-10/focused-reviews.json",
+      "sha256": "876b32b49fdfd64f754154b2270b37978d7c969d9a8249d83f61d970d26bec9a",
+      "records": 80
+    },
+    {
+      "path": "reviews/2026-11-13-OT-018-leviticus-11-13/focused-reviews.json",
+      "sha256": "2b7b0842b7a74b58accc4cd9c7a45664e2b1fed487fc7ba2177fdd056e295388",
+      "records": 114
+    },
+    {
+      "path": "reviews/2026-11-13-OT-019-leviticus-14-15/focused-reviews.json",
+      "sha256": "27502aa12a892f2871907fe537f6bb67c875fe875466e68527b0b4f2441a6bdb",
+      "records": 90
+    },
+    {
+      "path": "reviews/2026-11-13-OT-020-leviticus-16-19/focused-reviews.json",
+      "sha256": "6baff42494da5f0a3eef2ce54d9de7512ae839e9c02ed0618e8272fcf528d696",
+      "records": 117
+    },
+    {
+      "path": "reviews/2026-11-13-OT-021-leviticus-20-22/focused-reviews.json",
+      "sha256": "de233c1cfbd36457a587f44f30682a179ab43288c0245a502e751386af3c4d3f",
+      "records": 84
+    },
+    {
+      "path": "reviews/2026-11-13-OT-022-leviticus-23-24/focused-reviews.json",
+      "sha256": "1de62b1722871369391a7b933a402f5b8dc06480245748537dead83907dac5bb",
+      "records": 67
+    },
+    {
+      "path": "reviews/2026-11-13-OT-023-leviticus-25-27/focused-reviews.json",
+      "sha256": "b1546ad5f957b72dd20f08e738b394c603f9548cc8c4af950504c5d36a940a0a",
+      "records": 135
     }
   ],
   "missing_planned_review_inputs": [],

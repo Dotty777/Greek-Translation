@@ -21,6 +21,8 @@ ROOT = Path(__file__).resolve().parents[1]
 BASELINE = "39a2bb990f252f9c867879f14942b200c4a86aa5"
 OUT = ROOT / "editions/2026-11-12-ot-reading-draft"
 EDITION_ID = "Saints-English-OT-provisional-2026-11-12"
+AS_OF = "2026-11-13"
+AS_OF_DISPLAY = "13 November 2026"
 REVIEW_DIRS = [
     "reviews/2026-11-12-OT-001-genesis-1",
     "reviews/2026-11-12-OT-002-genesis-2-3",
@@ -37,6 +39,14 @@ REVIEW_DIRS = [
     "reviews/2026-11-12-OT-013-exodus-16-27",
     "reviews/2026-11-12-OT-014-exodus-28-40",
     "reviews/2026-11-12-OT-015-leviticus-1-3",
+    "reviews/2026-11-13-OT-016-leviticus-4-7",
+    "reviews/2026-11-13-OT-017-leviticus-8-10",
+    "reviews/2026-11-13-OT-018-leviticus-11-13",
+    "reviews/2026-11-13-OT-019-leviticus-14-15",
+    "reviews/2026-11-13-OT-020-leviticus-16-19",
+    "reviews/2026-11-13-OT-021-leviticus-20-22",
+    "reviews/2026-11-13-OT-022-leviticus-23-24",
+    "reviews/2026-11-13-OT-023-leviticus-25-27",
 ]
 
 
@@ -330,7 +340,7 @@ def build(required=False):
               "three_stage_draft_units": sum(has_three_drafts(r) for r in reviews),
               "independently_reviewed_units": 0, "human_read_aloud_units": 0, "new_editorially_accepted_units": 0,
               "recovered_poetry_units": recovered_poetry}
-    manifest = {"edition_id": EDITION_ID, "title": "Bespoke Saints English — Complete Old Testament Reading Draft", "date": "2026-11-12",
+    manifest = {"edition_id": EDITION_ID, "title": "Bespoke Saints English — Complete Old Testament Reading Draft", "date": "2026-11-12", "updated": AS_OF,
                 "baseline_repository": "https://github.com/Dotty777/Greek-Translation", "baseline_commit": BASELINE,
                 "status": "complete_inherited_reading_manuscript_with_provisional_comparison_candidates",
                 "scope": "All 43 selected Old Testament books only. Existing project selection, order, source histories and exceptional units preserved.",
@@ -372,7 +382,7 @@ def build(required=False):
     summary = [{"check": prefix, "passed": True, "cases": sum(c["check"].startswith(prefix) for c in checks)} for prefix in
                ["Unique review identity", "Review matches frozen commit", "Review matches inherited reading section", "Review matches exact inherited reference", "Review matches exact inherited wording", "Review candidate hash agrees", "Review decision agrees", "Review benchmark flag agrees", "Review records source-access metadata", "Source locator matches chapter", "Continuation has three draft stages", "Literary stage agrees with candidate", "Nonempty inherited and candidate text", "Poetry text agrees with JSON"]]
     compact_checks = [c for c in checks if not any(c["check"].startswith(s["check"]) for s in summary)] + [s for s in summary if s["cases"]]
-    write_json("validation.json", {"status": "passed", "date": "2026-11-12", "counts": counts, "checks": compact_checks,
+    write_json("validation.json", {"status": "passed", "date": AS_OF, "counts": counts, "checks": compact_checks,
                                    "limits": "Structural/content checks and AI passage comparisons only; not independent Greek or human read-aloud review. No website publication. Browser visual checks, if performed, are recorded separately."})
     names = [p for p in OUT.iterdir() if p.is_file() and p.name != "checksums.json"]
     write_json("checksums.json", {"algorithm": "sha256", "excludes": "checksums.json (self-reference)", "files": {p.name: sha(p.read_bytes()) for p in sorted(names)}})
@@ -386,7 +396,7 @@ def render_reader(edition, inventory):
              """<style>
 :root{color-scheme:light;--ink:#28352f;--muted:#59685f;--paper:#fbf8f1;--accent:#77552b;--line:#d8d2c5}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.75}a{color:#365d51;text-underline-offset:.18em}a:focus-visible,button:focus-visible,select:focus-visible{outline:3px solid #b78238;outline-offset:4px}.masthead{padding:4rem max(1.4rem,calc((100% - 1060px)/2));background:#e9eee7;border-bottom:1px solid var(--line)}.eyebrow,.label,nav,summary,.badge,button,select,footer{font-family:system-ui,sans-serif}.eyebrow{text-transform:uppercase;letter-spacing:.18em;font-size:.75rem}h1{font-weight:400;font-size:clamp(2.4rem,6vw,4.3rem);line-height:1.1;margin:.7rem 0 1rem}h2{font-size:2rem;font-weight:400;margin-top:0}h3{font-weight:400;font-size:1.6rem}.intro{max-width:740px;font-size:1.15rem}.notice{font-family:system-ui,sans-serif;max-width:860px;font-size:.88rem;color:#3c5145}.shell{max-width:1120px;margin:auto;padding:2rem 1.3rem;display:grid;grid-template-columns:220px minmax(0,1fr);gap:3rem}nav{font-size:.85rem}nav details{margin-bottom:.65rem}nav summary{font-weight:650;cursor:pointer}nav a{display:block;padding:.1rem 0}.book{margin-bottom:5rem}.book-head{padding-top:1rem;border-top:3px solid #506650}.chapter-links{display:flex;flex-wrap:wrap;gap:.3rem .9rem;font: .82rem system-ui,sans-serif;margin-bottom:2rem}.chapter{scroll-margin-top:1rem;margin-bottom:3.5rem}.verse{margin:0 0 1rem}.verse-label{display:block;font: .72rem system-ui,sans-serif;color:var(--muted);margin-bottom:.15rem}.reading-text{white-space:pre-line;font-size:1.12rem;margin:0;overflow-wrap:anywhere}.continuation{margin:.65rem 0 1rem 1rem}.badge{font-size:.68rem;color:#68511c;border:1px solid #cbbd95;border-radius:3px;padding:.1rem .3rem;margin-left:.4rem;white-space:nowrap}.candidate{border-left:2px solid #bba263;padding-left:1rem}.comparison{font: .85rem system-ui,sans-serif;color:var(--muted);margin:.7rem 0 1.3rem}.comparison summary{cursor:pointer}.baseline{white-space:pre-line}.source-note{font:.8rem system-ui,sans-serif;color:var(--muted)}.controls{font: .85rem system-ui,sans-serif;display:flex;gap:.8rem;flex-wrap:wrap;align-items:center;margin-bottom:1.5rem}select,button{padding:.55rem .7rem;border:1px solid #a7b5a9;background:#fff;color:#28352f;border-radius:4px;font:inherit}footer{padding:2rem 1.3rem;border-top:1px solid var(--line);font-size:.8rem;text-align:center}[hidden]{display:none!important}.skip{position:absolute;top:-100px;left:1rem}.skip:focus{top:1rem;background:white;padding:1rem} @media(max-width:760px){.shell{display:block;padding:1.5rem 1.1rem}nav{margin-bottom:2rem;columns:2}nav details{break-inside:avoid}.masthead{padding:2.5rem 1.1rem}.badge{white-space:normal}.reading-text{font-size:1.06rem}.book{margin-bottom:3rem}}@media print{nav,.controls,.chapter-links,.skip{display:none!important}.shell{display:block;max-width:none}.masthead{padding:1rem;background:white}.book{display:block!important;break-before:page}.chapter{break-before:page}body{background:white;color:#000}.comparison{font-size:9pt}.reading-text{font-size:11pt}.badge{font-size:8pt}a{color:inherit;text-decoration:none}}
 </style></head><body><a class="skip" href="#reading">Skip to reading</a>""",
-             f'<header class="masthead"><div class="eyebrow">Bespoke Saints English · 12 November 2026</div><h1>The Old Testament</h1><p class="intro">The complete inherited reading manuscript, with the first Greek-led comparison drafts.</p><p class="notice"><strong>Provisional reading edition.</strong> 43 books · {counts["reading_sections"]:,} reading sections · 26,580 stored units. {counts["fresh_focused_comparison_units"]:,} units have new focused comparison records; {counts["proposed_changed_units"]:,} contain unaccepted wording proposals. Most text remains inherited. This is not a completed fresh Greek audit or an accepted release.</p><a href="#genesis-section-1">Begin reading Genesis</a></header><div class="shell"><nav aria-label="Old Testament books">']
+             f'<header class="masthead"><div class="eyebrow">Bespoke Saints English · updated {AS_OF_DISPLAY}</div><h1>The Old Testament</h1><p class="intro">The complete inherited reading manuscript, with the first Greek-led comparison drafts.</p><p class="notice"><strong>Provisional reading edition.</strong> 43 books · {counts["reading_sections"]:,} reading sections · 26,580 stored units. {counts["fresh_focused_comparison_units"]:,} units have new focused comparison records; {counts["proposed_changed_units"]:,} contain unaccepted wording proposals. Most text remains inherited. This is not a completed fresh Greek audit or an accepted release.</p><a href="#genesis-section-1">Begin reading Genesis</a></header><div class="shell"><nav aria-label="Old Testament books">']
     division_names = {"law": "Law", "judgement": "Judgement", "wisdom": "Wisdom", "providence": "Providence"}
     for division in division_names:
         parts.append(f'<details open><summary>{division_names[division]}</summary>')
