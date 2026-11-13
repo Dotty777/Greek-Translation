@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**121 proposals · 12 November 2026 · editorial acceptance pending**
+**123 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -2127,6 +2127,42 @@ Propose strike down about thirty men of Israel instead of the added killing clau
 Propose behold after Watch to retain idou before the women's emergence; the repeated Shiloh, dances, each man's seizure and return to Benjamin remain.
 
 [Focused evidence](../../reviews/2026-11-13-OT-075-judges-21/focused-reviews.json) · anchor `v21-21`
+
+## Ruth 2:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> May the Lord repay your work, and may your reward be full from the Lord, the God of Israel, under whose wings you have come to trust.
+
+**Proposed**
+
+> May the Lord repay your work, and may your reward be full from the Lord, the God of Israel, under whose wings you have come to trust.”
+
+**Reason and limits**
+
+Add the missing closing quotation mark after Boaz's blessing, before Ruth speaks in verse 13. His work/reward blessing and trust beneath the Lord's wings remain unchanged.
+
+[Focused evidence](../../reviews/2026-11-13-OT-076-ruth-1-2/focused-reviews.json) · anchor `v2-12`
+
+## Ruth 4:4
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> I said, ‘I will uncover your ear,’ saying, ‘Acquire it before those who sit here and before the elders of my people.’ If you will act as next of kin, do so; but if you will not act as next of kin, tell me, and I shall know. There is no one besides you to act as next of kin, and I come after you.” He said, “I am he; I will act as next of kin.”
+
+**Proposed**
+
+> I said, ‘I will uncover your ear,’ saying, ‘Acquire it before those who sit here and before the elders of my people.’ If you will act as next of kin, do so; but if you will not act as next of kin, tell me, and I shall know. For there is no one besides you to act as next of kin, and I come after you.” He said, “I am he; I will act as next of kin.”
+
+**Reason and limits**
+
+Propose For before there is no one to retain hoti's explanation of priority; the uncover-your-ear image, public acquisition, two conditions and I-after-you order remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-077-ruth-3-4/focused-reviews.json) · anchor `v4-4`
 
 ## Jonah 3:9
 

@@ -3,7 +3,7 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "a5121eb3a0270c6b255e7ed2cfe5077ac5eec9be14f546d1965e5a4f88ab28a9",
+  "reader_sha256": "f6f4f76a7e544fc1756b1f679da619fbd8a8b2536640d2d1a132ffa61a785153",
   "images_inspected": [
     "reader-desktop.png",
     "reader-mobile-deuteronomy-18-20.png",
@@ -28,10 +28,13 @@
     "reader-mobile-numbers-2-17.png",
     "reader-mobile-numbers-25-8.png",
     "reader-mobile-numbers-4-36.png",
+    "reader-mobile-ruth-1-17.png",
+    "reader-mobile-ruth-2-12.png",
+    "reader-mobile-ruth-3-15.png",
     "reader-mobile.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "c0be7ddf541ba7642ff0445002fb6e952b893d20c2391df73e8dca0626077e8c",
+    "reader-desktop.png": "e0c3547ae051e03cd94425a36bd8c7f48f996845d83256b2b3fdabe0c474107d",
     "reader-mobile-deuteronomy-18-20.png": "5a18ad380d74870878f3b11611a78eb62de27c2e19baf3df0532480477585f86",
     "reader-mobile-deuteronomy-32-43.png": "fceaac0c5fb0619f1ac096ae8ebbfed77c2c4dea8483b49a5e73d5bb2d4a6939",
     "reader-mobile-deuteronomy-33-3.png": "b781415f76068409b7cd2485f4ab647fa03d058fc875effff0c88db429003f0b",
@@ -54,24 +57,24 @@
     "reader-mobile-numbers-2-17.png": "7ac7c5d6aead675c9f0449a3234731584d44fb33a5899510f80b82f033a3bfcb",
     "reader-mobile-numbers-25-8.png": "e1ca2014a9f9996ec23c2839771380907ee4aed1fe82139db53bfb75a4639968",
     "reader-mobile-numbers-4-36.png": "2e5d890d9e0e026c80bf045ba84a647a015fb2799f518ea44e94e63099882001",
-    "reader-mobile.png": "2e45fca1ef500d401b231c548b750e648600ab41ceb5ddeeb8159825275a8c54"
+    "reader-mobile-ruth-1-17.png": "ea8cf3427c27ca90ecf4ade881144061dbd0c048ae9fcc0e2aecf080f36da842",
+    "reader-mobile-ruth-2-12.png": "29024326c7b515ea78ac8864a727258f24001ae48ed384ae4b8239755104ae34",
+    "reader-mobile-ruth-3-15.png": "6ab79fffb74a18e38ccc040c275cbc1f26d196ec8f42d850612f7ab8ebf9f8d9",
+    "reader-mobile.png": "1fa33af84ef411c41f39ad27090d5ecd8a12c9c31a5453e030fdf219ac29e191"
   },
   "findings": [
-    "Desktop and phone headers accurately show 7,126 comparisons and 121 proposals, with legible navigation and controls.",
-    "Judges 5:4 preserves all five poetic lines, direct divine address and an explicit AI lineation notice.",
-    "Judges 11:31 displays the personal relative, conjunctive vow and whole burnt offering with its bounded interpretation note.",
-    "Judges 12:5 and 19:28 clearly distinguish proposed wording from exact inherited text and show the source rationale.",
-    "Judges 21:22 preserves the affirmative offence clause and displays the unresolved pronoun and temporal questions.",
-    "Seventeen earlier screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
+    "Desktop and phone headers accurately show 7,211 comparisons and 123 proposals with legible navigation and controls.",
+    "Ruth 1:17 displays all five poetic lines, ordinary human address, the affirmative death clause and an explicit AI lineation notice.",
+    "Ruth 2:12 visibly closes Boaz’s blessing while retaining the exact inherited baseline and the source-based speech-boundary explanation.",
+    "Ruth 3:15 displays the six unspecified measures and the unresolved subject of entry into the city.",
+    "Twenty-two earlier screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
   ],
-  "scope_limits": "Seven current screenshots inspected by AI; seventeen earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Thirty-six automated functional checks are recorded separately.",
+  "scope_limits": "Five current screenshots inspected by AI; twenty-two earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Forty automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
-    "reader-mobile-judges-11-31.png",
-    "reader-mobile-judges-12-5.png",
-    "reader-mobile-judges-19-28.png",
-    "reader-mobile-judges-21-22.png",
-    "reader-mobile-judges-5-4.png",
+    "reader-mobile-ruth-1-17.png",
+    "reader-mobile-ruth-2-12.png",
+    "reader-mobile-ruth-3-15.png",
     "reader-mobile.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
@@ -88,6 +91,11 @@
       "reader-mobile-joshua-22-24.png",
       "reader-mobile-joshua-22-29.png",
       "reader-mobile-joshua-24-33b.png",
+      "reader-mobile-judges-11-31.png",
+      "reader-mobile-judges-12-5.png",
+      "reader-mobile-judges-19-28.png",
+      "reader-mobile-judges-21-22.png",
+      "reader-mobile-judges-5-4.png",
       "reader-mobile-leviticus-11-27.png",
       "reader-mobile-leviticus-3-14.png",
       "reader-mobile-leviticus-5-7.png",

@@ -27,9 +27,9 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "OT-RUTH-001",
-    "book": "Ruth",
-    "scope": "Ruth 1",
+    "id": "OT-1-SAMUEL-001",
+    "book": "1 Samuel",
+    "scope": "1 Samuel 1",
     "status": "not_started",
     "first_step": "Access and read the selected Greek passage, draft by unit and compare the exact inherited text; preserve original files and identify unresolved choices.",
     "parallel_review_debt": "Complete token accounting and specialist review for compared passages. Genesis 4:7 token accounting does not resolve pronoun antecedents. Jonah 2:7 and 2:10 remain open.",
@@ -844,6 +844,24 @@
         "reviews/2026-11-13-OT-075-judges-21/README.md",
         "reviews/2026-11-13-OT-075-judges-21/focused-reviews.json"
       ]
+    },
+    {
+      "id": "OT-076",
+      "scope": "Ruth 1-2; all 45 stored units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-076-ruth-1-2/README.md",
+        "reviews/2026-11-13-OT-076-ruth-1-2/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "OT-077",
+      "scope": "Ruth 3-4; all 40 stored units",
+      "status": "provisional_running_text_draft_review_pending",
+      "evidence": [
+        "reviews/2026-11-13-OT-077-ruth-3-4/README.md",
+        "reviews/2026-11-13-OT-077-ruth-3-4/focused-reviews.json"
+      ]
     }
   ],
   "books": [
@@ -1438,7 +1456,7 @@
       "legacy_records": "ruth/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "ruth/source-checks.json",
-      "programme_status": "inherited_manuscript_inventoried_fresh_greek_work_pending",
+      "programme_status": "complete_running_text_comparison_full_review_pending",
       "declared_baseline": "Rahlfs–Hanhart 2006; reconcile book-level exceptions",
       "target_review": "Book-specific Göttingen comparison where available and accessible",
       "total_units_verified_for_programme": 85,
@@ -1487,16 +1505,21 @@
         "stale_occurrences": null,
         "published_new_occurrences": 0
       },
-      "issues": [],
-      "next_batch": "OT-RUTH-001",
+      "issues": [
+        "Provisional AI judgments; complete token/syntax, applicable apparatus, specialist and human review stages remain open."
+      ],
+      "next_batch": null,
       "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
-      "new_programme_drafted_units": 0,
-      "focused_running_text_compared_units": 0,
+      "new_programme_drafted_units": 85,
+      "focused_running_text_compared_units": 85,
       "token_aligned_units": 0,
-      "three_stage_draft_units": 0,
-      "focused_comparison_evidence": []
+      "three_stage_draft_units": 85,
+      "focused_comparison_evidence": [
+        "reviews/2026-11-13-OT-076-ruth-1-2/focused-reviews.json",
+        "reviews/2026-11-13-OT-077-ruth-3-4/focused-reviews.json"
+      ]
     },
     {
       "order": 9,
@@ -1557,7 +1580,7 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null,
+      "next_batch": "OT-1-SAMUEL-001",
       "denominator_scope": "Structural inventory only; not certification of Greek accuracy.",
       "denominator_evidence": "editions/2026-11-12-ot-reading-draft/manifest.json",
       "manuscript_status": "included_in_complete_provisional_ot",
@@ -5684,8 +5707,8 @@
       "token_aligned_units": 0
     }
   ],
-  "new_programme_drafted_units": 7279,
-  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: Ruth 1. Existing NT text and evidence remain unchanged.",
+  "new_programme_drafted_units": 7364,
+  "current_priority": "Continue through the entire 43-book Old Testament only, following the translation standard. Next source-led drafting scope: 1 Samuel 1. Existing NT text and evidence remain unchanged.",
   "nt_manuscript": {
     "status": "complete_provisional_manuscript",
     "books": 27,
@@ -5708,13 +5731,13 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 7126,
-    "inherited_without_new_comparison": 19454,
-    "proposed_changed_units": 121,
-    "retained_after_focused_comparison": 7005,
+    "fresh_focused_comparison_units": 7211,
+    "inherited_without_new_comparison": 19369,
+    "proposed_changed_units": 123,
+    "retained_after_focused_comparison": 7088,
     "new_token_aligned_units": 1,
     "aligned_source_tokens": 19,
-    "three_stage_draft_units": 7029,
+    "three_stage_draft_units": 7114,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,

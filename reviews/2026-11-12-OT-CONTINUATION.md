@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 6,998 focused comparison records. Across the current OT programme, 7,126 of 26,580 stored units have new comparisons; 19,454 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 7,083 focused comparison records. Across the current OT programme, 7,211 of 26,580 stored units have new comparisons; 19,369 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -78,11 +78,13 @@ This continuation adds 6,998 focused comparison records. Across the current OT p
 | [OT-073](2026-11-13-OT-073-judges-19/README.md) | Judges 19; all 30 stored units | 30 | 3 |
 | [OT-074](2026-11-13-OT-074-judges-20/README.md) | Judges 20; all 48 stored units | 48 | 1 |
 | [OT-075](2026-11-13-OT-075-judges-21/README.md) | Judges 21; all 25 stored units | 25 | 1 |
+| [OT-076](2026-11-13-OT-076-ruth-1-2/README.md) | Ruth 1-2; all 45 stored units | 45 | 1 |
+| [OT-077](2026-11-13-OT-077-ruth-3-4/README.md) | Ruth 3-4; all 40 stored units | 40 | 1 |
 
-Next source-led drafting passage: **Ruth 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **1 Samuel 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 7,029 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 7,114 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
