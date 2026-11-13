@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**275 proposals · 12 November 2026 · editorial acceptance pending**
+**298 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -4899,6 +4899,420 @@ Propose you lost for you did lose in ordinary human speech. The replacement forc
 Propose you let for you did let in the Lord's address to the king. The doomed man, release from the king's hand, life-for-life and people-for-people sanctions remain. Doomed is provisional for olethrion, whose destructive/disastrous sense should not be treated as a fully resolved technical ban term.
 
 [Focused evidence](../../reviews/2026-11-13-OT-124-1-kings-21/focused-reviews.json) · anchor `v21-42`
+
+## 2 Kings 1:4
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> ‘It shall not be so! For thus says the Lord: The bed onto which you have gone up—you will not come down from it, for there you will surely die.’ And Elijah went and spoke to them.
+
+**Proposed**
+
+> ‘Not so! For thus says the Lord: The bed onto which you have gone up—you will not come down from it, for there you will surely die.’ And Elijah went and spoke to them.
+
+**Reason and limits**
+
+Propose Not so! for It shall not be so! because ouch houtos is an elliptical denial without an expressed future verb. The following For, the bed, denial of coming down, there and emphatic death remain, as does Elijah's actual going and speaking.
+
+[Focused evidence](../../reviews/2026-11-13-OT-126-2-kings-1-2/focused-reviews.json) · anchor `v1-4`
+
+## 2 Kings 1:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They said to him, ‘A man came up to meet us and said to us: Come, return to the king who sent you and tell him, Thus says the Lord: Is it because there is no God in Israel that you are going to inquire of Baal Fly, the god of Ekron? It shall not be so! The bed onto which you have gone up—you will not come down from it, for you will surely die.’
+
+**Proposed**
+
+> They said to him, ‘A man came up to meet us and said to us: Come, return to the king who sent you and tell him, Thus says the Lord: Is it because there is no God in Israel that you are going to inquire of Baal Fly, the god of Ekron? Not so! The bed onto which you have gone up—you will not come down from it, for you will surely die.’
+
+**Reason and limits**
+
+Propose Not so! consistently with verse 4 for the repeated elliptical denial. Retain the man's meeting, return command, full reported oracle and emphatic death. The question here uses singular you for the king, unlike the messengers' plural question in verse 3.
+
+[Focused evidence](../../reviews/2026-11-13-OT-126-2-kings-1-2/focused-reviews.json) · anchor `v1-6`
+
+## 2 Kings 1:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He sent to him a commander, a captain of fifty, with his fifty men. He went up and came to him, and there Elijah was, sitting on the top of the mountain. The captain of fifty spoke to him and said, ‘Man of God, the king has summoned you. Come down!’
+
+**Proposed**
+
+> He sent to him a commander, a captain of fifty, with his fifty men. He went up and came to him, and behold, Elijah was sitting on the top of the mountain. The captain of fifty spoke to him and said, ‘Man of God, the king has summoned you. Come down!’
+
+**Reason and limits**
+
+Propose and behold, Elijah was for and there Elijah was to preserve the explicit presentative at the mountain-top discovery. The commander/captain of fifty, fifty men, royal summons and descent command remain; the king has summoned is not changed into a simple says. Remove the inherited comma between was and sitting in the revised clause.
+
+[Focused evidence](../../reviews/2026-11-13-OT-126-2-kings-1-2/focused-reviews.json) · anchor `v1-9`
+
+## 2 Kings 1:16
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Elijah spoke to him and said, ‘Thus says the Lord: Why did you send messengers to inquire of Baal Fly, the god of Ekron? It shall not be so! The bed onto which you have gone up—you will not come down from it, for you will surely die.’
+
+**Proposed**
+
+> Elijah spoke to him and said, ‘Thus says the Lord: Why did you send messengers to inquire of Baal Fly, the god of Ekron? Not so! The bed onto which you have gone up—you will not come down from it, for you will surely die.’
+
+**Reason and limits**
+
+Propose Not so! for the third elliptical denial, consistent with verses 4 and 6. Retain the direct why-send question, Baal Fly inquiry, bed warning and emphatic death. This version does not repeat the no God in Israel clause, so it is not supplied.
+
+[Focused evidence](../../reviews/2026-11-13-OT-126-2-kings-1-2/focused-reviews.json) · anchor `v1-16`
+
+## 2 Kings 4:32
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Elisha entered the house, and there was the child, dead, lying on his bed.
+
+**Proposed**
+
+> Elisha entered the house, and behold, the child lay dead on his bed.
+
+**Reason and limits**
+
+Propose and behold, the child lay dead on his bed for and there was the child, dead, lying on his bed. This restores the explicit presentative while giving the death-and-position description a natural finite clause; no change to the child's condition is intended.
+
+[Focused evidence](../../reviews/2026-11-13-OT-128-2-kings-4/focused-reviews.json) · anchor `v4-32`
+
+## 2 Kings 6:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Elisha’s minister rose early and went out, and there was an army encircling the city, with horse and chariot forces. The attendant said to him, ‘Alas, lord! What shall we do?’
+
+**Proposed**
+
+> Elisha’s minister rose early and went out, and behold, an army was encircling the city, with horse and chariot forces. The attendant said to him, ‘Alas, lord! What shall we do?’
+
+**Reason and limits**
+
+Propose and behold, an army was encircling for and there was an army encircling to retain the selected presentative. The minister's early rising, horse/chariot forces and alarmed What shall we do remain unchanged.
+
+[Focused evidence](../../reviews/2026-11-13-OT-129-2-kings-5-6/focused-reviews.json) · anchor `v6-15`
+
+## 2 Kings 6:25
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> There was a great famine in Samaria. They besieged it until a donkey’s head cost fifty shekels of silver, and a quarter of a kab of pigeons’ dung cost five shekels of silver.
+
+**Proposed**
+
+> There was a great famine in Samaria. Behold, they besieged it until a donkey’s head cost fifty shekels of silver, and a quarter of a kab of pigeons’ dung cost five shekels of silver.
+
+**Reason and limits**
+
+Propose Behold before they besieged to restore the selected presentative. The famine, fifty-shekel donkey head and five-shekel quarter-kab of pigeon dung remain. Fifty is not replaced by eighty, and dung is not confidently reidentified as a plant.
+
+[Focused evidence](../../reviews/2026-11-13-OT-129-2-kings-5-6/focused-reviews.json) · anchor `v6-25`
+
+## 2 Kings 9:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and entered, and there the army commanders were sitting. He said, ‘I have a word for you, commander.’ Jehu said, ‘For which of all of us?’ He said, ‘For you, commander.’
+
+**Proposed**
+
+> and entered, and behold, the army commanders were sitting. He said, ‘I have a word for you, commander.’ Jehu said, ‘For which of all of us?’ He said, ‘For you, commander.’
+
+**Reason and limits**
+
+Propose and behold, the army commanders were sitting to represent the selected presentative. The word-for-you announcement, Jehu's which-of-us question and repeated commander address remain; no one else is named as the recipient.
+
+[Focused evidence](../../reviews/2026-11-13-OT-131-2-kings-9/focused-reviews.json) · anchor `v9-5`
+
+## 2 Kings 9:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He rose and entered the house. He poured the oil over his head and said to him, ‘Thus says the Lord, the God of Israel: I have anointed you king over the Lord’s people, over Israel,
+
+**Proposed**
+
+> He rose and entered the house. The prophet poured the oil over his head and said to him, ‘Thus says the Lord, the God of Israel: I have anointed you king over the Lord’s people, over Israel,
+
+**Reason and limits**
+
+Propose The prophet poured for the second He poured, clarifying the contextual change from Jehu rising/entering to the commissioned messenger anointing him. The subject is inferred from the instructions in verse 3, not an added Greek name. The full divine title and Lord's people/Israel remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-131-2-kings-9/focused-reviews.json) · anchor `v9-6`
+
+## 2 Kings 11:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> She looked, and there was the king standing by the pillar according to the ordinance, with the singers and trumpets beside the king. All the people of the land were rejoicing and sounding trumpets. Athaliah tore her garments and cried, ‘Conspiracy! Conspiracy!’
+
+**Proposed**
+
+> She looked, and behold, the king was standing by the pillar according to the ordinance, with the singers and trumpets beside the king. All the people of the land were rejoicing and sounding trumpets. Athaliah tore her garments and cried, ‘Conspiracy! Conspiracy!’
+
+**Reason and limits**
+
+Propose and behold, the king was standing for and there was the king standing to retain the presentative. Pillar, ordinance, singers and trumpets, rejoicing people, torn garments and doubled Conspiracy remain; singers are not replaced with commanders.
+
+[Focused evidence](../../reviews/2026-11-13-OT-132-2-kings-10-11/focused-reviews.json) · anchor `v11-14`
+
+## 2 Kings 12:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They would give it to those doing the work, and with it they strengthened the Lord’s house.
+
+**Proposed**
+
+> For they would give it to those doing the work, and with it they strengthened the Lord’s house.
+
+**Reason and limits**
+
+Propose For they would give it to retain hoti linking the workers' funding to the preceding excluded objects. The distribution and completed strengthening with the silver remain, including the selected shift from future giving to past repair.
+
+[Focused evidence](../../reviews/2026-11-13-OT-133-2-kings-12-13/focused-reviews.json) · anchor `v12-15`
+
+## 2 Kings 13:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He did evil in the Lord’s eyes. He did not turn away from every sin of Jeroboam son of Nebat, who caused Israel to sin; he walked in them.
+
+**Proposed**
+
+> He did evil in the Lord’s eyes. He did not turn away from any sin of Jeroboam son of Nebat, who caused Israel to sin; he walked in them.
+
+**Reason and limits**
+
+Propose any sin for every sin under did not turn away. This makes the negative scope natural in English and avoids suggesting that he abandoned some sins but not all; the following walked in them supports continued adherence. The close draft keeps the inherited every wording for review.
+
+[Focused evidence](../../reviews/2026-11-13-OT-133-2-kings-12-13/focused-reviews.json) · anchor `v13-11`
+
+## 2 Kings 13:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> As they were burying the man, suddenly they saw the lightly equipped raider. They threw the man into Elisha’s grave. He went and touched Elisha’s bones, came to life, and stood on his feet.
+
+**Proposed**
+
+> As they were burying the man, behold, they saw the lightly equipped raider. They threw the man into Elisha’s grave. He went and touched Elisha’s bones, came to life, and stood on his feet.
+
+**Reason and limits**
+
+Propose behold for suddenly to preserve the selected presentative without adding a distinct assertion of abrupt timing. Retain singular lightly equipped raider, the corpse thrown into Elisha's grave, movement and contact with bones, life and standing. The unusual movement before revival is not silently reordered.
+
+[Focused evidence](../../reviews/2026-11-13-OT-133-2-kings-12-13/focused-reviews.json) · anchor `v13-21`
+
+## 2 Kings 15:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Sellum son of Jabis became king. In the thirty-ninth year of Azariah king of Judah, Sellum reigned a month of days in Samaria.
+
+**Proposed**
+
+> Sellum son of Jabis became king. In the thirty-ninth year of Azariah king of Judah, Sellum reigned for a month in Samaria.
+
+**Reason and limits**
+
+Propose reigned for a month for reigned a month of days, giving the pleonastic temporal expression natural English. The repeated accession statement, thirty-ninth year and Samaria remain; no fixed thirty-day duration is asserted.
+
+[Focused evidence](../../reviews/2026-11-13-OT-134-2-kings-14-15/focused-reviews.json) · anchor `v15-13`
+
+## 2 Kings 17:26
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They told the king of the Assyrians, ‘The nations you did deport and did resettle in Samaria’s cities do not know the judgment of the God of the land. He has sent lions among them, and behold, they are killing them, because they do not know the judgment of the God of the land.’
+
+**Proposed**
+
+> They told the king of the Assyrians, ‘The nations you deported and resettled in Samaria’s cities do not know the judgment of the God of the land. He has sent lions among them, and behold, they are killing them, because they do not know the judgment of the God of the land.’
+
+**Reason and limits**
+
+Propose you deported and resettled for the two unnecessary did auxiliaries in ordinary human address. The repeated judgment-of-the-God-of-the-land explanation, lions and presentative remain intact.
+
+[Focused evidence](../../reviews/2026-11-13-OT-135-2-kings-16-17/focused-reviews.json) · anchor `v17-26`
+
+## 2 Kings 17:34
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> To this day they acted according to their judgment. They fear, and they act according to their ordinances, their judgment, the law, and the commandment which the Lord commanded Jacob’s sons, whom He named Israel.
+
+**Proposed**
+
+> To this day they acted according to their judgment. They fear, and they act according to their ordinances, their judgment, the law, and the commandment which the Lord commanded the sons of Jacob, whom He named Israel.
+
+**Reason and limits**
+
+Propose the sons of Jacob, whom He named Israel for Jacob's sons, whom He named Israel, placing Jacob next to the singular naming relative. Retain the selected affirmative they fear and they act, all ordinance/law categories and tense shifts; no negations are imported.
+
+[Focused evidence](../../reviews/2026-11-13-OT-135-2-kings-16-17/focused-reviews.json) · anchor `v17-34`
+
+## 2 Kings 17:39
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> But you shall fear the Lord your God, and He will rescue you from all your enemies.
+
+**Proposed**
+
+> But you shall fear only the Lord your God, and He will rescue you from all your enemies.
+
+**Reason and limits**
+
+Propose fear only the Lord your God to represent the restrictive all' e construction. The rescue from all enemies remains; only qualifies the object of fear here and does not alter the surrounding covenant duties.
+
+[Focused evidence](../../reviews/2026-11-13-OT-135-2-kings-16-17/focused-reviews.json) · anchor `v17-39`
+
+## 2 Kings 18:33
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Have the gods of the nations ever rescued, each his own country, from the hand of the king of the Assyrians?
+
+**Proposed**
+
+> Have the gods of the nations rescued, each his own country, from the hand of the king of the Assyrians?
+
+**Reason and limits**
+
+Remove ever from the rhetorical rescue question. The Greek cognate participle and finite verb emphasize rescuing but do not independently assert an unrestricted temporal ever; the simpler question retains each god and his country. The close draft preserves the inherited expansion for comparison.
+
+[Focused evidence](../../reviews/2026-11-13-OT-136-2-kings-18/focused-reviews.json) · anchor `v18-33`
+
+## 2 Kings 19:4
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Perhaps the Lord your God will hear all Rhapsakes’s words, whom his master the king of the Assyrians sent to reproach the living God and to blaspheme with words which the Lord your God has heard. Take up a prayer for the remnant that remains.’
+
+**Proposed**
+
+> Perhaps the Lord your God will hear all the words of Rhapsakes, whom his master the king of the Assyrians sent to reproach the living God and to blaspheme with words which the Lord your God has heard. Take up a prayer for the remnant that remains.’
+
+**Reason and limits**
+
+Reorder Rhapsakes's words to the words of Rhapsakes so that whom clearly identifies the person sent, not the words. Preserve the uncertain perhaps, all, living God, blasphemous words and prayer for the existing remnant. The imperative prayer request renders the future instruction contextually; the close draft retains the inherited order.
+
+[Focused evidence](../../reviews/2026-11-13-OT-137-2-kings-19/focused-reviews.json) · anchor `v19-4`
+
+## 2 Kings 19:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Isaiah son of Amos sent to Hezekiah: ‘Thus says the Lord, the God of hosts, Israel’s God: What you did pray to Me concerning Sennacherib king of the Assyrians, I have heard.
+
+**Proposed**
+
+> Isaiah son of Amos sent to Hezekiah: ‘Thus says the Lord, the God of hosts, Israel’s God: What you prayed to Me concerning Sennacherib king of the Assyrians, I have heard.
+
+**Reason and limits**
+
+Replace what you did pray with what you prayed, using ordinary past tense in the Lord's address to Hezekiah. Retain Lord, God of hosts and Israel's God, and the hearing response. No archaic second-person construction is required for a human addressee.
+
+[Focused evidence](../../reviews/2026-11-13-OT-137-2-kings-19/focused-reviews.json) · anchor `v19-20`
+
+## 2 Kings 19:23
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Through your messengers you did reproach the Lord and did say, “With the multitude of my chariots I shall climb the mountain heights, Lebanon’s flanks. I cut down its cedar’s height, its choice cypresses, and came to the melon of its farthest part, the woodland of its Carmel.
+
+**Proposed**
+
+> Through your messengers you reproached the Lord and said, “With the multitude of my chariots I shall climb the mountain heights, Lebanon’s flanks. I cut down its cedar’s height, its choice cypresses, and came to the melon of its farthest part, the woodland of its Carmel.
+
+**Reason and limits**
+
+Replace did reproach and did say with reproached and said in ordinary human address. Retain the boast's future ascent, past cutting and arrival, Lebanon's flanks, cedar height, selected cypresses and opaque melon/Carmel phrase. Display separates framing speech and boast while the close draft preserves inherited wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-137-2-kings-19/focused-reviews.json) · anchor `v19-23`
+
+## 2 Kings 19:35
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> By night the Lord’s angel went out and struck one hundred eighty-five thousand in the Assyrians’ camp. When they rose early in the morning, behold, they were all dead bodies.
+
+**Proposed**
+
+> By night the Lord’s angel went out and struck one hundred eighty-five thousand in the Assyrians’ camp. When they rose early in the morning, behold, all were dead bodies.
+
+**Reason and limits**
+
+Remove the second they from behold, they were all dead bodies: behold, all were dead bodies preserves the Greek nominal observation without explicitly equating its subject with those who rose. Retain by night, the angel and one hundred eighty-five thousand; the close draft keeps inherited wording.
+
+[Focused evidence](../../reviews/2026-11-13-OT-137-2-kings-19/focused-reviews.json) · anchor `v19-35`
+
+## 2 Kings 22:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> because your heart was softened and you did feel shame before the Lord when you heard what I spoke against this place and its inhabitants, that they should become an obliteration and a curse, and because you did rend your garments and did weep before Me, I also have heard, says the Lord.
+
+**Proposed**
+
+> because your heart was softened and you felt shame before the Lord when you heard what I spoke against this place and its inhabitants, that they should become an obliteration and a curse, and because you tore your garments and wept before Me, I also have heard, says the Lord.
+
+**Reason and limits**
+
+Replace you did feel shame, did rend and did weep with you felt shame, tore and wept in ordinary address to Josiah. Retain softened heart, the Lord's presence, obliteration and curse, garments, tears and divine hearing. The close draft preserves the inherited finite forms.
+
+[Focused evidence](../../reviews/2026-11-13-OT-139-2-kings-22-23/focused-reviews.json) · anchor `v22-19`
 
 ## Jonah 3:9
 

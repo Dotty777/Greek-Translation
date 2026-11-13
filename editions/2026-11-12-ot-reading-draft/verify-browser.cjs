@@ -290,6 +290,26 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`1 Kings ${anchor.slice(1).replace('-',':')} selected wording and evidence remain accessible on mobile`);
     await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-kings-${anchor.slice(1)}.png`)});
   }
+  assert.equal(await page.locator('[data-book="2-kings"] [data-reading-key]').count(),723);
+  assert.equal(await page.locator('[data-book="2-kings"] .verse').count(),723);
+  assert.equal(await page.locator('[id="2-kings-section-1"] .verse').count(),22);
+  for (const suffix of ['a','b','c','d']) assert.equal(await page.locator(`[id="2-kings-section-1-v1-18${suffix}"]`).count(),1);
+  assert((await page.locator('[id="2-kings-section-25-v25-30"] .reading-text').innerText()).includes('all the days of his life'));
+  checks.push('All 723 2 Kings units preserve the four 1:18 lettered units and the final daily provision');
+  assert((await page.locator('[id="2-kings-section-25-v25-9"] .reading-text').innerText()).endsWith('by'));
+  assert.equal(await page.locator('[id="2-kings-section-25-v25-10"] .reading-text').innerText(),'the chief cook.');
+  checks.push('The selected 2 Kings 25:9–10 sentence split remains intact without an imported wall-demolition clause');
+  for (const [section,anchor,phrases] of [[1,'v1-9',['behold, Elijah was sitting','comma between was and sitting']],[2,'v2-14',['Appho','first strike']],[6,'v6-27',['May the Lord not save you','negative wish']],[9,'v9-6',['The prophet poured','He poured','subject is inferred']],[13,'v13-11',['any sin','every sin']],[17,'v17-34',['the sons of Jacob','They fear','no negations']],[19,'v19-23',['you reproached the Lord and said','you did reproach','melon']],[22,'v22-19',['you felt shame','you did feel shame']],[25,'v25-10',['the chief cook.','grammatical completion']]]) {
+    await page.goto(url+`#2-kings-section-${section}`);
+    const unit=page.locator(`[id="2-kings-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(anchor==='v19-23') assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,4);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`2 Kings ${anchor.slice(1).replace('-',':')} selected wording and evidence remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-2-kings-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');

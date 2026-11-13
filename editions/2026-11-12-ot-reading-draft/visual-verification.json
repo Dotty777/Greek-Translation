@@ -3,7 +3,7 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "1a4c33a52e0a95d7740d048b7821c7827dc201ccf4ed2fa78f5cdfe3c8fa2a6a",
+  "reader_sha256": "b9f6fd483bcb1f09a9c730ec53c3a1587f58bf6ec4cdd020fd331c0e89dbda2a",
   "images_inspected": [
     "reader-desktop.png",
     "reader-mobile-1-kings-10-7.png",
@@ -18,6 +18,15 @@
     "reader-mobile-1-samuel-20-12.png",
     "reader-mobile-1-samuel-21-6.png",
     "reader-mobile-1-samuel-30-28a.png",
+    "reader-mobile-2-kings-1-9.png",
+    "reader-mobile-2-kings-13-11.png",
+    "reader-mobile-2-kings-17-34.png",
+    "reader-mobile-2-kings-19-23.png",
+    "reader-mobile-2-kings-2-14.png",
+    "reader-mobile-2-kings-22-19.png",
+    "reader-mobile-2-kings-25-10.png",
+    "reader-mobile-2-kings-6-27.png",
+    "reader-mobile-2-kings-9-6.png",
     "reader-mobile-2-samuel-16-18.png",
     "reader-mobile-2-samuel-19-1.png",
     "reader-mobile-2-samuel-19-23.png",
@@ -53,7 +62,7 @@
     "reader-mobile.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "708ce3b33f9903060701ae616fc0210f7768ba35d183bd9f15537ff3efa61f00",
+    "reader-desktop.png": "6e9bc74cf6dc65e4dc49adbf22b7dd693bfd84a955782dc54266b72b173a8908",
     "reader-mobile-1-kings-10-7.png": "ef8cd6069107a6640e7eec42b8d96018be262dcc6bf077762c7b24c71327e633",
     "reader-mobile-1-kings-12-24b.png": "d567cdec258250d6bca790dc523f921229495656cbaec72cec7f1a37984a0c24",
     "reader-mobile-1-kings-16-9.png": "148e82d94f8b44d8dd7f5fa76c12b3c762b82c904228eeb5ec638bf775da0b93",
@@ -66,6 +75,15 @@
     "reader-mobile-1-samuel-20-12.png": "4d9f1dffc7a3cec57785bd588f55d5f202633f626f29fe1032bf41a3266849ad",
     "reader-mobile-1-samuel-21-6.png": "0e6ce85fdf4df5b70c2cf4cf12a2c35fe4fe6447cca163fd6bce3bab9520dc3a",
     "reader-mobile-1-samuel-30-28a.png": "4281ef244c400526bb529bae8571bab03e533a270d9cc7536dae54988fdf55f0",
+    "reader-mobile-2-kings-1-9.png": "f94308cc276dc4b8f0aa47921b4f0d0492f68ec20c3fbb8c3c077c1210346aa6",
+    "reader-mobile-2-kings-13-11.png": "6eb281acb645b470b2ca53ea13e2fd36928a644ea1188787de876ff1ca31f350",
+    "reader-mobile-2-kings-17-34.png": "da9b60b52b5d812e81d63da7f5a1085b2b115efea97b31ff6ae34a3d1cf2a968",
+    "reader-mobile-2-kings-19-23.png": "f38cee9c0784110a295a0decf6dcbfda4dc6d2d6332e91dd5e7536e01abe91df",
+    "reader-mobile-2-kings-2-14.png": "a3e6d0800082307a2e4773989d138918d4f2e3102f178195baeda908d1bfabe1",
+    "reader-mobile-2-kings-22-19.png": "4c88c3bd3b3767afa2a9e5c4b757c3e5355eb2521ffd5195b09a0cfc9f769acc",
+    "reader-mobile-2-kings-25-10.png": "99aaaec3993aafe0ab4484dd40d74c173797c280f3d48d720d84ddfb978228e8",
+    "reader-mobile-2-kings-6-27.png": "8ea2614c6b2a07024479efe75290675b66b5a90020d5c5f44ed22faaef9e8024",
+    "reader-mobile-2-kings-9-6.png": "1fe2326c0c5f2ba3a00736379bc26cd80496f9b18601e5062266a3fd7767d72d",
     "reader-mobile-2-samuel-16-18.png": "e6973336f61308bf3985c0d55e2269984f7b336454cf32c82162789a332ca6c3",
     "reader-mobile-2-samuel-19-1.png": "5fd743124f7a4b1e0095ba573088e404faa0cc0085af6b25f1f1c0c2252d7567",
     "reader-mobile-2-samuel-19-23.png": "5dce543680e98f66194189f814ab51ffc9e7c6565a6d14b5cc3e929c54df421e",
@@ -98,28 +116,37 @@
     "reader-mobile-ruth-1-17.png": "ea8cf3427c27ca90ecf4ade881144061dbd0c048ae9fcc0e2aecf080f36da842",
     "reader-mobile-ruth-2-12.png": "29024326c7b515ea78ac8864a727258f24001ae48ed384ae4b8239755104ae34",
     "reader-mobile-ruth-3-15.png": "6ab79fffb74a18e38ccc040c275cbc1f26d196ec8f42d850612f7ab8ebf9f8d9",
-    "reader-mobile.png": "1af5be8f6d4f75d348737ed261c59300cdad992deee5f3ba12397c6172d21027"
+    "reader-mobile.png": "222837f866d7046443eafe5361e89dfab8f1450af176876d5eb11faf180db2e8"
   },
   "findings": [
-    "Desktop and mobile headers display 9,502 comparison units and 275 wording proposals without clipping.",
-    "Seven new 1 Kings mobile captures were visually inspected: the 3:27 quotation, 8:53a parent and attached continuation, 10:7 half-report proposal, 12:24b alternate account, 16:9 inferred Elah, 17:23 Look and 22:34 difficult wound description. Text, separate inherited wording, evidence and questions wrap legibly.",
-    "Thirty-seven prior screenshot inspections remain applicable after exact image-hash equality. Nine images were freshly inspected in this checkpoint."
+    "Desktop and mobile headers display 10,225 comparison units and 298 wording proposals without clipping.",
+    "Nine new 2 Kings mobile captures were visually inspected: 1:9 presentative and punctuation, 2:14 failed strike and Appho, 6:27 negative wish, 9:6 inferred prophet, 13:11 negative scope, 17:34 affirmative wording and Jacob antecedent, 19:23 oracle lineation, 22:19 ordinary address and 25:10 sentence completion. Text, separate inherited wording, evidence and questions wrap legibly.",
+    "Forty-four prior screenshot inspections remain applicable after exact image-hash equality. Eleven images were freshly inspected in this checkpoint."
   ],
-  "scope_limits": "Nine current screenshots inspected by AI; thirty-seven earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Sixty-three automated functional checks are recorded separately.",
+  "scope_limits": "Eleven current screenshots inspected by AI; forty-four earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Seventy-four automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
-    "reader-mobile-1-kings-10-7.png",
-    "reader-mobile-1-kings-12-24b.png",
-    "reader-mobile-1-kings-16-9.png",
-    "reader-mobile-1-kings-17-23.png",
-    "reader-mobile-1-kings-22-34.png",
-    "reader-mobile-1-kings-3-27.png",
-    "reader-mobile-1-kings-8-53a.png",
+    "reader-mobile-2-kings-1-9.png",
+    "reader-mobile-2-kings-13-11.png",
+    "reader-mobile-2-kings-17-34.png",
+    "reader-mobile-2-kings-19-23.png",
+    "reader-mobile-2-kings-2-14.png",
+    "reader-mobile-2-kings-22-19.png",
+    "reader-mobile-2-kings-25-10.png",
+    "reader-mobile-2-kings-6-27.png",
+    "reader-mobile-2-kings-9-6.png",
     "reader-mobile.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
     "date": "2026-11-13",
     "images": [
+      "reader-mobile-1-kings-10-7.png",
+      "reader-mobile-1-kings-12-24b.png",
+      "reader-mobile-1-kings-16-9.png",
+      "reader-mobile-1-kings-17-23.png",
+      "reader-mobile-1-kings-22-34.png",
+      "reader-mobile-1-kings-3-27.png",
+      "reader-mobile-1-kings-8-53a.png",
       "reader-mobile-1-samuel-2-10.png",
       "reader-mobile-1-samuel-2-33.png",
       "reader-mobile-1-samuel-20-12.png",
@@ -158,6 +185,6 @@
       "reader-mobile-ruth-2-12.png",
       "reader-mobile-ruth-3-15.png"
     ],
-    "previous_reader_sha256": "57104bd077986e0c718a66346812040cf44658623e706f70f647cda340aa2d25"
+    "previous_reader_sha256": "1a4c33a52e0a95d7740d048b7821c7827dc201ccf4ed2fa78f5cdfe3c8fa2a6a"
   }
 }
