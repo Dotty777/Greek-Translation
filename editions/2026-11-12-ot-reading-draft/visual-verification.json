@@ -3,9 +3,16 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "57104bd077986e0c718a66346812040cf44658623e706f70f647cda340aa2d25",
+  "reader_sha256": "1a4c33a52e0a95d7740d048b7821c7827dc201ccf4ed2fa78f5cdfe3c8fa2a6a",
   "images_inspected": [
     "reader-desktop.png",
+    "reader-mobile-1-kings-10-7.png",
+    "reader-mobile-1-kings-12-24b.png",
+    "reader-mobile-1-kings-16-9.png",
+    "reader-mobile-1-kings-17-23.png",
+    "reader-mobile-1-kings-22-34.png",
+    "reader-mobile-1-kings-3-27.png",
+    "reader-mobile-1-kings-8-53a.png",
     "reader-mobile-1-samuel-2-10.png",
     "reader-mobile-1-samuel-2-33.png",
     "reader-mobile-1-samuel-20-12.png",
@@ -46,7 +53,14 @@
     "reader-mobile.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "82610bdfa14bf2312729868921d8367ed98e34ea5012033d4933f37fd3a643eb",
+    "reader-desktop.png": "708ce3b33f9903060701ae616fc0210f7768ba35d183bd9f15537ff3efa61f00",
+    "reader-mobile-1-kings-10-7.png": "ef8cd6069107a6640e7eec42b8d96018be262dcc6bf077762c7b24c71327e633",
+    "reader-mobile-1-kings-12-24b.png": "d567cdec258250d6bca790dc523f921229495656cbaec72cec7f1a37984a0c24",
+    "reader-mobile-1-kings-16-9.png": "148e82d94f8b44d8dd7f5fa76c12b3c762b82c904228eeb5ec638bf775da0b93",
+    "reader-mobile-1-kings-17-23.png": "acb9c83bdd12bbb30164e34d79b3543b390684f0b8f993b0f7330963bb280bfa",
+    "reader-mobile-1-kings-22-34.png": "0e8b3b9bd3168af79de68abc19a8ae292cbae4571ecc99c0c0cb1aad12afb2b3",
+    "reader-mobile-1-kings-3-27.png": "558d2afe24ac38204cf11d333e56212ebb70afe831acfc18e56a08e525a641f1",
+    "reader-mobile-1-kings-8-53a.png": "4074a225d69dc879b014efe769a1a0c516640218389e8128387be7552d914125",
     "reader-mobile-1-samuel-2-10.png": "5e354ff2667a94d641cd3b943df5cba826b33f4e813967cc421287428d20863b",
     "reader-mobile-1-samuel-2-33.png": "350e96ef26bc0d8a2ea720b2ba1f477200cde22b82159defcabb26195e51143b",
     "reader-mobile-1-samuel-20-12.png": "4d9f1dffc7a3cec57785bd588f55d5f202633f626f29fe1032bf41a3266849ad",
@@ -84,23 +98,23 @@
     "reader-mobile-ruth-1-17.png": "ea8cf3427c27ca90ecf4ade881144061dbd0c048ae9fcc0e2aecf080f36da842",
     "reader-mobile-ruth-2-12.png": "29024326c7b515ea78ac8864a727258f24001ae48ed384ae4b8239755104ae34",
     "reader-mobile-ruth-3-15.png": "6ab79fffb74a18e38ccc040c275cbc1f26d196ec8f42d850612f7ab8ebf9f8d9",
-    "reader-mobile.png": "f4432d5c5e04b159628911f3467f39dba70e4f4203619766c5a44a8f6d7d190f"
+    "reader-mobile.png": "1af5be8f6d4f75d348737ed261c59300cdad992deee5f3ba12397c6172d21027"
   },
   "findings": [
-    "Desktop and mobile headers display 8,680 comparison units and 249 wording proposals without clipping.",
-    "Seven new 2 Samuel mobile captures were visually inspected: the additional 5:16a names, 16:18 following proposal, 19:1 lament, 19:23 negative clause, 22:17 sent proposal, 23:8 wounded proposal and final 24:25 Solomon notice. Text, inherited wording, links and open questions wrap legibly.",
-    "Thirty prior screenshot inspections remain applicable because their image hashes are identical; nine images were freshly inspected in this checkpoint."
+    "Desktop and mobile headers display 9,502 comparison units and 275 wording proposals without clipping.",
+    "Seven new 1 Kings mobile captures were visually inspected: the 3:27 quotation, 8:53a parent and attached continuation, 10:7 half-report proposal, 12:24b alternate account, 16:9 inferred Elah, 17:23 Look and 22:34 difficult wound description. Text, separate inherited wording, evidence and questions wrap legibly.",
+    "Thirty-seven prior screenshot inspections remain applicable after exact image-hash equality. Nine images were freshly inspected in this checkpoint."
   ],
-  "scope_limits": "Seven current screenshots inspected by AI; twenty-five earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Forty-six automated functional checks are recorded separately.",
+  "scope_limits": "Nine current screenshots inspected by AI; thirty-seven earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Sixty-three automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
-    "reader-mobile-2-samuel-16-18.png",
-    "reader-mobile-2-samuel-19-1.png",
-    "reader-mobile-2-samuel-19-23.png",
-    "reader-mobile-2-samuel-22-17.png",
-    "reader-mobile-2-samuel-23-8.png",
-    "reader-mobile-2-samuel-24-25.png",
-    "reader-mobile-2-samuel-5-16a.png",
+    "reader-mobile-1-kings-10-7.png",
+    "reader-mobile-1-kings-12-24b.png",
+    "reader-mobile-1-kings-16-9.png",
+    "reader-mobile-1-kings-17-23.png",
+    "reader-mobile-1-kings-22-34.png",
+    "reader-mobile-1-kings-3-27.png",
+    "reader-mobile-1-kings-8-53a.png",
     "reader-mobile.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
@@ -111,6 +125,13 @@
       "reader-mobile-1-samuel-20-12.png",
       "reader-mobile-1-samuel-21-6.png",
       "reader-mobile-1-samuel-30-28a.png",
+      "reader-mobile-2-samuel-16-18.png",
+      "reader-mobile-2-samuel-19-1.png",
+      "reader-mobile-2-samuel-19-23.png",
+      "reader-mobile-2-samuel-22-17.png",
+      "reader-mobile-2-samuel-23-8.png",
+      "reader-mobile-2-samuel-24-25.png",
+      "reader-mobile-2-samuel-5-16a.png",
       "reader-mobile-deuteronomy-18-20.png",
       "reader-mobile-deuteronomy-32-43.png",
       "reader-mobile-deuteronomy-33-3.png",
@@ -136,6 +157,7 @@
       "reader-mobile-ruth-1-17.png",
       "reader-mobile-ruth-2-12.png",
       "reader-mobile-ruth-3-15.png"
-    ]
+    ],
+    "previous_reader_sha256": "57104bd077986e0c718a66346812040cf44658623e706f70f647cda340aa2d25"
   }
 }

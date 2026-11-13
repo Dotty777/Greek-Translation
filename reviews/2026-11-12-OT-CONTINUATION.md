@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 8,552 focused comparison records. Across the current OT programme, 8,680 of 26,580 stored units have new comparisons; 17,900 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 9,374 focused comparison records. Across the current OT programme, 9,502 of 26,580 stored units have new comparisons; 17,078 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -113,11 +113,26 @@ This continuation adds 8,552 focused comparison records. Across the current OT p
 | [OT-108](2026-11-13-OT-108-2-samuel-20-21/README.md) | 2 Samuel 20-21; all 48 stored units | 48 | 1 |
 | [OT-109](2026-11-13-OT-109-2-samuel-22/README.md) | 2 Samuel 22; all 51 stored units | 51 | 4 |
 | [OT-110](2026-11-13-OT-110-2-samuel-23-24/README.md) | 2 Samuel 23-24; all 64 stored units | 64 | 4 |
+| [OT-111](2026-11-13-OT-111-1-kings-1/README.md) | 1 Kings 1; all 53 stored units | 53 | 2 |
+| [OT-112](2026-11-13-OT-112-1-kings-2/README.md) | 1 Kings 2; all 71 stored units including 25 lettered units | 71 | 2 |
+| [OT-113](2026-11-13-OT-113-1-kings-3-4/README.md) | 1 Kings 3-4; all 46 stored units | 46 | 4 |
+| [OT-114](2026-11-13-OT-114-1-kings-5-6/README.md) | 1 Kings 5-6; all 65 stored units | 65 | 1 |
+| [OT-115](2026-11-13-OT-115-1-kings-7/README.md) | 1 Kings 7; all 50 stored units | 50 | 0 |
+| [OT-116](2026-11-13-OT-116-1-kings-8/README.md) | 1 Kings 8; all 65 stored units and the attached 8:53a continuation | 65 | 0 |
+| [OT-117](2026-11-13-OT-117-1-kings-9-10/README.md) | 1 Kings 9-10; all 51 stored units | 51 | 2 |
+| [OT-118](2026-11-13-OT-118-1-kings-11/README.md) | 1 Kings 11; all 36 stored units including grouped 11:5-8 | 36 | 0 |
+| [OT-119](2026-11-13-OT-119-1-kings-12/README.md) | 1 Kings 12; all 54 stored units including 23 lettered units | 54 | 0 |
+| [OT-120](2026-11-13-OT-120-1-kings-13-14/README.md) | 1 Kings 13-14; all 44 stored units | 44 | 4 |
+| [OT-121](2026-11-13-OT-121-1-kings-15-16/README.md) | 1 Kings 15-16; all 74 stored units | 74 | 2 |
+| [OT-122](2026-11-13-OT-122-1-kings-17-18/README.md) | 1 Kings 17-18; all 70 stored units | 70 | 1 |
+| [OT-123](2026-11-13-OT-123-1-kings-19-20/README.md) | 1 Kings 19-20; all 50 stored units | 50 | 6 |
+| [OT-124](2026-11-13-OT-124-1-kings-21/README.md) | 1 Kings 21; all 43 stored units | 43 | 2 |
+| [OT-125](2026-11-13-OT-125-1-kings-22/README.md) | 1 Kings 22; all 50 stored units | 50 | 0 |
 
-Next source-led drafting passage: **1 Kings 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **2 Kings 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 8,583 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 9,405 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

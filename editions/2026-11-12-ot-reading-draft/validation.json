@@ -7,13 +7,14 @@
     "stored_units": 26580,
     "attached_continuation_paragraphs": 7,
     "reading_paragraphs_including_continuations": 26587,
-    "fresh_focused_comparison_units": 8680,
-    "inherited_without_new_comparison": 17900,
-    "proposed_changed_units": 249,
-    "retained_after_focused_comparison": 8431,
+    "fresh_focused_comparison_continuation_paragraphs": 1,
+    "fresh_focused_comparison_units": 9502,
+    "inherited_without_new_comparison": 17078,
+    "proposed_changed_units": 275,
+    "retained_after_focused_comparison": 9227,
     "new_token_aligned_units": 1,
     "aligned_source_tokens": 19,
-    "three_stage_draft_units": 8583,
+    "three_stage_draft_units": 9405,
     "independently_reviewed_units": 0,
     "human_read_aloud_units": 0,
     "new_editorially_accepted_units": 0,
@@ -2146,6 +2147,161 @@
       "details": null
     },
     {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v1-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v1-42')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v2-26')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v2-29')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-5')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v3-27')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v5-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Reviewed display preserves candidate wording ('1-kings', 'v8-53a')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All attached continuations have comparisons ('1-kings', 'v8-53a')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Attached continuation identity and retained wording ('1-kings', 'v8-53a')/1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Attached continuation authored evidence and drafts ('1-kings', 'v8-53a')/1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Attached continuation lineation preserves wording ('1-kings', 'v8-53a')/1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v9-3')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v10-7')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-17')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-21')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v13-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v16-2')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v16-9')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v17-23')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v19-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-6')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-12')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-15')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-19')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v20-22')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v21-25')",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Proposal display agrees with candidate text ('1-kings', 'v21-42')",
+      "passed": true,
+      "details": null
+    },
+    {
       "check": "Source history unchanged: 1-kings",
       "passed": true,
       "details": null
@@ -2568,62 +2724,62 @@
     {
       "check": "Unique review identity",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review matches frozen commit",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review matches inherited reading section",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review matches exact inherited reference",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review matches exact inherited wording",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review candidate hash agrees",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review decision agrees",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review benchmark flag agrees",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Review records source-access metadata",
       "passed": true,
-      "cases": 8680
+      "cases": 9502
     },
     {
       "check": "Source locator matches chapter",
       "passed": true,
-      "cases": 8632
+      "cases": 9454
     },
     {
       "check": "Continuation has three draft stages",
       "passed": true,
-      "cases": 8552
+      "cases": 9374
     },
     {
       "check": "Literary stage agrees with candidate",
       "passed": true,
-      "cases": 8552
+      "cases": 9374
     },
     {
       "check": "Nonempty inherited and candidate text",

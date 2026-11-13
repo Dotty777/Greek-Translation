@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**249 proposals · 12 November 2026 · editorial acceptance pending**
+**275 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -4431,6 +4431,474 @@ Propose strip the foreigners rather than strip the slain, avoiding an added asse
 Propose three hundred wounded men rather than three hundred who were slain, retaining the raised spear and reputation among three without adding death to traumatiai.
 
 [Focused evidence](../../reviews/2026-11-13-OT-110-2-samuel-23-24/focused-reviews.json) · anchor `v23-18`
+
+## 1 Kings 1:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> While she was still speaking with the king, Nathan the prophet arrived.
+
+**Proposed**
+
+> Behold, while she was still speaking with the king, Nathan the prophet arrived.
+
+**Reason and limits**
+
+Propose Behold before the still-speaking clause to retain the selected presentative as Nathan arrives; no intervening delay is added.
+
+[Focused evidence](../../reviews/2026-11-13-OT-111-1-kings-1/focused-reviews.json) · anchor `v1-22`
+
+## 1 Kings 1:42
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> While he was still speaking, Jonathan son of Abiathar the priest arrived. Adonijah said, “Come in, for you are a man of ability; bring good news!”
+
+**Proposed**
+
+> While he was still speaking, behold, Jonathan son of Abiathar the priest arrived. Adonijah said, “Come in, for you are a man of ability; bring good news!”
+
+**Reason and limits**
+
+Propose behold in the still-speaking arrival of Jonathan. The invitation, man of ability and imperative bring good news remain rather than making good news a narrator's guarantee.
+
+[Focused evidence](../../reviews/2026-11-13-OT-111-1-kings-1/focused-reviews.json) · anchor `v1-42`
+
+## 1 Kings 2:26
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king said to Abiathar the priest, “Go quickly to Anathoth, to your field. You are a man deserving death this day, but I will not put you to death, because you did carry the ark of the Lord’s covenant before my father and did suffer all the hardships my father suffered.”
+
+**Proposed**
+
+> The king said to Abiathar the priest, “Go quickly to Anathoth, to your field. For you are a man deserving death this day, but I will not put you to death, because you did carry the ark of the Lord’s covenant before my father and did suffer all the hardships my father suffered.”
+
+**Reason and limits**
+
+Propose For before the man-deserving-death clause to retain its causal link to the dismissal. The ark-bearing and shared-hardship reasons for sparing Abiathar remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-112-1-kings-2/focused-reviews.json) · anchor `v2-26`
+
+## 1 Kings 2:29
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Solomon was told, “Joab has fled to the Lord’s tent and is holding fast to the altar’s horns.” Solomon sent to Joab, asking, “What has happened to you, that you have fled to the altar?” Joab said, “I was afraid of you, and I fled to the Lord.” King Solomon sent Benaiah son of Jehoiada, saying, “Go, kill him and bury him.”
+
+**Proposed**
+
+> Solomon was told, “Joab has fled to the Lord’s tent, and behold, he is holding fast to the altar’s horns.” Solomon sent to Joab, asking, “What has happened to you, that you have fled to the altar?” Joab said, “I was afraid of you, and I fled to the Lord.” King Solomon sent Benaiah son of Jehoiada, saying, “Go, kill him and bury him.”
+
+**Reason and limits**
+
+Propose and behold, he is holding fast in the report. The fuller royal question, Joab's fear and flight-to-the-Lord answer, and command to kill and bury remain in full.
+
+[Focused evidence](../../reviews/2026-11-13-OT-112-1-kings-2/focused-reviews.json) · anchor `v2-29`
+
+## 1 Kings 3:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord appeared to Solomon in sleep at night. The Lord said to Solomon, “Ask a request for yourself.”
+
+**Proposed**
+
+> The Lord appeared to Solomon in sleep at night. The Lord said to Solomon, “Make a request for yourself.”
+
+**Reason and limits**
+
+Propose Make a request for yourself as natural English for the cognate ask-a-request imperative. Appearance in sleep at night and the repeated Lord/Solomon names remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-113-1-kings-3-4/focused-reviews.json) · anchor `v3-5`
+
+## 1 Kings 3:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Solomon awoke: it was a dream. He rose and came to Jerusalem, and stood before the altar that was before the ark of the Lord’s covenant in Zion. He offered whole burnt offerings and peace offerings, and made a great feast for himself and all his attendants.
+
+**Proposed**
+
+> Solomon awoke: behold, it was a dream. He rose and came to Jerusalem, and stood before the altar that was before the ark of the Lord’s covenant in Zion. He offered whole burnt offerings and peace offerings, and made a great feast for himself and all his attendants.
+
+**Reason and limits**
+
+Propose behold at the dream recognition. The selected altar before the covenant ark in Zion, both offering types and feast for king and attendants remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-113-1-kings-3-4/focused-reviews.json) · anchor `v3-15`
+
+## 1 Kings 3:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> I rose in the morning to nurse my son, and that child was dead. I looked carefully at him in the morning, and he was not my son whom I had borne.”
+
+**Proposed**
+
+> I rose in the morning to nurse my son, and that child was dead. Behold, I looked carefully at him in the morning, and behold, he was not my son whom I had borne.”
+
+**Reason and limits**
+
+Propose both selected beholds around the morning examination and recognition. Nursing, the child's death and denial that he is her own remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-113-1-kings-3-4/focused-reviews.json) · anchor `v3-21`
+
+## 1 Kings 3:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The king answered, “Give the child to the woman who said, ‘Give it to her,’ and you must not put him to death. She is his mother.”
+
+**Proposed**
+
+> The king answered, “Give the child to the woman who said, ‘Give it to her, and you must not put him to death.’ She is his mother.”
+
+**Reason and limits**
+
+Propose extending the inner quotation through the prohibition of death, so the identifying words match the mother's full plea in verse 26. Giving the child and she is his mother remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-113-1-kings-3-4/focused-reviews.json) · anchor `v3-27`
+
+## 1 Kings 5:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He sent to Solomon, saying, “I have heard about everything you did send to me. I will fulfill all your wishes: cedar and pine timber.
+
+**Proposed**
+
+> He sent to Solomon, saying, “I have heard about everything you have sent to me. I will fulfill all your wishes: cedar and pine timber.
+
+**Reason and limits**
+
+Propose have sent for did send to represent the perfect message-sending verb in natural English. Hearing everything and supplying all wishes in cedar and pine remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-114-1-kings-5-6/focused-reviews.json) · anchor `v5-22`
+
+## 1 Kings 9:3
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord said to him, “I have heard the voice of your prayer and supplication which you made before Me. I have done for you according to your whole prayer. I have consecrated this house you did build, to put My name there for ever; My eyes shall be there and My heart always.
+
+**Proposed**
+
+> The Lord said to him, “I have heard the voice of your prayer and supplication which you made before Me. I have done for you according to your whole prayer. I have consecrated this house you built, to put My name there for ever; My eyes shall be there and My heart always.
+
+**Reason and limits**
+
+Propose you built for you did build as ordinary natural address without an added emphatic auxiliary. Hearing prayer, doing all requested, consecration, enduring name, eyes and heart remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-117-1-kings-9-10/focused-reviews.json) · anchor `v9-3`
+
+## 1 Kings 10:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> I did not believe those speaking to me until I arrived and my eyes saw. Behold, it is not half as they reported to me! You have added good things beyond them, beyond every report I heard in my land.
+
+**Proposed**
+
+> I did not believe those speaking to me until I arrived and my eyes saw. Behold, what they reported to me is not half of it! You have added good things beyond them, beyond every report I heard in my land.
+
+**Reason and limits**
+
+Propose what they reported to me is not half of it to make the report-versus-experienced-abundance comparison intelligible. Her prior disbelief, arrival, seeing eyes, behold and added goods beyond every report remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-117-1-kings-9-10/focused-reviews.json) · anchor `v10-7`
+
+## 1 Kings 13:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you did travel.’”
+
+**Proposed**
+
+> For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you traveled.’”
+
+**Reason and limits**
+
+Propose traveled for did travel in ordinary quoted address. The causal For and three prohibited actions remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-120-1-kings-13-14/focused-reviews.json) · anchor `v13-9`
+
+## 1 Kings 13:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you did travel.’”
+
+**Proposed**
+
+> because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you traveled.’”
+
+**Reason and limits**
+
+Propose traveled for did travel in the repeated quoted command. Both occurrences of there and all three prohibitions remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-120-1-kings-13-14/focused-reviews.json) · anchor `v13-17`
+
+## 1 Kings 13:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to the man of God who had come from Judah, “Thus says the Lord: Because you did defy the Lord’s word and did not keep the commandment the Lord your God gave you,
+
+**Proposed**
+
+> He said to the man of God who had come from Judah, “Thus says the Lord: Because you defied the Lord’s word and did not keep the commandment the Lord your God gave you,
+
+**Reason and limits**
+
+Propose you defied for you did defy in ordinary divine speech to a human. The causal judgment and commandment failure remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-120-1-kings-13-14/focused-reviews.json) · anchor `v13-21`
+
+## 1 Kings 13:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and did return, eat bread, and drink water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”
+
+**Proposed**
+
+> and returned, ate bread, and drank water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”
+
+**Reason and limits**
+
+Propose returned, ate and drank for the shared did construction. The prohibited place, repeated food/water command and emphatic exclusion from the fathers' tomb remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-120-1-kings-13-14/focused-reviews.json) · anchor `v13-22`
+
+## 1 Kings 16:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> “Because I raised you from the ground and made you leader over My people Israel, but you did walk in Jeroboam’s way and did cause My people Israel to sin, provoking Me with their worthless things,
+
+**Proposed**
+
+> “Because I raised you from the ground and made you leader over My people Israel, but you walked in Jeroboam’s way and caused My people Israel to sin, provoking Me with their worthless things,
+
+**Reason and limits**
+
+Propose you walked and caused for the unnecessary did auxiliaries in ordinary human address. Divine elevation, Israel leadership, Jeroboam's way and provocation with worthless things remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-121-1-kings-15-16/focused-reviews.json) · anchor `v16-2`
+
+## 1 Kings 16:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Zimri, commander of half the cavalry, conspired against him. He was in Tirzah, drinking himself drunk in the house of Osa, the steward in Tirzah.
+
+**Proposed**
+
+> Zimri, commander of half the cavalry, conspired against him. Elah was in Tirzah, drinking himself drunk in the house of Osa, the steward in Tirzah.
+
+**Reason and limits**
+
+Propose Elah was to identify the contextual drinker after Zimri's conspiracy clause. Zimri commands half the cavalry; Osa is the Tirzah steward.
+
+[Focused evidence](../../reviews/2026-11-13-OT-121-1-kings-15-16/focused-reviews.json) · anchor `v16-9`
+
+## 1 Kings 17:23
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He brought him down from the upper room into the house and gave him to his mother. Elijah said, “Behold, your son lives!”
+
+**Proposed**
+
+> He brought him down from the upper room into the house and gave him to his mother. Elijah said, “Look, your son lives!”
+
+**Reason and limits**
+
+Propose Look for Behold to render blepe as a natural imperative to the mother. Descent, return of her son and his living remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-122-1-kings-17-18/focused-reviews.json) · anchor `v17-23`
+
+## 1 Kings 19:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Elijah looked, and there at his head were a hearth cake of spelt and a flask of water. He rose, ate, and drank, then lay down again.
+
+**Proposed**
+
+> Elijah looked, and behold, at his head were a hearth cake of spelt and a flask of water. He rose, ate, and drank, then lay down again.
+
+**Reason and limits**
+
+Propose behold at the food discovery, retaining the hearth cake of spelt, water flask, rising, eating, drinking and renewed sleep.
+
+[Focused evidence](../../reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json) · anchor `v19-6`
+
+## 1 Kings 20:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to her, “I spoke to Naboth the Jezreelite, saying, ‘Give me your vineyard for silver; or, if you wish, I will give you another vineyard in its place.’ But he said, ‘I will not give you my fathers’ inheritance.’”
+
+**Proposed**
+
+> He said to her, “Because I spoke to Naboth the Jezreelite, saying, ‘Give me your vineyard for silver; or, if you wish, I will give you another vineyard in its place.’ But he said, ‘I will not give you my fathers’ inheritance.’”
+
+**Reason and limits**
+
+Propose Because I spoke to retain hoti as Ahab's answer to why. The silver/replacement offer and refusal of ancestral inheritance remain in his report.
+
+[Focused evidence](../../reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json) · anchor `v20-6`
+
+## 1 Kings 20:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They proclaimed a fast and seated Naboth at the head of the people,
+
+**Proposed**
+
+> They proclaimed a fast and seated Naboth at the head of the people.
+
+**Reason and limits**
+
+Propose a period at the end of the completed fast-and-seating sentence so the next unit's capitalized Two men begins a coherent sentence; wording remains identical.
+
+[Focused evidence](../../reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json) · anchor `v20-12`
+
+## 1 Kings 20:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> When Jezebel heard, she said to Ahab, “Rise, take possession of Naboth the Jezreelite’s vineyard, which he did not give you for silver. Naboth is no longer alive; he is dead.”
+
+**Proposed**
+
+> When Jezebel heard, she said to Ahab, “Rise, take possession of Naboth the Jezreelite’s vineyard, which he did not give you for silver. For Naboth is no longer alive; he is dead.”
+
+**Reason and limits**
+
+Propose For Naboth to retain the causal reason for taking possession. Refused silver and the repeated not-alive/is-dead explanation remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json) · anchor `v20-15`
+
+## 1 Kings 20:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Say to him, ‘Thus says the Lord: Because you did murder and did take possession, therefore thus says the Lord: In every place where swine and dogs licked Naboth’s blood, dogs will lick your blood there, and prostitutes will bathe in your blood.’”
+
+**Proposed**
+
+> Say to him, ‘Thus says the Lord: Because you murdered and took possession, therefore thus says the Lord: In every place where swine and dogs licked Naboth’s blood, dogs will lick your blood there, and prostitutes will bathe in your blood.’”
+
+**Reason and limits**
+
+Propose murdered and took possession for did murder and did take possession. Both thus-says clauses, swine and dogs at Naboth's blood, dogs at Ahab's blood and prostitutes bathing remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json) · anchor `v20-19`
+
+## 1 Kings 20:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> I will make your house like the house of Jeroboam son of Nebat and like the house of Baasha son of Ahijah, because of the provocations you have provoked and because you did cause Israel to sin.’”
+
+**Proposed**
+
+> I will make your house like the house of Jeroboam son of Nebat and like the house of Baasha son of Ahijah, because of the provocations you have provoked and because you caused Israel to sin.’”
+
+**Reason and limits**
+
+Propose caused for did cause in ordinary address. Comparison with both Jeroboam's and Baasha's houses retains the repeated provocations and Israel's induced sin.
+
+[Focused evidence](../../reviews/2026-11-13-OT-123-1-kings-19-20/focused-reviews.json) · anchor `v20-22`
+
+## 1 Kings 21:25
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> We will replace for you a force like the force you did lose, cavalry for cavalry and chariots for chariots. We will fight them on level ground and be stronger than they.” He listened to them and did so.
+
+**Proposed**
+
+> We will replace for you a force like the force you lost, cavalry for cavalry and chariots for chariots. We will fight them on level ground and be stronger than they.” He listened to them and did so.
+
+**Reason and limits**
+
+Propose you lost for you did lose in ordinary human speech. The replacement force, matching cavalry and chariots, renewed level-ground combat and promised superiority remain, as does the king's acceptance. The participle fallen from you is interpreted as military loss, not voluntary departure.
+
+[Focused evidence](../../reviews/2026-11-13-OT-124-1-kings-21/focused-reviews.json) · anchor `v21-25`
+
+## 1 Kings 21:42
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to him, “Thus says the Lord: ‘Because you did let a doomed man out of your hand, your life will be for his life, and your people for his people.’”
+
+**Proposed**
+
+> He said to him, “Thus says the Lord: ‘Because you let a doomed man out of your hand, your life will be for his life, and your people for his people.’”
+
+**Reason and limits**
+
+Propose you let for you did let in the Lord's address to the king. The doomed man, release from the king's hand, life-for-life and people-for-people sanctions remain. Doomed is provisional for olethrion, whose destructive/disastrous sense should not be treated as a fully resolved technical ban term.
+
+[Focused evidence](../../reviews/2026-11-13-OT-124-1-kings-21/focused-reviews.json) · anchor `v21-42`
 
 ## Jonah 3:9
 

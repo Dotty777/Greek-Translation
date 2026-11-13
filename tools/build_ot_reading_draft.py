@@ -134,6 +134,21 @@ REVIEW_DIRS = [
     "reviews/2026-11-13-OT-108-2-samuel-20-21",
     "reviews/2026-11-13-OT-109-2-samuel-22",
     "reviews/2026-11-13-OT-110-2-samuel-23-24",
+    "reviews/2026-11-13-OT-111-1-kings-1",
+    "reviews/2026-11-13-OT-112-1-kings-2",
+    "reviews/2026-11-13-OT-113-1-kings-3-4",
+    "reviews/2026-11-13-OT-114-1-kings-5-6",
+    "reviews/2026-11-13-OT-115-1-kings-7",
+    "reviews/2026-11-13-OT-116-1-kings-8",
+    "reviews/2026-11-13-OT-117-1-kings-9-10",
+    "reviews/2026-11-13-OT-118-1-kings-11",
+    "reviews/2026-11-13-OT-119-1-kings-12",
+    "reviews/2026-11-13-OT-120-1-kings-13-14",
+    "reviews/2026-11-13-OT-121-1-kings-15-16",
+    "reviews/2026-11-13-OT-122-1-kings-17-18",
+    "reviews/2026-11-13-OT-123-1-kings-19-20",
+    "reviews/2026-11-13-OT-124-1-kings-21",
+    "reviews/2026-11-13-OT-125-1-kings-22",
 ]
 
 
@@ -348,10 +363,10 @@ def build(required=False):
                     check(f"Review decision agrees with wording {key}", r.get("decision") == ("propose_revision" if changed else "retain_provisionally"))
                     check(f"Review benchmark flag agrees {key}", bool(r.get("benchmark_change")) == (changed and book_id == 'genesis' and chapter['chapter'] <= 11))
                     check(f"Review records source-access metadata {key}", r.get('source', {}).get('running_text_read') is True and bool(r.get('source', {}).get('url')) and bool(r.get('source', {}).get('accessed_on')))
-                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel'):
-                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU', 'joshua': 'JOS', 'judges': 'JDG', 'ruth': 'RUT', '1-samuel': '1SA', '2-samuel': '2SA'}[book_id]
+                    if book_id in ('genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings'):
+                        source_code = {'genesis': 'GEN', 'exodus': 'EXO', 'leviticus': 'LEV', 'numbers': 'NUM', 'deuteronomy': 'DEU', 'joshua': 'JOS', 'judges': 'JDG', 'ruth': 'RUT', '1-samuel': '1SA', '2-samuel': '2SA', '1-kings': '1KI'}[book_id]
                         check(f"Source locator matches chapter {key}", r['source']['url'].rstrip('/').endswith(f"/LXX/{source_code}.{chapter['chapter']}"))
-                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel'):
+                    if (chapter['chapter'] >= 4 and book_id == 'genesis') or book_id in ('exodus', 'leviticus', 'numbers', 'deuteronomy', 'joshua', 'judges', 'ruth', '1-samuel', '2-samuel', '1-kings'):
                         check(f"Continuation has three draft stages {key}", has_three_drafts(r))
                         check(f"Literary stage agrees with candidate {key}", r['drafts']['literary'] == r['candidate_text'])
                     if r.get("review", {}).get("all_tokens_accounted_for"):
@@ -383,6 +398,16 @@ def build(required=False):
                     used_reviews.add(key)
                 check(f"Nonempty inherited and candidate text {book_id}/{anchor}", bool(text.strip()) and bool(unit["text"].strip()))
                 unit["continuation_paragraphs"] = copy.deepcopy(original.get("continuation_paragraphs", []))
+                unit["continuation_display_paragraphs"] = copy.deepcopy(unit["continuation_paragraphs"])
+                continuation_reviews = review_map.get(key, {}).get("attached_continuation_reviews", [])
+                if continuation_reviews:
+                    check(f"All attached continuations have comparisons {key}", len(continuation_reviews) == len(unit["continuation_paragraphs"]))
+                    for index, (baseline, cr) in enumerate(zip(unit["continuation_paragraphs"], continuation_reviews), 1):
+                        check(f"Attached continuation identity and retained wording {key}/{index}", cr['index'] == index and cr['baseline_text'] == baseline and cr['candidate_text'] == baseline and cr['decision'] == 'retain_provisionally' and cr['candidate_sha256'] == sha(baseline))
+                        check(f"Attached continuation authored evidence and drafts {key}/{index}", bool(cr.get('analysis')) and all(cr.get('drafts', {}).get(stage) == baseline for stage in ('close', 'spoken', 'literary')))
+                        check(f"Attached continuation lineation preserves wording {key}/{index}", norm(cr['candidate_display_text']) == norm(baseline))
+                        unit['continuation_display_paragraphs'][index - 1] = cr['candidate_display_text']
+                    unit['attached_continuation_reviews'] = copy.deepcopy(continuation_reviews)
                 section["verses"].append(unit)
                 all_units.append(unit)
                 book_units.append(unit)
@@ -425,6 +450,7 @@ def build(required=False):
 
     counts = {"books": 43, "reading_sections": sum(b["reading_sections"] for b in inventory), "stored_units": len(all_units),
               "attached_continuation_paragraphs": continuations, "reading_paragraphs_including_continuations": len(all_units) + continuations,
+              "fresh_focused_comparison_continuation_paragraphs": sum(len(v.get('attached_continuation_reviews', [])) for v in all_units),
               "fresh_focused_comparison_units": len(used_reviews), "inherited_without_new_comparison": len(all_units) - len(used_reviews),
               "proposed_changed_units": len(changes), "retained_after_focused_comparison": len(used_reviews) - len(changes),
               "new_token_aligned_units": sum(bool(r.get("review", {}).get("all_tokens_accounted_for")) for r in reviews),
@@ -459,7 +485,7 @@ def build(required=False):
         for c in b["chapters"]:
             for v in c["verses"]:
                 expected_with_cont.append((v["unit_id"], v["display_text"]))
-                expected_with_cont.extend((f"{v['unit_id']}-continuation-{i}", t) for i, t in enumerate(v["continuation_paragraphs"], 1))
+                expected_with_cont.extend((f"{v['unit_id']}-continuation-{i}", t) for i, t in enumerate(v["continuation_display_paragraphs"], 1))
     parser = ReaderParser()
     parser.feed((OUT / "Saints-English-Old-Testament.html").read_text(encoding="utf-8"))
     check("HTML exact ordered display text including every continuation", parser.texts == expected_with_cont)
@@ -512,7 +538,7 @@ def render_reader(edition, inventory):
                 reviewed = verse["review_status"] != "inherited_draft_without_new_comparison"
                 badge = '<span class="badge">Proposal · acceptance pending</span>' if proposal else '<span class="badge">Compared · wording retained</span>' if reviewed else ''
                 parts.append(f'<div class="verse{" candidate" if proposal else ""}" id="{e(verse["unit_id"])}"><span class="verse-label">{e(verse["reference"])}{badge}</span><p class="reading-text" data-reading-key="{e(verse["unit_id"])}">{e(verse["display_text"])}</p>')
-                for i, para in enumerate(verse["continuation_paragraphs"], 1):
+                for i, para in enumerate(verse["continuation_display_paragraphs"], 1):
                     parts.append(f'<p class="reading-text continuation" data-reading-key="{e(verse["unit_id"])}-continuation-{i}">{e(para)}</p>')
                 if reviewed:
                     parts.append(f'<details class="comparison"><summary>{"Compare inherited wording and evidence" if proposal else "Comparison evidence"}</summary>')
@@ -563,7 +589,7 @@ def render_text(edition):
             for verse in chapter["verses"]:
                 tag = " [UNACCEPTED PROPOSAL]" if verse["review_status"] == "unaccepted_wording_proposal" else " [COMPARED; RETAINED]" if verse["review_status"] == "focused_comparison_retained_wording" else ""
                 parts.extend([f"[UNIT {verse['unit_id']}]", verse["reference"] + tag, verse["display_text"], "[/UNIT]", ""])
-                for i, paragraph in enumerate(verse["continuation_paragraphs"], 1):
+                for i, paragraph in enumerate(verse["continuation_display_paragraphs"], 1):
                     parts.extend([f"[UNIT {verse['unit_id']}-continuation-{i}]", f"{verse['reference']} — attached continuation {i}", paragraph, "[/UNIT]", ""])
     (OUT / "Saints-English-Old-Testament.txt").write_text("\n".join(parts), encoding="utf-8", newline="\n")
 

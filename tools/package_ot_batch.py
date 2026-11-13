@@ -72,6 +72,18 @@ def package(directory):
             if 'display' in choice:
                 assert ' '.join(choice['display'].replace('\\n','\n').split())==' '.join(candidate.split())
                 row['candidate_display_text']=choice['display']
+            if v.get('continuation_paragraphs'):
+                authored=choice.get('continuations',[])
+                assert len(authored)==len(v['continuation_paragraphs']), 'Every attached continuation requires an authored comparison'
+                row['attached_continuation_reviews']=[]
+                for index,(baseline,decision) in enumerate(zip(v['continuation_paragraphs'],authored),1):
+                    assert decision.get('analysis'), 'Attached continuation requires passage-specific analysis'
+                    display=decision.get('display',baseline).replace('\\n','\n')
+                    assert ' '.join(display.split())==' '.join(baseline.split()), 'Continuation lineation must preserve wording'
+                    row['attached_continuation_reviews'].append({'index':index,'baseline_text':baseline,'candidate_text':baseline,
+                        'candidate_sha256':sha(baseline),'candidate_display_text':display,'decision':'retain_provisionally',
+                        'drafts':{'close':baseline,'spoken':baseline,'literary':baseline},'analysis':decision['analysis'],
+                        'unresolved_questions':decision.get('unresolved_questions',[]),'all_tokens_accounted_for':False})
             assert all(row['drafts'][s].strip() for s in ('close','spoken','literary'))
             records.append(row)
     assert len(records)==config['expected_units']

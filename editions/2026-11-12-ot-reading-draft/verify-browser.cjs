@@ -264,6 +264,32 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`2 Samuel ${anchor.slice(1).replace('-',':')} selected wording and evidence remain accessible on mobile`);
     await unit.screenshot({path:path.join(__dirname,`reader-mobile-2-samuel-${anchor.slice(1)}.png`)});
   }
+  assert.equal(await page.locator('[data-book="1-kings"] [data-reading-key]').count(),823);
+  assert.equal(await page.locator('[data-book="1-kings"] .verse').count(),822);
+  assert.equal(await page.locator('[id="1-kings-section-2"] .verse').count(),71);
+  assert.equal(await page.locator('[id="1-kings-section-12"] .verse').count(),54);
+  checks.push('All 822 1 Kings units and its attached continuation retain stable identities and expanded chapters');
+  for (const id of ['1-kings-section-3-v3-1','1-kings-section-6-v6-18','1-kings-section-14-v14-1','1-kings-section-22-v22-47']) {
+    assert.equal(await page.locator(`[id="${id}"]`).count(),0);
+  }
+  assert.equal(await page.locator('[id="1-kings-section-11-v11-5-8"]').count(),1);
+  checks.push('1 Kings selected gaps and the combined 11:5–8 unit remain intact');
+  for (const [section,anchor,phrases] of [[3,'v3-27',['Give it to her, and you must not put him to death.','inner quotation']],[8,'v8-53a',['Book of Song','dwelling in newness','Speaker boundaries']],[10,'v10-7',['what they reported to me is not half of it','not half as they reported to me']],[12,'v12-24b',['three hundred','Sarira']],[16,'v16-9',['Elah was in Tirzah','He was in Tirzah']],[17,'v17-23',['Look, your son lives','Behold, your son lives']],[22,'v22-34',['good aim','lung and the breastplate','anatomy']]]) {
+    await page.goto(url+`#1-kings-section-${section}`);
+    const unit=page.locator(`[id="1-kings-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(anchor==='v8-53a') {
+      assert.equal(await unit.locator('.reading-text').count(),2);
+      assert.equal((await unit.locator('.reading-text').nth(0).innerText()).split('\n').length,2);
+      assert.equal((await unit.locator('.reading-text').nth(1).innerText()).split('\n').length,4);
+      assert((await unit.innerText()).includes('Poetic line breaks proposed by AI'));
+    }
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`1 Kings ${anchor.slice(1).replace('-',':')} selected wording and evidence remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-kings-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');
