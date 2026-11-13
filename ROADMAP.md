@@ -1,6 +1,6 @@
 # Bespoke Saints English — Greek Translation Roadmap
 
-**Version 1.1 · 12 November 2026 · New Testament work begun**
+**Version 1.2 · 12 November 2026 · Complete provisional NT manuscript assembled**
 
 **Governing order: Greek fidelity → natural reading aloud → reverent poetic English.** A later stage may improve an earlier rendering only while preserving its meaning. This roadmap begins a documented, source-led translation and review programme for the existing Saints seventy-book edition.
 
@@ -12,6 +12,10 @@
 - [Word-study record template](templates/word-study.json)
 - [Existing editorial progress](progress.json)
 - [Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md)
+
+## Current NT manuscript delivery
+
+The [complete provisional New Testament](editions/2026-11-12-nt-reading-draft/README.md) contains all 27 books, 260 chapters and 7,943 inherited stored units, including seven proposed John 1 revisions. This is manuscript assembly with bounded fresh review; it does not complete the whole Greek-led programme. New candidate evidence totals 153 units: 18 token-aligned and 135 with focused running-text comparison. The remaining 7,790 units are inherited drafts without a fresh programme comparison. All final acceptance stages remain open. See the edition manifest for exact denominators and scope.
 
 ## 1. What exists and what we are beginning
 
@@ -64,7 +68,7 @@ Preserve the project's selected **43 Old Testament and 27 New Testament books**,
 | Discipleship | 22 | Acts, Romans, 1–2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1–2 Thessalonians, 1–2 Timothy, Titus, Philemon, Hebrews, James, 1–2 Peter, 1–3 John, Jude |
 | Glory | 1 | Revelation |
 
-**Current priority override — 12 November 2026:** Vince requested the New Testament first. Start with GT-003 (John 1:1–18), continue John 1:19–34 and 1:35–51, then complete John. Continue Matthew, Mark, Luke, the Discipleship books in the table’s order, and Revelation. The OT batches remain queued for after the NT; Genesis benchmark status is preserved. GT-005 (Romans/James) and the James 2:24 study can be taken as NT calibration work. Cross-book comparisons do not imply that those books are complete.
+**Current priority override — 12 November 2026:** Vince requested the New Testament first. GT-003 (John 1:1–18) now has token evidence, and 1:19–51 has a focused comparison. Continue detailed John work from chapter 2, then complete John. Continue Matthew, Mark, Luke, the Discipleship books in the table’s order, and Revelation. The OT batches remain queued for after the NT; Genesis benchmark status is preserved. GT-005 (Romans/James) and the James 2:24 study can be taken as NT calibration work. Cross-book comparisons do not imply that those books are complete.
 
 Keep Psalm 151, Greek Esther's additions and continuation material, Old Greek Daniel with its additions and preface, Sirach's prologue, and Proverbs' split reading sections visible in the inventory. Preserve Greek numbering, lettered/grouped units and meaningful gaps. Map alternate labels explicitly; never manufacture missing verses merely to match a conventional English count.
 
@@ -93,7 +97,7 @@ Phases 2–4 repeat by passage and book. A book may have a provisional reading r
 | **GT-005** | Romans 3:21–31 and James 2:14–26 | Test contextual consistency for faith, works, righteousness and justification. | Greek-based lexical and syntactic decisions; theological explanation remains in notes. |
 | **GT-006** | Esther continuation material, Daniel preface/additions, Sirach prologue, Proverbs split sections | Prove the publishing model can preserve exceptional units before scaling. | Mapping records and fixture-based export/link checks; this is not a claim of full-book translation. |
 
-**Next action:** continue with **John 1:19–34** (NT-JHN-002) against the accessed NA28 running text, while GT-003’s six proposed wording changes and unresolved choices await editorial and specialist review. [Read GT-003](reviews/2026-11-12-GT-003-john-1-1-18/README.md). GT-001 and GT-002 remain queued under the original OT source policy; no new Göttingen or UBS6 collation is claimed.
+**Next action:** continue detailed review with **John 2** (NT-JHN-003), while the seven John 1 proposals and unresolved choices await editorial and specialist review. The complete NT reading manuscript and 135 additional focused comparisons are available in the dated edition directory; exhaustive alignment remains pending for those focused records. [Read GT-003](reviews/2026-11-12-GT-003-john-1-1-18/README.md). GT-001 and GT-002 remain queued under the original OT source policy; no new Göttingen or UBS6 collation is claimed.
 
 Keep batches small enough to finish their evidence records. A starting size of 5–20 units is a planning suggestion, not a daily quota. Measure actual translation, review and correction time over the first three completed batches, then forecast by book and genre. Do not promise whole-Bible completion from raw word counts or editing speed.
 
@@ -168,7 +172,9 @@ The website roadmap's source cards, release manifests, revision explorer and dow
 - [ ] Verify the exact source access and rights needed for GT-001 and later UBS6/Göttingen work.
 - [ ] Inventory the current highlighted studies and prepare the James 2:24 popup pilot (WS-001–WS-002).
 - [x] Prepare the NT-first GT-003 John 1:1–18 draft with all 18 unit records and 252 token alignments; acceptance stages remain open.
-- [ ] Continue John 1:19–34, then 1:35–51 and the rest of John.
+- [x] Add focused comparisons for John 1:19–51, Romans 3:21–31, James 2:14–26 and the complete Philemon, 2 John, 3 John and Jude; exhaustive token accounting remains open for these 135 units.
+- [x] Assemble the full provisional NT reading manuscript with verified counts, anchors, historical notes and traceable proposed changes.
+- [ ] Continue detailed John review from John 2 and complete the whole NT word-by-word programme.
 - [ ] Complete the deferred GT-001 and remaining Genesis 1 pilot after the NT priority work.
 - [ ] Record human language/read-aloud review and concrete editorial decisions.
 - [ ] Establish the measured book-by-book production forecast.

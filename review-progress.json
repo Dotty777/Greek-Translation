@@ -14,9 +14,9 @@
     "count_evidence": "review-2026-11-09.md",
     "counts_freshly_recomputed": false
   },
-  "status": "new_testament_translation_underway",
+  "status": "complete_nt_provisional_manuscript_assembled_greek_review_in_progress",
   "new_programme_completed_units": 0,
-  "counting_policy": "Zero counts refer only to new programme work. Historical scoped review coverage is not yet reconciled, not assumed absent. Null means unknown, not zero. Count distinct composite passage identities against the recorded snapshot.",
+  "counting_policy": "The NT edition contains 7,943 inherited stored units, not 7,943 newly reviewed translations. Newly evidenced candidate units total 153: 18 token-aligned and 135 focused running-text comparisons. Completion requires the distinct review/acceptance stages; completed remains zero. Historical evidence is preserved, not silently counted as new review.",
   "stage_keys": [
     "source_collation",
     "apparatus_review",
@@ -27,12 +27,12 @@
     "production_release"
   ],
   "next_batch": {
-    "id": "NT-JHN-002",
+    "id": "NT-JHN-003",
     "book": "John",
-    "scope": "John 1:19–34",
+    "scope": "John 2",
     "status": "not_started",
-    "first_step": "Access the exact Greek running text and record source-led drafts beside inherited wording.",
-    "source_policy": "Continue the authorized provisional NA28 base; record UBS6/GNT6 migration separately when accessed and collated."
+    "first_step": "Access selected running text; prepare full token accounting and compare inherited English. Detailed alignment of the 135 focused comparisons also remains open.",
+    "source_policy": "Continue provisional NA28; UBS6/GNT6 migration requires actual access and collation."
   },
   "word_studies": {
     "next_batch": "WS-001",
@@ -40,13 +40,14 @@
     "status": "planned_with_draft_example",
     "existing_coverage_total": null,
     "new_published_studies": 0,
-    "new_source_checked_studies": 2,
+    "new_source_checked_studies": 3,
     "new_independently_reviewed_studies": 0,
-    "notes": "Five John occurrence-study drafts are tied to GT-003 candidate hashes; two include consulted general lexical entries. Three retain specialist lexical questions. Source-checked here is bounded preliminary evidence, not completed specialist review. James 2:24 remains the planned website popup pilot; live inventory and adapter work are unstarted. No live studies updated.",
-    "new_drafted_studies": 5,
-    "new_running_text_checked_studies": 5,
+    "notes": "Five John pilot drafts plus three Romans–James drafts. Three total include consulted preliminary lexical evidence; none is credited as completed specialist review. James 2:24 draft prepared; live inventory, highlighting adapter, staging integration and publication remain unstarted.",
+    "new_drafted_studies": 8,
+    "new_running_text_checked_studies": 8,
     "evidence": [
-      "reviews/2026-11-12-GT-003-john-1-1-18/word-studies.json"
+      "reviews/2026-11-12-GT-003-john-1-1-18/word-studies.json",
+      "editions/2026-11-12-nt-reading-draft/word-studies.json"
     ]
   },
   "batches": [
@@ -85,8 +86,11 @@
     {
       "id": "GT-005",
       "scope": "Romans 3:21–31; James 2:14–26",
-      "status": "not_started",
-      "evidence": []
+      "status": "focused_running_text_comparison_drafted_full_alignment_pending",
+      "evidence": [
+        "editions/2026-11-12-nt-reading-draft/focused-reviews.json",
+        "editions/2026-11-12-nt-reading-draft/word-studies.json"
+      ]
     },
     {
       "id": "GT-006",
@@ -104,8 +108,10 @@
     {
       "id": "WS-002",
       "scope": "James 2:24 word and phrase popup pilot",
-      "status": "not_started",
-      "evidence": []
+      "status": "occurrence_study_draft_prepared_not_integrated",
+      "evidence": [
+        "editions/2026-11-12-nt-reading-draft/word-studies.json"
+      ]
     },
     {
       "id": "WS-003",
@@ -127,7 +133,32 @@
     },
     {
       "id": "NT-JHN-002",
-      "scope": "John 1:19–34",
+      "scope": "John 1:19–51 (expanded from 1:19–34)",
+      "status": "focused_running_text_comparison_drafted_full_alignment_pending",
+      "evidence": [
+        "editions/2026-11-12-nt-reading-draft/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "NT-LETTERS-001",
+      "scope": "Philemon; 2 John; 3 John; Jude",
+      "status": "78_focused_running_text_comparisons_drafted_full_alignment_pending",
+      "evidence": [
+        "editions/2026-11-12-nt-reading-draft/focused-reviews.json"
+      ]
+    },
+    {
+      "id": "NT-MANUSCRIPT-001",
+      "scope": "All 27 NT books, 260 chapters, 7,943 stored units",
+      "status": "complete_provisional_manuscript_assembled_not_final_translation",
+      "evidence": [
+        "editions/2026-11-12-nt-reading-draft/README.md",
+        "editions/2026-11-12-nt-reading-draft/manifest.json"
+      ]
+    },
+    {
+      "id": "NT-JHN-003",
+      "scope": "John 2",
       "status": "not_started",
       "evidence": []
     }
@@ -2722,10 +2753,10 @@
       "legacy_records": "matthew/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "matthew/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1068,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2771,7 +2802,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 45,
@@ -2782,10 +2818,10 @@
       "legacy_records": "mark/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "mark/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 673,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2831,7 +2867,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 46,
@@ -2842,10 +2883,10 @@
       "legacy_records": "luke/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "luke/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1149,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2891,7 +2932,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 47,
@@ -2902,10 +2948,10 @@
       "legacy_records": "john/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "john/source-checks.json",
-      "programme_status": "partial_provisional_draft_prepared",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 878,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -2960,8 +3006,12 @@
         "Independent Greek, human read-aloud and editorial review remain pending.",
         "John 1:3–4 punctuation, 1:5 lexical sense, 1:9 attachment, 1:14/18 monogenēs, and 1:16 interpretation need review."
       ],
-      "next_batch": "NT-JHN-002",
-      "new_programme_drafted_units": 18
+      "next_batch": "NT-JHN-003",
+      "new_programme_drafted_units": 51,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "focused_running_text_compared_units": 33,
+      "token_aligned_units": 18
     },
     {
       "order": 48,
@@ -2972,10 +3022,10 @@
       "legacy_records": "acts/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "acts/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 1003,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3021,7 +3071,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 49,
@@ -3032,10 +3087,10 @@
       "legacy_records": "romans/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "romans/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 433,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3081,7 +3136,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 11,
+      "focused_running_text_compared_units": 11,
+      "token_aligned_units": 0
     },
     {
       "order": 50,
@@ -3092,10 +3152,10 @@
       "legacy_records": "1-corinthians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-corinthians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 437,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3141,7 +3201,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 51,
@@ -3152,10 +3217,10 @@
       "legacy_records": "2-corinthians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-corinthians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 256,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3201,7 +3266,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 52,
@@ -3212,10 +3282,10 @@
       "legacy_records": "galatians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "galatians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 149,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3261,7 +3331,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 53,
@@ -3272,10 +3347,10 @@
       "legacy_records": "ephesians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "ephesians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 155,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3321,7 +3396,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 54,
@@ -3332,10 +3412,10 @@
       "legacy_records": "philippians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "philippians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 104,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3381,7 +3461,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 55,
@@ -3392,10 +3477,10 @@
       "legacy_records": "colossians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "colossians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 95,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3441,7 +3526,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 56,
@@ -3452,10 +3542,10 @@
       "legacy_records": "1-thessalonians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-thessalonians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 89,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3501,7 +3591,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 57,
@@ -3512,10 +3607,10 @@
       "legacy_records": "2-thessalonians/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-thessalonians/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 47,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3561,7 +3656,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 58,
@@ -3572,10 +3672,10 @@
       "legacy_records": "1-timothy/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-timothy/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 113,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3621,7 +3721,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 59,
@@ -3632,10 +3737,10 @@
       "legacy_records": "2-timothy/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-timothy/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 83,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3681,7 +3786,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 60,
@@ -3692,10 +3802,10 @@
       "legacy_records": "titus/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "titus/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 46,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3741,7 +3851,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 61,
@@ -3752,10 +3867,10 @@
       "legacy_records": "philemon/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "philemon/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 25,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3801,7 +3916,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 25,
+      "focused_running_text_compared_units": 25,
+      "token_aligned_units": 0
     },
     {
       "order": 62,
@@ -3812,10 +3932,10 @@
       "legacy_records": "hebrews/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "hebrews/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 303,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3861,7 +3981,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 63,
@@ -3872,10 +3997,10 @@
       "legacy_records": "james/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "james/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 108,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3921,7 +4046,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 13,
+      "focused_running_text_compared_units": 13,
+      "token_aligned_units": 0
     },
     {
       "order": 64,
@@ -3932,10 +4062,10 @@
       "legacy_records": "1-peter/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-peter/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 105,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -3981,7 +4111,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 65,
@@ -3992,10 +4127,10 @@
       "legacy_records": "2-peter/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-peter/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 61,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -4041,7 +4176,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 66,
@@ -4052,10 +4192,10 @@
       "legacy_records": "1-john/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "1-john/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 105,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -4101,7 +4241,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     },
     {
       "order": 67,
@@ -4112,10 +4257,10 @@
       "legacy_records": "2-john/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "2-john/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 13,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -4161,7 +4306,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 13,
+      "focused_running_text_compared_units": 13,
+      "token_aligned_units": 0
     },
     {
       "order": 68,
@@ -4172,10 +4322,10 @@
       "legacy_records": "3-john/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "3-john/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 15,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -4221,7 +4371,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 15,
+      "focused_running_text_compared_units": 15,
+      "token_aligned_units": 0
     },
     {
       "order": 69,
@@ -4232,10 +4387,10 @@
       "legacy_records": "jude/",
       "legacy_status": "English pass and staging verification complete; specialist review pending",
       "legacy_source_record": "jude/source-checks.json",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "provisional_candidates_with_bounded_fresh_evidence",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 25,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -4281,7 +4436,12 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 25,
+      "focused_running_text_compared_units": 25,
+      "token_aligned_units": 0
     },
     {
       "order": 70,
@@ -4292,10 +4452,10 @@
       "legacy_records": "revelation/",
       "legacy_status": "NA28 running-text comparison and provisional English pass complete; staging verified; specialist review pending",
       "legacy_source_record": "revelation/source-checks.md",
-      "programme_status": "awaiting_evidence_reconciliation",
+      "programme_status": "inherited_draft_awaiting_fresh_programme_review",
       "declared_baseline": "NA28 governing record; reconcile inherited draft provenance",
       "target_review": "UBS6/GNT6 migration comparison and relevant ECM consultation",
-      "total_units_verified_for_programme": null,
+      "total_units_verified_for_programme": 405,
       "new_programme_completed_units": 0,
       "stages": {
         "source_collation": {
@@ -4341,9 +4501,30 @@
         "published_new_occurrences": 0
       },
       "issues": [],
-      "next_batch": null
+      "next_batch": null,
+      "denominator_evidence": "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "manuscript_status": "included_in_complete_provisional_nt",
+      "new_programme_drafted_units": 0,
+      "focused_running_text_compared_units": 0,
+      "token_aligned_units": 0
     }
   ],
-  "new_programme_drafted_units": 18,
-  "current_priority": "New Testament first: John pilot and remaining John, then Matthew, Mark, Luke, Discipleship and Revelation."
+  "new_programme_drafted_units": 153,
+  "current_priority": "Finish the full NT Greek-led programme; the complete provisional manuscript is available. Next detailed John batch: John 2; remaining token, apparatus, specialist, human and acceptance work stays open.",
+  "nt_manuscript": {
+    "status": "complete_provisional_manuscript",
+    "books": 27,
+    "chapters": 260,
+    "stored_units": 7943,
+    "inherited_without_fresh_programme_comparison": 7790,
+    "token_aligned_units": 18,
+    "focused_running_text_compared_units": 135,
+    "proposed_changes": 7,
+    "evidence": [
+      "editions/2026-11-12-nt-reading-draft/README.md",
+      "editions/2026-11-12-nt-reading-draft/manifest.json",
+      "editions/2026-11-12-nt-reading-draft/validation.json"
+    ],
+    "website_publication": false
+  }
 }

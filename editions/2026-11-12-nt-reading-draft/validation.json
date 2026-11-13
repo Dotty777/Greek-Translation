@@ -1,0 +1,74 @@
+{
+  "status": "pass",
+  "checks": [
+    "27 canonical NT books present in inherited order",
+    "260 chapters preserved",
+    "7,943 source units represented once",
+    "No blank Scripture text or display text",
+    "Unique composite anchors and references",
+    "All internal links resolve",
+    "Exactly seven proposed wording changes; all other text preserved",
+    "18 pilot candidates imported exactly",
+    "135 additional focused review records have existing verse identities",
+    "Unchanged display formatting preserved",
+    "All inherited editorial notes retained",
+    "Critical passage brackets preserved",
+    "No staging or production publication claimed",
+    "Final-review counts remain zero"
+  ],
+  "counts": {
+    "books": 27,
+    "chapters": 260,
+    "stored_units": 7943,
+    "token_aligned_units": 18,
+    "focused_comparison_units": 135,
+    "fresh_programme_candidate_units": 153,
+    "inherited_without_fresh_programme_comparison": 7790,
+    "proposed_changed_units": 7,
+    "independent_reviewed_units": 0,
+    "human_read_aloud_units": 0,
+    "editorially_accepted_units": 0
+  },
+  "browser_checks": {
+    "browser": "Chrome headless",
+    "checks": [
+      {
+        "check": "Revelation has 22 chapter options",
+        "pass": true
+      },
+      {
+        "check": "Navigation reaches Revelation 22",
+        "pass": true
+      },
+      {
+        "check": "Search finds James 2:24",
+        "pass": true
+      },
+      {
+        "check": "Search finds Romans 3:28",
+        "pass": true
+      },
+      {
+        "check": "Clear hides results",
+        "pass": true
+      },
+      {
+        "check": "Notes toggle hides optional notes",
+        "pass": true
+      },
+      {
+        "check": "Text size control works",
+        "pass": true
+      },
+      {
+        "check": "Final verse present",
+        "pass": true
+      },
+      {
+        "check": "Final chapter is in the viewport",
+        "pass": true
+      }
+    ],
+    "all_passed": true
+  }
+}

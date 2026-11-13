@@ -1,0 +1,136 @@
+{
+  "status": "Three new provisional AI occurrence studies; prior five remain in GT-003",
+  "records": [
+    {
+      "study_id": "james-2-24-justify",
+      "book_id": "james",
+      "reference": "James 2:24",
+      "title": "Justified or declared righteous?",
+      "span": "is justified",
+      "lemma": "δικαιόω",
+      "form": "δικαιοῦται",
+      "morphology": "Present passive indicative, third person singular.",
+      "summary": "The draft retains “is justified.” “Is declared righteous” can explain the judicial sense, while “is shown righteous” makes a contextual interpretation more explicit. “Declared righteousness” is not grammatical here: righteous describes the person; righteousness is a noun.",
+      "context": "James 2:14–26 contrasts a claim to faith without works with faith acting together with works. Verse 22 speaks of faith being brought to completion. Verse 24 expressly says “not by faith alone.” Those features must remain visible.",
+      "alternatives": [
+        {
+          "wording": "is declared righteous",
+          "kind": "explanatory rendering",
+          "cost": "Makes a declarative sense explicit; it is not a complete account of James's theology."
+        },
+        {
+          "wording": "is shown righteous",
+          "kind": "contextual interpretation",
+          "cost": "Foregrounds demonstration or vindication; this is not established merely by substituting a dictionary gloss."
+        }
+      ],
+      "limits": "Do not substitute “is saved,” add “before people,” or import the phrase “works of law” from Romans. The Greek passive does not name its agent. The relationship between justification, salvation, judgment and sanctification requires argument beyond this one verb.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/JAS.2",
+        "https://www.die-bibel.de/en/bible/NA28/ROM.3",
+        "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:middle-liddell.perseus-eng2-n8418/"
+      ],
+      "lexical_status": "Middle Liddell consulted; general NT sense includes deeming righteous/justifying. This is preliminary lexical evidence, not a completed specialist NT lexicon study.",
+      "related": [
+        "James 2:14",
+        "James 2:21",
+        "James 2:22",
+        "James 2:23",
+        "James 2:25",
+        "Romans 3:24",
+        "Romans 3:28"
+      ],
+      "text_snapshot": {
+        "baseline_commit": "7ba61929f083d8e10e1702f2a7f7e3c9ac46b300",
+        "candidate_sha256": "ef789470377f64255323c7c24680f85d8b85f1ee10f57730e0823be2d8f55b2d",
+        "text": "You see that a person is justified by works and not by faith alone.",
+        "verse_anchor": "v2-24"
+      },
+      "status": "provisional_ai_study",
+      "independent_review": null,
+      "human_read_aloud": null,
+      "publication": null
+    },
+    {
+      "study_id": "romans-3-22-faith",
+      "book_id": "romans",
+      "reference": "Romans 3:22",
+      "title": "Faith in Christ or Christ’s faithfulness?",
+      "span": "faith in Jesus Christ",
+      "lemma": "πίστις",
+      "form": "πίστεως",
+      "morphology": "Genitive singular noun in a prepositional phrase, followed by the genitive name Jesus Christ.",
+      "summary": "The inherited reading “faith in Jesus Christ” is retained provisionally. “Faithfulness of Jesus Christ” is another interpretation of the genitive relationship; the case ending alone does not settle it.",
+      "context": "The sentence also names all who believe. This provides relevant context but does not mechanically eliminate the competing interpretation of the preceding phrase.",
+      "alternatives": [
+        {
+          "wording": "faithfulness of Jesus Christ",
+          "kind": "syntactic and semantic alternative",
+          "cost": "Changes whose faithfulness the phrase directly describes; requires argument from usage and context."
+        }
+      ],
+      "limits": "Do not blend both readings into an expanded Scripture sentence. A specialist lexical and syntactic review remains open.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ROM.3"
+      ],
+      "lexical_status": "Running text consulted; specialist lexical and reception study pending.",
+      "related": [
+        "Romans 3:26",
+        "Romans 3:28"
+      ],
+      "text_snapshot": {
+        "baseline_commit": "7ba61929f083d8e10e1702f2a7f7e3c9ac46b300",
+        "candidate_sha256": "e8fabab5ccc64ec963ff849b0984f448152484f442a2483d3937c994d5d7d1c1",
+        "text": "God’s righteousness through faith in Jesus Christ, for all who believe. For there is no distinction,",
+        "verse_anchor": "v3-22"
+      },
+      "status": "provisional_ai_study",
+      "independent_review": null,
+      "human_read_aloud": null,
+      "publication": null
+    },
+    {
+      "study_id": "romans-3-25-hilasterion",
+      "book_id": "romans",
+      "reference": "Romans 3:25",
+      "title": "The sacrificial term in Romans 3:25",
+      "span": "a propitiation",
+      "lemma": "ἱλαστήριον",
+      "form": "ἱλαστήριον",
+      "morphology": "Accusative singular form in the predicate construction describing the one God set forth.",
+      "summary": "“Propitiation” is retained from the inherited draft while its precise English rendering remains under review. Proposals such as “means of expiation” or “mercy seat” reflect different readings of the sacrificial language.",
+      "context": "Blood, faith, the demonstration of God's righteousness, and the passing over of previous sins form the immediate argument. Their grammatical attachments must be considered along with the noun.",
+      "alternatives": [
+        {
+          "wording": "means of expiation",
+          "kind": "lexical proposal for review",
+          "cost": "Foregrounds removal of sin; requires supporting lexical and contextual evidence."
+        },
+        {
+          "wording": "mercy seat",
+          "kind": "cultic/metaphorical proposal for review",
+          "cost": "Identifies a particular sanctuary image; requires an explicit comparison with relevant Greek OT usage."
+        }
+      ],
+      "limits": "No full lexical or Greek OT collation was completed for this term in this batch. These alternatives are research questions, not equally established replacements.",
+      "sources": [
+        "https://www.die-bibel.de/en/bible/NA28/ROM.3"
+      ],
+      "lexical_status": "Running text consulted; specialist lexicon and Greek OT comparison pending.",
+      "related": [
+        "Romans 3:24",
+        "Romans 3:26"
+      ],
+      "text_snapshot": {
+        "baseline_commit": "7ba61929f083d8e10e1702f2a7f7e3c9ac46b300",
+        "candidate_sha256": "4b91bf072869015b3a5dad464701a6f94dbd0968c517c0530973eb661a275742",
+        "text": "whom God set forth as a propitiation in His blood, through faith, to demonstrate His righteousness because of the passing over of sins committed beforehand,",
+        "verse_anchor": "v3-25"
+      },
+      "status": "provisional_ai_study",
+      "independent_review": null,
+      "human_read_aloud": null,
+      "publication": null
+    }
+  ]
+}

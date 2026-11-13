@@ -11,7 +11,9 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).
 - [Wider Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md).
 
-The programme was documented on 12 November 2026. **New Testament translation has now begun:** [John 1:1–18, GT-003](reviews/2026-11-12-GT-003-john-1-1-18/README.md) contains 18 provisional verse drafts, 252 Greek token alignments, six proposed wording changes and five occurrence-study drafts. Twelve candidate readings retain the inherited text. Next: John 1:19–34. The historical book files below remain intact; these review records do not constitute final editorial acceptance or website publication.
+**[Complete New Testament reading draft](editions/2026-11-12-nt-reading-draft/README.md)** — all 27 books, 260 chapters and 7,943 stored units are now assembled from the inherited Saints English manuscripts, with seven proposed John 1 revisions. This is a complete provisional manuscript, **not a completed fresh Greek audit or an accepted release**.
+
+The new programme has candidate evidence for **153 units**: the [John 1:1–18 pilot](reviews/2026-11-12-GT-003-john-1-1-18/README.md) has 18 token-aligned records; the new edition adds 135 focused running-text comparisons covering the rest of John 1, Romans 3:21–31, James 2:14–26, Philemon, 2 John, 3 John and Jude. The remaining 7,790 units retain inherited draft status. Eight occurrence studies are drafted across the two batches. Full token accounting, specialist/apparatus work, UBS6/GNT6 migration, independent Greek review, human reading aloud, acceptance and publication remain open. Next detailed John batch: John 2. Original book files remain intact.
 
 ## Existing book records
 
