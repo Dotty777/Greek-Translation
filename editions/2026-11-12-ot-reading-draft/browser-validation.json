@@ -1,12 +1,12 @@
 {
   "status": "passed",
   "date": "2026-11-13",
-  "reader_sha256": "f6f4f76a7e544fc1756b1f679da619fbd8a8b2536640d2d1a132ffa61a785153",
+  "reader_sha256": "4d2b3c80f5491618eea48d2bccd16403781194f0fb242c59b6fac66c8f1f6d5f",
   "environment": "Headless Chrome on Windows; local file, 1440×1000 and 390×844",
   "checks": [
     "All 43 books available",
     "26,580 units and seven continuations rendered",
-    "123 proposals visibly marked",
+    "181 proposals visibly marked",
     "All 1,037 reading sections rendered",
     "Book picker shows Jonah only",
     "Book links update filtered view",
@@ -42,6 +42,12 @@
     "Ruth 2:12 closes Boaz speech before Ruth speaks and retains the exact unclosed baseline",
     "Ruth 3:15 preserves unspecified measures and exposes the unexpressed-subject question",
     "All 85 Ruth units remain rendered and the 4:4 explanatory link is present",
+    "All 773 1 Samuel units preserve selected omissions and shorter chapters 17–18",
+    "1 Samuel 2:10 selected wording and comparison remain accessible on mobile",
+    "1 Samuel 2:33 selected wording and comparison remain accessible on mobile",
+    "1 Samuel 20:12 selected wording and comparison remain accessible on mobile",
+    "1 Samuel 21:6 selected wording and comparison remain accessible on mobile",
+    "1 Samuel 30:28a selected wording and comparison remain accessible on mobile",
     "Book control is keyboard focusable",
     "No JavaScript page errors"
   ],

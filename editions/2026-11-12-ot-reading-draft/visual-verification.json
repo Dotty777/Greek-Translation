@@ -3,9 +3,14 @@
   "date": "2026-11-13",
   "reviewer": "OpenAI Codex assistant",
   "reviewer_type": "AI",
-  "reader_sha256": "f6f4f76a7e544fc1756b1f679da619fbd8a8b2536640d2d1a132ffa61a785153",
+  "reader_sha256": "4d2b3c80f5491618eea48d2bccd16403781194f0fb242c59b6fac66c8f1f6d5f",
   "images_inspected": [
     "reader-desktop.png",
+    "reader-mobile-1-samuel-2-10.png",
+    "reader-mobile-1-samuel-2-33.png",
+    "reader-mobile-1-samuel-20-12.png",
+    "reader-mobile-1-samuel-21-6.png",
+    "reader-mobile-1-samuel-30-28a.png",
     "reader-mobile-deuteronomy-18-20.png",
     "reader-mobile-deuteronomy-32-43.png",
     "reader-mobile-deuteronomy-33-3.png",
@@ -34,7 +39,12 @@
     "reader-mobile.png"
   ],
   "image_sha256": {
-    "reader-desktop.png": "e0c3547ae051e03cd94425a36bd8c7f48f996845d83256b2b3fdabe0c474107d",
+    "reader-desktop.png": "62e988fb331c062b6458d577b09f1ae5c466039c8b8131297886d8fc6596c24d",
+    "reader-mobile-1-samuel-2-10.png": "5e354ff2667a94d641cd3b943df5cba826b33f4e813967cc421287428d20863b",
+    "reader-mobile-1-samuel-2-33.png": "350e96ef26bc0d8a2ea720b2ba1f477200cde22b82159defcabb26195e51143b",
+    "reader-mobile-1-samuel-20-12.png": "4d9f1dffc7a3cec57785bd588f55d5f202633f626f29fe1032bf41a3266849ad",
+    "reader-mobile-1-samuel-21-6.png": "0e6ce85fdf4df5b70c2cf4cf12a2c35fe4fe6447cca163fd6bce3bab9520dc3a",
+    "reader-mobile-1-samuel-30-28a.png": "4281ef244c400526bb529bae8571bab03e533a270d9cc7536dae54988fdf55f0",
     "reader-mobile-deuteronomy-18-20.png": "5a18ad380d74870878f3b11611a78eb62de27c2e19baf3df0532480477585f86",
     "reader-mobile-deuteronomy-32-43.png": "fceaac0c5fb0619f1ac096ae8ebbfed77c2c4dea8483b49a5e73d5bb2d4a6939",
     "reader-mobile-deuteronomy-33-3.png": "b781415f76068409b7cd2485f4ab647fa03d058fc875effff0c88db429003f0b",
@@ -60,21 +70,24 @@
     "reader-mobile-ruth-1-17.png": "ea8cf3427c27ca90ecf4ade881144061dbd0c048ae9fcc0e2aecf080f36da842",
     "reader-mobile-ruth-2-12.png": "29024326c7b515ea78ac8864a727258f24001ae48ed384ae4b8239755104ae34",
     "reader-mobile-ruth-3-15.png": "6ab79fffb74a18e38ccc040c275cbc1f26d196ec8f42d850612f7ab8ebf9f8d9",
-    "reader-mobile.png": "1fa33af84ef411c41f39ad27090d5ecd8a12c9c31a5453e030fdf219ac29e191"
+    "reader-mobile.png": "c558a0231d4a396f3f1cf194d2f0b57d0d5d6ace3e0b30fef7c24618fc76b233"
   },
   "findings": [
-    "Desktop and phone headers accurately show 7,211 comparisons and 123 proposals with legible navigation and controls.",
-    "Ruth 1:17 displays all five poetic lines, ordinary human address, the affirmative death clause and an explicit AI lineation notice.",
-    "Ruth 2:12 visibly closes Boaz’s blessing while retaining the exact inherited baseline and the source-based speech-boundary explanation.",
-    "Ruth 3:15 displays the six unspecified measures and the unresolved subject of entry into the city.",
-    "Twenty-two earlier screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
+    "Desktop and phone headers accurately show 7,984 comparisons and 181 proposals with legible navigation and controls.",
+    "1 Samuel 2:10 displays the full expanded song, our kings, twelve authored lines and the AI lineation notice.",
+    "1 Samuel 2:33 clearly separates literary spare/at, close negative/from, inherited every and the open scope and altar questions.",
+    "1 Samuel 20:12 exposes the conditional-negative alternative; 21:6 distinguishes because of from inherited through and states the unresolved broader sense.",
+    "1 Samuel 30:28a retains all four recipients in an accessible distinct unit.",
+    "Twenty-five earlier screenshots are byte-identical to previously inspected files; their scoped findings remain applicable."
   ],
-  "scope_limits": "Five current screenshots inspected by AI; twenty-two earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Forty automated functional checks are recorded separately.",
+  "scope_limits": "Seven current screenshots inspected by AI; twenty-five earlier inspections reused only after exact image-hash equality. Representative viewports, not every passage, human reading aloud, independent Greek review, real-device testing or an accessibility conformance audit. Forty-six automated functional checks are recorded separately.",
   "freshly_inspected": [
     "reader-desktop.png",
-    "reader-mobile-ruth-1-17.png",
-    "reader-mobile-ruth-2-12.png",
-    "reader-mobile-ruth-3-15.png",
+    "reader-mobile-1-samuel-2-10.png",
+    "reader-mobile-1-samuel-2-33.png",
+    "reader-mobile-1-samuel-20-12.png",
+    "reader-mobile-1-samuel-21-6.png",
+    "reader-mobile-1-samuel-30-28a.png",
     "reader-mobile.png"
   ],
   "prior_inspections_reused_by_identical_image_hash": {
@@ -101,7 +114,10 @@
       "reader-mobile-leviticus-5-7.png",
       "reader-mobile-numbers-2-17.png",
       "reader-mobile-numbers-25-8.png",
-      "reader-mobile-numbers-4-36.png"
+      "reader-mobile-numbers-4-36.png",
+      "reader-mobile-ruth-1-17.png",
+      "reader-mobile-ruth-2-12.png",
+      "reader-mobile-ruth-3-15.png"
     ]
   }
 }

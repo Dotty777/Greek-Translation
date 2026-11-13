@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**123 proposals · 12 November 2026 · editorial acceptance pending**
+**181 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -2163,6 +2163,1050 @@ Add the missing closing quotation mark after Boaz's blessing, before Ruth speaks
 Propose For before there is no one to retain hoti's explanation of priority; the uncover-your-ear image, public acquisition, two conditions and I-after-you order remain.
 
 [Focused evidence](../../reviews/2026-11-13-OT-077-ruth-3-4/focused-reviews.json) · anchor `v4-4`
+
+## 1 Samuel 1:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Eli answered her, “Go in peace. May the God of Israel grant the whole request you have made of Him.”
+
+**Proposed**
+
+> Eli answered her, “Go in peace. May the God of Israel grant you the whole request you have made of Him.”
+
+**Reason and limits**
+
+Propose grant you the whole request to make the Greek soi recipient explicit in Eli's blessing; the request already made of God remains unchanged.
+
+[Focused evidence](../../reviews/2026-11-13-OT-078-1-samuel-1/focused-reviews.json) · anchor `v1-17`
+
+## 1 Samuel 2:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> This was the priest’s claimed right from the people, from anyone sacrificing: the priest’s servant would come when the meat was boiling, with a three-pronged meat hook in his hand,
+
+**Proposed**
+
+> This was the priest’s right from the people, from anyone sacrificing: the priest’s servant would come when the meat was boiling, with a three-pronged meat hook in his hand,
+
+**Reason and limits**
+
+Remove claimed before right: the Greek states the priest's dikaioma without a separate qualifier questioning the claim; the boiling meat and three-pronged hook remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-079-1-samuel-2/focused-reviews.json) · anchor `v2-13`
+
+## 1 Samuel 2:33
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Yet I will not destroy every man of yours from My altar, so that his eyes fail and his soul ebbs away. Everyone remaining in your house will fall by the sword of men.
+
+**Proposed**
+
+> Yet I will spare a man of yours at My altar, so that his eyes fail and his soul ebbs away. Everyone remaining in your house will fall by the sword of men.
+
+**Reason and limits**
+
+Propose I will spare a man of yours at My altar instead of I will not destroy every man of yours from My altar. Spare renders the negative destruction clause affirmatively, keeping its indefinite singular and making the exception intelligible in English; the close draft retains the negative form.
+
+[Focused evidence](../../reviews/2026-11-13-OT-079-1-samuel-2/focused-reviews.json) · anchor `v2-33`
+
+## 1 Samuel 4:16
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The man hurried up to Eli and said to him, “I am the one who has come from the camp. I fled from the battle line today.” He said, “What happened, child?”
+
+**Proposed**
+
+> The man hurried up to Eli and said to him, “I am the one who has come from the camp. I fled from the battle line today.” Eli said, “What happened, child?”
+
+**Reason and limits**
+
+Propose Eli said before What happened, child to distinguish the questioner from the returning messenger in natural spoken English.
+
+[Focused evidence](../../reviews/2026-11-13-OT-080-1-samuel-3-4/focused-reviews.json) · anchor `v4-16`
+
+## 1 Samuel 8:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord said to Samuel, “Listen to the people’s voice in whatever they say to you. They have treated Me as nothing so that I should not reign over them; it is not you they have treated as nothing.
+
+**Proposed**
+
+> The Lord said to Samuel, “Listen to the people’s voice in whatever they say to you. For it is not you they have treated as nothing, but Me, so that I should not reign over them.
+
+**Reason and limits**
+
+Propose restoring the explanation's For and the source's not you but Me order before the purpose of not reigning. Treating as nothing repeats the Greek contempt verb; divine first-person Me and ordinary address to Samuel remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-082-1-samuel-7-8/focused-reviews.json) · anchor `v8-7`
+
+## 1 Samuel 9:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul said to his young servant who was with him, “If we go, what shall we bring the man of God? The loaves are gone from our containers, and we have nothing more of our possessions to bring the man of God.”
+
+**Proposed**
+
+> Saul said to his young servant who was with him, “Behold, we will go. What shall we bring the man of God? The loaves are gone from our containers, and we have nothing more of our possessions to bring the man of God.”
+
+**Reason and limits**
+
+Propose Behold, we will go in place of If we go: the selected text has a presentative and future assertion, not an explicit conditional. The question, exhausted loaves, containers and absence of further possessions remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-083-1-samuel-9-10/focused-reviews.json) · anchor `v9-7`
+
+## 1 Samuel 10:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> When you leave me today, you will find two men near Rachel’s tombs in Benjamin’s territory, leaping greatly. They will say to you, ‘The donkeys you both went to seek have been found. Your father has cast aside the matter of the donkeys and has spent lavishly on your account, saying, “What shall I do for my son?”’
+
+**Proposed**
+
+> When you leave me today, you will find two men near Rachel’s tombs in Benjamin’s territory, leaping greatly. They will say to you, ‘The donkeys you both went to seek have been found. Behold, your father has cast aside the matter of the donkeys and has spent lavishly on account of you both, saying, “What shall I do for my son?”’
+
+**Reason and limits**
+
+Propose restoring Behold before the father's changed concern and specifying you both in the later plural phrase as well as the donkey search. Rachel's plural tombs, two leaping men and lavish expenditure remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-083-1-samuel-9-10/focused-reviews.json) · anchor `v10-2`
+
+## 1 Samuel 10:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Go down before Gilgal. I will come down to you to offer a whole burnt offering and peace sacrifices. Wait seven days until I come to you; then I will make known to you what you must do.”
+
+**Proposed**
+
+> Go down before Gilgal. Behold, I will come down to you to offer a whole burnt offering and peace sacrifices. Wait seven days until I come to you; then I will make known to you what you must do.”
+
+**Reason and limits**
+
+Propose restoring the presentative Behold before Samuel's announced descent. Before Gilgal, whole burnt offering, peace sacrifices, seven-day waiting and subsequent instruction remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-083-1-samuel-9-10/focused-reviews.json) · anchor `v10-8`
+
+## 1 Samuel 10:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He came from there to the hill, and a chorus of prophets was facing him. God’s Spirit leaped upon him, and he prophesied among them.
+
+**Proposed**
+
+> He came from there to the hill, and behold, a chorus of prophets was facing him. God’s Spirit leaped upon him, and he prophesied among them.
+
+**Reason and limits**
+
+Propose restoring behold when the prophetic chorus faces him. The movement to the hill, Spirit's leap and Saul's prophesying among them remain in sequence.
+
+[Focused evidence](../../reviews/2026-11-13-OT-083-1-samuel-9-10/focused-reviews.json) · anchor `v10-10`
+
+## 1 Samuel 10:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All who had known him before saw him among the prophets. The people said to one another, “What has happened to Kish’s son? Is Saul also among the prophets?”
+
+**Proposed**
+
+> All who had known him before saw, and behold, he was among the prophets. The people said to one another, “What has happened to Kish’s son? Is Saul also among the prophets?”
+
+**Reason and limits**
+
+Propose retaining the explicit presentative after the seeing: they saw, and behold, he was among the prophets. Before renders the yesterday-and-third-day idiom; both questions about Kish's son and Saul among prophets remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-083-1-samuel-9-10/focused-reviews.json) · anchor `v10-11`
+
+## 1 Samuel 11:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul was coming from the field after the morning. Saul said, “Why are the people weeping?” They recounted to him the words of Jabesh’s sons.
+
+**Proposed**
+
+> Behold, Saul was coming from the field after the morning. Saul said, “Why are the people weeping?” They recounted to him the words of Jabesh’s sons.
+
+**Reason and limits**
+
+Propose restoring Behold at Saul's arrival. After the morning follows the selected temporal wording, then Saul asks about weeping and receives Jabesh's sons' report.
+
+[Focused evidence](../../reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json) · anchor `v11-5`
+
+## 1 Samuel 11:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Jabesh’s men said to Nahash the Ammonite, “Tomorrow we will come out to you, and you may do to us what is good before you.”
+
+**Proposed**
+
+> Jabesh’s men said to Nahash the Ammonite, “Tomorrow we will come out to you all, and you may do to us what is good before you.”
+
+**Reason and limits**
+
+Propose you all in the first plural address, matching verse 3's distinction from the named individual Nahash. The promised coming out and invitation to do what is good before the addressed group remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json) · anchor `v11-10`
+
+## 1 Samuel 12:2
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Now the king walks before you. I have grown old and will sit down, and my sons are here among you. I have walked before you from my youth to this day.
+
+**Proposed**
+
+> Now behold, the king walks before you. I have grown old and will sit down, and my sons are here among you. Behold, I have walked before you from my youth to this day.
+
+**Reason and limits**
+
+Propose restoring the first and third presentatives with behold; the middle one is already expressed by here. The king's walking, Samuel's age and future sitting, his sons among them and his own lifelong walking remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json) · anchor `v12-2`
+
+## 1 Samuel 12:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They forgot the Lord their God, and He sold them into the hands of Sisera, commander-in-chief of Jabin king of Hazor, into the foreigners’ hands, and into the hands of Moab’s king, who fought against them.
+
+**Proposed**
+
+> They forgot the Lord their God, and He sold them into the hands of Sisera, commander-in-chief of Jabin king of Hazor, into the foreigners’ hands, and into the hands of Moab’s king. And they fought against them.
+
+**Reason and limits**
+
+Propose a separate And they fought against them to retain the plural fighting subject after three enemy recipients; inherited who fought could be read as attaching only to Moab's singular king. Forgetting, divine sale, Sisera's full title and repeated hands remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json) · anchor `v12-9`
+
+## 1 Samuel 12:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All the people said to Samuel, “Pray to the Lord your God for your servants, and we will certainly not die. We have added to all our sins the evil of asking a king for ourselves.”
+
+**Proposed**
+
+> All the people said to Samuel, “Pray to the Lord your God for your servants, and we will certainly not die. For we have added to all our sins the evil of asking a king for ourselves.”
+
+**Reason and limits**
+
+Propose For before the people's explanation that they added this evil to all their sins. Prayer to your God for your servants and the emphatic expectation of not dying remain ordinary human address to Samuel.
+
+[Focused evidence](../../reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json) · anchor `v12-19`
+
+## 1 Samuel 12:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord will not reject His people for His great name’s sake, because the Lord graciously took you to Himself as a people.
+
+**Proposed**
+
+> For the Lord will not reject His people for His great name’s sake, because the Lord graciously took you to Himself as a people.
+
+**Reason and limits**
+
+Propose For at the opening to preserve the explanatory connection. The Lord's non-rejection for His great name and gracious taking of the people to Himself remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-084-1-samuel-11-12/focused-reviews.json) · anchor `v12-22`
+
+## 1 Samuel 13:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Samuel said, “What have you done?” Saul said, “I saw the people scattering away from me, you had not come as you had ordered at the testimony of the days, and the foreigners had gathered at Michmash.
+
+**Proposed**
+
+> Samuel said, “What have you done?” Saul said, “Because I saw the people scattering away from me, you had not come as you had ordered at the testimony of the days, and the foreigners had gathered at Michmash,
+
+**Reason and limits**
+
+Propose Because at Saul's explanation and a continuing comma into verse 12. The scattering people, Samuel's failure to arrive as ordered at the testimony of days, and the foreigners' gathering remain grounds for Saul's following statement.
+
+[Focused evidence](../../reviews/2026-11-13-OT-085-1-samuel-13/focused-reviews.json) · anchor `v13-11`
+
+## 1 Samuel 14:8
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Jonathan said, “We will cross to the men and roll down toward them.
+
+**Proposed**
+
+> Jonathan said, “Behold, we will cross to the men and roll down toward them.
+
+**Reason and limits**
+
+Propose restoring Behold before the plan to cross and roll down toward the men. The unusual rolling verb remains rather than an unmarked substitution of show ourselves.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-8`
+
+## 1 Samuel 14:16
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul’s lookouts in Benjamin’s Geba saw the camp in turmoil this way and that.
+
+**Proposed**
+
+> Saul’s lookouts in Benjamin’s Geba looked, and behold, the camp was in turmoil this way and that.
+
+**Reason and limits**
+
+Propose restoring the looked-and-behold structure at the discovery of the camp's turmoil; this way and that preserves the repeated directional expression.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-16`
+
+## 1 Samuel 14:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul said to the people with him, “Please muster and see who has gone from you.” They mustered, and Jonathan and the one carrying his equipment could not be found.
+
+**Proposed**
+
+> Saul said to the people with him, “Please muster and see who has gone from you.” They mustered, and behold, Jonathan and the one carrying his equipment could not be found.
+
+**Reason and limits**
+
+Propose restoring behold at the muster's discovery that Jonathan and his bearer were absent. The request to identify who has gone and the executed muster remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-17`
+
+## 1 Samuel 14:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul and all the people with him cried out and came to the battle. Each man’s sword was against his neighbour, with exceedingly great confusion.
+
+**Proposed**
+
+> Saul and all the people with him cried out and came to the battle. Behold, each man’s sword was against his neighbour, with exceedingly great confusion.
+
+**Reason and limits**
+
+Propose Behold before the discovered mutual sword fighting. Saul and the people's cry and movement to battle precede the greatly confused scene.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-20`
+
+## 1 Samuel 14:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul acted with great ignorance that day and laid a curse upon the people: “Cursed is the man who eats bread before evening, until I take vengeance on my enemy.” None of the people tasted bread.
+
+**Proposed**
+
+> Saul acted with great ignorance that day and laid a curse upon the people: “Cursed is the man who eats bread before evening. And I will take vengeance on my enemy.” None of the people tasted bread.
+
+**Reason and limits**
+
+Propose separating the coordinated vengeance declaration from the evening prohibition: the Greek says and I will avenge, whereas inherited until I take vengeance creates an additional temporal condition. Great ignorance, the curse and universal non-tasting remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-24`
+
+## 1 Samuel 14:26
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The people entered the bee-place. There he was, going along and speaking; no one was bringing his hand back to his mouth, for the people feared the Lord’s oath.
+
+**Proposed**
+
+> The people entered the bee-place. There he was, going along and speaking; behold, no one was bringing his hand back to his mouth, for the people feared the Lord’s oath.
+
+**Reason and limits**
+
+Propose restoring the second presentative with behold before no one returned his hand to his mouth. There he was already carries the first; fear of the Lord's oath remains the cause.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-26`
+
+## 1 Samuel 14:30
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> If the people had eaten freely today from their enemies’ spoils that they found, the blow against the foreigners would now have been greater.”
+
+**Proposed**
+
+> But if the people had eaten freely today from their enemies’ spoils that they found, the blow against the foreigners would now have been greater.”
+
+**Reason and limits**
+
+Propose But at the conditional counterclaim: free eating from the found enemy spoils would have produced a greater blow now. Freely renders the emphatic eating expression without adding a new quantity.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-30`
+
+## 1 Samuel 14:34
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul said, “Scatter among the people and tell them to bring here each man his calf and each man his sheep. Let him slaughter it upon this, and you will certainly not sin against the Lord by eating with the blood.” All the people brought what was in their hands and slaughtered there.
+
+**Proposed**
+
+> Saul said, “Scatter among the people and tell them to bring here each man his calf and each man his sheep. Let him slaughter it upon this, and you will certainly not sin against the Lord by eating with the blood.” All the people brought what each had in his hand and slaughtered there.
+
+**Reason and limits**
+
+Propose preserving each person's singular hand in the final bringing clause. Dispersal, each calf and sheep, slaughter upon this and the emphatic prevention of sin through blood eating remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-34`
+
+## 1 Samuel 14:39
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> As the Lord lives, who saved Israel, if an answer is given against my son Jonathan, he must certainly die.” But none of all the people answered.
+
+**Proposed**
+
+> For as the Lord lives, who saved Israel, if an answer is given against my son Jonathan, he must certainly die.” But none of all the people answered.
+
+**Reason and limits**
+
+Propose For at the oath's opening to retain its explanatory connection to the inquiry. Divine saving, a possible answer against Jonathan, certain death and the people's complete silence remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-086-1-samuel-14/focused-reviews.json) · anchor `v14-39`
+
+## 1 Samuel 15:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Samuel rose early and went to meet Israel in the morning. Samuel was told, “Saul has come to Carmel, erected a hand for himself, and turned the chariot around.” He went down to Saul at Gilgal, where he was offering the first of the spoils brought from Amalek as a whole burnt offering to the Lord.
+
+**Proposed**
+
+> Samuel rose early and went to meet Israel in the morning. Samuel was told, “Saul has come to Carmel, erected a hand for himself, and turned the chariot around.” He went down to Saul at Gilgal, and behold, Saul was offering the first of the spoils brought from Amalek as a whole burnt offering to the Lord.
+
+**Reason and limits**
+
+Propose restoring behold at the encounter with the offering and naming Saul as its inferred actor for clarity. Meeting Israel, the report of Carmel, the erected hand, turned chariot, Gilgal and first spoils remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v15-12`
+
+## 1 Samuel 15:23
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Divination is sin; teraphim bring sorrow and troubles. Because you treated the Lord’s word as nothing, the Lord will treat you as nothing, so that you will not be king over Israel.”
+
+**Proposed**
+
+> For divination is sin; teraphim bring sorrow and troubles. Because you treated the Lord’s word as nothing, the Lord will treat you as nothing, so that you will not be king over Israel.”
+
+**Reason and limits**
+
+Propose For to retain the explanatory opening before divination/sin and teraphim's sorrow and troubles. The causal rejection of the Lord's word and resulting rejection of Saul remain, with line breaks for the paired statements.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v15-23`
+
+## 1 Samuel 15:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul said to Samuel, “I have sinned. I transgressed the Lord’s word and your word, for I feared the people and listened to their voice.
+
+**Proposed**
+
+> Saul said to Samuel, “I have sinned, for I transgressed the Lord’s word and your word, for I feared the people and listened to their voice.
+
+**Reason and limits**
+
+Propose joining the confession to its explicit explanation with for: Saul sinned by transgressing both the Lord's word and Samuel's word because he feared and heard the people.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v15-24`
+
+## 1 Samuel 16:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The Lord said to Samuel, “Do not look at his appearance or the bearing of his height, for I have treated him as nothing. God does not see as a human looks: a human looks at the face, but God looks at the heart.”
+
+**Proposed**
+
+> The Lord said to Samuel, “Do not look at his appearance or the bearing of his height, for I have treated him as nothing. For God does not see as a human looks: a human looks at the face, but God looks at the heart.”
+
+**Reason and limits**
+
+Propose For before the explanation that God's seeing differs from human looking. Appearance, bearing of height, rejection, face and heart remain in their explicit contrast.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v16-7`
+
+## 1 Samuel 16:11
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Samuel said to Jesse, “Are these all the boys?” He said, “There is still the youngest; he is tending the flock.” Samuel said to Jesse, “Send and fetch him, for we will certainly not recline until he comes.”
+
+**Proposed**
+
+> Samuel said to Jesse, “Are these all the boys?” He said, “There is still the youngest; behold, he is tending the flock.” Samuel said to Jesse, “Send and fetch him, for we will certainly not recline until he comes.”
+
+**Reason and limits**
+
+Propose behold before the youngest son's tending the flock. Are these all the boys? expresses whether the boys have run out; fetching him precedes the strong refusal to recline until arrival.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v16-11`
+
+## 1 Samuel 16:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul’s servants said to him, “An evil spirit of the Lord is choking you.
+
+**Proposed**
+
+> Saul’s servants said to him, “Behold, an evil spirit of the Lord is choking you.
+
+**Reason and limits**
+
+Propose Behold for the servants' presentative diagnosis of an evil spirit of the Lord choking Saul. The attribution is retained as their speech.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v16-15`
+
+## 1 Samuel 16:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> One of his young servants answered, “I have seen a son of Jesse, a Beth-lehemite, skilled in playing. The man is discerning, a warrior, wise in speech, and good in appearance; the Lord is with him.”
+
+**Proposed**
+
+> One of his young servants answered, “Behold, I have seen a son of Jesse, a Beth-lehemite, skilled in playing. The man is discerning, a warrior, wise in speech, and good in appearance; the Lord is with him.”
+
+**Reason and limits**
+
+Propose Behold before the servant's eyewitness report. Jesse's Bethlehemite son is skilled, discerning, warlike, wise in speech, good in appearance and accompanied by the Lord; the full list remains.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v16-18`
+
+## 1 Samuel 16:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David came to Saul and stood before him. He loved him greatly, and he became the one carrying his equipment.
+
+**Proposed**
+
+> David came to Saul and stood before him. Saul loved him greatly, and David became the one carrying his equipment.
+
+**Reason and limits**
+
+Propose naming Saul as the inferred loving subject and David as the inferred equipment bearer so the English pronoun switches are clear. David's arrival and standing before Saul remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-087-1-samuel-15-16/focused-reviews.json) · anchor `v16-21`
+
+## 1 Samuel 17:33
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Saul said to David, “You certainly cannot go against the foreigner to fight him. You are a boy, and he has been a warrior from his youth.”
+
+**Proposed**
+
+> Saul said to David, “You certainly cannot go against the foreigner to fight him. For you are a boy, and he has been a warrior from his youth.”
+
+**Reason and limits**
+
+Propose For before Saul's reason for the emphatic denial: David is a boy while the enemy has been a warrior from youth. The difference in experience is preserved without an invented age.
+
+[Focused evidence](../../reviews/2026-11-13-OT-088-1-samuel-17-18/focused-reviews.json) · anchor `v17-33`
+
+## 1 Samuel 17:47
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> All this assembly will know that the Lord does not save by sword and spear. The battle belongs to the Lord, and the Lord will hand you all into our hands.”
+
+**Proposed**
+
+> All this assembly will know that the Lord does not save by sword and spear. For the battle belongs to the Lord, and the Lord will hand you all into our hands.”
+
+**Reason and limits**
+
+Propose For before the explanation that the battle belongs to the Lord. The whole assembly's knowing, non-saving by sword and spear, and plural you all delivered into our hands remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-088-1-samuel-17-18/focused-reviews.json) · anchor `v17-47`
+
+## 1 Samuel 18:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He removed him from his presence and appointed him a commander of a thousand for himself. He went out and came in before the people.
+
+**Proposed**
+
+> He removed him from his presence and appointed him a commander of a thousand for himself. David went out and came in before the people.
+
+**Reason and limits**
+
+Propose naming David as the inferred subject of going out and coming in after Saul removes and appoints him. This resolves the English subject switch while preserving command of a thousand for Saul.
+
+[Focused evidence](../../reviews/2026-11-13-OT-088-1-samuel-17-18/focused-reviews.json) · anchor `v18-13`
+
+## 1 Samuel 18:27
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David rose and went, he and his men, and struck a hundred men among the foreigners. He brought their foreskins to the king and became the king’s son-in-law. He gave him Michal, his daughter, as a wife.
+
+**Proposed**
+
+> David rose and went, he and his men, and struck a hundred men among the foreigners. He brought their foreskins to the king and became the king’s son-in-law. Saul gave him Michal, his daughter, as a wife.
+
+**Reason and limits**
+
+Propose naming Saul as the inferred giver of his daughter to David. David and his men strike one hundred foreigners, bring their foreskins and effect the marriage; two hundred is not substituted.
+
+[Focused evidence](../../reviews/2026-11-13-OT-088-1-samuel-17-18/focused-reviews.json) · anchor `v18-27`
+
+## 1 Samuel 20:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Jonathan said, “By no means shall that happen to you! If I know that evil has been determined by my father to come upon you—and if not—I will report it to you in your cities.”
+
+**Proposed**
+
+> Jonathan said, “By no means shall that happen to you! For if I know for certain that evil has been determined by my father to come upon you—and if not—I will report it to you in your cities.”
+
+**Reason and limits**
+
+Propose For before the explanatory conditional and know for certain for the emphatic knowing construction. The broken and if not, the danger from his father and reporting in your cities remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-089-1-samuel-19-20/focused-reviews.json) · anchor `v20-9`
+
+## 1 Samuel 20:12
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Jonathan said to David, “The Lord, the God of Israel, knows that I will question my father when the time comes a third time. If there is good concerning David, shall I not send to you in the field?
+
+**Proposed**
+
+> Jonathan said to David, “The Lord, the God of Israel, knows that I will question my father when the time comes a third time. Behold, if there is good concerning David, shall I not send to you in the field?
+
+**Reason and limits**
+
+Propose Behold at the introduction of the good report condition. The Lord's knowing, Jonathan's inquiry at a third time, good concerning David and sending to the field remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-089-1-samuel-19-20/focused-reviews.json) · anchor `v20-12`
+
+## 1 Samuel 20:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Then I will send the little boy, saying, ‘Come, find the shaft for me.’ If I say to the little boy, ‘Here, the shaft is on this side of you; take it,’ come, for there is peace for you and no danger, as the Lord lives.
+
+**Proposed**
+
+> Behold, I will send the little boy, saying, ‘Come, find the shaft for me.’ If I say to the little boy, ‘Here, the shaft is on this side of you; take it,’ come, for there is peace for you and no danger, as the Lord lives.
+
+**Reason and limits**
+
+Propose Behold instead of Then to retain the explicit presentative before sending the boy. The singular shaft, nearer-side signal, instruction to take it, David's coming and sworn peace remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-089-1-samuel-19-20/focused-reviews.json) · anchor `v20-21`
+
+## 1 Samuel 20:31
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> As long as Jesse’s son lives on the earth, your kingship will not be established. Now send and fetch the young man, for this one is a son of death.”
+
+**Proposed**
+
+> For as long as Jesse’s son lives on the earth, your kingship will not be established. So now send and fetch the young man, for this one is a son of death.”
+
+**Reason and limits**
+
+Propose For at the explanation of threatened kingship and So now for the inferential command. Jesse's son's lifetime, fetching the young man and son of death remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-089-1-samuel-19-20/focused-reviews.json) · anchor `v20-31`
+
+## 1 Samuel 20:36
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to the little boy, “Run, find for me the shafts I am hurling.” The little boy ran, and he hurled the shaft and sent it past.
+
+**Proposed**
+
+> He said to the little boy, “Run, find for me the shafts I am hurling.” The little boy ran, and Jonathan hurled the shaft and sent it past.
+
+**Reason and limits**
+
+Propose naming Jonathan as the inferred shaft-throwing subject after the boy runs, making the actor switch audible. Plural requested shafts and the singular shaft sent past remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-089-1-samuel-19-20/focused-reviews.json) · anchor `v20-36`
+
+## 1 Samuel 21:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David answered the priest and said to him, “But we have abstained from a woman yesterday and the third day. When I went out on the road, all the young men had been purified. The road itself is common, for it will be sanctified today through my equipment.”
+
+**Proposed**
+
+> David answered the priest and said to him, “But we have abstained from a woman yesterday and the third day. When I went out on the road, all the young men had been purified. The road itself is common, for it will be sanctified today because of my equipment.”
+
+**Reason and limits**
+
+Propose because of my equipment rather than through my equipment: dia takes the accusative and is naturally causal here. Abstention, yesterday-and-third-day wording, all young men purified, the common road and its future sanctification remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-090-1-samuel-21-22/focused-reviews.json) · anchor `v21-6`
+
+## 1 Samuel 22:23
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Stay with me; do not fear. Wherever I seek a place for my soul, I will seek one for your soul too, for you are protected with me.”
+
+**Proposed**
+
+> Stay with me; do not fear. For wherever I seek a place for my soul, I will seek one for your soul too, for you are protected with me.”
+
+**Reason and limits**
+
+Propose For before the explanation of why Abiathar need not fear. David promises to seek a place for Abiathar's soul wherever he seeks for his own, and declares protection with him.
+
+[Focused evidence](../../reviews/2026-11-13-OT-090-1-samuel-21-22/focused-reviews.json) · anchor `v22-23`
+
+## 1 Samuel 23:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David said, “Lord, God of Israel, Thy servant has heard that Saul seeks to come against Keilah and destroy the city because of me.
+
+**Proposed**
+
+> David said, “Lord, God of Israel, Thy servant has surely heard that Saul seeks to come against Keilah and destroy the city because of me.
+
+**Reason and limits**
+
+Propose surely heard for the emphatic hearing construction in David's prayer. Thy servant retains direct singular divine address, with Saul's intended destruction of Keilah because of David explicit.
+
+[Focused evidence](../../reviews/2026-11-13-OT-091-1-samuel-23-24/focused-reviews.json) · anchor `v23-10`
+
+## 1 Samuel 23:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to him, “Do not fear. My father Saul’s hand certainly will not find you. You will reign over Israel, and I will be second to you. My father Saul knows this.”
+
+**Proposed**
+
+> He said to him, “Do not fear. For my father Saul’s hand certainly will not find you. You will reign over Israel, and I will be second to you. My father Saul knows this.”
+
+**Reason and limits**
+
+Propose For before the reason not to fear. Saul's hand certainly not finding David, David's future reign, Jonathan's second place and Saul's knowledge remain as Jonathan's assurances.
+
+[Focused evidence](../../reviews/2026-11-13-OT-091-1-samuel-23-24/focused-reviews.json) · anchor `v23-17`
+
+## 1 Samuel 24:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> If someone finds his enemy in distress and sends him away on a good road, the Lord will repay him with good things, as you have done today.
+
+**Proposed**
+
+> For if someone finds his enemy in distress and sends him away on a good road, the Lord will repay him with good things, as you have done today.
+
+**Reason and limits**
+
+Propose For at the explanatory conditional. Finding an enemy in distress and releasing him on a good road leads to the Lord's future good repayment, compared with David's act today.
+
+[Focused evidence](../../reviews/2026-11-13-OT-091-1-samuel-23-24/focused-reviews.json) · anchor `v24-20`
+
+## 1 Samuel 25:28
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Please take away your handmaid’s lawless deed. The Lord will surely make my lord a faithful house, for my lord fights the Lord’s war, and evil shall never be found in you.
+
+**Proposed**
+
+> Please take away your handmaid’s lawless deed. For the Lord will surely make my lord a faithful house, for my lord fights the Lord’s war, and evil shall never be found in you.
+
+**Reason and limits**
+
+Propose For before the emphatic promise of a faithful house, keeping its explanatory link to the forgiveness request. The Lord's war and never finding evil in David remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-092-1-samuel-25/focused-reviews.json) · anchor `v25-28`
+
+## 1 Samuel 26:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David said to Abishai, “Do not humble him. Who will bring his hand against the Lord’s anointed and be acquitted?”
+
+**Proposed**
+
+> David said to Abishai, “Do not humble him. For who will bring his hand against the Lord’s anointed and be acquitted?”
+
+**Reason and limits**
+
+Propose For before the question grounding David's prohibition. Humble follows tapeinoo, and the question concerns striking the Lord's anointed and being acquitted.
+
+[Focused evidence](../../reviews/2026-11-13-OT-093-1-samuel-26-27/focused-reviews.json) · anchor `v26-9`
+
+## 1 Samuel 26:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David said to Abner, “Are you not a man? Who is like you in Israel? Why do you not guard your lord the king? One of the people entered to destroy the king, your lord.
+
+**Proposed**
+
+> David said to Abner, “Are you not a man? Who is like you in Israel? Why do you not guard your lord the king? For one of the people entered to destroy the king, your lord.
+
+**Reason and limits**
+
+Propose For before the explanation that a person entered to destroy the king. Questions about Abner's manhood, uniqueness and failed guarding remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-093-1-samuel-26-27/focused-reviews.json) · anchor `v26-15`
+
+## 1 Samuel 26:18
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said, “Why does my lord pursue his servant in this way? How have I sinned, and what wrong has been found in me?
+
+**Proposed**
+
+> He said, “Why does my lord pursue his servant in this way? For how have I sinned, and what wrong has been found in me?
+
+**Reason and limits**
+
+Propose For before the questions about sin and wrong as grounds for challenging pursuit. My lord and his servant remain the respectful third-person frame within direct speech.
+
+[Focused evidence](../../reviews/2026-11-13-OT-093-1-samuel-26-27/focused-reviews.json) · anchor `v26-18`
+
+## 1 Samuel 26:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Now let my blood not fall to the ground opposite the Lord’s presence. Israel’s king has come out to seek my soul, as the night-raven pursues in the mountains.”
+
+**Proposed**
+
+> Now let my blood not fall to the ground opposite the Lord’s presence. For Israel’s king has come out to seek my soul, as the night-raven pursues in the mountains.”
+
+**Reason and limits**
+
+Propose For before the explanation that Israel's king seeks David's soul. The wish against spilled blood opposite the Lord's presence and the night-raven's mountain pursuit remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-093-1-samuel-26-27/focused-reviews.json) · anchor `v26-20`
+
+## 1 Samuel 27:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Achish said to David, “Whom have you attacked today?” David said to Achish, “The south of Judea, the south of Jesmega, and the south of Kenezi.”
+
+**Proposed**
+
+> Achish said to David, “Whom have you all attacked today?” David said to Achish, “The south of Judea, the south of Jesmega, and the south of Kenezi.”
+
+**Reason and limits**
+
+Propose you all in Achish's question to preserve the plural verb addressed to David as the party's representative. David's reported southern targets retain Judea, Jesmega and Kenezi.
+
+[Focused evidence](../../reviews/2026-11-13-OT-093-1-samuel-26-27/focused-reviews.json) · anchor `v27-10`
+
+## 1 Samuel 29:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Is this not David, for whom they led the song in the dances, saying: ‘Saul has struck down his thousands, and David his tens of thousands’?”
+
+**Proposed**
+
+> Is this not David, for whom they led the song in the dances, saying: ‘Saul has struck his thousands, and David his tens of thousands’?”
+
+**Reason and limits**
+
+Propose struck in place of struck down to match the same Greek song already translated at 18:7 and 21:12. The two numerical song lines receive authored line breaks within the question.
+
+[Focused evidence](../../reviews/2026-11-13-OT-094-1-samuel-28-29/focused-reviews.json) · anchor `v29-5`
+
+## 1 Samuel 29:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Achish called David and said to him, “As the Lord lives, you are upright and good in my eyes, as are your going out and coming in with me in the camp. I have found no evil against you from the day you came to me until today. But in the satraps’ eyes you are not good.
+
+**Proposed**
+
+> Achish called David and said to him, “As the Lord lives, you are upright and good in my eyes, as are your going out and coming in with me in the camp. For I have found no evil against you from the day you came to me until today. But in the satraps’ eyes you are not good.
+
+**Reason and limits**
+
+Propose For before Achish's explanation that he found no evil. His oath, favorable view of David and his movements, full time span and the satraps' opposing view remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-094-1-samuel-28-29/focused-reviews.json) · anchor `v29-6`
+
+## 1 Samuel 30:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> David was greatly afflicted, for the people spoke of stoning him. The soul of all the people was in anguish, each over his sons and daughters. But David was strengthened in the Lord his God.
+
+**Proposed**
+
+> David was greatly afflicted, for the people spoke of stoning him, because the soul of all the people was in anguish, each over his sons and daughters. But David was strengthened in the Lord his God.
+
+**Reason and limits**
+
+Propose because to connect the people's talk of stoning David to their anguish over sons and daughters. David's affliction and strengthening in the Lord remain, with collective soul and individual bereavement both expressed.
+
+[Focused evidence](../../reviews/2026-11-13-OT-095-1-samuel-30-31/focused-reviews.json) · anchor `v30-6`
+
+## 1 Samuel 30:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Who would listen to these words of yours? For they are no less than you. As is the share of the one who goes down into war, so shall be the share of the one who stays with the equipment. They shall share equally.”
+
+**Proposed**
+
+> Who would listen to these words of yours? For they are no less than you. For as is the share of the one who goes down into war, so shall be the share of the one who stays with the equipment. They shall share equally.”
+
+**Reason and limits**
+
+Propose For before the second explanation: the equal share of fighter and equipment keeper follows their being no less than the others. The question, equality claim and concluding equal division remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-095-1-samuel-30-31/focused-reviews.json) · anchor `v30-24`
 
 ## Jonah 3:9
 

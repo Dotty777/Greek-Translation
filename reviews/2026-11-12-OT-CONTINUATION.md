@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 7,083 focused comparison records. Across the current OT programme, 7,211 of 26,580 stored units have new comparisons; 19,369 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 7,856 focused comparison records. Across the current OT programme, 7,984 of 26,580 stored units have new comparisons; 18,596 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -80,11 +80,29 @@ This continuation adds 7,083 focused comparison records. Across the current OT p
 | [OT-075](2026-11-13-OT-075-judges-21/README.md) | Judges 21; all 25 stored units | 25 | 1 |
 | [OT-076](2026-11-13-OT-076-ruth-1-2/README.md) | Ruth 1-2; all 45 stored units | 45 | 1 |
 | [OT-077](2026-11-13-OT-077-ruth-3-4/README.md) | Ruth 3-4; all 40 stored units | 40 | 1 |
+| [OT-078](2026-11-13-OT-078-1-samuel-1/README.md) | 1 Samuel 1; all 28 stored units | 28 | 1 |
+| [OT-079](2026-11-13-OT-079-1-samuel-2/README.md) | 1 Samuel 2; all 36 stored units | 36 | 2 |
+| [OT-080](2026-11-13-OT-080-1-samuel-3-4/README.md) | 1 Samuel 3-4; all 43 stored units | 43 | 1 |
+| [OT-081](2026-11-13-OT-081-1-samuel-5-6/README.md) | 1 Samuel 5-6; all 33 stored units | 33 | 0 |
+| [OT-082](2026-11-13-OT-082-1-samuel-7-8/README.md) | 1 Samuel 7-8; all 39 stored units | 39 | 1 |
+| [OT-083](2026-11-13-OT-083-1-samuel-9-10/README.md) | 1 Samuel 9-10; all 54 stored units | 54 | 5 |
+| [OT-084](2026-11-13-OT-084-1-samuel-11-12/README.md) | 1 Samuel 11-12; all 40 stored units | 40 | 6 |
+| [OT-085](2026-11-13-OT-085-1-samuel-13/README.md) | 1 Samuel 13; all 22 stored units, preserving absent 13:1 | 22 | 1 |
+| [OT-086](2026-11-13-OT-086-1-samuel-14/README.md) | 1 Samuel 14; all 52 stored units | 52 | 9 |
+| [OT-087](2026-11-13-OT-087-1-samuel-15-16/README.md) | 1 Samuel 15-16; all 58 stored units | 58 | 8 |
+| [OT-088](2026-11-13-OT-088-1-samuel-17-18/README.md) | 1 Samuel 17-18; all 51 stored units in the selected shorter Greek form | 51 | 4 |
+| [OT-089](2026-11-13-OT-089-1-samuel-19-20/README.md) | 1 Samuel 19-20; all 66 stored units | 66 | 5 |
+| [OT-090](2026-11-13-OT-090-1-samuel-21-22/README.md) | 1 Samuel 21-22; all 39 stored units | 39 | 2 |
+| [OT-091](2026-11-13-OT-091-1-samuel-23-24/README.md) | 1 Samuel 23-24; all 50 stored units, preserving absent 23:12 and the selected chapter boundary | 50 | 3 |
+| [OT-092](2026-11-13-OT-092-1-samuel-25/README.md) | 1 Samuel 25; all 44 stored units | 44 | 1 |
+| [OT-093](2026-11-13-OT-093-1-samuel-26-27/README.md) | 1 Samuel 26-27; all 37 stored units | 37 | 5 |
+| [OT-094](2026-11-13-OT-094-1-samuel-28-29/README.md) | 1 Samuel 28-29; all 36 stored units | 36 | 2 |
+| [OT-095](2026-11-13-OT-095-1-samuel-30-31/README.md) | 1 Samuel 30-31; all 45 stored units, including 30:28a | 45 | 2 |
 
-Next source-led drafting passage: **1 Samuel 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **2 Samuel 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 7,114 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 7,887 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

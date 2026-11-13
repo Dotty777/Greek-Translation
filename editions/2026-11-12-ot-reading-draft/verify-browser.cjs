@@ -231,6 +231,23 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
   assert.equal(await page.locator('[data-book="ruth"] [data-reading-key]').count(),85);
   assert((await page.locator('#ruth-section-4-v4-4 .reading-text').innerText()).includes('For there is no one'));
   checks.push('All 85 Ruth units remain rendered and the 4:4 explanatory link is present');
+  assert.equal(await page.locator('[data-book="1-samuel"] [data-reading-key]').count(),773);
+  assert.equal(await page.locator('[id="1-samuel-section-13-v13-1"]').count(),0);
+  assert.equal(await page.locator('[id="1-samuel-section-23-v23-12"]').count(),0);
+  assert.equal(await page.locator('[id="1-samuel-section-17"] [data-reading-key]').count(),32);
+  assert.equal(await page.locator('[id="1-samuel-section-18"] [data-reading-key]').count(),19);
+  checks.push('All 773 1 Samuel units preserve selected omissions and shorter chapters 17–18');
+  for (const [section,anchor,phrases] of [[2,'v2-10',['our kings','wisdom','Poetic line breaks proposed by AI']],[2,'v2-33',['spare a man of yours at My altar','not destroy every man','indefinite’s exact scope']],[20,'v20-12',['shall I not send','conditional negative']],[21,'v21-6',['because of my equipment','through my equipment','dia takes the accusative']],[30,'v30-28a',['Gath','Kinan','Saphek','Thimath']]]) {
+    await page.goto(url+`#1-samuel-section-${section}`);
+    const unit=page.locator(`[id="1-samuel-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(anchor==='v2-10') assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,12);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`1 Samuel ${anchor.slice(1).replace('-',':')} selected wording and comparison remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-samuel-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');
