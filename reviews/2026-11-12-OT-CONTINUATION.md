@@ -2,7 +2,7 @@
 
 **Updated 2026-11-13 · provisional Greek-to-Saints English work**
 
-This continuation adds 11,860 focused comparison records. Across the current OT programme, 11,988 of 26,580 stored units have new comparisons; 14,592 remain inherited text without a new comparison. The full 43-book task is still in progress.
+This continuation adds 12,784 focused comparison records. Across the current OT programme, 12,912 of 26,580 stored units have new comparisons; 13,668 remain inherited text without a new comparison. The full 43-book task is still in progress.
 
 | Batch | Scope | Units compared | Wording proposals |
 | --- | --- | ---: | ---: |
@@ -181,11 +181,27 @@ This continuation adds 11,860 focused comparison records. Across the current OT 
 | [OT-176](2026-11-13-OT-176-2-chronicles-32-33/README.md) | 2 Chronicles 32–33; all 58 stored units | 58 | 0 |
 | [OT-177](2026-11-13-OT-177-2-chronicles-34/README.md) | 2 Chronicles 34; all 33 stored units | 33 | 2 |
 | [OT-178](2026-11-13-OT-178-2-chronicles-35-36/README.md) | 2 Chronicles 35–36; all 62 stored units including every lettered addition | 62 | 2 |
+| [OT-179](2026-11-13-OT-179-1-maccabees-1/README.md) | 1 Maccabees 1; all 64 stored units | 64 | 1 |
+| [OT-180](2026-11-13-OT-180-1-maccabees-2/README.md) | 1 Maccabees 2; all 70 stored units | 70 | 1 |
+| [OT-181](2026-11-13-OT-181-1-maccabees-3/README.md) | 1 Maccabees 3; all 60 stored units | 60 | 1 |
+| [OT-182](2026-11-13-OT-182-1-maccabees-4/README.md) | 1 Maccabees 4; all 61 stored units | 61 | 0 |
+| [OT-183](2026-11-13-OT-183-1-maccabees-5/README.md) | 1 Maccabees 5; all 68 stored units | 68 | 3 |
+| [OT-184](2026-11-13-OT-184-1-maccabees-6/README.md) | 1 Maccabees 6; all 63 stored units | 63 | 0 |
+| [OT-185](2026-11-13-OT-185-1-maccabees-7/README.md) | 1 Maccabees 7; all 50 stored units | 50 | 1 |
+| [OT-186](2026-11-13-OT-186-1-maccabees-8/README.md) | 1 Maccabees 8; all 32 stored units | 32 | 1 |
+| [OT-187](2026-11-13-OT-187-1-maccabees-9/README.md) | 1 Maccabees 9; all 73 stored units | 73 | 3 |
+| [OT-188](2026-11-13-OT-188-1-maccabees-10/README.md) | 1 Maccabees 10; all 89 stored units | 89 | 2 |
+| [OT-189](2026-11-13-OT-189-1-maccabees-11/README.md) | 1 Maccabees 11; all 74 stored units | 74 | 2 |
+| [OT-190](2026-11-13-OT-190-1-maccabees-12/README.md) | 1 Maccabees 12; all 53 stored units | 53 | 2 |
+| [OT-191](2026-11-13-OT-191-1-maccabees-13/README.md) | 1 Maccabees 13; all 53 stored units | 53 | 1 |
+| [OT-192](2026-11-13-OT-192-1-maccabees-14/README.md) | 1 Maccabees 14; all 49 stored units | 49 | 1 |
+| [OT-193](2026-11-13-OT-193-1-maccabees-15/README.md) | 1 Maccabees 15; all 41 stored units | 41 | 0 |
+| [OT-194](2026-11-13-OT-194-1-maccabees-16/README.md) | 1 Maccabees 16; all 24 stored units | 24 | 1 |
 
-Next source-led drafting passage: **1 Maccabees 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
+Next source-led drafting passage: **2 Maccabees 1**. Complete token/construction accounting, applicable apparatus work, specialist decisions, independent human Greek review, human reading aloud and editorial acceptance remain open for the compared material.
 
 The [working reader](../editions/2026-11-12-ot-reading-draft/Saints-English-Old-Testament.html) exposes passage notes, alternatives and unresolved questions separately from Scripture. The [proposal ledger](../editions/2026-11-12-ot-reading-draft/PROPOSED-CHANGES.md) preserves exact before/after wording. Original Scripture files and the accepted Genesis 1–11 benchmark are unchanged. No New Testament work or website deployment is included.
 
 [Scoped second AI checks](2026-11-12-OT-CONTINUATION-QA.json) are not independent human review. [Selected name decisions](../docs/OT-NAME-DECISIONS.json) begin a provisional register; it is not an approved exhaustive authority list.
 
-One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 11,891 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.
+One compared unit, Genesis 4:7, has an explicit 19-token ledger; that unit is already included in the comparison total. The edition records 12,815 close/spoken/literary draft sets, which may deliberately retain identical wording. These are working AI stages, not three human reviews.

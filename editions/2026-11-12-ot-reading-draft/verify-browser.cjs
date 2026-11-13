@@ -361,6 +361,34 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
     checks.push(`2 Chronicles ${anchor.slice(1).replace('-',':')} selected wording, provisional evidence and display remain accessible on mobile`);
     await unit.screenshot({path:path.join(__dirname,`reader-mobile-2-chronicles-${anchor.slice(1)}.png`)});
   }
+  assert.equal(await page.locator('[data-book="1-maccabees"] .verse').count(),924);
+  assert.equal(await page.locator('[id="1-maccabees-section-1"] .verse').count(),64);
+  assert.equal(await page.locator('[id="1-maccabees-section-16"] .verse').count(),24);
+  assert((await page.locator('[id="1-maccabees-section-16-v16-24"] .reading-text').innerText()).startsWith('behold, these are written'));
+  checks.push('All 924 1 Maccabees units preserve their chapter boundaries and final record formula');
+  let oneMaccabeesCompared=0;
+  for (const folder of fs.readdirSync(path.join(__dirname,'../../reviews')).filter(name=>/^2026-11-13-OT-\d+-1-maccabees-/.test(name))) {
+    const records=JSON.parse(fs.readFileSync(path.join(__dirname,'../../reviews',folder,'focused-reviews.json'),'utf8')).records;
+    for (const record of records.filter(record=>record.decision==='propose_revision')) {
+      const unit=page.locator(`[id="1-maccabees-section-${record.reading_section_id}-${record.verse_anchor}"]`);
+      assert.equal((await unit.locator('.reading-text').innerText()).replace(/\s+/g,' ').trim(),record.candidate_text.replace(/\s+/g,' ').trim());
+      assert((await unit.textContent()).includes(record.baseline_text));
+      oneMaccabeesCompared++;
+    }
+  }
+  assert.equal(oneMaccabeesCompared,20);
+  checks.push('All twenty 1 Maccabees proposals render exact candidate wording and preserve inherited text');
+  for (const [section,anchor,phrases,lines] of [[1,'v1-15',['were yoked','were sold'],0],[2,'v2-61',['will not grow weak','will not fail'],2],[3,'v3-4',['roaring for prey','roaring over prey'],2],[3,'v3-48',['idol likenesses','interpretive'],0],[4,'v4-24',['For it is good','neuter formula'],3],[5,'v5-58',['He gave orders','They gave orders'],0],[7,'v7-17',['Thy holy ones','Psalm source'],2],[8,'v8-9',['They also reported','They also heard'],0],[8,'v8-28',['those acting as allies','enemy possessive'],0],[9,'v9-54',['and began the demolition','began tearing down'],0],[10,'v10-47',['fought alongside him continually','all his days'],0],[11,'v11-66',['his right hand in pledge','to receive a pledge'],0],[12,'v12-43',['obey Jonathan as they obeyed him','obeyed himself'],0],[13,'v13-28',['seven pyramids','six named relatives'],0],[14,'v14-7',['many captives','many who had been captive'],4],[14,'v14-41',['for ever, until a faithful prophet','prophetic review'],0],[16,'v16-5',['Behold! A large force','restoring Behold'],0]]) {
+    await page.goto(url+`#1-maccabees-section-${section}`);
+    const unit=page.locator(`[id="1-maccabees-section-${section}-${anchor}"]`);
+    await unit.locator('summary').click();
+    for (const phrase of phrases) assert((await unit.innerText()).includes(phrase),phrase);
+    if(lines) assert.equal((await unit.locator('.reading-text').innerText()).split('\n').length,lines);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`1 Maccabees ${anchor.slice(1).replace('-',':')} selected wording, evidence and display remain accessible on mobile`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-1-maccabees-${anchor.slice(1)}.png`)});
+  }
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');

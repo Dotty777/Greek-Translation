@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**316 proposals · 12 November 2026 · editorial acceptance pending**
+**336 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -5637,6 +5637,366 @@ Restore the explicit behold before the record notice. Retain Jeremiah's lament, 
 Restore behold in the final record notice while retaining first/last deeds and the Book of the Kings of Israel and Judah. The close draft preserves inherited wording; no access to the named ancient record is implied.
 
 [Focused evidence](../../reviews/2026-11-13-OT-178-2-chronicles-35-36/focused-reviews.json) · anchor `v35-27`
+
+## 1 Maccabees 1:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and made foreskins for themselves. They abandoned the holy covenant, yoked themselves to the nations, and sold themselves to do evil.
+
+**Proposed**
+
+> and made foreskins for themselves. They abandoned the holy covenant, were yoked to the nations, and were sold to do evil.
+
+**Reason and limits**
+
+Propose were yoked and were sold for the two selected passive verbs, preserving the explicit self-reference in made foreskins for themselves and the active abandonment of the covenant. The close draft keeps the inherited reflexive renderings.
+
+[Focused evidence](../../reviews/2026-11-13-OT-179-1-maccabees-1/focused-reviews.json) · anchor `v1-15`
+
+## 1 Maccabees 2:61
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> So consider it from generation to generation: all who hope in Him will not fail.
+
+**Proposed**
+
+> So consider it from generation to generation: all who hope in Him will not grow weak.
+
+**Reason and limits**
+
+Propose will not grow weak for will not fail, preserving the selected weakening verb and its distinction from utter failure. Retain generation-by-generation reflection and hope in Him; two proposed display lines separate the exhortation and assurance. The close draft keeps fail.
+
+[Focused evidence](../../reviews/2026-11-13-OT-180-1-maccabees-2/focused-reviews.json) · anchor `v2-61`
+
+## 1 Maccabees 3:4
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> In his deeds he was like a lion, like a young lion roaring over prey.
+
+**Proposed**
+
+> In his deeds he was like a lion, like a young lion roaring for prey.
+
+**Reason and limits**
+
+Propose roaring for prey for roaring over prey: the directional/purposive phrase points toward the hunt rather than expressly placing captured prey beneath the lion. Keep the two inherited lines and lion/cub parallel.
+
+[Focused evidence](../../reviews/2026-11-13-OT-181-1-maccabees-3/focused-reviews.json) · anchor `v3-4`
+
+## 1 Maccabees 5:14
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> While the letters were still being read, other messengers arrived from Galilee with torn garments, reporting similar things.
+
+**Proposed**
+
+> While the letters were still being read, behold, other messengers arrived from Galilee with torn garments, reporting similar things.
+
+**Reason and limits**
+
+Propose restoring behold at the arrival of the second messengers while the letters are still being read. Keep Galilee, torn garments and the relation of their report to the preceding news.
+
+[Focused evidence](../../reviews/2026-11-13-OT-183-1-maccabees-5/focused-reviews.json) · anchor `v5-14`
+
+## 1 Maccabees 5:30
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> In the morning they raised their eyes and saw a great people beyond counting, carrying ladders and siege engines to seize the stronghold and attacking its defenders.
+
+**Proposed**
+
+> In the morning they raised their eyes, and behold, there was a great multitude beyond counting, carrying ladders and siege engines to seize the stronghold and attacking its defenders.
+
+**Reason and limits**
+
+Propose restoring behold and using a great multitude beyond counting for the large unnumbered people. Preserve raised eyes, ladders, engines, seizure purpose and attack on the defenders; the supplied there was unfolds the Greek nominal presentation.
+
+[Focused evidence](../../reviews/2026-11-13-OT-183-1-maccabees-5/focused-reviews.json) · anchor `v5-30`
+
+## 1 Maccabees 5:58
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They gave orders to the men of the force with them, and they marched against Jamnia.
+
+**Proposed**
+
+> He gave orders to the men of the force with them, and they marched against Jamnia.
+
+**Reason and limits**
+
+Propose He gave orders in place of They gave orders, preserving the selected singular command verb followed by plural movement to Jamnia. He is a contextual English pronoun for an unnamed commander, not gender encoded by the Greek verb.
+
+[Focused evidence](../../reviews/2026-11-13-OT-183-1-maccabees-5/focused-reviews.json) · anchor `v5-58`
+
+## 1 Maccabees 7:30
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Judas learned that he had come against him deceitfully. He became wary of him and would no longer see his face.
+
+**Proposed**
+
+> Judas learned that he had come against him deceitfully. He became afraid of him and would no longer see his face.
+
+**Reason and limits**
+
+Propose became afraid of him for became wary of him, preserving the explicit fear force of the verb. Keep discovery of deceit and refusal to see his face again; no claim of cowardice is added.
+
+[Focused evidence](../../reviews/2026-11-13-OT-185-1-maccabees-7/focused-reviews.json) · anchor `v7-30`
+
+## 1 Maccabees 8:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They also heard that the people of Greece had resolved to come and destroy them.
+
+**Proposed**
+
+> They also reported that the people of Greece had resolved to come and destroy the Romans.
+
+**Reason and limits**
+
+Propose They also reported that the people of Greece had resolved to come and destroy the Romans. The Greek and that continues the report to Judas from verse 2; inherited They also heard risks making a new hearing event or Roman subject. Romans clarifies the threatened pronoun contextually.
+
+[Focused evidence](../../reviews/2026-11-13-OT-186-1-maccabees-8/focused-reviews.json) · anchor `v8-9`
+
+## 1 Maccabees 9:9
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They tried to turn him back, saying, “We certainly cannot! Let us save our lives for now. We will return with our brothers and fight them, but we are few.”
+
+**Proposed**
+
+> They tried to turn him back, saying, “We certainly cannot! Let us save our lives for now. Let us return with our brothers and fight them, but we are few.”
+
+**Reason and limits**
+
+Propose Let us return for We will return, preserving the exhortative form in the soldiers’ suggested plan. Keep emphatic inability, saving lives now, return with brothers and their present fewness.
+
+[Focused evidence](../../reviews/2026-11-13-OT-187-1-maccabees-9/focused-reviews.json) · anchor `v9-9`
+
+## 1 Maccabees 9:39
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They raised their eyes and saw a commotion and much baggage. The bridegroom, his friends, and his brothers came out to meet them with tambourines, musicians, and many weapons.
+
+**Proposed**
+
+> They raised their eyes and looked, and behold, there was a commotion and much baggage. The bridegroom, his friends, and his brothers came out to meet them with tambourines, musicians, and many weapons.
+
+**Reason and limits**
+
+Propose restoring behold after raised eyes and seeing, retaining the commotion, baggage and armed musical wedding party. There was supplies natural English for the source’s nominal presentation without creating a separate event.
+
+[Focused evidence](../../reviews/2026-11-13-OT-187-1-maccabees-9/focused-reviews.json) · anchor `v9-39`
+
+## 1 Maccabees 9:54
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> In the second month of the one hundred and fifty-third year, Alcimus ordered the wall of the inner court of the holy places to be demolished. He began tearing down the works of the prophets.
+
+**Proposed**
+
+> In the second month of the one hundred and fifty-third year, Alcimus ordered the wall of the inner court of the holy places to be demolished. He tore down the works of the prophets and began the demolition.
+
+**Reason and limits**
+
+Propose restoring the separate tore down the works and began demolition clauses after Alcimus’s order. The inherited began tearing down collapses the selected accomplished-action verb and following beginning verb; preserve the awkward sequence without resolving it by historical reconstruction.
+
+[Focused evidence](../../reviews/2026-11-13-OT-187-1-maccabees-9/focused-reviews.json) · anchor `v9-54`
+
+## 1 Maccabees 10:47
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They favoured Alexander, because he had been the first to speak peaceful words to them, and they remained his allies all his days.
+
+**Proposed**
+
+> They favoured Alexander, because he had been the first to speak peaceful words to them, and they fought alongside him continually.
+
+**Reason and limits**
+
+Propose they fought alongside him continually for they remained his allies all his days. The verb describes allied fighting and the duration says all the days without the inherited possessive limiting it to Alexander’s lifetime. Keep the claim that he initiated peaceful words as the people’s stated rationale.
+
+[Focused evidence](../../reviews/2026-11-13-OT-188-1-maccabees-10/focused-reviews.json) · anchor `v10-47`
+
+## 1 Maccabees 10:89
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He sent him a golden clasp, as is customarily given to the king’s Kinsmen, and gave him Ekron and all its territory as an inheritance.
+
+**Proposed**
+
+> He sent him a golden clasp, as is customarily given to the Kinsmen of kings, and gave him Ekron and all its territory as an inheritance.
+
+**Reason and limits**
+
+Propose Kinsmen of kings for the king’s Kinsmen to preserve the plural kings in the customary-gift formula. Keep golden clasp, Ekron, all its territory and inheritance; Kinsmen remains a provisional court designation, not proof of blood relation.
+
+[Focused evidence](../../reviews/2026-11-13-OT-188-1-maccabees-10/focused-reviews.json) · anchor `v10-89`
+
+## 1 Maccabees 11:66
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They asked him to receive a pledge of peace, and he gave it to them. He expelled them from there, seized the city, and placed a garrison over it.
+
+**Proposed**
+
+> They asked him for his right hand in pledge, and he gave it to them. He expelled them from there, seized the city, and placed a garrison over it.
+
+**Reason and limits**
+
+Propose They asked him for his right hand in pledge, and he gave it to them. This clarifies that the petitioners receive the pledge and restores the bodily idiom; inherited asked him to receive can reverse that relation. Keep their expulsion, city capture and new garrison.
+
+[Focused evidence](../../reviews/2026-11-13-OT-189-1-maccabees-11/focused-reviews.json) · anchor `v11-66`
+
+## 1 Maccabees 11:68
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The army of foreigners met him in the plain, having sent out an ambush against him in the mountains, while they themselves met him from the front.
+
+**Proposed**
+
+> Behold! The army of foreigners met him in the plain, having sent out an ambush against him in the mountains, while they themselves met him from the front.
+
+**Reason and limits**
+
+Propose restoring Behold before the foreign army’s encounter. Preserve the mountain ambush and frontal approach as distinct tactical actions.
+
+[Focused evidence](../../reviews/2026-11-13-OT-189-1-maccabees-11/focused-reviews.json) · anchor `v11-68`
+
+## 1 Maccabees 12:17
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> We have also commanded them to go to you, greet you, and deliver our letters concerning the renewal of our brotherhood.
+
+**Proposed**
+
+> We have also commanded them to go to you, greet you, and deliver our letters concerning renewal and our brotherhood.
+
+**Reason and limits**
+
+Propose concerning renewal and our brotherhood for concerning the renewal of our brotherhood. The Greek coordinates renewal and brotherhood; do not silently make the second noun solely a genitive object of the first.
+
+[Focused evidence](../../reviews/2026-11-13-OT-190-1-maccabees-12/focused-reviews.json) · anchor `v12-17`
+
+## 1 Maccabees 12:43
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He received him with honour, introduced him to all his Friends, gave him gifts, and commanded his Friends and forces to obey him as they obeyed himself.
+
+**Proposed**
+
+> He received him with honour, introduced him to all his Friends, gave him gifts, and commanded his Friends and forces to obey Jonathan as they obeyed him.
+
+**Reason and limits**
+
+Propose obey Jonathan as they obeyed him for obey him as they obeyed himself. Naming the commanded recipient clarifies the comparison while removing an unnatural English reflexive. Retain honour, introduction to Friends and gifts.
+
+[Focused evidence](../../reviews/2026-11-13-OT-190-1-maccabees-12/focused-reviews.json) · anchor `v12-43`
+
+## 1 Maccabees 13:50
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They cried to Simon to receive a pledge of peace, and he gave it to them. He expelled them from there and cleansed the citadel from its defilements.
+
+**Proposed**
+
+> They cried to Simon for his right hand in pledge, and he gave it to them. He expelled them from there and cleansed the citadel from its defilements.
+
+**Reason and limits**
+
+Propose They cried to Simon for his right hand in pledge for the ambiguous to receive a pledge of peace. This clarifies the petitioners’ receipt and retains the source’s bodily treaty idiom. Keep expulsion and cleansing afterward.
+
+[Focused evidence](../../reviews/2026-11-13-OT-191-1-maccabees-13/focused-reviews.json) · anchor `v13-50`
+
+## 1 Maccabees 14:7
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He gathered many who had been captive and gained control of Gazara, Beth-zur, and the citadel. He removed its uncleannesses, and there was no one to oppose him.
+
+**Proposed**
+
+> He gathered many captives and gained control of Gazara, Beth-zur, and the citadel. He removed its uncleannesses, and there was no one to oppose him.
+
+**Reason and limits**
+
+Propose many captives for many who had been captive, preserving the captivity noun without suggesting an explicitly completed release. Keep the three conquered sites, removal of uncleannesses and absence of opposition in four display lines.
+
+[Focused evidence](../../reviews/2026-11-13-OT-192-1-maccabees-14/focused-reviews.json) · anchor `v14-7`
+
+## 1 Maccabees 16:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They arose in the morning and went into the plain. A large force of infantry and cavalry came to meet them, with a stream between them.
+
+**Proposed**
+
+> They arose in the morning and went into the plain. Behold! A large force of infantry and cavalry came to meet them, with a stream between them.
+
+**Reason and limits**
+
+Propose restoring Behold before the large opposing force. Keep morning, plain, infantry/cavalry and the intervening stream; no river name is supplied.
+
+[Focused evidence](../../reviews/2026-11-13-OT-194-1-maccabees-16/focused-reviews.json) · anchor `v16-5`
 
 ## Jonah 3:9
 
