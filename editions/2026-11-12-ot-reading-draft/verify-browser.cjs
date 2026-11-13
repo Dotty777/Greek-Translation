@@ -166,6 +166,39 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'C:/Users/penna/.cache
   await page.screenshot({path:path.join(__dirname,'reader-mobile-joshua-24-33b.png')});
   assert.equal(await page.locator('[data-book="joshua"] [data-reading-key]').count(),659);
   checks.push('All 659 Joshua stored units remain rendered with stable identities');
+  await page.goto(url+'#judges-section-5');
+  const deborah=page.locator('#judges-section-5-v5-4');
+  assert.equal((await deborah.locator('.reading-text').innerText()).split('\n').length,5);
+  await deborah.locator('summary').click();
+  assert((await deborah.innerText()).includes('Poetic line breaks proposed by AI'));
+  assert((await deborah.locator('.reading-text').innerText()).includes('Thou didst'));
+  await deborah.scrollIntoViewIfNeeded();
+  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+  checks.push('Judges 5:4 preserves five poetic lines and divine address with explicit AI lineation status');
+  await deborah.screenshot({path:path.join(__dirname,'reader-mobile-judges-5-4.png')});
+  for (const [section,anchor,required] of [[11,'v11-31',['whoever','and I will offer','whole burnt offering','No or, alternative dedication']], [21,'v21-22',['you committed an offence','not negated','Pronoun shifts']]]) {
+    await page.goto(url+`#judges-section-${section}`);
+    const unit=page.locator(`#judges-section-${section}-${anchor}`);
+    await unit.locator('summary').click();
+    for (const phrase of required) assert((await unit.innerText()).includes(phrase),phrase);
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`Judges ${anchor.slice(1).replace('-',':')} selected difficult reading and interpretation limits remain accessible`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-judges-${anchor.slice(1)}.png`)});
+  }
+  for (const [section,anchor,candidate,baseline] of [[12,'v12-5','And they said, “We are not.”','And if they said'],[19,'v19-28','but she had died','for she had died']]) {
+    await page.goto(url+`#judges-section-${section}`);
+    const unit=page.locator(`#judges-section-${section}-${anchor}`);
+    await unit.locator('summary').click();
+    assert((await unit.locator('.reading-text').innerText()).includes(candidate));
+    assert((await unit.locator('.baseline').innerText()).includes(baseline));
+    await unit.scrollIntoViewIfNeeded();
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+    checks.push(`Judges ${anchor.slice(1).replace('-',':')} proposal is distinguished from its inherited text`);
+    await unit.screenshot({path:path.join(__dirname,`reader-mobile-judges-${anchor.slice(1)}.png`)});
+  }
+  assert.equal(await page.locator('[data-book="judges"] [data-reading-key]').count(),618);
+  checks.push('All 618 Judges stored units remain rendered with stable identities');
   await page.locator('#book-picker').focus();
   assert.equal(await page.evaluate(()=>document.activeElement.id),'book-picker');checks.push('Book control is keyboard focusable');
   assert.deepEqual(errors,[]);checks.push('No JavaScript page errors');

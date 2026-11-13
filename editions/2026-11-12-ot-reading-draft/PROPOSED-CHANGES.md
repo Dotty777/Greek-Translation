@@ -1,6 +1,6 @@
 # Old Testament wording proposals
 
-**99 proposals · 12 November 2026 · editorial acceptance pending**
+**121 proposals · 12 November 2026 · editorial acceptance pending**
 
 These are evidence-linked AI proposals in the dated reading draft. The original book files and the accepted Genesis 1–11 historical benchmark remain unchanged. No website text has been replaced.
 
@@ -1731,6 +1731,402 @@ The altar's testimony between groups and succeeding generations concerns service
 The rejection of departure, present days, repeated Lord references and separate offerings, salamin sacrifices and soteriou sacrifice remain. Change only well-being to deliverance in the last category.
 
 [Focused evidence](../../reviews/2026-11-13-OT-061-joshua-21-22/focused-reviews.json) · anchor `v22-29`
+
+## Judges 3:24
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> and he went out. The king’s attendants entered, saw that the upper-room doors were closed, and said, “Perhaps he is sitting on the privy in the bedroom’s retreat?”
+
+**Proposed**
+
+> and he went out. The king’s attendants entered and looked, and behold, the upper-room doors were closed. They said, “Perhaps he is sitting on the privy in the bedroom’s retreat?”
+
+**Reason and limits**
+
+The repeated exit remains. Restore the explicit idou discovery with and behold after the attendants enter and look; the selected possible privy use in the bedroom retreat remains as their question.
+
+[Focused evidence](../../reviews/2026-11-13-OT-063-judges-1-3/focused-reviews.json) · anchor `v3-24`
+
+## Judges 3:25
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They waited in embarrassment, but no one opened the upper-room doors. They took the key and opened them, and there was their lord, fallen dead on the ground.
+
+**Proposed**
+
+> They waited in embarrassment, and behold, no one opened the upper-room doors. They took the key and opened them, and there was their lord, fallen dead on the ground.
+
+**Reason and limits**
+
+Restore the first idou with and behold before no one opens, replacing simple but. The final there was their lord remains a natural presentative for the second idou; the fallen-dead posture and key opening are unchanged.
+
+[Focused evidence](../../reviews/2026-11-13-OT-063-judges-1-3/focused-reviews.json) · anchor `v3-25`
+
+## Judges 4:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And behold, Barak was pursuing Sisera. Jael went out to meet him and said, “Come, and I will show you the man you seek.” He entered with her, and there lay Sisera, dead, with the peg in his jaw.
+
+**Proposed**
+
+> And behold, Barak was pursuing Sisera. Jael went out to meet him and said, “Come, and I will show you the man you seek.” He went in to her, and there lay Sisera, dead, with the peg in his jaw.
+
+**Reason and limits**
+
+Keep initial Behold and the final there lay as the second discovery marker. Replace entered with her with went in to her for eisēlthen pros autēn; the selected preposition does not explicitly state accompaniment. The jaw and peg remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-064-judges-4-5/focused-reviews.json) · anchor `v4-22`
+
+## Judges 6:31
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Joash said to the men who stood against him, “Do you now plead for Baal? Do you save him? Whoever disputed with him shall die by morning. If he is a god, he himself shall avenge him, for one has demolished his altar.”
+
+**Proposed**
+
+> Joash said to the men who stood against him, “Do you now plead for Baal? Or do you save him? Whoever disputed with him shall die by morning. If he is a god, he himself shall avenge him, for one has demolished his altar.”
+
+**Reason and limits**
+
+Restore Or before the second question for explicit ē. Retain now, the death-by-morning statement, conditional god claim and the difficult he/him/one references without resolving them into a familiar defense speech.
+
+[Focused evidence](../../reviews/2026-11-13-OT-065-judges-6-7/focused-reviews.json) · anchor `v6-31`
+
+## Judges 7:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Gideon entered, and look, a man was explaining his dream to his neighbour. He said, “Look at the dream I dreamed: a cake of barley bread was rolling through Midian’s camp. It came to Midian’s tent, struck it, and overturned it, and the tent fell.”
+
+**Proposed**
+
+> Gideon entered, and look, a man was explaining his dream to his neighbour. He said, “Look at the dream I dreamed: behold, a cake of barley bread was rolling through Midian’s camp. It came to Midian’s tent, struck it, and overturned it, and the tent fell.”
+
+**Reason and limits**
+
+Three idou markers frame entry, the dream introduction and the rolling barley cake. Restore the third as behold before the cake, while the first two remain look. The tent is struck, overturned and falls.
+
+[Focused evidence](../../reviews/2026-11-13-OT-065-judges-6-7/focused-reviews.json) · anchor `v7-13`
+
+## Judges 7:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Gideon and the hundred men with him entered a section of the camp as the middle watch began. He thoroughly roused the guards, and they sounded the horn trumpets and dashed the jars in their hands.
+
+**Proposed**
+
+> Gideon and the hundred men with him entered a section of the camp as the middle watch began. But he thoroughly roused the guards, and they sounded the horn trumpets and dashed the jars in their hands.
+
+**Reason and limits**
+
+Gideon and one hundred enter at the middle watch; restore But for plēn before the emphatic singular he roused the guards. Horns and jar-dashing remain subsequent plural actions.
+
+[Focused evidence](../../reviews/2026-11-13-OT-065-judges-6-7/focused-reviews.json) · anchor `v7-19`
+
+## Judges 8:19
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And Gideon said, “They were my brothers, the sons of my mother.” And he swore to them, “As the Lord lives, if you had kept them alive, I would not kill you.”
+
+**Proposed**
+
+> And Gideon said, “They are my brothers, the sons of my mother.” And he swore to them, “As the Lord lives, if you had kept them alive, I would not kill you.”
+
+**Reason and limits**
+
+Change They were my brothers to They are my brothers for explicit present eisin, retaining the ongoing kinship assertion. Sons of my mother, the Lord-lives oath and the unreal survival condition remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-066-judges-8/focused-reviews.json) · anchor `v8-19`
+
+## Judges 9:43
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He took the people, divided them into three companies, and lay in ambush there. He saw the people coming out of the city, rose against them, and struck them.
+
+**Proposed**
+
+> He took the people, divided them into three companies, and lay in ambush there. He looked, and behold, the people came out of the city. He rose against them and struck them.
+
+**Reason and limits**
+
+The three-company division and ambush remain. Restore the explicit discovery marker with He looked, and behold, the people came out of the city, then separate his rising and striking into the next sentence.
+
+[Focused evidence](../../reviews/2026-11-13-OT-067-judges-9/focused-reviews.json) · anchor `v9-43`
+
+## Judges 9:54
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And he called quickly to the young man who bore his armour, and said to him, “Draw your sword and kill me, lest they say, ‘A woman killed him.’” And his young man pierced him, and he died.
+
+**Proposed**
+
+> And he called quickly to the young man who bore his armour, and said to him, “Draw your sword and kill me, lest they say, ‘A woman killed him.’” And his young man pierced him, and Abimelech died.
+
+**Reason and limits**
+
+The urgent armour-bearer request preserves the feared report that a woman killed him. Restore the explicit final Abimelech died instead of he died, making clear that the death subject is not the preceding young man.
+
+[Focused evidence](../../reviews/2026-11-13-OT-067-judges-9/focused-reviews.json) · anchor `v9-54`
+
+## Judges 10:15
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The sons of Israel said to the Lord, “We have sinned. Do to us whatever is pleasing before Thee; only deliver us this day, O Lord.”
+
+**Proposed**
+
+> The sons of Israel said to the Lord, “We have sinned. Do Thou to us whatever is pleasing before Thee; but deliver us this day, O Lord.”
+
+**Reason and limits**
+
+Propose Do Thou to represent the emphatic divine-address subject su, and but for plen, preserving the plea after unconditional submission rather than suggesting an exclusive demand.
+
+[Focused evidence](../../reviews/2026-11-13-OT-068-judges-10-11/focused-reviews.json) · anchor `v10-15`
+
+## Judges 11:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Gilead’s elders said to Jephthah, “May the Lord be the One who hears between us; surely we will do according to your word.”
+
+**Proposed**
+
+> Gilead’s elders said to Jephthah, “The Lord shall be the One who hears between us; surely we will do according to your word.”
+
+**Reason and limits**
+
+Propose The Lord shall be for the future estai instead of May the Lord be; the elders invoke the Lord as the One hearing between them and give an oath-like assurance.
+
+[Focused evidence](../../reviews/2026-11-13-OT-068-judges-10-11/focused-reviews.json) · anchor `v11-10`
+
+## Judges 12:5
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And the men of Gilead seized beforehand the crossings of the Jordan belonging to Ephraim. And when the escaped ones of Ephraim said, “Let us cross,” the men of Gilead asked them, “Are you of Ephraim?” And if they said, “We are not,”
+
+**Proposed**
+
+> And the men of Gilead seized beforehand the crossings of the Jordan belonging to Ephraim. And when the escaped ones of Ephraim said, “Let us cross,” the men of Gilead asked them, “Are you of Ephraim?” And they said, “We are not.”
+
+**Reason and limits**
+
+Propose And they said instead of And if they said: the selected text narrates a plural answer, without an explicit conditional. End the response here with a full stop.
+
+[Focused evidence](../../reviews/2026-11-13-OT-069-judges-12-13/focused-reviews.json) · anchor `v12-5`
+
+## Judges 12:6
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> they said to them, “Please say ‘Password.’” They could not manage to speak in that way. They seized them and slaughtered them at the Jordan’s crossings. Forty-two thousand of Ephraim fell at that time.
+
+**Proposed**
+
+> They said to them, “Please say ‘Password.’” They could not manage to speak in that way. They seized them and slaughtered them at the Jordan’s crossings. Forty-two thousand of Ephraim fell at that time.
+
+**Reason and limits**
+
+Capitalize They after the preceding unit's restored sentence boundary; retain Password for synthema, failure to speak that way, slaughter and forty-two thousand.
+
+[Focused evidence](../../reviews/2026-11-13-OT-069-judges-12-13/focused-reviews.json) · anchor `v12-6`
+
+## Judges 15:13
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> And they swore to him, saying, “No; we will only bind you and deliver you into their hands, and we will surely not kill you.” And they bound him with two new cords and brought him up from the rock.
+
+**Proposed**
+
+> And they swore to him, saying, “No; we will indeed bind you and deliver you into their hands, but we will surely not kill you.” And they bound him with two new cords and brought him up from the rock.
+
+**Reason and limits**
+
+Propose indeed bind for only bind, and but before the emphatic refusal to kill: the selected alla and de oppose binding/handing over to killing, without an exclusive only token.
+
+[Focused evidence](../../reviews/2026-11-13-OT-070-judges-14-15/focused-reviews.json) · anchor `v15-13`
+
+## Judges 16:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Delilah said to him, “The foreigners are upon you, Samson!” He awoke from his sleep and said, “I will go out as at other times and shake myself free.” But he did not know that the Lord had departed from him.
+
+**Proposed**
+
+> Delilah said to him, “The foreigners are upon you, Samson!” He awoke from his sleep and said, “I will go out and act as I always do, and shake myself free.” But he did not know that the Lord had departed from him.
+
+**Reason and limits**
+
+Propose go out and act as I always do to represent both exeleusomai and poieso, with aei retained as always; the shake-free intention and ignorance of the Lord's departure remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-071-judges-16-17/focused-reviews.json) · anchor `v16-20`
+
+## Judges 18:10
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> When you enter, you shall come to a people dwelling in confidence, and the land is spacious. God has delivered it into your hands, a place lacking nothing that is upon the earth.”
+
+**Proposed**
+
+> When you enter, you shall come to a people dwelling in confidence, and the land is spacious. For God has delivered it into your hands, a place lacking nothing that is upon the earth.”
+
+**Reason and limits**
+
+Propose For God has delivered to preserve hoti's explanatory link; the confident people, spacious land and absence of lack remain claims in the scouts' speech.
+
+[Focused evidence](../../reviews/2026-11-13-OT-072-judges-18/focused-reviews.json) · anchor `v18-10`
+
+## Judges 18:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> They had gone far from Micah’s house when Micah and the men with his household cried out behind the sons of Dan.
+
+**Proposed**
+
+> They had gone far from Micah’s house, and behold, Micah and the men with his household cried out behind the sons of Dan.
+
+**Reason and limits**
+
+Propose and behold before Micah and his household associates cry after the Danites, restoring the selected idou at the pursuit scene.
+
+[Focused evidence](../../reviews/2026-11-13-OT-072-judges-18/focused-reviews.json) · anchor `v18-22`
+
+## Judges 19:20
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The old man said, “Peace be to you. Let all your need fall on me; only do not lodge in the square.”
+
+**Proposed**
+
+> The old man said, “Peace be to you. Still, let all your need fall on me; but do not lodge in the square.”
+
+**Reason and limits**
+
+Propose Still and but for the two plen transitions: the host assumes every need despite the traveler's supplies and forbids sleeping in the square.
+
+[Focused evidence](../../reviews/2026-11-13-OT-073-judges-19/focused-reviews.json) · anchor `v19-20`
+
+## Judges 19:22
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> While their hearts were glad, the men of the city, sons of lawless men, surrounded the house and struck the door. They said to the old man, the master of the house, “Bring out the man who entered your house, that we may know him.”
+
+**Proposed**
+
+> While their hearts were glad, behold, the men of the city, sons of lawless men, surrounded the house and struck the door. They said to the old man, the master of the house, “Bring out the man who entered your house, that we may know him.”
+
+**Reason and limits**
+
+Propose behold to retain idou at the arrival of the lawless men's sons; surrounding, pounding the door and the demand to know the guest remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-073-judges-19/focused-reviews.json) · anchor `v19-22`
+
+## Judges 19:28
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> He said to her, “Get up, and let us go.” She did not answer him, for she had died. He lifted her onto the pack animal, and the man arose and went to his place.
+
+**Proposed**
+
+> He said to her, “Get up, and let us go.” She did not answer him, but she had died. He lifted her onto the pack animal, and the man arose and went to his place.
+
+**Reason and limits**
+
+Propose but she had died to preserve alla's contrast with the absent response; the selected text explicitly states death before lifting her onto the animal.
+
+[Focused evidence](../../reviews/2026-11-13-OT-073-judges-19/focused-reviews.json) · anchor `v19-28`
+
+## Judges 20:39
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> The men of Israel turned in the battle, and Benjamin began to strike down men of Israel, killing about thirty, saying, “Surely they are being routed before us as in the earlier battle.”
+
+**Proposed**
+
+> The men of Israel turned in the battle, and Benjamin began to strike down about thirty men of Israel, saying, “Surely they are being routed before us as in the earlier battle.”
+
+**Reason and limits**
+
+Propose strike down about thirty men of Israel instead of the added killing clause: typtein traumatias is represented as a combined casualty-producing predicate without separately declaring every casualty dead.
+
+[Focused evidence](../../reviews/2026-11-13-OT-074-judges-20/focused-reviews.json) · anchor `v20-39`
+
+## Judges 21:21
+
+**Status:** Proposed revision; acceptance pending.
+
+**Inherited**
+
+> Watch, and when the daughters of the inhabitants of Shiloh come out in Shiloh to dance in the dances, come out of the vineyards and seize, each man for himself, a wife from the daughters of Shiloh. Then go to the land of Benjamin.
+
+**Proposed**
+
+> Watch, and behold, when the daughters of the inhabitants of Shiloh come out in Shiloh to dance in the dances, come out of the vineyards and seize, each man for himself, a wife from the daughters of Shiloh. Then go to the land of Benjamin.
+
+**Reason and limits**
+
+Propose behold after Watch to retain idou before the women's emergence; the repeated Shiloh, dances, each man's seizure and return to Benjamin remain.
+
+[Focused evidence](../../reviews/2026-11-13-OT-075-judges-21/focused-reviews.json) · anchor `v21-21`
 
 ## Jonah 3:9
 
