@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "counts": {
+    "units": 368,
+    "chapters": 13,
+    "proposed_revisions": 8,
+    "retained_provisionally": 360,
+    "token_aligned": 0,
+    "editorially_accepted": 0
+  },
+  "retained_poetic_units": [
+    "Exodus 15:1",
+    "Exodus 15:2",
+    "Exodus 15:3",
+    "Exodus 15:4",
+    "Exodus 15:5",
+    "Exodus 15:6",
+    "Exodus 15:7",
+    "Exodus 15:8",
+    "Exodus 15:9",
+    "Exodus 15:10",
+    "Exodus 15:11",
+    "Exodus 15:12",
+    "Exodus 15:13",
+    "Exodus 15:14",
+    "Exodus 15:15",
+    "Exodus 15:16",
+    "Exodus 15:17",
+    "Exodus 15:21"
+  ],
+  "checks": [
+    "Exact original Exodus JSON matches frozen baseline after line-ending normalization",
+    "All 368 units in source order with original references and anchors",
+    "Thirteen chapter counts verified, including LXX 7:1–29 and 8:1–28",
+    "Every unit has unique manually authored passage-specific analysis",
+    "Candidate hashes match literary drafts",
+    "All eight changed candidates are prose and have candidate_display_text",
+    "Every recorded poetic unit is retained unchanged; no poetry line breaks were edited",
+    "No independent human, apparatus, acceptance or publication status credited"
+  ],
+  "limits": "Structural validation is not Greek-language certification; original poetry display must continue to be recovered from the unchanged source HTML by the reading-draft builder."
+}

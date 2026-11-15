@@ -1,0 +1,1733 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "OT-002",
+  "scope": "Genesis 2–3; all 49 inherited anchored units",
+  "status": "focused_comparison_draft_not_accepted",
+  "date": "2026-11-12",
+  "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+  "benchmark_preserved": true,
+  "counts": {
+    "compared_units": 49,
+    "proposed_revisions": 5,
+    "retained_units": 44,
+    "accepted_units": 0
+  },
+  "limitations": "AI running-text comparison only. No full token alignment, specialist lexicon consultation, critical apparatus, Göttingen collation, independent human Greek review, human reading aloud, editorial acceptance or website deployment is claimed. Original Genesis benchmark files remain unchanged.",
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-1",
+      "book_id": "genesis",
+      "reference": "Genesis 2:1",
+      "verse_anchor": "v2-1",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Thus heaven and earth were finished, and all their ordered array.",
+      "candidate_text": "Thus heaven and earth were finished, and all their ordered array.",
+      "candidate_sha256": "703e6539efc2c2044c9fb974c4af8c00ee117dfcad33f6400afd9d675143419e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The passive completion clause includes heaven, earth and their whole ordered array. 'Thus' realizes the opening connective as a narrative conclusion, while 'ordered array' represents the arrangement/content sense of kosmos without importing a modern astronomical definition. No change is proposed; this observation does not settle every possible sense of kosmos.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-2",
+      "book_id": "genesis",
+      "reference": "Genesis 2:2",
+      "verse_anchor": "v2-2",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And on the sixth day God completed the works He had made, and on the seventh day He rested from all the works He had made.",
+      "candidate_text": "And on the sixth day God completed the works He had made, and on the seventh day He rested from all the works He had made.",
+      "candidate_sha256": "6e86cc8df948dc3822215587a80eff250f6886febdc0dcb6bfa9b84a0c0d31c7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The displayed Greek says sixth day for completion and seventh day for cessation. Both distinct days and the repeated works clauses are retained. 'Rested from' represents cessation from the works; it should not be expanded into an assertion of divine fatigue. No Hebrew-based seventh-day substitution is proposed, and no variant apparatus was consulted.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-3",
+      "book_id": "genesis",
+      "reference": "Genesis 2:3",
+      "verse_anchor": "v2-3",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God blessed the seventh day and hallowed it, because on it He rested from all the works that God had begun to make.",
+      "candidate_text": "And God blessed the seventh day and hallowed it, because on it He rested from all the works that God had begun to make.",
+      "candidate_sha256": "344b3b072ef65736f888c99704dfd75b19767c533d7f2fd50e89aa7d9b435330",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Blessing and hallowing are separate actions; the causal clause explains the sanctification of the seventh day. The unusual 'had begun to make' follows the displayed Greek beginning verb rather than harmonizing the clause to a more familiar English Bible. The temporal relation is represented naturally with English past perfect. Fuller lexical and aspect review remains open.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-4",
+      "book_id": "genesis",
+      "reference": "Genesis 2:4",
+      "verse_anchor": "v2-4",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "This is the book of the origin of heaven and earth, when they came to be, on the day when God made heaven and earth,",
+      "candidate_text": "This is the book of the origin of heaven and earth, when they came to be, on the day when God made heaven and earth,",
+      "candidate_sha256": "65cf2118a6f33b5e5ce5737860144323f4e023bc63004351ac364c18481dca49",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The book/origin formula and its temporal introduction are present. This unit ends with a comma because the objects of 'made' continue into 2:5; it should not be treated as a self-contained sentence. The source names God here without Lord, and the inherited wording preserves that distinction. The singular Greek coming-to-be expression is rendered naturally with its coordinated English antecedents.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-5",
+      "book_id": "genesis",
+      "reference": "Genesis 2:5",
+      "verse_anchor": "v2-5",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "and every green plant of the field before it appeared upon the earth, and every plant of the field before it sprang up. For God had not sent rain upon the earth, and there was no man to till the ground.",
+      "candidate_text": "and every green plant of the field before it appeared upon the earth, and every plant of the field before it sprang up. For God had not sent rain upon the earth, and there was no man to till the ground.",
+      "candidate_sha256": "6c0395e2a0a5b3dab76c8b39eb4b02a24938703268addeea3e1b6fa3bfd22c4b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The plants belong syntactically with the preceding making clause; the two 'before' expressions and the reasons concerning rain and a human cultivator are retained. 'Every green plant' and 'every plant' leave the two expressions recognizably distinct without inventing a botanical taxonomy. The punctuation is an English readability decision. Detailed construction alignment remains pending.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-6",
+      "book_id": "genesis",
+      "reference": "Genesis 2:6",
+      "verse_anchor": "v2-6",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "But a spring rose from the earth and watered the whole face of the ground.",
+      "candidate_text": "But a spring rose from the earth and watered the whole face of the ground.",
+      "candidate_sha256": "b9bc13e472c3eda4835ea1f3af66011ebccf449dc9dc8ba236612e3be1ccebb1",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source presents a spring rising from the earth and watering its entire face. The inherited rendering preserves spring rather than substituting the familiar mist reading, and 'whole face' keeps the source's image. The imperfect verbs describe the scene; simple English past is acceptable here, with 'was rising/was watering' a possible aspect-explicit alternative that is not required to establish continuous action.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-7",
+      "book_id": "genesis",
+      "reference": "Genesis 2:7",
+      "verse_anchor": "v2-7",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God formed man from the dust of the earth, and breathed into his face the breath of life; and man became a living soul.",
+      "candidate_text": "And God formed man from the dust of the earth, and breathed into his face the breath of life; and man became a living soul.",
+      "candidate_sha256": "c03bfd257a88eff75ebcf2e10d5d890c2fcb528cdedcaaab35173ef1ae583fa3",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The sequence is formation from earth's dust, breathing life's breath into the face, and becoming a living soul. The source says face rather than nostrils, and the English preserves that reading. 'Living soul' follows the established register; 'living being' is a translation alternative, not evidence for a separate substance being added. The construction does not by itself settle a philosophical account of human composition.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-8",
+      "book_id": "genesis",
+      "reference": "Genesis 2:8",
+      "verse_anchor": "v2-8",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God planted a garden in Eden, toward the east, and there He placed the man whom He had formed.",
+      "candidate_text": "And the Lord God planted a garden in Eden, toward the east, and there He placed the man whom He had formed.",
+      "candidate_sha256": "80128a76f1a7340c77a947654df378c99ea307c07875a1615eeb8e75a53ff6b9",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Lord God is explicit, with planting, an eastern location in Eden, and placement of the formed human. 'Toward the east' follows the spatial reading of the directional expression. Garden is the established rendering of paradeisos and is retained rather than introducing a claim about a later afterlife sense. Eden spelling follows the inherited name authority pending a complete names register.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-9",
+      "book_id": "genesis",
+      "reference": "Genesis 2:9",
+      "verse_anchor": "v2-9",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God caused every tree that was beautiful to behold and good for food to spring up from the earth, with the tree of life in the midst of the garden, and the tree of the knowledge of good and evil.",
+      "candidate_text": "And God also caused every tree that was beautiful to behold and good for food to spring up from the earth, with the tree of life in the midst of the garden, and the tree of the knowledge of good and evil.",
+      "candidate_sha256": "f5753c25d8d3e0d216666c35349d88cb17fe317c37476e53b7750ddb08f94b78",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The inherited wording accounts for the trees' visual beauty, food, life and knowledge, but leaves the source's eti unexpressed. Propose 'also caused' to preserve its additive force, consistent with 'also formed' in 2:19. The knowledge-tree construction is compressed into intelligible English without claiming its syntax has no difficulty. 'Knowledge' remains preferable here to adding moral autonomy or an explanation of the tree's power.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": true,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-10",
+      "book_id": "genesis",
+      "reference": "Genesis 2:10",
+      "verse_anchor": "v2-10",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And a river flows out of Eden to water the garden, and from there it divides into four branches.",
+      "candidate_text": "And a river flows out of Eden to water the garden, and from there it divides into four branches.",
+      "candidate_sha256": "44b79d75873925af0ac7fbc2f91854b10b790b05157268a1dba0e7b616541fcf",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source shifts to present-tense geographical description, which the English preserves in 'flows' and 'divides'. Four branches is a contextual river rendering of the four beginnings/heads expression; it is not a claim that the Greek uses the ordinary noun for a tree branch. The purpose of watering the garden remains explicit. No modern river identification is added.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-11",
+      "book_id": "genesis",
+      "reference": "Genesis 2:11",
+      "verse_anchor": "v2-11",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The name of the first is Pishon; it flows around the whole land of Havilah, where there is gold.",
+      "candidate_text": "The name of the first is Pishon; it flows around the whole land of Havilah, where there is gold.",
+      "candidate_sha256": "85c84800a314f05336c314b9eec0e0b3d2d6ada98c7c15c5017a1a0c6b2e3766",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Pishon, Havilah, the whole surrounding land, and the gold location are preserved under inherited English naming conventions. 'First' renders the first member of the four-river enumeration, whose Greek is literally 'one'. The name forms are not silently standardized to transliteration. Identifying a particular modern river or territory would require evidence beyond this running-text comparison.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-12",
+      "book_id": "genesis",
+      "reference": "Genesis 2:12",
+      "verse_anchor": "v2-12",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the gold of that land is good; there also are the carbuncle and the green stone.",
+      "candidate_text": "And the gold of that land is good; there also are the carbuncle and the green stone.",
+      "candidate_sha256": "600332d83c7b88f5fdb222edc7b9152414286aef70eb3b54d75985780cd85c0d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The goodness of the gold and two stone expressions are retained. 'Carbuncle' is a traditional rendering of anthrax in a gemstone context, not a verified modern mineral identification; 'green stone' deliberately remains broad. Modern readers may mistake carbuncle for a skin condition, so a terminology note or a later reviewed replacement is needed. No specialist mineralogical or lexicon source was consulted here.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-13",
+      "book_id": "genesis",
+      "reference": "Genesis 2:13",
+      "verse_anchor": "v2-13",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The name of the second river is Gihon; it flows around the whole land of Ethiopia.",
+      "candidate_text": "The name of the second river is Gihon; it flows around the whole land of Ethiopia.",
+      "candidate_sha256": "61d92e7f37b8a096a6f9d8349c3a289f4a6b898cf07905a7c1a3879051f0777d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The second river, Gihon, encircles the whole land named Ethiopia in the Greek. The established geographical name is retained rather than automatically changing it to Cush or assigning modern national borders. The verse's coordination with the preceding river description is clear through the continued enumeration even without an extra initial 'And'. Exact historical geography remains outside this comparison.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-14",
+      "book_id": "genesis",
+      "reference": "Genesis 2:14",
+      "verse_anchor": "v2-14",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The third river is the Tigris; it flows opposite Assyria. And the fourth river is the Euphrates.",
+      "candidate_text": "The third river is the Tigris; it flows opposite Assyria. And the fourth river is the Euphrates.",
+      "candidate_sha256": "88713cafcf689764ef5362a36b74b62cd59c9fade2bb51abb6c66d84c43ab071",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The third/fourth ordering, Tigris, Euphrates and the directional relationship to the Assyrians are represented. 'Opposite Assyria' is a contextual geographical rendering; 'east of' would be more specific than the wording alone establishes. The Greek uses the people designation, so the territorial English form is an interpretive simplification to retain for specialist geographical review.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-15",
+      "book_id": "genesis",
+      "reference": "Genesis 2:15",
+      "verse_anchor": "v2-15",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God took the man whom He had formed and placed him in the garden, to tend it and keep it.",
+      "candidate_text": "And the Lord God took the man whom He had formed and placed him in the garden, to tend it and keep it.",
+      "candidate_sha256": "ba4ff3f5615af5c5d455a9add52cb986652909b53ee82df4acbc6df0f8de28f5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord God's taking and placing actions and the two purposes of working and guarding the garden are preserved. 'Tend' is a contextual rendering of working/cultivating; 'keep' carries the guarding sense but may benefit from explanation to present-day readers. The relative clause 'whom He had formed' is present in the displayed Greek and correctly remains in the English.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-16",
+      "book_id": "genesis",
+      "reference": "Genesis 2:16",
+      "verse_anchor": "v2-16",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God commanded Adam, saying, “You may freely eat from every tree in the garden;",
+      "candidate_text": "And the Lord God commanded Adam, saying, “You may freely eat from every tree in the garden;",
+      "candidate_sha256": "415b42e55444e9e0fe750c437d25bfd0fa20c9a21814022dce7012a39e538539",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The command explicitly names Adam. The eating noun-plus-verb construction is represented by the permissive emphasis 'may freely eat'; it does not introduce freedom from every later restriction. The addressee is singular in this verse. Ordinary 'you' follows the standard because God is speaking to a human, while the following verse's plural must be recorded rather than silently normalized.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-17",
+      "book_id": "genesis",
+      "reference": "Genesis 2:17",
+      "verse_anchor": "v2-17",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "but from the tree of the knowledge of good and evil you shall not eat. For on the day you eat from it, you shall surely die.”",
+      "candidate_text": "but from the tree of the knowledge of good and evil you shall not eat. For on the day you eat from it, you shall surely die.”",
+      "candidate_sha256": "ac10f3f9749551bda4e3e27bce5705661ef2b1d0a1c5eef4ab0f509fca90f3b3",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The prohibition and emphatic death warning are retained. Unlike 2:16, the displayed prohibition, eating condition and death verb address a plural 'you'; English you is number-neutral, so no singular Thou is introduced. This number shift needs a reader/review note. 'Surely die' realizes the death noun-plus-verb emphasis. The temporal clause does not by itself resolve the narrative or theological manner of dying.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-18",
+      "book_id": "genesis",
+      "reference": "Genesis 2:18",
+      "verse_anchor": "v2-18",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God said, “It is not good for the man to be alone. Let Us make him a helper corresponding to him.”",
+      "candidate_text": "And the Lord God said, “It is not good for the man to be alone. Let Us make him a helper corresponding to him.”",
+      "candidate_sha256": "822cf9a8baeb0651e69474757995f0621e3916dcbbcc92a25de52d758905d2ff",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The not-good judgment, the human's solitude and the plural 'Let Us make' all remain explicit. 'Corresponding to him' renders the relational expression without adding a theory of rank or reducing the helper to an occupation. Devotional capital Us is inherited editorial styling; the Greek first-person plural does not by itself identify its participants or authorize a doctrinal gloss.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-19",
+      "book_id": "genesis",
+      "reference": "Genesis 2:19",
+      "verse_anchor": "v2-19",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God also formed from the earth every wild beast of the field and every bird of heaven, and brought them to Adam to see what he would call them. And whatever Adam called each living creature, that was its name.",
+      "candidate_text": "And God also formed from the earth every wild beast of the field and every bird of heaven, and brought them to Adam to see what he would call them. And whatever Adam called each living creature, that was its name.",
+      "candidate_sha256": "145cd10583e1032b88ab37ef7aeb08dd21e5b78482812e241cd919bd2e4b7d4f",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The additional forming action is marked by 'also'; the earth, all field animals, all heavenly birds, bringing to Adam, naming purpose and naming result remain represented. Simple narrative past follows the Greek sequence without imposing a harmonizing 'had previously formed'. 'Each living creature' unpacks the naming construction naturally. The narrative chronology and its relation to chapter one remain interpretation questions.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-20",
+      "book_id": "genesis",
+      "reference": "Genesis 2:20",
+      "verse_anchor": "v2-20",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Adam gave names to all the cattle, all the birds of heaven, and all the wild beasts of the field. But for Adam no helper like himself was found.",
+      "candidate_text": "And Adam gave names to all the cattle, all the birds of heaven, and all the wild beasts of the field. But for Adam no helper like himself was found.",
+      "candidate_sha256": "c0204d9a2c574190845472e50b6186b91350531be61facaa9e5f4ba812dfc77e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "All three animal groups and the passive statement that no like helper was found for Adam are preserved. 'Gave names' is natural English for the naming idiom. 'Like himself' reflects the likeness expression here and should not be mechanically conformed to the different wording of 2:18. No statement is added about which agent conducted the unsuccessful search.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-21",
+      "book_id": "genesis",
+      "reference": "Genesis 2:21",
+      "verse_anchor": "v2-21",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God cast a deep sleep upon Adam, and he slept. And He took one of his ribs and filled its place with flesh.",
+      "candidate_text": "And God cast a deep sleep upon Adam, and he slept. And He took one of his ribs and filled its place with flesh.",
+      "candidate_sha256": "a76cf8ed725216d027c1db3c184a3021a84a21b052b73d60d5dc83206f02b2ad",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The divine action brings an altered state and sleep, followed by taking one of Adam's ribs/sides and replacing it with flesh. 'Deep sleep' is a contextual English choice for ekstasis, not an assertion that its every occurrence means sleep. Rib is plausible for the anatomical scene; side is a legitimate alternative requiring specialist review. The inherited subject of 'he slept' correctly remains Adam.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-22",
+      "book_id": "genesis",
+      "reference": "Genesis 2:22",
+      "verse_anchor": "v2-22",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God fashioned the rib He had taken from Adam into a woman, and brought her to Adam.",
+      "candidate_text": "And the Lord God built the rib He had taken from Adam into a woman, and brought her to Adam.",
+      "candidate_sha256": "2e892127a2cafc9a2fe84533cf023615067d881eb3e22849961a26fc4b0ebde3",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source uses a building verb for the transformation of the taken rib into a woman. Propose 'built' in place of 'fashioned' to retain that concrete image and distinguish it from the earlier forming vocabulary. 'Built the rib ... into a woman' is unusual but intelligible English. Rib/side remains an unresolved lexical choice from 2:21; this proposal changes the verb only.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": true,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-23",
+      "book_id": "genesis",
+      "reference": "Genesis 2:23",
+      "verse_anchor": "v2-23",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Adam said: This, at last, is bone of my bones and flesh of my flesh. She shall be called Woman, for she was taken from her husband.",
+      "candidate_text": "And Adam said: This, at last, is bone of my bones and flesh of my flesh. She shall be called Woman, for she was taken from her husband.",
+      "candidate_sha256": "3c06cc9e9ba57283a3cc4556d0b47b6bdedcfc966740f550d89ce2db588256db",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The declaration repeats bone and flesh with their matching possessive phrases, followed by the naming explanation. 'At last' is a contextual rendering of the emphatic now after the preceding lack of a helper; 'now' is a closer alternative. The Greek has 'her man/husband', supporting the inherited relational wording. English Woman cannot reproduce the Greek woman/man word relationship and should not be presented as etymological evidence.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-24",
+      "book_id": "genesis",
+      "reference": "Genesis 2:24",
+      "verse_anchor": "v2-24",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "For this reason a man shall leave his father and his mother and cleave to his wife, and the two shall become one flesh.",
+      "candidate_text": "For this reason a man shall leave his father and his mother and cleave to his wife, and the two shall become one flesh.",
+      "candidate_sha256": "847b53a99102a5f7294356baacbfa3e0609cce18db8a7d075252f4c0ebcc883f",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The reason, future leaving, joining to the wife, explicit two, and one-flesh result are retained. 'Cleave' preserves the traditional register and is appropriate when understood as adhering rather than splitting; a plain-language note may be helpful. The Greek joining verb is passive in form, represented by an idiomatic English relational verb. No New Testament quotation is consulted or harmonized in this OT-only batch.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-2-25",
+      "book_id": "genesis",
+      "reference": "Genesis 2:25",
+      "verse_anchor": "v2-25",
+      "reading_section_id": "2",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the two were naked, both Adam and his wife, and they were not ashamed.",
+      "candidate_text": "And the two were naked, both Adam and his wife, and they were not ashamed.",
+      "candidate_sha256": "f7fe3b923a2a296647e621c511e74c453adca4f18dd3fc88667f8e0377ab2346",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.2",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The two are identified as Adam and his wife, and both their nakedness and absence of shame are preserved. The imperfect description is naturally expressed with 'were' and 'were not ashamed'. No innocence doctrine, duration or claim of their inability to feel shame is inserted. The verse closes the scene before the serpent narrative.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-1",
+      "book_id": "genesis",
+      "reference": "Genesis 3:1",
+      "verse_anchor": "v3-1",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Now the serpent was more cunning than all the wild beasts upon the earth that the Lord God had made. And the serpent said to the woman, “Why has God said, ‘You shall not eat from any tree in the garden’?”",
+      "candidate_text": "Now the serpent was more cunning than all the wild beasts upon the earth that the Lord God had made. And the serpent said to the woman, “Why has God said, ‘You shall not eat from any tree in the garden’?”",
+      "candidate_sha256": "2365ce20c9ba48e031ea4cf50cabfab50719911ce8ab89ea37d8c6bfa37a23ed",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The superlative description is rendered by 'more cunning than all', appropriate to the serpent's narrative conduct without changing it into an explicit supernatural identity. The questioning introduction preserves the serpent's challenge. The negative plus every-tree wording can raise an any-tree/not-every-tree scope question; 'any tree' is retained as the broad prohibition being challenged, with the issue flagged for fuller syntax review.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-2",
+      "book_id": "genesis",
+      "reference": "Genesis 3:2",
+      "verse_anchor": "v3-2",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the woman said to the serpent, “We may eat of the fruit of the trees in the garden.",
+      "candidate_text": "And the woman said to the serpent, “We may eat of the fruit of the trees in the garden.",
+      "candidate_sha256": "f3b5d583e6598cb085ba96f95692d84a9b92b1ab8b34d737184e76bd54e65f3b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The woman's reply gives permission to eat garden-tree fruit. 'Trees' represents the Greek generic singular as a natural English class reference; 'may eat' expresses permission in the reply rather than a simple prediction of eating. The statement continues into the exception at 3:3, so the cross-unit quotation must remain intact. This does not revise the earlier command to match her report.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-3",
+      "book_id": "genesis",
+      "reference": "Genesis 3:3",
+      "verse_anchor": "v3-3",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "But of the fruit of the tree in the midst of the garden, God said, ‘You shall not eat of it, nor shall you touch it, lest you die.’”",
+      "candidate_text": "But of the fruit of the tree in the midst of the garden, God said, ‘You shall not eat of it, nor shall you touch it, lest you die.’”",
+      "candidate_sha256": "7ad491182c46125b0a7688031a6f77a59bdfa613ec8175f615e6dcef5bc34869",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The central tree, prohibition on eating, additional prohibition on touching and purpose/fear of dying are all in the woman's reported speech. The touching clause is retained here even though it is absent from 2:17; harmonizing the two would remove a narrative distinction. Plural address is represented by ordinary you. 'Lest' keeps the negative purpose/result connection in the established register.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-4",
+      "book_id": "genesis",
+      "reference": "Genesis 3:4",
+      "verse_anchor": "v3-4",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the serpent said to the woman, “You shall surely not die.",
+      "candidate_text": "And the serpent said to the woman, “You shall surely not die.",
+      "candidate_sha256": "31ab8bbe551c2e82dd6823ff94d1c3ba03c136c5a20430b419bf838003a87ec8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The serpent negates the emphatic death statement, and the inherited 'surely not die' makes his contradiction clear. The second-person verb is plural, as in the woman's report. This verse is a character's speech, not a narrator's assertion that death will not occur. No qualification such as immediately or spiritually is introduced.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-5",
+      "book_id": "genesis",
+      "reference": "Genesis 3:5",
+      "verse_anchor": "v3-5",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "For God knew that on the day you ate of it, your eyes would be opened, and you would be as gods, knowing good and evil.”",
+      "candidate_text": "For God knew that on the day you eat of it, your eyes will be opened, and you will be as gods, knowing good and evil.”",
+      "candidate_sha256": "1796653285d3aad90436c0eef4d8fd2818ebfdf995b650b54044aff2a522c135",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source has a past knowing verb followed by an eating condition and future eye-opening and becoming clauses. Propose present/future English within the serpent's direct speech so 'you ate ... would be' is not mistaken for an already completed meal. Preserve 'God knew' rather than silently changing that source tense. The plural gods remains, without deciding whether the comparison denotes deities or divine beings. No doctrinal explanation is inserted.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": true,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-6",
+      "book_id": "genesis",
+      "reference": "Genesis 3:6",
+      "verse_anchor": "v3-6",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the woman saw that the tree was good for food, pleasing to the eyes, and beautiful to contemplate. And she took of its fruit and ate; she also gave some to her husband with her, and they ate.",
+      "candidate_text": "And the woman saw that the tree was good for food, pleasing to the eyes, and beautiful to contemplate. And she took of its fruit and ate; she also gave some to her husband with her, and they ate.",
+      "candidate_sha256": "89164f2bd508e916f015926c40ef15a8eeb3267d76fe045bbcabc04fb3757986",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The three evaluations concern food, sight and contemplation. The inherited beautiful-to-contemplate wording avoids importing 'make one wise' from a different source tradition. The woman eats, gives to her husband with her, and the final Greek eating verb is plural; 'they ate' preserves that detail. The two eating statements are not collapsed, and no extra chronology is inferred.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-7",
+      "book_id": "genesis",
+      "reference": "Genesis 3:7",
+      "verse_anchor": "v3-7",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made coverings for themselves.",
+      "candidate_text": "And the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made coverings about their waists.",
+      "candidate_sha256": "a5eddef50dd354617076b0c53dc411bdb16dab91d53c0d75e4ec9bb28e9b9a45",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The opening of both pairs of eyes, recognition of nakedness, sewing of fig leaves and making of coverings are present. Propose 'coverings about their waists' because the garment term is more specific than unqualified coverings and refers to something girded around the body. This is not an assertion about a precise garment pattern or its dimensions; the narrative image is simply made clearer.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": true,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-8",
+      "book_id": "genesis",
+      "reference": "Genesis 3:8",
+      "verse_anchor": "v3-8",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And they heard the sound of the Lord God walking in the garden toward evening. And Adam and his wife hid themselves from the face of the Lord God among the trees of the garden.",
+      "candidate_text": "And they heard the sound of the Lord God walking in the garden toward evening. And Adam and his wife hid themselves from the face of the Lord God among the trees of the garden.",
+      "candidate_sha256": "22ada8a4301e4ba138592b252f9cbd1510d041e3dfe280ddc6ed3c53861a6d6e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source describes the sound/voice of the Lord God walking at evening, followed by Adam and his wife hiding from His face among the garden's trees. The inherited sound and evening choices are retained; a cool breeze is not supplied. The singular wood/tree expression is understood collectively in this setting. Whether sound or voice best suits the scene remains a lexical decision for fuller review.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-9",
+      "book_id": "genesis",
+      "reference": "Genesis 3:9",
+      "verse_anchor": "v3-9",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God called to Adam and said to him, “Adam, where are you?”",
+      "candidate_text": "And the Lord God called to Adam and said to him, “Adam, where are you?”",
+      "candidate_sha256": "ae7b474a380054b4f15aea7d8a6441b69d2d2d5abdb5175367293fa19f5ef455",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord God calls Adam, names him directly and asks where he is. The source's proper name in the spoken question is retained rather than omitted as redundant. Ordinary you is correct because Adam is being addressed. The question is not expanded into an explanation of what God knew or intended.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-10",
+      "book_id": "genesis",
+      "reference": "Genesis 3:10",
+      "verse_anchor": "v3-10",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And he said to Him, “I heard Thy voice as Thou didst walk in the garden, and I was afraid because I am naked, and I hid myself.”",
+      "candidate_text": "And he said to Him, “I heard Thy voice as Thou didst walk in the garden, and I was afraid because I am naked, and I hid myself.”",
+      "candidate_sha256": "970bed1a273239aa5a99feec3219a3bcd1af5ac914e616e7de4c6d514dfe05c3",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Adam addresses God directly, so Thy and Thou didst follow the established divine-address convention. The walking modifier belongs to the addressed figure, and the English makes that relationship audible. The hearing, fear, present nakedness and hiding clauses remain distinct. Voice is possible for the same noun rendered sound in 3:8; the difference is flagged for contextual lexical consistency rather than mechanically normalized.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-11",
+      "book_id": "genesis",
+      "reference": "Genesis 3:11",
+      "verse_anchor": "v3-11",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And He said to him, “Who told you that you are naked? Have you eaten from the tree of which alone I commanded you not to eat?”",
+      "candidate_text": "And He said to him, “Who told you that you are naked? Have you eaten from the tree of which alone I commanded you not to eat?”",
+      "candidate_sha256": "35c1ec0f05800f8baf3961fb046a938221b4664501394b840f7440cdc306ab12",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Both questions are preserved: disclosure of nakedness and eating from the sole prohibited tree. The source explicitly has the only-tree restriction, so 'alone' is warranted here. The second Greek question carries an interrogative particle whose nuance is naturally expressed as a question rather than an added assertion of guilt. The rather formal 'of which alone' construction remains intelligible but merits human read-aloud review.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-12",
+      "book_id": "genesis",
+      "reference": "Genesis 3:12",
+      "verse_anchor": "v3-12",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Adam said, “The woman whom Thou didst give to be with me—she gave me fruit from the tree, and I ate.”",
+      "candidate_text": "And Adam said, “The woman whom Thou didst give to be with me—she gave me fruit from the tree, and I ate.”",
+      "candidate_sha256": "60b451093be43d55b1f038785830faa977b29bd4b1e6e7269b8575c2b1fd5fad",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Adam refers to the woman God gave with him and emphatically says that she gave to him, followed by his own admission of eating. Divine address is preserved. Fruit is supplied from context, since the Greek says from the tree without repeating that noun; this is intelligible ellipsis support, not a new proposition. The dash makes the emphatic subject audible without adding an accusation beyond the speech.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-13",
+      "book_id": "genesis",
+      "reference": "Genesis 3:13",
+      "verse_anchor": "v3-13",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God said to the woman, “What is this you have done?” And the woman said, “The serpent deceived me, and I ate.”",
+      "candidate_text": "And the Lord God said to the woman, “What is this you have done?” And the woman said, “The serpent deceived me, and I ate.”",
+      "candidate_sha256": "53a44167bc01a5f80e75dd7c25fe7362139fae08041ebd499e21aef34fd88558",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The question and woman's answer retain their respective speakers. Deceived renders the source verb without importing an account of the serpent's method. Her 'I ate' remains an explicit first-person action alongside the deception statement. The English does not convert either into a narrator's moral judgment or erase her agency.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-14",
+      "book_id": "genesis",
+      "reference": "Genesis 3:14",
+      "verse_anchor": "v3-14",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God said to the serpent: Because you have done this, cursed are you above all cattle and all the wild beasts of the earth. Upon your breast and belly you shall go, and earth you shall eat all the days of your life.",
+      "candidate_text": "And the Lord God said to the serpent: Because you have done this, cursed are you above all cattle and all the wild beasts of the earth. Upon your breast and belly you shall go, and earth you shall eat all the days of your life.",
+      "candidate_sha256": "673ec7053e4f0ca5f29d650aaf5da46ee3494c4161196304aaab018108c37073",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The reason for the curse, comparison with cattle and field creatures, movement on breast and belly, eating earth and lifetime duration are preserved. Both body terms remain, unlike renderings that mention belly alone. 'Above all' interprets the comparative force of the Greek from/all construction; the exact force merits specialist review. No zoological change or identification of the serpent is added.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-15",
+      "book_id": "genesis",
+      "reference": "Genesis 3:15",
+      "verse_anchor": "v3-15",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And I will put enmity between you and the woman, and between your seed and her seed. He shall watch for your head, and you shall watch for his heel.",
+      "candidate_text": "And I will put enmity between you and the woman, and between your seed and her seed. He shall watch for your head, and you shall watch for his heel.",
+      "candidate_sha256": "573db4fa066fabae1d0e01e99104197ab5fc4ffae3965b5b405589e1ebd491e2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The repeated enmity relationships and the head/heel contrast remain explicit. The Greek repeats the same watching/keeping verb; 'watch for' preserves that repetition rather than substituting crush and bruise from another textual tradition. The masculine pronoun is represented by He, whose initial capital also follows sentence position. Its relation to the collective seed and the precise hostile sense of the verb remain unresolved; no messianic identification is inserted.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-16",
+      "book_id": "genesis",
+      "reference": "Genesis 3:16",
+      "verse_anchor": "v3-16",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And to the woman He said: I will greatly multiply your sorrows and your groaning; in sorrow you shall bear children. You shall turn toward your husband, and he shall rule over you.",
+      "candidate_text": "And to the woman He said: I will greatly multiply your sorrows and your groaning; in sorrow you shall bear children. You shall turn toward your husband, and he shall rule over you.",
+      "candidate_sha256": "c536d0a17451c8134ad6f33856663d0b07cf96f5049d4f4e2ac5a52385531b99",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The emphatic multiplication, sorrows and groaning, childbirth in sorrow, orientation toward the husband and his ruling are represented. 'Greatly multiply' realizes the repeated Greek verbal construction without awkward English doubling. 'You shall turn toward' interprets the noun for turning; desire, recourse or orientation remain contextual alternatives for specialist study. The text is not expanded into an imperative approving the husband's rule.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-17",
+      "book_id": "genesis",
+      "reference": "Genesis 3:17",
+      "verse_anchor": "v3-17",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And to Adam He said: Because you listened to the voice of your wife and ate from the tree of which alone I commanded you not to eat, cursed is the earth in your labours; in pain you shall eat of it all the days of your life.",
+      "candidate_text": "And to Adam He said: Because you listened to the voice of your wife and ate from the tree of which alone I commanded you not to eat, cursed is the earth in your labours; in pain you shall eat of it all the days of your life.",
+      "candidate_sha256": "6629306a527c08955de4cc6483c8aaea6d465d9724ea97c8ab6a3feed3116a1d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Adam's listening and eating, the sole prohibited tree, the earth's curse in his works/labours, painful eating and lifelong duration are preserved. The source associates the curse with works, so no silent replacement by the more familiar 'because of you' is made. 'Eat of it' supplies the normal relation between earth and its produce rather than requiring literal consumption of soil. The exact force of the works phrase remains provisional.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-18",
+      "book_id": "genesis",
+      "reference": "Genesis 3:18",
+      "verse_anchor": "v3-18",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Thorns and thistles it shall bring forth for you, and you shall eat the plants of the field.",
+      "candidate_text": "Thorns and thistles it shall bring forth for you, and you shall eat the plants of the field.",
+      "candidate_sha256": "cce0f38b7483b2a2e2a0d0d369cd9f840a25cdda3001949e2f547aeaaa5e40f1",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The earth is the continuing subject that produces thorns and thistles for Adam; his eating of field vegetation follows. The inherited wording retains both plant groups and does not impose modern taxonomic identifications. 'Plants' is a contextual broad rendering of the vegetation term, linked with chapter two's field description. No dietary prescription beyond the sentence is inferred.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-19",
+      "book_id": "genesis",
+      "reference": "Genesis 3:19",
+      "verse_anchor": "v3-19",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "By the sweat of your face you shall eat your bread, until you return to the earth from which you were taken; for earth you are, and unto earth you shall return.",
+      "candidate_text": "By the sweat of your face you shall eat your bread, until you return to the earth from which you were taken; for earth you are, and unto earth you shall return.",
+      "candidate_sha256": "ff3cb5c3b9631df49f142b5e3d9c5600fe2eade52ac1a51341c27aeea89784c5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "Sweat of the face, eating one's bread, return to the earth, derivation from it and the repeated earth wording are preserved. The source here says earth, unlike the dust wording of 2:7; the distinction should remain. 'Return' renders the endpoint of going away to earth in context. The elevated 'unto' is retained without introducing archaic pronouns for the human addressee.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-20",
+      "book_id": "genesis",
+      "reference": "Genesis 3:20",
+      "verse_anchor": "v3-20",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Adam called his wife’s name Life, because she was the mother of all the living.",
+      "candidate_text": "And Adam called his wife’s name Life, because she was the mother of all the living.",
+      "candidate_sha256": "e7c1af18fc32b961c7d5147cb0cd0f11e1be6bbfda484b21a0d91270b6ab56e7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source explicitly supplies the meaningful name Life and relates it to all the living. The English retains that transparent name rather than silently replacing it with Eve. 'Was' is an English narrative copula; the Greek explanatory phrase lacks an expressed copula. This wording does not claim that all subsequent childbirth had already occurred at naming.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-21",
+      "book_id": "genesis",
+      "reference": "Genesis 3:21",
+      "verse_anchor": "v3-21",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God made garments of skin for Adam and his wife, and clothed them.",
+      "candidate_text": "And the Lord God made garments of skin for Adam and his wife, and clothed them.",
+      "candidate_sha256": "2bfc98cb01bef72f58a217e4cda62b3b6966ae7a95db71e673530ee6bcc41338",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord God's making and clothing actions remain distinct, with Adam and his wife both recipients. Garments of skin represents the leather/skin tunics without specifying an animal species. The Greek gives no separate slaughter, sacrificial rite or explanation of procurement, so none is added. A more specific 'tunics' is a possible lexical refinement to assess alongside reader comprehension.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-22",
+      "book_id": "genesis",
+      "reference": "Genesis 3:22",
+      "verse_anchor": "v3-22",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “Behold, Adam has become as one of Us, knowing good and evil. And now, lest he stretch forth his hand and take also from the tree of life, and eat, and live for ever—”",
+      "candidate_text": "And God said, “Behold, Adam has become as one of Us, knowing good and evil. And now, lest he stretch forth his hand and take from the tree of life, and eat, and live for ever—”",
+      "candidate_sha256": "45ececd0e4807519264179feb59b546dbe76454926e9494665f2e7d0a564765a",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The becoming-like-one-of-us clause concerns knowing good and evil; the prevention clause then lists reaching, taking, eating and living forever. Propose deleting 'also' before 'from the tree of life': the source coordinates the actions with and, but does not separately mark this taking as 'also'. The unfinished-speech dash is an English presentation choice. Plural Us is retained without specifying its referent or resolving the speech's tone.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": true,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-23",
+      "book_id": "genesis",
+      "reference": "Genesis 3:23",
+      "verse_anchor": "v3-23",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God sent him out of the garden of delight to till the earth from which he had been taken.",
+      "candidate_text": "And the Lord God sent him out of the garden of delight to till the earth from which he had been taken.",
+      "candidate_sha256": "388d6693be5b2741e2b39979c1df0ed29e2d40c757fe908586007d075058a6c4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The Lord God sends Adam out of the garden of delight to work the earth from which he was taken. Garden of delight follows the source's wording here instead of silently replacing it with the place-name Eden used earlier. The cultivation purpose and origin clause are both retained. The verse remains distinct from the stronger driving-out action that follows.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-002-genesis-3-24",
+      "book_id": "genesis",
+      "reference": "Genesis 3:24",
+      "verse_anchor": "v3-24",
+      "reading_section_id": "3",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And He drove Adam out and settled him opposite the garden of delight. And He stationed the cherubim and the flaming sword that turns about, to guard the way to the tree of life.",
+      "candidate_text": "And He drove Adam out and settled him opposite the garden of delight. And He stationed the cherubim and the flaming sword that turns about, to guard the way to the tree of life.",
+      "candidate_sha256": "cb2d4c31737bfdd19123dd26a5334d53d134cefb0c4d5018f02a4ce5d36ee039",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.3",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "analysis": "The source has both driving Adam out and settling him opposite the garden, then stationing cherubim and a turning flaming sword to guard the life-tree's way. The inherited wording preserves Adam as the object of settlement rather than transferring that clause to the cherubim. Opposite is retained without supplying east. The agent of the actions remains God, and no angelic rank or weapon mechanism is invented.",
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Focused running-text comparison",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    }
+  ]
+}

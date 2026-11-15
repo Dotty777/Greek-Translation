@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "batch_id": "OT-014",
+  "date": "2026-11-12",
+  "counts": {
+    "units": 405,
+    "proposed_revisions": 1,
+    "retained_provisionally": 404,
+    "draft_stage_records": 405,
+    "distinct_close_stage_alternatives": 8,
+    "units_with_explicit_unresolved_questions": 90,
+    "token_aligned": 0,
+    "independently_reviewed": 0,
+    "human_read_aloud": 0,
+    "editorially_accepted": 0
+  },
+  "checks": [
+    "All 405 inherited units included in exact order",
+    "Publisher verse-label inventories independently recorded and matched for all 13 chapters",
+    "405 unique manually authored source-specific notes",
+    "Exact frozen text, IDs and references retained as baseline",
+    "Explicit bounded proposal and close-stage replacements each match once",
+    "Exact UTF-8 candidate SHA-256 hashes generated",
+    "Three provisional draft fields on every record",
+    "No all-token or human acceptance claims",
+    "Original Exodus text unchanged apart from checkout newline representation",
+    "Generated files UTF-8 with LF newlines"
+  ],
+  "limits": "AI source-led focused running-text comparison and provisional draft stages only. No exhaustive token alignment, specialist lexicon consultation, critical apparatus, Göttingen collation, independent human Greek review, human reading aloud, editorial acceptance or publication is claimed."
+}

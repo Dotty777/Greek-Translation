@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "batch_id": "OT-010",
+  "date": "2026-11-12",
+  "counts": {
+    "units": 174,
+    "proposed_revisions": 0,
+    "retained_provisionally": 174,
+    "draft_stage_records": 174,
+    "distinct_close_stage_alternatives": 7,
+    "units_with_explicit_unresolved_questions": 34,
+    "token_aligned": 0,
+    "independently_reviewed": 0,
+    "human_read_aloud": 0,
+    "editorially_accepted": 0
+  },
+  "checks": [
+    "All 174 inherited units present in chapter and verse order",
+    "Every verse has a unique individually authored source-specific analysis",
+    "Exact frozen baseline text, IDs and references retained",
+    "Candidate hashes generated from exact UTF-8 text",
+    "All close-alternative keys match exactly once",
+    "All units contain three provisional draft-stage fields",
+    "No changed poetry candidates; inherited display remains authoritative",
+    "No all-token, independent-human, human-reading, acceptance or publication completion asserted",
+    "Original Genesis archive unchanged apart from checkout line-ending representation",
+    "Generated text files use UTF-8 with LF newlines"
+  ],
+  "limits": "AI source-led focused running-text comparison and provisional draft stages only. No exhaustive token alignment, specialist lexicon consultation, critical apparatus, Göttingen collation, independent human Greek review, human reading aloud, editorial acceptance or publication is claimed."
+}

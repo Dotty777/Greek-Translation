@@ -1,6 +1,6 @@
 # Bespoke Saints English — Greek Translation Roadmap
 
-**Version 1.2 · 12 November 2026 · Complete provisional NT manuscript assembled**
+**Version 1.4 · 12 November 2026 · Old Testament continuation from Genesis 4**
 
 **Governing order: Greek fidelity → natural reading aloud → reverent poetic English.** A later stage may improve an earlier rendering only while preserving its meaning. This roadmap begins a documented, source-led translation and review programme for the existing Saints seventy-book edition.
 
@@ -13,7 +13,11 @@
 - [Existing editorial progress](progress.json)
 - [Saints.Bible website roadmap](https://github.com/Dotty777/Saints-Overhaul-Roadmap/blob/main/ROADMAP.md)
 
-## Current NT manuscript delivery
+## Current assignment: Old Testament only
+
+The owner's latest instruction is to continue Greek-to-Saints English work from Genesis 4 through the entire Old Testament. It supersedes the earlier NT-first priority below; the existing NT manuscript and evidence are retained without new NT work. The [43-book OT working manuscript](editions/2026-11-12-ot-reading-draft/README.md) preserves the full inherited reading text and separates new comparison records from inherited coverage. The [continuation report](reviews/2026-11-12-OT-CONTINUATION.md) links every current batch and its exact scope. Full token accounting, apparatus, independent human Greek review, human reading aloud and acceptance remain separate unfinished stages. [OT progress and next passage](old-testament-progress.json).
+
+## Earlier NT manuscript delivery
 
 The [complete provisional New Testament](editions/2026-11-12-nt-reading-draft/README.md) contains all 27 books, 260 chapters and 7,943 inherited stored units, including seven proposed John 1 revisions. This is manuscript assembly with bounded fresh review; it does not complete the whole Greek-led programme. New candidate evidence totals 153 units: 18 token-aligned and 135 with focused running-text comparison. The remaining 7,790 units are inherited drafts without a fresh programme comparison. All final acceptance stages remain open. See the edition manifest for exact denominators and scope.
 
@@ -27,7 +31,7 @@ The same records leave complete verse-by-verse Greek collation, full critical-ap
 
 **This programme will establish a traceable Greek-to-English record for every unit.** Draft directly from the identified Greek passage, then compare with the inherited Saints rendering. Retain good existing wording when the evidence supports it; record changes when it does not. Avoid treating an English polishing pass as a new translation from Greek.
 
-**Current programme status:** New Testament first, at Vince’s request. [GT-003: John 1:1–18](reviews/2026-11-12-GT-003-john-1-1-18/README.md) now has a provisional Greek-led draft, 18 verse records, 252 token alignments and five word-study drafts. Twelve candidate readings retain inherited wording; six propose changes. Independent Greek review, human read-aloud review and editorial acceptance remain pending. No inherited Scripture file or website wording is replaced by this batch.
+**Earlier programme milestone, preserved as history:** [GT-003: John 1:1–18](reviews/2026-11-12-GT-003-john-1-1-18/README.md) has a provisional Greek-led draft, 18 verse records, 252 token alignments and five word-study drafts. Twelve candidate readings retain inherited wording; six propose changes. Independent Greek review, human read-aloud review and editorial acceptance remain pending. The current assignment advances only the OT; it does not alter these NT records.
 
 ## 2. The translation covenant
 
@@ -68,7 +72,7 @@ Preserve the project's selected **43 Old Testament and 27 New Testament books**,
 | Discipleship | 22 | Acts, Romans, 1–2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1–2 Thessalonians, 1–2 Timothy, Titus, Philemon, Hebrews, James, 1–2 Peter, 1–3 John, Jude |
 | Glory | 1 | Revelation |
 
-**Current priority override — 12 November 2026:** Vince requested the New Testament first. GT-003 (John 1:1–18) now has token evidence, and 1:19–51 has a focused comparison. Continue detailed John work from chapter 2, then complete John. Continue Matthew, Mark, Luke, the Discipleship books in the table’s order, and Revelation. The OT batches remain queued for after the NT; Genesis benchmark status is preserved. GT-005 (Romans/James) and the James 2:24 study can be taken as NT calibration work. Cross-book comparisons do not imply that those books are complete.
+**Current priority override — latest instruction, 12 November 2026:** Work only on all 43 Old Testament books. Begin with Genesis, preserve the accepted benchmark as history, and proceed through the OT divisions in the table's order. The opening Jonah comparison exercises a complete short prophetic book alongside Genesis. It does not make Jonah a fully reviewed release. Earlier NT priorities remain historical; John 2 and further NT calibration work are outside this assignment. OT-to-NT comparative plans are not performed by this batch.
 
 Keep Psalm 151, Greek Esther's additions and continuation material, Old Greek Daniel with its additions and preface, Sirach's prologue, and Proverbs' split reading sections visible in the inventory. Preserve Greek numbering, lettered/grouped units and meaningful gaps. Map alternate labels explicitly; never manufacture missing verses merely to match a conventional English count.
 
@@ -97,7 +101,7 @@ Phases 2–4 repeat by passage and book. A book may have a provisional reading r
 | **GT-005** | Romans 3:21–31 and James 2:14–26 | Test contextual consistency for faith, works, righteousness and justification. | Greek-based lexical and syntactic decisions; theological explanation remains in notes. |
 | **GT-006** | Esther continuation material, Daniel preface/additions, Sirach prologue, Proverbs split sections | Prove the publishing model can preserve exceptional units before scaling. | Mapping records and fixture-based export/link checks; this is not a claim of full-book translation. |
 
-**Next action:** continue detailed review with **John 2** (NT-JHN-003), while the seven John 1 proposals and unresolved choices await editorial and specialist review. The complete NT reading manuscript and 135 additional focused comparisons are available in the dated edition directory; exhaustive alignment remains pending for those focused records. [Read GT-003](reviews/2026-11-12-GT-003-john-1-1-18/README.md). GT-001 and GT-002 remain queued under the original OT source policy; no new Göttingen or UBS6 collation is claimed.
+**Next action:** continue source-led drafting at the first unexamined section in [old-testament-progress.json](old-testament-progress.json), while completing token accounting and the unresolved lexical/syntactic decisions for compared passages. The [opening Genesis records](reviews/2026-11-12-OT-001-genesis-1/README.md) began GT-001/GT-002 without satisfying their full exit criteria. [Continuation batches](reviews/2026-11-12-OT-CONTINUATION.md) preserve exact before/after candidates, three working draft stages and open questions. Genesis 4:7 has a bounded token ledger; this does not credit other passages with full alignment. No new Göttingen or critical-apparatus collation is claimed.
 
 Keep batches small enough to finish their evidence records. A starting size of 5–20 units is a planning suggestion, not a daily quota. Measure actual translation, review and correction time over the first three completed batches, then forecast by book and genre. Do not promise whole-Bible completion from raw word counts or editing speed.
 

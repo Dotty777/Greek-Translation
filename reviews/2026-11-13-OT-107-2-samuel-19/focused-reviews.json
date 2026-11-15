@@ -1,0 +1,1882 @@
+{
+  "batch_id": "OT-107",
+  "scope": "2 Samuel 19; all 44 stored units",
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-1",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:1",
+      "verse_anchor": "v19-1",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king was shaken and went up to the upper chamber over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! If only my death had been granted instead of yours—I instead of you! Absalom, my son, my son!”",
+      "candidate_text": "The king was shaken and went up to the upper chamber over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! If only my death had been granted instead of yours—I instead of you! Absalom, my son, my son!”",
+      "candidate_sha256": "d979eb4ef78fb35efe373072b4a495c5ffdc640d7cc923b59bff7a2cd71cc9db",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king was shaken and went up to the upper chamber over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! If only my death had been granted instead of yours—I instead of you! Absalom, my son, my son!”",
+        "spoken": "The king was shaken and went up to the upper chamber over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! If only my death had been granted instead of yours—I instead of you! Absalom, my son, my son!”",
+        "literary": "The king was shaken and went up to the upper chamber over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! If only my death had been granted instead of yours—I instead of you! Absalom, my son, my son!”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The lament remains at the selected chapter opening with every my son, repeated Absalom and doubled instead-of-you wish. Five authored lines separate narrative introduction and cries.",
+      "unresolved_questions": [
+        "The optative death wish is rendered idiomatically If only; human you/yours remains ordinary address to Absalom."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      },
+      "candidate_display_text": "The king was shaken and went up to the upper chamber over the gate and wept. As he went, he said,\n“My son Absalom!\nMy son, my son Absalom!\nIf only my death had been granted instead of yours—I instead of you!\nAbsalom, my son, my son!”"
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-2",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:2",
+      "verse_anchor": "v19-2",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Joab was told, “The king is weeping and mourning over Absalom.”",
+      "candidate_text": "Joab was told, “Behold, the king is weeping and mourning over Absalom.”",
+      "candidate_sha256": "1556847421e47a4cbfdc58e373bfa01a21b1ccfeb70214865ac5261cf00d93aa",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Joab was told, “Behold, the king is weeping and mourning over Absalom.”",
+        "spoken": "Joab was told, “Behold, the king is weeping and mourning over Absalom.”",
+        "literary": "Joab was told, “Behold, the king is weeping and mourning over Absalom.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose Behold at the report to Joab, preserving the presentation of the king's weeping and mourning over Absalom.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-3",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:3",
+      "verse_anchor": "v19-3",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "That day’s deliverance turned to mourning for all the people, because the people heard that day, “The king is grieving over his son.”",
+      "candidate_text": "That day’s deliverance turned to mourning for all the people, because the people heard that day, “The king is grieving over his son.”",
+      "candidate_sha256": "f29094fd58fc38f65e541ed9bce2e7cc6ef9b1d0ce63449b40dfb5e79d9d9e2c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "That day’s deliverance turned to mourning for all the people, because the people heard that day, “The king is grieving over his son.”",
+        "spoken": "That day’s deliverance turned to mourning for all the people, because the people heard that day, “The king is grieving over his son.”",
+        "literary": "That day’s deliverance turned to mourning for all the people, because the people heard that day, “The king is grieving over his son.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Deliverance turns to collective mourning because of the heard royal grief; the repeated that day remains.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-4",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:4",
+      "verse_anchor": "v19-4",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "That day the people slipped into the city as people slip away in shame when they flee in battle.",
+      "candidate_text": "That day the people slipped into the city as people slip away in shame when they flee in battle.",
+      "candidate_sha256": "f327c3e8c4d3467b4a9123cad19784fae5f0c7c2f6e6777199bf3a67195db8e2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "That day the people slipped into the city as people slip away in shame when they flee in battle.",
+        "spoken": "That day the people slipped into the city as people slip away in shame when they flee in battle.",
+        "literary": "That day the people slipped into the city as people slip away in shame when they flee in battle."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The people slip into the city like shamed battle fugitives; the comparison is not changed into a statement that this victorious force actually lost.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-5",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:5",
+      "verse_anchor": "v19-5",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king hid his face and cried aloud, “My son Absalom! Absalom, my son!”",
+      "candidate_text": "The king hid his face and cried aloud, “My son Absalom! Absalom, my son!”",
+      "candidate_sha256": "88d24e98b62de6186d8f2d5dc4da5cffb6577d7e871e1aae3fea5e1f10972a39",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king hid his face and cried aloud, “My son Absalom! Absalom, my son!”",
+        "spoken": "The king hid his face and cried aloud, “My son Absalom! Absalom, my son!”",
+        "literary": "The king hid his face and cried aloud, “My son Absalom! Absalom, my son!”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Hidden face and loud crying retain both Absalom and my son repetitions; three authored lines separate introduction and the two cries.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      },
+      "candidate_display_text": "The king hid his face and cried aloud,\n“My son Absalom!\nAbsalom, my son!”"
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-6",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:6",
+      "verse_anchor": "v19-6",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Joab came to the king in the house and said, “Today you have shamed all your servants, who rescued you today and the lives of your sons, daughters, wives, and concubines,",
+      "candidate_text": "Joab came to the king in the house and said, “Today you have shamed all your servants, who rescued you today and the lives of your sons, daughters, wives, and concubines,",
+      "candidate_sha256": "9087e789c37e3c417314e4fc9a82cafb07f233a75194be9ee4cbf4b773e1828d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Joab came to the king in the house and said, “Today you have shamed all your servants, who rescued you today and the lives of your sons, daughters, wives, and concubines,",
+        "spoken": "Joab came to the king in the house and said, “Today you have shamed all your servants, who rescued you today and the lives of your sons, daughters, wives, and concubines,",
+        "literary": "Joab came to the king in the house and said, “Today you have shamed all your servants, who rescued you today and the lives of your sons, daughters, wives, and concubines,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Joab charges David with shaming those who rescued him and the lives of sons, daughters, wives and concubines; the sentence continues into the reason.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-7",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:7",
+      "verse_anchor": "v19-7",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. I know today that if Absalom were alive and all of us dead today, that would be right in your eyes.",
+      "candidate_text": "by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. For I know today that if Absalom were alive and all of us dead today, that would be right in your eyes.",
+      "candidate_sha256": "0aa7bfdfbd101d9d2eafbc60378f2a5b0af05c194726c1ab6d040da9c952f67c",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. For I know today that if Absalom were alive and all of us dead today, that would be right in your eyes.",
+        "spoken": "by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. For I know today that if Absalom were alive and all of us dead today, that would be right in your eyes.",
+        "literary": "by loving those who hate you and hating those who love you. Today you have declared that your officers and servants do not exist. For I know today that if Absalom were alive and all of us dead today, that would be right in your eyes."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose For I know today to retain the explanatory hoti. Loving haters, hating lovers, officers and servants not existing, and the Absalom-alive/all-us-dead counterfactual remain Joab's accusation.",
+      "unresolved_questions": [
+        "Do not exist is the severe selected idiom, not a narrator's denial that officers are present; it is not silently expanded into an assigned psychological motive."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-8",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:8",
+      "verse_anchor": "v19-8",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Now rise, go out, and speak to your servants’ hearts. I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”",
+      "candidate_text": "Now rise, go out, and speak to your servants’ hearts. For I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”",
+      "candidate_sha256": "44de9711e2ae03c16a0baa8104b08c47890d0a84e3b62c593b9989d447ef70ed",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Now rise, go out, and speak to your servants’ hearts. For I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”",
+        "spoken": "Now rise, go out, and speak to your servants’ hearts. For I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”",
+        "literary": "Now rise, go out, and speak to your servants’ hearts. For I swear by the Lord: if you do not go out today, not one man will stay with you tonight. Understand this for yourself: this will be worse for you than all the calamity that has come upon you from your youth until now.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose For I swear by the Lord to retain the causal support for the command to address servants' hearts. No overnight supporter and unprecedented calamity remain the oath-bound warning.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-9",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:9",
+      "verse_anchor": "v19-9",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king rose and sat in the gate. All the people announced, “The king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents.",
+      "candidate_text": "The king rose and sat in the gate. All the people announced, “Behold, the king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents.",
+      "candidate_sha256": "5d42ef4babeac206658e8933d2733256fa6f3dd54945977cc9c055808edb39fa",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king rose and sat in the gate. All the people announced, “Behold, the king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents.",
+        "spoken": "The king rose and sat in the gate. All the people announced, “Behold, the king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents.",
+        "literary": "The king rose and sat in the gate. All the people announced, “Behold, the king is sitting in the gate,” and all the people came before the king. Israel had fled, each to his tents."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose Behold in the announcement that the king sits at the gate; collective approach and Israel's prior flight to individual tents remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-10",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:10",
+      "verse_anchor": "v19-10",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All the people were disputing throughout all the tribes of Israel: “King David delivered us from all our enemies and rescued us from the hand of the foreigners. Now he has fled from the land and from his kingdom because of Absalom.",
+      "candidate_text": "All the people were disputing throughout all the tribes of Israel: “King David delivered us from all our enemies and rescued us from the hand of the foreigners. Now he has fled from the land and from his kingdom because of Absalom.",
+      "candidate_sha256": "b305317130dd2936929b50ddbc7676c38a7a4cf484d059dfed8b6af7f49991fb",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All the people were disputing throughout all the tribes of Israel: “King David delivered us from all our enemies and rescued us from the hand of the foreigners. Now he has fled from the land and from his kingdom because of Absalom.",
+        "spoken": "All the people were disputing throughout all the tribes of Israel: “King David delivered us from all our enemies and rescued us from the hand of the foreigners. Now he has fled from the land and from his kingdom because of Absalom.",
+        "literary": "All the people were disputing throughout all the tribes of Israel: “King David delivered us from all our enemies and rescued us from the hand of the foreigners. Now he has fled from the land and from his kingdom because of Absalom."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Tribal dispute recalls rescue from all enemies and foreigners, then David's flight from land and kingdom before Absalom.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-11",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:11",
+      "verse_anchor": "v19-11",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Absalom, whom we anointed over us, has died in battle. Why are you silent now about bringing the king back?” The word of all Israel reached the king.",
+      "candidate_text": "Absalom, whom we anointed over us, has died in battle. Why are you silent now about bringing the king back?” The word of all Israel reached the king.",
+      "candidate_sha256": "ae6f8209554b04656da8e00ce8241ae9630d3a25b94b51584b4ef487fc447d0b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Absalom, whom we anointed over us, has died in battle. Why are you silent now about bringing the king back?” The word of all Israel reached the king.",
+        "spoken": "Absalom, whom we anointed over us, has died in battle. Why are you silent now about bringing the king back?” The word of all Israel reached the king.",
+        "literary": "Absalom, whom we anointed over us, has died in battle. Why are you silent now about bringing the king back?” The word of all Israel reached the king."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The people's own anointing of Absalom, his death and their silence about restoring David remain, followed by word reaching the king.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-12",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:12",
+      "verse_anchor": "v19-12",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "King David sent word to Zadok and Abiathar the priests: “Speak to the elders of Judah: ‘Why should you be the last to bring the king back to his house? The word of all Israel has reached the king.",
+      "candidate_text": "King David sent word to Zadok and Abiathar the priests: “Speak to the elders of Judah: ‘Why should you be the last to bring the king back to his house? The word of all Israel has reached the king.",
+      "candidate_sha256": "c2628ae439066b39c51234e1c8750d5cc7d724c50d459f109089c3725f1f0631",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "King David sent word to Zadok and Abiathar the priests: “Speak to the elders of Judah: ‘Why should you be the last to bring the king back to his house? The word of all Israel has reached the king.",
+        "spoken": "King David sent word to Zadok and Abiathar the priests: “Speak to the elders of Judah: ‘Why should you be the last to bring the king back to his house? The word of all Israel has reached the king.",
+        "literary": "King David sent word to Zadok and Abiathar the priests: “Speak to the elders of Judah: ‘Why should you be the last to bring the king back to his house? The word of all Israel has reached the king."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "David's message through the two priests asks why Judah is last and repeats that all Israel's word reached the king.",
+      "unresolved_questions": [
+        "The repeated final notice and quotation boundary remain as selected/inherited; no duplicate is deleted or newly relocated."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-13",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:13",
+      "verse_anchor": "v19-13",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "You are my brothers, my bones and my flesh. Why should you be the last to bring the king back to his house?’",
+      "candidate_text": "You are my brothers, my bones and my flesh. Why should you be the last to bring the king back to his house?’",
+      "candidate_sha256": "b7948c025ae47a9bb95a867ed6a471fd9aa3e19bc89d7ade7ae9795603dbdfd8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "You are my brothers, my bones and my flesh. Why should you be the last to bring the king back to his house?’",
+        "spoken": "You are my brothers, my bones and my flesh. Why should you be the last to bring the king back to his house?’",
+        "literary": "You are my brothers, my bones and my flesh. Why should you be the last to bring the king back to his house?’"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Brothers, bones and flesh ground the repeated why-last question concerning return to the royal house.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-14",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:14",
+      "verse_anchor": "v19-14",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Say to Amasa, ‘Are you not my bone and my flesh? Now may God do so to me, and more besides, if you are not commander of the army before me always in Joab’s place.’”",
+      "candidate_text": "Say to Amasa, ‘Are you not my bone and my flesh? Now may God do so to me, and more besides, if you are not commander of the army before me always in Joab’s place.’”",
+      "candidate_sha256": "9ce318c40503353f3040e9676ab0204af06e02a8fad92b2cdc8a803dfae492ec",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Say to Amasa, ‘Are you not my bone and my flesh? Now may God do so to me, and more besides, if you are not commander of the army before me always in Joab’s place.’”",
+        "spoken": "Say to Amasa, ‘Are you not my bone and my flesh? Now may God do so to me, and more besides, if you are not commander of the army before me always in Joab’s place.’”",
+        "literary": "Say to Amasa, ‘Are you not my bone and my flesh? Now may God do so to me, and more besides, if you are not commander of the army before me always in Joab’s place.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Amasa receives a kinship appeal and divine self-curse guaranteeing lasting command in Joab's place; the oath's negative condition remains.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-15",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:15",
+      "verse_anchor": "v19-15",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He turned the heart of every man of Judah as one man, and they sent word to the king: “Return, you and all your servants.”",
+      "candidate_text": "He turned the heart of every man of Judah as one man, and they sent word to the king: “Return, you and all your servants.”",
+      "candidate_sha256": "b674bc8c7c6d72bfdb36dbae92ed4f930d858af75f321c840c90427ba4e597e0",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He turned the heart of every man of Judah as one man, and they sent word to the king: “Return, you and all your servants.”",
+        "spoken": "He turned the heart of every man of Judah as one man, and they sent word to the king: “Return, you and all your servants.”",
+        "literary": "He turned the heart of every man of Judah as one man, and they sent word to the king: “Return, you and all your servants.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Every Judean heart is turned as one man's, and they invite king and servants back.",
+      "unresolved_questions": [
+        "The singular turning agent is not explicitly named; inherited He leaves David or another contextually inferred agent unresolved."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-16",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:16",
+      "verse_anchor": "v19-16",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king returned and came as far as the Jordan. The men of Judah came to Gilgal to meet the king and bring the king across the Jordan.",
+      "candidate_text": "The king returned and came as far as the Jordan. The men of Judah came to Gilgal to meet the king and bring the king across the Jordan.",
+      "candidate_sha256": "273414671536d9bdb8e32f13ab0f5bc3ae7a524630af2c3dcf88844be3861688",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king returned and came as far as the Jordan. The men of Judah came to Gilgal to meet the king and bring the king across the Jordan.",
+        "spoken": "The king returned and came as far as the Jordan. The men of Judah came to Gilgal to meet the king and bring the king across the Jordan.",
+        "literary": "The king returned and came as far as the Jordan. The men of Judah came to Gilgal to meet the king and bring the king across the Jordan."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "David reaches the Jordan while Judah comes to Gilgal to meet him and conduct his crossing; both movements remain without geographical repair.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-17",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:17",
+      "verse_anchor": "v19-17",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Shimei son of Gera, son of the Benjaminite, from Bahurim, hurried down with the men of Judah to meet King David,",
+      "candidate_text": "Shimei son of Gera, son of the Benjaminite, from Bahurim, hurried down with the men of Judah to meet King David,",
+      "candidate_sha256": "fde3437f53121e1eb05fc81cfc50b7195d00d22ab54dbc023275d087f1f9386e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Shimei son of Gera, son of the Benjaminite, from Bahurim, hurried down with the men of Judah to meet King David,",
+        "spoken": "Shimei son of Gera, son of the Benjaminite, from Bahurim, hurried down with the men of Judah to meet King David,",
+        "literary": "Shimei son of Gera, son of the Benjaminite, from Bahurim, hurried down with the men of Judah to meet King David,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Shimei's Gera/Benjaminite relationship, Bahurim origin and hurried descent with Judah remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-18",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:18",
+      "verse_anchor": "v19-18",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "with a thousand men from Benjamin beside him. Ziba, the servant of Saul’s house, was there, with his fifteen sons beside him and his twenty servants beside him. They made the Jordan ready before the king,",
+      "candidate_text": "with a thousand men from Benjamin beside him. Ziba, the servant of Saul’s house, was there, with his fifteen sons beside him and his twenty servants beside him. They made the Jordan ready before the king,",
+      "candidate_sha256": "35593bfd5352be376977b2f357933e32407369314b982269ee624efe7409ca37",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "with a thousand men from Benjamin beside him. Ziba, the servant of Saul’s house, was there, with his fifteen sons beside him and his twenty servants beside him. They made the Jordan ready before the king,",
+        "spoken": "with a thousand men from Benjamin beside him. Ziba, the servant of Saul’s house, was there, with his fifteen sons beside him and his twenty servants beside him. They made the Jordan ready before the king,",
+        "literary": "with a thousand men from Benjamin beside him. Ziba, the servant of Saul’s house, was there, with his fifteen sons beside him and his twenty servants beside him. They made the Jordan ready before the king,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "A thousand Benjaminites and Ziba with fifteen sons and twenty servants retain their counts and repeated accompaniment before preparation of the Jordan.",
+      "unresolved_questions": [
+        "Made the Jordan ready is a provisional interpretation of directed/straightened the Jordan; neither a specific ford nor engineering work is supplied."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-19",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:19",
+      "verse_anchor": "v19-19",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "and performed the service of bringing the king across. The ferry crossed to rouse the king’s household and do what was right in his eyes. Shimei son of Gera fell on his face before the king as he was crossing the Jordan.",
+      "candidate_text": "and performed the service of bringing the king across. The ferry crossed to rouse the king’s household and do what was right in his eyes. Shimei son of Gera fell on his face before the king as he was crossing the Jordan.",
+      "candidate_sha256": "0d825e0741c810b4e1475ce92b37c7879d9765205efb3bd841028cede12c97cf",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "and performed the service of bringing the king across. The ferry crossed to rouse the king’s household and do what was right in his eyes. Shimei son of Gera fell on his face before the king as he was crossing the Jordan.",
+        "spoken": "and performed the service of bringing the king across. The ferry crossed to rouse the king’s household and do what was right in his eyes. Shimei son of Gera fell on his face before the king as he was crossing the Jordan.",
+        "literary": "and performed the service of bringing the king across. The ferry crossed to rouse the king’s household and do what was right in his eyes. Shimei son of Gera fell on his face before the king as he was crossing the Jordan."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The service of bringing the king across, ferry crossing, rousing the household and Shimei's prostration remain.",
+      "unresolved_questions": [
+        "Ferry is the inherited interpretation of crossing/passage; rousing and the pronoun of the one crossing remain syntactically open, not a reconstructed transport account."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-20",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:20",
+      "verse_anchor": "v19-20",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to the king, “Let my lord not reckon lawlessness. Do not remember your servant’s wrongs on the day my lord the king was leaving Jerusalem, so that the king takes them to heart.",
+      "candidate_text": "He said to the king, “Let my lord not reckon lawlessness. Do not remember your servant’s wrongs on the day my lord the king was leaving Jerusalem, so that the king takes them to heart.",
+      "candidate_sha256": "06ce6f76553564faba6da591e93527684dfd8b68e493f2c1d339c68b9d57ac10",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to the king, “Let my lord not reckon lawlessness. Do not remember your servant’s wrongs on the day my lord the king was leaving Jerusalem, so that the king takes them to heart.",
+        "spoken": "He said to the king, “Let my lord not reckon lawlessness. Do not remember your servant’s wrongs on the day my lord the king was leaving Jerusalem, so that the king takes them to heart.",
+        "literary": "He said to the king, “Let my lord not reckon lawlessness. Do not remember your servant’s wrongs on the day my lord the king was leaving Jerusalem, so that the king takes them to heart."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Shimei asks that lawlessness not be reckoned or his departure-day wrongs remembered and taken to heart; the final purpose construction remains.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-21",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:21",
+      "verse_anchor": "v19-21",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”",
+      "candidate_text": "For your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”",
+      "candidate_sha256": "54c3f698fab6dcd7d1947e166fe76e1211ef6ffaca7ca71f0272150af9e27ebc",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "For your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”",
+        "spoken": "For your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”",
+        "literary": "For your servant knows that I have sinned. See, I have come today ahead of all the house of Joseph, to come down and meet my lord the king.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose For your servant knows to preserve the reason for the plea. I have sinned, See and priority before all Joseph's house remain.",
+      "unresolved_questions": [
+        "Joseph's house is not changed to Benjamin despite the speaker's stated affiliation."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-22",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:22",
+      "verse_anchor": "v19-22",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Abishai son of Zeruiah answered, “Should Shimei not be put to death for this, since he cursed the Lord’s anointed?”",
+      "candidate_text": "Abishai son of Zeruiah answered, “Should Shimei not be put to death for this, since he cursed the Lord’s anointed?”",
+      "candidate_sha256": "a389a52b9f55dc097b7fb9b9ab80885e342281b2cb694e6f819dfc5401cc7471",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Abishai son of Zeruiah answered, “Should Shimei not be put to death for this, since he cursed the Lord’s anointed?”",
+        "spoken": "Abishai son of Zeruiah answered, “Should Shimei not be put to death for this, since he cursed the Lord’s anointed?”",
+        "literary": "Abishai son of Zeruiah answered, “Should Shimei not be put to death for this, since he cursed the Lord’s anointed?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Abishai asks whether cursing the Lord's anointed warrants death; the question's negative form and specific offence remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-23",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:23",
+      "verse_anchor": "v19-23",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "David said, “What have I to do with you, sons of Zeruiah, that you should become a plotter against me today? No man of Israel will be put to death today, for I do not know whether I reign over Israel today.”",
+      "candidate_text": "David said, “What have I to do with you, sons of Zeruiah, that you should become a plotter against me today? No man of Israel will be put to death today, for I do not know whether I reign over Israel today.”",
+      "candidate_sha256": "45710d36f0a2992b81936db5f1f1351019e5919744ec298009aa2f1fcb019c04",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "David said, “What have I to do with you, sons of Zeruiah, that you should become a plotter against me today? No man of Israel will be put to death today, for I do not know whether I reign over Israel today.”",
+        "spoken": "David said, “What have I to do with you, sons of Zeruiah, that you should become a plotter against me today? No man of Israel will be put to death today, for I do not know whether I reign over Israel today.”",
+        "literary": "David said, “What have I to do with you, sons of Zeruiah, that you should become a plotter against me today? No man of Israel will be put to death today, for I do not know whether I reign over Israel today.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "David rebukes Zeruiah's sons as a plotter, denies death for any Israelite today and explicitly says I do not know whether I reign today.",
+      "unresolved_questions": [
+        "The selected uncertainty is not converted to Do I not know that I reign, even if that familiar form would smooth the argument."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-24",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:24",
+      "verse_anchor": "v19-24",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king said to Shimei, “You will certainly not die.” The king swore to him.",
+      "candidate_text": "The king said to Shimei, “You will certainly not die.” The king swore to him.",
+      "candidate_sha256": "fd751cfb4e61bb1f51785231a06b173f67f7fa9b3781439ed941ed01ac9a2e17",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king said to Shimei, “You will certainly not die.” The king swore to him.",
+        "spoken": "The king said to Shimei, “You will certainly not die.” The king swore to him.",
+        "literary": "The king said to Shimei, “You will certainly not die.” The king swore to him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The king's emphatic promise that Shimei will not die is secured by an oath; no future exception is appended.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-25",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:25",
+      "verse_anchor": "v19-25",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Mephibosheth son of Jonathan son of Saul came down to meet the king. He had not tended his feet, cut his nails, trimmed his mustache, or washed his clothes from the day the king departed until the day he returned in peace.",
+      "candidate_text": "Mephibosheth son of Jonathan son of Saul came down to meet the king. He had not tended his feet, cut his nails, trimmed his mustache, or washed his clothes from the day the king departed until the day he returned in peace.",
+      "candidate_sha256": "4bdf851ba6a181178a41912d87626012aa5a68fe3a7efe4e72b83465df874857",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Mephibosheth son of Jonathan son of Saul came down to meet the king. He had not tended his feet, cut his nails, trimmed his mustache, or washed his clothes from the day the king departed until the day he returned in peace.",
+        "spoken": "Mephibosheth son of Jonathan son of Saul came down to meet the king. He had not tended his feet, cut his nails, trimmed his mustache, or washed his clothes from the day the king departed until the day he returned in peace.",
+        "literary": "Mephibosheth son of Jonathan son of Saul came down to meet the king. He had not tended his feet, cut his nails, trimmed his mustache, or washed his clothes from the day the king departed until the day he returned in peace."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jonathan/Saul parentage distinguishes Mephibosheth; all four neglected grooming activities remain through the king's peaceful return.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-26",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:26",
+      "verse_anchor": "v19-26",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "When he entered Jerusalem to meet the king, the king said to him, “Why did you not go with me, Mephibosheth?”",
+      "candidate_text": "When he entered Jerusalem to meet the king, the king said to him, “Why did you not go with me, Mephibosheth?”",
+      "candidate_sha256": "d337de749a9c2b51602554a9dc070ef599daac02cd82f65ea2e73f74329b1588",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "When he entered Jerusalem to meet the king, the king said to him, “Why did you not go with me, Mephibosheth?”",
+        "spoken": "When he entered Jerusalem to meet the king, the king said to him, “Why did you not go with me, Mephibosheth?”",
+        "literary": "When he entered Jerusalem to meet the king, the king said to him, “Why did you not go with me, Mephibosheth?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jerusalem entry to meet the king and the question about not accompanying him remain.",
+      "unresolved_questions": [
+        "The location and travel sequence are not silently relocated to the Jordan to harmonize nearby scenes."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-27",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:27",
+      "verse_anchor": "v19-27",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Mephibosheth said to him, “My lord the king, my servant deceived me. Your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame.",
+      "candidate_text": "Mephibosheth said to him, “My lord the king, my servant deceived me. For your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame.",
+      "candidate_sha256": "553107f678a2120fe0365f77d6540db76dd3acb66b8aaf3b15db5df336c40491",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Mephibosheth said to him, “My lord the king, my servant deceived me. For your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame.",
+        "spoken": "Mephibosheth said to him, “My lord the king, my servant deceived me. For your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame.",
+        "literary": "Mephibosheth said to him, “My lord the king, my servant deceived me. For your servant had said to him, ‘Saddle the donkey for me, so that I may ride it and go with the king,’ for your servant is lame."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose For your servant had said to retain the explanation of the alleged deception. The donkey request, wish to accompany the king and lameness remain Mephibosheth's account.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-28",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:28",
+      "verse_anchor": "v19-28",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He schemed against your servant before my lord the king. But my lord the king is like an angel of God; do what is good in your eyes.",
+      "candidate_text": "He schemed against your servant before my lord the king. But my lord the king is like an angel of God; do what is good in your eyes.",
+      "candidate_sha256": "af178b4ddb4d5c85e5e42dc33360f768d5c568a880d4ae7ee86058b509bc96ca",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He schemed against your servant before my lord the king. But my lord the king is like an angel of God; do what is good in your eyes.",
+        "spoken": "He schemed against your servant before my lord the king. But my lord the king is like an angel of God; do what is good in your eyes.",
+        "literary": "He schemed against your servant before my lord the king. But my lord the king is like an angel of God; do what is good in your eyes."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The alleged servant scheme, angel-of-God comparison and deference to what pleases the king remain, without a narrator's new verdict between the competing reports.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-29",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:29",
+      "verse_anchor": "v19-29",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”",
+      "candidate_text": "For all my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”",
+      "candidate_sha256": "d5b8bedb05d2b9ec4df59a83393c9b40e256ec50f673d74d2437f2ae43cbb443",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "For all my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”",
+        "spoken": "For all my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”",
+        "literary": "For all my father’s house were nothing but men liable to death before my lord the king, yet you placed your servant among those who eat at your table. What further right have I to cry out again to the king?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose For all my father's house to retain the ground of his deference. Liability to death, royal-table placement and lack of further right to appeal remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-30",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:30",
+      "verse_anchor": "v19-30",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king said to him, “Why speak any further about your affairs? I have said: you and Ziba shall divide the land.”",
+      "candidate_text": "The king said to him, “Why speak any further about your affairs? I have said: you and Ziba shall divide the land.”",
+      "candidate_sha256": "28ccb5e4a6d467d5b13665defd11012fbb905e14620bbc8800295d531d2ca09f",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king said to him, “Why speak any further about your affairs? I have said: you and Ziba shall divide the land.”",
+        "spoken": "The king said to him, “Why speak any further about your affairs? I have said: you and Ziba shall divide the land.”",
+        "literary": "The king said to him, “Why speak any further about your affairs? I have said: you and Ziba shall divide the land.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "David cuts off further speech and orders Mephibosheth and Ziba to divide the land; no unstated proportions are assigned.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-31",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:31",
+      "verse_anchor": "v19-31",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Mephibosheth said to the king, “Let him take it all, now that my lord the king has returned to his house in peace.”",
+      "candidate_text": "Mephibosheth said to the king, “Let him take it all, now that my lord the king has returned to his house in peace.”",
+      "candidate_sha256": "6f115090b00231216de947e57a10f352908cfc16f3bdca12dc3830dde5fcadbf",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Mephibosheth said to the king, “Let him take it all, now that my lord the king has returned to his house in peace.”",
+        "spoken": "Mephibosheth said to the king, “Let him take it all, now that my lord the king has returned to his house in peace.”",
+        "literary": "Mephibosheth said to the king, “Let him take it all, now that my lord the king has returned to his house in peace.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Mephibosheth permits the other man to take all because the king is home in peace; no narrator's assessment of sincerity is added.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-32",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:32",
+      "verse_anchor": "v19-32",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to escort him over the Jordan.",
+      "candidate_text": "Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to escort him over the Jordan.",
+      "candidate_sha256": "d10f090c9ce940146da7f2e384d3d4578b6a8f92cc1819d8918c680d75b022ce",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to escort him over the Jordan.",
+        "spoken": "Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to escort him over the Jordan.",
+        "literary": "Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to escort him over the Jordan."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Barzillai from Rogelim accompanies the Jordan crossing to escort the king; the repeated river name remains.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-33",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:33",
+      "verse_anchor": "v19-33",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Barzillai was a very old man, eighty years of age. He had supported the king during his stay at Mahanaim, for he was a very wealthy man.",
+      "candidate_text": "Barzillai was a very old man, eighty years of age. He had supported the king during his stay at Mahanaim, for he was a very wealthy man.",
+      "candidate_sha256": "96a0f9a1ac435ef4693f19dba50e320ed94fe98d6c661a5861a070540ed088ae",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Barzillai was a very old man, eighty years of age. He had supported the king during his stay at Mahanaim, for he was a very wealthy man.",
+        "spoken": "Barzillai was a very old man, eighty years of age. He had supported the king during his stay at Mahanaim, for he was a very wealthy man.",
+        "literary": "Barzillai was a very old man, eighty years of age. He had supported the king during his stay at Mahanaim, for he was a very wealthy man."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Eighty years, prior support at Mahanaim and very great wealth remain.",
+      "unresolved_questions": [
+        "Wealthy interprets very great in the material-support context; the source does not specify an estate value."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-34",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:34",
+      "verse_anchor": "v19-34",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king said to Barzillai, “Cross over with me, and I will support your old age beside me in Jerusalem.”",
+      "candidate_text": "The king said to Barzillai, “Cross over with me, and I will support your old age beside me in Jerusalem.”",
+      "candidate_sha256": "33f0eddae5d87b0c1c452aebc455e09fc93f90dfb147fb65a2500bc4539b9201",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king said to Barzillai, “Cross over with me, and I will support your old age beside me in Jerusalem.”",
+        "spoken": "The king said to Barzillai, “Cross over with me, and I will support your old age beside me in Jerusalem.”",
+        "literary": "The king said to Barzillai, “Cross over with me, and I will support your old age beside me in Jerusalem.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The king invites Barzillai to cross and promises support for his old age with him in Jerusalem.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-35",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:35",
+      "verse_anchor": "v19-35",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Barzillai said to the king, “How many days remain in the years of my life, that I should go up with the king to Jerusalem?",
+      "candidate_text": "Barzillai said to the king, “How many days remain in the years of my life, that I should go up with the king to Jerusalem?",
+      "candidate_sha256": "d21c73e1b4945343b3ddb2e05c8aa8d880ede14f79dc64713ba987db387dba14",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Barzillai said to the king, “How many days remain in the years of my life, that I should go up with the king to Jerusalem?",
+        "spoken": "Barzillai said to the king, “How many days remain in the years of my life, that I should go up with the king to Jerusalem?",
+        "literary": "Barzillai said to the king, “How many days remain in the years of my life, that I should go up with the king to Jerusalem?"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Barzillai questions his remaining lifespan in relation to going up to Jerusalem; remaining is contextual English, not a stated number of future days.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-36",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:36",
+      "verse_anchor": "v19-36",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "I am eighty years old today. Can I discern good from bad? Can your servant still taste what I eat or drink? Can I still hear the voices of male and female singers? Why should your servant be a further burden to my lord the king?",
+      "candidate_text": "I am eighty years old today. Can I discern good from bad? Can your servant still taste what I eat or drink? Can I still hear the voices of male and female singers? Why should your servant be a further burden to my lord the king?",
+      "candidate_sha256": "e2b218e039b72145e04a5e0e648257b6d683f0c49c379bbd04f3cea54a3c2065",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "I am eighty years old today. Can I discern good from bad? Can your servant still taste what I eat or drink? Can I still hear the voices of male and female singers? Why should your servant be a further burden to my lord the king?",
+        "spoken": "I am eighty years old today. Can I discern good from bad? Can your servant still taste what I eat or drink? Can I still hear the voices of male and female singers? Why should your servant be a further burden to my lord the king?",
+        "literary": "I am eighty years old today. Can I discern good from bad? Can your servant still taste what I eat or drink? Can I still hear the voices of male and female singers? Why should your servant be a further burden to my lord the king?"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Eighty years today, good/bad discernment, taste, male and female singing and burden questions remain his self-description.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-37",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:37",
+      "verse_anchor": "v19-37",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Your servant will cross the Jordan with the king only a little way. Why should the king repay me with this repayment?",
+      "candidate_text": "Your servant will cross the Jordan with the king only a little way. Why should the king repay me with this repayment?",
+      "candidate_sha256": "2c899b213e544985e0c3defd96448808a6d1f0ef0cdc0319d88e0cf1e2b906a4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Your servant will cross the Jordan with the king only a little way. Why should the king repay me with this repayment?",
+        "spoken": "Your servant will cross the Jordan with the king only a little way. Why should the king repay me with this repayment?",
+        "literary": "Your servant will cross the Jordan with the king only a little way. Why should the king repay me with this repayment?"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Only a little way construes the limited crossing extent and the repeated repayment language remains; no extra journey distance is supplied.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-38",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:38",
+      "verse_anchor": "v19-38",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Please let your servant remain, so that I may die in my own city beside my father’s and mother’s grave. Here is your servant Chimham; he will cross with my lord the king. Do for him what is good in your eyes.”",
+      "candidate_text": "Please let your servant remain, so that I may die in my own city beside my father’s and mother’s grave. Here is your servant Chimham; he will cross with my lord the king. Do for him what is good in your eyes.”",
+      "candidate_sha256": "41bc92ba59b8050483fcec848f1074c09116c625a0a9feb3d32ddfee4ccefaf0",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Please let your servant remain, so that I may die in my own city beside my father’s and mother’s grave. Here is your servant Chimham; he will cross with my lord the king. Do for him what is good in your eyes.”",
+        "spoken": "Please let your servant remain, so that I may die in my own city beside my father’s and mother’s grave. Here is your servant Chimham; he will cross with my lord the king. Do for him what is good in your eyes.”",
+        "literary": "Please let your servant remain, so that I may die in my own city beside my father’s and mother’s grave. Here is your servant Chimham; he will cross with my lord the king. Do for him what is good in your eyes.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Remaining to die near both parents' grave and the presentation of Chimham preserve the alternative beneficiary and ordinary human address.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-39",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:39",
+      "verse_anchor": "v19-39",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king said, “Let Chimham cross with me, and I will do for him what is good in your eyes. Whatever you choose to ask of me, I will do for you.”",
+      "candidate_text": "The king said, “Let Chimham cross with me, and I will do for him what is good in your eyes. Whatever you choose to ask of me, I will do for you.”",
+      "candidate_sha256": "999d72a9d7934a3be2c40be1bc986885be874f36d6f1cabdaee6b6e0fb517dbd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king said, “Let Chimham cross with me, and I will do for him what is good in your eyes. Whatever you choose to ask of me, I will do for you.”",
+        "spoken": "The king said, “Let Chimham cross with me, and I will do for him what is good in your eyes. Whatever you choose to ask of me, I will do for you.”",
+        "literary": "The king said, “Let Chimham cross with me, and I will do for him what is good in your eyes. Whatever you choose to ask of me, I will do for you.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The king agrees to Chimham's crossing, what is good in Barzillai's eyes and whatever he chooses to ask; the relevant your is not changed to my.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-40",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:40",
+      "verse_anchor": "v19-40",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All the people crossed the Jordan, and the king crossed. The king warmly kissed Barzillai and blessed him, and Barzillai returned to his own place.",
+      "candidate_text": "All the people crossed the Jordan, and the king crossed. The king warmly kissed Barzillai and blessed him, and Barzillai returned to his own place.",
+      "candidate_sha256": "9693e5476aaff91293e27caac47181946d2af811f0d68e3f426b57b4bcf39ef4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All the people crossed the Jordan, and the king crossed. The king warmly kissed Barzillai and blessed him, and Barzillai returned to his own place.",
+        "spoken": "All the people crossed the Jordan, and the king crossed. The king warmly kissed Barzillai and blessed him, and Barzillai returned to his own place.",
+        "literary": "All the people crossed the Jordan, and the king crossed. The king warmly kissed Barzillai and blessed him, and Barzillai returned to his own place."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "People and king cross, then warm kiss, blessing and Barzillai's return remain.",
+      "unresolved_questions": [
+        "The repeated Barzillai in English clarifies the final unnamed returning subject contextually."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-41",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:41",
+      "verse_anchor": "v19-41",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king crossed on to Gilgal, and Chimham crossed with him. All the people of Judah crossed with the king, and also half the people of Israel.",
+      "candidate_text": "The king crossed on to Gilgal, and Chimham crossed with him. All the people of Judah crossed with the king, and also half the people of Israel.",
+      "candidate_sha256": "3137132a650e249d9e0ac236fe86b641d1e2dd4b0e123ac8383fa599b71c95a7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king crossed on to Gilgal, and Chimham crossed with him. All the people of Judah crossed with the king, and also half the people of Israel.",
+        "spoken": "The king crossed on to Gilgal, and Chimham crossed with him. All the people of Judah crossed with the king, and also half the people of Israel.",
+        "literary": "The king crossed on to Gilgal, and Chimham crossed with him. All the people of Judah crossed with the king, and also half the people of Israel."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Gilgal, Chimham, all Judah and half Israel retain the selected escort proportions.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-42",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:42",
+      "verse_anchor": "v19-42",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”",
+      "candidate_text": "Behold, all the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”",
+      "candidate_sha256": "70b8d13bcd5dac1026867f3d9eaf6fbeca544126b40eaa0591dca814bd1effd9",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Behold, all the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”",
+        "spoken": "Behold, all the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”",
+        "literary": "Behold, all the men of Israel came to the king and said, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, with all David’s men beside him?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose Behold before all Israel's men arrive with the accusation that Judah stole away the king, household and David's men.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-43",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:43",
+      "verse_anchor": "v19-43",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All the men of Judah answered the men of Israel, “The king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”",
+      "candidate_text": "All the men of Judah answered the men of Israel, “Because the king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”",
+      "candidate_sha256": "0a3e20d2b446c6fb028ad012e4dc7b8bb6f0c2a76af0966dc57ceae905a733e8",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All the men of Judah answered the men of Israel, “Because the king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”",
+        "spoken": "All the men of Judah answered the men of Israel, “Because the king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”",
+        "literary": "All the men of Judah answered the men of Israel, “Because the king is close to us. Why are you so angry about this? Have we eaten at the king’s expense? Has he given us a gift, or carried a contribution to us?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose Because the king is close to us to retain dioti in Judah's reply. Angry response, food at royal expense, gift and contribution remain separate questions.",
+      "unresolved_questions": [
+        "Contribution is a working interpretation of the carrying/lifting noun and cognate verb, not an identified tax or ration."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-107-2-samuel-v19-44",
+      "book_id": "2-samuel",
+      "reference": "2 Samuel 19:44",
+      "verse_anchor": "v19-44",
+      "reading_section_id": "19",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The men of Israel answered the men of Judah, “We have ten shares in the king, and we are firstborn compared with you. We also have a greater claim on David than you. Why have you insulted us? Was our proposal not considered first for bringing the king back to us?” But the words of the men of Judah were harsher than the words of the men of Israel.",
+      "candidate_text": "The men of Israel answered the men of Judah, “We have ten shares in the king, and we are firstborn compared with you. We also have a greater claim on David than you. Why have you insulted us? Was our proposal not considered first for bringing the king back to us?” But the words of the men of Judah were harsher than the words of the men of Israel.",
+      "candidate_sha256": "ad42aeb45167e3ebde95f564e5bce4a71d709c3cb8dc2d5e293a2530754f951b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The men of Israel answered the men of Judah, “We have ten shares in the king, and we are firstborn compared with you. We also have a greater claim on David than you. Why have you insulted us? Was our proposal not considered first for bringing the king back to us?” But the words of the men of Judah were harsher than the words of the men of Israel.",
+        "spoken": "The men of Israel answered the men of Judah, “We have ten shares in the king, and we are firstborn compared with you. We also have a greater claim on David than you. Why have you insulted us? Was our proposal not considered first for bringing the king back to us?” But the words of the men of Judah were harsher than the words of the men of Israel.",
+        "literary": "The men of Israel answered the men of Judah, “We have ten shares in the king, and we are firstborn compared with you. We also have a greater claim on David than you. Why have you insulted us? Was our proposal not considered first for bringing the king back to us?” But the words of the men of Judah were harsher than the words of the men of Israel."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Ten shares, firstborn priority, greater David claim, insult and the first return proposal remain, followed by Judah's harsher words.",
+      "unresolved_questions": [
+        "Shares interprets hands in the claim; firstborn and comparative priority are not removed to make the dispute match another witness."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    }
+  ]
+}

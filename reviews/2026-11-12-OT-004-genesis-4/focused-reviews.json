@@ -1,0 +1,1335 @@
+{
+  "batch_id": "OT-004",
+  "scope": "Genesis 4:1–26",
+  "status": "provisional_draft_review_pending",
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-1",
+      "book_id": "genesis",
+      "reference": "Genesis 4:1",
+      "verse_anchor": "v4-1",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have gained a man through God.”",
+      "candidate_text": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have gained a man through God.”",
+      "candidate_sha256": "5fc9cb98b1d87099f09f92b7db15d5a362cc29b0e01b3c48dec428aa08783401",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have gained a man through God.”",
+        "spoken": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have gained a man through God.”",
+        "literary": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have gained a man through God.”"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The source names Adam and Eve and uses knowing for sexual union, followed by conception and birth. The speech uses acquired/gained a human being through God, not a replacement of the divine title by a Hebrew name. Retain gained and through, with the agency of the final phrase explicit but without expanding it to a claim about the child's identity.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-2",
+      "book_id": "genesis",
+      "reference": "Genesis 4:2",
+      "verse_anchor": "v4-2",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And again she bore his brother Abel. And Abel became a shepherd of sheep, but Cain tilled the earth.",
+      "candidate_text": "And again she bore his brother Abel. And Abel became a shepherd of sheep, but Cain tilled the earth.",
+      "candidate_sha256": "ed38ef8f90a2542a43dda39038d7d445d620d27d05459ad91ceb97100d2eff36",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And again she bore his brother Abel. And Abel became a shepherd of sheep, but Cain tilled the earth.",
+        "spoken": "And again she bore his brother Abel. And Abel became a shepherd of sheep, but Cain tilled the earth.",
+        "literary": "And again she bore his brother Abel. And Abel became a shepherd of sheep, but Cain tilled the earth."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The added-to-give-birth idiom warrants again here. Abel is explicitly Cain's brother. Abel becomes a sheep shepherd while Cain is described as working the earth; the adversative connective and contrasting occupations are retained. The English narrative past realizes the Greek ongoing description of Cain's work without adding a new occupation.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-3",
+      "book_id": "genesis",
+      "reference": "Genesis 4:3",
+      "verse_anchor": "v4-3",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And after some time Cain brought an offering to the Lord from the fruits of the earth.",
+      "candidate_text": "And after some time Cain brought an offering to the Lord from the fruits of the earth.",
+      "candidate_sha256": "de4938ee6b0d62a4a2062d44e0c6c0b6f4bf27fc7ecc4d6ea711dd274ce0e0ff",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And it came to pass after some days that Cain brought an offering to the Lord from the fruits of the earth.",
+        "spoken": "And after some time Cain brought an offering to the Lord from the fruits of the earth.",
+        "literary": "And after some time Cain brought an offering to the Lord from the fruits of the earth."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The temporal transition is after days, followed by Cain bringing an offering from the earth's fruits to the Lord. Some time is intelligible for the indefinite interval; it does not specify a festival or harvest date. Offering renders the sacrificial noun broadly enough for produce; no animal is supplied.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-4",
+      "book_id": "genesis",
+      "reference": "Genesis 4:4",
+      "verse_anchor": "v4-4",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Abel also brought an offering from the firstborn of his sheep and from their fat. And God looked with favour upon Abel and his gifts,",
+      "candidate_text": "And Abel also brought an offering from the firstborn of his sheep and from their fat. And God looked with favour upon Abel and his gifts,",
+      "candidate_sha256": "b09fadba9ffa13b9df03d9463c3a0694ab832e0ec33486717a70370afd44872e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Abel also brought an offering from the firstborn of his sheep and from their fat. And God looked with favour upon Abel and his gifts,",
+        "spoken": "And Abel also brought an offering from the firstborn of his sheep and from their fat. And God looked with favour upon Abel and his gifts,",
+        "literary": "And Abel also brought an offering from the firstborn of his sheep and from their fat. And God looked with favour upon Abel and his gifts,"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Abel himself also brings from the firstborn of his sheep and their fat. The English repeats offering from the preceding sentence as the governing sense of what was brought. The second clause names God and calls the objects gifts. Looked with favour is a contextual rendering of the regard shown; the next verse establishes the contrast. It is not a claim that a separate Greek word for favour occurs here.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-5",
+      "book_id": "genesis",
+      "reference": "Genesis 4:5",
+      "verse_anchor": "v4-5",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "but He gave no heed to Cain and his offerings. And Cain was greatly distressed, and his face fell.",
+      "candidate_text": "but He gave no heed to Cain and his offerings. And Cain was greatly distressed, and his face fell.",
+      "candidate_sha256": "7431ed128433310dbf8904a8af3a6ca986b27fd25d06ee4917510871844393fd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "but He gave no heed to Cain and his offerings. And Cain was greatly distressed, and his face fell.",
+        "spoken": "but He gave no heed to Cain and his offerings. And Cain was greatly distressed, and his face fell.",
+        "literary": "but He gave no heed to Cain and his offerings. And Cain was greatly distressed, and his face fell."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The contrast is between regard for Abel and no attention to Cain and his offerings. Cain's great distress and fallen face follow. Retain distressed rather than importing an anger term from another tradition. The Greek construction about distress is less direct than the English passive; the experiencer is still Cain. His face is not described as changing color.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-6",
+      "book_id": "genesis",
+      "reference": "Genesis 4:6",
+      "verse_anchor": "v4-6",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God said to Cain, “Why are you so distressed, and why has your face fallen?",
+      "candidate_text": "And the Lord God said to Cain, “Why are you so distressed, and why has your face fallen?",
+      "candidate_sha256": "56238bec78cc720020fa389f82c635015e7d81fa4f8fa7eb6d7473aced406368",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And the Lord God said to Cain, “Why are you so distressed, and why has your face fallen?",
+        "spoken": "And the Lord God said to Cain, “Why are you so distressed, and why has your face fallen?",
+        "literary": "And the Lord God said to Cain, “Why are you so distressed, and why has your face fallen?"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The speaker is the Lord God; both why questions are present. The first concerns Cain's becoming deeply distressed and the second his fallen face. The inherited present-state English represents the resulting condition without inventing a motive. The divine question continues into the next verse.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-7",
+      "book_id": "genesis",
+      "reference": "Genesis 4:7",
+      "verse_anchor": "v4-7",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "If you offer rightly but do not divide rightly, have you not sinned? Be still. His turning shall be toward you, and you shall rule over him.”",
+      "candidate_text": "If you offer rightly but do not divide rightly, have you not sinned? Be still. His turning shall be toward you, and you shall rule over him.”",
+      "candidate_sha256": "1580521e2c7db8cae86d5368ec947a19868c36adfb8cfe95df55f25db0c56ea5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "If you offer rightly but do not divide rightly, have you not sinned? Be still. Toward you is his turning, and you shall rule over him.”",
+        "spoken": "If you offer rightly but do not divide rightly, have you not sinned? Be still. His turning shall be toward you, and you shall rule over him.”",
+        "literary": "If you offer rightly but do not divide rightly, have you not sinned? Be still. His turning shall be toward you, and you shall rule over him.”"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The selected Greek frames a negative rhetorical question around offering rightly and failing to divide rightly, then commands stillness and states a turning toward Cain and his future rule. The 19 source tokens are accounted for in the review record; this is not an apparatus judgment. Retain the inherited reading provisionally. The antecedent of the two third-person pronouns is unresolved; him must not silently be glossed Abel, sin, or the offering. The first turning clause is verbless; shall be is supplied from the prospective setting, while the following rule verb is explicitly future. The text does not contain the familiar alternate image of sin crouching at a door.",
+      "unresolved_questions": [
+        "Pronoun antecedents; offering/dividing construction; precise force of turning; implied time of the verbless clause."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": true,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      },
+      "greek_tokens": [
+        {
+          "token_id": "GEN-4-7-01",
+          "form": "οὐκ",
+          "lemma": "οὐ",
+          "morphology": "negative particle",
+          "english_spans": [
+            "not"
+          ],
+          "realization_type": "grammatical",
+          "rationale": "Moved to the English rhetorical question about sinning."
+        },
+        {
+          "token_id": "GEN-4-7-02",
+          "form": "ἐὰν",
+          "lemma": "ἐάν",
+          "morphology": "conditional conjunction",
+          "english_spans": [
+            "If"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Introduces the conditional protasis."
+        },
+        {
+          "token_id": "GEN-4-7-03",
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "morphology": "adverb",
+          "english_spans": [
+            "rightly"
+          ],
+          "realization_type": "explicit",
+          "rationale": "First rightly modifies offering."
+        },
+        {
+          "token_id": "GEN-4-7-04",
+          "form": "προσενέγκῃς",
+          "lemma": "προσφέρω",
+          "morphology": "aorist active subjunctive second singular",
+          "english_spans": [
+            "you offer"
+          ],
+          "realization_type": "explicit",
+          "rationale": "The conditional form does not itself assert that Cain did offer rightly."
+        },
+        {
+          "token_id": "GEN-4-7-05",
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "morphology": "adverb",
+          "english_spans": [
+            "rightly"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Second rightly modifies dividing and remains repeated."
+        },
+        {
+          "token_id": "GEN-4-7-06",
+          "form": "δὲ",
+          "lemma": "δέ",
+          "morphology": "postpositive connective",
+          "english_spans": [
+            "but"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Contrast within the condition."
+        },
+        {
+          "token_id": "GEN-4-7-07",
+          "form": "μὴ",
+          "lemma": "μή",
+          "morphology": "negative particle",
+          "english_spans": [
+            "do not"
+          ],
+          "realization_type": "grammatical",
+          "rationale": "Negates dividing in the subjunctive condition."
+        },
+        {
+          "token_id": "GEN-4-7-08",
+          "form": "διέλῃς",
+          "lemma": "διαιρέω",
+          "morphology": "aorist active subjunctive second singular",
+          "english_spans": [
+            "you",
+            "divide"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Do is English auxiliary support; the precise ritual division is not supplied."
+        },
+        {
+          "token_id": "GEN-4-7-09",
+          "form": "ἥμαρτες",
+          "lemma": "ἁμαρτάνω",
+          "morphology": "aorist active indicative second singular",
+          "english_spans": [
+            "have you",
+            "sinned"
+          ],
+          "realization_type": "explicit",
+          "rationale": "English perfect gives the present consequence in the rhetorical question."
+        },
+        {
+          "token_id": "GEN-4-7-10",
+          "form": "ἡσύχασον",
+          "lemma": "ἡσυχάζω",
+          "morphology": "aorist active imperative second singular",
+          "english_spans": [
+            "Be still"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Command to settle/be still without inventing an object or duration."
+        },
+        {
+          "token_id": "GEN-4-7-11",
+          "form": "πρὸς",
+          "lemma": "πρός",
+          "morphology": "preposition with accusative",
+          "english_spans": [
+            "toward"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Direction of the turning."
+        },
+        {
+          "token_id": "GEN-4-7-12",
+          "form": "σὲ",
+          "lemma": "σύ",
+          "morphology": "second-person singular accusative pronoun",
+          "english_spans": [
+            "you"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Addressee of the preposition is Cain."
+        },
+        {
+          "token_id": "GEN-4-7-13",
+          "form": "ἡ",
+          "lemma": "ὁ",
+          "morphology": "feminine nominative singular article",
+          "english_spans": [
+            "His turning"
+          ],
+          "realization_type": "grammatical",
+          "rationale": "English possessive construction replaces a separate definite article."
+        },
+        {
+          "token_id": "GEN-4-7-14",
+          "form": "ἀποστροφὴ",
+          "lemma": "ἀποστροφή",
+          "morphology": "feminine nominative singular noun",
+          "english_spans": [
+            "turning"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Nominal clause has no expressed verb; shall be is prospective English supply."
+        },
+        {
+          "token_id": "GEN-4-7-15",
+          "form": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "morphology": "third-person singular genitive pronoun, masculine/neuter form",
+          "english_spans": [
+            "His"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Antecedent unresolved; capitalization is only sentence-initial."
+        },
+        {
+          "token_id": "GEN-4-7-16",
+          "form": "καὶ",
+          "lemma": "καί",
+          "morphology": "coordinating conjunction",
+          "english_spans": [
+            "and"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Links the final rule statement."
+        },
+        {
+          "token_id": "GEN-4-7-17",
+          "form": "σὺ",
+          "lemma": "σύ",
+          "morphology": "second-person singular nominative pronoun",
+          "english_spans": [
+            "you"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Explicit subject contrasts with the preceding third-person referent."
+        },
+        {
+          "token_id": "GEN-4-7-18",
+          "form": "ἄρξεις",
+          "lemma": "ἄρχω",
+          "morphology": "future active indicative second singular",
+          "english_spans": [
+            "shall rule over"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Future and government of the genitive realized by the English phrase."
+        },
+        {
+          "token_id": "GEN-4-7-19",
+          "form": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "morphology": "third-person singular genitive pronoun, masculine/neuter form",
+          "english_spans": [
+            "him"
+          ],
+          "realization_type": "explicit",
+          "rationale": "Object of rule; masculine English follows inherited choice but referent remains open."
+        }
+      ],
+      "supplied_english": [
+        {
+          "text": "shall be",
+          "rationale": "The turning clause is verbless; prospective time is inferred from the following future rule clause. The close draft uses is to expose this choice."
+        }
+      ],
+      "token_scope": "Whitespace-separated lexical tokens of the displayed verse; punctuation represented by English clause boundaries. The 19-word excerpt is the bounded source quotation for this batch."
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-8",
+      "book_id": "genesis",
+      "reference": "Genesis 4:8",
+      "verse_anchor": "v4-8",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Cain said to Abel his brother, “Let us go out into the field.” And while they were in the field, Cain rose against Abel his brother and slew him.",
+      "candidate_text": "And Cain said to Abel his brother, “Let us go out into the field.” And while they were in the field, Cain rose against Abel his brother and slew him.",
+      "candidate_sha256": "871019b30b8a2166ecbadce6cc688462b754e9d547c369f59bb8f0c39836cb54",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Cain said to Abel his brother, “Let us go out into the field.” And while they were in the field, Cain rose against Abel his brother and slew him.",
+        "spoken": "And Cain said to Abel his brother, “Let us go out into the field.” And while they were in the field, Cain rose against Abel his brother and slew him.",
+        "literary": "And Cain said to Abel his brother, “Let us go out into the field.” And while they were in the field, Cain rose against Abel his brother and slew him."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Cain's invitation to the field is present in the selected Greek and must not be removed to match a shorter tradition. The temporal clause places both brothers in the field before Cain rises against Abel and kills him. Repeated brother emphasizes their relationship. Slew is an established traditional equivalent for killed, without a claim about the weapon or method.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-9",
+      "book_id": "genesis",
+      "reference": "Genesis 4:9",
+      "verse_anchor": "v4-9",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”",
+      "candidate_text": "And God said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”",
+      "candidate_sha256": "3d7e98b30d301764464a56ff0c9a1bf32a1253989ae906f8f95094a1fe9afa7e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”",
+        "spoken": "And God said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”",
+        "literary": "And God said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "God asks where Abel your brother is. Cain denies knowing and asks whether he is his brother's keeper. The Greek negative-question particle expects a negative answer in Cain's response; a rhetorical English question carries that stance without adding commentary or affirming that his answer is true.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-10",
+      "book_id": "genesis",
+      "reference": "Genesis 4:10",
+      "verse_anchor": "v4-10",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And God said, “What have you done? The voice of your brother’s blood cries unto Me from the earth.",
+      "candidate_text": "And God said, “What have you done? The voice of your brother’s blood cries unto Me from the earth.",
+      "candidate_sha256": "7a4bf5a960d95331e7021c06cd7183c2a1562d790964b7f0144bebde17a46885",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And God said, “What have you done? The voice of your brother’s blood cries unto Me from the earth.",
+        "spoken": "And God said, “What have you done? The voice of your brother’s blood cries unto Me from the earth.",
+        "literary": "And God said, “What have you done? The voice of your brother’s blood cries unto Me from the earth."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The voice of the brother's blood is singular and cries from the earth to God. The English preserves the personification, the source of the cry and its destination. The first question concerns Cain's action. No claim about the audible physical nature of blood or an added plurality of murdered descendants belongs in the translation.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-11",
+      "book_id": "genesis",
+      "reference": "Genesis 4:11",
+      "verse_anchor": "v4-11",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And now you are cursed from the earth, which opened its mouth to receive your brother’s blood from your hand.",
+      "candidate_text": "And now you are cursed from the earth, which opened its mouth to receive your brother’s blood from your hand.",
+      "candidate_sha256": "b8aa5bf9c0f29278a0ab1d6e181d87e62fe1301682272a620943e78bf91f14c9",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And now you are cursed from the earth, which opened its mouth to receive your brother’s blood from your hand.",
+        "spoken": "And now you are cursed from the earth, which opened its mouth to receive your brother’s blood from your hand.",
+        "literary": "And now you are cursed from the earth, which opened its mouth to receive your brother’s blood from your hand."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The declaration uses cursed from the earth, then personifies the earth as opening its mouth to receive the blood from Cain's hand. Keep both from phrases, the brother relationship and the hand image. The preposition after cursed can invite discussion of exclusion from the soil or the ground's involvement; do not resolve that question by replacing it with a different comparative construction.",
+      "unresolved_questions": [
+        "Force of from after cursed."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-12",
+      "book_id": "genesis",
+      "reference": "Genesis 4:12",
+      "verse_anchor": "v4-12",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "When you till the earth, it shall no longer yield its strength to you. You shall be groaning and trembling upon the earth.”",
+      "candidate_text": "When you till the earth, it shall no longer yield its strength to you. You shall be groaning and trembling upon the earth.”",
+      "candidate_sha256": "07979ad261dfc53dcfbb645a3a676562070696e3b0526d1ef034696f04a4cfe8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "For you till the earth, and it shall no longer give you its strength. You shall be groaning and trembling upon the earth.”",
+        "spoken": "When you till the earth, it shall no longer yield its strength to you. You shall be groaning and trembling upon the earth.”",
+        "literary": "When you till the earth, it shall no longer yield its strength to you. You shall be groaning and trembling upon the earth.”"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The tilling clause is introduced by an explanatory connective and leads to the ground no longer giving its strength. The inherited when gives the recurring circumstance naturally; for/because is the closer connective and remains an alternative for syntax review. The concluding state is groaning and trembling upon the earth, not an imported fugitive/wanderer pair. The close draft exposes the connective rather than silently claiming the two constructions identical.",
+      "unresolved_questions": [
+        "Explanatory connective versus temporal English when."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-13",
+      "book_id": "genesis",
+      "reference": "Genesis 4:13",
+      "verse_anchor": "v4-13",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Cain said to the Lord, “My guilt is too great for me to be forgiven.",
+      "candidate_text": "And Cain said to the Lord, “My guilt is too great for me to be forgiven.",
+      "candidate_sha256": "972c7be0c1fc31c47dd0a138a186ecf2417dd5d5e81d537f157cb8973c3a586d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Cain said to the Lord, “My guilt is too great for me to be forgiven.",
+        "spoken": "And Cain said to the Lord, “My guilt is too great for me to be forgiven.",
+        "literary": "And Cain said to the Lord, “My guilt is too great for me to be forgiven."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The comparison is my guilt/charge greater than my being forgiven. Guilt is a provisional sense of the accusation/responsibility noun; the infinitive is passive and its person is Cain. Retain too great for me to be forgiven instead of automatically importing punishment too great to bear. Whether the line is a despairing assertion or would benefit from interrogative English remains open; the printed running text uses a declarative presentation.",
+      "unresolved_questions": [
+        "Sense of guilt/charge and declarative versus interrogative presentation."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-14",
+      "book_id": "genesis",
+      "reference": "Genesis 4:14",
+      "verse_anchor": "v4-14",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "If Thou dost cast me out this day from the face of the earth, I shall be hidden from Thy face; and I shall be groaning and trembling upon the earth, and whoever finds me shall slay me.”",
+      "candidate_text": "If Thou dost cast me out this day from the face of the earth, I shall be hidden from Thy face; and I shall be groaning and trembling upon the earth, and whoever finds me shall slay me.”",
+      "candidate_sha256": "a0157ed2a340efc81ba1a2e3a598111d7b9ceaed1b068206c18b17b53b374086",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "If Thou dost cast me out this day from the face of the earth, I shall be hidden from Thy face; and I shall be groaning and trembling upon the earth, and whoever finds me shall slay me.”",
+        "spoken": "If Thou dost cast me out this day from the face of the earth, I shall be hidden from Thy face; and I shall be groaning and trembling upon the earth, and whoever finds me shall slay me.”",
+        "literary": "If Thou dost cast me out this day from the face of the earth, I shall be hidden from Thy face; and I shall be groaning and trembling upon the earth, and whoever finds me shall slay me.”"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The selected Greek begins with if and continues with hiding from the divine face, groaning and trembling, and the threat from every finder. Thou/Thy properly address God singularly. Whoever represents the distributive every person finding me. Preserve the conditional opening rather than turning it into an unqualified historical claim that expulsion has already occurred.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-15",
+      "book_id": "genesis",
+      "reference": "Genesis 4:15",
+      "verse_anchor": "v4-15",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And the Lord God said to him, “Not so. Whoever slays Cain shall incur sevenfold vengeance.” And the Lord God set a mark upon Cain, that no one finding him should slay him.",
+      "candidate_text": "And the Lord God said to him, “Not so. Whoever slays Cain shall incur sevenfold vengeance.” And the Lord God set a mark upon Cain, that no one finding him should slay him.",
+      "candidate_sha256": "75b8755d55ba39b269b1d9b209a775a6ed459cf96ff2878ddc61180bd75ac0be",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And the Lord God said to him, “Not so. Whoever slays Cain shall incur sevenfold vengeance.” And the Lord God set a mark upon Cain, that no one finding him should slay him.",
+        "spoken": "And the Lord God said to him, “Not so. Whoever slays Cain shall incur sevenfold vengeance.” And the Lord God set a mark upon Cain, that no one finding him should slay him.",
+        "literary": "And the Lord God said to him, “Not so. Whoever slays Cain shall incur sevenfold vengeance.” And the Lord God set a mark upon Cain, that no one finding him should slay him."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The response opens not so and contains a difficult sevenfold-vengeance construction, followed by the Lord God's placing a sign for Cain to prevent his killing by a finder. The inherited incur sevenfold vengeance is retained provisionally as the contextual consequence for the killer, not certified as a transparent word-for-word rendering of the unusual Greek verb/object combination. Mark does not identify a body location, physical form, ethnicity or hereditary trait. The difficult vengeance clause requires specialist and apparatus review.",
+      "unresolved_questions": [
+        "Unusual sevenfold-vengeance verb/object construction; mark form unspecified."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-16",
+      "book_id": "genesis",
+      "reference": "Genesis 4:16",
+      "verse_anchor": "v4-16",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Cain went out from the face of God and dwelt in the land of Nod, opposite Eden.",
+      "candidate_text": "And Cain went out from the face of God and dwelt in the land of Nod, opposite Eden.",
+      "candidate_sha256": "b89e98ffc45041a75fb99586dbb803d6298b42f2e26cc33bd0063d9268edf0db",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Cain went out from the face of God and dwelt in the land of Nod, opposite Eden.",
+        "spoken": "And Cain went out from the face of God and dwelt in the land of Nod, opposite Eden.",
+        "literary": "And Cain went out from the face of God and dwelt in the land of Nod, opposite Eden."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Cain leaves God's face/presence and lives in the land whose Greek name is Naid, opposite Edem. Retain established English Nod/Eden as name-authority forms rather than normalizing all names to fresh transliterations. Opposite is the selected spatial wording; do not silently substitute east simply because it is familiar from another source.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-17",
+      "book_id": "genesis",
+      "reference": "Genesis 4:17",
+      "verse_anchor": "v4-17",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Cain knew his wife, and she conceived and bore Enoch. And he was building a city, and named the city after his son Enoch.",
+      "candidate_text": "And Cain knew his wife, and she conceived and bore Enoch. And he was building a city, and named the city after his son Enoch.",
+      "candidate_sha256": "fab1c136d60c059c56bd14d34dcc36ff2b640ef28b9cb311261de5d7a4faa73c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Cain knew his wife, and she conceived and bore Enoch. And he was building a city, and named the city after his son Enoch.",
+        "spoken": "And Cain knew his wife, and she conceived and bore Enoch. And he was building a city, and named the city after his son Enoch.",
+        "literary": "And Cain knew his wife, and she conceived and bore Enoch. And he was building a city, and named the city after his son Enoch."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The conception/birth sequence names Enoch. The city-building description is durative in form: he was building, followed by naming it after his son. The implied builder is naturally Cain in context; the text does not quantify the city's inhabitants or say it was completed before the naming. The inherited chronology remains intact.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-18",
+      "book_id": "genesis",
+      "reference": "Genesis 4:18",
+      "verse_anchor": "v4-18",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And to Enoch was born Gaidad; and Gaidad begot Maiel; and Maiel begot Methuselah; and Methuselah begot Lamech.",
+      "candidate_text": "And to Enoch was born Gaidad; and Gaidad begot Maiel; and Maiel begot Methuselah; and Methuselah begot Lamech.",
+      "candidate_sha256": "33cef37baef40071a20954d1814249b2e9e61abb6d0da1a7f11f41f166ffd62c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And to Enoch was born Gaidad; and Gaidad begot Maiel; and Maiel begot Methuselah; and Methuselah begot Lamech.",
+        "spoken": "And to Enoch was born Gaidad; and Gaidad begot Maiel; and Maiel begot Methuselah; and Methuselah begot Lamech.",
+        "literary": "And to Enoch was born Gaidad; and Gaidad begot Maiel; and Maiel begot Methuselah; and Methuselah begot Lamech."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The genealogy contains Enoch, Gaidad, Maiel, Methuselah and Lamech in that order, with four linked generations after Enoch. Gaidad and Maiel reflect the selected Greek names and are not silently changed to conventional alternate forms. The repeated begetting relation is retained. Similar names in another genealogy do not establish personal identity.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-19",
+      "book_id": "genesis",
+      "reference": "Genesis 4:19",
+      "verse_anchor": "v4-19",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Lamech took two wives. The name of the first was Adah, and the name of the second was Zillah.",
+      "candidate_text": "And Lamech took two wives. The name of the first was Adah, and the name of the second was Zillah.",
+      "candidate_sha256": "d328400d75baa05b28611ba874254788c38e9a2305fd0757ec5cd0fe116a6a8a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Lamech took two wives for himself. The name of the one was Adah, and the name of the second was Zillah.",
+        "spoken": "And Lamech took two wives. The name of the first was Adah, and the name of the second was Zillah.",
+        "literary": "And Lamech took two wives. The name of the first was Adah, and the name of the second was Zillah."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Lamech takes two wives for himself. The source calls one Adah and the second Zillah; the inherited first is the natural counterpart to second rather than a separately attested ordinal. Both women remain distinct. The verse reports the action without added evaluation or an explanation of legal status.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-20",
+      "book_id": "genesis",
+      "reference": "Genesis 4:20",
+      "verse_anchor": "v4-20",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Adah bore Jabal; he was the father of those who dwell in tents and keep livestock.",
+      "candidate_text": "And Adah bore Jabal; he was the father of those who dwell in tents and keep livestock.",
+      "candidate_sha256": "0a3ab554e1fbe3c2364b46561f14cf0ada42a420f48b447791a3ceb5b11de0e8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Adah bore Jabal; he was the father of those who dwell in tents and keep livestock.",
+        "spoken": "And Adah bore Jabal; he was the father of those who dwell in tents and keep livestock.",
+        "literary": "And Adah bore Jabal; he was the father of those who dwell in tents and keep livestock."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Adah bears Jabal, identified as father of tent-dwelling livestock keepers. The inherited coordination dwell in tents and keep livestock expresses the two linked descriptors. Father is retained as the source's ancestral/origin expression without inserting an exclusive claim that no earlier person used a tent or kept an animal.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-21",
+      "book_id": "genesis",
+      "reference": "Genesis 4:21",
+      "verse_anchor": "v4-21",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "His brother’s name was Jubal; he introduced the psaltery and the lyre.",
+      "candidate_text": "His brother’s name was Jubal; he introduced the psaltery and the lyre.",
+      "candidate_sha256": "6ff78b7af7f51e003ee6a54ec61a44241ef89c29808393afc4170a9a8c2956b7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "His brother’s name was Jubal; he introduced the psaltery and the lyre.",
+        "spoken": "His brother’s name was Jubal; he introduced the psaltery and the lyre.",
+        "literary": "His brother’s name was Jubal; he introduced the psaltery and the lyre."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The brother is Jubal, and the source uses a demonstrating/introducing verb with psaltery and lyre. Introduced is retained provisionally; the text does not require invented to mean no preceding instrument existed. These are plucked-string instrument terms, not a substituted modern keyboard or generic music claim. Instrument identification remains a specialist question.",
+      "unresolved_questions": [
+        "Exact ancient instrument identification and force of introduced."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-22",
+      "book_id": "genesis",
+      "reference": "Genesis 4:22",
+      "verse_anchor": "v4-22",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Zillah also bore Thobel, a smith who worked bronze and iron with the hammer. And Thobel’s sister was Naamah.",
+      "candidate_text": "And Zillah also bore Thobel, a smith who worked bronze and iron with the hammer. And Thobel’s sister was Naamah.",
+      "candidate_sha256": "0bd6d1f9c76ad6d4b583d8e957c32dee92e53df528302f96791bc7eb7008ef8a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Zillah also bore Thobel, a smith who worked bronze and iron with the hammer. And Thobel’s sister was Naamah.",
+        "spoken": "And Zillah also bore Thobel, a smith who worked bronze and iron with the hammer. And Thobel’s sister was Naamah.",
+        "literary": "And Zillah also bore Thobel, a smith who worked bronze and iron with the hammer. And Thobel’s sister was Naamah."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Zillah also bears Thobel. The source describes hammer work and smithing in bronze and iron, and names Noema as his sister. The inherited Thobel/Naamah uses the existing name policy and retains the selected source's shorter male name; do not insert Cain. With the hammer realizes the hammer-worker description rather than adding an independently narrated action.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-23",
+      "book_id": "genesis",
+      "reference": "Genesis 4:23",
+      "verse_anchor": "v4-23",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Lamech said to his wives: Adah and Zillah, hear my voice; wives of Lamech, give ear to my words. For I have slain a man to my own hurt, and a young man to my own bruising.",
+      "candidate_text": "And Lamech said to his wives: Adah and Zillah, hear my voice; wives of Lamech, give ear to my words. For I have slain a man to my own hurt, and a young man to my own bruising.",
+      "candidate_sha256": "f2e3f89ecfee7a524881cad43d8a9fc14bb4e99563b1560f741b3f5de613b3bc",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Lamech said to his wives: Adah and Zillah, hear my voice; wives of Lamech, give ear to my words. For I have slain a man to my own hurt, and a young man to my own bruising.",
+        "spoken": "And Lamech said to his wives: Adah and Zillah, hear my voice; wives of Lamech, give ear to my words. For I have slain a man to my own hurt, and a young man to my own bruising.",
+        "literary": "And Lamech said to his wives: Adah and Zillah, hear my voice; wives of Lamech, give ear to my words. For I have slain a man to my own hurt, and a young man to my own bruising."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The speech addresses Adah and Zillah in parallel hearing clauses and repeats first-person injury language. Retain the unusual to my own hurt/bruising as a provisional rendering rather than silently changing it to because he wounded me. Whether the injury phrases state result, disadvantage or the occasion of the killing is unresolved. The paired man/young man may be poetic parallelism; the translation does not decide that there were two killings. Existing poetic line breaks must be preserved.",
+      "unresolved_questions": [
+        "Injury phrases and whether man/young man are parallel referents."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-24",
+      "book_id": "genesis",
+      "reference": "Genesis 4:24",
+      "verse_anchor": "v4-24",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "For Cain has been avenged sevenfold, but Lamech seventy times seven.",
+      "candidate_text": "For Cain has been avenged sevenfold, but Lamech seventy times seven.",
+      "candidate_sha256": "79ba39209458e407a27a57c6108ccc5010f5a3119727383d0d589e2b11225dc0",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "For vengeance has been exacted sevenfold from Cain, but from Lamech seventy times seven.",
+        "spoken": "For Cain has been avenged sevenfold, but Lamech seventy times seven.",
+        "literary": "For Cain has been avenged sevenfold, but Lamech seventy times seven."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "The Greek uses a perfect vengeance verb with from Cain and from Lamech, not Cain as its explicit subject, and expresses seventy times seven. The inherited Cain has been avenged is retained only provisionally: its implied beneficiary/subject interpretation needs review against the from construction. The close alternative exposes that preposition without resolving whether it denotes source, agency or an exaction from the named person. This is Lamech's poetic claim, not a new narrator endorsement or divine promise.",
+      "unresolved_questions": [
+        "Force of from Cain / from Lamech and whether the inherited passive subject correctly represents the construction."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-25",
+      "book_id": "genesis",
+      "reference": "Genesis 4:25",
+      "verse_anchor": "v4-25",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And Adam knew Eve his wife, and she conceived and bore a son, and named him Seth, saying, “For God has raised up another seed for me in place of Abel, whom Cain slew.”",
+      "candidate_text": "And Adam knew Eve his wife, and she conceived and bore a son, and named him Seth, saying, “For God has raised up another seed for me in place of Abel, whom Cain slew.”",
+      "candidate_sha256": "8cccde30df4982e1118bc290a7e337d5161e254aed2bbde7e1c59a1f4e914bfd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And Adam knew Eve his wife, and she conceived and bore a son, and named him Seth, saying, “For God has raised up another seed for me in place of Abel, whom Cain slew.”",
+        "spoken": "And Adam knew Eve his wife, and she conceived and bore a son, and named him Seth, saying, “For God has raised up another seed for me in place of Abel, whom Cain slew.”",
+        "literary": "And Adam knew Eve his wife, and she conceived and bore a son, and named him Seth, saying, “For God has raised up another seed for me in place of Abel, whom Cain slew.”"
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "Adam again appears with Eve, conception and a son's birth. The source at this point does not add the adverb again, so none is introduced into the verse. The feminine speaking participle identifies the mother's naming explanation: God has raised up another seed in Abel's place, whom Cain killed. Seed and raised up preserve the Greek imagery without forcing an individual messianic referent.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-004-genesis-4-26",
+      "book_id": "genesis",
+      "reference": "Genesis 4:26",
+      "verse_anchor": "v4-26",
+      "reading_section_id": "4",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "And to Seth also a son was born, and he named him Enosh. He hoped to call upon the name of the Lord God.",
+      "candidate_text": "And to Seth also a son was born, and he named him Enosh. He hoped to call upon the name of the Lord God.",
+      "candidate_sha256": "26c7c3b71f10f24d7e9a0b5659a06fef2a518193e05878215a25411554d15e61",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/GEN.4",
+        "accessed_on": "2026-11-12",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "And to Seth also a son was born, and he named him Enosh. He hoped to call upon the name of the Lord God.",
+        "spoken": "And to Seth also a son was born, and he named him Enosh. He hoped to call upon the name of the Lord God.",
+        "literary": "And to Seth also a son was born, and he named him Enosh. He hoped to call upon the name of the Lord God."
+      },
+      "draft_policy": "Stages retain identical wording where the source comparison supports the inherited English; close alternatives expose selected constructions. These are AI working stages, not human read-aloud results.",
+      "analysis": "A son is born to Seth, receives the name Enosh, and this man hoped to call upon the Lord God's name. The selected Greek hope verb is retained; it is not replaced with the familiar began formulation. He naturally refers to Enosh, but the evidence does not warrant a historical claim that no one previously invoked God. Lord God remains the actual pair of titles.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Verse-specific Greek running-text comparison; verse 7 additionally has all 19 source tokens aligned.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "date": "2026-11-13",
+  "units": 76,
+  "proposed": 0,
+  "retained": 76,
+  "checks": [
+    "Original book matches frozen baseline",
+    "Every scoped unit has exactly one authored decision",
+    "No unscoped or duplicate decisions",
+    "Nonempty close/spoken/literary stages",
+    "Explicit candidate hashes and unchanged stable identities"
+  ],
+  "limits": "Serialization and structural checks only; source reading is an explicitly recorded AI activity, not something this script performs. No human or apparatus review credited."
+}

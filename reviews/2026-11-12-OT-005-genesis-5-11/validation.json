@@ -1,0 +1,48 @@
+{
+  "batch_id": "OT-005",
+  "result": "pass",
+  "stored_units": 193,
+  "chapter_counts": {
+    "5": 32,
+    "6": 22,
+    "7": 24,
+    "8": 22,
+    "9": 29,
+    "10": 32,
+    "11": 32
+  },
+  "checks": [
+    "All assigned references covered exactly once in original order",
+    "Exact baseline text and IDs match pinned Git snapshot",
+    "Original local Genesis data equals pinned scoped snapshot",
+    "All candidate SHA-256 checksums match UTF-8 text",
+    "All three draft stages populated",
+    "All explicit chapter-five age sums agree with stated totals",
+    "Grouped Cainan text remains within v11-13",
+    "No changed poetic unit lacks display-text handling",
+    "All review/acceptance/publication limits remain explicit"
+  ],
+  "proposals": [
+    "Genesis 6:5",
+    "Genesis 6:20",
+    "Genesis 6:21",
+    "Genesis 7:9",
+    "Genesis 7:15",
+    "Genesis 7:19",
+    "Genesis 8:3",
+    "Genesis 8:19",
+    "Genesis 9:21",
+    "Genesis 9:24",
+    "Genesis 10:9",
+    "Genesis 11:7",
+    "Genesis 11:9"
+  ],
+  "not_claimed": [
+    "Exhaustive token alignment",
+    "Critical apparatus collation",
+    "Independent human Greek review",
+    "Human read-aloud review",
+    "Editorial acceptance",
+    "Website deployment"
+  ]
+}

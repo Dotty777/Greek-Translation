@@ -1,0 +1,2318 @@
+{
+  "batch_id": "OT-119",
+  "scope": "1 Kings 12; all 54 stored units including 23 lettered units",
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-1",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:1",
+      "verse_anchor": "v12-1",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "King Rehoboam went to Shechem, because all Israel were coming to Shechem to make him king.",
+      "candidate_text": "King Rehoboam went to Shechem, because all Israel were coming to Shechem to make him king.",
+      "candidate_sha256": "8cd0bbd6b4f9bdd728172e7dd0010cb0eb1aa050344914042c6a087cdf9a687e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "King Rehoboam went to Shechem, because all Israel were coming to Shechem to make him king.",
+        "spoken": "King Rehoboam went to Shechem, because all Israel were coming to Shechem to make him king.",
+        "literary": "King Rehoboam went to Shechem, because all Israel were coming to Shechem to make him king."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Rehoboam goes to Shechem where all Israel comes to make him king, preserving both occurrences of the location.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-3",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:3",
+      "verse_anchor": "v12-3",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The people spoke to King Rehoboam, saying,",
+      "candidate_text": "The people spoke to King Rehoboam, saying,",
+      "candidate_sha256": "10b6592ce248561a88358ff9b4b4ce4165d576c6ff47b4460d92693079fe58db",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The people spoke to King Rehoboam, saying,",
+        "spoken": "The people spoke to King Rehoboam, saying,",
+        "literary": "The people spoke to King Rehoboam, saying,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The people introduce their address to Rehoboam after the selected absence of verse 2; Jeroboam is not inserted as spokesman here.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-4",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:4",
+      "verse_anchor": "v12-4",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "“Your father made our collar heavy. Now lighten your father’s harsh servitude and his heavy collar, which he placed on us, and we will serve you.”",
+      "candidate_text": "“Your father made our collar heavy. Now lighten your father’s harsh servitude and his heavy collar, which he placed on us, and we will serve you.”",
+      "candidate_sha256": "c92a554f65312bc2980b8b627f16fd76aad0d8ffefb225b7b5e0c0544a4f64bb",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "“Your father made our collar heavy. Now lighten your father’s harsh servitude and his heavy collar, which he placed on us, and we will serve you.”",
+        "spoken": "“Your father made our collar heavy. Now lighten your father’s harsh servitude and his heavy collar, which he placed on us, and we will serve you.”",
+        "literary": "“Your father made our collar heavy. Now lighten your father’s harsh servitude and his heavy collar, which he placed on us, and we will serve you.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Heavy collar and harsh servitude are distinguished in the request for relief, followed by promised service.",
+      "unresolved_questions": [
+        "Collar preserves kloios; a different agricultural yoke image is not silently substituted."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-5",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:5",
+      "verse_anchor": "v12-5",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to them, “Go away until three days have passed, and return to me.” They went away.",
+      "candidate_text": "He said to them, “Go away until three days have passed, and return to me.” They went away.",
+      "candidate_sha256": "0bd9675e2f75be9a87f236ae5c79a42c4d6a05f3493a2f9eb87b51098d194f04",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to them, “Go away until three days have passed, and return to me.” They went away.",
+        "spoken": "He said to them, “Go away until three days have passed, and return to me.” They went away.",
+        "literary": "He said to them, “Go away until three days have passed, and return to me.” They went away."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The king orders departure and return after a three-day interval, and the people depart.",
+      "unresolved_questions": [
+        "The exact reckoning of until three days and the third-day return in verse 12 remains conventional narrative timing, not an asserted seventy-two-hour wait."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-6",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:6",
+      "verse_anchor": "v12-6",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king instructed the elders who had stood before Solomon his father while he was still alive, saying, “How do you advise me, so that I may answer this people?”",
+      "candidate_text": "The king instructed the elders who had stood before Solomon his father while he was still alive, saying, “How do you advise me, so that I may answer this people?”",
+      "candidate_sha256": "d8189e9b95fb2c51e206f95239bbb8c39cf42a82c01ccd302d9453c35b89aa12",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king instructed the elders who had stood before Solomon his father while he was still alive, saying, “How do you advise me, so that I may answer this people?”",
+        "spoken": "The king instructed the elders who had stood before Solomon his father while he was still alive, saying, “How do you advise me, so that I may answer this people?”",
+        "literary": "The king instructed the elders who had stood before Solomon his father while he was still alive, saying, “How do you advise me, so that I may answer this people?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Elders who served the living Solomon are asked for counsel about answering the people, preserving the former service qualification.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-7",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:7",
+      "verse_anchor": "v12-7",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "They said to him, “If this day you become this people’s servant, serve them, and speak good words to them, they will be your servants always.”",
+      "candidate_text": "They said to him, “If this day you become this people’s servant, serve them, and speak good words to them, they will be your servants always.”",
+      "candidate_sha256": "e6881cbff732d1456af61b38cb5e5be0609665ea48c2aad0d3e959597b231f66",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "They said to him, “If this day you become this people’s servant, serve them, and speak good words to them, they will be your servants always.”",
+        "spoken": "They said to him, “If this day you become this people’s servant, serve them, and speak good words to them, they will be your servants always.”",
+        "literary": "They said to him, “If this day you become this people’s servant, serve them, and speak good words to them, they will be your servants always.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Becoming a servant this day, serving and speaking good words precede the promise of their lasting service; the reversal is retained.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-8",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:8",
+      "verse_anchor": "v12-8",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He abandoned the elders’ counsel which they had given him and consulted the young men who had been brought up with him and stood before him.",
+      "candidate_text": "He abandoned the elders’ counsel which they had given him and consulted the young men who had been brought up with him and stood before him.",
+      "candidate_sha256": "8605901c002337193bccbd72db468c1f3f8c79e78b44a59fb3c90c0f185b35f6",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He abandoned the elders’ counsel which they had given him and consulted the young men who had been brought up with him and stood before him.",
+        "spoken": "He abandoned the elders’ counsel which they had given him and consulted the young men who had been brought up with him and stood before him.",
+        "literary": "He abandoned the elders’ counsel which they had given him and consulted the young men who had been brought up with him and stood before him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Abandoning elder counsel precedes consulting the young men raised with and attending him, retaining both descriptions.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-9",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:9",
+      "verse_anchor": "v12-9",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to them, “What do you advise, and what shall I answer this people who said to me, ‘Lighten the collar your father placed on us’?”",
+      "candidate_text": "He said to them, “What do you advise, and what shall I answer this people who said to me, ‘Lighten the collar your father placed on us’?”",
+      "candidate_sha256": "23ad8bd95e0441695aff47e019fd1f4e363197f4ce8dd18db5f5093f3e5b27c5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to them, “What do you advise, and what shall I answer this people who said to me, ‘Lighten the collar your father placed on us’?”",
+        "spoken": "He said to them, “What do you advise, and what shall I answer this people who said to me, ‘Lighten the collar your father placed on us’?”",
+        "literary": "He said to them, “What do you advise, and what shall I answer this people who said to me, ‘Lighten the collar your father placed on us’?”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The double advice/answer question repeats the people's collar-relief request, without adding a response yet.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-10",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:10",
+      "verse_anchor": "v12-10",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The young men who had been brought up with him and stood before him said, “Thus speak to this people who told you, ‘Your father made our collar heavy; now lighten it for us.’ Thus speak to them: ‘My little part is thicker than my father’s loins.",
+      "candidate_text": "The young men who had been brought up with him and stood before him said, “Thus speak to this people who told you, ‘Your father made our collar heavy; now lighten it for us.’ Thus speak to them: ‘My little part is thicker than my father’s loins.",
+      "candidate_sha256": "5c4e018c81c278e3196fc9e14be6da611fc711722a5e4cc89bcf1cacc86d066a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The young men who had been brought up with him and stood before him said, “Thus speak to this people who told you, ‘Your father made our collar heavy; now lighten it for us.’ Thus speak to them: ‘My little part is thicker than my father’s loins.",
+        "spoken": "The young men who had been brought up with him and stood before him said, “Thus speak to this people who told you, ‘Your father made our collar heavy; now lighten it for us.’ Thus speak to them: ‘My little part is thicker than my father’s loins.",
+        "literary": "The young men who had been brought up with him and stood before him said, “Thus speak to this people who told you, ‘Your father made our collar heavy; now lighten it for us.’ Thus speak to them: ‘My little part is thicker than my father’s loins."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The repeated instruction thus speak, reported complaint and little-part versus father's-loins boast remain.",
+      "unresolved_questions": [
+        "Little part interprets mikrotes minimally; finger or a particular sexual referent is not supplied as a settled reading."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-11",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:11",
+      "verse_anchor": "v12-11",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Now my father burdened you with a heavy collar, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.’”",
+      "candidate_text": "Now my father burdened you with a heavy collar, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.’”",
+      "candidate_sha256": "d433a5c4b2fb7f1c0b30a87976ba9678dd7c635f8c8137c7e5a75c0d0661ec84",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Now my father burdened you with a heavy collar, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.’”",
+        "spoken": "Now my father burdened you with a heavy collar, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.’”",
+        "literary": "Now my father burdened you with a heavy collar, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Added collar burden and the whip/scorpion contrast preserve the threat and future discipline language.",
+      "unresolved_questions": [
+        "Scorpions retains the image without deciding whether it names an implement or literal animals."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-12",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:12",
+      "verse_anchor": "v12-12",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All Israel came to King Rehoboam on the third day, as the king had told them, “Return to me on the third day.”",
+      "candidate_text": "All Israel came to King Rehoboam on the third day, as the king had told them, “Return to me on the third day.”",
+      "candidate_sha256": "87d87240f9a5a9b4078b649fa102c8166be6c1a8929d3e011bfe30242169beb0",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All Israel came to King Rehoboam on the third day, as the king had told them, “Return to me on the third day.”",
+        "spoken": "All Israel came to King Rehoboam on the third day, as the king had told them, “Return to me on the third day.”",
+        "literary": "All Israel came to King Rehoboam on the third day, as the king had told them, “Return to me on the third day.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "All Israel returns on the third day according to the repeated royal instruction; Jeroboam is not added to the subject.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-13",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:13",
+      "verse_anchor": "v12-13",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king answered the people harshly, and Rehoboam abandoned the elders’ counsel which they had given him.",
+      "candidate_text": "The king answered the people harshly, and Rehoboam abandoned the elders’ counsel which they had given him.",
+      "candidate_sha256": "876e829c9a15456d9a2bae01c0b70546b75b7066afa53d3d58bca1be4f7d6a0a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king answered the people harshly, and Rehoboam abandoned the elders’ counsel which they had given him.",
+        "spoken": "The king answered the people harshly, and Rehoboam abandoned the elders’ counsel which they had given him.",
+        "literary": "The king answered the people harshly, and Rehoboam abandoned the elders’ counsel which they had given him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Harsh answer and renewed rejection of the elders' advice remain as separate narrative assertions.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-14",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:14",
+      "verse_anchor": "v12-14",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He spoke to them according to the young men’s counsel: “My father made your collar heavy, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.”",
+      "candidate_text": "He spoke to them according to the young men’s counsel: “My father made your collar heavy, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.”",
+      "candidate_sha256": "2f7da59de793ca4ccb43a25efcb5c86eaf3aab5d997120e5050234f5f0d169a3",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He spoke to them according to the young men’s counsel: “My father made your collar heavy, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.”",
+        "spoken": "He spoke to them according to the young men’s counsel: “My father made your collar heavy, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.”",
+        "literary": "He spoke to them according to the young men’s counsel: “My father made your collar heavy, but I will add to your collar. My father disciplined you with whips, but I will discipline you with scorpions.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The delivered answer repeats collar increase and whip/scorpion discipline but does not import the earlier little-part boast into this unit.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-15",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:15",
+      "verse_anchor": "v12-15",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king did not listen to the people, for the turn of events came from the Lord, to establish His word which He had spoken through Ahijah the Shilonite concerning Jeroboam son of Nebat.",
+      "candidate_text": "The king did not listen to the people, for the turn of events came from the Lord, to establish His word which He had spoken through Ahijah the Shilonite concerning Jeroboam son of Nebat.",
+      "candidate_sha256": "eb6264c81d5d681291633050b0caa4abdc249b45cc4a02a7cc4168774b0d6a05",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king did not listen to the people, for the turn of events came from the Lord, to establish His word which He had spoken through Ahijah the Shilonite concerning Jeroboam son of Nebat.",
+        "spoken": "The king did not listen to the people, for the turn of events came from the Lord, to establish His word which He had spoken through Ahijah the Shilonite concerning Jeroboam son of Nebat.",
+        "literary": "The king did not listen to the people, for the turn of events came from the Lord, to establish His word which He had spoken through Ahijah the Shilonite concerning Jeroboam son of Nebat."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Failure to listen is explained by the Lord's turn of events establishing the Ahijah word concerning Jeroboam; divine causation remains explicit.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-16",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:16",
+      "verse_anchor": "v12-16",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All Israel saw that the king had not listened to them. The people answered the king, “What share have we in David? We have no inheritance in Jesse’s son. Run away to your tents, Israel! Now shepherd your own house, David!” Israel went to their tents.",
+      "candidate_text": "All Israel saw that the king had not listened to them. The people answered the king, “What share have we in David? We have no inheritance in Jesse’s son. Run away to your tents, Israel! Now shepherd your own house, David!” Israel went to their tents.",
+      "candidate_sha256": "2f9bcefbd5739d6ba0fbab2bb6a7d778f2390fd82297cf1b9aa81dba1918b3df",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All Israel saw that the king had not listened to them. The people answered the king, “What share have we in David? We have no inheritance in Jesse’s son. Run away to your tents, Israel! Now shepherd your own house, David!” Israel went to their tents.",
+        "spoken": "All Israel saw that the king had not listened to them. The people answered the king, “What share have we in David? We have no inheritance in Jesse’s son. Run away to your tents, Israel! Now shepherd your own house, David!” Israel went to their tents.",
+        "literary": "All Israel saw that the king had not listened to them. The people answered the king, “What share have we in David? We have no inheritance in Jesse’s son. Run away to your tents, Israel! Now shepherd your own house, David!” Israel went to their tents."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "No Davidic share, no inheritance in Jesse's son, flight to tents and shepherd your house retain the complete revolt speech and subsequent departure.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-18",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:18",
+      "verse_anchor": "v12-18",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king sent Adoniram, who supervised the tribute. All Israel stoned him with stones, and he died. King Rehoboam managed to go up and flee to Jerusalem.",
+      "candidate_text": "The king sent Adoniram, who supervised the tribute. All Israel stoned him with stones, and he died. King Rehoboam managed to go up and flee to Jerusalem.",
+      "candidate_sha256": "bf41c5b3d6ddc5adc8e5359519f4f84279e7c4b105ac1461dd4c76863bf239ba",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king sent Adoniram, who supervised the tribute. All Israel stoned him with stones, and he died. King Rehoboam managed to go up and flee to Jerusalem.",
+        "spoken": "The king sent Adoniram, who supervised the tribute. All Israel stoned him with stones, and he died. King Rehoboam managed to go up and flee to Jerusalem.",
+        "literary": "The king sent Adoniram, who supervised the tribute. All Israel stoned him with stones, and he died. King Rehoboam managed to go up and flee to Jerusalem."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Adoniram's tribute office, all-Israel stoning and death and Rehoboam's managed ascent and flight remain.",
+      "unresolved_questions": [
+        "No chariot is supplied in this account's unexpressed ascent object, unlike the explicit chariot in 24u."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-19",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:19",
+      "verse_anchor": "v12-19",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Israel rejected David’s house, as it remains to this day.",
+      "candidate_text": "Israel rejected David’s house, as it remains to this day.",
+      "candidate_sha256": "a00a557508bee3186eae65b7de13ba3bbdcb51b0f98eaf95fb14fce6f52f0d5e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Israel rejected David’s house, as it remains to this day.",
+        "spoken": "Israel rejected David’s house, as it remains to this day.",
+        "literary": "Israel rejected David’s house, as it remains to this day."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Israel's rejection of David's house lasts to the narrator's this day, without a modern historical endpoint.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-20",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:20",
+      "verse_anchor": "v12-20",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "When all Israel heard that Jeroboam had returned from Egypt, they sent and called him to the assembly and made him king over Israel. None followed David’s house except Judah’s scepter and Benjamin alone.",
+      "candidate_text": "When all Israel heard that Jeroboam had returned from Egypt, they sent and called him to the assembly and made him king over Israel. None followed David’s house except Judah’s scepter and Benjamin alone.",
+      "candidate_sha256": "14c862cd151d56ec7cd2aaac69db5a2313170bba6f446df48aafc64d7da62bea",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "When all Israel heard that Jeroboam had returned from Egypt, they sent and called him to the assembly and made him king over Israel. None followed David’s house except Judah’s scepter and Benjamin alone.",
+        "spoken": "When all Israel heard that Jeroboam had returned from Egypt, they sent and called him to the assembly and made him king over Israel. None followed David’s house except Judah’s scepter and Benjamin alone.",
+        "literary": "When all Israel heard that Jeroboam had returned from Egypt, they sent and called him to the assembly and made him king over Israel. None followed David’s house except Judah’s scepter and Benjamin alone."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jeroboam's return from Egypt, summons, assembly and kingship precede the exception of Judah's scepter and Benjamin alone.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-21",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:21",
+      "verse_anchor": "v12-21",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Rehoboam entered Jerusalem and summoned Judah’s assembly and Benjamin’s scepter: a hundred twenty thousand young warriors, to fight Israel’s house and restore the kingdom to Rehoboam son of Solomon.",
+      "candidate_text": "Rehoboam entered Jerusalem and summoned Judah’s assembly and Benjamin’s scepter: a hundred twenty thousand young warriors, to fight Israel’s house and restore the kingdom to Rehoboam son of Solomon.",
+      "candidate_sha256": "b9cda11c14b90d0afeb6a50b8bf989a2296fff86053541910fc2db14cb98ba94",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Rehoboam entered Jerusalem and summoned Judah’s assembly and Benjamin’s scepter: a hundred twenty thousand young warriors, to fight Israel’s house and restore the kingdom to Rehoboam son of Solomon.",
+        "spoken": "Rehoboam entered Jerusalem and summoned Judah’s assembly and Benjamin’s scepter: a hundred twenty thousand young warriors, to fight Israel’s house and restore the kingdom to Rehoboam son of Solomon.",
+        "literary": "Rehoboam entered Jerusalem and summoned Judah’s assembly and Benjamin’s scepter: a hundred twenty thousand young warriors, to fight Israel’s house and restore the kingdom to Rehoboam son of Solomon."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Judah and Benjamin muster one hundred twenty thousand young warriors to recover Rehoboam's kingdom; 180,000 is not substituted.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-22",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:22",
+      "verse_anchor": "v12-22",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The word of the Lord came to Shemaiah, the man of God, saying,",
+      "candidate_text": "The word of the Lord came to Shemaiah, the man of God, saying,",
+      "candidate_sha256": "cae0c5d4819cbdaefba326bd3190cd6d9f7f5df824dd8b09a921f2ef7240ea7c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The word of the Lord came to Shemaiah, the man of God, saying,",
+        "spoken": "The word of the Lord came to Shemaiah, the man of God, saying,",
+        "literary": "The word of the Lord came to Shemaiah, the man of God, saying,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The Lord's word comes to Shemaiah identified as man of God, opening the command.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-23",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:23",
+      "verse_anchor": "v12-23",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "“Say to Rehoboam son of Solomon, king of Judah, to all Judah’s house and Benjamin, and to the rest of the people:",
+      "candidate_text": "“Say to Rehoboam son of Solomon, king of Judah, to all Judah’s house and Benjamin, and to the rest of the people:",
+      "candidate_sha256": "ffadcb1528b5c1ebf46c137dcb803c49540efed453af7f14b532d81ba157d03a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "“Say to Rehoboam son of Solomon, king of Judah, to all Judah’s house and Benjamin, and to the rest of the people:",
+        "spoken": "“Say to Rehoboam son of Solomon, king of Judah, to all Judah’s house and Benjamin, and to the rest of the people:",
+        "literary": "“Say to Rehoboam son of Solomon, king of Judah, to all Judah’s house and Benjamin, and to the rest of the people:"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Rehoboam's parentage and Judah kingship, all Judah's house, Benjamin and the remaining people are separately addressed.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24",
+      "verse_anchor": "v12-24",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Let each return to his own house, because this matter has come from Me.’” They listened to the Lord’s word and stopped going, according to the Lord’s word.",
+      "candidate_text": "‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Let each return to his own house, because this matter has come from Me.’” They listened to the Lord’s word and stopped going, according to the Lord’s word.",
+      "candidate_sha256": "602859566809ad474ad12fb7f4f4d8b1ea2549134241c8adf6c74c02279c9f68",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Let each return to his own house, because this matter has come from Me.’” They listened to the Lord’s word and stopped going, according to the Lord’s word.",
+        "spoken": "‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Let each return to his own house, because this matter has come from Me.’” They listened to the Lord’s word and stopped going, according to the Lord’s word.",
+        "literary": "‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Let each return to his own house, because this matter has come from Me.’” They listened to the Lord’s word and stopped going, according to the Lord’s word."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The double prohibition of ascent and fighting brothers, return-home command and divine origin of the matter lead to obedience and halted departure.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24a",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24a",
+      "verse_anchor": "v12-24a",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "King Solomon slept with his fathers and was buried with his fathers in the City of David. Rehoboam his son reigned in his place in Jerusalem. He was sixteen years old when he became king, and reigned twelve years in Jerusalem. His mother’s name was Naanan, daughter of Anan son of Nahash, king of the sons of Ammon. He did evil before the Lord and did not walk in the way of David his father.",
+      "candidate_text": "King Solomon slept with his fathers and was buried with his fathers in the City of David. Rehoboam his son reigned in his place in Jerusalem. He was sixteen years old when he became king, and reigned twelve years in Jerusalem. His mother’s name was Naanan, daughter of Anan son of Nahash, king of the sons of Ammon. He did evil before the Lord and did not walk in the way of David his father.",
+      "candidate_sha256": "a3525a8777b67b52777f7042dff39ddf10d9c15c66c41675867309411419acea",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "King Solomon slept with his fathers and was buried with his fathers in the City of David. Rehoboam his son reigned in his place in Jerusalem. He was sixteen years old when he became king, and reigned twelve years in Jerusalem. His mother’s name was Naanan, daughter of Anan son of Nahash, king of the sons of Ammon. He did evil before the Lord and did not walk in the way of David his father.",
+        "spoken": "King Solomon slept with his fathers and was buried with his fathers in the City of David. Rehoboam his son reigned in his place in Jerusalem. He was sixteen years old when he became king, and reigned twelve years in Jerusalem. His mother’s name was Naanan, daughter of Anan son of Nahash, king of the sons of Ammon. He did evil before the Lord and did not walk in the way of David his father.",
+        "literary": "King Solomon slept with his fathers and was buried with his fathers in the City of David. Rehoboam his son reigned in his place in Jerusalem. He was sixteen years old when he became king, and reigned twelve years in Jerusalem. His mother’s name was Naanan, daughter of Anan son of Nahash, king of the sons of Ammon. He did evil before the Lord and did not walk in the way of David his father."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The alternate account repeats Solomon's death and burial, then gives Rehoboam age sixteen, twelve-year reign and Naanan daughter of Anan son of Nahash of Ammon.",
+      "unresolved_questions": [
+        "All selected ages, genealogy and evil/not-Davidic-way assessment remain without harmonization to the later royal summary."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24b",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24b",
+      "verse_anchor": "v12-24b",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "There was a man from Ephraim’s hill country, Solomon’s servant, whose name was Jeroboam. His mother’s name was Sarira, a prostitute. Solomon made him a ruler of the staff over the burdens of Joseph’s house. He built Sarira in Ephraim’s hill country for Solomon, and he had three hundred horse-drawn chariots. He built the citadel through the burdens of Ephraim’s house; he enclosed the City of David and was rising up against the kingdom.",
+      "candidate_text": "There was a man from Ephraim’s hill country, Solomon’s servant, whose name was Jeroboam. His mother’s name was Sarira, a prostitute. Solomon made him a ruler of the staff over the burdens of Joseph’s house. He built Sarira in Ephraim’s hill country for Solomon, and he had three hundred horse-drawn chariots. He built the citadel through the burdens of Ephraim’s house; he enclosed the City of David and was rising up against the kingdom.",
+      "candidate_sha256": "ba3c0db4f3b253bb6cab09ab3deba6b9b07f3bf4a26b56b34bedb054595b80fd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "There was a man from Ephraim’s hill country, Solomon’s servant, whose name was Jeroboam. His mother’s name was Sarira, a prostitute. Solomon made him a ruler of the staff over the burdens of Joseph’s house. He built Sarira in Ephraim’s hill country for Solomon, and he had three hundred horse-drawn chariots. He built the citadel through the burdens of Ephraim’s house; he enclosed the City of David and was rising up against the kingdom.",
+        "spoken": "There was a man from Ephraim’s hill country, Solomon’s servant, whose name was Jeroboam. His mother’s name was Sarira, a prostitute. Solomon made him a ruler of the staff over the burdens of Joseph’s house. He built Sarira in Ephraim’s hill country for Solomon, and he had three hundred horse-drawn chariots. He built the citadel through the burdens of Ephraim’s house; he enclosed the City of David and was rising up against the kingdom.",
+        "literary": "There was a man from Ephraim’s hill country, Solomon’s servant, whose name was Jeroboam. His mother’s name was Sarira, a prostitute. Solomon made him a ruler of the staff over the burdens of Joseph’s house. He built Sarira in Ephraim’s hill country for Solomon, and he had three hundred horse-drawn chariots. He built the citadel through the burdens of Ephraim’s house; he enclosed the City of David and was rising up against the kingdom."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jeroboam's Ephraim origin, mother Sarira a prostitute, staff-rule over Joseph's burdens, Sarira building, three hundred chariots, citadel and David-city work and royal uprising remain.",
+      "unresolved_questions": [
+        "Ruler of the staff is provisional; the repeated this-one builder here is retained as Jeroboam, without resolving the unnamed builder in 11:27. The possessive of the chariot clause remains open."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24c",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24c",
+      "verse_anchor": "v12-24c",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Solomon sought to put him to death. He became afraid and fled to Shishak king of Egypt, and remained with him until Solomon died.",
+      "candidate_text": "Solomon sought to put him to death. He became afraid and fled to Shishak king of Egypt, and remained with him until Solomon died.",
+      "candidate_sha256": "3273346c1ec1ba09c97e5a85c0f136251d536488c1aff8309a42ab5230a3e591",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Solomon sought to put him to death. He became afraid and fled to Shishak king of Egypt, and remained with him until Solomon died.",
+        "spoken": "Solomon sought to put him to death. He became afraid and fled to Shishak king of Egypt, and remained with him until Solomon died.",
+        "literary": "Solomon sought to put him to death. He became afraid and fled to Shishak king of Egypt, and remained with him until Solomon died."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Solomon seeks his death; the fearful Jeroboam escapes to Shishak and stays until Solomon dies, retaining the full repeated exile notice.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24d",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24d",
+      "verse_anchor": "v12-24d",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jeroboam heard in Egypt that Solomon was dead. He spoke in the ears of Shishak king of Egypt, saying, “Send me away, so I may go to my land.” Shishak said to him, “Ask for something, and I will give it to you.”",
+      "candidate_text": "Jeroboam heard in Egypt that Solomon was dead. He spoke in the ears of Shishak king of Egypt, saying, “Send me away, so I may go to my land.” Shishak said to him, “Ask for something, and I will give it to you.”",
+      "candidate_sha256": "17f4d8a2f2de0d79eb112b8d1e9e260471a8123a482b9e8e8a990d20d0907b28",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Jeroboam heard in Egypt that Solomon was dead. He spoke in the ears of Shishak king of Egypt, saying, “Send me away, so I may go to my land.” Shishak said to him, “Ask for something, and I will give it to you.”",
+        "spoken": "Jeroboam heard in Egypt that Solomon was dead. He spoke in the ears of Shishak king of Egypt, saying, “Send me away, so I may go to my land.” Shishak said to him, “Ask for something, and I will give it to you.”",
+        "literary": "Jeroboam heard in Egypt that Solomon was dead. He spoke in the ears of Shishak king of Egypt, saying, “Send me away, so I may go to my land.” Shishak said to him, “Ask for something, and I will give it to you.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jeroboam hears of the death, asks in Shishak's ears for release and receives an offer to request a gift; ordinary human address remains.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24e",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24e",
+      "verse_anchor": "v12-24e",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Shishak gave Jeroboam Ano as wife, the older sister of Thekemina his wife. She was prominent among the king’s daughters, and she bore Jeroboam his son Abijah.",
+      "candidate_text": "Shishak gave Jeroboam Ano as wife, the older sister of Thekemina his wife. She was prominent among the king’s daughters, and she bore Jeroboam his son Abijah.",
+      "candidate_sha256": "cecf977f9d3aeb79cf94f08d6361179bfc4fba12c7c15939f380ca308facc689",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Shishak gave Jeroboam Ano as wife, the older sister of Thekemina his wife. She was prominent among the king’s daughters, and she bore Jeroboam his son Abijah.",
+        "spoken": "Shishak gave Jeroboam Ano as wife, the older sister of Thekemina his wife. She was prominent among the king’s daughters, and she bore Jeroboam his son Abijah.",
+        "literary": "Shishak gave Jeroboam Ano as wife, the older sister of Thekemina his wife. She was prominent among the king’s daughters, and she bore Jeroboam his son Abijah."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Ano, older sister of Thekemina, her prominence among royal daughters and birth of Abijah remain in this distinct marriage account.",
+      "unresolved_questions": [
+        "The appositional relationships and royal-daughter designation are preserved, not merged with Ader's similar marriage story."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24f",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24f",
+      "verse_anchor": "v12-24f",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jeroboam said to Shishak, “Do send me away, so I may go.” Jeroboam left Egypt and came to the land of Sarira in Ephraim’s hill country. All Ephraim’s scepter gathered there, and Jeroboam built a stockade there.",
+      "candidate_text": "Jeroboam said to Shishak, “Do send me away, so I may go.” Jeroboam left Egypt and came to the land of Sarira in Ephraim’s hill country. All Ephraim’s scepter gathered there, and Jeroboam built a stockade there.",
+      "candidate_sha256": "e05dc345af58a7e7a38116adc00988e9f705bac96c29c88e4b6c0952bd8f0cd4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Jeroboam said to Shishak, “Do send me away, so I may go.” Jeroboam left Egypt and came to the land of Sarira in Ephraim’s hill country. All Ephraim’s scepter gathered there, and Jeroboam built a stockade there.",
+        "spoken": "Jeroboam said to Shishak, “Do send me away, so I may go.” Jeroboam left Egypt and came to the land of Sarira in Ephraim’s hill country. All Ephraim’s scepter gathered there, and Jeroboam built a stockade there.",
+        "literary": "Jeroboam said to Shishak, “Do send me away, so I may go.” Jeroboam left Egypt and came to the land of Sarira in Ephraim’s hill country. All Ephraim’s scepter gathered there, and Jeroboam built a stockade there."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Emphatic release request, Egypt departure, Sarira arrival, all Ephraim's gathering and stockade construction remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24g",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24g",
+      "verse_anchor": "v12-24g",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "His child fell very seriously ill. Jeroboam went to inquire about the child, and said to Ano his wife, “Rise and go; inquire of God about the child, whether he will live through his illness.”",
+      "candidate_text": "His child fell very seriously ill. Jeroboam went to inquire about the child, and said to Ano his wife, “Rise and go; inquire of God about the child, whether he will live through his illness.”",
+      "candidate_sha256": "420c7f58b983b14e85db16e307350a2776bd38e9c11691a7ed50fdaa03de3209",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "His child fell very seriously ill. Jeroboam went to inquire about the child, and said to Ano his wife, “Rise and go; inquire of God about the child, whether he will live through his illness.”",
+        "spoken": "His child fell very seriously ill. Jeroboam went to inquire about the child, and said to Ano his wife, “Rise and go; inquire of God about the child, whether he will live through his illness.”",
+        "literary": "His child fell very seriously ill. Jeroboam went to inquire about the child, and said to Ano his wife, “Rise and go; inquire of God about the child, whether he will live through his illness.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The very severe illness, Jeroboam's going to inquire and instruction to Ano to ask God about survival remain.",
+      "unresolved_questions": [
+        "Jeroboam's own going is not removed to reconcile his subsequent sending of his wife."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24h",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24h",
+      "verse_anchor": "v12-24h",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "There was a man in Shiloh named Ahijah. He was sixty years old, and the Lord’s word was with him. Jeroboam said to his wife, “Rise and take in your hand for the man of God loaves, little cakes for his children, grapes, and a jar of honey.”",
+      "candidate_text": "There was a man in Shiloh named Ahijah. He was sixty years old, and the Lord’s word was with him. Jeroboam said to his wife, “Rise and take in your hand for the man of God loaves, little cakes for his children, grapes, and a jar of honey.”",
+      "candidate_sha256": "44c9a62fa4bf65e64bb9c99f3f621c185217573a16cd90ab24bd84ff254ea5e1",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "There was a man in Shiloh named Ahijah. He was sixty years old, and the Lord’s word was with him. Jeroboam said to his wife, “Rise and take in your hand for the man of God loaves, little cakes for his children, grapes, and a jar of honey.”",
+        "spoken": "There was a man in Shiloh named Ahijah. He was sixty years old, and the Lord’s word was with him. Jeroboam said to his wife, “Rise and take in your hand for the man of God loaves, little cakes for his children, grapes, and a jar of honey.”",
+        "literary": "There was a man in Shiloh named Ahijah. He was sixty years old, and the Lord’s word was with him. Jeroboam said to his wife, “Rise and take in your hand for the man of God loaves, little cakes for his children, grapes, and a jar of honey.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Ahijah at Shiloh is sixty and has the Lord's word; bread, little cakes for his children, grapes and a honey jar are specified.",
+      "unresolved_questions": [
+        "The pronoun his in for his children is retained without asserting whether Ahijah's or another household is intended."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24i",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24i",
+      "verse_anchor": "v12-24i",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The woman rose and took in her hand loaves, two little cakes, grapes, and a jar of honey for Ahijah. The man was old, and his eyes were dim for seeing.",
+      "candidate_text": "The woman rose and took in her hand loaves, two little cakes, grapes, and a jar of honey for Ahijah. The man was old, and his eyes were dim for seeing.",
+      "candidate_sha256": "1de4a0de8e0bb2e1d707d0cb85c82276d7a95954d6e76bcfa01622c8e7347817",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The woman rose and took in her hand loaves, two little cakes, grapes, and a jar of honey for Ahijah. The man was old, and his eyes were dim for seeing.",
+        "spoken": "The woman rose and took in her hand loaves, two little cakes, grapes, and a jar of honey for Ahijah. The man was old, and his eyes were dim for seeing.",
+        "literary": "The woman rose and took in her hand loaves, two little cakes, grapes, and a jar of honey for Ahijah. The man was old, and his eyes were dim for seeing."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The woman's actual supplies include two cakes, and Ahijah's old age and dim eyesight remain.",
+      "unresolved_questions": [
+        "Two is retained only where stated here; the earlier general cake instruction is not retroactively numbered."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24k",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24k",
+      "verse_anchor": "v12-24k",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "She set out from Sarira and went. When she entered the city to see Ahijah the Shilonite, Ahijah said to his young attendant, “Go out now to meet Ano, Jeroboam’s wife, and say to her, ‘Come in, and do not stand there, because thus says the Lord: I will send harsh things upon you.’”",
+      "candidate_text": "She set out from Sarira and went. When she entered the city to see Ahijah the Shilonite, Ahijah said to his young attendant, “Go out now to meet Ano, Jeroboam’s wife, and say to her, ‘Come in, and do not stand there, because thus says the Lord: I will send harsh things upon you.’”",
+      "candidate_sha256": "95274477feab1afcece299a017076d98f3a48be5c66103f624f56f95d5c666f8",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "She set out from Sarira and went. When she entered the city to see Ahijah the Shilonite, Ahijah said to his young attendant, “Go out now to meet Ano, Jeroboam’s wife, and say to her, ‘Come in, and do not stand there, because thus says the Lord: I will send harsh things upon you.’”",
+        "spoken": "She set out from Sarira and went. When she entered the city to see Ahijah the Shilonite, Ahijah said to his young attendant, “Go out now to meet Ano, Jeroboam’s wife, and say to her, ‘Come in, and do not stand there, because thus says the Lord: I will send harsh things upon you.’”",
+        "literary": "She set out from Sarira and went. When she entered the city to see Ahijah the Shilonite, Ahijah said to his young attendant, “Go out now to meet Ano, Jeroboam’s wife, and say to her, ‘Come in, and do not stand there, because thus says the Lord: I will send harsh things upon you.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The Sarira departure, city arrival and Ahijah's attendant sent to named Ano preserve the messenger scene and harsh divine announcement.",
+      "unresolved_questions": [
+        "No disguise or door-hearing detail from another account is inserted; skipped letter j remains absent."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24l",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24l",
+      "verse_anchor": "v12-24l",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Ano entered to the man of God, and Ahijah said to her, “Why have you brought me loaves, grapes, little cakes, and a jar of honey? Thus says the Lord: Behold, you will leave me, and when you enter the gate into Sarira, your young women will come out to meet you and say, ‘The child is dead.’",
+      "candidate_text": "Ano entered to the man of God, and Ahijah said to her, “Why have you brought me loaves, grapes, little cakes, and a jar of honey? Thus says the Lord: Behold, you will leave me, and when you enter the gate into Sarira, your young women will come out to meet you and say, ‘The child is dead.’",
+      "candidate_sha256": "0fe370213456866571beed164a7e60d5d8fa534c707af3aaa49a5148bfd6704f",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Ano entered to the man of God, and Ahijah said to her, “Why have you brought me loaves, grapes, little cakes, and a jar of honey? Thus says the Lord: Behold, you will leave me, and when you enter the gate into Sarira, your young women will come out to meet you and say, ‘The child is dead.’",
+        "spoken": "Ano entered to the man of God, and Ahijah said to her, “Why have you brought me loaves, grapes, little cakes, and a jar of honey? Thus says the Lord: Behold, you will leave me, and when you enter the gate into Sarira, your young women will come out to meet you and say, ‘The child is dead.’",
+        "literary": "Ano entered to the man of God, and Ahijah said to her, “Why have you brought me loaves, grapes, little cakes, and a jar of honey? Thus says the Lord: Behold, you will leave me, and when you enter the gate into Sarira, your young women will come out to meet you and say, ‘The child is dead.’"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The why-question lists all gifts; behold introduces her departure, Sarira gate, her young women and their report of the child's death.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24m",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24m",
+      "verse_anchor": "v12-24m",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "For thus says the Lord: Behold, I will destroy from Jeroboam’s house every male who urinates against a wall. Dogs will eat Jeroboam’s dead in the city, and the birds of heaven will eat whoever dies in the field. They will mourn the child, saying, ‘Alas, lord!’ because a good word concerning the Lord was found in him.”",
+      "candidate_text": "For thus says the Lord: Behold, I will destroy from Jeroboam’s house every male who urinates against a wall. Dogs will eat Jeroboam’s dead in the city, and the birds of heaven will eat whoever dies in the field. They will mourn the child, saying, ‘Alas, lord!’ because a good word concerning the Lord was found in him.”",
+      "candidate_sha256": "4e2a4244f7c7ed45804623fcd2591c750ab48e304528b37ba12266fe3be79c46",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "For thus says the Lord: Behold, I will destroy from Jeroboam’s house every male who urinates against a wall. Dogs will eat Jeroboam’s dead in the city, and the birds of heaven will eat whoever dies in the field. They will mourn the child, saying, ‘Alas, lord!’ because a good word concerning the Lord was found in him.”",
+        "spoken": "For thus says the Lord: Behold, I will destroy from Jeroboam’s house every male who urinates against a wall. Dogs will eat Jeroboam’s dead in the city, and the birds of heaven will eat whoever dies in the field. They will mourn the child, saying, ‘Alas, lord!’ because a good word concerning the Lord was found in him.”",
+        "literary": "For thus says the Lord: Behold, I will destroy from Jeroboam’s house every male who urinates against a wall. Dogs will eat Jeroboam’s dead in the city, and the birds of heaven will eat whoever dies in the field. They will mourn the child, saying, ‘Alas, lord!’ because a good word concerning the Lord was found in him.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Behold, destruction of Jeroboam's wall-urinating males, dogs in the city, birds in the field and the child's lament with good word about the Lord remain.",
+      "unresolved_questions": [
+        "House and every male express the household-scoped idiom, not additional victims. Alas, lord is human lament; good word is not replaced with a broader moral verdict."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24n",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24n",
+      "verse_anchor": "v12-24n",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The woman departed when she heard. When she entered Sarira, the child died, and the outcry came out to meet her.",
+      "candidate_text": "The woman departed when she heard. When she entered Sarira, the child died, and the outcry came out to meet her.",
+      "candidate_sha256": "7e6ce1693c046af9c5c335abc2589ad07d8145bc624b3a9ef4871deec197b3ac",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The woman departed when she heard. When she entered Sarira, the child died, and the outcry came out to meet her.",
+        "spoken": "The woman departed when she heard. When she entered Sarira, the child died, and the outcry came out to meet her.",
+        "literary": "The woman departed when she heard. When she entered Sarira, the child died, and the outcry came out to meet her."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The woman leaves upon hearing; at Sarira entry the child dies and the outcry meets her, preserving timing and auditory image.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24o",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24o",
+      "verse_anchor": "v12-24o",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jeroboam went to Shechem in Ephraim’s hill country and gathered Israel’s tribes there. Rehoboam son of Solomon went up there. The Lord’s word came to Shemaiah the Elamite, saying, “Take a new garment which has not entered water, tear it into twelve pieces, give it to Jeroboam, and say to him, ‘Thus says the Lord: Take ten pieces for yourself, to clothe yourself.’” Jeroboam took them. Shemaiah said, “Thus says the Lord concerning Israel’s ten tribes.”",
+      "candidate_text": "Jeroboam went to Shechem in Ephraim’s hill country and gathered Israel’s tribes there. Rehoboam son of Solomon went up there. The Lord’s word came to Shemaiah the Elamite, saying, “Take a new garment which has not entered water, tear it into twelve pieces, give it to Jeroboam, and say to him, ‘Thus says the Lord: Take ten pieces for yourself, to clothe yourself.’” Jeroboam took them. Shemaiah said, “Thus says the Lord concerning Israel’s ten tribes.”",
+      "candidate_sha256": "166f9a7ff62a0c2fd05da3b8a33b5006fe78d4103975deef82647e0a09b9f5bd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Jeroboam went to Shechem in Ephraim’s hill country and gathered Israel’s tribes there. Rehoboam son of Solomon went up there. The Lord’s word came to Shemaiah the Elamite, saying, “Take a new garment which has not entered water, tear it into twelve pieces, give it to Jeroboam, and say to him, ‘Thus says the Lord: Take ten pieces for yourself, to clothe yourself.’” Jeroboam took them. Shemaiah said, “Thus says the Lord concerning Israel’s ten tribes.”",
+        "spoken": "Jeroboam went to Shechem in Ephraim’s hill country and gathered Israel’s tribes there. Rehoboam son of Solomon went up there. The Lord’s word came to Shemaiah the Elamite, saying, “Take a new garment which has not entered water, tear it into twelve pieces, give it to Jeroboam, and say to him, ‘Thus says the Lord: Take ten pieces for yourself, to clothe yourself.’” Jeroboam took them. Shemaiah said, “Thus says the Lord concerning Israel’s ten tribes.”",
+        "literary": "Jeroboam went to Shechem in Ephraim’s hill country and gathered Israel’s tribes there. Rehoboam son of Solomon went up there. The Lord’s word came to Shemaiah the Elamite, saying, “Take a new garment which has not entered water, tear it into twelve pieces, give it to Jeroboam, and say to him, ‘Thus says the Lord: Take ten pieces for yourself, to clothe yourself.’” Jeroboam took them. Shemaiah said, “Thus says the Lord concerning Israel’s ten tribes.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Shechem assembly, Rehoboam arrival and Shemaiah the Elamite's unwashed new garment, twelve torn pieces, ten for clothing and final ten-tribes saying remain.",
+      "unresolved_questions": [
+        "The different prophet and setting are not harmonized to Ahijah's earlier scene; the final abbreviated oracle is not expanded with missing promises."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24p",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24p",
+      "verse_anchor": "v12-24p",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The people said to Rehoboam son of Solomon, “Your father made his collar heavy upon us and made the food of his table a heavy burden. Now, if you lighten it upon us, we will serve you.” Rehoboam said to the people, “Three more days, and I will give you an answer.”",
+      "candidate_text": "The people said to Rehoboam son of Solomon, “Your father made his collar heavy upon us and made the food of his table a heavy burden. Now, if you lighten it upon us, we will serve you.” Rehoboam said to the people, “Three more days, and I will give you an answer.”",
+      "candidate_sha256": "9d6fd24e152c3208d188af697c8fa8f0e6a3d9539e3cc1ea5f963149253cacb2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The people said to Rehoboam son of Solomon, “Your father made his collar heavy upon us and made the food of his table a heavy burden. Now, if you lighten it upon us, we will serve you.” Rehoboam said to the people, “Three more days, and I will give you an answer.”",
+        "spoken": "The people said to Rehoboam son of Solomon, “Your father made his collar heavy upon us and made the food of his table a heavy burden. Now, if you lighten it upon us, we will serve you.” Rehoboam said to the people, “Three more days, and I will give you an answer.”",
+        "literary": "The people said to Rehoboam son of Solomon, “Your father made his collar heavy upon us and made the food of his table a heavy burden. Now, if you lighten it upon us, we will serve you.” Rehoboam said to the people, “Three more days, and I will give you an answer.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The repeated complaint adds the burden of royal table food; the conditional relief/service and three-more-days reply remain distinctive.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24q",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24q",
+      "verse_anchor": "v12-24q",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Rehoboam said, “Bring the elders in to me, and I will consult them about what answer to give the people on the third day.” Rehoboam spoke in their ears according to what the people had sent to him, and the elders of the people said, “So the people have spoken to you.”",
+      "candidate_text": "Rehoboam said, “Bring the elders in to me, and I will consult them about what answer to give the people on the third day.” Rehoboam spoke in their ears according to what the people had sent to him, and the elders of the people said, “So the people have spoken to you.”",
+      "candidate_sha256": "68b1bc418d63bbb0ce99524faa75d5d44ba57574ddd57cc265af71c5aeecbd6d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Rehoboam said, “Bring the elders in to me, and I will consult them about what answer to give the people on the third day.” Rehoboam spoke in their ears according to what the people had sent to him, and the elders of the people said, “So the people have spoken to you.”",
+        "spoken": "Rehoboam said, “Bring the elders in to me, and I will consult them about what answer to give the people on the third day.” Rehoboam spoke in their ears according to what the people had sent to him, and the elders of the people said, “So the people have spoken to you.”",
+        "literary": "Rehoboam said, “Bring the elders in to me, and I will consult them about what answer to give the people on the third day.” Rehoboam spoke in their ears according to what the people had sent to him, and the elders of the people said, “So the people have spoken to you.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Elders are summoned, the third-day answer discussed and the people's message repeated; their brief so-the-people-have-spoken response remains.",
+      "unresolved_questions": [
+        "The longer servant-counsel advice from verse 7 is not inserted into this shorter alternate exchange."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24r",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24r",
+      "verse_anchor": "v12-24r",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Rehoboam dismissed their counsel, and it did not please him. He sent and brought in his companions and told them the same things: “These are the things the people sent to say to me.” His companions said, “Thus speak to the people: ‘My little part is thicker than my father’s loins. My father whipped you with whips, but I will rule you with scorpions.’”",
+      "candidate_text": "Rehoboam dismissed their counsel, and it did not please him. He sent and brought in his companions and told them the same things: “These are the things the people sent to say to me.” His companions said, “Thus speak to the people: ‘My little part is thicker than my father’s loins. My father whipped you with whips, but I will rule you with scorpions.’”",
+      "candidate_sha256": "cd5277a4f2fe65cee91ce876b18c09c38b123224e8898c3a469106f2def5ad98",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Rehoboam dismissed their counsel, and it did not please him. He sent and brought in his companions and told them the same things: “These are the things the people sent to say to me.” His companions said, “Thus speak to the people: ‘My little part is thicker than my father’s loins. My father whipped you with whips, but I will rule you with scorpions.’”",
+        "spoken": "Rehoboam dismissed their counsel, and it did not please him. He sent and brought in his companions and told them the same things: “These are the things the people sent to say to me.” His companions said, “Thus speak to the people: ‘My little part is thicker than my father’s loins. My father whipped you with whips, but I will rule you with scorpions.’”",
+        "literary": "Rehoboam dismissed their counsel, and it did not please him. He sent and brought in his companions and told them the same things: “These are the things the people sent to say to me.” His companions said, “Thus speak to the people: ‘My little part is thicker than my father’s loins. My father whipped you with whips, but I will rule you with scorpions.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Rejected advice, summoned companions, repeated complaint and little-part boast precede the different final verb rule with scorpions.",
+      "unresolved_questions": [
+        "Rule is not normalized to discipline from verse 11; little part remains unresolved rather than supplied finger."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24s",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24s",
+      "verse_anchor": "v12-24s",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The saying pleased Rehoboam, and he answered the people as his companions, the young men, had advised him.",
+      "candidate_text": "The saying pleased Rehoboam, and he answered the people as his companions, the young men, had advised him.",
+      "candidate_sha256": "bfb3331e7f2c1c4ae55b066f1943b1a15dabb8d745ea04c34715fc3e047f5c62",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The saying pleased Rehoboam, and he answered the people as his companions, the young men, had advised him.",
+        "spoken": "The saying pleased Rehoboam, and he answered the people as his companions, the young men, had advised him.",
+        "literary": "The saying pleased Rehoboam, and he answered the people as his companions, the young men, had advised him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The saying pleases Rehoboam and determines his answer, with companions explicitly identified as young men.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24t",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24t",
+      "verse_anchor": "v12-24t",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All the people spoke as one man, each to his neighbor, and all cried out, “We have no share in David, nor inheritance in Jesse’s son. To your tents, Israel, because this man is fit neither for ruler nor for leader!”",
+      "candidate_text": "All the people spoke as one man, each to his neighbor, and all cried out, “We have no share in David, nor inheritance in Jesse’s son. To your tents, Israel, because this man is fit neither for ruler nor for leader!”",
+      "candidate_sha256": "6b57ebe0e30cca28691fbdff910ed0914cfb747e2f44bba6d58f53f2faaecd9d",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All the people spoke as one man, each to his neighbor, and all cried out, “We have no share in David, nor inheritance in Jesse’s son. To your tents, Israel, because this man is fit neither for ruler nor for leader!”",
+        "spoken": "All the people spoke as one man, each to his neighbor, and all cried out, “We have no share in David, nor inheritance in Jesse’s son. To your tents, Israel, because this man is fit neither for ruler nor for leader!”",
+        "literary": "All the people spoke as one man, each to his neighbor, and all cried out, “We have no share in David, nor inheritance in Jesse’s son. To your tents, Israel, because this man is fit neither for ruler nor for leader!”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "All as one, each to his neighbor and the collective cry retain unity, no Davidic share, no Jesse inheritance and neither ruler nor leader judgment.",
+      "unresolved_questions": [
+        "Fit supplies an English predicate for the elliptical not-for-ruler clause; the translation does not add a new office or qualification test."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24u",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24u",
+      "verse_anchor": "v12-24u",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "All the people dispersed from Shechem, and each went to his tent. Rehoboam took hold of himself, departed, mounted his chariot, and entered Jerusalem. All Judah’s scepter and all Benjamin’s scepter followed him.",
+      "candidate_text": "All the people dispersed from Shechem, and each went to his tent. Rehoboam took hold of himself, departed, mounted his chariot, and entered Jerusalem. All Judah’s scepter and all Benjamin’s scepter followed him.",
+      "candidate_sha256": "ce65da5489543ed1c43f030aa65ba2f593d32bdeeb9cc2f1b1bf6463e515848c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "All the people dispersed from Shechem, and each went to his tent. Rehoboam took hold of himself, departed, mounted his chariot, and entered Jerusalem. All Judah’s scepter and all Benjamin’s scepter followed him.",
+        "spoken": "All the people dispersed from Shechem, and each went to his tent. Rehoboam took hold of himself, departed, mounted his chariot, and entered Jerusalem. All Judah’s scepter and all Benjamin’s scepter followed him.",
+        "literary": "All the people dispersed from Shechem, and each went to his tent. Rehoboam took hold of himself, departed, mounted his chariot, and entered Jerusalem. All Judah’s scepter and all Benjamin’s scepter followed him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Dispersal from Shechem, each tent, Rehoboam's departure and explicit chariot ascent, Jerusalem entry and both full scepters following remain.",
+      "unresolved_questions": [
+        "Took hold of himself is a provisional reflexive interpretation of objectless katekratesen; prevailing or retaining control remains a live alternative, not a settled emotional description."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24x",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24x",
+      "verse_anchor": "v12-24x",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "At the beginning of the year, Rehoboam gathered every man of Judah and Benjamin and went up to fight Jeroboam at Shechem.",
+      "candidate_text": "At the beginning of the year, Rehoboam gathered every man of Judah and Benjamin and went up to fight Jeroboam at Shechem.",
+      "candidate_sha256": "2f5de934c03ac5813f9cb6a5c1216f8b4a422699830936e132ac74e725087666",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "At the beginning of the year, Rehoboam gathered every man of Judah and Benjamin and went up to fight Jeroboam at Shechem.",
+        "spoken": "At the beginning of the year, Rehoboam gathered every man of Judah and Benjamin and went up to fight Jeroboam at Shechem.",
+        "literary": "At the beginning of the year, Rehoboam gathered every man of Judah and Benjamin and went up to fight Jeroboam at Shechem."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The beginning-year timing, every man of Judah and Benjamin, and attack toward Jeroboam at Shechem remain after the skipped v/w labels.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24y",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24y",
+      "verse_anchor": "v12-24y",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The Lord’s word came to Shemaiah, the man of God, saying, “Say to Rehoboam king of Judah, to all Judah’s house and Benjamin, and to the remainder of the people: ‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Return, each to his house, because this matter has come from Me.’”",
+      "candidate_text": "The Lord’s word came to Shemaiah, the man of God, saying, “Say to Rehoboam king of Judah, to all Judah’s house and Benjamin, and to the remainder of the people: ‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Return, each to his house, because this matter has come from Me.’”",
+      "candidate_sha256": "bdf7b715f02fc7cc18050ddcd8b633c7abe72735b32f4e3d91a43eba778de9c6",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The Lord’s word came to Shemaiah, the man of God, saying, “Say to Rehoboam king of Judah, to all Judah’s house and Benjamin, and to the remainder of the people: ‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Return, each to his house, because this matter has come from Me.’”",
+        "spoken": "The Lord’s word came to Shemaiah, the man of God, saying, “Say to Rehoboam king of Judah, to all Judah’s house and Benjamin, and to the remainder of the people: ‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Return, each to his house, because this matter has come from Me.’”",
+        "literary": "The Lord’s word came to Shemaiah, the man of God, saying, “Say to Rehoboam king of Judah, to all Judah’s house and Benjamin, and to the remainder of the people: ‘Thus says the Lord: You shall not go up or fight your brothers, the sons of Israel. Return, each to his house, because this matter has come from Me.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The repeated Shemaiah word retains all addressees, double prohibition, brothers identity, each return home and divine origin of the matter.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-24z",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:24z",
+      "verse_anchor": "v12-24z",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "They listened to the Lord’s word and refrained from going, according to the Lord’s word.",
+      "candidate_text": "They listened to the Lord’s word and refrained from going, according to the Lord’s word.",
+      "candidate_sha256": "b35318ac38c8c7dd440033d151df761f2f2c4db7adb484a8c9d259653f696ac4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "They listened to the Lord’s word and refrained from going, according to the Lord’s word.",
+        "spoken": "They listened to the Lord’s word and refrained from going, according to the Lord’s word.",
+        "literary": "They listened to the Lord’s word and refrained from going, according to the Lord’s word."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Hearing and refraining from going according to the Lord's word complete the alternate account without collapsing it into verse 24.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-25",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:25",
+      "verse_anchor": "v12-25",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jeroboam built Shechem in Ephraim’s hill country and lived there. He went out from there and built Penuel.",
+      "candidate_text": "Jeroboam built Shechem in Ephraim’s hill country and lived there. He went out from there and built Penuel.",
+      "candidate_sha256": "1ac6942f9f3c7cac3937441a9b9953d7d4f799ca94fb995d7f7c449a95d6a91f",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Jeroboam built Shechem in Ephraim’s hill country and lived there. He went out from there and built Penuel.",
+        "spoken": "Jeroboam built Shechem in Ephraim’s hill country and lived there. He went out from there and built Penuel.",
+        "literary": "Jeroboam built Shechem in Ephraim’s hill country and lived there. He went out from there and built Penuel."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jeroboam builds and inhabits Shechem, then leaves and builds Penuel, retaining sequence and both places.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-26",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:26",
+      "verse_anchor": "v12-26",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jeroboam said in his heart, “Behold, now the kingdom will return to David’s house.",
+      "candidate_text": "Jeroboam said in his heart, “Behold, now the kingdom will return to David’s house.",
+      "candidate_sha256": "f898ef517f66528a50c5c174caf274696504f1ab426b3d2513a36924751a87b4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Jeroboam said in his heart, “Behold, now the kingdom will return to David’s house.",
+        "spoken": "Jeroboam said in his heart, “Behold, now the kingdom will return to David’s house.",
+        "literary": "Jeroboam said in his heart, “Behold, now the kingdom will return to David’s house."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Behold now and future return to David's house remain Jeroboam's inward assessment, not a narrator's prediction of actual return.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-27",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:27",
+      "verse_anchor": "v12-27",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "If this people goes up to offer sacrifices in the Lord’s house in Jerusalem, the people’s heart will return to the Lord and their lord, Rehoboam king of Judah, and they will kill me.”",
+      "candidate_text": "If this people goes up to offer sacrifices in the Lord’s house in Jerusalem, the people’s heart will return to the Lord and their lord, Rehoboam king of Judah, and they will kill me.”",
+      "candidate_sha256": "338578eef5e9bb4d2a23d8663bf23beb91d6bdf0979ccd009db728b96d47a7ef",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "If this people goes up to offer sacrifices in the Lord’s house in Jerusalem, the people’s heart will return to the Lord and their lord, Rehoboam king of Judah, and they will kill me.”",
+        "spoken": "If this people goes up to offer sacrifices in the Lord’s house in Jerusalem, the people’s heart will return to the Lord and their lord, Rehoboam king of Judah, and they will kill me.”",
+        "literary": "If this people goes up to offer sacrifices in the Lord’s house in Jerusalem, the people’s heart will return to the Lord and their lord, Rehoboam king of Judah, and they will kill me.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The conditional Jerusalem sacrifice, return of hearts to the Lord and their lord Rehoboam, and feared killing retain the two lord references.",
+      "unresolved_questions": [
+        "Capitalization interprets the first Lord as divine and second as royal; the coordination remains explicitly open rather than deleting one as repetition."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-28",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:28",
+      "verse_anchor": "v12-28",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king took counsel, went, and made two golden heifers. He said to the people, “Let your going up to Jerusalem be enough. Behold, your gods, Israel, who brought you up from Egypt!”",
+      "candidate_text": "The king took counsel, went, and made two golden heifers. He said to the people, “Let your going up to Jerusalem be enough. Behold, your gods, Israel, who brought you up from Egypt!”",
+      "candidate_sha256": "385a30f5e2edf09d223d693839f327da3a981f8a9efe79979c149827d0ccdf22",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king took counsel, went, and made two golden heifers. He said to the people, “Let your going up to Jerusalem be enough. Behold, your gods, Israel, who brought you up from Egypt!”",
+        "spoken": "The king took counsel, went, and made two golden heifers. He said to the people, “Let your going up to Jerusalem be enough. Behold, your gods, Israel, who brought you up from Egypt!”",
+        "literary": "The king took counsel, went, and made two golden heifers. He said to the people, “Let your going up to Jerusalem be enough. Behold, your gods, Israel, who brought you up from Egypt!”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Counsel, going and making two golden heifers retain the female designation; enough-going-to-Jerusalem and behold your gods preserve the king's claim.",
+      "unresolved_questions": [
+        "The narrator does not endorse the exodus claim; calves or bulls are not substituted for the selected heifers."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-29",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:29",
+      "verse_anchor": "v12-29",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He placed one in Bethel and put the other in Dan.",
+      "candidate_text": "He placed one in Bethel and put the other in Dan.",
+      "candidate_sha256": "c8910855c2b1052e588a93e13755bafff86a3b8650e7042d8950041a08b7f8d4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He placed one in Bethel and put the other in Dan.",
+        "spoken": "He placed one in Bethel and put the other in Dan.",
+        "literary": "He placed one in Bethel and put the other in Dan."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "One heifer is placed in Bethel and one in Dan, retaining both locations without additional shrines.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-30",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:30",
+      "verse_anchor": "v12-30",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "This matter became a sin. The people went before the one as far as Dan.",
+      "candidate_text": "This matter became a sin. The people went before the one as far as Dan.",
+      "candidate_sha256": "fbe4ec64172f44e632e0436bc936a36dfd528531049ce76130dac7a39998e649",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "This matter became a sin. The people went before the one as far as Dan.",
+        "spoken": "This matter became a sin. The people went before the one as far as Dan.",
+        "literary": "This matter became a sin. The people went before the one as far as Dan."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The matter becomes sin and the people go before the one as far as Dan, preserving the selected singular.",
+      "unresolved_questions": [
+        "The relation of before the one to the endpoint remains unresolved; movement to both images is not inserted."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-31",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:31",
+      "verse_anchor": "v12-31",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He made houses on high places and appointed some of the people as priests who were not from the sons of Levi.",
+      "candidate_text": "He made houses on high places and appointed some of the people as priests who were not from the sons of Levi.",
+      "candidate_sha256": "57ecb55df5a196c6d69a149bdc4520246283caa6336800ddc9b4abd7c9de121e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He made houses on high places and appointed some of the people as priests who were not from the sons of Levi.",
+        "spoken": "He made houses on high places and appointed some of the people as priests who were not from the sons of Levi.",
+        "literary": "He made houses on high places and appointed some of the people as priests who were not from the sons of Levi."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "High-place houses and priests from a portion of the people who were not Levi's sons remain, without calling them the lowest class.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-32",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:32",
+      "verse_anchor": "v12-32",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Jeroboam held a feast in the eighth month, on the fifteenth day of the month, like the feast in the land of Judah, and went up onto the altar he had made in Bethel to sacrifice to the heifers he had made. He stationed in Bethel the priests of the high places he had made.",
+      "candidate_text": "Jeroboam held a feast in the eighth month, on the fifteenth day of the month, like the feast in the land of Judah, and went up onto the altar he had made in Bethel to sacrifice to the heifers he had made. He stationed in Bethel the priests of the high places he had made.",
+      "candidate_sha256": "5d59438369b8b18f58cb710c88400f129f368f08e02a6cad62a210ea2cd9140a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Jeroboam held a feast in the eighth month, on the fifteenth day of the month, like the feast in the land of Judah, and went up onto the altar he had made in Bethel to sacrifice to the heifers he had made. He stationed in Bethel the priests of the high places he had made.",
+        "spoken": "Jeroboam held a feast in the eighth month, on the fifteenth day of the month, like the feast in the land of Judah, and went up onto the altar he had made in Bethel to sacrifice to the heifers he had made. He stationed in Bethel the priests of the high places he had made.",
+        "literary": "Jeroboam held a feast in the eighth month, on the fifteenth day of the month, like the feast in the land of Judah, and went up onto the altar he had made in Bethel to sacrifice to the heifers he had made. He stationed in Bethel the priests of the high places he had made."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Eighth month, fifteenth day, analogy to Judah's feast, Bethel altar, sacrifice to made heifers and stationed high-place priests retain each ritual detail.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-119-1-kings-v12-33",
+      "book_id": "1-kings",
+      "reference": "1 Kings 12:33",
+      "verse_anchor": "v12-33",
+      "reading_section_id": "12",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He went up onto the altar he had made, on the fifteenth day in the eighth month, at the feast he had fashioned from his heart. He held a feast for the sons of Israel and went up onto the altar to offer sacrifice.",
+      "candidate_text": "He went up onto the altar he had made, on the fifteenth day in the eighth month, at the feast he had fashioned from his heart. He held a feast for the sons of Israel and went up onto the altar to offer sacrifice.",
+      "candidate_sha256": "9dfa071bde1dfbb62af03fd8abda7ed282fef9114da788b361708196935ea68a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.12",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He went up onto the altar he had made, on the fifteenth day in the eighth month, at the feast he had fashioned from his heart. He held a feast for the sons of Israel and went up onto the altar to offer sacrifice.",
+        "spoken": "He went up onto the altar he had made, on the fifteenth day in the eighth month, at the feast he had fashioned from his heart. He held a feast for the sons of Israel and went up onto the altar to offer sacrifice.",
+        "literary": "He went up onto the altar he had made, on the fifteenth day in the eighth month, at the feast he had fashioned from his heart. He held a feast for the sons of Israel and went up onto the altar to offer sacrifice."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The date repeats, the feast is fashioned from his heart, and the repeated altar ascents culminate in sacrifice.",
+      "unresolved_questions": [
+        "The source's invented feast is not turned into an invented month clause; epithyo is retained as sacrifice without specifying incense alone."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1880 @@
+{
+  "batch_id": "OT-120",
+  "scope": "1 Kings 13-14; all 44 stored units",
+  "records": [
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-1",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:1",
+      "verse_anchor": "v13-1",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Behold, a man of God came from Judah to Bethel by the Lord’s word, while Jeroboam stood at the altar to offer sacrifice.",
+      "candidate_text": "Behold, a man of God came from Judah to Bethel by the Lord’s word, while Jeroboam stood at the altar to offer sacrifice.",
+      "candidate_sha256": "6e2806f9280aa31e8ca7881d11b9b20987793dfb9f012c41f1a0868dc12fafca",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Behold, a man of God came from Judah to Bethel by the Lord’s word, while Jeroboam stood at the altar to offer sacrifice.",
+        "spoken": "Behold, a man of God came from Judah to Bethel by the Lord’s word, while Jeroboam stood at the altar to offer sacrifice.",
+        "literary": "Behold, a man of God came from Judah to Bethel by the Lord’s word, while Jeroboam stood at the altar to offer sacrifice."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Behold introduces the Judah man of God arriving by the Lord's word while Jeroboam stands to sacrifice; no personal name is supplied.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-2",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:2",
+      "verse_anchor": "v13-2",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He called to the altar by the Lord’s word: “Altar, altar! Thus says the Lord: Behold, a son shall be born to David’s house, Josiah by name. He will sacrifice upon you the priests of the high places who offer sacrifice upon you, and he will burn human bones upon you.”",
+      "candidate_text": "He called to the altar by the Lord’s word: “Altar, altar! Thus says the Lord: Behold, a son shall be born to David’s house, Josiah by name. He will sacrifice upon you the priests of the high places who offer sacrifice upon you, and he will burn human bones upon you.”",
+      "candidate_sha256": "e5e323440b6b9d40a1d6fcdda520556b6fb1ebd330ae6480fdc897f2a2ca37ba",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He called to the altar by the Lord’s word: “Altar, altar! Thus says the Lord: Behold, a son shall be born to David’s house, Josiah by name. He will sacrifice upon you the priests of the high places who offer sacrifice upon you, and he will burn human bones upon you.”",
+        "spoken": "He called to the altar by the Lord’s word: “Altar, altar! Thus says the Lord: Behold, a son shall be born to David’s house, Josiah by name. He will sacrifice upon you the priests of the high places who offer sacrifice upon you, and he will burn human bones upon you.”",
+        "literary": "He called to the altar by the Lord’s word: “Altar, altar! Thus says the Lord: Behold, a son shall be born to David’s house, Josiah by name. He will sacrifice upon you the priests of the high places who offer sacrifice upon you, and he will burn human bones upon you.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Repeated altar address, behold, Davidic son Josiah, sacrifice of high-place priests and burning human bones retain the full oracle.",
+      "unresolved_questions": [
+        "Ordinary you addresses the altar; no divine-address Thou is introduced for an inanimate addressee."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-3",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:3",
+      "verse_anchor": "v13-3",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He gave a portent that day, saying, “This is the word the Lord has spoken: Behold, the altar will split, and the fat upon it will pour out.”",
+      "candidate_text": "He gave a portent that day, saying, “This is the word the Lord has spoken: Behold, the altar will split, and the fat upon it will pour out.”",
+      "candidate_sha256": "533a81a2e658c8f1352db6adc8824f6737a78d827746c604033306d85c0de3d2",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He gave a portent that day, saying, “This is the word the Lord has spoken: Behold, the altar will split, and the fat upon it will pour out.”",
+        "spoken": "He gave a portent that day, saying, “This is the word the Lord has spoken: Behold, the altar will split, and the fat upon it will pour out.”",
+        "literary": "He gave a portent that day, saying, “This is the word the Lord has spoken: Behold, the altar will split, and the fat upon it will pour out.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The same-day portent names the altar's splitting and pouring fat, not ashes, preserving the selected piotes.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-4",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:4",
+      "verse_anchor": "v13-4",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "When King Jeroboam heard the words of the man of God who had called against the altar in Bethel, the king stretched out his hand from the altar, saying, “Seize him!” Behold, the hand he stretched out against him withered, and he could not draw it back.",
+      "candidate_text": "When King Jeroboam heard the words of the man of God who had called against the altar in Bethel, the king stretched out his hand from the altar, saying, “Seize him!” Behold, the hand he stretched out against him withered, and he could not draw it back.",
+      "candidate_sha256": "3338e55b434d1b5f07aade0d5371bd8349b21f1e8635698695d09ea8faf73ffd",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "When King Jeroboam heard the words of the man of God who had called against the altar in Bethel, the king stretched out his hand from the altar, saying, “Seize him!” Behold, the hand he stretched out against him withered, and he could not draw it back.",
+        "spoken": "When King Jeroboam heard the words of the man of God who had called against the altar in Bethel, the king stretched out his hand from the altar, saying, “Seize him!” Behold, the hand he stretched out against him withered, and he could not draw it back.",
+        "literary": "When King Jeroboam heard the words of the man of God who had called against the altar in Bethel, the king stretched out his hand from the altar, saying, “Seize him!” Behold, the hand he stretched out against him withered, and he could not draw it back."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The king's hearing, outstretched hand, seizure command, behold withering and inability to withdraw retain the sequence and agents.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-5",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:5",
+      "verse_anchor": "v13-5",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The altar split, and the fat poured from the altar, according to the portent the man of God had given by the Lord’s word.",
+      "candidate_text": "The altar split, and the fat poured from the altar, according to the portent the man of God had given by the Lord’s word.",
+      "candidate_sha256": "c0789a7d1def73554d634b9e50cd234c83660872aacc4a0a979111d0bbdad291",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The altar split, and the fat poured from the altar, according to the portent the man of God had given by the Lord’s word.",
+        "spoken": "The altar split, and the fat poured from the altar, according to the portent the man of God had given by the Lord’s word.",
+        "literary": "The altar split, and the fat poured from the altar, according to the portent the man of God had given by the Lord’s word."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Actual splitting and fat pouring fulfill the given portent, with the repeated Lord's-word origin intact.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-6",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:6",
+      "verse_anchor": "v13-6",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "King Jeroboam said to the man of God, “Entreat the favor of the Lord your God, and let my hand be restored to me.” The man of God entreated the Lord’s favor, and he restored the king’s hand to him, so it became as it had been before.",
+      "candidate_text": "King Jeroboam said to the man of God, “Entreat the favor of the Lord your God, and let my hand be restored to me.” The man of God entreated the Lord’s favor, and he restored the king’s hand to him, so it became as it had been before.",
+      "candidate_sha256": "f3abae1d2d36fc1ba7b2a8b269c4d9c28668e137c4228f8b55c1c88886d975b4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "King Jeroboam said to the man of God, “Entreat the favor of the Lord your God, and let my hand be restored to me.” The man of God entreated the Lord’s favor, and he restored the king’s hand to him, so it became as it had been before.",
+        "spoken": "King Jeroboam said to the man of God, “Entreat the favor of the Lord your God, and let my hand be restored to me.” The man of God entreated the Lord’s favor, and he restored the king’s hand to him, so it became as it had been before.",
+        "literary": "King Jeroboam said to the man of God, “Entreat the favor of the Lord your God, and let my hand be restored to me.” The man of God entreated the Lord’s favor, and he restored the king’s hand to him, so it became as it had been before."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The king asks the man to entreat his God; entreaty, restoration and former condition remain, including the unexpressed restoration subject rendered he.",
+      "unresolved_questions": [
+        "Whether he refers directly to the man of God or the Lord remains unresolved; no capitalization or inserted agent settles it."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-7",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:7",
+      "verse_anchor": "v13-7",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The king said to the man of God, “Come into the house with me and eat a meal, and I will give you a gift.”",
+      "candidate_text": "The king said to the man of God, “Come into the house with me and eat a meal, and I will give you a gift.”",
+      "candidate_sha256": "47e536db2d7675fd74e6e0b64ada0d2030fa455006d5844d5a47744fffbc4d2b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The king said to the man of God, “Come into the house with me and eat a meal, and I will give you a gift.”",
+        "spoken": "The king said to the man of God, “Come into the house with me and eat a meal, and I will give you a gift.”",
+        "literary": "The king said to the man of God, “Come into the house with me and eat a meal, and I will give you a gift.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The royal invitation includes home, a meal and a promised gift, retaining ariston's meal sense without a clock-time assertion.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-8",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:8",
+      "verse_anchor": "v13-8",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The man of God said to the king, “Even if you give me half your house, I will not go in with you, nor will I eat bread or drink water in this place.",
+      "candidate_text": "The man of God said to the king, “Even if you give me half your house, I will not go in with you, nor will I eat bread or drink water in this place.",
+      "candidate_sha256": "a9e7a962fec3a97d0d07f31a76a1e64727f9229b605e336178e30ae6d5db0fd5",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The man of God said to the king, “Even if you give me half your house, I will not go in with you, nor will I eat bread or drink water in this place.",
+        "spoken": "The man of God said to the king, “Even if you give me half your house, I will not go in with you, nor will I eat bread or drink water in this place.",
+        "literary": "The man of God said to the king, “Even if you give me half your house, I will not go in with you, nor will I eat bread or drink water in this place."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Even half the house does not alter refusal to enter, eat bread or drink water there, preserving all negatives.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-9",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:9",
+      "verse_anchor": "v13-9",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you did travel.’”",
+      "candidate_text": "For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you traveled.’”",
+      "candidate_sha256": "6340f71d716582b9594cd95e707f0c1c74b6dfa8b606d4d7c836507838681638",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you traveled.’”",
+        "spoken": "For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you traveled.’”",
+        "literary": "For the Lord commanded me by a word: ‘Do not eat bread, drink water, or return by the road you traveled.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose traveled for did travel in ordinary quoted address. The causal For and three prohibited actions remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-10",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:10",
+      "verse_anchor": "v13-10",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He went by another road and did not return by the road on which he had come to Bethel.",
+      "candidate_text": "He went by another road and did not return by the road on which he had come to Bethel.",
+      "candidate_sha256": "16bca6ab2a0f68587315faa86ecc533617d9f2c88fa5ef701c5828da38aa03c9",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He went by another road and did not return by the road on which he had come to Bethel.",
+        "spoken": "He went by another road and did not return by the road on which he had come to Bethel.",
+        "literary": "He went by another road and did not return by the road on which he had come to Bethel."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Departure by another road and explicit denial of returning by the Bethel arrival road preserve both directions.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-11",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:11",
+      "verse_anchor": "v13-11",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "An old prophet lived in Bethel. His sons came and told him all the deeds the man of God had done that day in Bethel and the words he had spoken to the king; they turned their father’s attention toward it.",
+      "candidate_text": "An old prophet lived in Bethel. His sons came and told him all the deeds the man of God had done that day in Bethel and the words he had spoken to the king; they turned their father’s attention toward it.",
+      "candidate_sha256": "a44e8236cdf88fd221c90f6bef2426366bc93dae5c9362fcd721c1b06a7c8970",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "An old prophet lived in Bethel. His sons came and told him all the deeds the man of God had done that day in Bethel and the words he had spoken to the king; they turned their father’s attention toward it.",
+        "spoken": "An old prophet lived in Bethel. His sons came and told him all the deeds the man of God had done that day in Bethel and the words he had spoken to the king; they turned their father’s attention toward it.",
+        "literary": "An old prophet lived in Bethel. His sons came and told him all the deeds the man of God had done that day in Bethel and the words he had spoken to the king; they turned their father’s attention toward it."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The old prophet's sons report every deed and royal speech, then turn their father's attention toward it.",
+      "unresolved_questions": [
+        "Attention toward it interprets the turned-face idiom; its precise physical or figurative force remains provisional."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-12",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:12",
+      "verse_anchor": "v13-12",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Their father said to them, “Which road has he taken?” His sons showed him the road by which the man of God who came from Judah had gone up.",
+      "candidate_text": "Their father said to them, “Which road has he taken?” His sons showed him the road by which the man of God who came from Judah had gone up.",
+      "candidate_sha256": "f3b95871811777c8afef7dc5a038147dadf1963798c6f210c6b380af5c3135f3",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Their father said to them, “Which road has he taken?” His sons showed him the road by which the man of God who came from Judah had gone up.",
+        "spoken": "Their father said to them, “Which road has he taken?” His sons showed him the road by which the man of God who came from Judah had gone up.",
+        "literary": "Their father said to them, “Which road has he taken?” His sons showed him the road by which the man of God who came from Judah had gone up."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The road question and sons' showing the Judah man's upward route retain the selected active showing, not merely earlier seeing.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-13",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:13",
+      "verse_anchor": "v13-13",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to his sons, “Saddle the donkey for me.” They saddled the donkey for him, and he mounted it.",
+      "candidate_text": "He said to his sons, “Saddle the donkey for me.” They saddled the donkey for him, and he mounted it.",
+      "candidate_sha256": "7ac076cebb73ff1916c2d90881cfb9852c1beca5bab5dbc930dd0e5bc1304dc4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to his sons, “Saddle the donkey for me.” They saddled the donkey for him, and he mounted it.",
+        "spoken": "He said to his sons, “Saddle the donkey for me.” They saddled the donkey for him, and he mounted it.",
+        "literary": "He said to his sons, “Saddle the donkey for me.” They saddled the donkey for him, and he mounted it."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Donkey saddling is commanded, performed and followed by mounting, preserving all three actions.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-14",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:14",
+      "verse_anchor": "v13-14",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He went after the man of God and found him sitting under an oak. He said to him, “Are you the man of God who has come from Judah?” He answered, “I am.”",
+      "candidate_text": "He went after the man of God and found him sitting under an oak. He said to him, “Are you the man of God who has come from Judah?” He answered, “I am.”",
+      "candidate_sha256": "9376336049d47ff5ca0f500672e982863348afd32749bb6b04b713c06ac9af3e",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He went after the man of God and found him sitting under an oak. He said to him, “Are you the man of God who has come from Judah?” He answered, “I am.”",
+        "spoken": "He went after the man of God and found him sitting under an oak. He said to him, “Are you the man of God who has come from Judah?” He answered, “I am.”",
+        "literary": "He went after the man of God and found him sitting under an oak. He said to him, “Are you the man of God who has come from Judah?” He answered, “I am.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Following, finding under an oak, the identity question and I am answer remain without naming either prophet.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-15",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:15",
+      "verse_anchor": "v13-15",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to him, “Come with me and eat bread.”",
+      "candidate_text": "He said to him, “Come with me and eat bread.”",
+      "candidate_sha256": "4e10c029ec22ef4c28e2d6a8b017a07779f7045c63390669aa38b1210d4834ec",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to him, “Come with me and eat bread.”",
+        "spoken": "He said to him, “Come with me and eat bread.”",
+        "literary": "He said to him, “Come with me and eat bread.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The renewed invitation is simply come and eat bread, without an added promise or divine authority claim yet.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-16",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:16",
+      "verse_anchor": "v13-16",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said, “I cannot return with you, nor will I eat bread or drink water in this place,",
+      "candidate_text": "He said, “I cannot return with you, nor will I eat bread or drink water in this place,",
+      "candidate_sha256": "fc197c2eba60340c89750f430216d14b1eebac9eb22c3495f10d03273dd9ac8a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said, “I cannot return with you, nor will I eat bread or drink water in this place,",
+        "spoken": "He said, “I cannot return with you, nor will I eat bread or drink water in this place,",
+        "literary": "He said, “I cannot return with you, nor will I eat bread or drink water in this place,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The emphatic inability to return and refusal of bread and water repeat the prohibition without importing an absent enter-with-you clause.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-17",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:17",
+      "verse_anchor": "v13-17",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you did travel.’”",
+      "candidate_text": "because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you traveled.’”",
+      "candidate_sha256": "b35462e982ec2022c8ea6f5cc078b15220ac50a5ef2bd345a317634f99a9af39",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you traveled.’”",
+        "spoken": "because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you traveled.’”",
+        "literary": "because the Lord commanded me by a word, ‘Do not eat bread there or drink water there, nor return by the road you traveled.’”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose traveled for did travel in the repeated quoted command. Both occurrences of there and all three prohibitions remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-18",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:18",
+      "verse_anchor": "v13-18",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to him, “I too am a prophet like you. An angel has spoken to me by the Lord’s word, saying, ‘Bring him back to yourself, to your house, and let him eat bread and drink water.’” He lied to him.",
+      "candidate_text": "He said to him, “I too am a prophet like you. An angel has spoken to me by the Lord’s word, saying, ‘Bring him back to yourself, to your house, and let him eat bread and drink water.’” He lied to him.",
+      "candidate_sha256": "61baaa02b8e7f1ea67bca6d95d6e4200debbd9a15f16dfeb7027a580655693f4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to him, “I too am a prophet like you. An angel has spoken to me by the Lord’s word, saying, ‘Bring him back to yourself, to your house, and let him eat bread and drink water.’” He lied to him.",
+        "spoken": "He said to him, “I too am a prophet like you. An angel has spoken to me by the Lord’s word, saying, ‘Bring him back to yourself, to your house, and let him eat bread and drink water.’” He lied to him.",
+        "literary": "He said to him, “I too am a prophet like you. An angel has spoken to me by the Lord’s word, saying, ‘Bring him back to yourself, to your house, and let him eat bread and drink water.’” He lied to him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The old prophet claims equal prophetic status and an angelic instruction, followed by the narrator's explicit He lied to him.",
+      "unresolved_questions": [
+        "The supposed angelic message is retained as a false claim, not a verified new divine command."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-19",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:19",
+      "verse_anchor": "v13-19",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He brought him back, and he ate bread and drank water in his house.",
+      "candidate_text": "He brought him back, and he ate bread and drank water in his house.",
+      "candidate_sha256": "590768d4fc510c3306ec5968f364cebe0e52afc3b7f69ba0ca7b95dbc82c751b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He brought him back, and he ate bread and drank water in his house.",
+        "spoken": "He brought him back, and he ate bread and drank water in his house.",
+        "literary": "He brought him back, and he ate bread and drank water in his house."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Bringing back precedes eating and drinking in the host's house, retaining the compact pronoun sequence.",
+      "unresolved_questions": [
+        "The second he is contextually the returning man of God, while house belongs to the host; these subject/possessive inferences remain explicit in this record."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-20",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:20",
+      "verse_anchor": "v13-20",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "While they were sitting at the table, the Lord’s word came to the prophet who had brought him back.",
+      "candidate_text": "While they were sitting at the table, the Lord’s word came to the prophet who had brought him back.",
+      "candidate_sha256": "2a1f2531f34dfdfdbfccc0cc74666211e7b242bc1a8c98f47848ac50ecc2f749",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "While they were sitting at the table, the Lord’s word came to the prophet who had brought him back.",
+        "spoken": "While they were sitting at the table, the Lord’s word came to the prophet who had brought him back.",
+        "literary": "While they were sitting at the table, the Lord’s word came to the prophet who had brought him back."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "At the table the Lord's word actually comes to the prophet who brought him back, preserving this agency despite his earlier lie.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-21",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:21",
+      "verse_anchor": "v13-21",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He said to the man of God who had come from Judah, “Thus says the Lord: Because you did defy the Lord’s word and did not keep the commandment the Lord your God gave you,",
+      "candidate_text": "He said to the man of God who had come from Judah, “Thus says the Lord: Because you defied the Lord’s word and did not keep the commandment the Lord your God gave you,",
+      "candidate_sha256": "f9c123bac2a6bdc031895f113a614ea4aff74343b4312bbd6a8fe1ced1b8106e",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He said to the man of God who had come from Judah, “Thus says the Lord: Because you defied the Lord’s word and did not keep the commandment the Lord your God gave you,",
+        "spoken": "He said to the man of God who had come from Judah, “Thus says the Lord: Because you defied the Lord’s word and did not keep the commandment the Lord your God gave you,",
+        "literary": "He said to the man of God who had come from Judah, “Thus says the Lord: Because you defied the Lord’s word and did not keep the commandment the Lord your God gave you,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose you defied for you did defy in ordinary divine speech to a human. The causal judgment and commandment failure remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-22",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:22",
+      "verse_anchor": "v13-22",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "and did return, eat bread, and drink water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”",
+      "candidate_text": "and returned, ate bread, and drank water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”",
+      "candidate_sha256": "1b78f88b59e8585a7061cbf3a459ff7c0fa39a7066d6b38410e6fa6bc5b558cf",
+      "decision": "propose_revision",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "and returned, ate bread, and drank water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”",
+        "spoken": "and returned, ate bread, and drank water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”",
+        "literary": "and returned, ate bread, and drank water in this place where He told you, ‘Do not eat bread or drink water,’ your body shall certainly not enter your fathers’ tomb.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Propose returned, ate and drank for the shared did construction. The prohibited place, repeated food/water command and emphatic exclusion from the fathers' tomb remain.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-23",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:23",
+      "verse_anchor": "v13-23",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "After eating bread and drinking water, he saddled the donkey for him, and he returned.",
+      "candidate_text": "After eating bread and drinking water, he saddled the donkey for him, and he returned.",
+      "candidate_sha256": "56af3facb69ed8364b5863fbf0325126aa9bbf6cd2225e8aa847ac8cac6563dc",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "After eating bread and drinking water, he saddled the donkey for him, and he returned.",
+        "spoken": "After eating bread and drinking water, he saddled the donkey for him, and he returned.",
+        "literary": "After eating bread and drinking water, he saddled the donkey for him, and he returned."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "After food and water, saddling for him and returning remain with the selected unnamed subjects.",
+      "unresolved_questions": [
+        "The saddle agent and returner's pronouns require contextual interpretation; no extra prophetic description is inserted from another version."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-24",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:24",
+      "verse_anchor": "v13-24",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He went away, and a lion met him on the road and killed him. His body lay thrown on the road, with the donkey standing beside it and the lion standing beside the body.",
+      "candidate_text": "He went away, and a lion met him on the road and killed him. His body lay thrown on the road, with the donkey standing beside it and the lion standing beside the body.",
+      "candidate_sha256": "0278458dbcae3446d932ab50fbc984c6627e1de3ef428369671628c1ca16f2a4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He went away, and a lion met him on the road and killed him. His body lay thrown on the road, with the donkey standing beside it and the lion standing beside the body.",
+        "spoken": "He went away, and a lion met him on the road and killed him. His body lay thrown on the road, with the donkey standing beside it and the lion standing beside the body.",
+        "literary": "He went away, and a lion met him on the road and killed him. His body lay thrown on the road, with the donkey standing beside it and the lion standing beside the body."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The lion meets and kills the departing man; body, donkey and lion occupy the road scene without invented attack details.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-25",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:25",
+      "verse_anchor": "v13-25",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Behold, men passed by and saw the dead body thrown on the road, with the lion standing beside the dead body. They came and reported it in the city where the old prophet lived.",
+      "candidate_text": "Behold, men passed by and saw the dead body thrown on the road, with the lion standing beside the dead body. They came and reported it in the city where the old prophet lived.",
+      "candidate_sha256": "fc5d023b8aa1ddd292395694324d17167553259c8ccdbdecf97e191cb249acc7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Behold, men passed by and saw the dead body thrown on the road, with the lion standing beside the dead body. They came and reported it in the city where the old prophet lived.",
+        "spoken": "Behold, men passed by and saw the dead body thrown on the road, with the lion standing beside the dead body. They came and reported it in the city where the old prophet lived.",
+        "literary": "Behold, men passed by and saw the dead body thrown on the road, with the lion standing beside the dead body. They came and reported it in the city where the old prophet lived."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Behold introduces passersby seeing the body and adjacent lion and reporting in the old prophet's city, retaining the repeated dead-body language.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-26",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:26",
+      "verse_anchor": "v13-26",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The one who had brought him back from the road heard and said, “This is the man of God who defied the Lord’s word.”",
+      "candidate_text": "The one who had brought him back from the road heard and said, “This is the man of God who defied the Lord’s word.”",
+      "candidate_sha256": "878c3cd1c45b21a884905c521640e912c1ef53749871bfef76344cc8c3f3ff87",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The one who had brought him back from the road heard and said, “This is the man of God who defied the Lord’s word.”",
+        "spoken": "The one who had brought him back from the road heard and said, “This is the man of God who defied the Lord’s word.”",
+        "literary": "The one who had brought him back from the road heard and said, “This is the man of God who defied the Lord’s word.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The returning prophet identifies the man who defied the Lord's word; the shorter selected statement ends here without an added divine-delivery explanation.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-28",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:28",
+      "verse_anchor": "v13-28",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He went and found his body thrown on the road, with the donkey and lion standing beside the body. The lion had not eaten the man of God’s body or crushed the donkey.",
+      "candidate_text": "He went and found his body thrown on the road, with the donkey and lion standing beside the body. The lion had not eaten the man of God’s body or crushed the donkey.",
+      "candidate_sha256": "05d9e8ec11064925c1ba4c6679d742ea866c529b14bfe33a26008ca4ab89128b",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He went and found his body thrown on the road, with the donkey and lion standing beside the body. The lion had not eaten the man of God’s body or crushed the donkey.",
+        "spoken": "He went and found his body thrown on the road, with the donkey and lion standing beside the body. The lion had not eaten the man of God’s body or crushed the donkey.",
+        "literary": "He went and found his body thrown on the road, with the donkey and lion standing beside the body. The lion had not eaten the man of God’s body or crushed the donkey."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The body, donkey and lion remain, and the lion neither ate the body nor crushed the donkey; missing verse 27 is not supplied.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-29",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:29",
+      "verse_anchor": "v13-29",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The prophet lifted the man of God’s body and laid it on the donkey. The prophet brought him back into the city to bury him",
+      "candidate_text": "The prophet lifted the man of God’s body and laid it on the donkey. The prophet brought him back into the city to bury him",
+      "candidate_sha256": "fe4fe5780f874877a8ebdb6d4de4b04a83c9772424de68925f26ee7ce84b2d6a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The prophet lifted the man of God’s body and laid it on the donkey. The prophet brought him back into the city to bury him",
+        "spoken": "The prophet lifted the man of God’s body and laid it on the donkey. The prophet brought him back into the city to bury him",
+        "literary": "The prophet lifted the man of God’s body and laid it on the donkey. The prophet brought him back into the city to bury him"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The prophet lifts, loads and returns the body to the city for burial, with the tomb phrase continuing into verse 30.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-30",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:30",
+      "verse_anchor": "v13-30",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "in his own tomb; and they mourned him, “Alas, brother!”",
+      "candidate_text": "in his own tomb; and they mourned him, “Alas, brother!”",
+      "candidate_sha256": "795856f536dea8c471db74cf0d108251ace2acc376724008ebf3daf4a7df4cf4",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "in his own tomb; and they mourned him, “Alas, brother!”",
+        "spoken": "in his own tomb; and they mourned him, “Alas, brother!”",
+        "literary": "in his own tomb; and they mourned him, “Alas, brother!”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "His own tomb completes the burial clause; plural mourners and Alas, brother retain the brief lament.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-31",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:31",
+      "verse_anchor": "v13-31",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "After mourning him, he said to his sons, “If I die, bury me in this tomb where the man of God is buried. Place me beside his bones, so that my bones may be preserved with his bones,",
+      "candidate_text": "After mourning him, he said to his sons, “If I die, bury me in this tomb where the man of God is buried. Place me beside his bones, so that my bones may be preserved with his bones,",
+      "candidate_sha256": "a4fa2b81b8928dfe577f3e9866b96a127337f3fc6f7764180eb2ace05d683983",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "After mourning him, he said to his sons, “If I die, bury me in this tomb where the man of God is buried. Place me beside his bones, so that my bones may be preserved with his bones,",
+        "spoken": "After mourning him, he said to his sons, “If I die, bury me in this tomb where the man of God is buried. Place me beside his bones, so that my bones may be preserved with his bones,",
+        "literary": "After mourning him, he said to his sons, “If I die, bury me in this tomb where the man of God is buried. Place me beside his bones, so that my bones may be preserved with his bones,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "If I die, burial beside the man of God's bones and the explicit purpose that his own bones be preserved remain.",
+      "unresolved_questions": [
+        "Preserved/saved reflects sōthōsi without a supplied mechanism or claim about resurrection; the selected purpose clause is not omitted."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-32",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:32",
+      "verse_anchor": "v13-32",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "because the word he spoke by the Lord’s word against the altar in Bethel and against the high houses in Samaria will surely come to pass.”",
+      "candidate_text": "because the word he spoke by the Lord’s word against the altar in Bethel and against the high houses in Samaria will surely come to pass.”",
+      "candidate_sha256": "eda5b787263d57c9c3e96a44d2caf1db4ce2d58e097a87d96c5fbfce2623b1da",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "because the word he spoke by the Lord’s word against the altar in Bethel and against the high houses in Samaria will surely come to pass.”",
+        "spoken": "because the word he spoke by the Lord’s word against the altar in Bethel and against the high houses in Samaria will surely come to pass.”",
+        "literary": "because the word he spoke by the Lord’s word against the altar in Bethel and against the high houses in Samaria will surely come to pass.”"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The word's certain fulfillment concerns both Bethel's altar and high houses in Samaria, retaining the location without a chronological correction.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-33",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:33",
+      "verse_anchor": "v13-33",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "After this matter, Jeroboam did not turn from his evil. He again appointed priests of high places from some of the people. Whoever wished, he consecrated, and that person became a priest for the high places.",
+      "candidate_text": "After this matter, Jeroboam did not turn from his evil. He again appointed priests of high places from some of the people. Whoever wished, he consecrated, and that person became a priest for the high places.",
+      "candidate_sha256": "3e053c36b6eb9a5b0c402c7383d1b809e6c20a35f5002fb7ffb1310afba02ee1",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "After this matter, Jeroboam did not turn from his evil. He again appointed priests of high places from some of the people. Whoever wished, he consecrated, and that person became a priest for the high places.",
+        "spoken": "After this matter, Jeroboam did not turn from his evil. He again appointed priests of high places from some of the people. Whoever wished, he consecrated, and that person became a priest for the high places.",
+        "literary": "After this matter, Jeroboam did not turn from his evil. He again appointed priests of high places from some of the people. Whoever wished, he consecrated, and that person became a priest for the high places."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Jeroboam does not turn from evil and again appoints high-place priests from the people; whoever wishes and hand-filling become consecration in English.",
+      "unresolved_questions": [
+        "The precise subject of filled his hand, Jeroboam or the willing candidate, remains unresolved; the inherited consecrated wording does not claim an apparatus solution."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v13-34",
+      "book_id": "1-kings",
+      "reference": "1 Kings 13:34",
+      "verse_anchor": "v13-34",
+      "reading_section_id": "13",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "This matter became a sin for Jeroboam’s house, bringing destruction and disappearance from the face of the earth.",
+      "candidate_text": "This matter became a sin for Jeroboam’s house, bringing destruction and disappearance from the face of the earth.",
+      "candidate_sha256": "c2800d02c085f41b26ab6bbe4f4caaab4b2982508b69c3eebb29c0ed05a0d7ed",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.13",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "This matter became a sin for Jeroboam’s house, bringing destruction and disappearance from the face of the earth.",
+        "spoken": "This matter became a sin for Jeroboam’s house, bringing destruction and disappearance from the face of the earth.",
+        "literary": "This matter became a sin for Jeroboam’s house, bringing destruction and disappearance from the face of the earth."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The matter becomes sin, destruction and disappearance for Jeroboam's house from the earth's face, retaining all three consequences.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-21",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:21",
+      "verse_anchor": "v14-21",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Rehoboam son of Solomon reigned over Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord chose from all Israel’s tribes to place His name there. His mother’s name was Naamah the Ammonite.",
+      "candidate_text": "Rehoboam son of Solomon reigned over Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord chose from all Israel’s tribes to place His name there. His mother’s name was Naamah the Ammonite.",
+      "candidate_sha256": "429b6b2e013203c48cd488d2e81d86ca17a72413302696e0f8e5322251cfc0ef",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Rehoboam son of Solomon reigned over Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord chose from all Israel’s tribes to place His name there. His mother’s name was Naamah the Ammonite.",
+        "spoken": "Rehoboam son of Solomon reigned over Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord chose from all Israel’s tribes to place His name there. His mother’s name was Naamah the Ammonite.",
+        "literary": "Rehoboam son of Solomon reigned over Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord chose from all Israel’s tribes to place His name there. His mother’s name was Naamah the Ammonite."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "The chapter begins at verse 21 and gives Rehoboam age forty-one, seventeen years and Naamah the Ammonite, distinct from 12:24a.",
+      "unresolved_questions": [
+        "The two royal summaries are preserved without harmonizing their ages, reigns or maternal naming."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-22",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:22",
+      "verse_anchor": "v14-22",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Rehoboam did evil before the Lord and provoked Him to jealousy with all his fathers had done and with their sins which they committed,",
+      "candidate_text": "Rehoboam did evil before the Lord and provoked Him to jealousy with all his fathers had done and with their sins which they committed,",
+      "candidate_sha256": "82ef26862fcfaf440c774116da5e435bb21b23a4f3ad2a8f8750dd689b89dcff",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Rehoboam did evil before the Lord and provoked Him to jealousy with all his fathers had done and with their sins which they committed,",
+        "spoken": "Rehoboam did evil before the Lord and provoked Him to jealousy with all his fathers had done and with their sins which they committed,",
+        "literary": "Rehoboam did evil before the Lord and provoked Him to jealousy with all his fathers had done and with their sins which they committed,"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Rehoboam is the selected evil-doing subject, with provoked jealousy, fathers' acts and their sins retained; Judah is not substituted as subject.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-23",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:23",
+      "verse_anchor": "v14-23",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "and they built for themselves high places, standing stones, and groves on every high hill and under every shady tree.",
+      "candidate_text": "and they built for themselves high places, standing stones, and groves on every high hill and under every shady tree.",
+      "candidate_sha256": "1193a529b18297c81cc52426899546f97b0842a19776e70fc73ec437c758a98c",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "and they built for themselves high places, standing stones, and groves on every high hill and under every shady tree.",
+        "spoken": "and they built for themselves high places, standing stones, and groves on every high hill and under every shady tree.",
+        "literary": "and they built for themselves high places, standing stones, and groves on every high hill and under every shady tree."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Plural builders make high places, standing stones and groves on every high hill and beneath every shady tree.",
+      "unresolved_questions": [
+        "Groves retains alsē without deciding whether the reference is a planted grove or a specific cult object."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-24",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:24",
+      "verse_anchor": "v14-24",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "There was also a conspiracy in the land. They practiced things from all the abominations of the nations the Lord had removed before the sons of Israel.",
+      "candidate_text": "There was also a conspiracy in the land. They practiced things from all the abominations of the nations the Lord had removed before the sons of Israel.",
+      "candidate_sha256": "23c8193b41a4188bc213fbde834a8adaf17fa69ec61b2cad12137364d127c629",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "There was also a conspiracy in the land. They practiced things from all the abominations of the nations the Lord had removed before the sons of Israel.",
+        "spoken": "There was also a conspiracy in the land. They practiced things from all the abominations of the nations the Lord had removed before the sons of Israel.",
+        "literary": "There was also a conspiracy in the land. They practiced things from all the abominations of the nations the Lord had removed before the sons of Israel."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "A conspiracy arises and the people practice the removed nations' abominations, preserving the selected syndesmos.",
+      "unresolved_questions": [
+        "Conspiracy is provisional; a bond or organized association remains possible. Sexual personnel are not imported from another textual tradition."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-25",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:25",
+      "verse_anchor": "v14-25",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "In the fifth year of Rehoboam’s reign, Shishak king of Egypt went up against Jerusalem.",
+      "candidate_text": "In the fifth year of Rehoboam’s reign, Shishak king of Egypt went up against Jerusalem.",
+      "candidate_sha256": "b2f852968091a177bc0ca7ace3f93a70f034ba657ac93abb4241ec179a2739c7",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "In the fifth year of Rehoboam’s reign, Shishak king of Egypt went up against Jerusalem.",
+        "spoken": "In the fifth year of Rehoboam’s reign, Shishak king of Egypt went up against Jerusalem.",
+        "literary": "In the fifth year of Rehoboam’s reign, Shishak king of Egypt went up against Jerusalem."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Shishak's ascent against Jerusalem is dated to Rehoboam's fifth regnal year, retaining the exact date.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-26",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:26",
+      "verse_anchor": "v14-26",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "He took all the treasures of the Lord’s house and the king’s house, and the golden spears David had taken from the hands of the servants of Hadadezer king of Zobah and brought to Jerusalem. He took everything—the golden shields.",
+      "candidate_text": "He took all the treasures of the Lord’s house and the king’s house, and the golden spears David had taken from the hands of the servants of Hadadezer king of Zobah and brought to Jerusalem. He took everything—the golden shields.",
+      "candidate_sha256": "97f9653b999734556ea0fe8b5b3e47ccc5ee67bf8d77aee3289ec7401c855527",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "He took all the treasures of the Lord’s house and the king’s house, and the golden spears David had taken from the hands of the servants of Hadadezer king of Zobah and brought to Jerusalem. He took everything—the golden shields.",
+        "spoken": "He took all the treasures of the Lord’s house and the king’s house, and the golden spears David had taken from the hands of the servants of Hadadezer king of Zobah and brought to Jerusalem. He took everything—the golden shields.",
+        "literary": "He took all the treasures of the Lord’s house and the king’s house, and the golden spears David had taken from the hands of the servants of Hadadezer king of Zobah and brought to Jerusalem. He took everything—the golden shields."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Both treasuries, David's golden spears from Hadadezer's attendants, Jerusalem transfer and all the golden shields remain in the fuller inventory.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-27",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:27",
+      "verse_anchor": "v14-27",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "King Rehoboam made bronze shields in their place. The leaders of the runners who guarded the gateway of the king’s house placed them on him.",
+      "candidate_text": "King Rehoboam made bronze shields in their place. The leaders of the runners who guarded the gateway of the king’s house placed them on him.",
+      "candidate_sha256": "f96199880b33c15f80d7c582cd3fb406beba18f77041cd377fc13dcb048af94a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "King Rehoboam made bronze shields in their place. The leaders of the runners who guarded the gateway of the king’s house placed them on him.",
+        "spoken": "King Rehoboam made bronze shields in their place. The leaders of the runners who guarded the gateway of the king’s house placed them on him.",
+        "literary": "King Rehoboam made bronze shields in their place. The leaders of the runners who guarded the gateway of the king’s house placed them on him."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Bronze replacement shields and the gate-guard runners' leaders placing them on him preserve the inherited active construction.",
+      "unresolved_questions": [
+        "Them is supplied from shields; the middle verb and on-him relation remain unresolved. Handing shields to the guards is not silently substituted."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-28",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:28",
+      "verse_anchor": "v14-28",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Whenever the king entered the Lord’s house, the runners took the shields up and deposited them in the runners’ chamber.",
+      "candidate_text": "Whenever the king entered the Lord’s house, the runners took the shields up and deposited them in the runners’ chamber.",
+      "candidate_sha256": "1f72d0564bfff502b83c3d0a9913ee57069103e79c31fbdda8484bbcfa3f664a",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Whenever the king entered the Lord’s house, the runners took the shields up and deposited them in the runners’ chamber.",
+        "spoken": "Whenever the king entered the Lord’s house, the runners took the shields up and deposited them in the runners’ chamber.",
+        "literary": "Whenever the king entered the Lord’s house, the runners took the shields up and deposited them in the runners’ chamber."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Recurring royal temple entry, runners carrying the shields and depositing them in their chamber retain the ritual movement.",
+      "unresolved_questions": [
+        "Chamber interprets the transliterated thee provisionally; its precise architectural referent is not established."
+      ],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-29",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:29",
+      "verse_anchor": "v14-29",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "The rest of Rehoboam’s acts and all he did—behold, are these not written in the Book of the Annals of the Kings of Judah?",
+      "candidate_text": "The rest of Rehoboam’s acts and all he did—behold, are these not written in the Book of the Annals of the Kings of Judah?",
+      "candidate_sha256": "4a717adb2ed1185fa5453facc62b8f8c4943d828caacec41be112f0a35e9ead6",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "The rest of Rehoboam’s acts and all he did—behold, are these not written in the Book of the Annals of the Kings of Judah?",
+        "spoken": "The rest of Rehoboam’s acts and all he did—behold, are these not written in the Book of the Annals of the Kings of Judah?",
+        "literary": "The rest of Rehoboam’s acts and all he did—behold, are these not written in the Book of the Annals of the Kings of Judah?"
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Remaining acts, all deeds, behold and the negative question retain the Judah royal annals reference without claiming access to that work.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-30",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:30",
+      "verse_anchor": "v14-30",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "There was war between Rehoboam and Jeroboam continually.",
+      "candidate_text": "There was war between Rehoboam and Jeroboam continually.",
+      "candidate_sha256": "eebfa24b3dda778baecb18d91426f5f936e9916e15e32e8ec0f8d4c5dea15a61",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "There was war between Rehoboam and Jeroboam continually.",
+        "spoken": "There was war between Rehoboam and Jeroboam continually.",
+        "literary": "There was war between Rehoboam and Jeroboam continually."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "War between Rehoboam and Jeroboam continues all the days, preserving the source's broad statement without chronology harmonization.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    },
+    {
+      "record_type": "focused_running_text_comparison",
+      "review_id": "OT-120-1-kings-v14-31",
+      "book_id": "1-kings",
+      "reference": "1 Kings 14:31",
+      "verse_anchor": "v14-31",
+      "reading_section_id": "14",
+      "baseline_commit": "39a2bb990f252f9c867879f14942b200c4a86aa5",
+      "baseline_text": "Rehoboam slept with his fathers and was buried with his fathers in the City of David. Abiou his son reigned in his place.",
+      "candidate_text": "Rehoboam slept with his fathers and was buried with his fathers in the City of David. Abiou his son reigned in his place.",
+      "candidate_sha256": "c19a6d622a58c0b9a2726d0cb5b069080ac86a514d3940b5118ddc2ccf5bc575",
+      "decision": "retain_provisionally",
+      "source": {
+        "edition": "Rahlfs–Hanhart 2006",
+        "url": "https://www.die-bibel.de/en/bible/LXX/1KI.14",
+        "accessed_on": "2026-11-13",
+        "running_text_read": true,
+        "apparatus_consulted": false
+      },
+      "drafts": {
+        "close": "Rehoboam slept with his fathers and was buried with his fathers in the City of David. Abiou his son reigned in his place.",
+        "spoken": "Rehoboam slept with his fathers and was buried with his fathers in the City of David. Abiou his son reigned in his place.",
+        "literary": "Rehoboam slept with his fathers and was buried with his fathers in the City of David. Abiou his son reigned in his place."
+      },
+      "draft_policy": "Identical working stages deliberately retain wording supported by the authored comparison. These are AI stages, not human reading-aloud review.",
+      "analysis": "Sleeping and burial with fathers in David's city precede Abiou's succession, retaining the selected son-name form and no repeated maternal notice.",
+      "unresolved_questions": [],
+      "review": {
+        "reviewer": "OpenAI Codex assistant",
+        "type": "AI",
+        "scope": "Authored passage-specific running-text comparison; complete token and apparatus work not credited.",
+        "all_tokens_accounted_for": false,
+        "independent_greek": null,
+        "human_read_aloud": null,
+        "editorial_acceptance": null
+      },
+      "benchmark_change": false,
+      "publication": {
+        "staging": null,
+        "production": null
+      }
+    }
+  ]
+}

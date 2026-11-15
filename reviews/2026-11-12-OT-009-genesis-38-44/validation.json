@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "counts": {
+    "units": 239,
+    "chapters": 7,
+    "proposed_revisions": 3,
+    "retained_provisionally": 236,
+    "token_aligned": 0,
+    "editorially_accepted": 0
+  },
+  "checks": [
+    "Exact original Genesis file matches frozen baseline",
+    "All 239 units in source order with original references and anchors",
+    "Seven chapter counts verified",
+    "Every unit has manually authored passage-specific analysis",
+    "Candidate hashes match literary drafts",
+    "All changed candidates are prose; no recorded poetry breaks altered",
+    "No independent human, apparatus, acceptance or publication status credited"
+  ],
+  "limits": "Structural validation is not Greek-language certification."
+}

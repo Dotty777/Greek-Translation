@@ -1,0 +1,218 @@
+{
+  "scope": "Manually read displayed ages and dates with arithmetic checks; not a manuscript chronology reconstruction.",
+  "genesis_5": [
+    {
+      "name": "Adam",
+      "before": 230,
+      "after": 700,
+      "stated_total": 930,
+      "references": [
+        "5:3",
+        "5:4",
+        "5:5"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Seth",
+      "before": 205,
+      "after": 707,
+      "stated_total": 912,
+      "references": [
+        "5:6",
+        "5:7",
+        "5:8"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Enosh",
+      "before": 190,
+      "after": 715,
+      "stated_total": 905,
+      "references": [
+        "5:9",
+        "5:10",
+        "5:11"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Cainan",
+      "before": 170,
+      "after": 740,
+      "stated_total": 910,
+      "references": [
+        "5:12",
+        "5:13",
+        "5:14"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Mahalalel",
+      "before": 165,
+      "after": 730,
+      "stated_total": 895,
+      "references": [
+        "5:15",
+        "5:16",
+        "5:17"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Jared",
+      "before": 162,
+      "after": 800,
+      "stated_total": 962,
+      "references": [
+        "5:18",
+        "5:19",
+        "5:20"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Methuselah",
+      "before": 167,
+      "after": 802,
+      "stated_total": 969,
+      "references": [
+        "5:25",
+        "5:26",
+        "5:27"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Enoch",
+      "before": 165,
+      "after": 200,
+      "stated_total": 365,
+      "references": [
+        "5:21",
+        "5:22",
+        "5:23"
+      ],
+      "sum_matches_stated_total": true
+    },
+    {
+      "name": "Lamech",
+      "before": 188,
+      "after": 565,
+      "stated_total": 753,
+      "references": [
+        "5:28",
+        "5:30",
+        "5:31"
+      ],
+      "sum_matches_stated_total": true
+    }
+  ],
+  "genesis_11": [
+    {
+      "name": "Shem",
+      "before": 100,
+      "after": 500,
+      "derived_total": 600
+    },
+    {
+      "name": "Arphaxad",
+      "before": 135,
+      "after": 430,
+      "derived_total": 565
+    },
+    {
+      "name": "Cainan",
+      "before": 130,
+      "after": 330,
+      "derived_total": 460,
+      "all_latter_material_anchor": "v11-13"
+    },
+    {
+      "name": "Shelah",
+      "before": 130,
+      "after": 330,
+      "derived_total": 460
+    },
+    {
+      "name": "Eber",
+      "before": 134,
+      "after": 370,
+      "derived_total": 504
+    },
+    {
+      "name": "Peleg",
+      "before": 130,
+      "after": 209,
+      "derived_total": 339
+    },
+    {
+      "name": "Reu",
+      "before": 132,
+      "after": 207,
+      "derived_total": 339
+    },
+    {
+      "name": "Serug",
+      "before": 130,
+      "after": 200,
+      "derived_total": 330
+    },
+    {
+      "name": "Nahor",
+      "before": 79,
+      "after": 129,
+      "derived_total": 208
+    }
+  ],
+  "noah": {
+    "begetting_summary_age": 500,
+    "flood_age": 600,
+    "post_flood_years": 350,
+    "stated_lifespan": 950
+  },
+  "terah": {
+    "begetting_summary_age": 70,
+    "days_in_harran": 205,
+    "unresolved": "The source attaches in Harran to the days statement; do not silently remove it to harmonize chronology."
+  },
+  "flood_dates": [
+    {
+      "reference": "7:11",
+      "year_of_noah": 600,
+      "month": 2,
+      "day": 27
+    },
+    {
+      "reference": "8:4",
+      "month": 7,
+      "day": 27
+    },
+    {
+      "reference": "8:5",
+      "diminishing_until_month": 10,
+      "visible_tops_month": 11,
+      "day": 1
+    },
+    {
+      "reference": "8:13",
+      "year_of_noah": 601,
+      "month": 1,
+      "day": 1
+    },
+    {
+      "reference": "8:14",
+      "month": 2,
+      "day": 27
+    }
+  ],
+  "unresolved_methuselah_flood_tension": {
+    "method": "Illustrative sequential sum of the named-line begetting ages, treating each as the father's elapsed age. This is an arithmetic inference, not an absolute historical date.",
+    "flood_relative_year": 2242,
+    "methuselah_death_relative_year": 2256,
+    "difference_years": 14,
+    "action": "Preserve displayed numbers and flag for apparatus/contextual chronology review; do not invent a resolving variant or alter the source."
+  }
+}
