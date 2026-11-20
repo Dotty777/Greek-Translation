@@ -1,0 +1,44 @@
+# Isaiah 53 — Saints Modern English Pilot (Greek — Septuagint OT / Theodotion Daniel / Saints NT)
+
+> **Status:** `draft: true` — Reviewed pilot translation (12 verses, 10 translator notes).  
+> **Source basis:** `Saints-Greek-Critical-Text` (own-source fidelity; Saints.Bible versification).  
+> **Method:** Literal (formal-equivalent) Modern English smoothed for reading (see [`STYLE.md`](../STYLE.md)).
+
+## Text
+
+**53:1** Lord, who believed our message? And to whom was the arm of the Lord revealed?
+
+**53:2** We announced before Him as a child, as a root in thirsty ground; He has no form or glory. And we saw Him, and He had no form or beauty;
+
+**53:3** but His form was without honor and failing beyond the sons of men; He was a man in plague and knowing how to bear sickness, because His face has been turned away; He was dishonored and not reckoned.
+
+**53:4** This One bears our sins and suffers anguish for us, and we reckoned Him to be in pain and in plague and in affliction.
+
+**53:5** But He was wounded because of our sins, and He has been made sick because of our lawless deeds; the discipline of our peace was upon Him; by His bruise we were healed.
+
+**53:6** All of us went astray like sheep; each man went astray in his own way; and the Lord handed Him over to our sins.
+
+**53:7** And He, because He has been afflicted, does not open His mouth; like a sheep He was led to slaughter, and like a lamb before the one shearing it is silent, so He does not open His mouth.
+
+**53:8** In His humiliation His judgment was taken away; who will describe His generation? For His life is taken away from the earth; because of the lawless deeds of My people He was led to death.
+
+**53:9** And I will give the wicked in exchange for His burial, and the rich in exchange for His death; because He did no lawlessness, nor was there deceit in His mouth.
+
+**53:10** And the Lord desires to cleanse Him from the plague. If you give an offering for sin, our soul will see a long-lived seed.
+
+**53:11** And the Lord desires to take away from the pain of His soul, to show Him light and to form Him with understanding, to justify a righteous one who serves many well; and He Himself will bear their sins.
+
+**53:12** Therefore He will inherit many, and He will divide the spoils of the strong, because His soul was handed over to death, and He was reckoned among the lawless; and He Himself bore the sins of many, and because of their lawless deeds He was handed over.
+
+## Translator Notes
+
+- **53:1** — ἀκοή means "what is heard," that is, a report or message. The verbs are aorists. The Greek adds the address "Lord" at the start, as quoted in John 12:38 and Romans 10:16.
+- **53:2** — ἀνηγγείλαμεν means "we announced"; this is the Greek's own reading and differs from the Hebrew "he grew up." Pronouns for the Servant are capitalized, following NASB-style practice for this messianic passage. "Before Him" may refer to the Lord.
+- **53:3** — πληγή (a blow, stroke or plague) is rendered "plague" throughout the chapter (53:3, 4, 10), so that "cleanse Him from the plague" in 53:10 keeps the link. λογίζομαι is rendered "reckon" in 53:3, 4 and 12.
+- **53:4** — The Greek reads "bears our sins," not "griefs," and its verbs are present tense, kept here.
+- **53:5** — παιδεία means "discipline, correction, instruction." μώλωψ is a welt or bruise left by a blow; the singular "bruise" follows the Greek.
+- **53:8** — This is the Greek form quoted in Acts 8:32–33. ἀπὸ τῶν ἀνομιῶν can mean "because of" or "from" the lawless deeds; "because of" fits the context.
+- **53:9** — In the Greek the Lord speaks in the first person, "I will give the wicked in exchange for His burial." This differs from the Hebrew and is rendered as it stands.
+- **53:10** — The Saints Greek Critical Text reads ἡμῶν ("our soul"); many editions read ὑμῶν ("your soul"). The rendering follows the Saints text. περὶ ἁμαρτίας is the standard Septuagint expression for a sin offering.
+- **53:11** — The Greek infinitives are kept in sequence ("to take away... to show... to form... to justify"). πλάσαι τῇ συνέσει, "to form (Him) with understanding," is the Greek's own wording.
+- **53:12** — ἀνθ᾽ ὧν means "in return for which," that is, "because." παραδίδωμι is rendered "hand over" in 53:6 and 53:12.
