@@ -6,6 +6,7 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 
 **[Read the Greek Translation Roadmap](ROADMAP.md)** — accuracy first, natural reading aloud second, reverent poetic English third.
 
+- [Saints Greek Critical Text](Saints-Greek-Critical-Text/README.md): the full 70-book, 1,291-chapter open-licence reconstructed Greek critical text (LXX + NT, `01_Law/`–`07_Glory/`, `.md`, `.tsv`, `.json`).
 - [Translation standard](TRANSLATION-STANDARD.md), [source/access register](docs/SOURCE-REGISTER.md) and [provisional name decisions](docs/OT-NAME-DECISIONS.json).
 - [Highlighted word and phrase studies](docs/WORD-STUDIES.md), including the James 2:24 popup pilot.
 - [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).

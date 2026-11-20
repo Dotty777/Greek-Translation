@@ -1,0 +1,679 @@
+# Hebrews 04 — Saints Greek Critical Text
+
+**Division:** `06_Discipleship` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:14:15Z`
+
+**Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `SBLGNT`. Spelling and punctuation follow `SBLGNT` where it attests the adopted reading.
+
+**Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
+
+---
+
+## Section I — Admitted Witnesses & Gatekeeper Quarantine Declaration
+
+### Admitted Collation Witnesses (Open-Source Tiers 1–4)
+| Siglum | Witness Title | Tier | Weight | License | Text-Type |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **SRGNT** | Statistical Restoration Greek New Testament (CNTR 2022) | Tier 1 | `0.95` | CC BY 4.0 | Earliest-Manuscript Statistical Critical Edition |
+| **SBLGNT** | SBL Greek New Testament & Apparatus (Holmes 2010) | Tier 1 | `0.94` | CC BY 4.0 | Reasoned Eclectic Critical Edition |
+| **BHP** | Bunning Heuristic Prototype GNT (CNTR) | Tier 1 | `0.88` | CC BY 4.0 | Algorithmic Alexandrian/Early Witness Reconstruction |
+| **Nestle1904** | Eberhard Nestle Greek New Testament (1904) | Tier 2 | `0.90` | Public Domain | Tischendorf / Westcott-Hort / Weymouth Consensus |
+| **RP2018 (Byz)** | Robinson–Pierpont Byzantine Textform (2018) | Tier 3 | `0.72` | Public Domain / Unlicense | Byzantine / Majority Ecclesiastical Tradition |
+| **TR (KJTR)** | Textus Receptus (CNTR KJTR Collation) | Tier 3 | `0.60` | CC BY 4.0 | Reformation Textus Receptus Tradition |
+| **B (03)** | Codex Vaticanus Direct Transcription (CNTR Early MSS) | Tier 4 | `0.98` | CC BY-SA 4.0 | Premier Alexandrian Uncial |
+| **א (01)** | Codex Sinaiticus Direct Transcription (CNTR Early MSS) | Tier 4 | `0.96` | CC BY-SA 4.0 | Alexandrian / Western Mixed Uncial |
+
+### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
+
+| Siglum | Witness Title | Tier | License | Text-Type |
+| :--- | :--- | :---: | :--- | :--- |
+| **TCGNT (Byz)** | The Text-Critical Greek New Testament: Byzantine Text (Robert Adam Boyd) | Tier 3 | Public Domain | Byzantine Majority Manuscript Collation (TuT / ECM / Hoskier) |
+| **PT1904 (Byz)** | 1904 Ecumenical Patriarchal Greek New Testament (Basileios Antoniades) | Tier 3 | Public Domain | Constantinopolitan Lectionary & Byzantine Ecclesiastical Majority |
+| **TR-Scrivener (1894)** | Scrivener Textus Receptus (Cambridge 1894 Polytonic Edition) | Tier 3 | Public Domain / GPL-3.0 | Beza 1598 / KJV-Underlying Textus Receptus |
+| **TR-Boyd (Elz/Scr/Steph)** | Polytonic Textus Receptus (Stephanus 1550 / Elzevir 1624 / Scrivener 1894) | Tier 3 | Public Domain | Reformation Printed Textus Receptus |
+
+### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
+| Source | Status | Reason Excluded from Open Critical Text |
+| :--- | :---: | :--- |
+| Pickering-f35 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Carries NonCommercial-NoDerivatives (CC BY-NC-ND) restriction prohibiting derivative critical editions. |
+| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+
+---
+
+## Section II — Continuous Greek Critical Text
+
+**1** Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι·
+**2** καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλʼ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν.
+**3** εἰσερχόμεθα γὰρ εἰς κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν· Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου, καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων,
+**4** εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως· Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ,
+**5** καὶ ἐν τούτῳ πάλιν· Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+**6** ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον διʼ ἀπείθειαν,
+**7** πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν·
+**8** εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+**9** ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ·
+**10** ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός.
+**11** σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+**12** Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·
+**13** καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+**14** Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, κρατῶμεν τῆς ὁμολογίας·
+**15** οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας.
+**16** προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+
+---
+
+## Section III — Critical Apparatus & Disregarded Surface Noise
+
+### Hebrews 4:1
+- *Disregarded Surface Variant:* kept `Φοβηθῶμεν` over `φοβηθωμεν`, `φοβηθῶμεν` (B (03), BHP, Nestle1904, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὖν` over `ουν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μήποτε` over `μηποτε`, `μή ποτε` (B (03), Nestle1904, א (01)) — *Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `καταλειπομένης` over `καταλειπομενησ`, `καταλιπομενησ` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `ἐπαγγελίας` over `επαγγελιασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσελθεῖν` over `εισελθειν`, `εισελθιν` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατάπαυσιν` over `καταπαυσιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `δοκῇ` over `δοκη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τις` over `τισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐξ` over `εξ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὑμῶν` over `υμων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὑστερηκέναι·` over `υστερηκεναι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `μήποτε / μή ποτε,`, `μήποτε / μή ποτε` (PT1904 (Byz), TR-Scrivener (1894)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+
+### Hebrews 4:2
+- **Apparatus:** `συγκεκερασμένους` SRGNT SBLGNT B (03) BHP **]** **συνκεκερασμένος** א (01) Nestle1904 ; **συγκεκραμένους** RP2018 (Byz) PT1904 (Byz) TCGNT (Byz) ; **συγκεκραμένος** TR (KJTR) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(lexical substitution)*
+  - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.
+- *Disregarded Surface Variant:* kept `καὶ` over `και`, `Καὶ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γάρ` over `γαρ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐσμεν` over `εσμεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εὐηγγελισμένοι` over `ευηγγελισμενοι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καθάπερ` over `καθαπερ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κἀκεῖνοι,` over `κακεινοι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀλλʼ` over `αλλ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὐκ` over `ουκ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὠφέλησεν` over `ωφελησεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὁ` over `ο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `λόγος` over `λογοσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῆς` over `τησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀκοῆς` over `ακοησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐκείνους,` over `εκεινουσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μὴ` over `μη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `συγκεκερασμένους` over `συνκεκερασμενουσ`, `συνκεκερασμένους` (B (03), BHP) — *Spelling variant pooled before the vote with the reading 'συγκεκερασμένους' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
+- *Disregarded Surface Variant:* kept `τῇ` over `τη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πίστει` over `πιστει`, `πιστι` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `τοῖς` over `τοισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀκούσασιν.` over `ακουσασιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+### Hebrews 4:3
+- **Apparatus:** `γὰρ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **ουν** א (01) *(lexical substitution)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT BHP **]** **τὴν** א (01) Nestle1904 RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(omission / addition)*
+  - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.
+- *Disregarded Surface Variant:* kept `εἰσερχόμεθα` over `εισερχομεθα`, `Εἰσερχόμεθα` (B (03), Nestle1904, RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατάπαυσιν` over `καταπαυσιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οἱ` over `οι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πιστεύσαντες,` over `πιστευσαντεσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καθὼς` over `καθωσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἴρηκεν·` over `ειρηκεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Ὡς` over `ωσ`, `“ὡς` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὤμοσα` over `ωμοσα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐν` over `εν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῇ` over `τη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὀργῇ` over `οργη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μου,` over `μου` (B (03), Nestle1904, א (01)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `Εἰ` over `ει`, `‘εἰ` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσελεύσονται` over `εισελευσονται` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατάπαυσίν` over `καταπαυσιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μου,` over `μου`, `μου’”,`, `μου’”·`, `μου·`, `μου:` (B (03), BHP, RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `καίτοι` over `καιτοι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῶν` over `των` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἔργων` over `εργων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀπὸ` over `απο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καταβολῆς` over `καταβολησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κόσμου` over `κοσμου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γενηθέντων,` over `γενηθεντων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+### Hebrews 4:4
+- *Disregarded Surface Variant:* kept `εἴρηκεν` over `ειρηκεν`, `Εἴρηκεν` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γάρ` over `γαρ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `περὶ` over `περι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῆς` over `τησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἑβδόμης` over `εβδομησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὕτως·` over `ουτωσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Καὶ` over `και`, `“καὶ` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατέπαυσεν` over `κατεπαυσεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὁ` over `ο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `θεὸς` over `θσ̅`, `Θεὸς` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `ἐν` over `εν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῇ` over `τη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἡμέρᾳ` over `ημερα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῇ` over `τη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἑβδόμῃ` over `εβδομη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀπὸ` over `απο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πάντων` over `παντων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῶν` over `των` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἔργων` over `εργων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `εἴρηκεν / εἴρηκε`, `εἴρηκεν / εἴρηκε`, `εἴρηκεν / Εἴρηκε`, `εἴρηκεν / εἴρηκε` (PT1904 (Byz), TCGNT (Byz), TR-Boyd (Elz/Scr/Steph), TR-Scrivener (1894)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `οὕτως· / οὕτω·`, `οὕτως· / οὕτω,`, `οὕτως· / οὕτω,`, `οὕτως· / οὕτω,` (PT1904 (Byz), TCGNT (Byz), TR-Boyd (Elz/Scr/Steph), TR-Scrivener (1894)) — *Apparatus witness, not a variant: Movable final sigma (οὕτω/οὕτως type)*
+
+### Hebrews 4:5
+- *Disregarded Surface Variant:* kept `καὶ` over `και`, `Καὶ` (B (03), TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐν` over `εν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τούτῳ` over `τουτω` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πάλιν·` over `παλιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Εἰ` over `ει`, `“εἰ` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσελεύσονται` over `εισελευσονται` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατάπαυσίν` over `καταπαυσιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μου.` over `μου`, `μου.”` (B (03), BHP, SRGNT, א (01)) — *Punctuation / spacing difference only*
+
+### Hebrews 4:6
+- **Apparatus:** `ἀπείθειαν` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **απιστιαν** א (01) *(lexical substitution)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `ἐπεὶ` over `επει`, `Ἐπεὶ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὖν` over `ουν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀπολείπεται` over `απολειπεται` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τινὰς` over `τινασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσελθεῖν` over `εισελθειν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτήν,` over `αυτην` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οἱ` over `οι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πρότερον` over `προτερον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εὐαγγελισθέντες` over `ευαγγελισθεντεσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὐκ` over `ουκ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσῆλθον` over `εισηλθον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `διʼ` over `δι`, `δι’` (B (03), Nestle1904, RP2018 (Byz), א (01)) — *Punctuation / spacing difference only*
+
+### Hebrews 4:7
+- **Apparatus:** `τινὰ ὁρίζει` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **οριζει τινα** א (01) *(word-order transposition)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- **Apparatus:** `προείρηται` א (01) SRGNT SBLGNT Nestle1904 BHP **]** **εἴρηται** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) ; **προειρηκεν** B (03) *(lexical substitution)*
+  - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts.
+- **Apparatus:** `σκληρύνητε` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **σκληρυνηται** א (01) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `πάλιν` over `παλιν`, `Πάλιν,` (B (03), TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἡμέραν,` over `ημεραν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Σήμερον,` over `σημερον`, `“σήμερον”,` (B (03), BHP, SRGNT, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐν` over `εν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Δαυὶδ` over `δαυειδ`, `Δαυεὶδ`, `Δαυίδ` (B (03), BHP, Nestle1904, TR (KJTR), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `λέγων` over `λεγων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μετὰ` over `μετα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τοσοῦτον` over `τοσουτον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `χρόνον,` over `χρονον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καθὼς` over `καθωσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Σήμερον` over `σημερον`, `“σήμερον` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐὰν` over `εαν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῆς` over `τησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `φωνῆς` over `φωνησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀκούσητε,` over `ακουσητε` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μὴ` over `μη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τὰς` over `τασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καρδίας` over `καρδιασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὑμῶν·` over `υμων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Δαυὶδ / Δαβὶδ`, `Δαυὶδ / Δαβὶδ` (TR-Boyd (Elz/Scr/Steph), TR-Scrivener (1894)) — *Apparatus witness, not a variant: Semitic proper-name transliteration convention (Δαυίδ / Δαυεὶδ / Δαβίδ, Λευί / Λεβί)*
+
+### Hebrews 4:8
+- **Apparatus:** `ἂν` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **αρα** B (03) *(lexical substitution)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `εἰ` over `ει`, `Εἰ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γὰρ` over `γαρ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοὺς` over `αυτουσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Ἰησοῦς` over `ισ̅` (B (03), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `κατέπαυσεν,` over `κατεπαυσεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὐκ` over `ουκ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `περὶ` over `περι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἄλλης` over `αλλησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐλάλει` over `ελαλει` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μετὰ` over `μετα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ταῦτα` over `ταυτα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἡμέρας.` over `ημερασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+### Hebrews 4:9
+- **Apparatus:** `ἀπολείπεται` SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **απολειται** B (03) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `ἄρα` over `αρα`, `Ἄρα` (B (03), RP2018 (Byz), SRGNT, TR (KJTR)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `σαββατισμὸς` over `σαββατισμοσ` (B (03)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῷ` over `τω` (B (03)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `λαῷ` over `λαω` (B (03)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τοῦ` over `του` (B (03)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `θεοῦ·` over `θυ̅`, `Θεοῦ.` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR)) — *Nomen sacrum (contracted sacred name) for the full word*
+
+### Hebrews 4:10
+- *Disregarded Surface Variant:* kept `ὁ` over `ο`, `Ὁ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γὰρ` over `γαρ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσελθὼν` over `εισελθων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατάπαυσιν` over `καταπαυσιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτὸς` over `αυτοσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατέπαυσεν` over `κατεπαυσεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀπὸ` over `απο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῶν` over `των` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἔργων` over `εργων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὥσπερ` over `ωσπερ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀπὸ` over `απο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῶν` over `των` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἰδίων` over `ιδιων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὁ` over `ο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `θεός.` over `θσ̅`, `Θεός.` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+
+### Hebrews 4:11
+- **Apparatus:** `τις ὑποδείγματι` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **υποδιγματι** א (01) *(lexical substitution)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `σπουδάσωμεν` over `σπουδασωμεν`, `Σπουδάσωμεν` (B (03), Nestle1904, RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὖν` over `ουν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰσελθεῖν` over `εισελθειν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐκείνην` over `εκεινην` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατάπαυσιν,` over `καταπαυσιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἵνα` over `ινα`, `εινα` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `μὴ` over `μη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐν` over `εν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῷ` over `τω` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτῷ` over `αυτω` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πέσῃ` over `πεση` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῆς` over `τησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀπειθείας.` over `απειθειασ`, `απιθιασ` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+
+### Hebrews 4:12
+- **Apparatus:** `ἐνεργὴς` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **εναργησ** B (03) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- **Apparatus:** `διϊκνούμενος` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **διυκνουμενοσ** א (01) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- **Apparatus:** `ψυχῆς` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) **]** **om.** א (01) ; **ψυχῆς τε** PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(omission / addition)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **τὲ** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(omission / addition)*
+  - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
+- *Disregarded Surface Variant:* kept `Ζῶν` over `ζων`, `ζῶν` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γὰρ` over `γαρ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὁ` over `ο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `λόγος` over `λογοσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τοῦ` over `του` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `θεοῦ` over `θυ̅`, `Θεοῦ,`, `Θεοῦ` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τομώτερος` over `τομωτεροσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὑπὲρ` over `υπερ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πᾶσαν` over `πασαν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μάχαιραν` over `μαχαιραν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `δίστομον` over `διστομον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἄχρι` over `αχρι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μερισμοῦ` over `μερισμου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πνεύματος,` over `πνευματοσ`, `πνσ̅` (B (03), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `ἁρμῶν` over `αρμων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μυελῶν,` over `μυελων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κριτικὸς` over `κριτικοσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐνθυμήσεων` over `ενθυμησεων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐννοιῶν` over `εννοιων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καρδίας·` over `καρδιασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+### Hebrews 4:13
+- *Disregarded Surface Variant:* kept `καὶ` over `και`, `Καὶ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὐκ` over `ουκ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἔστιν` over `εστιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κτίσις` over `κτισισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀφανὴς` over `αφανησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐνώπιον` over `ενωπιον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πάντα` over `παντα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `δὲ` over `δε` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γυμνὰ` over `γυμνα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τετραχηλισμένα` over `τετραχηλισμενα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τοῖς` over `τοισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὀφθαλμοῖς` over `οφθαλμοισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αυτου` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πρὸς` over `προσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὃν` over `ον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἡμῖν` over `ημιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὁ` over `ο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `λόγος.` over `λογοσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι`, `ἔστιν / ἔστι`, `ἔστιν / ἔστι`, `ἔστιν / ἔστι` (PT1904 (Byz), TCGNT (Byz), TR-Boyd (Elz/Scr/Steph), TR-Scrivener (1894)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+
+### Hebrews 4:14
+- **Apparatus:** `διεληλυθότα` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **διεληλυθα** א (01) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `Ἔχοντες` over `εχοντεσ`, `ἔχοντες` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὖν` over `ουν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀρχιερέα` over `αρχιερεα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μέγαν` over `μεγαν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τοὺς` over `τουσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὐρανούς,` over `ουρανουσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `Ἰησοῦν` over `ιν̅` (B (03), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `τὸν` over `τον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `υἱὸν` over `υιον`, `υν̅`, `Υἱὸν` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `τοῦ` over `του` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `θεοῦ,` over `θυ̅`, `Θεοῦ,` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR), א (01)) — *Nomen sacrum (contracted sacred name) for the full word*
+- *Disregarded Surface Variant:* kept `κρατῶμεν` over `κρατωμεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῆς` over `τησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὁμολογίας·` over `ομολογιασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+### Hebrews 4:15
+- **Apparatus:** `πεπειρασμένον` B (03) SRGNT SBLGNT Nestle1904 BHP TR (KJTR) א (01) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **πεπειραμένον** RP2018 (Byz) PT1904 (Byz) TCGNT (Byz) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
+- *Disregarded Surface Variant:* kept `οὐ` over `ου`, `Οὐ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `γὰρ` over `γαρ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἔχομεν` over `εχομεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀρχιερέα` over `αρχιερεα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μὴ` over `μη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `δυνάμενον` over `δυναμενον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `συμπαθῆσαι` over `συνπαθησαι`, `συνπαθῆσαι` (B (03), BHP, Nestle1904, א (01)) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `ταῖς` over `ταισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀσθενείαις` over `ασθενειαισ`, `ασθενιαισ` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `ἡμῶν,` over `ημων` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πεπειρασμένον` over `πεπειρασμενον`, `πεπιρασμενον` (B (03), א (01)) — *Spelling variant pooled before the vote with the reading 'πεπειρασμένον' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
+- *Disregarded Surface Variant:* kept `δὲ` over `δε` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κατὰ` over `κατα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πάντα` over `παντα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καθʼ` over `καθ`, `καθ’` (B (03), Nestle1904, RP2018 (Byz), א (01)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ὁμοιότητα` over `ομοιοτητα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `χωρὶς` over `χωρισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἁμαρτίας.` over `αμαρτιασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+### Hebrews 4:16
+- **Apparatus:** `ἔλεος` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **ἔλεον** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
+- **Apparatus:** `εὕρωμεν` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **om.** B (03) *(omission / addition)*
+  - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- *Disregarded Surface Variant:* kept `προσερχώμεθα` over `προσερχωμεθα`, `Προσερχώμεθα` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `οὖν` over `ουν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μετὰ` over `μετα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `παρρησίας` over `παρρησιασ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῷ` over `τω` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `θρόνῳ` over `θρονω` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τῆς` over `τησ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `χάριτος,` over `χαριτοσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἵνα` over `ινα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `λάβωμεν` over `λαβωμεν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `χάριν` over `χαριν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εἰς` over `εισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `εὔκαιρον` over `ευκαιρον` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `βοήθειαν.` over `βοηθειαν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+
+---
+
+## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
+
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι·
+  - `SRGNT`: Φοβηθῶμεν οὖν, μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `SBLGNT`: Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι·
+  - `BHP`: φοβηθῶμεν οὖν, μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `Nestle1904`: φοβηθῶμεν οὖν μή ποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `RP2018 (Byz)`: Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `TR (KJTR)`: Φοβηθῶμεν οὖν, μήποτε, καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `B (03)`: φοβηθωμεν ουν μηποτε καταλειπομενησ επαγγελιασ εισελθειν εισ την καταπαυσιν αυτου δοκη τισ εξ υμων υστερηκεναι
+  - `א (01)`: φοβηθωμεν ουν μηποτε καταλιπομενησ επαγγελιασ εισελθιν εισ την καταπαυσιν αυτου δοκη τισ εξ υμων υστερηκεναι
+  - `TCGNT (Byz)`: Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `PT1904 (Byz)`: Φοβηθῶμεν οὖν μή ποτε, καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `TR-Scrivener (1894)`: Φοβηθῶμεν οὖν μή ποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+  - `TR-Boyd (Elz/Scr/Steph)`: Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι.
+- **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 15 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Word division differs (same letters written as one word or two)).
+
+### Verse 2 (Confidence: `89.1%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλʼ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `SRGNT`: Καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλʼ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `SBLGNT`: καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλʼ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `BHP`: καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι· ἀλλʼ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συνκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `Nestle1904`: καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι· ἀλλ’ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους μὴ συνκεκερασμένος τῇ πίστει τοῖς ἀκούσασιν.
+  - `RP2018 (Byz)`: Καὶ γάρ ἐσμεν εὐηγγελισμένοι, καθάπερ κἀκεῖνοι· ἀλλ’ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκραμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `TR (KJTR)`: Καὶ γάρ ἐσμεν εὐηγγελισμένοι, καθάπερ κἀκεῖνοι: ἀλλʼ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκραμένος τῇ πίστει τοῖς ἀκούσασιν.
+  - `B (03)`: και γαρ εσμεν ευηγγελισμενοι καθαπερ κακεινοι αλλ ουκ ωφελησεν ο λογοσ τησ ακοησ εκεινουσ μη συνκεκερασμενουσ τη πιστει τοισ ακουσασιν
+  - `א (01)`: και γαρ εσμεν ευηγγελισμενοι καθαπερ κακεινοι αλλ ουκ ωφελησεν ο λογοσ τησ ακοησ εκεινουσ μη συνκεκερασμενοσ τη πιστι τοισ ακουσασιν
+  - `TCGNT (Byz)`: καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλ᾽ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους μὴ συγκεκραμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `PT1904 (Byz)`: καὶ γάρ ἐσμεν εὐηγγελισμένοι, καθάπερ κἀκεῖνοι· ἀλλ᾽ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους μὴ συγκεκραμένους τῇ πίστει τοῖς ἀκούσασιν.
+  - `TR-Scrivener (1894)`: καὶ γάρ ἐσμεν εὐηγγελισμένοι, καθάπερ κἀκεῖνοι· ἀλλ᾽ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκραμένος τῇ πίστει τοῖς ἀκούσασιν.
+  - `TR-Boyd (Elz/Scr/Steph)`: Καὶ γάρ ἐσμεν εὐηγγελισμένοι, καθάπερ κἀκεῖνοι· ἀλλ᾿ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκραμένος τῇ πίστει τοῖς ἀκούσασιν.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'συγκεκερασμένους' [SRGNT, SBLGNT, B (03), BHP] (weight 3.75, confidence 89%) over συνκεκερασμένος (א (01), Nestle1904); συγκεκραμένους (RP2018 (Byz)); συγκεκραμένος (TR (KJTR)). Reference apparatus (SBLGNT): συγκεκερασμένους WH Treg RP NA28 ] συγκεκερασμένος NIV Also normalised 20 orthographic/surface variation(s).
+- *confidence:* Verse confidence 89% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 3 (Confidence: `81.3%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** εἰσερχόμεθα γὰρ εἰς κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν· Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου, καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων,
+  - `SRGNT`: Εἰσερχόμεθα γὰρ εἰς κατάπαυσιν, οἱ πιστεύσαντες, καθὼς εἴρηκεν, “Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, ‘Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου’”, καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `SBLGNT`: εἰσερχόμεθα γὰρ εἰς κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν· Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου, καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων,
+  - `BHP`: εἰσερχόμεθα γὰρ εἰς κατάπαυσιν, οἱ πιστεύσαντες, καθὼς εἴρηκεν, “ὡς ὤμοσα ἐν τῇ ὀργῇ μου, ‘εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου’”· καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `Nestle1904`: Εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν Ὡς ὤμοσα ἐν τῇ ὀργῇ μου Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου, καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `RP2018 (Byz)`: Εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν, Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου· καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `TR (KJTR)`: Εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν, Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου: καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `B (03)`: εισερχομεθα γαρ εισ καταπαυσιν οι πιστευσαντεσ καθωσ ειρηκεν ωσ ωμοσα εν τη οργη μου ει εισελευσονται εισ την καταπαυσιν μου καιτοι των εργων απο καταβολησ κοσμου γενηθεντων
+  - `א (01)`: εισερχομεθα ουν εισ την καταπαυσιν οι πιστευσαντεσ καθωσ ειρηκεν ωσ ωμοσα εν τη οργη μου ει εισελευσονται εισ την καταπαυσιν μου καιτοι των εργων απο καταβολησ κοσμου γενηθεντων
+  - `TCGNT (Byz)`: εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν, Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου· καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `PT1904 (Byz)`: εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν· ὡς ὤμοσα ἐν τῇ ὀργῇ μου, εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου· καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `TR-Scrivener (1894)`: εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν, Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου· καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+  - `TR-Boyd (Elz/Scr/Steph)`: Εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν, Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου· καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'γὰρ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over ουν (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, BHP] (weight 3.87, confidence 82%) over τὴν (א (01), Nestle1904, RP2018 (Byz), TR (KJTR)). Also normalised 26 orthographic/surface variation(s).
+- *confidence:* Verse confidence 81% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως· Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ,
+  - `SRGNT`: Εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως: “Καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ”,
+  - `SBLGNT`: εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως· Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ,
+  - `BHP`: εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως: “καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ”·
+  - `Nestle1904`: εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως Καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ·
+  - `RP2018 (Byz)`: Εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως, Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ·
+  - `TR (KJTR)`: Εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως, Καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ.
+  - `B (03)`: ειρηκεν γαρ που περι τησ εβδομησ ουτωσ και κατεπαυσεν ο θσ̅ εν τη ημερα τη εβδομη απο παντων των εργων αυτου
+  - `א (01)`: ειρηκεν γαρ που περι τησ εβδομησ ουτωσ και κατεπαυσεν ο θσ̅ εν τη ημερα τη εβδομη απο παντων των εργων αυτου
+  - `TCGNT (Byz)`: εἴρηκε γάρ που περὶ τῆς ἑβδόμης οὕτω, Καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ·
+  - `PT1904 (Byz)`: εἴρηκε γάρ που περὶ τῆς ἑβδόμης οὕτω· καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ·
+  - `TR-Scrivener (1894)`: εἴρηκε γάρ που περὶ τῆς ἑβδόμης οὕτω, Καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ·
+  - `TR-Boyd (Elz/Scr/Steph)`: Εἴρηκε γάρ που περὶ τῆς ἑβδόμης οὕτω, Καὶ κατέπαυσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ·
+- **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 20 surface variation(s) (Accentuation / capitalisation / breathing convention; Nomen sacrum (contracted sacred name) for the full word).
+
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** καὶ ἐν τούτῳ πάλιν· Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `SRGNT`: καὶ ἐν τούτῳ πάλιν, “Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.”
+  - `SBLGNT`: καὶ ἐν τούτῳ πάλιν· Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `BHP`: καὶ ἐν τούτῳ πάλιν, “εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.”
+  - `Nestle1904`: καὶ ἐν τούτῳ πάλιν Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `RP2018 (Byz)`: καὶ ἐν τούτῳ πάλιν, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `TR (KJTR)`: Καὶ ἐν τούτῳ πάλιν, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `B (03)`: και εν τουτω παλιν ει εισελευσονται εισ την καταπαυσιν μου
+  - `א (01)`: και εν τουτω παλιν ει εισελευσονται εισ την καταπαυσιν μου
+  - `TCGNT (Byz)`: καὶ ἐν τούτῳ πάλιν, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `PT1904 (Byz)`: καὶ ἐν τούτῳ πάλιν· εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `TR-Scrivener (1894)`: καὶ ἐν τούτῳ πάλιν, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+  - `TR-Boyd (Elz/Scr/Steph)`: καὶ ἐν τούτῳ πάλιν, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.
+- **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 10 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
+
+### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον διʼ ἀπείθειαν,
+  - `SRGNT`: Ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες, οὐκ εἰσῆλθον διʼ ἀπείθειαν,
+  - `SBLGNT`: ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον διʼ ἀπείθειαν,
+  - `BHP`: ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες, οὐκ εἰσῆλθον διʼ ἀπείθειαν,
+  - `Nestle1904`: ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι’ ἀπείθειαν,
+  - `RP2018 (Byz)`: Ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι’ ἀπείθειαν,
+  - `TR (KJTR)`: Ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον διʼ ἀπείθειαν:
+  - `B (03)`: επει ουν απολειπεται τινασ εισελθειν εισ αυτην και οι προτερον ευαγγελισθεντεσ ουκ εισηλθον δι απειθειαν
+  - `א (01)`: επει ουν απολειπεται τινασ εισελθειν εισ αυτην και οι προτερον ευαγγελισθεντεσ ουκ εισηλθον δι απιστιαν
+  - `TCGNT (Byz)`: ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾽ ἀπείθειαν,
+  - `PT1904 (Byz)`: ἐπεὶ οὖν ἀπολείπεταί τινας εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾽ ἀπείθειαν,
+  - `TR-Scrivener (1894)`: ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾽ ἀπείθειαν,
+  - `TR-Boyd (Elz/Scr/Steph)`: Ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾿ ἀπείθειαν,
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἀπείθειαν' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over απιστιαν (א (01)). Also normalised 14 orthographic/surface variation(s).
+- *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 7 (Confidence: `97.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν·
+  - `SRGNT`: πάλιν τινὰ ὁρίζει ἡμέραν, “σήμερον”, ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, “Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.”
+  - `SBLGNT`: πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν·
+  - `BHP`: πάλιν τινὰ ὁρίζει ἡμέραν, “σήμερον”, ἐν Δαυεὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, “σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.”
+  - `Nestle1904`: πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυεὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+  - `RP2018 (Byz)`: πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυὶδ λέγων, μετὰ τοσοῦτον χρόνον, καθὼς εἴρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+  - `TR (KJTR)`: Πάλιν, τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυίδ λέγων, μετὰ τοσοῦτον χρόνον· καθὼς εἴρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+  - `B (03)`: παλιν τινα οριζει ημεραν σημερον εν δαυειδ λεγων μετα τοσουτον χρονον καθωσ προειρηκεν σημερον εαν τησ φωνησ αυτου ακουσητε μη σκληρυνητε τασ καρδιασ υμων
+  - `א (01)`: παλιν οριζει τινα ημεραν σημερον εν δαυειδ λεγων μετα τοσουτον χρονον καθωσ προειρηται σημερον εαν τησ φωνησ αυτου ακουσητε μη σκληρυνηται τασ καρδιασ υμων
+  - `TCGNT (Byz)`: πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς εἴρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+  - `PT1904 (Byz)`: πάλιν τινὰ ὁρίζει ἡμέραν, σήμερον, ἐν Δαυῒδ λέγων, μετὰ τοσοῦτον χρόνον, καθὼς εἴρηται· σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+  - `TR-Scrivener (1894)`: πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαβὶδ λέγων, μετὰ τοσοῦτον χρόνον, καθὼς εἴρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+  - `TR-Boyd (Elz/Scr/Steph)`: πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαβὶδ λέγων, μετὰ τοσοῦτον χρόνον, καθὼς εἴρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'τινὰ ὁρίζει' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over οριζει τινα (א (01)). [Lexical, morphological, or word-order variant] Adopted 'προείρηται' [א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.63, confidence 99%) over εἴρηται (RP2018 (Byz), TR (KJTR)); προειρηκεν (B (03)). [Lexical, morphological, or word-order variant] Adopted 'σκληρύνητε' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over σκληρυνηται (א (01)). Also normalised 20 orthographic/surface variation(s).
+- *confidence:* Verse confidence 97% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `SRGNT`: Εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `SBLGNT`: εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `BHP`: εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `Nestle1904`: εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `RP2018 (Byz)`: Εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `TR (KJTR)`: Εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `B (03)`: ει γαρ αυτουσ ισ̅ κατεπαυσεν ουκ αρα περι αλλησ ελαλει μετα ταυτα ημερασ
+  - `א (01)`: ει γαρ αυτουσ ισ̅ κατεπαυσεν ουκ αν περι αλλησ ελαλει μετα ταυτα ημερασ
+  - `TCGNT (Byz)`: εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `PT1904 (Byz)`: εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας·
+  - `TR-Scrivener (1894)`: εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+  - `TR-Boyd (Elz/Scr/Steph)`: Εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἂν' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over αρα (B (03)). Also normalised 12 orthographic/surface variation(s).
+- *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ·
+  - `SRGNT`: Ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `SBLGNT`: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ·
+  - `BHP`: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `Nestle1904`: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `RP2018 (Byz)`: Ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ.
+  - `TR (KJTR)`: Ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `B (03)`: αρα απολειται σαββατισμοσ τω λαω του θυ̅
+  - `TCGNT (Byz)`: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `PT1904 (Byz)`: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `TR-Scrivener (1894)`: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+  - `TR-Boyd (Elz/Scr/Steph)`: Ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἀπολείπεται' [SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 4.99, confidence 99%) over απολειται (B (03)). Also normalised 6 orthographic/surface variation(s).
+- *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός.
+  - `SRGNT`: Ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ, καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `SBLGNT`: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός.
+  - `BHP`: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ, καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `Nestle1904`: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `RP2018 (Byz)`: Ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός.
+  - `TR (KJTR)`: Ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ, καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `B (03)`: ο γαρ εισελθων εισ την καταπαυσιν αυτου και αυτοσ κατεπαυσεν απο των εργων αυτου ωσπερ απο των ιδιων ο θσ̅
+  - `א (01)`: ο γαρ εισελθων εισ την καταπαυσιν αυτου και αυτοσ κατεπαυσεν απο των εργων αυτου ωσπερ απο των ιδιων ο θσ̅
+  - `TCGNT (Byz)`: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `PT1904 (Byz)`: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ , ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `TR-Scrivener (1894)`: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+  - `TR-Boyd (Elz/Scr/Steph)`: Ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.
+- **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 20 surface variation(s) (Accentuation / capitalisation / breathing convention; Nomen sacrum (contracted sacred name) for the full word).
+
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `SRGNT`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `SBLGNT`: σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `BHP`: σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `Nestle1904`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `RP2018 (Byz)`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `TR (KJTR)`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `B (03)`: σπουδασωμεν ουν εισελθειν εισ εκεινην την καταπαυσιν ινα μη εν τω αυτω τισ υποδειγματι πεση τησ απειθειασ
+  - `א (01)`: σπουδασωμεν ουν εισελθειν εισ εκεινην την καταπαυσιν εινα μη εν τω αυτω υποδιγματι πεση τησ απιθιασ
+  - `TCGNT (Byz)`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `PT1904 (Byz)`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `TR-Scrivener (1894)`: σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+  - `TR-Boyd (Elz/Scr/Steph)`: Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'τις ὑποδείγματι' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over υποδιγματι (א (01)). Also normalised 15 orthographic/surface variation(s).
+- *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 12 (Confidence: `96.1%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·
+  - `SRGNT`: Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργὴς, καὶ τομώτερος, ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας.
+  - `SBLGNT`: Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·
+  - `BHP`: ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργὴς, καὶ τομώτερος, ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας.
+  - `Nestle1904`: Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·
+  - `RP2018 (Byz)`: Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας.
+  - `TR (KJTR)`: Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τὲ καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας.
+  - `B (03)`: ζων γαρ ο λογοσ του θυ̅ και εναργησ και τομωτεροσ υπερ πασαν μαχαιραν διστομον και διικνουμενοσ αχρι μερισμου ψυχησ και πνευματοσ αρμων τε και μυελων και κριτικοσ ενθυμησεων και εννοιων καρδιασ
+  - `א (01)`: ζων γαρ ο λογοσ του θυ̅ και ενεργησ και τομωτεροσ υπερ πασαν μαχαιραν διστομον και διυκνουμενοσ αχρι μερισμου και πνσ̅ αρμων τε και μυελων και κριτικοσ ενθυμησεων και εννοιων καρδιασ
+  - `TCGNT (Byz)`: ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·
+  - `PT1904 (Byz)`: Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας,
+  - `TR-Scrivener (1894)`: ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας.
+  - `TR-Boyd (Elz/Scr/Steph)`: Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐνεργὴς' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over εναργησ (B (03)). [Lexical, morphological, or word-order variant] Adopted 'διϊκνούμενος' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over διυκνουμενοσ (א (01)). [Omission in some witnesses] Adopted 'ψυχῆς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over om. (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over τὲ (RP2018 (Byz), TR (KJTR)). Also normalised 27 orthographic/surface variation(s).
+- *confidence:* Verse confidence 96% = product of 4 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `SRGNT`: Καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `SBLGNT`: καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `BHP`: καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ· πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `Nestle1904`: καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `RP2018 (Byz)`: Καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ· πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `TR (KJTR)`: Καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ: πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `B (03)`: και ουκ εστιν κτισισ αφανησ ενωπιον αυτου παντα δε γυμνα και τετραχηλισμενα τοισ οφθαλμοισ αυτου προσ ον ημιν ο λογοσ
+  - `א (01)`: και ουκ εστιν κτισισ αφανησ ενωπιον αυτου παντα δε γυμνα και τετραχηλισμενα τοισ οφθαλμοισ αυτου προσ ον ημιν ο λογοσ
+  - `TCGNT (Byz)`: καὶ οὐκ ἔστι κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `PT1904 (Byz)`: καὶ οὐκ ἔστι κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `TR-Scrivener (1894)`: καὶ οὐκ ἔστι κτίσις ἀφανὴς ἐνώπιον αὐτοῦ· πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.
+  - `TR-Boyd (Elz/Scr/Steph)`: Καὶ οὐκ ἔστι κτίσις ἀφανὴς ἐνώπιον αὐτοῦ· πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.
+- **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 20 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, κρατῶμεν τῆς ὁμολογίας·
+  - `SRGNT`: Ἔχοντες οὖν ἀρχιερέα μέγαν, διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν, τὸν Υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `SBLGNT`: Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, κρατῶμεν τῆς ὁμολογίας·
+  - `BHP`: ἔχοντες οὖν ἀρχιερέα μέγαν, διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν, τὸν Υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `Nestle1904`: Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν Υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `RP2018 (Byz)`: Ἔχοντες οὖν ἀρχιερέα μέγαν, διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `TR (KJTR)`: Ἔχοντες οὖν ἀρχιερέα μέγαν, διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν Υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `B (03)`: εχοντεσ ουν αρχιερεα μεγαν διεληλυθοτα τουσ ουρανουσ ιν̅ τον υιον του θυ̅ κρατωμεν τησ ομολογιασ
+  - `א (01)`: εχοντεσ ουν αρχιερεα μεγαν διεληλυθα τουσ ουρανουσ ιν̅ τον υν̅ του θυ̅ κρατωμεν τησ ομολογιασ
+  - `TCGNT (Byz)`: Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `PT1904 (Byz)`: Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `TR-Scrivener (1894)`: Ἔχοντες οὖν ἀρχιερέα μέγαν, διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+  - `TR-Boyd (Elz/Scr/Steph)`: Ἔχοντες οὖν ἀρχιερέα μέγαν, διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'διεληλυθότα' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over διεληλυθα (א (01)). Also normalised 14 orthographic/surface variation(s).
+- *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `SRGNT`: Οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `SBLGNT`: οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `BHP`: οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συνπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `Nestle1904`: οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συνπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ’ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `RP2018 (Byz)`: Οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειραμένον δὲ κατὰ πάντα καθ’ ὁμοιότητα, χωρὶς ἁμαρτίας.
+  - `TR (KJTR)`: Οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν· πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `B (03)`: ου γαρ εχομεν αρχιερεα μη δυναμενον συνπαθησαι ταισ ασθενειαισ ημων πεπειρασμενον δε κατα παντα καθ ομοιοτητα χωρισ αμαρτιασ
+  - `א (01)`: ου γαρ εχομεν αρχιερεα μη δυναμενον συνπαθησαι ταισ ασθενιαισ ημων πεπιρασμενον δε κατα παντα καθ ομοιοτητα χωρισ αμαρτιασ
+  - `TCGNT (Byz)`: οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειραμένον δὲ κατὰ πάντα καθ᾽ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `PT1904 (Byz)`: οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειραμένον δὲ κατὰ πάντα καθ᾽ ὁμοιότητα χωρὶς ἁμαρτίας.
+  - `TR-Scrivener (1894)`: οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ᾽ ὁμοιότητα, χωρὶς ἁμαρτίας.
+  - `TR-Boyd (Elz/Scr/Steph)`: Οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ᾿ ὁμοιότητα, χωρὶς ἁμαρτίας.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'πεπειρασμένον' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, TR (KJTR), א (01)] (weight 6.21, confidence 99%) over πεπειραμένον (RP2018 (Byz)). Also normalised 18 orthographic/surface variation(s).
+- *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+
+### Verse 16 (Confidence: `98.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `SRGNT`: Προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος, καὶ χάριν εὕρωμεν, εἰς εὔκαιρον βοήθειαν.
+  - `SBLGNT`: προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `BHP`: προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος, καὶ χάριν εὕρωμεν, εἰς εὔκαιρον βοήθειαν.
+  - `Nestle1904`: προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `RP2018 (Byz)`: Προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον, καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `TR (KJTR)`: Προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον, καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `B (03)`: προσερχωμεθα ουν μετα παρρησιασ τω θρονω τησ χαριτοσ ινα λαβωμεν ελεοσ και χαριν εισ ευκαιρον βοηθειαν
+  - `א (01)`: προσερχωμεθα ουν μετα παρρησιασ τω θρονω τησ χαριτοσ ινα λαβωμεν ελεοσ και χαριν ευρωμεν εισ ευκαιρον βοηθειαν
+  - `TCGNT (Byz)`: προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `PT1904 (Byz)`: προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `TR-Scrivener (1894)`: προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον, καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+  - `TR-Boyd (Elz/Scr/Steph)`: Προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον, καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἔλεος' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ἔλεον (RP2018 (Byz), TR (KJTR)). [Omission in some witnesses] Adopted 'εὕρωμεν' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over om. (B (03)). Also normalised 15 orthographic/surface variation(s).
+- *confidence:* Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).

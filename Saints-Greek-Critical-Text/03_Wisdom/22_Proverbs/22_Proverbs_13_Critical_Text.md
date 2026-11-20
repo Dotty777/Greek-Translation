@@ -1,0 +1,1826 @@
+# Proverbs 13 — Saints Greek Critical Text
+
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:40Z`
+
+**Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
+
+**Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
+
+---
+
+## Section I — Admitted Witnesses & Gatekeeper Quarantine Declaration
+
+### Admitted Collation Witnesses (Open-Source Tiers 1–4)
+| Siglum | Witness Title | Tier | Weight | License | Text-Type |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **Swete-Amicarelli** | Swete Septuagint — Amicarelli transcription (BibleWorks text; LXX-Swete-1930 CSV) | Tier 1 | `0.93` | GPL-3.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) — keyed transcription, not OCR |
+| **1st1K-LXX** | First1KGreek Septuagint EpiDoc TEI-XML (tlg0527) | Tier 1 | `0.92` | CC BY-SA 4.0 | Diplomatic Uncial TEI-XML with Marginal Witness Sigla |
+| **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
+| **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
+
+### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
+
+| Siglum | Witness Title | Tier | License | Text-Type |
+| :--- | :--- | :---: | :--- | :--- |
+| **LXX-Orthodox (Οʹ)** | Orthodox Ecclesiastical Septuagint (Η Παλαιά Διαθήκη κατά τους Εβδομήκοντα) | Tier 3 | Public Domain | Greek Orthodox Ecclesiastical / Majority Septuagint |
+
+### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
+| Source | Status | Reason Excluded from Open Critical Text |
+| :--- | :---: | :--- |
+| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
+| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+
+### Versification & Alignment Notes
+- Swete-Amicarelli: 6:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:34 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:35 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:34 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:35 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:36 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 9:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 12:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:34 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:35 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 15:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 16:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 20:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:29 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:32 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:33 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:34 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:35 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 7:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:29 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:32 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:34 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:35 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:36 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:29 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:32 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:29 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 12:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:29 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:32 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:33 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:34 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:35 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 15:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:29 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:32 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 16:33 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:19 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 20:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:34 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:35 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 7:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:34 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:35 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:36 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 12:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:34 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:35 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 15:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:29 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 16:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:19 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 20:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:31 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:32 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:33 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:34 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:35 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:31 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:34 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:35 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 8:36 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 9:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:31 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 10:32 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 11:31 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 12:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:31 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:32 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:33 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:34 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:35 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:32 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 15:33 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:30 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:31 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:32 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:33 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 18:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:18 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:20 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:21 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:22 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 19:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:30 kept in its own chapter (stronger match to its own reference verse)
+
+---
+
+## Section II — Continuous Greek Critical Text
+
+**1** Υἱὸς πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+**2** ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+**3** ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσιν πτοήσει ἑαυτόν.
+**4** ἐν ἐπιθυμίαις ἐστιν πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+**5** λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.
+**7** εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+**8** λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+**9** φῶς δικαίοις διὰ παντός, φῶς δὲ ἀσεβῶν σβέννυται. ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσιν καὶ ἐλεῶσιν.
+**10** κακὸς μεθ᾽ ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.
+**11** ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετ᾽ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+**12** κρείσσων ἐναρχομένοις βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.
+**13** ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπ᾽ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει. υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν· οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+**14** νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+**15** σύνεσις ἀγαθὴ δίδωσιν χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+**16** πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+**17** βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ σοφὸς ῥύσεται αὐτόν.
+**18** πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+**19** ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+**20** συμπορευόμενος σοφοῖς σοφὸς ἔσῃ, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+**21** ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήμψεται ἀγαθά.
+**22** ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+**23** δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+**24** ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ, ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.
+**25** δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+
+---
+
+## Section III — Critical Apparatus & Disregarded Surface Noise
+
+### Proverbs 13:1
+- *Disregarded Surface Variant:* kept `πατρί,` over `πατρὶ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:2
+- *Disregarded Surface Variant:* kept `ἀπὸ` over `Ἀπὸ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀγαθός,` over `ἀγαθὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:3
+- *Disregarded Surface Variant:* kept `ὃς` over `Ὃς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ψυχήν,` over `ψυχὴν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `χείλεσιν` over `χείλεσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `χείλεσιν / χείλεσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+
+### Proverbs 13:4
+- *Disregarded Surface Variant:* kept `ἐν` over `Ἐν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐστιν` over `ἐστὶ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `ἀεργός,` over `ἀεργὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν / ἐστὶ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+
+### Proverbs 13:5
+- **Apparatus:** `οὐχ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **οὐκ** Sixtine/Brenton *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
+  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- *Disregarded Surface Variant:* kept `λόγον` over `Λόγον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αἰσχύνεται` over `αἰσχύνεται,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `παρρησίαν.` over `παῤῥησίαν.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
+
+### Proverbs 13:7
+- *Disregarded Surface Variant:* kept `εἰσὶν` over `Εἰσὶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:8
+- *Disregarded Surface Variant:* kept `λύτρον` over `Λύτρον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:9
+- **Apparatus:** `ἐλεῶσιν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐλεοῦσι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
+  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- *Disregarded Surface Variant:* kept `φῶς` over `Φῶς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `διὰ παντός,` over `διαπαντὸς,` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `σβέννυται.` over `σβέννυται·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `οἰκτείρουσιν` over `οἰκτείρουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `διὰ παντός, / διαπαντός,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `οἰκτείρουσιν / οἰκτείρουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+
+### Proverbs 13:10
+- *Disregarded Surface Variant:* kept `κακὸς` over `Κακὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `μεθ᾽` over `μεθʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `κακά,` over `κακὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `δὲ` over `δʼ` (Sixtine/Brenton) — *Elision (κατὰ / κατ’ type)*
+
+### Proverbs 13:11
+- *Disregarded Surface Variant:* kept `ὕπαρξις` over `Ὕπαρξις` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀνομίας` over `ἀνομίας,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `μετ᾽` over `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
+
+### Proverbs 13:12
+- **Apparatus:** `ἐναρχομένοις` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐναρχόμενος** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
+  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- *Disregarded Surface Variant:* kept `κρείσσων` over `Κρείσσων` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καρδίᾳ` over `καρδίᾳ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ζωῆς` over `ζωῆς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+
+### Proverbs 13:13
+- *Disregarded Surface Variant:* kept `ὃς` over `Ὃς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὑπ᾽` over `ὑπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἐντολήν,` over `ἐντολὴν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ὑγιαίνει.` over `ὑγιαίνει·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἀγαθόν·` over `ἀγαθὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:14
+- *Disregarded Surface Variant:* kept `νόμος` over `Νόμος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:15
+- *Disregarded Surface Variant:* kept `σύνεσις` over `Σύνεσις` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `δίδωσιν` over `δίδωσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσιν / δίδωσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+
+### Proverbs 13:16
+- *Disregarded Surface Variant:* kept `πᾶς` over `Πᾶς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:17
+- *Disregarded Surface Variant:* kept `βασιλεὺς` over `Βασιλεὺς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κακά,` over `κακὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:18
+- *Disregarded Surface Variant:* kept `πενίαν` over `Πενίαν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:19
+- *Disregarded Surface Variant:* kept `ἐπιθυμίαι` over `Ἐπιθυμίαι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἡδύνουσιν` over `ἡδύνουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `ψυχήν,` over `ψυχὴν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἡδύνουσιν / ἡδύνουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+
+### Proverbs 13:20
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ὁ** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἔσῃ,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἔσται,** LXX-Orthodox (Οʹ)
+- *Disregarded Surface Variant:* kept `συμπορευόμενος` over `Συμπορευόμενος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:21
+- *Disregarded Surface Variant:* kept `ἁμαρτάνοντας` over `Ἁμαρτάνοντας` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `κακά,` over `κακὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `καταλήμψεται` over `καταλήψεται` (Sixtine/Brenton) — *Nasal spelling (λημψ- / ληψ-)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `καταλήμψεται / καταλήψεται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Nasal spelling (λημψ- / ληψ-)*
+
+### Proverbs 13:22
+- *Disregarded Surface Variant:* kept `ἀγαθὸς` over `Ἀγαθὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:23
+- *Disregarded Surface Variant:* kept `δίκαιοι` over `Δίκαιοι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `πολλά,` over `πολλὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+### Proverbs 13:24
+- *Disregarded Surface Variant:* kept `ὃς` over `Ὃς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αὐτοῦ` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἀγαπῶν` over `ἀγαπῶν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+
+### Proverbs 13:25
+- *Disregarded Surface Variant:* kept `δίκαιος` over `Δίκαιος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+
+---
+
+## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
+
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Υἱὸς πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+  - `Swete-Amicarelli`: Υἱὸς πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+  - `1st1K-LXX`: Υἱὸς πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+  - `Swete (B/A/א)`: Υἱὸς πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+  - `Sixtine/Brenton`: Υἱὸς πανοῦργος ὑπήκοος πατρὶ, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+  - `LXX-Orthodox (Οʹ)`: ΥΙΟΣ πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+  - `Swete-Amicarelli`: ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+  - `1st1K-LXX`: ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+  - `Swete (B/A/א)`: ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+  - `Sixtine/Brenton`: Ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθὸς, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+  - `LXX-Orthodox (Οʹ)`: ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσιν πτοήσει ἑαυτόν.
+  - `Swete-Amicarelli`: ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσιν πτοήσει ἑαυτόν.
+  - `1st1K-LXX`: ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσιν πτοήσει ἑαυτόν.
+  - `Swete (B/A/א)`: ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσιν πτοήσει ἑαυτόν.
+  - `Sixtine/Brenton`: Ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχὴν, ὁ δὲ προπετὴς χείλεσι πτοήσει ἑαυτόν.
+  - `LXX-Orthodox (Οʹ)`: ὃς φυλάσσει τὸ ἑαυτοῦ στόμα, τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσι πτοήσει ἑαυτόν.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).
+
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἐν ἐπιθυμίαις ἐστιν πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+  - `Swete-Amicarelli`: ἐν ἐπιθυμίαις ἐστιν πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+  - `1st1K-LXX`: ἐν ἐπιθυμίαις ἐστιν πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+  - `Swete (B/A/א)`: ἐν ἐπιθυμίαις ἐστιν πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+  - `Sixtine/Brenton`: Ἐν ἐπιθυμίαις ἐστὶ πᾶς ἀεργὸς, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+  - `LXX-Orthodox (Οʹ)`: ἐν ἐπιθυμίαις ἐστὶ πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).
+
+### Verse 5 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.
+  - `Swete-Amicarelli`: λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.
+  - `1st1K-LXX`: λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.
+  - `Swete (B/A/א)`: λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.
+  - `Sixtine/Brenton`: Λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται, καὶ οὐκ ἕξει παῤῥησίαν.
+  - `LXX-Orthodox (Οʹ)`: λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'οὐχ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οὐκ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+  - `Swete-Amicarelli`: εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+  - `1st1K-LXX`: εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+  - `Swete (B/A/א)`: εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+  - `Sixtine/Brenton`: Εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+  - `LXX-Orthodox (Οʹ)`: εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καί εἰσιν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+  - `Swete-Amicarelli`: λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+  - `1st1K-LXX`: λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+  - `Swete (B/A/א)`: λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+  - `Sixtine/Brenton`: Λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+  - `LXX-Orthodox (Οʹ)`: λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 9 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** φῶς δικαίοις διὰ παντός, φῶς δὲ ἀσεβῶν σβέννυται. ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσιν καὶ ἐλεῶσιν.
+  - `Swete-Amicarelli`: φῶς δικαίοις διὰ παντός, φῶς δὲ ἀσεβῶν σβέννυται. ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσιν καὶ ἐλεῶσιν.
+  - `1st1K-LXX`: φῶς δικαίοις διὰ παντός. φῶς δὲ ἀσεβῶν σβέννυται. ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσιν καὶ ἐλεῶσιν.
+  - `Swete (B/A/א)`: φῶς δικαίοις διὰ παντός. φῶς δὲ ἀσεβῶν σβέννυται. ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσιν καὶ ἐλεῶσιν.
+  - `Sixtine/Brenton`: Φῶς δικαίοις διαπαντὸς, φῶς δὲ ἀσεβῶν σβέννυται· ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσι καὶ ἐλεοῦσι.
+  - `LXX-Orthodox (Οʹ)`: φῶς δικαίοις διαπαντός, φῶς δὲ ἀσεβῶν σβέννυται. ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσι καὶ ἐλεοῦσι.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐλεῶσιν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐλεοῦσι (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** κακὸς μεθ᾽ ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.
+  - `Swete-Amicarelli`: κακὸς μεθ᾽ ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.
+  - `1st1K-LXX`: κακὸς μεθʼ ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.
+  - `Swete (B/A/א)`: κακὸς μεθʼ ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.
+  - `Sixtine/Brenton`: Κακὸς μεθʼ ὕβρεως πράσσει κακὰ, οἱ δʼ ἑαυτῶν ἐπιγνώμονες σοφοί.
+  - `LXX-Orthodox (Οʹ)`: κακὸς μεθ᾿ ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Elision (κατὰ / κατ’ type); Punctuation / spacing difference only).
+
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετ᾽ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+  - `Swete-Amicarelli`: ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετ᾽ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+  - `1st1K-LXX`: ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετʼ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+  - `Swete (B/A/א)`: ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετʼ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+  - `Sixtine/Brenton`: Ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας, ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετʼ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+  - `LXX-Orthodox (Οʹ)`: ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετ᾿ εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτείρει καὶ κιχρᾷ.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
+
+### Verse 12 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** κρείσσων ἐναρχομένοις βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.
+  - `Swete-Amicarelli`: κρείσσων ἐναρχομένοις βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.
+  - `1st1K-LXX`: κρείσσων ἐναρχομένοις βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.
+  - `Swete (B/A/א)`: κρείσσων ἐναρχομένοις βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.
+  - `Sixtine/Brenton`: Κρείσσων ἐναρχόμενος βοηθῶν καρδίᾳ, τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς, ἐπιθυμία ἀγαθή.
+  - `LXX-Orthodox (Οʹ)`: κρείσσων ἐναρχόμενος βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐναρχομένοις' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐναρχόμενος (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+
+### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπ᾽ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει. υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν· οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+  - `Swete-Amicarelli`: ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπ᾽ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει. υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν· οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+  - `1st1K-LXX`: ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπʼ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει. υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν· οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+  - `Swete (B/A/א)`: ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπʼ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει. υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν· οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+  - `Sixtine/Brenton`: Ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπʼ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολὴν, οὗτος ὑγιαίνει· υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθὸν, οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+  - `LXX-Orthodox (Οʹ)`: ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπ᾿ αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει. υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν, οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
+
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+  - `Swete-Amicarelli`: νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+  - `1st1K-LXX`: νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+  - `Swete (B/A/א)`: νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+  - `Sixtine/Brenton`: Νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+  - `LXX-Orthodox (Οʹ)`: νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** σύνεσις ἀγαθὴ δίδωσιν χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+  - `Swete-Amicarelli`: σύνεσις ἀγαθὴ δίδωσιν χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+  - `1st1K-LXX`: σύνεσις ἀγαθὴ δίδωσιν χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+  - `Swete (B/A/א)`: σύνεσις ἀγαθὴ δίδωσιν χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+  - `Sixtine/Brenton`: Σύνεσις ἀγαθὴ δίδωσι χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+  - `LXX-Orthodox (Οʹ)`: σύνεσις ἀγαθὴ δίδωσι χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).
+
+### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+  - `Swete-Amicarelli`: πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+  - `1st1K-LXX`: πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+  - `Swete (B/A/א)`: πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+  - `Sixtine/Brenton`: Πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+  - `LXX-Orthodox (Οʹ)`: πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ σοφὸς ῥύσεται αὐτόν.
+  - `Swete-Amicarelli`: βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ σοφὸς ῥύσεται αὐτόν.
+  - `1st1K-LXX`: βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ σοφὸς ῥύσεται αὐτόν.
+  - `Swete (B/A/א)`: βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ σοφὸς ῥύσεται αὐτόν.
+  - `Sixtine/Brenton`: Βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακὰ, ἄγγελος δὲ σοφὸς ῥύσεται αὐτόν.
+  - `LXX-Orthodox (Οʹ)`: βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ σοφὸς ρύσεται αὐτόν.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+  - `Swete-Amicarelli`: πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+  - `1st1K-LXX`: πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+  - `Swete (B/A/א)`: πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+  - `Sixtine/Brenton`: Πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+  - `LXX-Orthodox (Οʹ)`: πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+  - `Swete-Amicarelli`: ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+  - `1st1K-LXX`: ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+  - `Swete (B/A/א)`: ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+  - `Sixtine/Brenton`: Ἐπιθυμίαι εὐσεβῶν ἡδύνουσι ψυχὴν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+  - `LXX-Orthodox (Οʹ)`: ἐπιθυμίαι εὐσεβῶν ἡδύνουσι ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).
+
+### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** συμπορευόμενος σοφοῖς σοφὸς ἔσῃ, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+  - `Swete-Amicarelli`: συμπορευόμενος σοφοῖς σοφὸς ἔσῃ, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+  - `1st1K-LXX`: συμπορευόμενος σοφοῖς σοφὸς ἔσῃ, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+  - `Swete (B/A/א)`: συμπορευόμενος σοφοῖς σοφὸς ἔσῃ, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+  - `Sixtine/Brenton`: Συμπορευόμενος σοφοῖς σοφὸς ἔσῃ, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+  - `LXX-Orthodox (Οʹ)`: ὁ συμπορευόμενος σοφοῖς σοφὸς ἔσται, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήμψεται ἀγαθά.
+  - `Swete-Amicarelli`: ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήμψεται ἀγαθά.
+  - `1st1K-LXX`: ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήμψεται ἀγαθά.
+  - `Swete (B/A/א)`: ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήμψεται ἀγαθά.
+  - `Sixtine/Brenton`: Ἁμαρτάνοντας καταδιώξεται κακὰ, τοὺς δὲ δικαίους καταλήψεται ἀγαθά.
+  - `LXX-Orthodox (Οʹ)`: ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήψεται ἀγαθά.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Nasal spelling (λημψ- / ληψ-)).
+
+### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+  - `Swete-Amicarelli`: ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+  - `1st1K-LXX`: ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+  - `Swete (B/A/א)`: ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+  - `Sixtine/Brenton`: Ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+  - `LXX-Orthodox (Οʹ)`: ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβῶν.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+  - `Swete-Amicarelli`: δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+  - `1st1K-LXX`: δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+  - `Swete (B/A/א)`: δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+  - `Sixtine/Brenton`: Δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλὰ, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+  - `LXX-Orthodox (Οʹ)`: δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention).
+
+### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ, ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.
+  - `Swete-Amicarelli`: ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ, ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.
+  - `1st1K-LXX`: ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ, ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.
+  - `Swete (B/A/א)`: ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ, ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.
+  - `Sixtine/Brenton`: Ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ ὁ δὲ ἀγαπῶν, ἐπιμελῶς παιδεύει.
+  - `LXX-Orthodox (Οʹ)`: ὃς φείδεται τῆς βακτηρίας μισεῖ τὸν υἱὸν αὐτοῦ, ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
+
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+  - `Swete-Amicarelli`: δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+  - `1st1K-LXX`: δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+  - `Swete (B/A/א)`: δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+  - `Sixtine/Brenton`: Δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+  - `LXX-Orthodox (Οʹ)`: δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).

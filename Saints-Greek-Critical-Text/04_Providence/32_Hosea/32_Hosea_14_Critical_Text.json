@@ -1,0 +1,987 @@
+{
+  "edition": "Saints Greek Critical Text",
+  "language": "greek",
+  "division": "04_Providence",
+  "book_slug": "hosea",
+  "book_title": "Hosea",
+  "usfm_code": "HOS",
+  "chapter": 14,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:12:56Z",
+  "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
+  "versification_anchor": "Sixtine/Brenton",
+  "orthographic_base": "Swete-Amicarelli",
+  "versification_notes": [
+    "Swete-Amicarelli: 13:1 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:3 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:5 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:7 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:8 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:9 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:10 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:11 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:12 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:13 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:14 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 13:15 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:1 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:2 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:3 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:4 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:5 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:6 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:7 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:8 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:9 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:10 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:11 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:12 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:13 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:14 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 13:15 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:1 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:3 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:5 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:7 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:8 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:9 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:10 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:11 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:12 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:13 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:14 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 13:15 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:1 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:2 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:3 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:4 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:5 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:6 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:7 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:8 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:9 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:10 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:11 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:12 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:13 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:14 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 13:15 kept in its own chapter (stronger match to its own reference verse)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Swete-Amicarelli",
+      "title": "Swete Septuagint — Amicarelli transcription (BibleWorks text; LXX-Swete-1930 CSV)",
+      "tier": 1,
+      "weight": 0.93,
+      "license": "GPL-3.0"
+    },
+    {
+      "siglum": "1st1K-LXX",
+      "title": "First1KGreek Septuagint EpiDoc TEI-XML (tlg0527)",
+      "tier": 1,
+      "weight": 0.92,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "siglum": "Swete (B/A/א)",
+      "title": "Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930)",
+      "tier": 1,
+      "weight": 0.9,
+      "license": "Public Domain / CC BY-SA 4.0"
+    },
+    {
+      "siglum": "Sixtine/Brenton",
+      "title": "Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM)",
+      "tier": 2,
+      "weight": 0.84,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "LXX-Orthodox (Οʹ)",
+      "title": "Orthodox Ecclesiastical Septuagint (Η Παλαιά Διαθήκη κατά τους Εβδομήκοντα)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 29455,
+      "verse": 1,
+      "critical_text": "ἀφανισθήσεται Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν θεὸν αὐτῆς· ἐν ῥομφαίᾳ πεσοῦνται αὐτοὶ, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "ἀφανισθήσεται Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν θεὸν αὐτῆς· ἐν ῥομφαίᾳ πεσοῦνται αὐτοί, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται.",
+        "1st1K-LXX": "ἀφανισθήσεται Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν θεὸν αὐτῆς· ἐν ῥομφαίᾳ πεσοῦνται αὐτοί, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται.",
+        "Swete (B/A/א)": "ἀφανισθήσεται Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν θεὸν αὐτῆς· ἐν ῥομφαίᾳ πεσοῦνται αὐτοί, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται.",
+        "Sixtine/Brenton": "Ἀφανισθήσεται Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν Θεὸν αὐτῆς· ἐν ῥομφαίᾳ πεσοῦνται αὐτοὶ, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαῤῥαγήσονται.",
+        "LXX-Orthodox (Οʹ)": "ΑΦΑΝΙΣΘΗΣΕΤΑΙ Σαμάρεια, ὅτι ἀντέστη πρὸς τὸν Θεὸν αὐτῆς· ἐν ρομφαίᾳ πεσοῦνται αὐτοί, καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται, καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἀφανισθήσεται",
+          "disregarded_forms": [
+            "Ἀφανισθήσεται"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "θεὸν",
+          "disregarded_forms": [
+            "Θεὸν"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "αὐτοὶ,",
+          "disregarded_forms": [
+            "αὐτοί,"
+          ],
+          "witnesses": [
+            "1st1K-LXX",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "διαρραγήσονται.",
+          "disregarded_forms": [
+            "διαῤῥαγήσονται."
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29456,
+      "verse": 2,
+      "critical_text": "Ἐπιστράφηθι, Ἰσραήλ, πρὸς Κύριον τὸν θεόν σου, διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "Ἐπιστράφηθι, Ἰσραήλ, πρὸς Κύριον τὸν θεόν σου, διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου.",
+        "1st1K-LXX": "Ἐπιστράφηθι, Ἰσραήλ, πρὸς Κύριον τὸν θεόν σου, διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου.",
+        "Swete (B/A/א)": "Ἐπιστράφηθι, Ἰσραήλ, πρὸς Κύριον τὸν θεόν σου, διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου.",
+        "Sixtine/Brenton": "Ἐπιστράφηθι Ἰσραὴλ πρὸς Κύριον τὸν Θεόν σου, διότι ἠσθένησαν ἐν ταῖς ἀδικίαις σου.",
+        "LXX-Orthodox (Οʹ)": "ἐπιστράφηθι, Ἰσραήλ, πρὸς Κύριον τὸν Θεόν σου, διότι ἠσθένησαν ἐν ταῖς ἀδικίαις σου."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 8,
+          "lemma": "ἠσθένησας",
+          "lemma_witnesses": [
+            "Swete-Amicarelli",
+            "1st1K-LXX",
+            "Swete (B/A/א)"
+          ],
+          "variants": [
+            {
+              "reading": "ἠσθένησαν",
+              "adopt_text": "ἠσθένησαν",
+              "witnesses": [
+                "Sixtine/Brenton",
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.84
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἠσθένησας' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἠσθένησαν (Sixtine/Brenton).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ησθενησασ",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ἐπιστράφηθι,",
+          "disregarded_forms": [
+            "Ἐπιστράφηθι"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "Ἰσραήλ,",
+          "disregarded_forms": [
+            "Ἰσραὴλ"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "θεόν",
+          "disregarded_forms": [
+            "Θεόν"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ἠσθένησας' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἠσθένησαν (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 29457,
+      "verse": 3,
+      "critical_text": "λάβετε μεθ᾽ ἑαυτῶν λόγους καὶ ἐπιστράφητε πρὸς Κύριον τὸν θεὸν ὑμῶν· εἴπατε αὐτῷ ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "λάβετε μεθ᾽ ἑαυτῶν λόγους καὶ ἐπιστράφητε πρὸς Κύριον τὸν θεὸν ὑμῶν· εἴπατε αὐτῷ ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν.",
+        "1st1K-LXX": "λάβετε μεθʼ ἑαυτῶν λόγους καὶ ἐπιστράφητε πρὸς Κύριον τὸν θεὸν ὑμῶν· εἴπατε αὐτῷ ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν.",
+        "Swete (B/A/א)": "λάβετε μεθʼ ἑαυτῶν λόγους καὶ ἐπιστράφητε πρὸς Κύριον τὸν θεὸν ὑμῶν· εἴπατε αὐτῷ ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν.",
+        "Sixtine/Brenton": "Λάβετε μεθʼ ἑαυτῶν λόγους, καὶ ἐπιστράφητε πρὸς Κύριον τὸν Θεὸν ὑμῶν· εἴπατε αὐτῷ, ὅπως μὴ λάβητε ἀδικίαν, καὶ λάβητε ἀγαθὰ, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν.",
+        "LXX-Orthodox (Οʹ)": "λάβετε μεθ᾿ ἑαυτῶν λόγους καὶ ἐπιστράφητε πρὸς Κύριον τὸν Θεὸν ὑμῶν· εἴπατε αὐτῷ, ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "λάβετε",
+          "disregarded_forms": [
+            "Λάβετε"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "μεθ᾽",
+          "disregarded_forms": [
+            "μεθʼ"
+          ],
+          "witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "λόγους",
+          "disregarded_forms": [
+            "λόγους,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "θεὸν",
+          "disregarded_forms": [
+            "Θεὸν"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "αὐτῷ",
+          "disregarded_forms": [
+            "αὐτῷ,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "ἀδικίαν",
+          "disregarded_forms": [
+            "ἀδικίαν,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "ἀγαθά,",
+          "disregarded_forms": [
+            "ἀγαθὰ,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 7 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29458,
+      "verse": 4,
+      "critical_text": "Ἀσσοὺρ οὐ μὴ σώσῃ ἡμᾶς, ἐφ᾽ ἵππον οὐκ ἀναβησόμεθα· οὐκέτι μὴ εἴπωμεν Θεοὶ ἡμῶν, τοῖς ἔργοις τῶν χειρῶν ἡμῶν· ὁ ἐν σοὶ ἐλεήσει ὀρφανόν.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "Ἀσσοὺρ οὐ μὴ σώσῃ ἡμᾶς, ἐφ᾽ ἵππον οὐκ ἀναβησόμεθα· οὐκέτι μὴ εἴπωμεν Θεοὶ ἡμῶν, τοῖς ἔργοις τῶν χειρῶν ἡμῶν· ὁ ἐν σοὶ ἐλεήσει ὀρφανόν.",
+        "1st1K-LXX": "Ἀσσοὺρ οὐ μὴ σώσῃ ἡμᾶς, ἐφʼ ἵππον οὐκ ἀναβησόμεθα· οὐκέτι μὴ εἴπωμεν Θεοὶ ἡμῶν, τοῖς ἔργοις τῶν χειρῶν ἡμῶν· ὁ ἐν σοὶ ἐλεήσει ὀρφανόν.",
+        "Swete (B/A/א)": "Ἀσσοὺρ οὐ μὴ σώσῃ ἡμᾶς, ἐφʼ ἵππον οὐκ ἀναβησόμεθα· οὐκέτι μὴ εἴπωμεν Θεοὶ ἡμῶν, τοῖς ἔργοις τῶν χειρῶν ἡμῶν· ὁ ἐν σοὶ ἐλεήσει ὀρφανόν.",
+        "Sixtine/Brenton": "Ἀσσοὺρ οὐ μὴ σώσῃ ἡμᾶς, ἐφʼ ἵππον οὐκ ἀναβησόμεθα· οὐκέτι μὴ εἴπωμεν, θεοὶ ἡμῶν, τοῖς ἔργοις τῶν χειρῶν ἡμῶν· ὁ ἐν σοὶ ἐλεήσει ὀρφανόν.",
+        "LXX-Orthodox (Οʹ)": "Ἀσσοὺρ οὐ μὴ σώσῃ ἡμᾶς, ἐφ᾿ ἵππον οὐκ ἀναβησόμεθα· οὐκέτι μὴ εἴπωμεν· θεοὶ ἡμῶν, τοῖς ἔργοις τῶν χειρῶν ἡμῶν· ὁ ἐν σοὶ ἐλεήσει ὀρφανόν."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 5,
+          "kept_form": "ἐφ᾽",
+          "disregarded_forms": [
+            "ἐφʼ"
+          ],
+          "witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "εἴπωμεν",
+          "disregarded_forms": [
+            "εἴπωμεν,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "Θεοὶ",
+          "disregarded_forms": [
+            "θεοὶ"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29459,
+      "verse": 5,
+      "critical_text": "ἰάσομαι τὰς κατοικίας αὐτῶν, ἀγαπήσω αὐτοὺς ὁμολόγως, ὅτι ἀπέστρεψεν τὴν ὀργήν μου ἀπ᾽ αὐτοῦ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "ἰάσομαι τὰς κατοικίας αὐτῶν, ἀγαπήσω αὐτοὺς ὁμολόγως, ὅτι ἀπέστρεψεν τὴν ὀργήν μου ἀπ᾽ αὐτοῦ.",
+        "1st1K-LXX": "ἰάσομαι τὰς κατοικίας αὐτῶν, ἀγαπήσω αὐτοὺς ὁμολόγως, ὅτι ἀπέστρεψεν τὴν ὀργὴν μου ἀπʼ αὐτοῦ.",
+        "Swete (B/A/א)": "ἰάσομαι τὰς κατοικίας αὐτῶν, ἀγαπήσω αὐτοὺς ὁμολόγως, ὅτι ἀπέστρεψεν τὴν ὀργὴν μου ἀπʼ αὐτοῦ.",
+        "Sixtine/Brenton": "Ἰάσομαι τὰς κατοικίας αὐτῶν, ἀγαπήσω αὐτοὺς ὁμολόγως, ὅτι ἀπέστρεψε τὴν ὀργήν μου ἀπʼ αὐτοῦ.",
+        "LXX-Orthodox (Οʹ)": "ἰάσομαι τὰς κατοικίας αὐτῶν, ἀγαπήσω αὐτοὺς ὁμολόγως, ὅτι ἀποστρέψω τὴν ὀργήν μου ἀπ᾿ αὐτοῦ."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἀπέστρεψεν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "ἀποστρέψω",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "απεστρεψεν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἰάσομαι",
+          "disregarded_forms": [
+            "Ἰάσομαι"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "ἀπέστρεψεν",
+          "disregarded_forms": [
+            "ἀπέστρεψε"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Euphonic movable-nu (-ν) variation"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "ὀργήν",
+          "disregarded_forms": [
+            "ὀργὴν"
+          ],
+          "witnesses": [
+            "1st1K-LXX",
+            "Swete (B/A/א)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ἀπ᾽",
+          "disregarded_forms": [
+            "ἀπʼ"
+          ],
+          "witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29460,
+      "verse": 6,
+      "critical_text": "ἔσομαι ὡς δρόσος τῷ Ἰσραήλ, ἀνθήσει ὡς κρίνον, καὶ βαλεῖ τὰς ῥίζας αὐτοῦ ὡς ὁ Λίβανος·",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "ἔσομαι ὡς δρόσος τῷ Ἰσραήλ, ἀνθήσει ὡς κρίνον, καὶ βαλεῖ τὰς ῥίζας αὐτοῦ ὡς ὁ Λίβανος·",
+        "1st1K-LXX": "ἔσομαι ὡς δρόσος τῷ Ἰσραήλ, ἀνθήσει ὡς κρίνον, καὶ βαλεῖ τὰς ῥίζας αὐτοῦ ὡς ὁ Λίβανος·",
+        "Swete (B/A/א)": "ἔσομαι ὡς δρόσος τῷ Ἰσραήλ, ἀνθήσει ὡς κρίνον, καὶ βαλεῖ τὰς ῥίζας αὐτοῦ ὡς ὁ Λίβανος·",
+        "Sixtine/Brenton": "Ἔσομαι ὡς δρόσος τῷ Ἰσραὴλ, ἀνθήσει ὡς κρίνον, καὶ βαλεῖ τὰς ῥίζας αὐτοῦ ὡς ὁ Λίβανος·",
+        "LXX-Orthodox (Οʹ)": "ἔσομαι ὡς δρόσος τῷ Ἰσραήλ, ἀνθήσει ὡς κρίνον καὶ βαλεῖ τὰς ρίζας αὐτοῦ ὡς ὁ Λίβανος·"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἔσομαι",
+          "disregarded_forms": [
+            "Ἔσομαι"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Ἰσραήλ,",
+          "disregarded_forms": [
+            "Ἰσραὴλ,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29461,
+      "verse": 7,
+      "critical_text": "πορεύσονται οἱ κλάδοι αὐτοῦ, καὶ ἔσται ὡς ἐλαία κατάκαρπος, καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου·",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "πορεύσονται οἱ κλάδοι αὐτοῦ, καὶ ἔσται ὡς ἐλαία κατάκαρπος, καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου·",
+        "1st1K-LXX": "πορεύσονται οἱ κλάδοι αὐτοῦ, καὶ ἔσται ὡς ἐλαία κατάκαρπος, καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου·",
+        "Swete (B/A/א)": "πορεύσονται οἱ κλάδοι αὐτοῦ, καὶ ἔσται ὡς ἐλαία κατάκαρπος, καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου·",
+        "Sixtine/Brenton": "Πορεύσονται οἱ κλάδοι αὐτοῦ, καὶ ἔσται ὡς ἐλαία κατάκαρπος, καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου.",
+        "LXX-Orthodox (Οʹ)": "πορεύσονται οἱ κλάδοι αὐτοῦ, καὶ ἔσται ὡς ἐλαία κατάκαρπος, καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου·"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "πορεύσονται",
+          "disregarded_forms": [
+            "Πορεύσονται"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "Λιβάνου·",
+          "disregarded_forms": [
+            "Λιβάνου."
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29462,
+      "verse": 8,
+      "critical_text": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ἄμπελος μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ἄμπελος μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου.",
+        "1st1K-LXX": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ἄμπελος μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου.",
+        "Swete (B/A/א)": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ἄμπελος μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου.",
+        "Sixtine/Brenton": "ἐπιστρέψουσι καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ὡς ἄμπελος· μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου",
+        "LXX-Orthodox (Οʹ)": "ἐπιστρέψουσι καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ὡς ἄμπελος μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 13,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Swete-Amicarelli",
+            "1st1K-LXX",
+            "Swete (B/A/א)"
+          ],
+          "variants": [
+            {
+              "reading": "ὡς",
+              "adopt_text": "ὡς",
+              "witnesses": [
+                "Sixtine/Brenton",
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.84
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὡς (Sixtine/Brenton).",
+          "word_index": 13,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἐπιστρέψουσιν",
+          "disregarded_forms": [
+            "ἐπιστρέψουσι"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Euphonic movable-nu (-ν) variation"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ἄμπελος",
+          "disregarded_forms": [
+            "ἄμπελος·"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "Λιβάνου.",
+          "disregarded_forms": [
+            "Λιβάνου"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "ἐπιστρέψουσιν / ἐπιστρέψουσι"
+          ],
+          "witnesses": [
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
+        }
+      ],
+      "rationale": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὡς (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 29463,
+      "verse": 9,
+      "critical_text": "τῷ Ἐφράιμ, τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτόν, καὶ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "τῷ Ἐφράιμ, τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτόν, καὶ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+        "1st1K-LXX": "τῷ Ἐφράιμ, τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτόν, καὶ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+        "Swete (B/A/א)": "τῷ Ἐφράιμ, τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτόν, καὶ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+        "Sixtine/Brenton": "τῷ Ἐφραίμ· τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτὸν, καὶ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+        "LXX-Orthodox (Οʹ)": "τῷ Ἐφραίμ, τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτόν, καὶ ἐγὼ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "ἐγὼ",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "Ἐφράιμ,",
+          "disregarded_forms": [
+            "Ἐφραίμ·"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "αὐτόν,",
+          "disregarded_forms": [
+            "αὐτὸν,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 29464,
+      "verse": 10,
+      "critical_text": "τίς σοφὸς καὶ συνήσει ταῦτα; ἢ συνετὸς καὶ ἐπιγνώσεται αὐτά; διότι εὐθεῖαι αἱ ὁδοὶ τοῦ κυρίου, καὶ δίκαιοι πορεύσονται ἐν αὐταῖς, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Swete-Amicarelli": "τίς σοφὸς καὶ συνήσει ταῦτα; ἢ συνετὸς καὶ ἐπιγνώσεται αὐτά; διότι εὐθεῖαι αἱ ὁδοὶ τοῦ κυρίου, καὶ δίκαιοι πορεύσονται ἐν αὐταῖς, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς.",
+        "1st1K-LXX": "τίς σοφὸς καὶ συνήσει ταῦτα; ἡ συνετὸς καὶ ἐπιγνώσεται αὐτά; διότι εὐθεῖαι αἱ ὁδοὶ τοῦ κυρίου, καὶ δίκαιοι πορεύσονται ἐν αὐταῖς, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς.",
+        "Swete (B/A/א)": "τίς σοφὸς καὶ συνήσει ταῦτα; ἡ συνετὸς καὶ ἐπιγνώσεται αὐτά; διότι εὐθεῖαι αἱ ὁδοὶ τοῦ κυρίου, καὶ δίκαιοι πορεύσονται ἐν αὐταῖς, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς.",
+        "Sixtine/Brenton": "Τίς σοφὸς καὶ συνήσει ταῦτα; ἢ συνετὸς καὶ ἐπιγνώσεται αὐτά; ὅτι εὐθεῖαι αἱ ὁδοὶ τοῦ Κυρίου, καὶ δίκαιοι πορεύσονται ἐν αὐταῖς, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς.",
+        "LXX-Orthodox (Οʹ)": "τίς σοφὸς καὶ συνήσει ταῦτα; ἢ συνετὸς καὶ ἐπιγνώσεται αὐτά; ὅτι εὐθεῖαι αἱ ὁδοὶ τοῦ Κυρίου, καὶ δίκαιοι πορεύσονται ἐν αὐταῖς, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "LXX-Orthodox (Οʹ)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 10,
+          "lemma": "διότι",
+          "lemma_witnesses": [
+            "Swete-Amicarelli",
+            "1st1K-LXX",
+            "Swete (B/A/א)"
+          ],
+          "variants": [
+            {
+              "reading": "ὅτι",
+              "adopt_text": "ὅτι",
+              "witnesses": [
+                "Sixtine/Brenton",
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.84
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'διότι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὅτι (Sixtine/Brenton).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "διοτι",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "τίς",
+          "disregarded_forms": [
+            "Τίς"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "ἢ",
+          "disregarded_forms": [
+            "ἡ"
+          ],
+          "witnesses": [
+            "1st1K-LXX",
+            "Swete (B/A/א)"
+          ],
+          "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "κυρίου,",
+          "disregarded_forms": [
+            "Κυρίου,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'διότι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὅτι (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    }
+  ]
+}

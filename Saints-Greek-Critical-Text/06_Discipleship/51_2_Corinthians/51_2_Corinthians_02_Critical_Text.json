@@ -1,0 +1,5166 @@
+{
+  "edition": "Saints Greek Critical Text",
+  "language": "greek",
+  "division": "06_Discipleship",
+  "book_slug": "2-corinthians",
+  "book_title": "2 Corinthians",
+  "usfm_code": "2CO",
+  "chapter": 2,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:14:05Z",
+  "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
+  "versification_anchor": "SBLGNT",
+  "orthographic_base": "SBLGNT",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "SRGNT",
+      "title": "Statistical Restoration Greek New Testament (CNTR 2022)",
+      "tier": 1,
+      "weight": 0.95,
+      "license": "CC BY 4.0"
+    },
+    {
+      "siglum": "SBLGNT",
+      "title": "SBL Greek New Testament & Apparatus (Holmes 2010)",
+      "tier": 1,
+      "weight": 0.94,
+      "license": "CC BY 4.0"
+    },
+    {
+      "siglum": "BHP",
+      "title": "Bunning Heuristic Prototype GNT (CNTR)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "CC BY 4.0"
+    },
+    {
+      "siglum": "Nestle1904",
+      "title": "Eberhard Nestle Greek New Testament (1904)",
+      "tier": 2,
+      "weight": 0.9,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "RP2018 (Byz)",
+      "title": "Robinson–Pierpont Byzantine Textform (2018)",
+      "tier": 3,
+      "weight": 0.72,
+      "license": "Public Domain / Unlicense"
+    },
+    {
+      "siglum": "TR (KJTR)",
+      "title": "Textus Receptus (CNTR KJTR Collation)",
+      "tier": 3,
+      "weight": 0.6,
+      "license": "CC BY 4.0"
+    },
+    {
+      "siglum": "B (03)",
+      "title": "Codex Vaticanus Direct Transcription (CNTR Early MSS)",
+      "tier": 4,
+      "weight": 0.98,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "siglum": "א (01)",
+      "title": "Codex Sinaiticus Direct Transcription (CNTR Early MSS)",
+      "tier": 4,
+      "weight": 0.96,
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "TCGNT (Byz)",
+      "title": "The Text-Critical Greek New Testament: Byzantine Text (Robert Adam Boyd)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "PT1904 (Byz)",
+      "title": "1904 Ecumenical Patriarchal Greek New Testament (Basileios Antoniades)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "TR-Scrivener (1894)",
+      "title": "Scrivener Textus Receptus (Cambridge 1894 Polytonic Edition)",
+      "tier": 3,
+      "license": "Public Domain / GPL-3.0",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "TR-Boyd (Elz/Scr/Steph)",
+      "title": "Polytonic Textus Receptus (Stephanus 1550 / Elzevir 1624 / Scrivener 1894)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 36000,
+      "verse": 1,
+      "critical_text": "ἔκρινα γὰρ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν·",
+      "confidence": 0.805,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Ἔκρινα γὰρ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν.",
+        "SBLGNT": "ἔκρινα γὰρ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν·",
+        "BHP": "ἔκρινα γὰρ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν.",
+        "Nestle1904": "ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν.",
+        "RP2018 (Byz)": "Ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν.",
+        "TR (KJTR)": "Ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐλθειν ἐν λύπῃ πρὸς ὑμᾶς.",
+        "B (03)": "εκρεινα γαρ εμαυτω τουτο το μη παλιν εν λυπη προσ υμασ ελθειν",
+        "א (01)": "εκρινα δε εμαυτω τουτο το μη παλιν εν λυπη προσ υμασ ελθειν",
+        "TCGNT (Byz)": "ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν.",
+        "PT1904 (Byz)": "Ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ ἐλθεῖν πρὸς ὑμᾶς.",
+        "TR-Scrivener (1894)": "ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐλθεῖν ἐν λύπῃ πρὸς ὑμᾶς.",
+        "TR-Boyd (Elz/Scr/Steph)": "Ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐλθεῖν ἐν λύπῃ πρὸς ὑμᾶς."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 1,
+          "lemma": "γὰρ",
+          "lemma_witnesses": [
+            "B (03)",
+            "SRGNT",
+            "SBLGNT",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "δὲ",
+              "adopt_text": "δὲ",
+              "witnesses": [
+                "א (01)",
+                "Nestle1904",
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 3.18
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'γὰρ' [B (03), SRGNT, SBLGNT, BHP] (weight 3.75, confidence 82%) over δὲ (א (01), Nestle1904, RP2018 (Byz), TR (KJTR)).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "γαρ",
+          "confidence": 0.821,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 7,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐλθειν",
+              "adopt_text": "ἐλθειν",
+              "witnesses": [
+                "TR (KJTR)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 0.6
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz)] (weight 6.45, confidence 99%) over ἐλθειν (TR (KJTR)).",
+          "word_index": 7,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "word-order transposition",
+          "analysis": [
+            {
+              "canon": "variant type: transposition",
+              "note": "Units 'om.' and 'ἐλθεῖν' together form one word-order variant (TR (KJTR) transpose).",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐλθεῖν",
+              "witnesses": [
+                "PT1904 (Byz)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.805,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 12,
+          "lemma": "ἐλθεῖν",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TCGNT (Byz)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "adopt_text": "",
+              "witnesses": [
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 0.6
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'ἐλθεῖν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz)] (weight 6.33, confidence 99%) over om. (TR (KJTR)).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "word-order transposition",
+          "analysis": [
+            {
+              "canon": "variant type: transposition",
+              "note": "Units 'om.' and 'ἐλθεῖν' together form one word-order variant (TR (KJTR) transpose).",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ελθειν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἔκρινα",
+          "disregarded_forms": [
+            "εκρεινα",
+            "εκρινα",
+            "Ἔκρινα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Koine/Uncial itacistic spelling (ει / ι equivalence)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "ἐμαυτῷ",
+          "disregarded_forms": [
+            "εμαυτω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "τοῦτο,",
+          "disregarded_forms": [
+            "τουτο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "τὸ",
+          "disregarded_forms": [
+            "το"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "μὴ",
+          "disregarded_forms": [
+            "μη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "πάλιν",
+          "disregarded_forms": [
+            "παλιν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "λύπῃ",
+          "disregarded_forms": [
+            "λυπη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "πρὸς",
+          "disregarded_forms": [
+            "προσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "ὑμᾶς",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'γὰρ' [B (03), SRGNT, SBLGNT, BHP] (weight 3.75, confidence 82%) over δὲ (א (01), Nestle1904, RP2018 (Byz), TR (KJTR)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz)] (weight 6.45, confidence 99%) over ἐλθειν (TR (KJTR)). [Omission in some witnesses] Adopted 'ἐλθεῖν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz)] (weight 6.33, confidence 99%) over om. (TR (KJTR)). Reference apparatus (SBLGNT): γὰρ WH NA28 ] δὲ Treg RP Reference apparatus (SBLGNT): σχῶ WH Treg NA28 ] ἔχω RP Reference apparatus (SBLGNT): ⸁ἐκ WH Treg NA28 ] – RP Reference apparatus (SBLGNT): κατέναντι WH Treg NA28 ] κατενώπιον τοῦ RP Also normalised 10 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 80% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36001,
+      "verse": 2,
+      "critical_text": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+      "confidence": 0.98,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ὁ εὐφραίνων με, εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "SBLGNT": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "BHP": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ὁ εὐφραίνων με, εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "Nestle1904": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "RP2018 (Byz)": "Εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ἐστιν ὁ εὐφραίνων με, εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "TR (KJTR)": "Εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ἐστιν ὁ εὐφραίνων με, εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "B (03)": "ει γαρ εγω λυπω υμασ και τισ ο ευφραινων με ει μη ο λυπουμενοσ εξ εμου",
+        "א (01)": "ι γαρ εγω ο λυπω υμασ και τισ ο ευφραινων με ει μη ο λυπουμενοσ εξ εμου",
+        "TCGNT (Byz)": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ἐστιν ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "PT1904 (Byz)": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ἐστιν ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "TR-Scrivener (1894)": "εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ἐστιν ὁ εὐφραίνων με, εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;",
+        "TR-Boyd (Elz/Scr/Steph)": "Εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς, καὶ τίς ἐστιν ὁ εὐφραίνων με, εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ;"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 3,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "B (03)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "ο",
+              "adopt_text": "ο",
+              "witnesses": [
+                "א (01)"
+              ],
+              "weight_sum": 0.96
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over ο (א (01)).",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 8,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "ἐστιν",
+              "adopt_text": "ἐστιν",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over ἐστιν (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 7,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "εἰ",
+          "disregarded_forms": [
+            "ει",
+            "ι",
+            "Εἰ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Koine/Uncial itacistic spelling (ει / ι equivalence)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "γὰρ",
+          "disregarded_forms": [
+            "γαρ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "ἐγὼ",
+          "disregarded_forms": [
+            "εγω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "λυπῶ",
+          "disregarded_forms": [
+            "λυπω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "ὑμᾶς,",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "τίς",
+          "disregarded_forms": [
+            "τισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "ὁ",
+          "disregarded_forms": [
+            "ο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "εὐφραίνων",
+          "disregarded_forms": [
+            "ευφραινων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "με",
+          "disregarded_forms": [
+            "με,"
+          ],
+          "witnesses": [
+            "BHP",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "εἰ",
+          "disregarded_forms": [
+            "ει"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "μὴ",
+          "disregarded_forms": [
+            "μη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ὁ",
+          "disregarded_forms": [
+            "ο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "λυπούμενος",
+          "disregarded_forms": [
+            "λυπουμενοσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "ἐξ",
+          "disregarded_forms": [
+            "εξ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "ἐμοῦ;",
+          "disregarded_forms": [
+            "εμου"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over ο (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over ἐστιν (RP2018 (Byz), TR (KJTR)). Also normalised 16 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36002,
+      "verse": 3,
+      "critical_text": "καὶ ἔγραψα τοῦτο αὐτὸ ἵνα μὴ ἐλθὼν λύπην σχῶ ἀφʼ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+      "confidence": 0.98,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Καὶ ἔγραψα τοῦτο αὐτὸ, ἵνα μὴ ἐλθὼν, λύπην σχῶ ἀφʼ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "SBLGNT": "καὶ ἔγραψα τοῦτο αὐτὸ ἵνα μὴ ἐλθὼν λύπην σχῶ ἀφʼ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "BHP": "καὶ ἔγραψα τοῦτο αὐτὸ, ἵνα μὴ ἐλθὼν, λύπην σχῶ ἀφʼ ὧν ἔδει με χαίρειν· πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "Nestle1904": "καὶ ἔγραψα τοῦτο αὐτὸ ἵνα μὴ ἐλθὼν λύπην σχῶ ἀφ’ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "RP2018 (Byz)": "Καὶ ἔγραψα ὑμῖν τοῦτο αὐτό, ἵνα μὴ ἐλθὼν λύπην ἔχω ἀφ’ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς, ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστίν.",
+        "TR (KJTR)": "Καὶ ἔγραψα ὑμῖν τοῦτο αὐτὸ, ἵνα μὴ, ἐλθὼν λύπην ἔχω ἀφʼ ὧν ἔδει με χαίρειν· πεποιθὼς ἐπὶ πάντας ὑμᾶς, ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "B (03)": "και εγραψα τουτο αυτο ινα μη ελθων λυπην σχω αφ ων εδει με χαιρειν πεποιθωσ επι παντασ υμασ οτι η εμη χαρα παντων υμων εστιν",
+        "א (01)": "και εγραψα τουτο αυτο ινα μη ελθων λυπην σχω αφ ων εδει με χαιρειν πεποιθωσ επι παντασ υμασ οτι η εμη χαρα παντων υμων εστιν",
+        "TCGNT (Byz)": "καὶ ἔγραψα ὑμῖν τοῦτο αὐτό, ἵνα μὴ ἐλθὼν λύπην ἔχω ἀφ᾽ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "PT1904 (Byz)": "καὶ ἔγραψα ὑμῖν τοῦτο αὐτό, ἵνα μὴ ἐλθὼν λύπην ἔχω ἀφ᾽ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν.",
+        "TR-Scrivener (1894)": "καὶ ἔγραψα ὑμῖν τοῦτο αὐτό, ἵνα μὴ ἐλθὼν λύπην ἔχω ἀφ᾽ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς, ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστίν.",
+        "TR-Boyd (Elz/Scr/Steph)": "Καὶ ἔγραψα ὑμῖν τοῦτο αὐτό, ἵνα μὴ ἐλθὼν λύπην ἔχω ἀφ᾿ ὧν ἔδει με χαίρειν, πεποιθὼς ἐπὶ πάντας ὑμᾶς, ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστίν."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 2,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "ὑμῖν",
+              "adopt_text": "ὑμῖν",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over ὑμῖν (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 2,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 9,
+          "lemma": "σχῶ",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "ἔχω",
+              "adopt_text": "ἔχω",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'σχῶ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ἔχω (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "σχω",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και",
+            "Καὶ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "ἔγραψα",
+          "disregarded_forms": [
+            "εγραψα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "τοῦτο",
+          "disregarded_forms": [
+            "τουτο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "αὐτὸ",
+          "disregarded_forms": [
+            "αυτο",
+            "αὐτό,"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "ἵνα",
+          "disregarded_forms": [
+            "ινα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "μὴ",
+          "disregarded_forms": [
+            "μη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "ἐλθὼν",
+          "disregarded_forms": [
+            "ελθων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "λύπην",
+          "disregarded_forms": [
+            "λυπην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "ἀφʼ",
+          "disregarded_forms": [
+            "αφ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "ὧν",
+          "disregarded_forms": [
+            "ων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ἔδει",
+          "disregarded_forms": [
+            "εδει"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "χαίρειν,",
+          "disregarded_forms": [
+            "χαιρειν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "πεποιθὼς",
+          "disregarded_forms": [
+            "πεποιθωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "ἐπὶ",
+          "disregarded_forms": [
+            "επι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "πάντας",
+          "disregarded_forms": [
+            "παντασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "ὑμᾶς",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "ὅτι",
+          "disregarded_forms": [
+            "οτι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "ἡ",
+          "disregarded_forms": [
+            "η"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "ἐμὴ",
+          "disregarded_forms": [
+            "εμη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "χαρὰ",
+          "disregarded_forms": [
+            "χαρα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "πάντων",
+          "disregarded_forms": [
+            "παντων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 24,
+          "kept_form": "ὑμῶν",
+          "disregarded_forms": [
+            "υμων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 25,
+          "kept_form": "ἐστιν.",
+          "disregarded_forms": [
+            "εστιν",
+            "ἐστίν."
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
+        }
+      ],
+      "rationale": "[Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over ὑμῖν (RP2018 (Byz), TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'σχῶ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ἔχω (RP2018 (Byz), TR (KJTR)). Also normalised 23 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36003,
+      "verse": 4,
+      "critical_text": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας, ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "SBLGNT": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "BHP": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας, ἔγραψα ὑμῖν διὰ πολλῶν δακρύων· οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "Nestle1904": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "RP2018 (Byz)": "Ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "TR (KJTR)": "Ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων· οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "B (03)": "εκ γαρ πολλησ θλιψεωσ και συνοχησ καρδιασ εγραψα υμιν δια πολλων δακρυων ουχ ινα λυπηθητε αλλα την αγαπην ινα γνωτε ην εχω περισσοτερωσ εισ υμασ",
+        "א (01)": "εκ γαρ πολλησ θλιψεωσ και συνοχησ καρδιασ εγραψα υμιν δια πολλων δακρυων ουχ ινα λυπηθητε αλλα την αγαπην ινα γνωτε ην εχω περισσοτερωσ εισ υμασ",
+        "TCGNT (Byz)": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "PT1904 (Byz)": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "TR-Scrivener (1894)": "ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς.",
+        "TR-Boyd (Elz/Scr/Steph)": "Ἐκ γὰρ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν διὰ πολλῶν δακρύων, οὐχ ἵνα λυπηθῆτε, ἀλλὰ τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως εἰς ὑμᾶς."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἐκ",
+          "disregarded_forms": [
+            "εκ",
+            "Ἐκ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "γὰρ",
+          "disregarded_forms": [
+            "γαρ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "πολλῆς",
+          "disregarded_forms": [
+            "πολλησ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "θλίψεως",
+          "disregarded_forms": [
+            "θλιψεωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "συνοχῆς",
+          "disregarded_forms": [
+            "συνοχησ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "καρδίας",
+          "disregarded_forms": [
+            "καρδιασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "ἔγραψα",
+          "disregarded_forms": [
+            "εγραψα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "ὑμῖν",
+          "disregarded_forms": [
+            "υμιν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "διὰ",
+          "disregarded_forms": [
+            "δια"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "πολλῶν",
+          "disregarded_forms": [
+            "πολλων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "δακρύων,",
+          "disregarded_forms": [
+            "δακρυων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "οὐχ",
+          "disregarded_forms": [
+            "ουχ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "ἵνα",
+          "disregarded_forms": [
+            "ινα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "λυπηθῆτε,",
+          "disregarded_forms": [
+            "λυπηθητε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "ἀλλὰ",
+          "disregarded_forms": [
+            "αλλα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "τὴν",
+          "disregarded_forms": [
+            "την"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "ἀγάπην",
+          "disregarded_forms": [
+            "αγαπην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "ἵνα",
+          "disregarded_forms": [
+            "ινα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "γνῶτε",
+          "disregarded_forms": [
+            "γνωτε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "ἣν",
+          "disregarded_forms": [
+            "ην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "ἔχω",
+          "disregarded_forms": [
+            "εχω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "περισσοτέρως",
+          "disregarded_forms": [
+            "περισσοτερωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 24,
+          "kept_form": "ὑμᾶς.",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 25 surface variation(s) (Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36004,
+      "verse": 5,
+      "critical_text": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους, ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς.",
+        "SBLGNT": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς.",
+        "BHP": "εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους, ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς.",
+        "Nestle1904": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους, ἵνα μὴ ἐπιβαρῶ, πάντας ὑμᾶς.",
+        "RP2018 (Byz)": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους- ἵνα μὴ ἐπιβαρῶ- πάντας ὑμᾶς.",
+        "TR (KJTR)": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους: ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς.",
+        "B (03)": "ει δε τισ λελυπηκεν ουκ εμε λελυπηκεν αλλα απο μερουσ ινα μη επιβαρω παντασ υμασ",
+        "א (01)": "ει δε τισ λελυπηκεν ουκ εμε λελυπηκεν αλλα απο μερουσ ινα μη επιβαρω παντασ υμασ",
+        "TCGNT (Byz)": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους (ἵνα μὴ ἐπιβαρῶ) πάντας ὑμᾶς.",
+        "PT1904 (Byz)": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλά, ἀπὸ μέρους ἵνα μὴ ἐπιβαρῶ, πάντας ὑμᾶς.",
+        "TR-Scrivener (1894)": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλ᾽ ἀπὸ μέρους· ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς.",
+        "TR-Boyd (Elz/Scr/Steph)": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν, ἀλλ᾿ ἀπὸ μέρους — ἵνα μὴ ἐπιβαρῶ — πάντας ὑμᾶς."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Εἰ",
+          "disregarded_forms": [
+            "ει",
+            "εἰ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "δέ",
+          "disregarded_forms": [
+            "δε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "τις",
+          "disregarded_forms": [
+            "τισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "λελύπηκεν,",
+          "disregarded_forms": [
+            "λελυπηκεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "οὐκ",
+          "disregarded_forms": [
+            "ουκ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "ἐμὲ",
+          "disregarded_forms": [
+            "εμε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "λελύπηκεν,",
+          "disregarded_forms": [
+            "λελυπηκεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "ἀλλὰ",
+          "disregarded_forms": [
+            "αλλα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "ἀπὸ",
+          "disregarded_forms": [
+            "απο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "μέρους",
+          "disregarded_forms": [
+            "μερουσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "ἵνα",
+          "disregarded_forms": [
+            "ινα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "μὴ",
+          "disregarded_forms": [
+            "μη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ἐπιβαρῶ",
+          "disregarded_forms": [
+            "επιβαρω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "πάντας",
+          "disregarded_forms": [
+            "παντασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ὑμᾶς.",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "ἀλλὰ / ἀλλ᾿",
+            "ἀλλὰ / ἀλλ᾽"
+          ],
+          "witnesses": [
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "reason": "Apparatus witness, not a variant: Elision (κατὰ / κατ’ type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 15 surface variation(s) (Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36005,
+      "verse": 6,
+      "critical_text": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη, ἡ ὑπὸ τῶν πλειόνων,",
+        "SBLGNT": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων,",
+        "BHP": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη, ἡ ὑπὸ τῶν πλειόνων,",
+        "Nestle1904": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων,",
+        "RP2018 (Byz)": "Ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων·",
+        "TR (KJTR)": "Ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη, ἡ ὑπὸ τῶν πλειόνων.",
+        "B (03)": "ικανον τω τοιουτω η επιτειμια αυτη η υπο των πλειονων",
+        "א (01)": "ικανον τω τοιουτω η επιτιμια αυτη η υπο των πλειονων",
+        "TCGNT (Byz)": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων,",
+        "PT1904 (Byz)": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων·",
+        "TR-Scrivener (1894)": "ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων·",
+        "TR-Boyd (Elz/Scr/Steph)": "Ἱκανὸν τῷ τοιούτῳ ἡ ἐπιτιμία αὕτη ἡ ὑπὸ τῶν πλειόνων·"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἱκανὸν",
+          "disregarded_forms": [
+            "ικανον",
+            "Ἱκανὸν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "τῷ",
+          "disregarded_forms": [
+            "τω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "τοιούτῳ",
+          "disregarded_forms": [
+            "τοιουτω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "ἡ",
+          "disregarded_forms": [
+            "η"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "ἐπιτιμία",
+          "disregarded_forms": [
+            "επιτειμια",
+            "επιτιμια"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Koine/Uncial itacistic spelling (ει / ι equivalence)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "αὕτη",
+          "disregarded_forms": [
+            "αυτη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "ἡ",
+          "disregarded_forms": [
+            "η"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "ὑπὸ",
+          "disregarded_forms": [
+            "υπο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "τῶν",
+          "disregarded_forms": [
+            "των"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "πλειόνων,",
+          "disregarded_forms": [
+            "πλειονων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 10 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36006,
+      "verse": 7,
+      "critical_text": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ, καταποθῇ ὁ τοιοῦτος.",
+        "SBLGNT": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "BHP": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ, καταποθῇ ὁ τοιοῦτος.",
+        "Nestle1904": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "RP2018 (Byz)": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μήπως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "TR (KJTR)": "Ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι, καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "B (03)": "ωστε τουναντιον υμασ χαρισασθαι και παρακαλεσαι μη πωσ τη περισσοτερα λυπη καταποθη ο τοιουτοσ",
+        "א (01)": "ωστε τουναντιον μαλλον υμασ χαρισασθαι και παρακαλεσαι μη πωσ τη περισσοτερα λυπη καταποθη ο τοιουτοσ",
+        "TCGNT (Byz)": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μήπως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "PT1904 (Byz)": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μήπως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "TR-Scrivener (1894)": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος.",
+        "TR-Boyd (Elz/Scr/Steph)": "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μήπως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 2,
+          "lemma": "μᾶλλον",
+          "lemma_witnesses": [
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "adopt_text": "",
+              "witnesses": [
+                "B (03)"
+              ],
+              "weight_sum": 1.1
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'μᾶλλον' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over om. (B (03)).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "μαλλον",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ὥστε",
+          "disregarded_forms": [
+            "ωστε",
+            "Ὥστε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "τοὐναντίον",
+          "disregarded_forms": [
+            "τουναντιον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "ὑμᾶς",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "χαρίσασθαι",
+          "disregarded_forms": [
+            "χαρισασθαι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "παρακαλέσαι,",
+          "disregarded_forms": [
+            "παρακαλεσαι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "μή πως",
+          "disregarded_forms": [
+            "μη πωσ",
+            "μήπως"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Word division differs (same letters written as one word or two)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "τῇ",
+          "disregarded_forms": [
+            "τη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "περισσοτέρᾳ",
+          "disregarded_forms": [
+            "περισσοτερα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "λύπῃ",
+          "disregarded_forms": [
+            "λυπη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "καταποθῇ",
+          "disregarded_forms": [
+            "καταποθη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ὁ",
+          "disregarded_forms": [
+            "ο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "τοιοῦτος.",
+          "disregarded_forms": [
+            "τοιουτοσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "μή πως / μήπως",
+            "μή πως / μήπως",
+            "μή πως / μήπως"
+          ],
+          "witnesses": [
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "[Omission in some witnesses] Adopted 'μᾶλλον' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over om. (B (03)). Also normalised 13 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36007,
+      "verse": 8,
+      "critical_text": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην·",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Διὸ παρακαλῶ ὑμᾶς, κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "SBLGNT": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην·",
+        "BHP": "διὸ παρακαλῶ ὑμᾶς, κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "Nestle1904": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην·",
+        "RP2018 (Byz)": "Διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "TR (KJTR)": "Διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "B (03)": "διο παρακαλω υμασ κυρωσαι εισ αυτον αγαπην",
+        "א (01)": "διο παρακαλω υμασ κυρωσαι εισ αυτον αγαπην",
+        "TCGNT (Byz)": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "PT1904 (Byz)": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "TR-Scrivener (1894)": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην.",
+        "TR-Boyd (Elz/Scr/Steph)": "Διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "διὸ",
+          "disregarded_forms": [
+            "διο",
+            "Διὸ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "παρακαλῶ",
+          "disregarded_forms": [
+            "παρακαλω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "ὑμᾶς",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "κυρῶσαι",
+          "disregarded_forms": [
+            "κυρωσαι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "αὐτὸν",
+          "disregarded_forms": [
+            "αυτον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "ἀγάπην·",
+          "disregarded_forms": [
+            "αγαπην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 7 surface variation(s) (Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36008,
+      "verse": 9,
+      "critical_text": "εἰς τοῦτο γὰρ καὶ ἔγραψα ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "SBLGNT": "εἰς τοῦτο γὰρ καὶ ἔγραψα ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "BHP": "εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "Nestle1904": "εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "RP2018 (Byz)": "Εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "TR (KJTR)": "Εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "B (03)": "εισ τουτο γαρ και εγραψα ινα γνω την δοκιμην υμων η εισ παντα υπηκοοι εστε",
+        "א (01)": "εισ τουτο γαρ και εγραψα ινα γνω την δοκιμην υμων ει εισ παντα υπηκοοι εστε",
+        "TCGNT (Byz)": "εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "PT1904 (Byz)": "εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "TR-Scrivener (1894)": "εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε.",
+        "TR-Boyd (Elz/Scr/Steph)": "Εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν, εἰ εἰς πάντα ὑπήκοοί ἐστε."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 10,
+          "lemma": "εἰ",
+          "lemma_witnesses": [
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "η",
+              "adopt_text": "η",
+              "witnesses": [
+                "B (03)"
+              ],
+              "weight_sum": 0.98
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'εἰ' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over η (B (03)).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ει",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ",
+            "Εἰς"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "τοῦτο",
+          "disregarded_forms": [
+            "τουτο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "γὰρ",
+          "disregarded_forms": [
+            "γαρ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "ἔγραψα",
+          "disregarded_forms": [
+            "εγραψα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "ἵνα",
+          "disregarded_forms": [
+            "ινα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "γνῶ",
+          "disregarded_forms": [
+            "γνω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "τὴν",
+          "disregarded_forms": [
+            "την"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "δοκιμὴν",
+          "disregarded_forms": [
+            "δοκιμην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "ὑμῶν,",
+          "disregarded_forms": [
+            "υμων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "πάντα",
+          "disregarded_forms": [
+            "παντα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "ὑπήκοοί",
+          "disregarded_forms": [
+            "υπηκοοι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ἐστε.",
+          "disregarded_forms": [
+            "εστε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'εἰ' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over η (B (03)). Also normalised 14 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36009,
+      "verse": 10,
+      "critical_text": "ᾧ δέ τι χαρίζεσθε, κἀγώ· καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, διʼ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+      "confidence": 0.961,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "ὯΙ δέ τι χαρίζεσθε, κἀγώ· καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, διʼ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "SBLGNT": "ᾧ δέ τι χαρίζεσθε, κἀγώ· καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, διʼ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "BHP": "ᾧ δέ τι χαρίζεσθε, κἀγώ· καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, διʼ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "Nestle1904": "ᾧ δέ τι χαρίζεσθε, κἀγώ· καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, δι’ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "RP2018 (Byz)": "ᾯ δέ τι χαρίζεσθε, καὶ ἐγώ· καὶ γὰρ ἐγὼ εἴ τι κεχάρισμαι, ᾧ κεχάρισμαι, δι’ ὑμᾶς ἐν προσώπῳ χριστοῦ,",
+        "TR (KJTR)": "ᾯ δέ τι χαρίζεσθε, καὶ ἐγώ: καὶ γὰρ ἐγὼ εἴ τι κεχάρισμαι, ὧ κεχάρισμαι, διʼ ὑμᾶς ἐν προσώπῳ Χριστοῦ·",
+        "B (03)": "ω δε τι χαριζεσθε καγω και γαρ εγω ο κεχαρισμαι ει τι κεχαρισμαι δι υμασ εν προσωπω χυ̅",
+        "א (01)": "ω δε τι χαριζεσθε καγω και γαρ εγω ο κεχαρισμαι ει τι κεχαρισμαι δι υμασ εν προσωπω χυ̅",
+        "TCGNT (Byz)": "ᾧ δέ τι χαρίζεσθε, καὶ ἐγώ· καὶ γὰρ ἐγὼ εἴ τι κεχάρισμαι, ᾧ κεχάρισμαι, δι᾽ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "PT1904 (Byz)": "ᾧ δέ τι χαρίζεσθε, καὶ ἐγώ· καὶ γὰρ ἐγὼ εἴ τι κεχάρισμαι ᾧ κεχάρισμαι, δι᾽ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "TR-Scrivener (1894)": "ᾧ δέ τι χαρίζεσθε, καὶ ἐγώ· καὶ γὰρ ἐγὼ εἴ τι κεχάρισμαι, ᾧ κεχάρισμαι, δι᾽ ὑμᾶς ἐν προσώπῳ Χριστοῦ,",
+        "TR-Boyd (Elz/Scr/Steph)": "ᾯ δέ τι χαρίζεσθε, καὶ ἐγώ· καὶ γὰρ ἐγὼ εἴ τι κεχάρισμαι, ᾧ κεχάρισμαι, δι᾿ ὑμᾶς ἐν προσώπῳ Χριστοῦ,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 0,
+          "lemma": "ᾧ",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "ὯΙ",
+              "adopt_text": "ὯΙ",
+              "witnesses": [
+                "SRGNT"
+              ],
+              "weight_sum": 0.95
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ᾧ' [B (03), א (01), SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.98, confidence 99%) over ὯΙ (SRGNT).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): modern critical editions.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ω",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 4,
+          "lemma": "κἀγώ",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "καὶ ἐγώ",
+              "adopt_text": "καὶ ἐγώ",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'κἀγώ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over καὶ ἐγώ (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "καγω",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 8,
+          "lemma": "ὃ κεχάρισμαι",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "adopt_text": "",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'ὃ κεχάρισμαι' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 8,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ο κεχαρισμαι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 11,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "κεχάρισμαι ᾧ",
+              "adopt_text": "κεχάρισμαι ᾧ",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over κεχάρισμαι ᾧ (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 12,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "transcriptional: homoeoarcton",
+              "note": "The omission in B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP is explicable by eye-skip between the two occurrences of 'κεχαρισμαι'; B and א both omit, so the shorter reading keeps its credit.",
+              "favours": "reading",
+              "reading": "κεχάρισμαι ᾧ",
+              "key": "κεχαρισμαι ω",
+              "strength": "moderate"
+            },
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "δέ",
+          "disregarded_forms": [
+            "δε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "χαρίζεσθε,",
+          "disregarded_forms": [
+            "χαριζεσθε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "γὰρ",
+          "disregarded_forms": [
+            "γαρ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "ἐγὼ",
+          "disregarded_forms": [
+            "εγω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "εἴ",
+          "disregarded_forms": [
+            "ει"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "κεχάρισμαι,",
+          "disregarded_forms": [
+            "κεχαρισμαι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "διʼ",
+          "disregarded_forms": [
+            "δι",
+            "δι’"
+          ],
+          "witnesses": [
+            "B (03)",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ὑμᾶς",
+          "disregarded_forms": [
+            "υμασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "προσώπῳ",
+          "disregarded_forms": [
+            "προσωπω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "Χριστοῦ,",
+          "disregarded_forms": [
+            "χυ̅",
+            "χριστοῦ,"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ᾧ' [B (03), א (01), SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.98, confidence 99%) over ὯΙ (SRGNT). [Lexical, morphological, or word-order variant] Adopted 'κἀγώ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over καὶ ἐγώ (RP2018 (Byz), TR (KJTR)). [Variation unit spanning several words] Adopted 'ὃ κεχάρισμαι' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over κεχάρισμαι ᾧ (RP2018 (Byz), TR (KJTR)). Also normalised 12 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 96% = product of 4 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36010,
+      "verse": 11,
+      "critical_text": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ, οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ, οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "SBLGNT": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ, οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "BHP": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ, οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "Nestle1904": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ· οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "RP2018 (Byz)": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ· οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "TR (KJTR)": "Ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ: οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "B (03)": "ινα μη πλεονεκτηθωμεν υπο του σατανα ου γαρ αυτου τα νοηματα αγνοουμεν",
+        "א (01)": "ινα μη πλεονεκτηθωμεν υπο του σατανα ου γαρ αυτου τα νοηματα αγνοουμεν",
+        "TCGNT (Byz)": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ· οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "PT1904 (Byz)": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ σατανᾶ· οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "TR-Scrivener (1894)": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ· οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν.",
+        "TR-Boyd (Elz/Scr/Steph)": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ· οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ἵνα",
+          "disregarded_forms": [
+            "ινα",
+            "Ἵνα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "μὴ",
+          "disregarded_forms": [
+            "μη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "πλεονεκτηθῶμεν",
+          "disregarded_forms": [
+            "πλεονεκτηθωμεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "ὑπὸ",
+          "disregarded_forms": [
+            "υπο"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "τοῦ",
+          "disregarded_forms": [
+            "του"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "Σατανᾶ,",
+          "disregarded_forms": [
+            "σατανα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "οὐ",
+          "disregarded_forms": [
+            "ου"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "γὰρ",
+          "disregarded_forms": [
+            "γαρ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "αὐτοῦ",
+          "disregarded_forms": [
+            "αυτου"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "τὰ",
+          "disregarded_forms": [
+            "τα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "νοήματα",
+          "disregarded_forms": [
+            "νοηματα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "ἀγνοοῦμεν.",
+          "disregarded_forms": [
+            "αγνοουμεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 12 surface variation(s) (Accentuation / capitalisation / breathing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36011,
+      "verse": 12,
+      "critical_text": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ καὶ θύρας μοι ἀνεῳγμένης ἐν κυρίῳ,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "SBLGNT": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ καὶ θύρας μοι ἀνεῳγμένης ἐν κυρίῳ,",
+        "BHP": "ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "Nestle1904": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "RP2018 (Byz)": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν κυρίῳ,",
+        "TR (KJTR)": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "B (03)": "ελθων δε εισ την τρωαδα εισ το ευαγγελιον του χυ̅ και θυρασ μοι ανεωγμενησ εν κω̅",
+        "א (01)": "ελθων δε εισ την τρωαδα εισ το ευαγγελιον του χυ̅ και θυρασ μοι ανεωγμενησ εν κω̅",
+        "TCGNT (Byz)": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "PT1904 (Byz)": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "TR-Scrivener (1894)": "Ἐλθὼν δὲ εἰς τὴν Τρωάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,",
+        "TR-Boyd (Elz/Scr/Steph)": "Ἐλθὼν δὲ εἰς τὴν Τρῳάδα εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ, καὶ θύρας μοι ἀνεῳγμένης ἐν Κυρίῳ,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ἐλθὼν",
+          "disregarded_forms": [
+            "ελθων",
+            "ἐλθὼν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "δὲ",
+          "disregarded_forms": [
+            "δε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "τὴν",
+          "disregarded_forms": [
+            "την"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Τρῳάδα",
+          "disregarded_forms": [
+            "τρωαδα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "τὸ",
+          "disregarded_forms": [
+            "το"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "εὐαγγέλιον",
+          "disregarded_forms": [
+            "ευαγγελιον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "τοῦ",
+          "disregarded_forms": [
+            "του"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "Χριστοῦ",
+          "disregarded_forms": [
+            "χυ̅",
+            "χριστοῦ,"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "θύρας",
+          "disregarded_forms": [
+            "θυρασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "ἀνεῳγμένης",
+          "disregarded_forms": [
+            "ανεωγμενησ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "κυρίῳ,",
+          "disregarded_forms": [
+            "κω̅",
+            "Κυρίῳ,"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 15 surface variation(s) (Accentuation / capitalisation / breathing convention; Nomen sacrum (contracted sacred name) for the full word).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36012,
+      "verse": 13,
+      "critical_text": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+      "confidence": 0.98,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου, τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς, ἐξῆλθον εἰς Μακεδονίαν.",
+        "SBLGNT": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+        "BHP": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου, τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς, ἐξῆλθον εἰς Μακεδονίαν.",
+        "Nestle1904": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+        "RP2018 (Byz)": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου, τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου· ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+        "TR (KJTR)": "Οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου, τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου: ἀλλὰ ἀποταξάμενος αὐτοῖς, ἐξῆλθον εἰς Μακεδονίαν.",
+        "B (03)": "ουκ εσχηκα ανεσιν τω πνευματι μου τω μη ευρειν με τιτον τον αδελφον μου αλλα αποταξαμενοσ αυτοισ εξηλθον εισ μακεδονιαν",
+        "א (01)": "ουκ εσχηκα ανεσιν τω πνι̅ μου του μη ευριν με τιτον τον αδελφον μου αλλα αποταξαμενοσ αυτοισ εξηλθον εισ μακαιδονιαν",
+        "TCGNT (Byz)": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+        "PT1904 (Byz)": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου, ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+        "TR-Scrivener (1894)": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου, τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου· ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν.",
+        "TR-Boyd (Elz/Scr/Steph)": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου, τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου· ἀλλὰ ἀποταξάμενος αὐτοῖς ἐξῆλθον εἰς Μακεδονίαν."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 6,
+          "lemma": "τῷ",
+          "lemma_witnesses": [
+            "B (03)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "του",
+              "adopt_text": "του",
+              "witnesses": [
+                "א (01)"
+              ],
+              "weight_sum": 0.96
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'τῷ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over του (א (01)).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "τω",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 19,
+          "lemma": "Μακεδονίαν",
+          "lemma_witnesses": [
+            "B (03)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "μακαιδονιαν",
+              "adopt_text": "μακαιδονιαν",
+              "witnesses": [
+                "א (01)"
+              ],
+              "weight_sum": 0.96
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Μακεδονίαν' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over μακαιδονιαν (א (01)).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "μακεδονιαν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "οὐκ",
+          "disregarded_forms": [
+            "ουκ",
+            "Οὐκ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "ἔσχηκα",
+          "disregarded_forms": [
+            "εσχηκα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "ἄνεσιν",
+          "disregarded_forms": [
+            "ανεσιν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "τῷ",
+          "disregarded_forms": [
+            "τω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "πνεύματί",
+          "disregarded_forms": [
+            "πνευματι",
+            "πνι̅"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "μου",
+          "disregarded_forms": [
+            "μου,"
+          ],
+          "witnesses": [
+            "BHP",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "μὴ",
+          "disregarded_forms": [
+            "μη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "εὑρεῖν",
+          "disregarded_forms": [
+            "ευρειν",
+            "ευριν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Koine/Uncial itacistic spelling (ει / ι equivalence)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "Τίτον",
+          "disregarded_forms": [
+            "τιτον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "τὸν",
+          "disregarded_forms": [
+            "τον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ἀδελφόν",
+          "disregarded_forms": [
+            "αδελφον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "μου,",
+          "disregarded_forms": [
+            "μου",
+            "μου·",
+            "μου:"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ἀλλὰ",
+          "disregarded_forms": [
+            "αλλα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "ἀποταξάμενος",
+          "disregarded_forms": [
+            "αποταξαμενοσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "αὐτοῖς",
+          "disregarded_forms": [
+            "αυτοισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "ἐξῆλθον",
+          "disregarded_forms": [
+            "εξηλθον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'τῷ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over του (א (01)). [Lexical, morphological, or word-order variant] Adopted 'Μακεδονίαν' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over μακαιδονιαν (א (01)). Also normalised 17 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36013,
+      "verse": 14,
+      "critical_text": "Τῷ δὲ θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι διʼ ἡμῶν ἐν παντὶ τόπῳ·",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Τῷ δὲ Θεῷ χάρις, τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ, φανεροῦντι διʼ ἡμῶν ἐν παντὶ τόπῳ.",
+        "SBLGNT": "Τῷ δὲ θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι διʼ ἡμῶν ἐν παντὶ τόπῳ·",
+        "BHP": "τῷ δὲ Θεῷ χάρις, τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ, φανεροῦντι διʼ ἡμῶν ἐν παντὶ τόπῳ.",
+        "Nestle1904": "Τῷ δὲ Θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι’ ἡμῶν ἐν παντὶ τόπῳ·",
+        "RP2018 (Byz)": "Τῷ δὲ θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι’ ἡμῶν ἐν παντὶ τόπῳ.",
+        "TR (KJTR)": "Τῷ δὲ Θεῷ χάρις, τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι διʼ ἡμῶν ἐν παντὶ τόπῳ.",
+        "B (03)": "τω δε θω̅ χαρισ τω παντοτε θριαμβευοντι ημασ εν τω χω̅ και την οσμην τησ γνωσεωσ αυτου φανερουντι δι ημων εν παντι τοπω",
+        "א (01)": "τω δε θω̅ χαρισ τω παντοτε θριαμβευοντι ημασ εν τω χω̅ και την οσμην τη γνωσεωσ αυτου φανερουντι δι ημων εν παντι τοπω",
+        "TCGNT (Byz)": "Τῷ δὲ Θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι᾽ ἡμῶν ἐν παντὶ τόπῳ·",
+        "PT1904 (Byz)": "Τῷ δὲ Θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι᾽ ἡμῶν ἐν παντὶ τόπῳ·",
+        "TR-Scrivener (1894)": "τῷ δὲ Θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι᾽ ἡμῶν ἐν παντὶ τόπῳ.",
+        "TR-Boyd (Elz/Scr/Steph)": "Τῷ δὲ Θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι᾿ ἡμῶν ἐν παντὶ τόπῳ."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 14,
+          "lemma": "τῆς",
+          "lemma_witnesses": [
+            "B (03)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "τη",
+              "adopt_text": "τη",
+              "witnesses": [
+                "א (01)"
+              ],
+              "weight_sum": 0.96
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'τῆς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over τη (א (01)).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "τησ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Τῷ",
+          "disregarded_forms": [
+            "τω",
+            "τῷ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "δὲ",
+          "disregarded_forms": [
+            "δε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "θεῷ",
+          "disregarded_forms": [
+            "θω̅",
+            "Θεῷ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "χάρις",
+          "disregarded_forms": [
+            "χαρισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "τῷ",
+          "disregarded_forms": [
+            "τω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "πάντοτε",
+          "disregarded_forms": [
+            "παντοτε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "θριαμβεύοντι",
+          "disregarded_forms": [
+            "θριαμβευοντι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "ἡμᾶς",
+          "disregarded_forms": [
+            "ημασ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "τῷ",
+          "disregarded_forms": [
+            "τω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "Χριστῷ",
+          "disregarded_forms": [
+            "χω̅",
+            "χριστῷ,"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "τὴν",
+          "disregarded_forms": [
+            "την"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "ὀσμὴν",
+          "disregarded_forms": [
+            "οσμην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "γνώσεως",
+          "disregarded_forms": [
+            "γνωσεωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "αὐτοῦ",
+          "disregarded_forms": [
+            "αυτου"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "φανεροῦντι",
+          "disregarded_forms": [
+            "φανερουντι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "διʼ",
+          "disregarded_forms": [
+            "δι",
+            "δι’"
+          ],
+          "witnesses": [
+            "B (03)",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "ἡμῶν",
+          "disregarded_forms": [
+            "ημων"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "παντὶ",
+          "disregarded_forms": [
+            "παντι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "τόπῳ·",
+          "disregarded_forms": [
+            "τοπω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'τῆς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over τη (א (01)). Also normalised 22 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36014,
+      "verse": 15,
+      "critical_text": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ, ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις,",
+        "SBLGNT": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις,",
+        "BHP": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ, ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις·",
+        "Nestle1904": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ ἐν τοῖς σωζομένοις καὶ ἐν τοῖς ἀπολλυμένοις,",
+        "RP2018 (Byz)": "Ὅτι χριστοῦ εὐωδία ἐσμὲν τῷ θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις·",
+        "TR (KJTR)": "Ὅτι Χριστοῦ εὐωδία ἐσμὲν, τῷ Θεῷ ἐν τοῖς σωζομένοις, καὶ ἐν τοῖς ἀπολλυμένοις:",
+        "B (03)": "οτι χυ̅ ευωδια εσμεν τω θω̅ εν τοισ σωζομενοισ και εν τοισ απολλυμενοισ",
+        "א (01)": "οτι χυ̅ ευωδια εσμεν τω θω̅ εν τοισ σωζομενοισ και εν τοισ απολλυμενοισ",
+        "TCGNT (Byz)": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις,",
+        "PT1904 (Byz)": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις,",
+        "TR-Scrivener (1894)": "ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ ἐν τοῖς σωζομένοις καὶ ἐν τοῖς ἀπολλυμένοις·",
+        "TR-Boyd (Elz/Scr/Steph)": "Ὅτι Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις·"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "ὅτι",
+          "disregarded_forms": [
+            "οτι",
+            "Ὅτι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "Χριστοῦ",
+          "disregarded_forms": [
+            "χυ̅",
+            "χριστοῦ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "εὐωδία",
+          "disregarded_forms": [
+            "ευωδια"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "ἐσμὲν",
+          "disregarded_forms": [
+            "εσμεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "τῷ",
+          "disregarded_forms": [
+            "τω"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "θεῷ",
+          "disregarded_forms": [
+            "θω̅",
+            "Θεῷ,",
+            "Θεῷ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "τοῖς",
+          "disregarded_forms": [
+            "τοισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "σῳζομένοις",
+          "disregarded_forms": [
+            "σωζομενοισ",
+            "σωζομένοις"
+          ],
+          "witnesses": [
+            "B (03)",
+            "Nestle1904",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Spelling variant pooled before the vote with the reading 'σῳζομένοις' (same word, different spelling); whether that reading was adopted is shown in the apparatus"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "τοῖς",
+          "disregarded_forms": [
+            "τοισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ἀπολλυμένοις,",
+          "disregarded_forms": [
+            "απολλυμενοισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 13 surface variation(s) (Accentuation / capitalisation / breathing convention; Nomen sacrum (contracted sacred name) for the full word; Spelling variant pooled before the vote with the reading 'σῳζομένοις' (same word, different spelling); whether that reading was adopted is shown in the apparatus).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 36015,
+      "verse": 16,
+      "critical_text": "οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+      "confidence": 0.97,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν. Καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "SBLGNT": "οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "BHP": "οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "Nestle1904": "οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "RP2018 (Byz)": "οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. Καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "TR (KJTR)": "Οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον· οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. Καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "B (03)": "οισ μεν οσμη εκ θανατου εισ θανατον οισ δε οσμη εκ ζωησ εισ ζωην και προσ ταυτα τισ ικανοσ",
+        "א (01)": "οισ μεν οσμη εκ θανατου εισ θανατον οισ δε οσμη εκ ζωην εισ ζωην και προσ ταυτα τισ ικανοσ",
+        "TCGNT (Byz)": "οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "PT1904 (Byz)": "οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "TR-Scrivener (1894)": "οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;",
+        "TR-Boyd (Elz/Scr/Steph)": "οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. Καὶ πρὸς ταῦτα τίς ἱκανός;"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 3,
+          "lemma": "ἐκ",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "adopt_text": "",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'ἐκ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "εκ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 10,
+          "lemma": "ἐκ",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "adopt_text": "",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'ἐκ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "εκ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 11,
+          "lemma": "ζωῆς",
+          "lemma_witnesses": [
+            "B (03)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "ζωην",
+              "adopt_text": "ζωην",
+              "witnesses": [
+                "א (01)"
+              ],
+              "weight_sum": 0.96
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ζωῆς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over ζωην (א (01)).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ζωησ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "οἷς",
+          "disregarded_forms": [
+            "οισ",
+            "Οἷς"
+          ],
+          "witnesses": [
+            "B (03)",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "μὲν",
+          "disregarded_forms": [
+            "μεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "ὀσμὴ",
+          "disregarded_forms": [
+            "οσμη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "θανάτου",
+          "disregarded_forms": [
+            "θανατου"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "θάνατον,",
+          "disregarded_forms": [
+            "θανατον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "οἷς",
+          "disregarded_forms": [
+            "οισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "δὲ",
+          "disregarded_forms": [
+            "δε"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "ὀσμὴ",
+          "disregarded_forms": [
+            "οσμη"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "εἰς",
+          "disregarded_forms": [
+            "εισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "ζωήν.",
+          "disregarded_forms": [
+            "ζωην"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "καὶ",
+          "disregarded_forms": [
+            "και",
+            "Καὶ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "πρὸς",
+          "disregarded_forms": [
+            "προσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "ταῦτα",
+          "disregarded_forms": [
+            "ταυτα"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "τίς",
+          "disregarded_forms": [
+            "τισ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "ἱκανός;",
+          "disregarded_forms": [
+            "ικανοσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Omission in some witnesses] Adopted 'ἐκ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)). [Omission in some witnesses] Adopted 'ἐκ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'ζωῆς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over ζωην (א (01)). Also normalised 16 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 97% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 36016,
+      "verse": 17,
+      "critical_text": "οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ θεοῦ, ἀλλʼ ὡς ἐξ εἰλικρινείας, ἀλλʼ ὡς ἐκ θεοῦ κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν.",
+      "confidence": 0.97,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "SRGNT": "Οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ Θεοῦ, ἀλλʼ ὡς ἐξ εἰλικρινείας, ἀλλʼ ὡς ἐκ Θεοῦ, κατέναντι Θεοῦ ἐν Χριστῷ λαλοῦμεν.",
+        "SBLGNT": "οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ θεοῦ, ἀλλʼ ὡς ἐξ εἰλικρινείας, ἀλλʼ ὡς ἐκ θεοῦ κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν.",
+        "BHP": "οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ Θεοῦ, ἀλλʼ ὡς ἐξ εἰλικρινείας, ἀλλʼ ὡς ἐκ Θεοῦ, κατέναντι Θεοῦ ἐν Χριστῷ λαλοῦμεν.",
+        "Nestle1904": "οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ Θεοῦ, ἀλλ’ ὡς ἐξ εἰλικρινίας, ἀλλ’ ὡς ἐκ Θεοῦ κατέναντι Θεοῦ ἐν Χριστῷ λαλοῦμεν.",
+        "RP2018 (Byz)": "Οὐ γάρ ἐσμεν ὡς οἱ λοιποί, καπηλεύοντες τὸν λόγον τοῦ θεοῦ· ἀλλ’ ὡς ἐξ εἰλικρινείας, ἀλλ’ ὡς ἐκ θεοῦ, κατενώπιον τοῦ θεοῦ, ἐν χριστῷ λαλοῦμεν.",
+        "TR (KJTR)": "Οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ, καπηλεύοντες τὸν λόγον τοῦ Θεοῦ: ἀλλʼ ὡς ἐξ εἰλικρινείας, ἀλλʼ ὡς ἐκ Θεοῦ κατενώπιον τοῦ Θεοῦ, ἐν Χριστῷ λαλοῦμεν.",
+        "B (03)": "ου γαρ εσμεν ωσ οι πολλοι καπηλευοντεσ τον λογον του θυ̅ αλλα ωσ εξ ειλικρεγειασ αλλ ωσ εκ θυ̅ κατεναντι θυ̅ εν χω̅ λαλουμεν",
+        "א (01)": "ου γαρ εσμεν ωσ οι πολλοι καπηλευοντεσ τον λογον του θυ̅ αλλ ωσ εξ ιλικρινιασ αλλ ωσ εκ θυ̅ κατεναντι θυ̅ εν χω̅ λαλουμεν",
+        "TCGNT (Byz)": "οὐ γάρ ἐσμεν ὡς οἱ λοιποὶ καπηλεύοντες τὸν λόγον τοῦ Θεοῦ, ἀλλ᾽ ὡς ἐξ εἰλικρινείας, ἀλλ᾽ ὡς ἐκ Θεοῦ, κατενώπιον τοῦ Θεοῦ, ἐν Χριστῷ λαλοῦμεν.",
+        "PT1904 (Byz)": "οὐ γάρ ἐσμεν ὡς οἱ λοιποὶ καπηλεύοντες τὸν λόγον τοῦ Θεοῦ, ἀλλ᾽ ὡς ἐξ εἰλικρινείας, ἀλλ᾽ ὡς ἐκ Θεοῦ κατενώπιον τοῦ Θεοῦ ἐν Χριστῷ λαλοῦμεν.",
+        "TR-Scrivener (1894)": "οὐ γάρ ἐσμεν ὡς οἱ πολλοί, καπηλεύοντες τὸν λόγον τοῦ Θεοῦ· ἀλλ᾽ ὡς ἐξ εἰλικρινείας, ἀλλ᾽ ὡς ἐκ Θεοῦ, κατενώπιον τοῦ Θεοῦ, ἐν Χριστῷ λαλοῦμεν.",
+        "TR-Boyd (Elz/Scr/Steph)": "Οὐ γάρ ἐσμεν ὡς οἱ πολλοί, καπηλεύοντες τὸν λόγον τοῦ Θεοῦ· ἀλλ᾿ ὡς ἐξ εἰλικρινείας, ἀλλ᾿ ὡς ἐκ Θεοῦ, κατενώπιον τοῦ Θεοῦ, ἐν Χριστῷ λαλοῦμεν."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "PT1904 (Byz)",
+        "TCGNT (Byz)",
+        "TR-Boyd (Elz/Scr/Steph)",
+        "TR-Scrivener (1894)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 5,
+          "lemma": "πολλοὶ",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP",
+            "TR (KJTR)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "λοιποί",
+              "adopt_text": "λοιποί",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)"
+              ],
+              "weight_sum": 0.72
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'πολλοὶ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, TR (KJTR)] (weight 6.21, confidence 99%) over λοιποί (RP2018 (Byz)).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "πολλοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 14,
+          "lemma": "εἰλικρινείας",
+          "lemma_witnesses": [
+            "SRGNT",
+            "SBLGNT",
+            "BHP",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "א (01)",
+            "Nestle1904",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)"
+          ],
+          "variants": [
+            {
+              "reading": "ειλικρεγειασ",
+              "adopt_text": "ειλικρεγειασ",
+              "witnesses": [
+                "B (03)"
+              ],
+              "weight_sum": 0.98
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'εἰλικρινείας' [SRGNT, SBLGNT, BHP, RP2018 (Byz), TR (KJTR), א (01), Nestle1904] (weight 5.95, confidence 99%) over ειλικρεγειασ (B (03)).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ειλικρινειασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 19,
+          "lemma": "κατέναντι",
+          "lemma_witnesses": [
+            "B (03)",
+            "א (01)",
+            "SRGNT",
+            "SBLGNT",
+            "Nestle1904",
+            "BHP"
+          ],
+          "variants": [
+            {
+              "reading": "κατενώπιον τοῦ",
+              "adopt_text": "κατενώπιον τοῦ",
+              "witnesses": [
+                "RP2018 (Byz)",
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Scrivener (1894)"
+              ],
+              "weight_sum": 1.32
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'κατέναντι' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over κατενώπιον τοῦ (RP2018 (Byz), TR (KJTR)).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "κατεναντι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "οὐ",
+          "disregarded_forms": [
+            "ου",
+            "Οὐ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "γάρ",
+          "disregarded_forms": [
+            "γαρ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "ἐσμεν",
+          "disregarded_forms": [
+            "εσμεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "ὡς",
+          "disregarded_forms": [
+            "ωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "οἱ",
+          "disregarded_forms": [
+            "οι"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "καπηλεύοντες",
+          "disregarded_forms": [
+            "καπηλευοντεσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "τὸν",
+          "disregarded_forms": [
+            "τον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "λόγον",
+          "disregarded_forms": [
+            "λογον"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "τοῦ",
+          "disregarded_forms": [
+            "του"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "θεοῦ,",
+          "disregarded_forms": [
+            "θυ̅",
+            "Θεοῦ,",
+            "Θεοῦ:"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "ἀλλʼ",
+          "disregarded_forms": [
+            "αλλα",
+            "αλλ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Elision (κατὰ / κατ’ type)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "ὡς",
+          "disregarded_forms": [
+            "ωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "ἐξ",
+          "disregarded_forms": [
+            "εξ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "εἰλικρινείας",
+          "disregarded_forms": [
+            "ιλικρινιασ",
+            "εἰλικρινίας"
+          ],
+          "witnesses": [
+            "Nestle1904",
+            "א (01)"
+          ],
+          "reason": "Spelling variant pooled before the vote with the reading 'εἰλικρινείας' (same word, different spelling); whether that reading was adopted is shown in the apparatus"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "ἀλλʼ",
+          "disregarded_forms": [
+            "αλλ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "ὡς",
+          "disregarded_forms": [
+            "ωσ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "ἐκ",
+          "disregarded_forms": [
+            "εκ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "θεοῦ",
+          "disregarded_forms": [
+            "θυ̅",
+            "Θεοῦ,",
+            "Θεοῦ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "θεοῦ",
+          "disregarded_forms": [
+            "θυ̅",
+            "Θεοῦ",
+            "Θεοῦ,"
+          ],
+          "witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "ἐν",
+          "disregarded_forms": [
+            "εν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "Χριστῷ",
+          "disregarded_forms": [
+            "χω̅",
+            "χριστῷ"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "א (01)"
+          ],
+          "reason": "Nomen sacrum (contracted sacred name) for the full word"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "λαλοῦμεν.",
+          "disregarded_forms": [
+            "λαλουμεν"
+          ],
+          "witnesses": [
+            "B (03)",
+            "א (01)"
+          ],
+          "reason": "Accentuation / capitalisation / breathing convention"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'πολλοὶ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, TR (KJTR)] (weight 6.21, confidence 99%) over λοιποί (RP2018 (Byz)). [Lexical, morphological, or word-order variant] Adopted 'εἰλικρινείας' [SRGNT, SBLGNT, BHP, RP2018 (Byz), TR (KJTR), א (01), Nestle1904] (weight 5.95, confidence 99%) over ειλικρεγειασ (B (03)). [Lexical, morphological, or word-order variant] Adopted 'κατέναντι' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over κατενώπιον τοῦ (RP2018 (Byz), TR (KJTR)). Also normalised 22 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 97% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    }
+  ]
+}
