@@ -8,6 +8,7 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 
 - [Saints Greek Critical Text](Saints-Greek-Critical-Text/README.md): the full 70-book, 1,291-chapter open-licence reconstructed Greek critical text (LXX + NT, `01_Law/`–`07_Glory/`, `.md`, `.tsv`, `.json`).
 - [Saints Modern English Pilot](Modern-English-Pilot/README.md): reviewed `draft: true` formal-equivalent Modern English pilot from the Saints Greek Critical Text (10 passages, 270 verses, 87 notes, plus projected Saints colour/word-study layers; Saints versification).
+- [Saints Modern English NT (Wave 1)](Modern-English-NT/README.md): `draft: true` formal-equivalent Modern English translation of **25 of 27 New Testament Greek books** (Mark, John, Acts–Jude, Revelation; 208 chapters, 5,725 verses; only Matthew & Luke remaining; book-level JSON + chapter Markdown).
 - [Translation standard](TRANSLATION-STANDARD.md), [source/access register](docs/SOURCE-REGISTER.md) and [provisional name decisions](docs/OT-NAME-DECISIONS.json).
 - [Highlighted word and phrase studies](docs/WORD-STUDIES.md), including the James 2:24 popup pilot.
 - [Seventy-book review tracker](review-progress.json), [verse review template](templates/verse-review.json) and [word-study template](templates/word-study.json).
