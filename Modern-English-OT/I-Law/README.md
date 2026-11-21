@@ -1,8 +1,10 @@
-# Division I: Law (Pentateuch) — Saints Modern English (Greek Septuagint)
+# Division I. Law (Pentateuch) — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` — **Complete 5/5 Pentateuch books** (post-audit polished)  
+> **Status:** `draft: true` — **Complete 5/5 books**  
 > **Coverage:** 187 chapters, 5,791 verses, 916 translator notes  
-> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and full programmatic & scholarly audit (`0` hard/soft failures).
+> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
+
+## Books Included (5 / 5 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|

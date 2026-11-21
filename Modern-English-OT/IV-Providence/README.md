@@ -1,6 +1,6 @@
-# Division IV: Providence — Saints Modern English (Greek Septuagint)
+# Division IV. Providence (Prophets) — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` — **Complete 16/16 books** (all 4 Major Prophets: Isaiah, Jeremiah, Ezekiel, Daniel + all 12 Minor Prophets: Hosea–Malachi).  
+> **Status:** `draft: true` — **Complete 16/16 books**  
 > **Coverage:** 245 chapters, 5,299 verses, 1,175 translator notes  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
