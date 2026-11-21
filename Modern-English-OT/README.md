@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **19 of 43 OT books complete** (332 chapters, 8,531 verses, 1,611 translator notes) — **Division I: Law (5/5 Pentateuch)** + **Division IV: Providence (14/16: complete Isaiah 66 ch, complete Daniel 12 ch, and all 12 Minor Prophets)** (combined with Complete 27/27 NT = **46 of 70 complete Greek books**).  
+> **Current Coverage:** **21 of 43 OT books complete** (432 chapters, 11,090 verses, 2,091 translator notes) — **Division I: Law (5/5 Complete)** + **Division IV: Providence (16/16 Complete: Isaiah, Jeremiah, Ezekiel, Daniel, and all 12 Minor Prophets)** (combined with Complete 27/27 NT = **48 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -17,9 +17,9 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 916 | [`I-Law/`](I-Law/README.md) |
-| II. Judgement | Pending | 0 / 14 | — | — | — | — |
+| II. Judgement | In progress | 0 / 14 | — | — | — | — |
 | III. Wisdom | In progress | 0 / 8 | — | — | — | — |
-| **IV. Providence** | **14 / 16 Complete (Isaiah, Daniel, 12 Minor Prophets)** | 14 / 16 | 145 | 2,740 | 695 | [`IV-Providence/`](IV-Providence/README.md) |
+| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,299 | 1,175 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I: Law Books (5 / 5 Complete)
 
@@ -31,11 +31,13 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 4 | Numbers | 36 | 1,285 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 167 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
-## Division IV: Providence (14 / 16 Complete)
+## Division IV: Providence (16 / 16 Complete)
 
 | # | Book | Section | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---|---:|---:|---:|---|---|
 | 28 | Isaiah | Major Prophets | 66 | 1,289 | 309 | [`IV-Providence/markdown/28-isaiah/`](IV-Providence/markdown/28-isaiah/README.md) | [`28-isaiah.json`](IV-Providence/json/28-isaiah.json) |
+| 29 | Jeremiah | Major Prophets | 52 | 1,294 | 251 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
+| 30 | Ezekiel | Major Prophets | 48 | 1,265 | 229 | [`IV-Providence/markdown/30-ezekiel/`](IV-Providence/markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](IV-Providence/json/30-ezekiel.json) |
 | 31 | Daniel | Major Prophets (Theodotion) | 12 | 402 | 69 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
 | 32 | Hosea | Minor Prophets | 14 | 197 | 65 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |
 | 33 | Joel | Minor Prophets | 4 | 73 | 18 | [`IV-Providence/markdown/33-joel/`](IV-Providence/markdown/33-joel/README.md) | [`33-joel.json`](IV-Providence/json/33-joel.json) |
