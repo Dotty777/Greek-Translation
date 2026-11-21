@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **27 of 43 OT books complete** (687 chapters, 16,434 verses, 3,293 translator notes; combined with Complete 27/27 NT = **54 of 70 complete Greek books**).  
+> **Current Coverage:** **33 of 43 OT books complete** (813 chapters, 19,593 verses, 3,872 translator notes; combined with Complete 27/27 NT = **60 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -18,7 +18,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 916 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | In progress (5/15) | 5 / 15 | 104 | 2,812 | 549 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | In progress (1/7) | 1 / 7 | 151 | 2,532 | 653 | [`III-Wisdom/`](III-Wisdom/README.md) |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,691 | 1,232 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,299 | 1,175 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
@@ -41,11 +41,17 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 9 | 1 Samuel | 31 | 772 | 168 | [`II-Judgement/markdown/09-1-samuel/`](II-Judgement/markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](II-Judgement/json/09-1-samuel.json) |
 | 10 | 2 Samuel | 24 | 694 | 127 | [`II-Judgement/markdown/10-2-samuel/`](II-Judgement/markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](II-Judgement/json/10-2-samuel.json) |
 
-## Division III. Wisdom (1 / 7)
+## Division III. Wisdom (7 / 7 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
 | 21 | Psalms | 151 | 2,532 | 653 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
+| 22 | Proverbs | 31 | 887 | 146 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
+| 23 | Ecclesiastes | 12 | 222 | 53 | [`III-Wisdom/markdown/23-ecclesiastes/`](III-Wisdom/markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](III-Wisdom/json/23-ecclesiastes.json) |
+| 24 | Song of Songs | 8 | 117 | 38 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |
+| 25 | Lamentations | 5 | 150 | 28 | [`III-Wisdom/markdown/25-lamentations/`](III-Wisdom/markdown/25-lamentations/README.md) | [`25-lamentations.json`](III-Wisdom/json/25-lamentations.json) |
+| 26 | Wisdom of Solomon | 19 | 434 | 82 | [`III-Wisdom/markdown/26-wisdom-of-solomon/`](III-Wisdom/markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](III-Wisdom/json/26-wisdom-of-solomon.json) |
+| 27 | Sirach | 51 | 1,349 | 232 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
 
 ## Division IV. Providence (16 / 16 Complete)
 

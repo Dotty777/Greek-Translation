@@ -1,20 +1,17 @@
 # Division III. Wisdom (Wisdom & Poetry) — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` — **1 of 7 books complete**  
-> **Coverage:** 151 chapters, 2,532 verses, 653 translator notes  
+> **Status:** `draft: true` — **Complete 7/7 books**  
+> **Coverage:** 277 chapters, 5,691 verses, 1,232 translator notes  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
-## Books Included (1 / 7)
+## Books Included (7 / 7 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
 | 21 | Psalms | 151 | 2,532 | 653 | [`markdown/21-psalms/`](markdown/21-psalms/README.md) | [`21-psalms.json`](json/21-psalms.json) |
-
-## Pending Books (6 / 7)
-
-- **22. Proverbs** — in progress
-- **23. Ecclesiastes** — in progress
-- **24. Song of Songs** — in progress
-- **25. Lamentations** — in progress
-- **26. Wisdom of Solomon** — in progress
-- **27. Sirach** — in progress
+| 22 | Proverbs | 31 | 887 | 146 | [`markdown/22-proverbs/`](markdown/22-proverbs/README.md) | [`22-proverbs.json`](json/22-proverbs.json) |
+| 23 | Ecclesiastes | 12 | 222 | 53 | [`markdown/23-ecclesiastes/`](markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](json/23-ecclesiastes.json) |
+| 24 | Song of Songs | 8 | 117 | 38 | [`markdown/24-song-of-songs/`](markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](json/24-song-of-songs.json) |
+| 25 | Lamentations | 5 | 150 | 28 | [`markdown/25-lamentations/`](markdown/25-lamentations/README.md) | [`25-lamentations.json`](json/25-lamentations.json) |
+| 26 | Wisdom of Solomon | 19 | 434 | 82 | [`markdown/26-wisdom-of-solomon/`](markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](json/26-wisdom-of-solomon.json) |
+| 27 | Sirach | 51 | 1,349 | 232 | [`markdown/27-sirach/`](markdown/27-sirach/README.md) | [`27-sirach.json`](json/27-sirach.json) |
