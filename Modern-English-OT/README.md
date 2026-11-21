@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **21 of 43 OT books complete** (432 chapters, 11,090 verses, 2,091 translator notes) — **Division I: Law (5/5 Complete)** + **Division IV: Providence (16/16 Complete: Isaiah, Jeremiah, Ezekiel, Daniel, and all 12 Minor Prophets)** (combined with Complete 27/27 NT = **48 of 70 complete Greek books**).  
+> **Current Coverage:** **22 of 43 OT books complete** (583 chapters, 13,622 verses, 2,744 translator notes) — **Division I: Law (5/5 Complete)** + **Division III: Wisdom (1/8: complete Psalms 1–151)** + **Division IV: Providence (16/16 Complete)** (combined with Complete 27/27 NT = **49 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -9,7 +9,7 @@
 This directory contains the **Saints Modern English** translation of the Greek Old Testament (Septuagint / Theodotion Daniel), translated fresh from `Saints-Greek-Critical-Text` under the locked style policy ([`STYLE.md`](STYLE.md)) and shared term glossary ([`glossary.json`](glossary.json)).
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms, own-source Greek fidelity (`κύριος` → `the Lord`), and original wording.
-- **Saints.Bible versification:** Chapter and verse keys match `Saints-Greek-Critical-Text` and the Saints.Bible Parallel Reader.
+- **Saints.Bible versification:** Chapter and verse keys match `Saints-Greek-Critical-Text` and the Saints.Bible Parallel Reader (including LXX Psalm numbering 1–151).
 - **Related directories:** Complete 27/27 NT in [`../Modern-English-NT/`](../Modern-English-NT/README.md); original reviewed pilot & projected layers in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Divisions
@@ -18,7 +18,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 916 | [`I-Law/`](I-Law/README.md) |
 | II. Judgement | In progress | 0 / 14 | — | — | — | — |
-| III. Wisdom | In progress | 0 / 8 | — | — | — | — |
+| **III. Wisdom** | **In progress (Psalms 1–151 complete)** | 1 / 8 | 151 | 2,532 | 653 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,299 | 1,175 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I: Law Books (5 / 5 Complete)
@@ -30,6 +30,12 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 3 | Leviticus | 27 | 857 | 133 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
 | 4 | Numbers | 36 | 1,285 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 167 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
+
+## Division III: Wisdom (1 / 8 Complete)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 21 | Psalms (1–151) | 151 | 2,532 | 653 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
 
 ## Division IV: Providence (16 / 16 Complete)
 

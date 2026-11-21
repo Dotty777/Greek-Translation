@@ -1,0 +1,27 @@
+# Psalm 22 — Saints Modern English (Greek Septuagint)
+
+> **Status:** `draft: true` (6 verses, 6 translator notes)  
+> **Source basis:** `Saints-Greek-Critical-Text` (LXX numbering) · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**22:1** A Psalm of David. The Lord shepherds me, and nothing will be lacking to me.
+
+**22:2** In a place of green pasture, there He has made me encamp; beside water of rest He has nurtured me.
+
+**22:3** He has turned my soul back. He has guided me along paths of righteousness for the sake of His name.
+
+**22:4** For even if I go in the middle of the shadow of death, I will not fear evils, because You are with me; Your rod and Your staff, they have comforted me.
+
+**22:5** You have prepared a table before me in the face of those who afflict me; You have anointed my head richly with oil, and Your cup intoxicates like the strongest.
+
+**22:6** And Your mercy will pursue me all the days of my life, and my dwelling will be in the house of the Lord for length of days.
+
+## Translator Notes
+
+- **22:1** — This is Psalm 23 in Hebrew and most English Bibles; the Greek (Septuagint) numbers it Psalm 22. ποιμαίνει ("shepherds") is a present-tense verb, and οὐδέν με ὑστερήσει has "nothing" as its subject, "nothing will be lacking to me."
+- **22:2** — κατεσκήνωσεν means "made to encamp, settled (as in a tent)." ἐξέθρεψεν means "nurtured, reared," which is the Greek's own picture in place of "leads."
+- **22:3** — ἐπέστρεψεν means "turned back, brought back," and it is rendered literally. The Greek verbs here are aorists, rendered with the English perfect.
+- **22:4** — κακά is plural, "evils." παρεκάλεσαν (aorist) is rendered "have comforted."
+- **22:5** — ἐλίπανας means "made rich with oil, anointed lavishly." τὸ ποτήριόν σου μεθύσκον ὡς κράτιστον means "Your cup, intoxicating, like the strongest (or best)." This is the Greek's own wording, which differs from the Hebrew "my cup overflows."
+- **22:6** — ἔλεος is rendered "mercy." The final clause has no finite verb in the Greek ("and my dwelling in the house of the Lord"), so "will be" is supplied from the parallel. "For length of days" is kept literal.
