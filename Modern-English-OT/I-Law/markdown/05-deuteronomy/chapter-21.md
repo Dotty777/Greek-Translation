@@ -5,17 +5,17 @@
 
 ## Text
 
-**21:1** Now if a slain person is found in the land that the Lord your God is giving you to inherit, fallen in the open field, and they do not know the one who struck him,
+**21:1** Now if someone struck down is found in the land that the Lord your God is giving you to inherit, fallen in the open field, and they do not know the one who struck him,
 
-**21:2** your council of elders and your judges shall go out and measure out to the cities that are around the slain person,
+**21:2** your council of elders and your judges shall go out and measure out to the cities that are around the person struck down,
 
-**21:3** and it shall be the city that is nearest to the slain person: the council of elders of that city shall take a heifer from the cattle, which has not been worked and which has not pulled a yoke;
+**21:3** and it shall be the city that is nearest to the person struck down: the council of elders of that city shall take a heifer from the cattle, which has not been worked and which has not pulled a yoke;
 
 **21:4** and the council of elders of that city shall bring the heifer down into a rough ravine, which has not been worked nor is sown, and they shall hamstring the heifer in the ravine.
 
 **21:5** And the priests, the Levites, shall come forward, because the Lord God chose them to stand before Him and to bless in His name, and by their mouth shall be every dispute and every assault.
 
-**21:6** And the entire council of elders of that city, those who are nearest to the slain person, shall wash their hands over the head of the heifer that was hamstrung in the ravine,
+**21:6** And the entire council of elders of that city, those who are nearest to the person struck down, shall wash their hands over the head of the heifer that was hamstrung in the ravine,
 
 **21:7** and they shall answer and say, "Our hands did not shed this blood, and our eyes have not seen.
 
@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **21:1** — "Slain person" translates Greek τραυματίας (also in 21:2, 3, 6), literally "wounded person," used in the Septuagint for someone fatally wounded or slain.
+- **21:1** — "Someone struck down" (and "the person struck down" in 21:2, 3, 6) translates Greek τραυματίας, literally "wounded person," used in the Septuagint for someone fatally wounded or killed.
 - **21:4** — "Rough ravine" renders φάραγγα τραχεῖαν (distinct from Hebrew interpretations of a perennial stream), and "hamstring" translates Greek νευροκοπέω (literally "cut the sinews," also in 21:6), where the Hebrew refers to breaking the heifer's neck.
 - **21:12** — Here and in 21:13 the Greek uses second-person verbs ("you shall shave... trim... remove"), whereas the Hebrew places these actions in the third person ("she shall...").
 - **21:17** — The Greek reads ἀρχὴ τέκνων αὐτοῦ ("the beginning of his children"), whereas the Hebrew has "the firstfruits of his vigor."

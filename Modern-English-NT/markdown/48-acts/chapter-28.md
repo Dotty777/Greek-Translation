@@ -57,7 +57,7 @@
 
 **28:26** saying, 'Go to this people and say, "Hearing, you will hear, yet never understand; and looking, you will look, yet never perceive;
 
-**28:27** for the heart of this people has grown callous, and with their ears they have scarcely heard, and they have shut their eyes, lest they see with their eyes, and hear with their ears, and understand with their heart and turn back, and I will heal them."'
+**28:27** for the heart of this people has grown callous, and with their ears they have scarcely heard, and they have shut their eyes; otherwise they might see with their eyes, and hear with their ears, and understand with their heart and turn back, and I would heal them."'
 
 **28:28** Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will also listen."
 

@@ -47,7 +47,7 @@
 
 **6:21** And the sons of Izhar: Korah and Nepheg and Zichri.
 
-**6:22** And the sons of Uzziel: Elzaphan and Segri.
+**6:22** And the sons of Uzziel: Elizaphan and Segri.
 
 **6:23** And Aaron took Elisheba, the daughter of Amminadab, the sister of Nahshon, for himself as a wife, and she bore to him Nadab and Abihu and Eleazar and Ithamar.
 

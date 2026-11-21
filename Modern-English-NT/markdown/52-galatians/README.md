@@ -1,7 +1,7 @@
 # Galatians — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`52-galatians.json`](../../json/52-galatians.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

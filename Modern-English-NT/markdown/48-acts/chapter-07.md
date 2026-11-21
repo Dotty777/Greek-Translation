@@ -87,7 +87,7 @@
 
 **7:41** And they made a calf in those days and brought a sacrifice to the idol, and were rejoicing in the works of their hands.
 
-**7:42** But God turned away and gave them over to worship the host of heaven, just as it is written in the book of the prophets: 'Did you offer to Me slain beasts and sacrifices for forty years in the wilderness, house of Israel?
+**7:42** But God turned away and gave them over to worship the host of heaven, just as it is written in the book of the prophets: 'Did you offer to Me slaughtered animals and sacrifices for forty years in the wilderness, house of Israel?
 
 **7:43** And you took up the tent of Moloch and the star of the god Rompha, the images that you made to bow down to them; and I will relocate you beyond Babylon.'
 

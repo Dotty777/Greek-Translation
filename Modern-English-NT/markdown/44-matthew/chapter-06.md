@@ -25,7 +25,7 @@
 
 **6:10** may Your kingdom come, may Your will be done, as in heaven, so also on earth.
 
-**6:11** Give us today our daily bread;
+**6:11** Our daily bread give us today;
 
 **6:12** and forgive us our debts, just as we also have forgiven our debtors.
 

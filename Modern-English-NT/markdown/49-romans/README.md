@@ -1,7 +1,7 @@
 # Romans — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`49-romans.json`](../../json/49-romans.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

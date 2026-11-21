@@ -1,7 +1,7 @@
 # John — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **V. Salvation**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`47-john.json`](../../json/47-john.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

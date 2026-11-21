@@ -55,7 +55,7 @@
 
 **33:25** iron and bronze will be his sandal; as your days are, so is your strength.
 
-**33:26** There is none like the God of the beloved one; the One who rides upon heaven is your helper, and the Majestic One of the expanse.
+**33:26** There is none like the God of the beloved one; the One who rides upon heaven is your helper, and the Majestic One of the vault.
 
 **33:27** And the rule of God will shelter you, and you are under the strength of everlasting arms; He will drive out an enemy from before you, saying, 'Perish!'
 

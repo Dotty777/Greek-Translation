@@ -1,6 +1,6 @@
 # Zechariah 13 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (9 verses, 5 translator notes)  
+> **Status:** `draft: true` (9 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Zechariah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -26,6 +26,7 @@
 ## Translator Notes
 
 - **13:1** — The Greek reads "every place" where the Hebrew MT has "a fountain," and "for removal and for separation" corresponding to Hebrew "for sin and for impurity."
+- **13:2** — Here alone in Zechariah the Greek transliterates Hebrew sabaoth ('hosts/armies') directly as Κύριος σαβαώθ ('the Lord Sabaoth') rather than translating it as Κύριος Παντοκράτωρ ('the Lord Almighty').
 - **13:3** — Greek sympodizo ("bind" or "tie the feet of") differs markedly from the Hebrew MT reading "pierce him through."
 - **13:4** — Unlike the Hebrew MT ("they will not wear a hairy cloak in order to deceive"), the Greek lacks the negation and reads positively that they will put on a hairy hide because they lied.
 - **13:5** — Greek egennesen ("brought forth / fathered") reflects taking the Hebrew verb qanah ("acquired/bought") in its sense of "produce/beget."

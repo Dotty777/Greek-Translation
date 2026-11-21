@@ -33,7 +33,7 @@
 
 **2:14** Yet you said, 'For what reason?' Because the Lord testified between you and the wife of your youth, whom you abandoned; and she is your companion and the wife of your covenant.
 
-**2:15** And did He not make what is good, and a remnant of His spirit? And you said, 'What else but offspring does God seek?' So guard yourselves in your spirit, and do not abandon the wife of your youth.
+**2:15** And did He not make what is good, and a remnant of His Spirit? And you said, 'What else but offspring does God seek?' So guard yourselves in your spirit, and do not abandon the wife of your youth.
 
 **2:16** But if you hate her and send her away," says the Lord God of Israel, "then ungodliness will cover over your thoughts," says the Lord Almighty. "So guard yourselves in your spirit, and by no means abandon her,
 

@@ -117,7 +117,7 @@
 
 **15:56** Now the sting of death is sin, and the power of sin is the law;
 
-**15:57** but thanks be to God, who gives us the victory through our Lord Jesus Christ.
+**15:57** yet thanks be to God, the One who grants us the victory through our Lord Jesus Christ.
 
 **15:58** Therefore, my beloved brothers, be firm, immovable, always overflowing in the work of the Lord, knowing that your labor is not empty in the Lord.
 

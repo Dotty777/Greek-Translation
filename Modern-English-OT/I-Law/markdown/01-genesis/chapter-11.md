@@ -72,7 +72,7 @@
 ## Translator Notes
 
 - **11:1** — Greek cheilos literally means "lip," preserving the Hebrew idiom for "language" (likewise in 11:6 and 11:9).
-- **11:4** — The Greek reads "before being scattered" (pro tou diaspareinai), whereas the Hebrew Masoretic Text reads "lest we be scattered."
+- **11:4** — The Greek reads "before being scattered" (pro tou diasparēnai), whereas the Hebrew Masoretic Text reads "lest we be scattered."
 - **11:9** — The Septuagint translates the name into Greek as Synchysis ("Confusion") rather than transliterating "Babel," and in 11:8 adds "and the tower."
 - **11:13** — The Septuagint includes Cainan as a generation between Arphaxad and Shelah (cf. Luke 3:36) and gives longer ages before fatherhood across 11:12-25 than the Masoretic Text.
 - **11:28** — The Greek reads "the country of the Chaldeans" (also in 11:31) rather than "Ur of the Chaldeans" as in the Masoretic Text.

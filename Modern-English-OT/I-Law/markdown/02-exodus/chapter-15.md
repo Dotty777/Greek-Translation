@@ -21,7 +21,7 @@
 
 **15:8** And through the breath of Your anger the water parted; the waters congealed like a wall, the waves congealed in the midst of the sea.
 
-**15:9** The enemy said, 'Pursuing, I will overtake; I will divide spoils, I will fill my soul, I will slay with my sword, my hand will rule.'
+**15:9** The enemy said, 'Pursuing, I will overtake; I will divide spoils, I will fill my soul, I will kill with my sword, my hand will rule.'
 
 **15:10** You sent forth Your breath, the sea covered them; they sank like lead in violent water.
 

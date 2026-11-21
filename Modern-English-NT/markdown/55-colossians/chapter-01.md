@@ -33,7 +33,7 @@
 
 **1:14** in whom we have redemption, the forgiveness of sins.
 
-**1:15** He is the image of the invisible God, firstborn of all creation,
+**1:15** This One is the image of the invisible God, firstborn of all creation,
 
 **1:16** because in Him all things were created, in the heavens and on the earth, the visible and the invisible, whether thrones or dominions or rulers or authorities; all things have been created through Him and for Him.
 

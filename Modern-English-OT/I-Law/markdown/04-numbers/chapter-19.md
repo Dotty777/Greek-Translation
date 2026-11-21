@@ -35,11 +35,11 @@
 
 **19:15** and every open vessel that does not have a fastening bound upon it is unclean.
 
-**19:16** And everyone who touches on the face of the open field one slain or a corpse or a human bone or a grave shall be unclean for seven days.
+**19:16** And everyone who touches on the face of the open field one killed or a corpse or a human bone or a grave shall be unclean for seven days.
 
 **19:17** And they shall take for the unclean person some of the burned ashes of the purification, and they shall pour living water upon them into a vessel;
 
-**19:18** and a clean man shall take hyssop and dip it into the water, and he shall sprinkle upon the house and upon the vessels and upon the persons, however many are there, and upon the one who has touched the human bone or the one slain or the one who has died or the grave;
+**19:18** and a clean man shall take hyssop and dip it into the water, and he shall sprinkle upon the house and upon the vessels and upon the persons, however many are there, and upon the one who has touched the human bone or the one killed or the one who has died or the grave;
 
 **19:19** and the clean person shall sprinkle upon the unclean person on the third day and on the seventh day, and he shall be purified on the seventh day; and he shall wash his garments and bathe in water, and he shall be unclean until evening.
 
@@ -54,5 +54,5 @@
 - **19:3** — The Greek adds "to a clean place" (absent in the Hebrew MT here, though present in 19:9) and uses plural verbs ("they shall lead... they shall slaughter") for the actions carried out before Eleazar.
 - **19:9** — Greek "water of sprinkling" (hydor rantismou) and "purification" (hagnisma) correspond to Hebrew expressions commonly rendered "water for impurity" and "sin offering," highlighting the rite's cleansing function.
 - **19:14** — The Greek renders the dwelling as "house" (oikia here and oikos in 19:18) rather than "tent" as in the Hebrew MT, adapting the law to settled domestic contexts.
-- **19:16** — Greek traumatias ("one slain" or "fatally wounded") corresponds to the Hebrew phrase for one killed by a sword, without mentioning a sword.
+- **19:16** — Greek traumatias ("one killed" or "fatally wounded") corresponds to the Hebrew phrase for one killed by a sword, without mentioning a sword.
 - **19:19** — The Greek reads "he shall be unclean until evening" (matching the phrasing of vv. 7, 8, 10, 21, and 22), whereas the Hebrew MT states positively "he shall be clean at evening."

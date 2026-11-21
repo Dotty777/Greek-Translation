@@ -23,7 +23,7 @@
 
 **1:9** And he said to his nation, "Look, the race of the sons of Israel is a great multitude, and is stronger than we are.
 
-**1:10** Come, therefore, let us outwit them, lest it multiply, and whenever war happens to us, these also will be joined to the adversaries, and having waged war against us, they will depart from the land."
+**1:10** Come, therefore, let us outwit them, so that it does not multiply, and whenever war happens to us, these also will be joined to the adversaries, and having waged war against us, they will depart from the land."
 
 **1:11** So he set overseers of the works over them, so that they might afflict them in the works; and they built fortified cities for Pharaoh: Pithom, and Rameses, and On, which is Heliopolis.
 

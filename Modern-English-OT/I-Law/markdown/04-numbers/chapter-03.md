@@ -7,11 +7,11 @@
 
 **3:1** And these are the generations of Aaron and Moses on the day when the Lord spoke to Moses on Mount Sinai.
 
-**3:2** And these are the names of the sons of Aaron: the firstborn, Nadab, and Abiud, Eleazar, and Ithamar.
+**3:2** And these are the names of the sons of Aaron: the firstborn, Nadab, and Abihu, Eleazar, and Ithamar.
 
 **3:3** These are the names of the sons of Aaron, the anointed priests, whose hands were consecrated to serve as priests.
 
-**3:4** And Nadab and Abiud died before the Lord while they were offering strange fire before the Lord in the wilderness of Sinai, and they had no children; and Eleazar and Ithamar served as priests with Aaron their father.
+**3:4** And Nadab and Abihu died before the Lord while they were offering strange fire before the Lord in the wilderness of Sinai, and they had no children; and Eleazar and Ithamar served as priests with Aaron their father.
 
 **3:5** And the Lord spoke to Moses, saying,
 
@@ -37,23 +37,23 @@
 
 **3:16** And Moses and Aaron enrolled them by the voice of the Lord, just as the Lord directed them.
 
-**3:17** And these were the sons of Levi by their names: Gedson, Kohath, and Merari.
+**3:17** And these were the sons of Levi by their names: Gershon, Kohath, and Merari.
 
-**3:18** And these are the names of the sons of Gedson according to their clans: Libni and Shimei.
+**3:18** And these are the names of the sons of Gershon according to their clans: Libni and Shimei.
 
 **3:19** And the sons of Kohath according to their clans: Amram and Izhar, Hebron and Uzziel.
 
-**3:20** And the sons of Merari according to their clans: Mahli and Omushi. These are the clans of the Levites according to their fathers' houses.
+**3:20** And the sons of Merari according to their clans: Mahli and Mushi. These are the clans of the Levites according to their fathers' houses.
 
-**3:21** To Gedson belonged the clan of Libni and the clan of Shimei; these are the clans of Gedson.
+**3:21** To Gershon belonged the clan of Libni and the clan of Shimei; these are the clans of Gershon.
 
 **3:22** Their enrollment according to the number of every male from a month old and upward, their enrollment was seven thousand five hundred.
 
-**3:23** And the sons of Gedson shall encamp behind the tabernacle toward the sea;
+**3:23** And the sons of Gershon shall encamp behind the tabernacle toward the sea;
 
-**3:24** and the leader of the father's house of the clan of Gedson was Eliasaph son of Dael.
+**3:24** and the leader of the father's house of the clan of Gershon was Eliasaph son of Dael.
 
-**3:25** And the charge of the sons of Gedson in the tabernacle of testimony was the tabernacle and the covering, and the screen of the door of the tabernacle of testimony,
+**3:25** And the charge of the sons of Gershon in the tabernacle of testimony was the tabernacle and the covering, and the screen of the door of the tabernacle of testimony,
 
 **3:26** and the hangings of the courtyard, and the curtain of the gate of the courtyard that is by the tabernacle, and the remainder of all its works.
 
@@ -109,9 +109,9 @@
 
 ## Translator Notes
 
-- **3:2** — Greek reads Abiud (also in 3:4), whereas the Hebrew Masoretic Text reads Abihu.
-- **3:17** — Greek consistently reads Gedson throughout this chapter (a dalet/resh variation), corresponding to Hebrew Gershon.
-- **3:20** — Greek reads Omushi (reflecting the Hebrew conjunction u- transliterated onto the name), whereas the clan name in 3:33 is Mushi (Mushite).
+- **3:2** — The Greek reads Abiud (Ἀβιούδ, also in 3:4), rendered with the standard modern English spelling Abihu throughout Exodus–Numbers.
+- **3:17** — The Greek text reads Γεδσών (Gedson, a dalet/resh variation) throughout Numbers, rendered here with the standard modern English spelling Gershon.
+- **3:20** — The Greek reads Ὀμουσεί (Omushi, reflecting the Hebrew conjunction u- fused onto the name), rendered with the standard English spelling Mushi to match Exodus 6:19 and the clan name Mushite in 3:33.
 - **3:24** — Greek reads Dael (from a delta/lambda or dalet/lamed interchange), where the Hebrew Masoretic Text reads Lael.
 - **3:34** — Greek gives the Merarite count as 6,050, whereas the Hebrew Masoretic Text reads 6,200; in both traditions the sum of the three clans exceeds the stated total of 22,000 in 3:39.
 - **3:47** — Greek renders the sanctuary weight standard with Ptolemaic monetary terms ("holy didrachma" and "twenty obols to the shekel"), where the Hebrew reads "shekel of the sanctuary" and "twenty gerahs to the shekel."

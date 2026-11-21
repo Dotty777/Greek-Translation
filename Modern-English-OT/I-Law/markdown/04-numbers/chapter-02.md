@@ -57,7 +57,7 @@
 
 **2:26** His force, those who were registered, is sixty-two thousand five hundred.
 
-**2:27** And those who encamp next to him are of the tribe of Asher, and the leader of the sons of Asher is Pagiel son of Ocran.
+**2:27** And those who encamp next to him are of the tribe of Asher, and the leader of the sons of Asher is Pagiel son of Ochran.
 
 **2:28** His force, those who were registered, is forty-one thousand five hundred.
 

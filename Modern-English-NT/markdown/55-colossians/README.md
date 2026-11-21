@@ -1,7 +1,7 @@
 # Colossians — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`55-colossians.json`](../../json/55-colossians.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

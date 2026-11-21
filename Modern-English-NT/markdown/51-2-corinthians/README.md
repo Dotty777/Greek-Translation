@@ -1,7 +1,7 @@
 # 2 Corinthians — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`51-2-corinthians.json`](../../json/51-2-corinthians.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

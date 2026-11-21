@@ -1,7 +1,7 @@
 # 2 Timothy — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`59-2-timothy.json`](../../json/59-2-timothy.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

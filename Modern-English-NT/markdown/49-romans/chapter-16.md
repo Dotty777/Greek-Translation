@@ -55,7 +55,7 @@
 
 **16:25** Now to Him who is able to strengthen you according to my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery kept silent through eternal ages,
 
-**16:26** but now manifested and through the prophetic Scriptures, according to the command of the eternal God, made known to all the nations for the obedience of faith,
+**16:26** but now manifested, and through the prophetic Scriptures, according to the command of the eternal God, made known to all the nations for the obedience of faith,
 
 **16:27** to the only wise God, through Jesus Christ, to whom be the glory forever. Amen!
 

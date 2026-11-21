@@ -45,13 +45,13 @@
 
 **19:20** And the Lord came down upon Mount Sinai, to the top of the mountain; and the Lord called Moses to the top of the mountain, and Moses went up.
 
-**19:21** And God spoke to Moses, saying, "Go down and solemnly charge the people, lest they draw near to God to observe, and a multitude of them fall;
+**19:21** And God spoke to Moses, saying, "Go down and solemnly charge the people, so that they do not draw near to God to observe, and a multitude of them fall;
 
-**19:22** and let the priests who draw near to the Lord God be sanctified, lest the Lord depart from them."
+**19:22** and let the priests who draw near to the Lord God be sanctified, so that the Lord does not depart from them."
 
 **19:23** And Moses said to God, "The people will not be able to go up onto Mount Sinai; for You have solemnly charged us, saying, 'Mark off the mountain and sanctify it.'"
 
-**19:24** And the Lord said to him, "Go, go down, and come up, you and Aaron with you; but let not the priests and the people force their way to come up to God, lest the Lord destroy some of them."
+**19:24** And the Lord said to him, "Go, go down, and come up, you and Aaron with you; but let not the priests and the people force their way to come up to God, so that the Lord does not destroy some of them."
 
 **19:25** And Moses went down to the people and spoke to them.
 

@@ -1,6 +1,6 @@
 # Genesis 36 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (43 verses, 5 translator notes)  
+> **Status:** `draft: true` (43 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -97,4 +97,5 @@
 - **36:21** — The Greek text names Seir's last two sons Saar and Rison (repeated in 36:27-30, where Saar is given four sons: Bilhan, Zukam, Jukam, and Ukan), whereas the Hebrew Masoretic Text reads Ezer (with three sons) and Dishan.
 - **36:24** — Where the Hebrew Masoretic Text refers to Anah finding 'the hot springs' (or an uncertain term) while tending donkeys, the Greek reads 'Onan / Onas' finding a person named 'Jamin' while pasturing beasts of burden.
 - **36:31** — This Greek text reads 'in Jerusalem', a manuscript reading distinct from the Hebrew Masoretic Text and most Septuagint witnesses, which read 'in Israel' (or 'over the Israelites').
+- **36:32** — The Greek reads Balak (Βάλακ) here and in 36:33 where the Hebrew Masoretic Text has Bela; this Edomite king is distinct from Balak king of Moab in Numbers 22–24.
 - **36:39** — The Greek text names this king 'Arath the son of Barath' (with city Peor and Matred as 'the son of Me-zahab'), whereas the Hebrew Masoretic Text reads 'Hadar' without a patronymic (with city Pau and 'daughter of Me-zahab'); several other names in this chapter also reflect distinct Greek forms (Zophar in 36:11, 15; Balak in 36:32; Barad and Gethaim in 36:35; Jeber, Phines, Metodiel, and Zaphoi in 36:40-43).

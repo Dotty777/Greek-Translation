@@ -25,7 +25,7 @@
 
 **4:10** And the Lord said, "You had pity on the gourd, for which you did not toil and which you did not nurture, which came into being overnight and overnight perished.
 
-**4:11** And shall I not have pity on Nineveh, the great city, in which more than 120,000 people dwell, who do not know their right hand or their left hand, and many animals?"
+**4:11** And shall I not have pity on Nineveh, the great city, in which more than one hundred twenty thousand people dwell, who do not know their right hand or their left hand, and many animals?"
 
 ## Translator Notes
 

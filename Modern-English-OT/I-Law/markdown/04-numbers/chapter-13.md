@@ -19,7 +19,7 @@
 
 **13:7** of the tribe of Issachar, Ilaal son of Joseph;
 
-**13:8** of the tribe of Ephraim, Hoshea son of Naue;
+**13:8** of the tribe of Ephraim, Hoshea son of Nun;
 
 **13:9** of the tribe of Benjamin, Palti son of Raphu;
 
@@ -35,7 +35,7 @@
 
 **13:15** of the tribe of Gad, Gudiel son of Maki.
 
-**13:16** These are the names of the men whom Moses sent to scout out the land. And Moses named Hoshea son of Naue Joshua.
+**13:16** These are the names of the men whom Moses sent to scout out the land. And Moses named Hoshea son of Nun Joshua.
 
 **13:17** And Moses sent them to scout out the land of Canaan and said to them, "Go up through this wilderness, and you will go up into the mountain;
 

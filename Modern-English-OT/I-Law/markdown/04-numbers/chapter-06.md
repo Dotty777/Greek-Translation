@@ -49,13 +49,13 @@
 
 **6:22** And the Lord spoke to Moses, saying,
 
-**6:23** "Speak to Aaron and to his sons, saying, 'In this way you shall bless the sons of Israel, saying to them; and they shall put My name upon the sons of Israel, and I, the Lord, will bless them:
+**6:23** "Speak to Aaron and to his sons, saying, 'In this way you shall bless the sons of Israel, saying to them'—and they shall put My name upon the sons of Israel, and I, the Lord, will bless them:
 
-**6:24** "May the Lord bless and guard you,
+**6:24** 'May the Lord bless and guard you,
 
 **6:25** and may the Lord make His face shine upon you and have mercy on you;
 
-**6:26** may the Lord lift up His face upon you and give you peace."'"
+**6:26** may the Lord lift up His face upon you and give you peace.'"
 
 ## Translator Notes
 

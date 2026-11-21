@@ -9,7 +9,7 @@
 
 **16:2** And He answered and said to them,
 
-**16:3** "⟦And in the morning, 'Today it will be stormy, for the sky is red and overcast.' You know how to discern the appearance of the sky, but the signs of the times you cannot.⟧
+**16:3** ⟦"And in the morning, 'Today it will be stormy, for the sky is red and overcast.' You know how to discern the appearance of the sky, but the signs of the times you cannot.⟧
 
 **16:4** An evil and adulterous generation seeks after a sign, and a sign will not be given to it except the sign of Jonah." And leaving them, He went away.
 

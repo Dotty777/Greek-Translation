@@ -31,7 +31,7 @@
 
 **6:13** you who rejoice over nothing, who say, "Did we not gain horns by our strength?"
 
-**6:14** For look, I am raising up a nation against you, house of Israel, says the Lord of armies, and they will oppress you so that you cannot enter Hamath, and as far as the torrent of the west.
+**6:14** For look, I am raising up a nation against you, house of Israel, says the Lord of hosts, and they will oppress you so that you cannot enter Hamath, and as far as the torrent of the west.
 
 ## Translator Notes
 

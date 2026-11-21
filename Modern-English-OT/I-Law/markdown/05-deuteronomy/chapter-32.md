@@ -57,7 +57,7 @@
 
 **32:26** I said, 'I will scatter them, and I will make the remembrance of them cease from among people,'
 
-**32:27** were it not for the anger of enemies, lest they endure long, lest the adversaries join in attacking, lest they say, 'Our exalted hand, and not the Lord, has done all these things.'"
+**32:27** were it not for the anger of enemies, so that they would not endure long, so that the adversaries would not join in attacking, and would not say, 'Our exalted hand, and not the Lord, has done all these things.'"
 
 **32:28** It is a nation that has lost counsel, and there is no knowledge in them.
 

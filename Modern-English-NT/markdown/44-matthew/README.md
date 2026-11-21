@@ -1,7 +1,7 @@
 # Matthew — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **V. Salvation**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`44-matthew.json`](../../json/44-matthew.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

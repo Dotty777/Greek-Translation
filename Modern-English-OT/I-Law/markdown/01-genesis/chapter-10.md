@@ -47,11 +47,11 @@
 
 **10:21** And to Shem also children were born, the father of all the sons of Eber, the brother of Japheth the elder.
 
-**10:22** The sons of Shem: Elam, and Asshur, and Arpachshad, and Lud, and Aram.
+**10:22** The sons of Shem: Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 
 **10:23** And the sons of Aram: Uz, and Hul, and Gether, and Meshech.
 
-**10:24** And Arpachshad fathered Cainan, and Cainan fathered Shelah, and Shelah fathered Eber.
+**10:24** And Arphaxad fathered Cainan, and Cainan fathered Shelah, and Shelah fathered Eber.
 
 **10:25** And to Eber two sons were born; the name of the one was Peleg, because in his days the earth was divided, and the name of his brother was Joktan.
 
@@ -75,4 +75,4 @@
 - **10:4** — Greek "Rhodioi" ("Rhodians") reflects the form "Rodanim" (compare 1 Chr 1:7) rather than "Dodanim" in the Hebrew text of Genesis 10:4.
 - **10:8** — Greek "gigas" ("giant," also in 10:9) translates the Hebrew "gibbor" ("mighty one").
 - **10:12** — Greek "Dasem" corresponds to "Resen" in the Hebrew text; similarly, Greek "Dasa" in 10:19 corresponds to Hebrew "Lasha."
-- **10:24** — The Septuagint includes Cainan (Greek "Kainam") between Arpachshad and Shelah, as in Luke 3:36, whereas the Hebrew Masoretic Text omits him (note also that the Septuagint reads "Meshech" for Hebrew "Mash" in 10:23 and omits "Obal" in 10:28).
+- **10:24** — The Septuagint includes Cainan (Greek "Kainam") between Arphaxad and Shelah, as in Luke 3:36, whereas the Hebrew Masoretic Text omits him (note also that the Septuagint reads "Meshech" for Hebrew "Mash" in 10:23 and omits "Obal" in 10:28).

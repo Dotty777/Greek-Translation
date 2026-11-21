@@ -9,7 +9,7 @@
 
 **1:2** "The Lord was angry with your fathers with great anger.
 
-**1:3** And you will say to them, 'This is what the Lord Almighty says: Return to Me, says the Lord of powers, and I will return to you, says the Lord of powers.
+**1:3** And you will say to them, 'This is what the Lord Almighty says: Return to Me, says the Lord of hosts, and I will return to you, says the Lord of hosts.
 
 **1:4** And do not become like your fathers, whom the prophets formerly reproached, saying, "This is what the Lord Almighty says: Turn away from your evil ways and from your evil practices." And they did not listen, and they did not pay attention to listen to Me, says the Lord.
 
@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **1:3** — The Greek shifts within this verse from "the Lord Almighty" (Kyrios Pantokrator) to "the Lord of powers" (Kyrios ton dynameon, rendering Hebrew "Lord of hosts/armies").
+- **1:3** — The Greek shifts within this verse from "the Lord Almighty" (Kyrios Pantokrator) to "the Lord of hosts" (Kyrios ton dynameon, literally "of powers/armies," as in 7:4).
 - **1:6** — The Greek reads an imperative ("receive") and adds "by My Spirit" (en pneumati mou), whereas the Hebrew MT has a rhetorical question with no mention of the Spirit. It also reads "answered" (apekrithesan) where the MT has "repented/returned."
 - **1:8** — The Greek reads "shady mountains" (oreon ton kataskion) where the Hebrew MT has "myrtle trees in the ravine," and lists four colors of horses rather than three.
 - **1:15** — The Greek uses the same verb twice for the nations "that join in attacking" and "joined in attacking" (synepitithemai), whereas the Hebrew MT describes them first as "at ease" and then as "furthering" disaster.

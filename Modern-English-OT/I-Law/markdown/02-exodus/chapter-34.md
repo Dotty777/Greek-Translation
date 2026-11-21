@@ -27,13 +27,13 @@
 
 **34:11** Pay attention to all that I am commanding you; look, I am driving out before your face the Amorite and the Canaanite and the Perizzite and the Hittite and the Hivite and the Girgashite and the Jebusite.
 
-**34:12** Watch yourself, lest you ever make a covenant with those dwelling on the land into which you are entering, lest it become a stumbling block to you among you.
+**34:12** Watch yourself, so that you never make a covenant with those dwelling on the land into which you are entering, so that it does not become a stumbling block to you among you.
 
 **34:13** You shall tear down their altars, and you shall shatter their pillars, and you shall cut down their groves, and you shall burn up the carved images of their gods with fire.
 
 **34:14** For you shall by no means worship other gods; for the Lord God, a jealous name, is a jealous God.
 
-**34:15** Never make a covenant with those dwelling among foreigners on the land, lest they prostitute themselves after their gods, and sacrifice to their gods, and invite you and you eat from their sacrifices,
+**34:15** Never make a covenant with those dwelling among foreigners on the land, or else they will prostitute themselves after their gods, and sacrifice to their gods, and invite you and you eat from their sacrifices,
 
 **34:16** and you take some of their daughters for your sons, and give some of your daughters to their sons, and your daughters prostitute themselves after their gods, and your sons prostitute themselves after their gods.
 

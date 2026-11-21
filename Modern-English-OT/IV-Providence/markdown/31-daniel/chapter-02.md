@@ -1,0 +1,118 @@
+# Daniel 2 — Saints Modern English (Greek Septuagint)
+
+> **Status:** `draft: true` (49 verses, 11 translator notes)  
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**2:1** In the second year of the reign, Nebuchadnezzar dreamed a dream, and his spirit was distraught, and his sleep went from him.
+
+**2:2** And the king said to call the enchanters and the magicians and the sorcerers and the Chaldeans to report to the king his dreams; and they came and stood before the king.
+
+**2:3** And the king said to them, "I dreamed, and my spirit was distraught to know the dream."
+
+**2:4** And the Chaldeans spoke to the king in Aramaic, "King, live forever! Tell the dream to your servants, and we will report the interpretation."
+
+**2:5** The king answered the Chaldeans, "The word has departed from me; if you do not make known to me the dream and the interpretation, you will be for destruction, and your houses will be plundered.
+
+**2:6** But if you make known to me the dream and its interpretation, you will receive from me gifts and presents and great honor; only report to me the dream and its interpretation."
+
+**2:7** They answered a second time and said, "Let the king tell the dream to his servants, and we will report its interpretation."
+
+**2:8** And the king answered and said, "Truly I know that you are buying time, because you have seen that the matter has departed from me.
+
+**2:9** So if you do not report the dream to me, I know that you have agreed to speak a false and corrupt word before me until the time passes. Tell me my dream, and I will know that you will report its interpretation to me."
+
+**2:10** The Chaldeans answered before the king and said, "There is no man on the dry land who will be able to make known the matter of the king, because no great king or ruler asks such a matter of an enchanter, magician, or Chaldean.
+
+**2:11** For the word which the king asks is heavy, and there is no other who will report it before the king except gods, whose dwelling is not with any flesh."
+
+**2:12** Then the king in fury and anger said to destroy all the wise men of Babylon.
+
+**2:13** And the decree went out, and the wise men were being killed; and they sought Daniel and his friends to do away with them.
+
+**2:14** Then Daniel answered with counsel and judgment to Arioch, the king's chief cook, who had gone out to kill the wise men of Babylon:
+
+**2:15** "Officer of the king, why has this shameless judgment gone out from the presence of the king?" Then Arioch made the matter known to Daniel.
+
+**2:16** And Daniel asked the king to give him time, and he would report its interpretation to the king.
+
+**2:17** And Daniel went into his house, and made the matter known to Hananiah and Mishael and Azariah, his friends.
+
+**2:18** And they sought compassion from the God of heaven concerning this mystery, so that Daniel and his friends might not perish with the rest of the wise men of Babylon.
+
+**2:19** Then the mystery was revealed to Daniel in a vision of the night. And Daniel blessed the God of heaven
+
+**2:20** and said, "May the name of God be blessed from age to age, because wisdom and understanding are His.
+
+**2:21** And He changes seasons and times; He sets up kings and removes them, giving wisdom to the wise and prudence to those who know understanding.
+
+**2:22** He reveals deep and hidden things, knowing what is in the darkness, and the light is with Him.
+
+**2:23** To You, God of my fathers, I give thanks and praise, because You have given me wisdom and power, and You have made known to me what we asked of You, and You have made known to me the king's vision."
+
+**2:24** And Daniel came to Arioch, whom the king had appointed to destroy the wise men of Babylon, and said to him, "Do not destroy the wise men of Babylon, but bring me in before the king, and I will report the interpretation to the king."
+
+**2:25** Then Arioch in haste brought Daniel in before the king and said to him, "I have found a man from the sons of the captivity of Judea who will report the interpretation to the king."
+
+**2:26** And the king answered and said to Daniel, whose name was Belteshazzar, "Are you able to report to me the dream that I saw and its interpretation?"
+
+**2:27** And Daniel answered before the king and said, "The mystery which the king asks about is not for wise men, magicians, enchanters, or diviners to report to the king;
+
+**2:28** but there is a God in heaven who reveals mysteries, and He has made known to King Nebuchadnezzar what must come to pass in the last days. Your dream and the visions of your head upon your bed, this is it.
+
+**2:29** King, your thoughts upon your bed rose up about what must come to pass after these things, and He who reveals mysteries has made known to you what must come to pass.
+
+**2:30** And as for me, not by any wisdom that is in me beyond all the living has this mystery been revealed to me, but for the purpose of making the interpretation known to the king, so that you may know the thoughts of your heart.
+
+**2:31** You, King, were watching, and look, a single image. That image was great, and its look was extraordinary as it stood before your face, and the sight of it was fearsome.
+
+**2:32** It was an image whose head was of fine gold, its hands and chest and arms of silver, its belly and thighs of bronze,
+
+**2:33** its legs of iron, its feet partly of iron and partly of earthenware.
+
+**2:34** You were watching until a stone was cut off from a mountain without hands, and it struck the image on its feet of iron and earthenware, and pulverized them completely.
+
+**2:35** Then the earthenware, the iron, the bronze, the silver, and the gold were pulverized all at once, and became like dust from a summer threshing floor; and the full force of the wind carried them away, and no place was found for them. And the stone that struck the image became a great mountain and filled the whole earth.
+
+**2:36** This is the dream; and its interpretation we will tell before the king.
+
+**2:37** You, King, king of kings, to whom the God of heaven has given a kingdom strong and mighty and honored
+
+**2:38** in every place where the sons of men dwell; both the wild animals of the field and the birds of heaven He has given into your hand, and He has appointed you lord of all; you are the head of gold.
+
+**2:39** And after you another kingdom will arise, inferior to you, and a third kingdom, which is the bronze, which will rule over all the earth.
+
+**2:40** And a fourth kingdom will be strong as iron; in the way that iron pulverizes and subdues all things, so it will pulverize and subdue all things.
+
+**2:41** And whereas you saw the feet and the toes partly of earthenware and partly of iron, it will be a divided kingdom, and some of the root of iron will be in it, just as you saw the iron mixed with the earthenware.
+
+**2:42** And as the toes of the feet were partly of iron and partly of earthenware, part of the kingdom will be strong, and part of it will be broken.
+
+**2:43** Whereas you saw the iron mixed with the earthenware, they will be mixed together by the seed of men; but they will not cling one to the other, just as iron does not mix with earthenware.
+
+**2:44** And in the days of those kings the God of heaven will raise up a kingdom which will never be destroyed, and His kingdom will not be left to another people; it will pulverize and winnow all the kingdoms, and it will stand up forever,
+
+**2:45** just as you saw that a stone was cut from a mountain without hands, and it pulverized the earthenware, the iron, the bronze, the silver, and the gold. The great God has made known to the king what must come to pass after these things; and the dream is true, and its interpretation is trustworthy."
+
+**2:46** Then King Nebuchadnezzar fell on his face and worshiped Daniel, and he gave orders to pour out an offering and fragrant incense to him.
+
+**2:47** And the king answered and said to Daniel, "Truly your God, He is God of gods and Lord of kings and a revealer of mysteries, because you were able to reveal this mystery."
+
+**2:48** And the king made Daniel great, and gave him many great gifts, and appointed him over the whole province of Babylon and as chief of satraps over all the wise men of Babylon.
+
+**2:49** And Daniel made a request of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; and Daniel was in the court of the king.
+
+## Translator Notes
+
+- **2:1** — The Saints Greek text of Daniel is the Theodotion version. ἐξέστη ("was beside itself, distraught") is rendered "distraught" here and in 2:3. The Greek spells the king's name Ναβουχοδονοσόρ; the standard English Nebuchadnezzar is used.
+- **2:4** — Συριστί is literally "in Syrian," the usual Greek term for Aramaic. It is rendered "in Aramaic" so the meaning is clear. In the Hebrew Bible the text itself switches to Aramaic at this point.
+- **2:5** — Ὁ λόγος ἀπ᾽ ἐμοῦ ἀπέστη ("the word has departed from me") is kept literal. It may mean that the king has forgotten the dream or that his decree is final.
+- **2:10** — The Greek uses the historical present (λέγουσιν, "they say"). It is rendered with the English past for smooth narrative, here and in 2:27.
+- **2:14** — ἀρχιμάγειρος means literally "chief cook" (or chief butcher), a court title that came to mean the captain of the royal guard. The literal title is kept.
+- **2:20** — ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος, "from the age and until the age," is rendered "from age to age."
+- **2:26** — The Greek spells the name Βαλτασάρ (Baltasar). The standard English form Belteshazzar, Daniel's Babylonian name, is used.
+- **2:27** — γαζαρηνῶν ("Gazarenes") transliterates the Aramaic word for "diviners" or "determiners of fate." It is rendered by its meaning.
+- **2:37** — Verses 37–38 form one sentence in the Greek, with no main verb for "You, King, king of kings"; the structure is kept.
+- **2:44** — ἡ βασιλεία αὐτοῦ uses a masculine pronoun, which cannot refer to the feminine βασιλεία, so it is taken as "His (God's) kingdom." λικμάω means "winnow, scatter like chaff."
+- **2:46** — μαννά here is the Greek transliteration of the Hebrew/Aramaic word for a grain offering (minchah), not the wilderness manna. It is rendered "an offering." σπεῖσαι is "to pour out (as a libation)."

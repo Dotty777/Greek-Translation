@@ -25,7 +25,7 @@
 
 **33:10** And all the people would see the pillar of the cloud standing at the door of the tent; and all the people, standing up, would worship, each one from the door of his tent.
 
-**33:11** And the Lord spoke to Moses face to face, as if someone should speak to his own friend. And he would return to the camp; but the attendant Joshua, son of Naue, a young man, would not depart from the tent.
+**33:11** And the Lord spoke to Moses face to face, as if someone should speak to his own friend. And he would return to the camp; but the attendant Joshua, son of Nun, a young man, would not depart from the tent.
 
 **33:12** And Moses said to the Lord, "Look, You say to me, 'Lead this people up,' yet You have not made known to me whom You will send along with me; and You have said to me, 'I know you above all, and you have favor with Me.'
 
@@ -54,6 +54,6 @@
 ## Translator Notes
 
 - **33:2** — The Greek uses the second-person singular "you will drive out" (addressing Moses) and includes the Girgashite where the Hebrew text lists the Canaanite.
-- **33:11** — "Naue" (Ναυή) preserves the distinctive Septuagint form of the name of Joshua's father, corresponding to "Nun" in the Hebrew text.
+- **33:11** — The Greek spells the name of Joshua's father Naue (Ναυή) throughout the Pentateuch, rendered here with the standard modern English form Nun.
 - **33:13** — The Greek reads "reveal Yourself to me; let me see You clearly" (γνωστῶς, literally "knowingly") instead of the Hebrew "show me your ways," and likewise reads "Reveal Yourself to me" in 33:18.
 - **33:19** — The Septuagint reads "in My glory" (τῇ δόξῃ μου) where the Hebrew Masoretic Text reads "all my goodness."

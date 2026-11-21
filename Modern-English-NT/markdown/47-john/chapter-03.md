@@ -35,11 +35,11 @@
 
 **3:15** so that everyone who believes in Him may have eternal life.
 
-**3:16** For God loved the world in such a way that He gave His unique Son, so that everyone who believes in Him may not perish, but have eternal life.
+**3:16** For God loved the world in such a way that He gave His only-begotten Son, so that everyone who believes in Him may not perish, but have eternal life.
 
 **3:17** For God did not send the Son into the world to judge the world, but so that the world might be saved through Him.
 
-**3:18** The one who believes in Him is not judged; but the one who does not believe has already been judged, because he has not believed in the name of the unique Son of God.
+**3:18** The one who believes in Him is not judged; but the one who does not believe has already been judged, because he has not believed in the name of the only-begotten Son of God.
 
 **3:19** Now this is the judgment: that the light has come into the world, and people loved the darkness rather than the light, for their deeds were evil.
 
@@ -81,5 +81,5 @@
 
 - **3:3** — The Greek adverb anothen carries a deliberate double meaning: both "from above" (as in 3:31) and "again" (the sense Nicodemus hears in v. 4).
 - **3:8** — The verse turns on a wordplay with Greek pneuma, which means both "wind" and "Spirit," paired with the related verb pnei ("blows").
-- **3:16** — Greek houtos can denote manner ("in this way") or degree ("so"), and monogenes means "unique" or "only-born" (traditionally "only begotten"). Because ancient Greek lacked quotation marks, scholars debate whether Jesus' speech ends at v. 15 or continues through v. 21.
+- **3:16** — Greek houtos can denote manner ("in this way") or degree ("so"), and monogenes ("only-begotten," matching 1:14, 18) denotes a unique, one-of-a-kind son. Because ancient Greek lacked quotation marks, scholars debate whether Jesus' speech ends at v. 15 or continues through v. 21.
 - **3:31** — Because ancient Greek manuscripts have no quotation marks, interpreters debate whether vv. 31-36 continue the speech of John the Baptist or shift to the narrator's reflection.

@@ -53,7 +53,7 @@
 
 **5:24** and justice will roll like water, and righteousness like an impassable torrent.
 
-**5:25** Did you offer Me slain beasts and sacrifices in the wilderness for forty years, house of Israel?
+**5:25** Did you offer Me slaughtered animals and sacrifices in the wilderness for forty years, house of Israel?
 
 **5:26** And you took up the tent of Moloch and the star of your god Rephan, their images which you made for yourselves;
 

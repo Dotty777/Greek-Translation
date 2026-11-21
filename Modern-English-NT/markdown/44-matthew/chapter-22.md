@@ -79,7 +79,7 @@
 
 **22:37** And He said to him, "You shall love the Lord your God with your whole heart, and with your whole soul, and with your whole mind.
 
-**22:38** This is the great and first commandment.
+**22:38** This is the great and primary commandment.
 
 **22:39** And a second is similar to it: You shall love your neighbor as yourself.
 

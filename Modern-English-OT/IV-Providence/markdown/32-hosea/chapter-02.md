@@ -1,6 +1,6 @@
 # Hosea 2 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Hosea`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,15 +33,15 @@
 
 **2:14** and I will lay waste her vine and her fig trees, of which she said, 'These are my wages that my lovers gave me,' and I will make them a testimony, and the wild beasts of the field and the birds of the sky and the creeping things of the earth will devour them;
 
-**2:15** and I will punish her for the days of the Baalim in which she offered sacrifices to them, and put on her earrings and her necklaces, and went after her lovers, but she forgot Me," says the Lord.
+**2:15** and I will punish her for the days of the Baals in which she offered sacrifices to them, and put on her earrings and her necklaces, and went after her lovers, but she forgot Me," says the Lord.
 
 **2:16** "Therefore, look, I am leading her astray and will set her like a wilderness, and I will speak to her heart,
 
 **2:17** and I will give her possessions to her from there, and the valley of Achor to open up her understanding; and she will be humbled there according to the days of her infancy and according to the days of her going up out of the land of Egypt.
 
-**2:18** And it will be in that day," says the Lord, "that she will call Me 'My Husband,' and she will no longer call Me 'Baalim';
+**2:18** And it will be in that day," says the Lord, "that she will call Me 'My Husband,' and she will no longer call Me 'Baals';
 
-**2:19** and I will remove the names of the Baalim from her mouth, and their names will certainly no longer be remembered.
+**2:19** and I will remove the names of the Baals from her mouth, and their names will certainly no longer be remembered.
 
 **2:20** And I will make a covenant for them in that day with the wild beasts of the field and with the birds of the sky and the creeping things of the earth; and I will shatter bow and sword and war from the earth, and I will cause you to dwell in hope.
 
@@ -61,4 +61,5 @@
 - **2:4** — The Greek reads first-person "I will remove ... from My presence" (ἐξαρῶ ... ἐκ προσώπου μου) and continues in 2:5 with a positive purpose clause "so that I may strip her naked" (ὅπως ἂν ἐκδύσω), whereas the Hebrew MT urges her to remove prostitution from her own face "lest" God strip her.
 - **2:14** — The Greek reads "a testimony" (εἰς μαρτύριον) where the Hebrew MT has "a forest," and expands the devourers to include "the birds of the sky and the creeping things of the earth," matching 2:20.
 - **2:17** — The Greek contains several distinct readings compared to the Hebrew MT: "her possessions" (MT "her vineyards"), "to open up her understanding" (MT "for a door of hope"), "she will be humbled" (MT "she will answer/sing"), and "her infancy" (MT "her youth").
+- **2:18** — The Greek reads plural Βααλείμ ('Baals,' transliterated 'Baalim') rather than Hebrew singular 'my Baal,' matching 'the Baals' in 2:15, 2:19, and 11:2.
 - **2:25** — Here the Greek shifts from "mercy" (ἐλεέω in 1:6-2:6) to "love" (ἀγαπήσω τὴν Οὐκ ἠγαπημένην, "I will love Not Loved," echoed in Rom 9:25), and expands the closing reply to the full confession "You are the Lord my God."

@@ -1,7 +1,7 @@
 # Mark — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **V. Salvation**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`45-mark.json`](../../json/45-mark.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

@@ -9,7 +9,7 @@
 
 **13:2** And the beast that I saw was like a leopard, and its feet were like those of a bear, and its mouth was like a lion's mouth. And the dragon gave to it its power and its throne and great authority.
 
-**13:3** And one of its heads appeared as though slain to death, and its fatal wound was healed. And the whole earth marveled after the beast,
+**13:3** And one of its heads appeared as though slaughtered to death, and its fatal wound was healed. And the whole earth marveled after the beast,
 
 **13:4** and they worshiped the dragon because it gave the authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who is able to wage war with it?"
 
@@ -19,7 +19,7 @@
 
 **13:7** And it was given to it to make war with the saints and to conquer them, and authority was given to it over every tribe and people and language and nation.
 
-**13:8** And all who dwell on the earth will worship it, everyone whose name has not been written in the book of life of the Lamb who was slain from the foundation of the world.
+**13:8** And all who dwell on the earth will worship it, everyone whose name has not been written in the book of life of the Lamb who was slaughtered from the foundation of the world.
 
 **13:9** If anyone has an ear, let him hear.
 
@@ -45,6 +45,6 @@
 
 - **13:1** — The Greek text reads the singular "name of blasphemy" (onoma blasphemias) rather than the plural "names" found in some manuscripts.
 - **13:3** — The Greek phrase "marveled after the beast" (ethaumasthe ... opiso tou theriou) is a pregnant construction expressing both amazement at the beast and following after it.
-- **13:8** — The phrase "from the foundation of the world" follows "the Lamb who was slain" in the Greek word order, though it may modify either "was slain" or "has not been written" (compare Rev 17:8). The masculine pronoun auton (rendered "it") refers to the neuter "beast" according to sense.
+- **13:8** — The phrase "from the foundation of the world" follows "the Lamb who was slaughtered" in the Greek word order, though it may modify either "was slaughtered" or "has not been written" (compare Rev 17:8). The masculine pronoun auton (rendered "it") refers to the neuter "beast" according to sense.
 - **13:10** — This textually complex verse has an elliptical first clause ("if anyone [is] for captivity, he goes away") and an active future verb in the second ("if anyone kills with the sword, with the sword he must be killed"), whereas other manuscripts read passive forms emphasizing faithful endurance under persecution.
 - **13:18** — The anarthrous Greek phrase "number of a human being" (arithmos anthropou) can mean either "a human number" (reckoned in human fashion) or "the number of a specific person." Some early manuscripts read "six hundred sixteen" instead of "six hundred sixty-six."

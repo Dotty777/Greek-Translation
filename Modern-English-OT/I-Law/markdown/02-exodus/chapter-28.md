@@ -5,7 +5,7 @@
 
 ## Text
 
-**28:1** And you, bring near to yourself both Aaron your brother and his sons from among the sons of Israel to serve as priests to Me: Aaron, and Nadab and Abiud and Eleazar and Ithamar, sons of Aaron.
+**28:1** And you, bring near to yourself both Aaron your brother and his sons from among the sons of Israel to serve as priests to Me: Aaron, and Nadab and Abihu and Eleazar and Ithamar, sons of Aaron.
 
 **28:2** And you shall make a holy garment for Aaron your brother, for honor and glory.
 
@@ -81,7 +81,7 @@
 
 ## Translator Notes
 
-- **28:1** — Greek Abiud corresponds to Hebrew Abihu.
+- **28:1** — The Greek spells Aaron's second son Abiud (Ἀβιούδ), rendered with standard modern English Abihu throughout Exodus–Numbers.
 - **28:11** — In the Septuagint text, verses 11–12 omit the instructions for gold filigree settings found in the Hebrew Masoretic Text, so the preposition 'upon' at the end of verse 11 links directly into verse 12.
 - **28:15** — Greek logion literally means 'oracle' (rendered here as 'oracle of judgments'), corresponding to the breastpiece of judgment in the Hebrew text.
 - **28:29** — Verses 23–28, which detail the gold rings and cords attaching the breastpiece in the Hebrew text, are absent in the Septuagint; the fastening is summarized at the end of verse 29.

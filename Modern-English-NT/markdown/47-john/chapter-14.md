@@ -15,7 +15,7 @@
 
 **14:5** Thomas said to Him, "Lord, we do not know where You are going; how can we know the way?"
 
-**14:6** Jesus said to him, "I am the way, the truth, and the life; no one comes to the Father except through Me.
+**14:6** Jesus told him, "I am the way and the truth and the life; no one comes to the Father except through Me.
 
 **14:7** If you had known Me, you would have known My Father as well. From now on you know Him and have seen Him."
 

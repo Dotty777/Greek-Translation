@@ -19,7 +19,7 @@
 
 **2:7** For the mystery of lawlessness is already at work; only the one who restrains at present does so until he is out of the way.
 
-**2:8** And then the lawless one will be revealed, whom the Lord Jesus will slay with the breath of His mouth and bring to nothing by the appearance of His coming.
+**2:8** And then the lawless one will be revealed, whom the Lord Jesus will kill with the breath of His mouth and bring to nothing by the appearance of His coming.
 
 **2:9** That one's coming is according to the working of Satan, with all power and signs and wonders of falsehood,
 

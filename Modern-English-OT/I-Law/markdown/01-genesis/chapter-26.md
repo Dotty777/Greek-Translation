@@ -17,7 +17,7 @@
 
 **26:6** And Isaac settled in Gerar.
 
-**26:7** And the men of the place asked about Rebekah his wife, and he said, "She is my sister," for he was afraid to say, "She is my wife," lest the men of the place kill him on account of Rebekah, because she was beautiful in appearance.
+**26:7** And the men of the place asked about Rebekah his wife, and he said, "She is my sister," for he was afraid to say, "She is my wife," for fear that the men of the place might kill him on account of Rebekah, because she was beautiful in appearance.
 
 **26:8** And he stayed there a long time; and Abimelech the king of Gerar, peering through the window, saw Isaac playing with Rebekah his wife.
 

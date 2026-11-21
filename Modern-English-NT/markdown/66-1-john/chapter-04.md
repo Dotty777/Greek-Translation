@@ -21,7 +21,7 @@
 
 **4:8** The one who does not love has not come to know God, because God is love.
 
-**4:9** By this the love of God was revealed among us: that God has sent His only Son into the world so that we might live through Him.
+**4:9** By this the love of God was revealed among us: that God has sent His only-begotten Son into the world so that we might live through Him.
 
 **4:10** In this is love: not that we have loved God, but that He Himself loved us and sent His Son as a propitiation for our sins.
 
@@ -50,6 +50,6 @@
 ## Translator Notes
 
 - **4:3** — Early Greek manuscripts read simply 'does not confess Jesus'; later manuscripts expand this to match v. 2, while a few Latin and patristic witnesses read 'annuls' or 'dissolves' Jesus.
-- **4:9** — The Greek adjective monogenes ('only') denotes a unique, one-of-a-kind son; 'among us' translates en hemin (lit. 'in us').
+- **4:9** — The Greek adjective monogenes ("only-begotten," matching John 1:14, 18; 3:16, 18) denotes a unique, one-of-a-kind son; "among us" translates en hemin (lit. "in us").
 - **4:10** — The Greek hilasmos ('propitiation') refers to an atoning sacrifice that removes sin and turns away divine wrath.
 - **4:19** — The earliest Greek manuscripts read simply 'We love' without a direct object; later manuscripts add 'Him'.

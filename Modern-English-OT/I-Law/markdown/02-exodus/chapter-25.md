@@ -35,17 +35,17 @@
 
 **25:16** And you shall put into the ark the testimonies that I will give you.
 
-**25:17** And you shall make an atonement cover of pure gold, two and a half cubits in length, and a cubit and a half in width.
+**25:17** And you shall make a mercy seat of pure gold, two and a half cubits in length, and a cubit and a half in width.
 
-**25:18** And you shall make two cherubim of hammered gold, and place them on both sides of the atonement cover;
+**25:18** And you shall make two cherubim of hammered gold, and place them on both sides of the mercy seat;
 
-**25:19** they shall be made one cherub on this side and one cherub on the second side of the atonement cover; and you shall make the two cherubim on the two sides.
+**25:19** they shall be made one cherub on this side and one cherub on the second side of the mercy seat; and you shall make the two cherubim on the two sides.
 
-**25:20** The cherubim shall be stretching out their wings above, overshadowing the atonement cover with their wings, with their faces toward one another; toward the atonement cover shall be the faces of the cherubim.
+**25:20** The cherubim shall be stretching out their wings above, overshadowing the mercy seat with their wings, with their faces toward one another; toward the mercy seat shall be the faces of the cherubim.
 
-**25:21** And you shall place the atonement cover on top of the ark, and into the ark you shall put the testimonies that I will give you.
+**25:21** And you shall place the mercy seat on top of the ark, and into the ark you shall put the testimonies that I will give you.
 
-**25:22** And I will make Myself known to you from there, and I will speak to you from above the atonement cover, between the two cherubim that are upon the ark of the testimony, and according to all that I command you for the sons of Israel.
+**25:22** And I will make Myself known to you from there, and I will speak to you from above the mercy seat, between the two cherubim that are upon the ark of the testimony, and according to all that I command you for the sons of Israel.
 
 **25:23** And you shall make a golden table of pure gold, two cubits in length, and a cubit in breadth, and a cubit and a half in height.
 
@@ -86,7 +86,7 @@
 ## Translator Notes
 
 - **25:5** — "Incorruptible wood" renders Greek xyla asēpta (literally "non-rotting wood"), the Septuagint term for acacia wood. Verse 6 of the Hebrew text (listing oil, spices, and incense) is absent in the Greek critical text.
-- **25:17** — "Atonement cover" renders Greek hilastērion epithema (literally "propitiatory cover"), shortened to hilastērion in verses 18-22 and traditionally known as the "mercy seat."
+- **25:17** — "Mercy seat" translates Greek hilastērion epithema (literally "propitiatory cover"), shortened to hilastērion in verses 18–22 and rendered consistently as "mercy seat" across Exodus, Leviticus, and Numbers.
 - **25:22** — The Greek reads "I will make Myself known to you from there" (gnōsthēsomai), whereas the Hebrew Masoretic Text reads "I will meet with you there."
 - **25:23** — The Greek specifies "a golden table of pure gold," whereas the Hebrew Masoretic Text describes a table of acacia wood overlaid with gold.
 - **25:35** — The Greek specifies a knob under "the two branches" and a knob under "the four branches," and repeats the clause about four nut-shaped cups on the lampstand, differing from the three pairs of two branches in the Hebrew Masoretic Text.

@@ -33,7 +33,7 @@
 
 **17:14** And an uncircumcised male, who is not circumcised in the flesh of his foreskin on the eighth day, that soul shall be utterly destroyed from his people, because he has broken My covenant."
 
-**17:15** And God said to Abraham, "As for Sara your wife, her name will not be called Sara, but Sarah will be her name.
+**17:15** And God said to Abraham, "As for Sarai your wife, her name will not be called Sarai, but Sarah will be her name.
 
 **17:16** And I will bless her, and I will give you a child from her. And I will bless him, and he will become nations, and kings of nations will be from him."
 
@@ -63,6 +63,6 @@
 
 - **17:1** — The Greek reads "your God" (where the Hebrew Masoretic Text has "El Shaddai") and "be well-pleasing" (for Hebrew "walk").
 - **17:14** — The Greek specifies "on the eighth day," a phrase also found in the Samaritan Pentateuch though absent from the Hebrew Masoretic Text.
-- **17:15** — The Greek changes the name from Sara (Σάρα) to Sarra (Σάρρα, rendered with the standard English spelling "Sarah"), corresponding to the Hebrew shift from Sarai to Sarah.
+- **17:15** — The Greek changes the name from Sara (Σάρα) to Sarra (Σάρρα), corresponding to the Hebrew shift from Sarai to Sarah; standard modern English Sarai / Sarah is used consistently.
 - **17:16** — The Greek reads "a child" and shifts to masculine pronouns ("bless him," "he will become," "from him"), referring to the promised son rather than to Sarah as in the Hebrew Masoretic Text.
 - **17:20** — The Greek reads "twelve nations" (δώδεκα ἔθνη), whereas the Hebrew Masoretic Text reads "twelve princes."

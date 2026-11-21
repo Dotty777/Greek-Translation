@@ -23,7 +23,7 @@
 
 **31:9** And Moses wrote the words of this law in a book, and gave it to the priests who carried the ark of the covenant of the Lord, and to the elders of the sons of Israel.
 
-**31:10** And Moses commanded them on that day, saying, "After seven years, at the time of the year of release, at the Feast of Tabernacles,
+**31:10** And Moses commanded them on that day, saying, "After seven years, at the time of the year of release, at the Festival of Tent-Pitching,
 
 **31:11** when all Israel comes together to appear before the Lord your God in the place that the Lord chooses, you shall read this law in the presence of all Israel, in their hearing,
 

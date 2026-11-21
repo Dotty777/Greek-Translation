@@ -23,7 +23,7 @@
 
 **32:10** And now leave Me alone, and becoming furious with anger against them, I will wipe them out, and I will make you into a great nation."
 
-**32:11** And Moses entreated before the Lord God and said, "Why, Lord, are You furious with anger against Your people, whom You brought out from the land of Egypt with great strength and with Your uplifted arm?
+**32:11** And Moses pleaded before the Lord God and said, "Why, Lord, are You furious with anger against Your people, whom You brought out from the land of Egypt with great strength and with Your uplifted arm?
 
 **32:12** Do not let the Egyptians speak, saying, 'With evil intent He brought them out to kill them in the mountains and to consume them from the earth.' Cease from the anger of Your fury, and be merciful concerning the wickedness of Your people,
 

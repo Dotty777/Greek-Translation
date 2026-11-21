@@ -19,7 +19,7 @@
 
 **31:7** And they drew up for battle against Midian, just as the Lord commanded Moses, and they killed every male.
 
-**31:8** And they killed the kings of Midian along with their slain: Evi, Zur, Rekem, Hur, and Reba, five kings of Midian; and they killed Balaam son of Beor with the sword together with their slain.
+**31:8** And they killed the kings of Midian along with those struck down among them: Evi, Zur, Rekem, Hur, and Reba, five kings of Midian; and they killed Balaam son of Beor with the sword together with those struck down among them.
 
 **31:9** And they took as plunder the women of Midian and their dependents, and their livestock and all their possessions and their wealth they plundered.
 
@@ -41,7 +41,7 @@
 
 **31:18** All the dependents among the women who have not known the bed of a male, keep them alive.
 
-**31:19** And you, encamp outside the camp seven days; everyone who has killed and whoever touches the slain shall be purified on the third day and on the seventh day, you and your captives;
+**31:19** And you, encamp outside the camp seven days; everyone who has killed and whoever touches the one struck down shall be purified on the third day and on the seventh day, you and your captives;
 
 **31:20** and every garment and every leather article and every work of goat's hair and every wooden article you shall purify."
 

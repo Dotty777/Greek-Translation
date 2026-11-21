@@ -93,7 +93,7 @@
 
 **41:44** And Pharaoh said to Joseph, "I am Pharaoh; without you no one will lift up his hand in all the land of Egypt."
 
-**41:45** And Pharaoh called Joseph's name Psonthomphanech; and he gave to him Asenath, daughter of Petrephe, priest of Heliopolis, as a wife.
+**41:45** And Pharaoh called Joseph's name Psonthomphanech; and he gave to him Asenath, daughter of Potiphera, priest of Heliopolis, as a wife.
 
 **41:46** Now Joseph was thirty years old when he stood before Pharaoh, king of Egypt. And Joseph went out from the presence of Pharaoh and passed through all the land of Egypt.
 
@@ -103,7 +103,7 @@
 
 **41:49** And Joseph gathered grain like the sand of the sea, exceedingly much, until he was unable to count it, for there was no number.
 
-**41:50** Now to Joseph two sons were born before the seven years of the famine came, whom Asenath, daughter of Petrephe, priest of Heliopolis, bore to him.
+**41:50** Now to Joseph two sons were born before the seven years of the famine came, whom Asenath, daughter of Potiphera, priest of Heliopolis, bore to him.
 
 **41:51** And Joseph called the name of the firstborn Manasseh, saying, "Because God has made me forget all my toils and all the things of my father."
 
@@ -122,7 +122,7 @@
 ## Translator Notes
 
 - **41:16** — The Greek literally reads "Apart from God, the welfare of Pharaoh will not be answered," differing from the Hebrew text ("It is not in me; God will give Pharaoh a favorable answer").
-- **41:45** — The Greek preserves distinct forms for the Egyptian names: "Psonthomphanech" (Hebrew "Zaphenath-paneah"), "Petrephe" (Hebrew "Potiphera"; most Greek witnesses read "Petephres"), and "Heliopolis" ("City of the Sun," rendering Hebrew "On").
+- **41:45** — The Greek preserves distinct forms for the Egyptian names: "Psonthomphanech" (Hebrew "Zaphenath-paneah"), "Petrephe" (Πετρεφῆ, rendered with standard English "Potiphera" as in 46:20; most Greek witnesses read "Petephres"), and "Heliopolis" ("City of the Sun," rendering Hebrew "On").
 - **41:48** — This Greek text contains the name "On" after "around it," likely an early gloss identifying the city or an uncial misreading of a relative pronoun.
 - **41:52** — This Greek text reads "exalted" (Greek hypsosen) rather than the more common Septuagint reading "increased/made fruitful" (euxesen), forming a direct contrast with "humiliation."
 - **41:54** — This Greek text reads "there was no bread" (Greek ouk esan artoi), whereas the Hebrew text and other Greek witnesses state that "there was bread" in all the land of Egypt.

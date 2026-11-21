@@ -23,7 +23,7 @@
 
 **24:9** And Moses and Aaron and Nadab and Abihu and seventy of the council of elders of Israel went up,
 
-**24:10** and they saw the place where the God of Israel stood; and what was under His feet was like a work of sapphire brick, and like the appearance of the expanse of heaven in clearness.
+**24:10** and they saw the place where the God of Israel stood; and what was under His feet was like a work of sapphire brick, and like the appearance of the vault of heaven in clearness.
 
 **24:11** And of the chosen ones of Israel not even one perished; and they appeared in the place of God, and they ate and drank.
 

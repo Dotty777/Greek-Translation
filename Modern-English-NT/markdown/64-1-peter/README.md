@@ -1,7 +1,7 @@
 # 1 Peter — Saints Modern English NT (Greek)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity).  
+> **Source basis:** `Saints-Greek-Critical-Text` (Saints NT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`64-1-peter.json`](../../json/64-1-peter.json) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Chapters

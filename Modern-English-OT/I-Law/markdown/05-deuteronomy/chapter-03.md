@@ -37,7 +37,7 @@
 
 **3:16** And to Reuben and to Gad I have given from Gilead as far as the brook Arnon, and as far as the Jabbok; the brook is a border for the sons of Ammon;
 
-**3:17** and the Arabah and the Jordan, the border of Machanareth and as far as the Sea of Arabah, the Salt Sea, below Asedoth-pisgah to the east.
+**3:17** and the Arabah and the Jordan, the border of Machanareth and as far as the Sea of Arabah, the Salt Sea, below Ashdoth-pisgah to the east.
 
 **3:18** And I commanded you at that time, saying, "The Lord our God has given you this land as an inheritance; armed, go ahead before your brothers, the sons of Israel, every mighty man.
 
@@ -53,7 +53,7 @@
 
 **3:24** "Lord God, You have begun to show Your servant Your strength and Your power and the mighty hand and the uplifted arm; for what god is there in heaven or on earth who will do according to what You have done and according to Your strength?
 
-**3:25** Let me cross over, then, and see this good land that is beyond the Jordan, the good mountain and Antilebanon."
+**3:25** Let me cross over, then, and see this good land that is beyond the Jordan, the good mountain and Anti-Lebanon."
 
 **3:26** And the Lord overlooked me on account of you and did not listen to me; and the Lord said to me, "Let it be enough for you; do not continue to speak of this matter.
 
@@ -70,5 +70,5 @@
 - **3:9** — The Greek text reads "Phoenicians" and "Sanior" (vs. MT "Sidonians" and "Sirion"), and in v. 10 treats "Misor" (MT "the tableland") as a proper name and reads "Elcha" (MT "Salecah").
 - **3:12** — The Greek text reads "we plundered" (epronomeusamen), where the Hebrew MT has "we took possession of"; in v. 11, "in the citadel" translates Hebrew "in Rabbah."
 - **3:14** — The Greek text reads the distinct names "Arbok" (vs. "Argob" in vv. 4, 13), "Gartasei," "Homachathei," and "Bassemath" (corresponding to MT "Geshurites," "Maacathites," and "Bashan").
-- **3:17** — "Machanareth" reflects a fusion of the Hebrew preposition with "Chinnereth," and "Asedoth-pisgah" transliterates Hebrew "slopes of Pisgah."
+- **3:17** — "Machanareth" reflects a fusion of the Hebrew preposition with "Chinnereth," and "Ashdoth-pisgah" (Greek Asedoth) transliterates Hebrew "slopes of Pisgah."
 - **3:27** — "The Hewn One" (Lelaxeumenou) renders the name "Pisgah" as a Greek participle; similarly, v. 25 reads "Antilebanon" (MT "Lebanon") and v. 26 reads "overlooked" (MT "was angry with").

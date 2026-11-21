@@ -7,7 +7,7 @@
 
 **2:1** My little children, I am writing these things to you so that you will not sin. And if anyone does sin, we have an advocate with the Father, Jesus Christ, the righteous One;
 
-**2:2** and He Himself is the atonement for our sins, and not for ours alone, but also for the whole world.
+**2:2** and He Himself is a propitiation for our sins, and not for ours alone, but also for the whole world.
 
 **2:3** And by this we know that we have come to know Him: if we keep His commandments.
 
@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **2:2** — The Greek noun hilasmos ("atonement") is variously rendered "propitiation" (turning away wrath) or "expiation" (wiping away guilt).
+- **2:2** — The Greek noun hilasmos ("propitiation," matching 4:10) refers to an atoning sacrifice that turns away divine wrath and removes sin; it is also variously rendered "atoning sacrifice" or "expiation."
 - **2:14** — The shift from present "I am writing" in vv. 12-13 to aorist "I wrote" in v. 14 is often understood either as an epistolary aorist written from the readers' standpoint or as looking back to the preceding section.
 - **2:20** — The Greek text reads "you all know" (oidate pantes), while many later manuscripts read "you know all things" (oidate panta).
 - **2:27** — The verb menete is identical in form for the imperative ("remain in Him") and the indicative ("you remain in Him"); the imperative matches the clear command in v. 28.

@@ -1,8 +1,8 @@
 # Saints Modern English — Complete New Testament (Greek)
 
-> **Status:** `draft: true`  
+> **Status:** `draft: true` — Post-audit polished  
 > **Coverage:** **Complete 27 of 27 New Testament books** (260 chapters, 7,942 verses, 1,125 translator notes) — all three NT divisions (**V. Salvation**, **VI. Discipleship**, **VII. Glory**) finished.  
-> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` (0 FAIL, 0 WARN) and deployed in `saints-modern-english` v0.3.0.
+> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and full programmatic & scholarly audit (`0` hard failures, `0` soft archaisms).
 
 ## Overview
 
@@ -10,14 +10,7 @@ This directory contains the complete **Saints Modern English** translation of th
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms and original wording.
 - **Text-critical fidelity:** Preserves double brackets `⟦ ⟧` verbatim wherever present in the Saints Greek Critical Text (including Matt 16:3, Mark 16:9–20, John 7:53–8:11, and Rom 16:24).
-- **Existing pilot preserved:** The original 10-passage Greek pilot (including OT pilot passages and projected colour/word-study layers) remains intact in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
-
-## Directory Contents
-
-- [`STYLE.md`](STYLE.md) — Locked translation style policy.
-- [`glossary.json`](glossary.json) — Standardized proper names and recurring theological/lexical terms.
-- `json/` — Book-level structured JSON (`<NN-slug>.json`) containing `verses` keyed by `ch:v` and per-verse `notes`.
-- `markdown/` — Human-readable Markdown reading editions organized by book (`<NN-slug>/README.md` + `chapter-NN.md`).
+- **Related directories:** Old Testament in [`../Modern-English-OT/`](../Modern-English-OT/README.md); original reviewed pilot & projected layers in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Books Included (27 / 27 NT Books — Complete)
 
