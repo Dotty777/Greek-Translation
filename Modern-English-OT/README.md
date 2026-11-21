@@ -1,8 +1,8 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true`  
-> **Current Coverage:** **Division I: Law (Pentateuch) COMPLETE — 5 of 43 OT books** (187 chapters, 5,791 verses, 915 translator notes).  
-> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` (0 FAIL, 0 WARN) and deployed in `saints-modern-english` v0.4.0.
+> **Current Coverage:** **17 of 43 OT books complete** (254 chapters, 6,840 verses, 1,230 translator notes) — **Division I: Law (5/5 Pentateuch)** + **all 12/12 Minor Prophets in Division IV: Providence** (combined with Complete 27/27 NT = **44 of 70 complete Greek books**).  
+> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` (0 FAIL, 0 WARN) and deployed in `saints-modern-english` v0.5.0.
 
 ## Overview
 
@@ -18,8 +18,8 @@ This directory contains the **Saints Modern English** translation of the Greek O
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 915 | [`I-Law/`](I-Law/README.md) |
 | II. Judgement | Pending | 0 / 14 | — | — | — | — |
-| III. Wisdom | Pending | 0 / 7 | — | — | — | — |
-| IV. Providence | Pending | 0 / 17 | — | — | — | — |
+| III. Wisdom | Pending | 0 / 8 | — | — | — | — |
+| **IV. Providence** | **In progress (Minor Prophets complete)** | 12 / 16 | 67 | 1,049 | 315 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I: Law Books (5 / 5 Complete)
 
@@ -30,3 +30,20 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 3 | Leviticus | 27 | 857 | 133 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
 | 4 | Numbers | 36 | 1,285 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 167 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
+
+## Division IV: Providence — Minor Prophets (12 / 12 Complete)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 32 | Hosea | 14 | 197 | 64 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |
+| 33 | Joel | 4 | 73 | 18 | [`IV-Providence/markdown/33-joel/`](IV-Providence/markdown/33-joel/README.md) | [`33-joel.json`](IV-Providence/json/33-joel.json) |
+| 34 | Amos | 9 | 145 | 44 | [`IV-Providence/markdown/34-amos/`](IV-Providence/markdown/34-amos/README.md) | [`34-amos.json`](IV-Providence/json/34-amos.json) |
+| 35 | Obadiah | 1 | 21 | 5 | [`IV-Providence/markdown/35-obadiah/`](IV-Providence/markdown/35-obadiah/README.md) | [`35-obadiah.json`](IV-Providence/json/35-obadiah.json) |
+| 36 | Jonah | 4 | 48 | 18 | [`IV-Providence/markdown/36-jonah/`](IV-Providence/markdown/36-jonah/README.md) | [`36-jonah.json`](IV-Providence/json/36-jonah.json) |
+| 37 | Micah | 7 | 105 | 32 | [`IV-Providence/markdown/37-micah/`](IV-Providence/markdown/37-micah/README.md) | [`37-micah.json`](IV-Providence/json/37-micah.json) |
+| 38 | Nahum | 3 | 47 | 15 | [`IV-Providence/markdown/38-nahum/`](IV-Providence/markdown/38-nahum/README.md) | [`38-nahum.json`](IV-Providence/json/38-nahum.json) |
+| 39 | Habakkuk | 3 | 56 | 15 | [`IV-Providence/markdown/39-habakkuk/`](IV-Providence/markdown/39-habakkuk/README.md) | [`39-habakkuk.json`](IV-Providence/json/39-habakkuk.json) |
+| 40 | Zephaniah | 3 | 53 | 15 | [`IV-Providence/markdown/40-zephaniah/`](IV-Providence/markdown/40-zephaniah/README.md) | [`40-zephaniah.json`](IV-Providence/json/40-zephaniah.json) |
+| 41 | Haggai | 2 | 38 | 10 | [`IV-Providence/markdown/41-haggai/`](IV-Providence/markdown/41-haggai/README.md) | [`41-haggai.json`](IV-Providence/json/41-haggai.json) |
+| 42 | Zechariah | 14 | 211 | 65 | [`IV-Providence/markdown/42-zechariah/`](IV-Providence/markdown/42-zechariah/README.md) | [`42-zechariah.json`](IV-Providence/json/42-zechariah.json) |
+| 43 | Malachi | 3 | 55 | 14 | [`IV-Providence/markdown/43-malachi/`](IV-Providence/markdown/43-malachi/README.md) | [`43-malachi.json`](IV-Providence/json/43-malachi.json) |
