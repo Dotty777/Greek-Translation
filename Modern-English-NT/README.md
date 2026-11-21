@@ -1,15 +1,15 @@
-# Saints Modern English — New Testament (Greek, Wave 1)
+# Saints Modern English — Complete New Testament (Greek)
 
 > **Status:** `draft: true`  
-> **Coverage:** **25 of 27 New Testament books** (208 chapters, 5,725 verses, 883 translator notes) — only **Matthew** and **Luke** remaining for complete 27-book NT coverage.  
-> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` (0 FAIL, 0 WARN) and deployed in `saints-modern-english` v0.2.0.
+> **Coverage:** **Complete 27 of 27 New Testament books** (260 chapters, 7,942 verses, 1,125 translator notes) — all three NT divisions (**V. Salvation**, **VI. Discipleship**, **VII. Glory**) finished.  
+> **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` (0 FAIL, 0 WARN) and deployed in `saints-modern-english` v0.3.0.
 
 ## Overview
 
-This directory contains Wave 1 of the **Saints Modern English** translation of the Greek New Testament, translated fresh from `Saints-Greek-Critical-Text` under the locked style policy ([`STYLE.md`](STYLE.md)) and shared term glossary ([`glossary.json`](glossary.json)).
+This directory contains the complete **Saints Modern English** translation of the Greek New Testament, translated fresh from `Saints-Greek-Critical-Text` under the locked style policy ([`STYLE.md`](STYLE.md)) and shared term glossary ([`glossary.json`](glossary.json)).
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms and original wording.
-- **Text-critical fidelity:** Preserves double brackets `⟦ ⟧` verbatim wherever present in the Saints Greek Critical Text (including Mark 16:9–20 and John 7:53–8:11).
+- **Text-critical fidelity:** Preserves double brackets `⟦ ⟧` verbatim wherever present in the Saints Greek Critical Text (including Matt 16:3, Mark 16:9–20, John 7:53–8:11, and Rom 16:24).
 - **Existing pilot preserved:** The original 10-passage Greek pilot (including OT pilot passages and projected colour/word-study layers) remains intact in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Directory Contents
@@ -19,11 +19,13 @@ This directory contains Wave 1 of the **Saints Modern English** translation of t
 - `json/` — Book-level structured JSON (`<NN-slug>.json`) containing `verses` keyed by `ch:v` and per-verse `notes`.
 - `markdown/` — Human-readable Markdown reading editions organized by book (`<NN-slug>/README.md` + `chapter-NN.md`).
 
-## Books Included (25 / 27 NT Books)
+## Books Included (27 / 27 NT Books — Complete)
 
 | # | Division | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---|---:|---:|---:|---|---|
+| 44 | V. Salvation | Matthew | 28 | 1,068 | 125 | [`markdown/44-matthew/`](markdown/44-matthew/README.md) | [`44-matthew.json`](json/44-matthew.json) |
 | 45 | V. Salvation | Mark | 16 | 673 | 72 | [`markdown/45-mark/`](markdown/45-mark/README.md) | [`45-mark.json`](json/45-mark.json) |
+| 46 | V. Salvation | Luke | 24 | 1,149 | 117 | [`markdown/46-luke/`](markdown/46-luke/README.md) | [`46-luke.json`](json/46-luke.json) |
 | 47 | V. Salvation | John | 21 | 878 | 102 | [`markdown/47-john/`](markdown/47-john/README.md) | [`47-john.json`](json/47-john.json) |
 | 48 | VI. Discipleship | Acts | 28 | 1,002 | 119 | [`markdown/48-acts/`](markdown/48-acts/README.md) | [`48-acts.json`](json/48-acts.json) |
 | 49 | VI. Discipleship | Romans | 16 | 433 | 70 | [`markdown/49-romans/`](markdown/49-romans/README.md) | [`49-romans.json`](json/49-romans.json) |
@@ -48,8 +50,3 @@ This directory contains Wave 1 of the **Saints Modern English** translation of t
 | 68 | VI. Discipleship | 3 John | 1 | 15 | 4 | [`markdown/68-3-john/`](markdown/68-3-john/README.md) | [`68-3-john.json`](json/68-3-john.json) |
 | 69 | VI. Discipleship | Jude | 1 | 25 | 4 | [`markdown/69-jude/`](markdown/69-jude/README.md) | [`69-jude.json`](json/69-jude.json) |
 | 70 | VII. Glory | Revelation | 22 | 405 | 114 | [`markdown/70-revelation/`](markdown/70-revelation/README.md) | [`70-revelation.json`](json/70-revelation.json) |
-
-### Remaining NT Books (Wave 2)
-
-- **44. Matthew** (28 chapters) — pending
-- **46. Luke** (24 chapters) — pending
