@@ -1,7 +1,7 @@
 # Saints Traditional English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — NKJV-Style (modern grammar + revered King James cadence), post-audit polished  
-> **Current Coverage:** **33 of 43 Greek OT books complete** (747 chapters, 18,564 verses + 18 additional `unplaced` items, 3,191 translator notes (+ 6 additional notes)).  
+> **Current Coverage:** **39 of 43 Greek OT books complete** (853 chapters, 21,942 verses + 18 additional `unplaced` items, 3,681 translator notes (+ 6 additional notes)).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` (Studio v9 Phase 2 / `50793ea`) with `validate_traditional_english.py --lang grc --strict` (`0` FAIL) and scholarly audit.
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 (+3) | 824 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,033 (+3) | 991 | [`II-Judgement/`](II-Judgement/README.md) |
+| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,411 (+3) | 1,481 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,691 (+12) | 1,096 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,049 | 280 | [`IV-Providence/`](IV-Providence/README.md) |
 
@@ -31,7 +31,7 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | 4 | Numbers | 36 | 1,285 (+2) | 172 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 149 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
-## Division II. Judgement (9 / 15)
+## Division II. Judgement (15 / 15 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -44,6 +44,12 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | 12 | 2 Kings | 25 | 718 (+1) | 116 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 929 (+1) | 138 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 159 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
+| 15 | Ezra | 10 | 280 | 51 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
+| 16 | Nehemiah | 13 | 387 | 64 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
+| 17 | Esther | 10 | 164 | 32 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
+| 18 | 1 Maccabees | 16 | 924 | 112 | [`II-Judgement/markdown/18-1-maccabees/`](II-Judgement/markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](II-Judgement/json/18-1-maccabees.json) |
+| 19 | 2 Maccabees | 15 | 555 | 65 | [`II-Judgement/markdown/19-2-maccabees/`](II-Judgement/markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](II-Judgement/json/19-2-maccabees.json) |
+| 20 | Job | 42 | 1,068 | 166 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
 
 ## Division III. Wisdom (7 / 7 Complete)
 
