@@ -1,10 +1,10 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` — **9 of 15 books complete**  
-> **Coverage:** 216 chapters, 6,033 verses, 1,131 translator notes  
+> **Status:** `draft: true` — **14 of 15 books complete**  
+> **Coverage:** 280 chapters, 8,343 verses, 1,491 translator notes  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
-## Books Included (9 / 15)
+## Books Included (14 / 15)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -17,12 +17,12 @@
 | 12 | 2 Kings | 25 | 718 | 132 | [`markdown/12-2-kings/`](markdown/12-2-kings/README.md) | [`12-2-kings.json`](json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 929 | 152 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 181 | [`markdown/14-2-chronicles/`](markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](json/14-2-chronicles.json) |
+| 15 | Ezra | 10 | 280 | 55 | [`markdown/15-ezra/`](markdown/15-ezra/README.md) | [`15-ezra.json`](json/15-ezra.json) |
+| 16 | Nehemiah | 13 | 387 | 70 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |
+| 17 | Esther | 10 | 164 | 39 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
+| 18 | 1 Maccabees | 16 | 924 | 122 | [`markdown/18-1-maccabees/`](markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](json/18-1-maccabees.json) |
+| 19 | 2 Maccabees | 15 | 555 | 74 | [`markdown/19-2-maccabees/`](markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](json/19-2-maccabees.json) |
 
-## Pending Books (6 / 15)
+## Pending Books (1 / 15)
 
-- **15. Ezra** — in progress
-- **16. Nehemiah** — in progress
-- **17. Esther** — in progress
-- **18. 1 Maccabees** — in progress
-- **19. 2 Maccabees** — in progress
 - **20. Job** — in progress
