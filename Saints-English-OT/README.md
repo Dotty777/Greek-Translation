@@ -1,7 +1,7 @@
 # Saints Traditional English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — NKJV-Style (modern grammar + revered King James cadence), post-audit polished  
-> **Current Coverage:** **27 of 43 Greek OT books complete** (621 chapters, 15,405 verses + 16 additional `unplaced` items, 2,689 translator notes (+ 4 additional notes)).  
+> **Current Coverage:** **33 of 43 Greek OT books complete** (747 chapters, 18,564 verses + 18 additional `unplaced` items, 3,191 translator notes (+ 6 additional notes)).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` (Studio v9 Phase 2 / `50793ea`) with `validate_traditional_english.py --lang grc --strict` (`0` FAIL) and scholarly audit.
 
 ## Overview
@@ -18,7 +18,7 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 (+3) | 824 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,033 (+3) | 991 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | In progress (1/7) | 1 / 7 | 151 | 2,532 (+10) | 594 | [`III-Wisdom/`](III-Wisdom/README.md) |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,691 (+12) | 1,096 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,049 | 280 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
@@ -45,11 +45,17 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | 13 | 1 Chronicles | 29 | 929 (+1) | 138 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 159 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
 
-## Division III. Wisdom (1 / 7)
+## Division III. Wisdom (7 / 7 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
 | 21 | Psalms | 151 | 2,532 (+10) | 594 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
+| 22 | Proverbs | 31 | 887 | 132 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
+| 23 | Ecclesiastes | 12 | 222 | 49 | [`III-Wisdom/markdown/23-ecclesiastes/`](III-Wisdom/markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](III-Wisdom/json/23-ecclesiastes.json) |
+| 24 | Song of Songs | 8 | 117 | 36 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |
+| 25 | Lamentations | 5 | 150 | 27 | [`III-Wisdom/markdown/25-lamentations/`](III-Wisdom/markdown/25-lamentations/README.md) | [`25-lamentations.json`](III-Wisdom/json/25-lamentations.json) |
+| 26 | Wisdom of Solomon | 19 | 434 | 65 | [`III-Wisdom/markdown/26-wisdom-of-solomon/`](III-Wisdom/markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](III-Wisdom/json/26-wisdom-of-solomon.json) |
+| 27 | Sirach | 51 | 1,349 (+2) | 193 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
 
 ## Division IV. Providence (12 / 16)
 
