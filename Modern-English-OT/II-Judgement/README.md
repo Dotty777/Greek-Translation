@@ -1,10 +1,10 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` — **14 of 15 books complete**  
-> **Coverage:** 280 chapters, 8,343 verses, 1,491 translator notes  
+> **Status:** `draft: true` — **Complete 15/15 books**  
+> **Coverage:** 322 chapters, 9,411 verses, 1,686 translator notes  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
-## Books Included (14 / 15)
+## Books Included (15 / 15 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -22,7 +22,4 @@
 | 17 | Esther | 10 | 164 | 39 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
 | 18 | 1 Maccabees | 16 | 924 | 122 | [`markdown/18-1-maccabees/`](markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](json/18-1-maccabees.json) |
 | 19 | 2 Maccabees | 15 | 555 | 74 | [`markdown/19-2-maccabees/`](markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](json/19-2-maccabees.json) |
-
-## Pending Books (1 / 15)
-
-- **20. Job** — in progress
+| 20 | Job | 42 | 1,068 | 195 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |

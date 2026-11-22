@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **42 of 43 OT books complete** (989 chapters, 25,124 verses, 4,814 translator notes; combined with Complete 27/27 NT = **69 of 70 complete Greek books**).  
+> **Current Coverage:** **ALL 43/43 OT books COMPLETE** (1,031 chapters, 26,192 verses, 5,009 translator notes; combined with Complete 27/27 NT = **70 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 916 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | In progress (14/15) | 14 / 15 | 280 | 8,343 | 1,491 | [`II-Judgement/`](II-Judgement/README.md) |
+| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,411 | 1,686 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,691 | 1,232 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,299 | 1,175 | [`IV-Providence/`](IV-Providence/README.md) |
 
@@ -31,7 +31,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 4 | Numbers | 36 | 1,285 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 167 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
-## Division II. Judgement (14 / 15)
+## Division II. Judgement (15 / 15 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -49,6 +49,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 17 | Esther | 10 | 164 | 39 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
 | 18 | 1 Maccabees | 16 | 924 | 122 | [`II-Judgement/markdown/18-1-maccabees/`](II-Judgement/markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](II-Judgement/json/18-1-maccabees.json) |
 | 19 | 2 Maccabees | 15 | 555 | 74 | [`II-Judgement/markdown/19-2-maccabees/`](II-Judgement/markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](II-Judgement/json/19-2-maccabees.json) |
+| 20 | Job | 42 | 1,068 | 195 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
 
 ## Division III. Wisdom (7 / 7 Complete)
 
