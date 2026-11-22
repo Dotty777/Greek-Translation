@@ -31,9 +31,9 @@
 
 **12:16** for Adadai, Zechariah; for Ganathoth, Meshullam;
 
-**12:17** for Abijah, Zichri; for Mijamin, Maadai; for Piltai; for Bilgah, Shammua; for Shemaiah, Jonathan;
+**12:17** for Abijah, Zichri; for Mijamin, Maadai; for Piltai;
 
-**12:19** for Joiarib, Mattenai; for Edius, Uzzi;
+**12:19** for Bilgah, Shammua; for Shemaiah, Jonathan; for Joiarib, Mattenai; for Edius, Uzzi;
 
 **12:20** for Sallai, Kallai; for Amok, Abed;
 
@@ -88,7 +88,7 @@
 ## Translator Notes
 
 - **12:8** — Machaniah reflects the Greek name Machania (corresponding to Mattaniah in the Hebrew text; likewise Nathaniah in 12:35 and 13:13). "Over the hands" literally translates Greek epi ton cheiron, reflecting a reading of the Hebrew term for "thanksgivings" as "hands."
-- **12:15** — Are and Mannas preserve distinct Greek forms of the names corresponding to Harim and Adna in the Hebrew text; verses 14-24 preserve several other Greek-distinct name forms (Amaluch, Shecaniah, Adadai, Ganathoth, Edius, Abed, Isdeiu, Joa, Habiah), and verse 17 incorporates the names of verse 18 while leaving Piltai unpaired.
+- **12:15** — Are and Mannas preserve distinct Greek forms of the names corresponding to Harim and Adna in the Hebrew text; verses 14-24 preserve several other Greek-distinct name forms (Amaluch, Shecaniah, Adadai, Ganathoth, Edius, Abed, Isdeiu, Joa, Habiah); verse 17 leaves Piltai unpaired, and verse 19 incorporates the names of verse 18.
 - **12:27** — The term "tholatha" is an untranslated Greek transliteration of the Hebrew word for "thanksgivings" (todot, with lambda for delta).
 - **12:37** — "Gate of Praising" literally translates Greek pyles tou ainein (Hebrew has "Fountain Gate"), and "cities of David" preserves the Greek plural. The Greek text omits verse 38 and the beginning of verse 39, connecting "Water Gate" directly to "of Ephraim."
 - **12:44** — "For the leaders of the cities gathered in them" follows the Greek tois synegmenois en autois archousin ton poleon, reflecting a reading of Hebrew "fields" as "leaders."

@@ -79,4 +79,4 @@
 - **2:3** — The Greek text uniquely reads 'toward the south, toward the east' (kata noton kat' anatolas), where the Hebrew has 'eastward, toward the sunrise.'
 - **2:18** — 'By the sea' (para thalassan) is a literal Septuagint rendering of the Hebrew directional idiom for 'westward' (toward the Mediterranean Sea).
 - **2:21** — The Greek text reads 'thirty-two thousand four hundred' (tetrakosioi), whereas the Hebrew has 32,200 (which aligns with the division total of 108,100 in 2:24).
-- **2:26** — The Greek text reads 'sixty-two thousand five hundred' (pentakosioi), whereas the Hebrew has 62,700 (which aligns with the division total of 157,600 in 2:31, where the Greek text uses the numeral abbreviation 'n' for fifty).
+- **2:26** — The Greek text reads 'sixty-two thousand five hundred' (pentakosioi), whereas the Hebrew has 62,700 (which aligns with the division total of 157,600 in 2:31).
