@@ -1,0 +1,44 @@
+# 3 John 1 — Saints Traditional English (Greek NT)
+
+> **Status:** `draft: true` (NKJV-Style; 15 verses, 5 translator notes)  
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`3 John`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**1:1** The elder, to Gaius the beloved, whom I love in truth.
+
+**1:2** Beloved, above all things I pray that you may prosper and be in good health, even as your soul prospers.
+
+**1:3** For I rejoiced exceedingly when brethren came and bore witness to your truth, even as you walk in truth.
+
+**1:4** I have no greater joy than this: to hear that my own children walk in the truth.
+
+**1:5** Beloved, you act faithfully in whatever you perform for the brethren, even though they are strangers,
+
+**1:6** who have borne witness to your love before the church. You will do well to send them onward in a manner worthy of God.
+
+**1:7** For on behalf of the Name they went forth, taking nothing from the Gentiles.
+
+**1:8** We therefore ought to support such men, that we may become fellow workers for the truth.
+
+**1:9** I wrote something to the church, but Diotrephes, who loves to be first among them, does not receive us.
+
+**1:10** For this reason, if I come, I will bring to remembrance his deeds which he does, disparaging us with wicked words; and not content with these things, he himself does not receive the brethren, and he hinders those who desire to do so and casts them out of the church.
+
+**1:11** Beloved, do not imitate that which is evil, but that which is good. He who does good is of God; he who does evil has not seen God.
+
+**1:12** Demetrius has received a good witness from all, and from the truth itself; moreover, we also bear witness, and you know that our witness is true.
+
+**1:13** I had many things to write to you, but I do not desire to write to you with ink and pen;
+
+**1:14** rather, I hope to see you soon, and we shall speak face to face.
+
+**1:15** Peace be to you. The friends greet you. Greet each of the friends by name.
+
+## Translator Notes
+
+- **1:2** — The Greek phrase peri panton ("above all things") is a common epistolary formula that can alternatively mean "in all respects," modifying "prosper and be in good health."
+- **1:5** — Translates the critical Greek reading kai touto xenous ("and that though they are strangers"), emphasizing Gaius's faithful hospitality toward traveling brethren he did not personally know.
+- **1:7** — The critical Greek text reads simply tou onomatos ("the Name"), an absolute reference to Christ (compare Acts 5:41), without the possessive pronoun "His" found in some later manuscripts.
+- **1:9** — The critical Greek text includes ti ("something"), referring to an earlier brief letter sent by the elder to the church.
+- **1:14** — The Greek idiom stoma pros stoma is literally "mouth to mouth," denoting direct personal conversation, rendered here as "face to face."

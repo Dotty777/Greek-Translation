@@ -1,0 +1,40 @@
+# 2 John 1 — Saints Traditional English (Greek NT)
+
+> **Status:** `draft: true` (NKJV-Style; 13 verses, 5 translator notes)  
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 John`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**1:1** The Elder, to the elect lady and to her children, whom I love in truth, and not I alone, but also all who have come to know the truth,
+
+**1:2** on account of the truth that abides in us and shall be with us forever.
+
+**1:3** Grace, mercy, and peace shall be with us from God the Father and from Jesus Christ, the Son of the Father, in truth and love.
+
+**1:4** I rejoiced exceedingly that I have found some of your children walking in truth, even as we received a commandment from the Father.
+
+**1:5** And now I implore you, lady—not as though writing a new commandment to you, but that which we had from the beginning—that we love one another.
+
+**1:6** And this is love, that we walk according to His commandments; this is the commandment, even as you heard from the beginning, that you walk in it.
+
+**1:7** For many deceivers have gone forth into the world, those who do not confess Jesus Christ as coming in the flesh; this one is the deceiver and the antichrist.
+
+**1:8** Take heed to yourselves, that you do not lose the things for which we have labored, but that you may receive a full reward.
+
+**1:9** Everyone who goes ahead and does not abide in the doctrine of Christ does not have God; the one who abides in the doctrine has both the Father and the Son.
+
+**1:10** If anyone comes to you and does not bring this doctrine, do not welcome him into your house, and do not offer him a greeting;
+
+**1:11** for the one who offers him a greeting partakes in his evil works.
+
+**1:12** Although I have many things to write to you, I did not desire to do so with paper and ink; rather, I hope to come to you and speak face to face, that your joy may be made full.
+
+**1:13** The children of your elect sister send greetings to you.
+
+## Translator Notes
+
+- **1:1** — The phrase 'elect lady' (Greek eklekte kyria) is understood either as a personification of a local church and its members ('her children') or as an individual Christian woman and her family.
+- **1:3** — The Greek text reads 'with us' (hemon) and 'from Jesus Christ', whereas later manuscripts read 'with you' (hymon) and add 'the Lord' before 'Jesus Christ'.
+- **1:8** — The Greek text shifts from second person plural ('you do not lose ... you may receive') to first person plural ('we have labored for'), referring to the apostolic work done among them; some manuscripts harmonize all three verbs to the same person.
+- **1:9** — The Greek participle proagon literally means 'goes ahead' or 'goes beyond', referring to moving past the bounds of apostolic teaching; some later manuscripts read parabainon ('transgresses') and add 'of Christ' after 'doctrine' in the second clause.
+- **1:12** — The Greek text reads 'your joy' (hymon), while other manuscripts read 'our joy' (hemon); 'face to face' is literally 'mouth to mouth'.
