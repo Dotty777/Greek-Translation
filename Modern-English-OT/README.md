@@ -10,6 +10,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms, own-source Greek fidelity (`κύριος` → `the Lord`), and original wording.
 - **Saints.Bible versification:** Chapter and verse keys match `Saints-Greek-Critical-Text` and the Saints.Bible Parallel Reader (including LXX Psalm numbering 1–151 and Sirach Prologue `0:0`).
+- **Prologue & additional critical-text verses (`unplaced`):** Includes the **Sirach Prologue** (`III-Wisdom/markdown/27-sirach/chapter-01.md`, `## Prologue`) and all **32 OT `no-site-verse` items** across Exodus, Numbers, 1 Samuel, 2 Kings, 1 Chronicles, Psalms, Sirach, Ezekiel, and Theodotion Daniel (`33` total OT `unplaced` items in book `json/*.json` and chapter Markdown).
 - **Related directories:** Complete 27/27 NT in [`../Modern-English-NT/`](../Modern-English-NT/README.md); original reviewed pilot & projected layers in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Divisions

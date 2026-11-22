@@ -1,7 +1,7 @@
 # Psalm 46 — Saints Modern English (Greek Septuagint)
 
 > **Status:** `draft: true` (10 verses, 2 translator notes)  
-> **Source basis:** `Saints-Greek-Critical-Text` (LXX numbering) · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 

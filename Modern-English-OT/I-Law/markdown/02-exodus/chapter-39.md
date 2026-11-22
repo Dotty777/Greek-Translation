@@ -1,6 +1,6 @@
 # Exodus 39 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,9 +47,14 @@
 
 **39:23** And Moses saw all the works, and they had done them in the manner the Lord commanded Moses; so they did them. And Moses blessed them.
 
+## Additional Verses (Not in Saints Numbering)
+
+**39:15** *(after `39:13`)* And you shall enclose the tent, and you shall sanctify all that belongs to it all around. And you shall anoint the altar of burnt offerings and all its utensils,
+
 ## Translator Notes
 
 - **39:1** — The Septuagint gives seven hundred twenty shekels of gold (Hebrew Masoretic Text: seven hundred thirty) and refers to 'the holy shekel.'
 - **39:2** — Greek renders the half-shekel weight (Hebrew beka) with the Hellenistic measure 'one drachma.'
 - **39:4** — Greek repeats 'one hundred' before both the capitals of the tent and the capitals of the curtain, while keeping the total at one hundred capitals for one hundred talents.
 - **39:6** — The Septuagint records seventy talents and one thousand five hundred shekels of bronze, where the Hebrew Masoretic Text reads two thousand four hundred shekels.
+- **39:15 *(additional)*** — Appears in the Greek critical text as an unplaced verse between 39:13 and 39:15, matching the consecration command of 40:8.

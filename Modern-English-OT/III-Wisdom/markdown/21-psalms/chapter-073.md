@@ -1,7 +1,7 @@
 # Psalm 73 — Saints Modern English (Greek Septuagint)
 
 > **Status:** `draft: true` (23 verses, 5 translator notes)  
-> **Source basis:** `Saints-Greek-Critical-Text` (LXX numbering) · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 

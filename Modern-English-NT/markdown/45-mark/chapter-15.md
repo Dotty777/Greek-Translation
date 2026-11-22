@@ -1,6 +1,6 @@
 # Mark 15 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (46 verses, 4 translator notes)  
+> **Status:** `draft: true` (46 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -97,9 +97,14 @@
 
 **15:47** Now Mary Magdalene and Mary the mother of Joses were watching where He had been laid.
 
+## Additional Verses (Not in Saints Numbering)
+
+**15:28** *(after `15:27`)* ⟦And the Scripture was fulfilled that says, "And He was counted with the lawless."⟧
+
 ## Translator Notes
 
 - **15:25** — "The third hour" corresponds to roughly 9:00 a.m. in ancient daylight reckoning; likewise, the sixth and ninth hours in 15:33-34 correspond to about noon and 3:00 p.m.
 - **15:27** — The earliest and best Greek manuscripts omit verse 28 ("And the Scripture was fulfilled that says, 'He was numbered with the transgressors'"), which entered later manuscripts from Luke 22:37.
 - **15:34** — Jesus quotes Psalm 22:1 in Aramaic ("Eloi, Eloi, lema sabachthani?"), whose opening sounds resemble the name Elijah, explaining the bystanders' misunderstanding in verse 35.
 - **15:39** — The Greek phrase "huios theou" lacks the definite article before the verb and can be translated either "the Son of God" (aligning with Mark 1:1) or "a son of God" (reflecting a Roman centurion's vantage point).
+- **15:28 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

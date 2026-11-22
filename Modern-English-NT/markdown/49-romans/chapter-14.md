@@ -1,6 +1,6 @@
 # Romans 14 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (23 verses, 4 translator notes)  
+> **Status:** `draft: true` (23 verses, 4 translator notes, 3 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Romans`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -51,9 +51,18 @@
 
 **14:23** but the one who doubts stands condemned if he eats, because it is not from faith; and everything that is not from faith is sin.
 
+## Additional Verses (Not in Saints Numbering)
+
+**14:24** *(after `14:23`)* ⟦Now to Him who is able to strengthen you according to my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery kept silent through eternal ages,⟧
+
+**14:25** *(after `14:23`)* ⟦but now manifested, and through the prophetic Scriptures, according to the command of the eternal God, made known to all the nations for the obedience of faith,⟧
+
+**14:26** *(after `14:23`)* ⟦to the only wise God, through Jesus Christ, to whom be the glory forever. Amen.⟧
+
 ## Translator Notes
 
 - **14:1** — The phrase "not for disputes over opinions" (Greek me eis diakriseis dialogismon) literally means "not for passing judgment on thoughts/opinions" and can refer either to avoiding quarrels over debatable matters or to refraining from judging the weak believer's scruples.
 - **14:13** — Paul plays on two senses of the Greek verb krino: "let us no longer judge (krinomen) one another, but rather decide (krinate) this."
 - **14:14** — "Unclean" translates Greek koinos (literally "common"), used in Jewish Greek to denote what is ritually defiled or profane.
 - **14:21** — The Greek text here preserves the fuller wording "or is tripped up, or is made weak" (e skandalizetai e asthenei), which is omitted in several early manuscripts.
+- **14:24 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; some Greek manuscripts place this doxology at the end of chapter 14 rather than 16:25-27.

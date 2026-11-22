@@ -12,13 +12,13 @@
 - [Chapter 4](chapter-04.md) — 41 verses, 4 notes
 - [Chapter 5](chapter-05.md) — 43 verses, 4 notes
 - [Chapter 6](chapter-06.md) — 56 verses, 5 notes
-- [Chapter 7](chapter-07.md) — 36 verses, 4 notes
+- [Chapter 7](chapter-07.md) — 36 verses, 4 notes, +1 additional
 - [Chapter 8](chapter-08.md) — 38 verses, 4 notes
-- [Chapter 9](chapter-09.md) — 48 verses, 5 notes
+- [Chapter 9](chapter-09.md) — 48 verses, 5 notes, +2 additional
 - [Chapter 10](chapter-10.md) — 52 verses, 5 notes
-- [Chapter 11](chapter-11.md) — 32 verses, 5 notes
+- [Chapter 11](chapter-11.md) — 32 verses, 5 notes, +1 additional
 - [Chapter 12](chapter-12.md) — 44 verses, 4 notes
 - [Chapter 13](chapter-13.md) — 37 verses, 4 notes
 - [Chapter 14](chapter-14.md) — 72 verses, 8 notes
-- [Chapter 15](chapter-15.md) — 46 verses, 4 notes
+- [Chapter 15](chapter-15.md) — 46 verses, 4 notes, +1 additional
 - [Chapter 16](chapter-16.md) — 20 verses, 3 notes

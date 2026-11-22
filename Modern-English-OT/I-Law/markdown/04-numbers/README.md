@@ -21,12 +21,12 @@
 - [Chapter 13](chapter-13.md) — 33 verses, 5 notes
 - [Chapter 14](chapter-14.md) — 45 verses, 5 notes
 - [Chapter 15](chapter-15.md) — 41 verses, 5 notes
-- [Chapter 16](chapter-16.md) — 35 verses, 5 notes
+- [Chapter 16](chapter-16.md) — 35 verses, 5 notes, +1 additional
 - [Chapter 17](chapter-17.md) — 28 verses, 4 notes
 - [Chapter 18](chapter-18.md) — 32 verses, 5 notes
 - [Chapter 19](chapter-19.md) — 22 verses, 5 notes
 - [Chapter 20](chapter-20.md) — 29 verses, 4 notes
-- [Chapter 21](chapter-21.md) — 34 verses, 6 notes
+- [Chapter 21](chapter-21.md) — 34 verses, 6 notes, +1 additional
 - [Chapter 22](chapter-22.md) — 41 verses, 5 notes
 - [Chapter 23](chapter-23.md) — 30 verses, 5 notes
 - [Chapter 24](chapter-24.md) — 25 verses, 5 notes

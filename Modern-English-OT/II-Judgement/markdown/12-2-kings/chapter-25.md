@@ -1,6 +1,6 @@
 # 2 Kings 25 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -62,6 +62,10 @@
 **25:29** And he changed the garments of his imprisonment, and he ate bread continually before him all the days of his life.
 
 **25:30** And his food allowance was a continual food allowance; it was given to him from the house of the king, a day's portion in its day, all the days of his life.
+
+## Additional Verses (Not in Saints Numbering)
+
+**25:10** *(after `25:9`)* And the army of the Chaldeans tore down the wall of Jerusalem all around.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Mark 7 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (36 verses, 4 translator notes)  
+> **Status:** `draft: true` (36 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -77,9 +77,14 @@
 
 **7:37** And they were astonished beyond all measure, saying, "He has done all things well; He makes both the deaf hear and the mute speak."
 
+## Additional Verses (Not in Saints Numbering)
+
+**7:16** *(after `7:15`)* ⟦If anyone has ears to hear, let him hear.⟧
+
 ## Translator Notes
 
 - **7:3** — Greek pygme literally means 'with the fist,' a debated idiom variously understood as washing with a cupped hand, up to the wrist, or thoroughly; some manuscripts read pykna ('often').
 - **7:15** — Verse 16 ('If anyone has ears to hear, let him hear') is absent from the earliest and best manuscripts and is omitted in this critical text.
 - **7:19** — The masculine participle katharizon ('declaring clean,' literally 'cleansing') refers back to Jesus ('He said' in v. 18), marking Mark's editorial comment on the implication of the saying.
 - **7:22** — 'An evil eye' (ophthalmos poneros) is a literal idiom denoting envy, stinginess, or grudging malice.
+- **7:16 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

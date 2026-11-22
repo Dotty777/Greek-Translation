@@ -1,6 +1,6 @@
 # Luke 17 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (36 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -77,6 +77,10 @@
 
 **17:37** And answering, they said to Him, "Where, Lord?" And He said to them, "Where the body is, there the vultures will also be gathered together."
 
+## Additional Verses (Not in Saints Numbering)
+
+**17:36** *(after `17:35`)* ⟦Two will be in the field; the one will be taken, and the other will be left.⟧
+
 ## Translator Notes
 
 - **17:10** — "Unworthy" translates Greek achreioi, which literally means "useless" or "unprofitable," referring here to slaves who have earned no special merit beyond their required duty.
@@ -84,3 +88,4 @@
 - **17:21** — The Greek phrase entos hymon is debated and can mean either "in your midst" (among you) or "within you."
 - **17:35** — Verse 36 ("Two men will be in the field; one will be taken and the other will be left") is absent from the earliest and best Greek manuscripts and is omitted in the critical text.
 - **17:37** — The Greek word aetoi can mean either "vultures" or "eagles"; "vultures" fits the proverb's imagery of carrion birds gathering around a body (soma).
+- **17:36 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

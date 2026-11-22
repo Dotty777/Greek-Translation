@@ -1,7 +1,7 @@
 # Psalm 71 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
-> **Source basis:** `Saints-Greek-Critical-Text` (LXX numbering) · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+> **Status:** `draft: true` (20 verses, 5 translator notes, 1 additional)  
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
@@ -44,6 +44,10 @@
 **71:19** and blessed is the name of His glory forever, and forever and ever; and all the earth will be filled with His glory. May it be so, may it be so.
 
 **71:20** The hymns of David, the son of Jesse, have come to an end.
+
+## Additional Verses (Not in Saints Numbering)
+
+**71:24** *(after `71:20`)* For Solomon.
 
 ## Translator Notes
 

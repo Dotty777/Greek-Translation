@@ -10,6 +10,7 @@ This directory contains the complete **Saints Modern English** translation of th
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms and original wording.
 - **Text-critical fidelity:** Preserves double brackets `⟦ ⟧` verbatim wherever present in the Saints Greek Critical Text (including Matt 16:3, Mark 16:9–20, John 7:53–8:11, and Rom 16:24).
+- **Additional critical-text verses (`unplaced`):** All **18 bracketed NT `no-site-verse` items** (Matt 17:21, 18:11, 23:14; Mark 7:16, 9:44, 9:46, 11:26, 15:28; Luke 17:36, 23:17; John 5:4; Acts 8:37, 15:34, 24:7, 28:29; Rom 14:24–26) are included in book `json/*.json` (`unplaced` array) and chapter Markdown (`## Additional Verses (Not in Saints Numbering)`).
 - **Related directories:** Old Testament in [`../Modern-English-OT/`](../Modern-English-OT/README.md); original reviewed pilot & projected layers in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Books Included (27 / 27 NT Books — Complete)

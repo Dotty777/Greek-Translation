@@ -1,6 +1,6 @@
 # Daniel 4 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 5 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -62,6 +62,18 @@
 **4:36** At that very time my understanding returned to me, and I came into the honor of my kingdom; and my appearance returned to me, and my rulers and my nobles sought me out, and I was firmly established over my kingdom, and surpassing greatness was added to me.
 
 **4:37** King Nebuchadnezzar to all the peoples, tribes, and languages who dwell in all the earth: May peace be multiplied to you. The signs and the wonders that the Most High God did with me, it has seemed good before me to declare to you. How great and mighty they are! His kingdom is an everlasting kingdom; His authority is from generation to generation. Now therefore, I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because all His works are true and His paths are justice, and all those who walk in pride He is able to humble.
+
+## Additional Verses (Not in Saints Numbering)
+
+**4:6** *(after `4:5`)* And a decree was issued by me to bring in before me all the wise men of Babylon, so that they might make known to me the interpretation of the dream.
+
+**4:7** *(after `4:5`)* And the enchanters, magicians, diviners, and Chaldeans came in, and I myself told the dream before them; and they did not make known its interpretation to me,
+
+**4:8** *(after `4:5`)* until Daniel came, whose name is Baltasar according to the name of my god, who has a holy spirit of God in himself. To him I said,
+
+**4:9** *(after `4:5`)* "Baltasar, chief of the enchanters, of whom I know that a holy spirit of God is in you and no mystery is beyond your ability, hear the vision of the dream that I saw, and tell me its interpretation."
+
+**4:35** *(after `4:34`)* And all those who dwell on the earth were accounted as nothing; and He acts according to His will in the power of heaven and in the habitation of the earth, and there is no one who can resist His hand and say to Him, "What have You done?"
 
 ## Translator Notes
 

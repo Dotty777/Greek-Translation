@@ -1,6 +1,6 @@
 # Ezekiel 20 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (44 verses, 5 translator notes)  
+> **Status:** `draft: true` (44 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -92,6 +92,10 @@
 **20:43** And there you will remember your ways and your practices in which you were defiling yourselves, and you will beat your faces over all your evils.
 
 **20:44** And you will know that I am the Lord, when I act in this way toward you so that My name may not be profaned according to your evil ways and according to your corrupted practices, says the Lord.'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**20:45** *(after `20:44`)* And the word of the Lord came to me, saying,
 
 ## Translator Notes
 

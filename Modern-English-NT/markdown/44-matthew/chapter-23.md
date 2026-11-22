@@ -1,6 +1,6 @@
 # Matthew 23 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (38 verses, 4 translator notes)  
+> **Status:** `draft: true` (38 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -81,9 +81,14 @@
 
 **23:39** For I say to you, from now on you will certainly not see Me until you say, 'Blessed is He who comes in the name of the Lord.'"
 
+## Additional Verses (Not in Saints Numbering)
+
+**23:14** *(after `23:13`)* ⟦Woe to you, scribes and Pharisees, hypocrites, because you devour the houses of widows, and for a pretense pray at great length; for this reason you will receive greater condemnation.⟧
+
 ## Translator Notes
 
 - **23:8** — The Saints Greek Critical Text reads καθηγητής ("instructor" or "guide") here as in 23:10, rather than διδάσκαλος ("teacher") found in other manuscripts, preserving the lexical parallel between both verses.
 - **23:13** — Verse 14 (a woe regarding devouring widows' houses, parallel to Mark 12:40 and Luke 20:47) is absent from the earliest Greek manuscripts and is not present in this critical text.
 - **23:15** — "Gehenna" transliterates Greek γέεννα (from Hebrew Ge-Hinnom, the Valley of Hinnom south of Jerusalem), used in the Gospels to designate the place of final judgment.
 - **23:35** — The Old Testament prophet Zechariah was the son of Berechiah (Zech 1:1), whereas the Zechariah killed in the temple court in 2 Chronicles 24:20-22 was the son of Jehoiada; paired with Abel (Gen 4), the saying spans the righteous blood shed from the first to the last book of the Hebrew canon.
+- **23:14 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

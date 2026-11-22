@@ -1,6 +1,6 @@
 # Acts 15 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -85,6 +85,10 @@
 
 **15:41** And he went through Syria and Cilicia, strengthening the churches.
 
+## Additional Verses (Not in Saints Numbering)
+
+**15:34** *(after `15:33`)* ⟦Yet it seemed good to Silas to remain there.⟧
+
 ## Translator Notes
 
 - **15:14** — "Simeon" (Symeon) is the Semitic form of Peter's Hebrew name Simon, fitting James's Jerusalem setting.
@@ -92,3 +96,4 @@
 - **15:20** — "Pollutions" (alisgema) is a rare word occurring only here in the New Testament, clarified in the council's letter (v. 29) as "things sacrificed to idols."
 - **15:23** — The critical text reads "the apostles and the elders, brothers" in apposition, whereas later manuscripts insert "and the" before "brothers."
 - **15:33** — The earliest manuscripts omit verse 34 (present in later manuscripts: "But it seemed good to Silas to remain there"), so verse numbering proceeds directly to 15:35.
+- **15:34 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

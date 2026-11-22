@@ -1,7 +1,7 @@
 # Psalm 27 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (9 verses, 4 translator notes)  
-> **Source basis:** `Saints-Greek-Critical-Text` (LXX numbering) · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+> **Status:** `draft: true` (9 verses, 4 translator notes, 1 additional)  
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
@@ -22,6 +22,10 @@
 **27:8** The Lord is the strength of His people and the defender of the deliverances of His anointed one.
 
 **27:9** Save Your people and bless Your inheritance, and shepherd them and raise them up forever.
+
+## Additional Verses (Not in Saints Numbering)
+
+**27:14** *(after `27:9`)* Of David.
 
 ## Translator Notes
 

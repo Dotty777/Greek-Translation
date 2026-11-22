@@ -1,6 +1,6 @@
 # Mark 11 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -69,6 +69,10 @@
 
 **11:33** And answering Jesus, they said, "We do not know." And Jesus said to them, "Neither am I telling you by what authority I do these things."
 
+## Additional Verses (Not in Saints Numbering)
+
+**11:26** *(after `11:25`)* ⟦But if you do not forgive, neither will your Father who is in heaven forgive your transgressions.⟧
+
 ## Translator Notes
 
 - **11:3** — The closing clause ("and immediately He will send it back here") can be punctuated either as part of the disciples' promise that the Lord will promptly return the colt, or as Jesus' assurance that the owner will immediately send it to Him.
@@ -76,3 +80,4 @@
 - **11:24** — The Greek aorist "have received" (elabete) vividly expresses the certainty of the answer to prayer as already secured.
 - **11:25** — The verse numbered 11:26 in later manuscripts (a parallel to Matthew 6:15) is absent from the earliest Greek manuscripts and from this source text.
 - **11:32** — The leaders' question breaks off mid-thought (aposiopesis) as the narrator interjects the reason for their hesitation.
+- **11:26 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

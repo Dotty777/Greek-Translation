@@ -1,6 +1,6 @@
 # Daniel 6 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (28 verses, 4 translator notes)  
+> **Status:** `draft: true` (28 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -60,6 +60,10 @@
 **6:28** He helps and delivers, and performs signs and wonders in heaven and on the earth, He who rescued Daniel from the hand of the lions."
 
 **6:29** And Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.
+
+## Additional Verses (Not in Saints Numbering)
+
+**6:16** *(after `6:15`)* Then those men said to the king, "Know, king, that it is the decree for Medes and Persians that no injunction or statute that the king establishes may be altered."
 
 ## Translator Notes
 

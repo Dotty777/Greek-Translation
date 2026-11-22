@@ -1,6 +1,6 @@
 # Acts 24 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (26 verses, 2 translator notes)  
+> **Status:** `draft: true` (26 verses, 2 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -57,7 +57,12 @@
 
 **24:27** When two years had passed, Felix received Porcius Festus as his successor; and wanting to gain favor with the Jews, Felix left Paul in chains.
 
+## Additional Verses (Not in Saints Numbering)
+
+**24:7** *(after `24:6`)* ⟦But Lysias the tribune came by and with great force took him away out of our hands,⟧
+
 ## Translator Notes
 
 - **24:6** — The earliest manuscripts omit the material traditionally numbered as verse 7 (along with portions of verses 6 and 8) describing Lysias intervening by force; in the shorter text, "from him" in 24:8 refers directly to Paul.
 - **24:19** — The Greek syntax breaks off abruptly (anacoluthon) after introducing "some Jews from Asia," shifting directly to the relative clause stating what they ought to have done.
+- **24:7 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

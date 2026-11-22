@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 8 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,24 @@
 
 **5:30** In that very night Baltasar the king of the Chaldeans was killed.
 
+## Additional Verses (Not in Saints Numbering)
+
+**5:14** *(after `5:13`)* I have heard about you, that a spirit of God is in you, and watchfulness and surpassing wisdom were found in you.
+
+**5:15** *(after `5:13`)* And now the wise men, magicians, and diviners came in before me to read this writing and make known its interpretation to me, and they were not able to declare it to me.
+
+**5:18** *(after `5:17`)* King, the Most High God gave the kingdom and the greatness and the honor and the glory to Nebuchadnezzar your father,
+
+**5:19** *(after `5:17`)* and because of the greatness that He gave him, all the peoples, tribes, and languages were trembling and fearing before him; whom he wished, he put to death, and whom he wished, he struck, and whom he wished, he exalted, and whom he wished, he humbled.
+
+**5:20** *(after `5:17`)* And when his heart was lifted up and his spirit grew hardened to act arrogantly, he was brought down from the throne of the kingdom, and the honor was taken away from him,
+
+**5:21** *(after `5:17`)* and he was driven away from human beings, and his heart was given to be with the wild beasts, and his dwelling was with wild donkeys, and they fed him grass like an ox, and his body was drenched with the dew of heaven, until he knew that the Most High God rules over the kingdom of human beings, and to whomever He chooses, He will give it.
+
+**5:22** *(after `5:17`)* And you therefore, his son Baltasar, have not humbled your heart before God; did you not know all these things?
+
+**5:24** *(after `5:23`)* Therefore from His presence the knuckle of a hand was sent, and it inscribed this writing.
+
 ## Translator Notes
 
 - **5:1** — Greek uses Baltasar for King Belshazzar (the same spelling as Daniel's Babylonian name in 4:18-19 and 5:12) and concludes the verse with the verbless clause "before the thousand was the wine."
@@ -54,3 +72,5 @@
 - **5:11** — Greek γρηγόρησις ("watchfulness" or "alertness") reflects a reading related to wakefulness where the Aramaic MT has "illumination/insight."
 - **5:17** — Greek reads three inscribed words ("Mane, Thekel, Phares") rather than the Aramaic MT's four ("Mene, Mene, Tekel, Upharsin"); verses 5:14-15, 5:18-22, and 5:24-25 of the MT are absent from this Greek text.
 - **5:27** — Greek ὑστεροῦσα is feminine singular ("it [your kingdom] ... found lacking"), whereas the Aramaic MT addresses the king directly in the second person ("you have been weighed ... and found deficient").
+- **5:22 *(additional)*** — The Greek reads the rhetorical question 'did you not know all these things?' (ou panta tauta egnos) where the Aramaic reads 'even though you knew all this.'
+- **5:24 *(additional)*** — Greek astragalos cheiros literally means 'the knuckle [or wrist/palm joint] of a hand,' matching 'knuckles of the hand' in 5:5.

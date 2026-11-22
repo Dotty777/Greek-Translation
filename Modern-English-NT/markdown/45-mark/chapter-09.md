@@ -1,6 +1,6 @@
 # Mark 9 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes)  
+> **Status:** `draft: true` (48 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -101,6 +101,12 @@
 
 **9:50** Salt is good; but if the salt becomes unsalty, with what will you season it? Have salt in yourselves, and be at peace with one another."
 
+## Additional Verses (Not in Saints Numbering)
+
+**9:44** *(after `9:43`)* ⟦where their worm does not perish, and the fire is not quenched.⟧
+
+**9:46** *(after `9:45`)* ⟦where their worm does not perish, and the fire is not quenched.⟧
+
 ## Translator Notes
 
 - **9:16** — The Greek text reads the reflexive pronoun 'αὑτούς' ('among yourselves' / 'with one another'); other editions read 'αὐτούς' ('with them', referring to the disciples).
@@ -108,3 +114,5 @@
 - **9:29** — The earliest manuscripts end the verse with 'by prayer'; later manuscripts add 'and fasting'.
 - **9:43** — 'Gehenna' transliterates the Greek name for the Valley of Hinnom outside Jerusalem, used for the place of final fiery judgment. Verses 44 and 46, which repeat verse 48 in later manuscripts, are absent from the earliest witnesses.
 - **9:49** — This concise saying links fiery testing with the Old Testament practice of seasoning sacrifices with salt (Leviticus 2:13); later manuscripts expand it with 'and every sacrifice will be salted with salt'.
+- **9:44 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts (compare 9:48).
+- **9:46 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts (compare 9:48).

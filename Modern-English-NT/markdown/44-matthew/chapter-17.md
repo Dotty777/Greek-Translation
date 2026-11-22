@@ -1,6 +1,6 @@
 # Matthew 17 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes)  
+> **Status:** `draft: true` (26 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -57,9 +57,14 @@
 
 **17:27** Yet so that we do not offend them, go to the sea, cast a hook, and take the first fish that comes up; and when you open its mouth, you will find a stater. Take that and give it to them for Me and for you."
 
+## Additional Verses (Not in Saints Numbering)
+
+**17:21** *(after `17:20`)* ⟦Yet this kind does not go out except by prayer and fasting.⟧
+
 ## Translator Notes
 
 - **17:15** — Greek seleniazetai literally means "is moonstruck," the ancient term for epilepsy or recurring seizures.
 - **17:20** — Greek oligopistian means "little faith" rather than "unbelief." Verse 21 ("But this kind does not go out except by prayer and fasting") is absent from the earliest manuscripts and is omitted in this critical text.
 - **17:24** — Greek ta didrachma ("the two-drachma") refers to the annual half-shekel temple tax paid by adult Jewish males (Exod 30:13).
 - **17:27** — A stater was a silver coin worth four drachmas, the exact sum required to pay the two-drachma temple tax for both Jesus and Peter.
+- **17:21 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

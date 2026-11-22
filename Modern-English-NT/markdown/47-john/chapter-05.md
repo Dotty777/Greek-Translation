@@ -1,6 +1,6 @@
 # John 5 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (46 verses, 4 translator notes)  
+> **Status:** `draft: true` (46 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`John`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -97,9 +97,14 @@
 
 **5:47** But if you do not believe his writings, how will you believe My words?"
 
+## Additional Verses (Not in Saints Numbering)
+
+**5:4** *(after `5:3`)* ⟦For an angel from time to time would go down into the pool and stir up the water; therefore the first one who stepped in after the stirring of the water became well, whatever disease he was held by.⟧
+
 ## Translator Notes
 
 - **5:2** — The Greek reads literally 'by the sheep' (with 'Gate' implied, cf. Neh 3:1). Early manuscripts vary on the pool's name among Bethzatha, Bethesda, and Bethsaida, and 'in Hebrew' refers here to the Semitic vernacular (Aramaic) spoken in Judea.
 - **5:3** — The earliest and most reliable Greek manuscripts omit 'waiting for the moving of the water' at the end of v. 3 and all of v. 4 (about an angel stirring the water), so v. 4 is absent from the critical text.
 - **5:27** — The Greek phrase 'Son of Man' is uniquely without the definite article here, recalling both the heavenly judge of Daniel 7:13-14 and Jesus' genuine humanity.
 - **5:39** — The Greek verb 'eraunate' can be construed as either an indicative ('You search') or an imperative ('Search!'); the indicative fits the flow of the argument best in contrast with v. 40.
+- **5:4 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

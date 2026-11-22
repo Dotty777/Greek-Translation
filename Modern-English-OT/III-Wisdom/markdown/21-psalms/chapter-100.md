@@ -1,7 +1,7 @@
 # Psalm 100 — Saints Modern English (Greek Septuagint)
 
 > **Status:** `draft: true` (8 verses, 4 translator notes)  
-> **Source basis:** `Saints-Greek-Critical-Text` (LXX numbering) · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 

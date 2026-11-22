@@ -1,6 +1,6 @@
 # Matthew 18 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -73,6 +73,10 @@
 
 **18:35** In the same way, My heavenly Father will also do to you, if each of you does not forgive his brother from your hearts."
 
+## Additional Verses (Not in Saints Numbering)
+
+**18:11** *(after `18:10`)* ⟦For the Son of Man came to save what was lost.⟧
+
 ## Translator Notes
 
 - **18:9** — Greek geennan tou pyros ("Gehenna of fire") refers to the Valley of Hinnom south of Jerusalem, used as a term for the place of final punishment.
@@ -80,3 +84,4 @@
 - **18:15** — The critical text omits "against you" (eis se), found in later manuscripts, leaving the brother's sin stated more generally.
 - **18:18** — The Greek future perfect periphrastic forms (estai dedemena and estai lelymena) express that what is bound or loosed on earth "will have been bound" or "will have been loosed" in heaven.
 - **18:22** — Greek hebdomēkontakis hepta literally reads "seventy times seven," though it can also be rendered "seventy-seven times" (echoing Gen 4:24 LXX); either way it signifies limitless forgiveness.
+- **18:11 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

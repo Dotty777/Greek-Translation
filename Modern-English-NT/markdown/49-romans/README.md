@@ -19,6 +19,6 @@
 - [Chapter 11](chapter-11.md) — 36 verses, 5 notes
 - [Chapter 12](chapter-12.md) — 21 verses, 8 notes
 - [Chapter 13](chapter-13.md) — 14 verses, 3 notes
-- [Chapter 14](chapter-14.md) — 23 verses, 4 notes
+- [Chapter 14](chapter-14.md) — 23 verses, 4 notes, +3 additional
 - [Chapter 15](chapter-15.md) — 33 verses, 4 notes
 - [Chapter 16](chapter-16.md) — 27 verses, 4 notes

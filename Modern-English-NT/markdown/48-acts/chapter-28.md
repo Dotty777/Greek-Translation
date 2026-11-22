@@ -1,6 +1,6 @@
 # Acts 28 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -65,6 +65,10 @@
 
 **28:31** proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with complete boldness, unhindered.
 
+## Additional Verses (Not in Saints Numbering)
+
+**28:29** *(after `28:28`)* ⟦And when he had said these things, the Jews departed, having a great dispute among themselves.⟧
+
 ## Translator Notes
 
 - **28:2** — Greek "barbaroi" (also in 28:4), a neutral term for non-Greek speakers—here the native Punic-speaking inhabitants of Malta—rather than "barbarians" in the modern sense.
@@ -72,3 +76,4 @@
 - **28:11** — Greek "Dioskurois" (the Dioscuri), the mythological twin sons of Zeus—Castor and Pollux—regarded in antiquity as patron deities of sailors.
 - **28:13** — The critical text reads "perielontes" ("having cast off" or "weighed anchor"); some manuscripts read "perielthontes" ("having sailed around" or "made a circuit").
 - **28:28** — Verse 29 ("And when he had said these things, the Jews departed, having a great dispute among themselves") is absent from the earliest and best manuscripts and is omitted in the critical text.
+- **28:29 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

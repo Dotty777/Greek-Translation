@@ -1,7 +1,7 @@
-# Psalms — Saints Modern English OT (Greek Septuagint, Psalms 1–151)
+# Psalms — Saints Modern English OT (Greek Septuagint)
 
-> **Status:** `draft: true` — Division: **III. Wisdom**  
-> **Source basis:** `Saints-Greek-Critical-Text` (Septuagint / Swete Psalter, including Psalm 151; Saints.Bible Greek numbering where LXX Ps 22 = MT Ps 23).  
+> **Status:** `draft: true` — Division: **III. Wisdom (Wisdom & Poetry)**  
+> **Source basis:** `Saints-Greek-Critical-Text` (Septuagint OT; own-source fidelity; Saints.Bible versification).  
 > **Structured JSON:** [`21-psalms.json`](../../json/21-psalms.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Psalms (1–151)
@@ -17,7 +17,7 @@
 - [Psalm 9](chapter-009.md) — 39 verses, 6 notes
 - [Psalm 10](chapter-010.md) — 7 verses, 5 notes
 - [Psalm 11](chapter-011.md) — 9 verses, 5 notes
-- [Psalm 12](chapter-012.md) — 5 verses, 3 notes
+- [Psalm 12](chapter-012.md) — 5 verses, 3 notes, +1 additional
 - [Psalm 13](chapter-013.md) — 7 verses, 4 notes
 - [Psalm 14](chapter-014.md) — 5 verses, 2 notes
 - [Psalm 15](chapter-015.md) — 11 verses, 5 notes
@@ -30,9 +30,9 @@
 - [Psalm 22](chapter-022.md) — 6 verses, 6 notes
 - [Psalm 23](chapter-023.md) — 10 verses, 4 notes
 - [Psalm 24](chapter-024.md) — 22 verses, 4 notes
-- [Psalm 25](chapter-025.md) — 12 verses, 4 notes
+- [Psalm 25](chapter-025.md) — 12 verses, 4 notes, +1 additional
 - [Psalm 26](chapter-026.md) — 14 verses, 5 notes
-- [Psalm 27](chapter-027.md) — 9 verses, 4 notes
+- [Psalm 27](chapter-027.md) — 9 verses, 4 notes, +1 additional
 - [Psalm 28](chapter-028.md) — 11 verses, 4 notes
 - [Psalm 29](chapter-029.md) — 13 verses, 5 notes
 - [Psalm 30](chapter-030.md) — 25 verses, 5 notes
@@ -76,7 +76,7 @@
 - [Psalm 68](chapter-068.md) — 37 verses, 5 notes
 - [Psalm 69](chapter-069.md) — 6 verses, 2 notes
 - [Psalm 70](chapter-070.md) — 24 verses, 4 notes
-- [Psalm 71](chapter-071.md) — 20 verses, 5 notes
+- [Psalm 71](chapter-071.md) — 20 verses, 5 notes, +1 additional
 - [Psalm 72](chapter-072.md) — 28 verses, 5 notes
 - [Psalm 73](chapter-073.md) — 23 verses, 5 notes
 - [Psalm 74](chapter-074.md) — 11 verses, 5 notes
@@ -107,7 +107,7 @@
 - [Psalm 99](chapter-099.md) — 5 verses, 3 notes
 - [Psalm 100](chapter-100.md) — 8 verses, 4 notes
 - [Psalm 101](chapter-101.md) — 29 verses, 5 notes
-- [Psalm 102](chapter-102.md) — 22 verses, 5 notes
+- [Psalm 102](chapter-102.md) — 22 verses, 5 notes, +1 additional
 - [Psalm 103](chapter-103.md) — 35 verses, 5 notes
 - [Psalm 104](chapter-104.md) — 45 verses, 5 notes
 - [Psalm 105](chapter-105.md) — 48 verses, 5 notes
@@ -119,9 +119,9 @@
 - [Psalm 111](chapter-111.md) — 10 verses, 4 notes
 - [Psalm 112](chapter-112.md) — 9 verses, 4 notes
 - [Psalm 113](chapter-113.md) — 26 verses, 5 notes
-- [Psalm 114](chapter-114.md) — 9 verses, 5 notes
+- [Psalm 114](chapter-114.md) — 9 verses, 5 notes, +1 additional
 - [Psalm 115](chapter-115.md) — 9 verses, 5 notes
-- [Psalm 116](chapter-116.md) — 2 verses, 2 notes
+- [Psalm 116](chapter-116.md) — 2 verses, 2 notes, +1 additional
 - [Psalm 117](chapter-117.md) — 29 verses, 5 notes
 - [Psalm 118](chapter-118.md) — 176 verses, 10 notes
 - [Psalm 119](chapter-119.md) — 7 verses, 5 notes
@@ -141,7 +141,7 @@
 - [Psalm 133](chapter-133.md) — 3 verses, 3 notes
 - [Psalm 134](chapter-134.md) — 21 verses, 4 notes
 - [Psalm 135](chapter-135.md) — 26 verses, 4 notes
-- [Psalm 136](chapter-136.md) — 9 verses, 5 notes
+- [Psalm 136](chapter-136.md) — 9 verses, 5 notes, +1 additional
 - [Psalm 137](chapter-137.md) — 8 verses, 3 notes
 - [Psalm 138](chapter-138.md) — 24 verses, 6 notes
 - [Psalm 139](chapter-139.md) — 14 verses, 4 notes
@@ -154,6 +154,6 @@
 - [Psalm 146](chapter-146.md) — 11 verses, 4 notes
 - [Psalm 147](chapter-147.md) — 9 verses, 4 notes
 - [Psalm 148](chapter-148.md) — 14 verses, 5 notes
-- [Psalm 149](chapter-149.md) — 9 verses, 3 notes
-- [Psalm 150](chapter-150.md) — 6 verses, 3 notes
+- [Psalm 149](chapter-149.md) — 9 verses, 3 notes, +1 additional
+- [Psalm 150](chapter-150.md) — 6 verses, 3 notes, +1 additional
 - [Psalm 151](chapter-151.md) — 7 verses, 4 notes

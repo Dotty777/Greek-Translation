@@ -1,7 +1,11 @@
 # Sirach 1 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 prologue)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Prologue
+
+Since many great things have been given to us through the Law and the Prophets and the others who followed after them—for which Israel ought to be praised for instruction and wisdom, and since not only ought the readers themselves become knowledgeable, but lovers of learning should also be able to be useful to outsiders both in speaking and in writing—my grandfather Jesus, after devoting himself extensively to the reading of the Law and the Prophets and the other ancestral books, and having acquired considerable proficiency in them, was himself also led to compose something pertaining to instruction and wisdom, so that lovers of learning, becoming committed to these writings as well, might make much greater progress in living according to the Law. You are urged, therefore, to read with goodwill and attention, and to show forbearance wherever we may seem to fall short in some of the expressions we have labored over in translation; for things spoken in Hebrew do not have the same force in themselves as when they are carried over into another language. And not only these, but the Law itself, and the prophecies, and the rest of the books have no small difference when spoken in their original language. For when I arrived in Egypt in the thirty-eighth year under King Euergetes and stayed for a time, I found a copy of no small instruction; I therefore judged it most necessary myself to apply some diligence and labor to translating this book. Indeed, I have devoted much sleepless effort and skill over that span of time to bringing the book to completion and publishing it also for those living abroad who wish to love learning, preparing their character to live according to the Law.
 
 ## Text
 
@@ -61,6 +65,7 @@
 
 ## Translator Notes
 
+- **Prologue** — The Greek translator's prologue by the grandson of Jesus ben Sira, dated to the thirty-eighth year of Ptolemy VIII Euergetes II (132 BC), is the earliest witness to the threefold division of Israel's Scriptures ('the Law and the Prophets and the other ancestral books') and reflects on the inherent challenges of translating Hebrew into Greek.
 - **1:13** — The critical Greek text reads 'he will find favor' (εὑρήσει χάριν), whereas some manuscripts read 'he will be blessed.'
 - **1:15** — Greek literally reads 'she nested an eternal foundation,' portraying Wisdom making a lasting home among humanity; 'she will be trusted' translates future passive ἐμπιστευθήσεται (also carrying the sense of proving faithful).
 - **1:19** — The implied subject of the verbs in this verse is the Lord, echoing 1:9 ('saw and counted her'), while 'her' refers to Wisdom.

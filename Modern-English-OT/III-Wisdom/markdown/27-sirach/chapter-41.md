@@ -1,6 +1,6 @@
 # Sirach 41 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (23 verses, 4 translator notes)  
+> **Status:** `draft: true` (23 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,9 +51,14 @@
 
 **41:27** of repetition and of a word heard, and of revelations of hidden words; and you will be truly modest and finding favor before every person.
 
+## Additional Verses (Not in Saints Numbering)
+
+**41:23** *(after `41:25`)* of repetition and of a word heard, and of revelations of hidden words;
+
 ## Translator Notes
 
 - **41:2** — Greek apeithounti literally means 'disobedient' or 'refusing to comply,' conveying a person stubbornly or despairingly at odds with life.
 - **41:4** — Greek elegmos zoes literally means 'reproof' or 'inquiry of life,' expressing that in Hades there is no questioning or argument over the length of one's life.
 - **41:20** — The Greek literally reads 'and before the truth of God and the covenant' without naming a separate offense, either continuing from the preceding clause or reflecting an ancient translation rendering of a Hebrew clause about breaking an oath and covenant.
 - **41:27** — Greek deuteroseos kai logou akoes literally means 'of repetition and of a word of hearing,' a hendiadys for repeating something one has heard.
+- **41:23 *(additional)*** — Parallels the opening clauses of 41:27 in the site numbering.

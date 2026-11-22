@@ -1,6 +1,6 @@
 # 1 Samuel 20 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (42 verses, 6 translator notes)  
+> **Status:** `draft: true` (42 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -88,6 +88,10 @@
 **20:41** And when the boy entered, David arose from the argab and fell on his face and bowed down to him three times; and each kissed his companion, and each wept with his companion to a great completion.
 
 **20:42** And Jonathan said, "Go in peace, and as both of us have sworn in the name of the Lord, saying, 'The Lord will be a witness between me and you, and among your offspring forever.'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**20:43** *(after `20:42`)* And David arose and departed, and Jonathan went into the city.
 
 ## Translator Notes
 
