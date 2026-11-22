@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **33 of 43 OT books complete** (813 chapters, 19,593 verses, 3,872 translator notes; combined with Complete 27/27 NT = **60 of 70 complete Greek books**).  
+> **Current Coverage:** **37 of 43 OT books complete** (925 chapters, 22,814 verses, 4,454 translator notes; combined with Complete 27/27 NT = **64 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 916 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | In progress (5/15) | 5 / 15 | 104 | 2,812 | 549 | [`II-Judgement/`](II-Judgement/README.md) |
+| **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,033 | 1,131 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,691 | 1,232 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,299 | 1,175 | [`IV-Providence/`](IV-Providence/README.md) |
 
@@ -31,7 +31,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 4 | Numbers | 36 | 1,285 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 167 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
-## Division II. Judgement (5 / 15)
+## Division II. Judgement (9 / 15)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -40,6 +40,10 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 8 | Ruth | 4 | 85 | 19 | [`II-Judgement/markdown/08-ruth/`](II-Judgement/markdown/08-ruth/README.md) | [`08-ruth.json`](II-Judgement/json/08-ruth.json) |
 | 9 | 1 Samuel | 31 | 772 | 168 | [`II-Judgement/markdown/09-1-samuel/`](II-Judgement/markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](II-Judgement/json/09-1-samuel.json) |
 | 10 | 2 Samuel | 24 | 694 | 127 | [`II-Judgement/markdown/10-2-samuel/`](II-Judgement/markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](II-Judgement/json/10-2-samuel.json) |
+| 11 | 1 Kings | 22 | 754 | 117 | [`II-Judgement/markdown/11-1-kings/`](II-Judgement/markdown/11-1-kings/README.md) | [`11-1-kings.json`](II-Judgement/json/11-1-kings.json) |
+| 12 | 2 Kings | 25 | 718 | 132 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
+| 13 | 1 Chronicles | 29 | 929 | 152 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
+| 14 | 2 Chronicles | 36 | 820 | 181 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
 
 ## Division III. Wisdom (7 / 7 Complete)
 
