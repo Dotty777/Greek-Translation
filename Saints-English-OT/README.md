@@ -1,7 +1,7 @@
 # Saints Traditional English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — NKJV-Style (modern grammar + revered King James cadence), post-audit polished  
-> **Current Coverage:** **22 of 43 Greek OT books complete** (434 chapters, 9,614 verses + 13 additional `unplaced` items, 1,865 translator notes (+ 2 additional notes)).  
+> **Current Coverage:** **27 of 43 Greek OT books complete** (621 chapters, 15,405 verses + 16 additional `unplaced` items, 2,689 translator notes (+ 4 additional notes)).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` (Studio v9 Phase 2 / `50793ea`) with `validate_traditional_english.py --lang grc --strict` (`0` FAIL) and scholarly audit.
 
 ## Overview
@@ -16,10 +16,20 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
-| **I. Law (Pentateuch)** | In progress | 0 / 5 | — | — | — | — |
+| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 (+3) | 824 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,033 (+3) | 991 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | In progress (1/7) | 1 / 7 | 151 | 2,532 (+10) | 594 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,049 | 280 | [`IV-Providence/`](IV-Providence/README.md) |
+
+## Division I. Law (5 / 5 Complete)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 1 | Genesis | 50 | 1,530 | 220 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
+| 2 | Exodus | 40 | 1,161 (+1) | 166 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
+| 3 | Leviticus | 27 | 857 | 117 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
+| 4 | Numbers | 36 | 1,285 (+2) | 172 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
+| 5 | Deuteronomy | 34 | 958 | 149 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
 ## Division II. Judgement (9 / 15)
 
