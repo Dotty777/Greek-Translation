@@ -1,7 +1,7 @@
 # Saints Traditional English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — NKJV-Style (modern grammar + revered King James cadence), post-audit polished  
-> **Current Coverage:** **9 of 43 Greek OT books complete** (216 chapters, 6,033 verses + 3 additional `unplaced` items, 991 translator notes (+ 1 additional note)).  
+> **Current Coverage:** **21 of 43 Greek OT books complete** (283 chapters, 7,082 verses + 3 additional `unplaced` items, 1,271 translator notes (+ 1 additional note)).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` (Studio v9 Phase 2 / `50793ea`) with `validate_traditional_english.py --lang grc --strict` (`0` FAIL) and scholarly audit.
 
 ## Overview
@@ -19,7 +19,7 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | **I. Law (Pentateuch)** | In progress | 0 / 5 | — | — | — | — |
 | **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,033 (+3) | 991 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 7 | — | — | — | — |
-| **IV. Providence (Prophets)** | In progress | 0 / 16 | — | — | — | — |
+| **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,049 | 280 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division II. Judgement (9 / 15)
 
@@ -34,3 +34,20 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | 12 | 2 Kings | 25 | 718 (+1) | 116 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 929 (+1) | 138 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 159 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
+
+## Division IV. Providence (12 / 16)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 32 | Hosea | 14 | 197 | 53 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |
+| 33 | Joel | 4 | 73 | 17 | [`IV-Providence/markdown/33-joel/`](IV-Providence/markdown/33-joel/README.md) | [`33-joel.json`](IV-Providence/json/33-joel.json) |
+| 34 | Amos | 9 | 145 | 43 | [`IV-Providence/markdown/34-amos/`](IV-Providence/markdown/34-amos/README.md) | [`34-amos.json`](IV-Providence/json/34-amos.json) |
+| 35 | Obadiah | 1 | 21 | 5 | [`IV-Providence/markdown/35-obadiah/`](IV-Providence/markdown/35-obadiah/README.md) | [`35-obadiah.json`](IV-Providence/json/35-obadiah.json) |
+| 36 | Jonah | 4 | 48 | 14 | [`IV-Providence/markdown/36-jonah/`](IV-Providence/markdown/36-jonah/README.md) | [`36-jonah.json`](IV-Providence/json/36-jonah.json) |
+| 37 | Micah | 7 | 105 | 27 | [`IV-Providence/markdown/37-micah/`](IV-Providence/markdown/37-micah/README.md) | [`37-micah.json`](IV-Providence/json/37-micah.json) |
+| 38 | Nahum | 3 | 47 | 13 | [`IV-Providence/markdown/38-nahum/`](IV-Providence/markdown/38-nahum/README.md) | [`38-nahum.json`](IV-Providence/json/38-nahum.json) |
+| 39 | Habakkuk | 3 | 56 | 14 | [`IV-Providence/markdown/39-habakkuk/`](IV-Providence/markdown/39-habakkuk/README.md) | [`39-habakkuk.json`](IV-Providence/json/39-habakkuk.json) |
+| 40 | Zephaniah | 3 | 53 | 12 | [`IV-Providence/markdown/40-zephaniah/`](IV-Providence/markdown/40-zephaniah/README.md) | [`40-zephaniah.json`](IV-Providence/json/40-zephaniah.json) |
+| 41 | Haggai | 2 | 38 | 9 | [`IV-Providence/markdown/41-haggai/`](IV-Providence/markdown/41-haggai/README.md) | [`41-haggai.json`](IV-Providence/json/41-haggai.json) |
+| 42 | Zechariah | 14 | 211 | 60 | [`IV-Providence/markdown/42-zechariah/`](IV-Providence/markdown/42-zechariah/README.md) | [`42-zechariah.json`](IV-Providence/json/42-zechariah.json) |
+| 43 | Malachi | 3 | 55 | 13 | [`IV-Providence/markdown/43-malachi/`](IV-Providence/markdown/43-malachi/README.md) | [`43-malachi.json`](IV-Providence/json/43-malachi.json) |

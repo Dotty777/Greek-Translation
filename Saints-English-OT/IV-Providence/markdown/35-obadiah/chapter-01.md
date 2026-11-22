@@ -1,0 +1,56 @@
+# Obadiah 1 — Saints Traditional English (Greek Septuagint)
+
+> **Status:** `draft: true` (NKJV-Style; 21 verses, 5 translator notes)  
+> **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Obadiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**1:1** The vision of Obadiah. Thus says the Lord God concerning Idumea—I have heard a report from the Lord, and He has sent forth a siege among the nations: "Arise, and let us rise up against her for battle!"
+
+**1:2** "Behold, I have made you very small among the nations; you are greatly dishonored.
+
+**1:3** The arrogance of your heart has lifted you up, you who dwell in the crevices of the rocks—one who exalts his dwelling, saying in his heart, 'Who will bring me down to the earth?'
+
+**1:4** Though you soar aloft like an eagle, and though you set your nest in the midst of the stars, from there I will bring you down," says the Lord.
+
+**1:5** If thieves had come to you, or robbers by night, where would you have been cast away? Would they not have stolen what was sufficient for themselves? And if grape-gatherers had come to you, would they not have left gleanings behind?
+
+**1:6** How Esau has been searched out, and his hidden things have been seized!
+
+**1:7** As far as the borders they have sent you out; all the men of your covenant have withstood you; the men at peace with you have prevailed against you; they have set ambushes beneath you; there is no understanding in them.
+
+**1:8** "In that day," says the Lord, "I will destroy wise men from Idumea, and understanding from Mount Esau;
+
+**1:9** and your warriors from Teman shall be terrified, so that every man may be cut off from Mount Esau.
+
+**1:10** Because of the slaughter and the ungodliness against your brother Jacob, shame shall cover you, and you shall be cut off forever.
+
+**1:11** From the day that you stood opposite, in the days when foreigners took his forces captive, and strangers entered his gates and cast lots over Jerusalem, you also were like one of them.
+
+**1:12** And do not look upon the day of your brother in the day of strangers, and do not gloat over the sons of Judah in the day of their destruction, and do not speak boastfully in the day of affliction;
+
+**1:13** nor enter the gates of peoples in the day of their troubles, nor look—you also—upon their assembly in the day of their ruin, nor join in attacking their forces in the day of their destruction;
+
+**1:14** nor stand at his passes to utterly destroy his survivors, nor hem in those of his who flee in the day of affliction.
+
+**1:15** For the day of the Lord is near upon all the nations; just as you have done, so shall it be to you; your recompense shall be repaid upon your head.
+
+**1:16** For just as you drank upon My holy mountain, they shall drink and go down, and they shall be as though they did not exist.
+
+**1:17** But on Mount Zion there shall be salvation, and it shall be holy, and the house of Jacob shall possess those who possessed them.
+
+**1:18** And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble; and they shall kindle among them and devour them, and there shall be no fire-bearer for the house of Esau," for the Lord has spoken.
+
+**1:19** And those in the Negev shall possess Mount Esau, and those in the Shephelah, the foreigners; and they shall possess Mount Ephraim and the plain of Samaria, and Benjamin and Gilead.
+
+**1:20** And this is the beginning of the exile: for the sons of Israel, the land of the Canaanites as far as Zarephath, and the exile of Jerusalem as far as Ephrathah; they shall inherit the cities of the Negev.
+
+**1:21** And those who are rescued shall go up from Mount Zion to execute vengeance upon Mount Esau, and the kingdom shall be the Lord's.
+
+## Translator Notes
+
+- **1:1** — The Greek reads first-person singular "I have heard" and "a siege" (periochēn, an encirclement or blockade), where the Hebrew Masoretic Text reads "we have heard" and "an envoy."
+- **1:16** — The Greek reads singular "you drank" and "they shall drink and go down" (katabēsontai), without the repeated reference to all the nations drinking continuously found in the Hebrew text.
+- **1:18** — "Fire-bearer" (pyrophoros) refers in Greek military usage to the sacred torch-bearer customarily spared in battle, serving here as an idiom for total destruction with no survivor left.
+- **1:19** — "The foreigners" (tous allophylous) is the Septuagint's standard designation for the Philistines; the Greek also reads "Mount Ephraim" and places both "Benjamin and Gilead" as territories to be possessed.
+- **1:20** — The Greek reads "the beginning of the exile" and names "Ephrathah" (Ephratha), where the Hebrew Masoretic Text has "Sepharad."
