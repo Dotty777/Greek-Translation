@@ -1,7 +1,7 @@
 # Saints Traditional English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — NKJV-Style (modern grammar + revered King James cadence), post-audit polished  
-> **Current Coverage:** **21 of 43 Greek OT books complete** (283 chapters, 7,082 verses + 3 additional `unplaced` items, 1,271 translator notes (+ 1 additional note)).  
+> **Current Coverage:** **22 of 43 Greek OT books complete** (434 chapters, 9,614 verses + 13 additional `unplaced` items, 1,865 translator notes (+ 2 additional notes)).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` (Studio v9 Phase 2 / `50793ea`) with `validate_traditional_english.py --lang grc --strict` (`0` FAIL) and scholarly audit.
 
 ## Overview
@@ -18,7 +18,7 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | In progress | 0 / 5 | — | — | — | — |
 | **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,033 (+3) | 991 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 7 | — | — | — | — |
+| **III. Wisdom (Wisdom & Poetry)** | In progress (1/7) | 1 / 7 | 151 | 2,532 (+10) | 594 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,049 | 280 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division II. Judgement (9 / 15)
@@ -34,6 +34,12 @@ This directory contains the **Saints Traditional English (NKJV-Style)** translat
 | 12 | 2 Kings | 25 | 718 (+1) | 116 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 929 (+1) | 138 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 159 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
+
+## Division III. Wisdom (1 / 7)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 21 | Psalms | 151 | 2,532 (+10) | 594 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
 
 ## Division IV. Providence (12 / 16)
 

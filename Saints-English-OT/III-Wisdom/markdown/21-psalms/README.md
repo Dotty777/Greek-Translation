@@ -1,0 +1,159 @@
+# Psalms — Saints Traditional English OT (Greek Septuagint)
+
+> **Status:** `draft: true` (NKJV-Style) — Division: **III. Wisdom (Wisdom & Poetry)**  
+> **Source basis:** `Saints-Greek-Critical-Text` (own-source fidelity; Saints.Bible versification).  
+> **Structured JSON:** [`21-psalms.json`](../../json/21-psalms.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Psalms
+
+- [Psalm 1](chapter-001.md) — 6 verses, 3 notes
+- [Psalm 2](chapter-002.md) — 12 verses, 4 notes
+- [Psalm 3](chapter-003.md) — 9 verses, 3 notes
+- [Psalm 4](chapter-004.md) — 9 verses, 4 notes
+- [Psalm 5](chapter-005.md) — 13 verses, 4 notes
+- [Psalm 6](chapter-006.md) — 11 verses, 3 notes
+- [Psalm 7](chapter-007.md) — 18 verses, 5 notes
+- [Psalm 8](chapter-008.md) — 10 verses, 3 notes
+- [Psalm 9](chapter-009.md) — 39 verses, 5 notes
+- [Psalm 10](chapter-010.md) — 7 verses, 4 notes
+- [Psalm 11](chapter-011.md) — 9 verses, 4 notes
+- [Psalm 12](chapter-012.md) — 5 verses, 3 notes, +1 additional
+- [Psalm 13](chapter-013.md) — 7 verses, 3 notes
+- [Psalm 14](chapter-014.md) — 5 verses, 2 notes
+- [Psalm 15](chapter-015.md) — 11 verses, 5 notes
+- [Psalm 16](chapter-016.md) — 15 verses, 4 notes
+- [Psalm 17](chapter-017.md) — 51 verses, 5 notes
+- [Psalm 18](chapter-018.md) — 15 verses, 4 notes
+- [Psalm 19](chapter-019.md) — 10 verses, 4 notes
+- [Psalm 20](chapter-020.md) — 14 verses, 3 notes
+- [Psalm 21](chapter-021.md) — 32 verses, 5 notes
+- [Psalm 22](chapter-022.md) — 6 verses, 5 notes
+- [Psalm 23](chapter-023.md) — 10 verses, 4 notes
+- [Psalm 24](chapter-024.md) — 22 verses, 3 notes
+- [Psalm 25](chapter-025.md) — 12 verses, 4 notes, +1 additional
+- [Psalm 26](chapter-026.md) — 14 verses, 5 notes
+- [Psalm 27](chapter-027.md) — 9 verses, 4 notes, +1 additional
+- [Psalm 28](chapter-028.md) — 11 verses, 3 notes
+- [Psalm 29](chapter-029.md) — 13 verses, 4 notes
+- [Psalm 30](chapter-030.md) — 25 verses, 5 notes
+- [Psalm 31](chapter-031.md) — 11 verses, 4 notes
+- [Psalm 32](chapter-032.md) — 22 verses, 5 notes
+- [Psalm 33](chapter-033.md) — 23 verses, 4 notes
+- [Psalm 34](chapter-034.md) — 28 verses, 4 notes
+- [Psalm 35](chapter-035.md) — 13 verses, 3 notes
+- [Psalm 36](chapter-036.md) — 40 verses, 5 notes
+- [Psalm 37](chapter-037.md) — 23 verses, 3 notes
+- [Psalm 38](chapter-038.md) — 14 verses, 4 notes
+- [Psalm 39](chapter-039.md) — 18 verses, 3 notes
+- [Psalm 40](chapter-040.md) — 14 verses, 5 notes
+- [Psalm 41](chapter-041.md) — 12 verses, 4 notes
+- [Psalm 42](chapter-042.md) — 5 verses, 3 notes
+- [Psalm 43](chapter-043.md) — 27 verses, 5 notes
+- [Psalm 44](chapter-044.md) — 18 verses, 4 notes
+- [Psalm 45](chapter-045.md) — 12 verses, 4 notes
+- [Psalm 46](chapter-046.md) — 10 verses, 2 notes
+- [Psalm 47](chapter-047.md) — 15 verses, 5 notes
+- [Psalm 48](chapter-048.md) — 21 verses, 5 notes
+- [Psalm 49](chapter-049.md) — 23 verses, 4 notes
+- [Psalm 50](chapter-050.md) — 21 verses, 4 notes
+- [Psalm 51](chapter-051.md) — 11 verses, 3 notes
+- [Psalm 52](chapter-052.md) — 7 verses, 2 notes
+- [Psalm 53](chapter-053.md) — 9 verses, 3 notes
+- [Psalm 54](chapter-054.md) — 24 verses, 4 notes
+- [Psalm 55](chapter-055.md) — 14 verses, 5 notes
+- [Psalm 56](chapter-056.md) — 12 verses, 3 notes
+- [Psalm 57](chapter-057.md) — 12 verses, 4 notes
+- [Psalm 58](chapter-058.md) — 18 verses, 4 notes
+- [Psalm 59](chapter-059.md) — 14 verses, 5 notes
+- [Psalm 60](chapter-060.md) — 9 verses, 3 notes
+- [Psalm 61](chapter-061.md) — 13 verses, 3 notes
+- [Psalm 62](chapter-062.md) — 12 verses, 4 notes
+- [Psalm 63](chapter-063.md) — 11 verses, 3 notes
+- [Psalm 64](chapter-064.md) — 14 verses, 4 notes
+- [Psalm 65](chapter-065.md) — 20 verses, 4 notes
+- [Psalm 66](chapter-066.md) — 8 verses, 2 notes
+- [Psalm 67](chapter-067.md) — 36 verses, 6 notes
+- [Psalm 68](chapter-068.md) — 37 verses, 5 notes
+- [Psalm 69](chapter-069.md) — 6 verses, 2 notes
+- [Psalm 70](chapter-070.md) — 24 verses, 4 notes
+- [Psalm 71](chapter-071.md) — 20 verses, 4 notes, +1 additional
+- [Psalm 72](chapter-072.md) — 28 verses, 5 notes
+- [Psalm 73](chapter-073.md) — 23 verses, 4 notes
+- [Psalm 74](chapter-074.md) — 11 verses, 4 notes
+- [Psalm 75](chapter-075.md) — 13 verses, 5 notes
+- [Psalm 76](chapter-076.md) — 21 verses, 5 notes
+- [Psalm 77](chapter-077.md) — 72 verses, 9 notes
+- [Psalm 78](chapter-078.md) — 13 verses, 3 notes
+- [Psalm 79](chapter-079.md) — 20 verses, 4 notes
+- [Psalm 80](chapter-080.md) — 17 verses, 4 notes
+- [Psalm 81](chapter-081.md) — 8 verses, 2 notes
+- [Psalm 82](chapter-082.md) — 19 verses, 4 notes
+- [Psalm 83](chapter-083.md) — 13 verses, 4 notes
+- [Psalm 84](chapter-084.md) — 14 verses, 4 notes
+- [Psalm 85](chapter-085.md) — 17 verses, 4 notes
+- [Psalm 86](chapter-086.md) — 7 verses, 5 notes
+- [Psalm 87](chapter-087.md) — 19 verses, 4 notes
+- [Psalm 88](chapter-088.md) — 53 verses, 5 notes
+- [Psalm 89](chapter-089.md) — 17 verses, 5 notes
+- [Psalm 90](chapter-090.md) — 16 verses, 4 notes
+- [Psalm 91](chapter-091.md) — 16 verses, 4 notes
+- [Psalm 92](chapter-092.md) — 5 verses, 2 notes
+- [Psalm 93](chapter-093.md) — 23 verses, 4 notes
+- [Psalm 94](chapter-094.md) — 11 verses, 4 notes
+- [Psalm 95](chapter-095.md) — 13 verses, 5 notes
+- [Psalm 96](chapter-096.md) — 12 verses, 4 notes
+- [Psalm 97](chapter-097.md) — 9 verses, 4 notes
+- [Psalm 98](chapter-098.md) — 9 verses, 4 notes
+- [Psalm 99](chapter-099.md) — 5 verses, 3 notes
+- [Psalm 100](chapter-100.md) — 8 verses, 4 notes
+- [Psalm 101](chapter-101.md) — 29 verses, 3 notes
+- [Psalm 102](chapter-102.md) — 22 verses, 3 notes, +1 additional
+- [Psalm 103](chapter-103.md) — 35 verses, 5 notes
+- [Psalm 104](chapter-104.md) — 45 verses, 5 notes
+- [Psalm 105](chapter-105.md) — 48 verses, 5 notes
+- [Psalm 106](chapter-106.md) — 43 verses, 4 notes
+- [Psalm 107](chapter-107.md) — 14 verses, 3 notes
+- [Psalm 108](chapter-108.md) — 31 verses, 5 notes
+- [Psalm 109](chapter-109.md) — 7 verses, 3 notes
+- [Psalm 110](chapter-110.md) — 10 verses, 3 notes
+- [Psalm 111](chapter-111.md) — 10 verses, 3 notes
+- [Psalm 112](chapter-112.md) — 9 verses, 3 notes
+- [Psalm 113](chapter-113.md) — 26 verses, 5 notes
+- [Psalm 114](chapter-114.md) — 9 verses, 4 notes, +1 additional
+- [Psalm 115](chapter-115.md) — 9 verses, 4 notes
+- [Psalm 116](chapter-116.md) — 2 verses, 1 notes, +1 additional
+- [Psalm 117](chapter-117.md) — 29 verses, 5 notes
+- [Psalm 118](chapter-118.md) — 176 verses, 20 notes
+- [Psalm 119](chapter-119.md) — 7 verses, 4 notes
+- [Psalm 120](chapter-120.md) — 8 verses, 4 notes
+- [Psalm 121](chapter-121.md) — 9 verses, 5 notes
+- [Psalm 122](chapter-122.md) — 4 verses, 3 notes
+- [Psalm 123](chapter-123.md) — 8 verses, 4 notes
+- [Psalm 124](chapter-124.md) — 5 verses, 2 notes
+- [Psalm 125](chapter-125.md) — 6 verses, 4 notes
+- [Psalm 126](chapter-126.md) — 5 verses, 4 notes
+- [Psalm 127](chapter-127.md) — 6 verses, 3 notes
+- [Psalm 128](chapter-128.md) — 8 verses, 3 notes
+- [Psalm 129](chapter-129.md) — 8 verses, 3 notes
+- [Psalm 130](chapter-130.md) — 3 verses, 2 notes
+- [Psalm 131](chapter-131.md) — 18 verses, 6 notes
+- [Psalm 132](chapter-132.md) — 3 verses, 1 notes
+- [Psalm 133](chapter-133.md) — 3 verses, 1 notes
+- [Psalm 134](chapter-134.md) — 21 verses, 4 notes
+- [Psalm 135](chapter-135.md) — 26 verses, 4 notes
+- [Psalm 136](chapter-136.md) — 9 verses, 4 notes, +1 additional
+- [Psalm 137](chapter-137.md) — 8 verses, 3 notes
+- [Psalm 138](chapter-138.md) — 24 verses, 5 notes
+- [Psalm 139](chapter-139.md) — 14 verses, 3 notes
+- [Psalm 140](chapter-140.md) — 10 verses, 4 notes
+- [Psalm 141](chapter-141.md) — 8 verses, 3 notes
+- [Psalm 142](chapter-142.md) — 12 verses, 4 notes
+- [Psalm 143](chapter-143.md) — 15 verses, 4 notes
+- [Psalm 144](chapter-144.md) — 21 verses, 3 notes
+- [Psalm 145](chapter-145.md) — 10 verses, 3 notes
+- [Psalm 146](chapter-146.md) — 11 verses, 3 notes
+- [Psalm 147](chapter-147.md) — 9 verses, 4 notes
+- [Psalm 148](chapter-148.md) — 14 verses, 4 notes
+- [Psalm 149](chapter-149.md) — 9 verses, 3 notes, +1 additional
+- [Psalm 150](chapter-150.md) — 6 verses, 3 notes, +1 additional
+- [Psalm 151](chapter-151.md) — 7 verses, 4 notes
