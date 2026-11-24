@@ -9,7 +9,7 @@
 
 **14:2** "This is the law of the leper on whatever day he is cleansed; and he shall be brought to the priest,
 
-**14:3** and the priest shall go outside the camp, and the priest shall look, and indeed, the plague of leprosy is healed from the leper.
+**14:3** and the priest shall go outside the camp, and the priest shall see, and look, the affliction of leprosy is healed from the leper.
 
 **14:4** And the priest shall command, and they shall take for the one who has been cleansed two living clean birds, and cedar wood and spun scarlet and hyssop;
 
@@ -23,11 +23,11 @@
 
 **14:9** And it shall be on the seventh day, he shall shave all his hair: his head and his beard and his eyebrows, and all his hair he shall shave; and he shall wash his garments and bathe his body with water, and he shall be clean.
 
-**14:10** And on the eighth day he shall take two unblemished year-old lambs, and an unblemished year-old sheep, and three tenths of fine flour for a sacrifice, mixed with oil, and one cup of oil;
+**14:10** And on the eighth day he shall take two unblemished year-old lambs, and an unblemished year-old sheep, and three tenths of fine flour for a sacrifice, kneaded with oil, and one cup of oil;
 
 **14:11** and the priest who cleanses shall set the man who is being cleansed and these things before the Lord, at the door of the tent of testimony.
 
-**14:12** And the priest shall take the one lamb, and he shall bring it for the trespass offering, and the cup of oil, and he shall set it apart as a set-apart offering before the Lord.
+**14:12** And the priest shall take the one lamb, and he shall bring it for the trespass offering, and the cup of oil, and he shall set it apart as a separated offering before the Lord.
 
 **14:13** And they shall slaughter the lamb in a place where they slaughter the whole burnt offerings and the sin offerings, in a holy place; for the sin offering is like the trespass offering, it belongs to the priest; it is most holy.
 
@@ -45,7 +45,7 @@
 
 **14:20** And the priest shall offer up the whole burnt offering and the sacrifice on the altar before the Lord; and the priest shall make atonement for him, and he shall be cleansed.
 
-**14:21** But if his hand is poor and does not find enough, he shall take one lamb for that in which he trespassed as a set-aside offering, so as to make atonement for him, and a tenth of fine flour mixed with oil for a sacrifice, and one cup of oil,
+**14:21** But if his hand is poor and does not find enough, he shall take one lamb for that in which he incurred guilt as a set-apart portion, so as to make atonement for him, and a tenth of fine flour kneaded with oil for a sacrifice, and one cup of oil,
 
 **14:22** and two turtledoves or two young pigeons, whatever his hand has found, and one shall be for a sin offering and one for a whole burnt offering;
 
@@ -67,31 +67,31 @@
 
 **14:31** one for a sin offering and one for a whole burnt offering, along with the sacrifice; and the priest shall make atonement for the one who is being cleansed before the Lord.
 
-**14:32** This is the law of the one in whom is the plague of leprosy and of the one who does not find with his hand for his cleansing."
+**14:32** This is the law of the one in whom is the affliction of leprosy and of the one who does not find with his hand for his cleansing."
 
 **14:33** And the Lord spoke to Moses and Aaron, saying,
 
-**14:34** "When you enter into the land of the Canaanites, which I give to you as a possession, and I put a plague of leprosy in the houses of the land possessed by you,
+**14:34** "When you enter into the land of the Canaanites, which I give to you as a possession, and I put an affliction of leprosy in the houses of the land possessed by you,
 
-**14:35** then the one whose house it is shall come and report to the priest, saying, 'Something like a plague has appeared in my house.'
+**14:35** then the one whose house it is shall come and report to the priest, saying, 'Something like an affliction has appeared in my house.'
 
 **14:36** And the priest shall command that the house be cleared out before the priest enters to look at the house, and whatever is in the house shall by no means become unclean; and after these things the priest shall enter to examine the house.
 
-**14:37** And he shall look at the plague in the walls of the house, greenish depressions, and their appearance is lower than the walls;
+**14:37** And he shall look at the affliction in the walls of the house, greenish depressions, and their appearance is lower than the walls;
 
 **14:38** and the priest shall go out from the house to the door of the house, and the priest shall isolate the house for seven days.
 
-**14:39** And the priest shall return on the seventh day and look at the house, and see, the plague has not spread in the walls of the house;
+**14:39** And the priest shall return on the seventh day and look at the house, and see, the affliction has not spread in the walls of the house;
 
-**14:40** and the priest shall command, and they shall remove the stones; there is the plague; and they shall throw them outside the city into an unclean place.
+**14:40** and the priest shall command, and they shall remove the stones; there is the affliction; and they shall throw them outside the city into an unclean place.
 
 **14:41** And they shall scrape the house inside all around, and they shall pour out the earth outside the city into an unclean place.
 
 **14:42** And they shall take scraped solid stones and put them in place of the stones, and they shall take other earth and plaster the house.
 
-**14:43** But if a plague comes again and springs up in the house after removing the stones and after the house has been scraped and after it has been plastered,
+**14:43** But if an affliction comes again and springs up in the house after removing the stones and after the house has been scraped and after it has been plastered,
 
-**14:44** then the priest shall enter and look: if the plague has spread in the house, it is a persistent leprosy in the house; it is unclean.
+**14:44** then the priest shall enter and look: if the affliction has spread in the house, it is a persistent leprosy in the house; it is unclean.
 
 **14:45** And they shall tear down the house, and they shall carry out its timbers and its stones and all the earth outside the city into an unclean place;
 
@@ -99,7 +99,7 @@
 
 **14:47** and the one who sleeps in the house shall wash his garments and shall be unclean until evening; and the one who eats in the house shall wash his garments and shall be unclean until evening.
 
-**14:48** But if the priest comes and enters and looks, and see, the plague is not spreading at all in the house after the house has been plastered, then the priest shall cleanse the house, because the plague has been healed.
+**14:48** But if the priest comes and enters and looks, and see, the affliction is not spreading at all in the house after the house has been plastered, then the priest shall cleanse the house, because the affliction has been healed.
 
 **14:49** And he shall take to purify the house two living clean birds and cedar wood and spun scarlet and hyssop;
 
@@ -111,7 +111,7 @@
 
 **14:53** and he shall send away the living bird outside the city into the field, and he shall make atonement for the house, and it shall be clean.
 
-**14:54** This is the law concerning every plague of leprosy and scab,
+**14:54** This is the law concerning every affliction of leprosy and scab,
 
 **14:55** and of the leprosy of a garment and of a house,
 
@@ -124,5 +124,5 @@
 - **14:14** — Greek ἄκρον literally means "extremity" or "tip" (here and in vv. 17, 25, 28), reflecting the Septuagint rendering of the Hebrew term for the thumb and big toe.
 - **14:19** — The Greek text reads τοῦ ἀκαθάρτου ("the unclean one") and ἀπὸ τῆς ἁμαρτίας αὐτοῦ ("from his sin"), whereas the Hebrew Masoretic Text reads "from his uncleanness."
 - **14:39** — This Greek text reads οὐ διεχύθη ("has not spread," as in Codex Vaticanus), in contrast to other Septuagint witnesses and the Hebrew text ("has spread").
-- **14:40** — This Greek text reads τοὺς λίθους· ἔστιν ἡ ἁφή· ("the stones; there is the plague;"), omitting the relative pronoun ἐν οἷς ("in which") found in other Greek witnesses and the Hebrew text.
+- **14:40** — This Greek text reads τοὺς λίθους· ἔστιν ἡ ἁφή· ("the stones; there is the affliction;"), omitting the relative pronoun ἐν οἷς ("in which") found in other Greek witnesses and the Hebrew text.
 - **14:42** — This Greek text reads λίθους ἀπεξυσμένους στερεούς ("scraped solid stones," as in Codex Vaticanus), whereas other Septuagint witnesses read "other scraped stones" and the Hebrew text reads "other stones."

@@ -49,7 +49,7 @@
 
 **38:22** And he returned to Judah and said, "I did not find her, and the men from the place say that there is no prostitute here."
 
-**38:23** And Judah said, "Let her keep them, so that we may not be ridiculed; I indeed have sent this young goat, and you have not found her."
+**38:23** And Judah said, "Let her keep them, so that we may not be ridiculed; I indeed have sent this young goat, but you have not found her."
 
 **38:24** And it came about after three months that it was reported to Judah, saying, "Tamar your daughter-in-law has acted as a prostitute, and look, she is pregnant from prostitution." And Judah said, "Bring her out and let her be burned."
 

@@ -33,7 +33,7 @@
 
 **33:14** Let my lord go on ahead before the servant; and I will gain strength along the way at the leisurely pace of the journey before me and at the pace of the young children, until I come to my lord in Seir."
 
-**33:15** Then Esau said, "Let me leave with you some of the people who are with me." But he said, "Why this? It is enough that I have found favor before you, lord."
+**33:15** Then Esau said, "I will leave with you some of the people who are with me." But he said, "Why this? It is enough that I have found favor before you, lord."
 
 **33:16** So Esau returned on that day on his way to Seir.
 

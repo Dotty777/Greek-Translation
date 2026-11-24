@@ -9,7 +9,7 @@
 
 **24:2** "Command the sons of Israel, and let them take for Me pure beaten olive oil for light, to burn a lamp continually
 
-**24:3** outside the veil in the tent of testimony; Aaron and his sons shall burn it from evening until morning in the presence of the Lord constantly; it is an eternal statute throughout your generations.
+**24:3** outside the curtain in the tent of testimony; Aaron and his sons shall burn it from evening until morning in the presence of the Lord constantly; it is an eternal statute throughout your generations.
 
 **24:4** Upon the pure lampstand you shall burn the lamps before the Lord until the morning.
 
@@ -54,6 +54,6 @@
 ## Translator Notes
 
 - **24:7** — The Greek explicitly adds "and salt" (καὶ ἅλα) alongside pure frankincense on the stack of loaves, and describes them as "set forth" (προκείμενα) rather than as an offering by fire as in the Hebrew Masoretic Text.
-- **24:11** — The Greek renders the offense as "having named the Name" (ἐπονομάσας ... τὸ ὄνομα) and cursing rather than "blasphemed" as in the Hebrew Masoretic Text, reflecting Second Temple reverence against pronouncing the divine name; it also has plural "they brought them" (αὐτούς) to Moses.
+- **24:11** — The Greek renders the offense as "having named the Name" (ἐπονομάσας ... τὸ ὄνομα) and cursing rather than "blasphemed" as in the Hebrew Masoretic Text; it also has plural "they brought them" (αὐτούς) to Moses.
 - **24:16** — As in 24:11, the Greek forbids "naming" (ὀνομάζων / ὀνομάσαι) the name of the Lord rather than "blaspheming" it as in the Hebrew Masoretic Text, and explicitly adds "of Israel" and "of the Lord."
 - **24:21** — Unlike the Hebrew Masoretic Text, the Greek omits the opening clause regarding restitution for killing an animal (already stated in 24:18) and retains only the clause on striking a person.

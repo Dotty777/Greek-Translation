@@ -21,15 +21,15 @@
 
 **3:8** And it happened at midnight that the man was startled and troubled, and look, a woman was lying at his feet.
 
-**3:9** And he said, "Who are you?" And she said, "I am Ruth, your servant; spread the edge of your garment over your servant, because you are a kinsman-redeemer."
+**3:9** And he said, "Who are you?" And she said, "I am Ruth, your servant; spread the edge of your garment over your servant, because you are next of kin."
 
 **3:10** And Boaz said, "Blessed are you by the Lord God, daughter, because you have made your latter mercy better than the first, in not going after young men, whether poor or rich.
 
 **3:11** And now, daughter, do not be afraid; all that you say I will do for you, for every tribe of my people knows that you are a woman of strength.
 
-**3:12** And truly, I am a kinsman-redeemer; yet there is also a kinsman-redeemer closer than I.
+**3:12** And truly, I am next of kin; yet there is also a next of kin closer than I.
 
-**3:13** Lodge for the night, and it will happen in the morning that if he acts as kinsman-redeemer for you, good, let him act as kinsman-redeemer; but if he does not wish to act as kinsman-redeemer for you, then I myself will act as kinsman-redeemer for you, as the Lord lives; You are the Lord. Lie down until morning."
+**3:13** Lodge for the night, and it will happen in the morning that if he acts as next of kin for you, good, let him act as next of kin; but if he does not wish to act as next of kin for you, then I myself will act as next of kin for you, as the Lord lives; You are the Lord. Lie down until morning."
 
 **3:14** And she lay at his feet until morning; and she rose up before a man could recognize his neighbor. And Boaz said, "Let it not be known that a woman came to the threshing floor."
 

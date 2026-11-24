@@ -37,7 +37,7 @@
 
 **3:16** And to the woman He said, "I will greatly multiply your pains and your groaning; in pains you will bear children, and your turning will be toward your husband, and he will rule over you."
 
-**3:17** And to Adam He said, "Because you listened to the voice of your wife and ate from the tree that I commanded you, this one alone, not to eat from, and you ate from it, cursed is the earth in your labors; in pains you will eat from it all the days of your life;
+**3:17** And to Adam He said, "Because you listened to the voice of your wife and ate from the tree that I commanded you, this one alone, not to eat from, and you ate from it, cursed is the earth in your labors; in pains you will eat it all the days of your life;
 
 **3:18** thorns and thistles it will raise up for you, and you will eat the plants of the field.
 
@@ -58,7 +58,7 @@
 - **3:5** — ὡς θεοί is plural, "like gods." The Greek does not make it a title for the one God here.
 - **3:8** — ἐν μέσῳ τοῦ ξύλου is literally "in the midst of the tree"; the singular is taken as collective, "among the trees." τὸ δειλινόν means late afternoon toward evening.
 - **3:14** — ἀπὸ πάντων is rendered "above all," meaning set apart in curse from all the other animals. "Earth you will eat" keeps γῆν; the Greek uses the same word as for the ground in 3:17–19.
-- **3:15** — The Greek pronoun αὐτός ("he") is masculine, although its antecedent σπέρμα ("seed") is neuter. Early Christian readers noticed this. τηρέω means "watch, guard, keep watch for"; the Greek uses it in both clauses, so both get "watch for."
+- **3:15** — The Greek pronoun αὐτός ("he") is masculine, although its antecedent σπέρμα ("seed") is neuter. τηρέω means "watch, guard, keep watch for"; the Greek uses it in both clauses, so both get "watch for."
 - **3:16** — Πληθύνων πληθυνῶ ("multiplying I will multiply") is an emphatic idiom, rendered "I will greatly multiply." ἀποστροφή means a turning or recourse; the Greek does not use a word for "desire."
 - **3:19** — The Greek uses γῆ ("earth") in every clause, "you are earth, and into earth you will depart." It is kept so, not changed to "dust."
 - **3:20** — The Greek translates the name as Ζωή, "Life." Following the Greek, the name is given as Life instead of Eve, which is the Hebrew-based name.

@@ -15,7 +15,7 @@
 
 **48:5** Now therefore, your two sons who were born to you in Egypt before I came to Egypt to you are mine; Ephraim and Manasseh will be mine, just like Reuben and Simeon.
 
-**48:6** But the children whom you may father after these will be under the name of their brothers; they will be called in their allotments.
+**48:6** But the children whom you may father after these will be under the name of their brothers; they will be called in their brothers' allotments.
 
 **48:7** And as for me, when I was coming from Mesopotamia of Syria, Rachel your mother died in the land of Canaan, as I was approaching the racecourse of Chabratha of the land, to come to Ephrathah; and I buried her on the road of the racecourse; this is Bethlehem."
 

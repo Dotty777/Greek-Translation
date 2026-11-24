@@ -61,7 +61,7 @@
 
 **25:28** And Isaac loved Esau, because his game was food for him; but Rebekah loved Jacob.
 
-**25:29** Now Jacob cooked a stew, and Esau came from the plain, fainting.
+**25:29** Now Jacob cooked a stew, and Esau came from the field, fainting.
 
 **25:30** And Esau said to Jacob, "Give me a taste of this red stew, for I am fainting." Therefore his name was called Edom.
 

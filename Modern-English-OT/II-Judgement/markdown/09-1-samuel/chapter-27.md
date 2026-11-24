@@ -31,7 +31,7 @@
 
 ## Translator Notes
 
-- **27:1** — Throughout 1 Kingdoms, the Greek uses a common term meaning 'foreigners' where the Hebrew has 'Philistines.' Here 'I will be given over' translates a Greek verb literally meaning 'be added' or 'handed over.'
+- **27:1** — Throughout 1 Kingdoms, the Greek uses a common term meaning 'foreigners' where the Hebrew has 'Philistines.' Here 'I will be given over' translates a Greek verb literally meaning 'be added.'
 - **27:2** — The Greek reads 'four hundred men' and 'Ammach' where the Hebrew text has 'six hundred men' and 'Maoch.'
 - **27:3** — The Greek reads 'Ahinoam the Israelite' where the Hebrew text has 'Ahinoam the Jezreelitess,' and omits 'in Gath.'
 - **27:7** — The Greek reads 'in the way of the foreigners' and 'four months' where the Hebrew text has 'in the country of the Philistines' and 'a year and four months.'

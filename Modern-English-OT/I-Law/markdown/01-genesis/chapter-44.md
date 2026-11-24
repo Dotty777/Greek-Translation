@@ -5,9 +5,9 @@
 
 ## Text
 
-**44:1** And Joseph commanded the one who was over his house, saying, "Fill the men's sacks with as much food as they are able to carry, and put each one's silver at the mouth of his sack,
+**44:1** And Joseph commanded the one who was over his house, saying, "Fill the men's bags with as much food as they are able to carry, and put each one's silver at the mouth of his bag,
 
-**44:2** and put my silver cup into the sack of the youngest, and the price of his grain." And it was done according to the word of Joseph, just as he spoke.
+**44:2** and put my silver cup into the bag of the youngest, and the price of his grain." And it was done according to the word of Joseph, just as he spoke.
 
 **44:3** The morning dawned, and the men were sent away, they and their donkeys.
 
@@ -19,17 +19,17 @@
 
 **44:7** And they said to him, "Why does my lord speak according to these words? Far be it from your servants to do this thing.
 
-**44:8** If we returned to you from the land of Canaan the silver that we found in our sacks, how could we steal silver or gold from the house of your lord?
+**44:8** If we returned to you from the land of Canaan the silver that we found in our bags, how could we steal silver or gold from the house of your lord?
 
 **44:9** The one of your servants with whom the cup is found, let him die; and we also will be servants to our lord."
 
 **44:10** And he said, "And now, as you say, so it will be: the man with whom the cup is found, he will be my servant, and you will be innocent."
 
-**44:11** And they hurried and each one lowered his sack to the ground, and each one opened his sack.
+**44:11** And they hurried and each one lowered his bag to the ground, and each one opened his bag.
 
-**44:12** And he searched, beginning from the oldest until he came to the youngest, and he found the cup in Benjamin's sack.
+**44:12** And he searched, beginning from the oldest until he came to the youngest, and he found the cup in Benjamin's bag.
 
-**44:13** And they tore their garments, and each one placed his sack upon his donkey, and they returned to the city.
+**44:13** And they tore their garments, and each one placed his bag upon his donkey, and they returned to the city.
 
 **44:14** And Judah and his brothers came in to Joseph, while he was still there, and they fell before him to the ground.
 

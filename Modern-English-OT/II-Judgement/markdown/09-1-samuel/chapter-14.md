@@ -45,7 +45,7 @@
 
 **14:20** And Saul and all the people who were with him went up and came as far as the battle; and look, each man's sword was against his neighbor, a very great confusion.
 
-**14:21** And the slaves who had been with the foreigners yesterday and the day before, who had gone up into the camp, they also turned around to be with Israel, those who were with Saul and Jonathan.
+**14:21** And the servants who had been with the foreigners yesterday and the day before, who had gone up into the camp, they also turned around to be with Israel, those who were with Saul and Jonathan.
 
 **14:22** And all Israel who were hiding in Mount Ephraim also heard that foreigners had fled, and they also joined in behind them into battle.
 
@@ -81,7 +81,7 @@
 
 **14:38** And Saul said, "Bring near here all the corners of Israel, and know and see in whom this sin has occurred today.
 
-**14:39** For as the Lord lives who saved Israel, even if He answers against Jonathan my son, he will surely die." And there was no one answering from all the people.
+**14:39** For as the Lord lives who saved Israel, if He answers against Jonathan my son, he will surely die." And there was no one answering from all the people.
 
 **14:40** And he said to all Israel, "You will be for bondage, and I and Jonathan my son will be for bondage." And the people said to Saul, "Do what is good before you."
 

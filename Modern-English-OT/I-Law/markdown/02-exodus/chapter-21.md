@@ -85,4 +85,4 @@
 - **21:16** — The Septuagint reverses verses 16 and 17 relative to the Masoretic Text, placing speaking evil of parents in verse 16 and kidnapping in verse 17.
 - **21:22** — In verses 22–23, the Greek distinguishes between a child not yet fully formed (me exeikonismenon) and one fully formed (exeikonismenon), whereas the Masoretic Text speaks generally of "harm."
 - **21:29** — "Before yesterday and before the third day" is a literal Greek rendering of the Hebrew idiom for "previously," and Greek aphanise means "remove" or "do away with" rather than "keep confined."
-- **21:32** — The Greek converts the Hebrew weight unit into thirty didrachmas of silver; note also that verse 37 of this chapter corresponds to Exodus 22:1 in the Masoretic Text.
+- **21:32** — The Greek converts the Hebrew weight unit into thirty didrachmas of silver.

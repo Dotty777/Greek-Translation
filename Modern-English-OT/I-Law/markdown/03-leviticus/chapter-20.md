@@ -9,7 +9,7 @@
 
 **20:2** 'If anyone from the sons of Israel or from those who have become resident aliens in Israel gives any of his offspring to a ruler, he shall surely be put to death; the nation that is upon the land shall stone him with stones.
 
-**20:3** And I will set My face against that man and I will destroy him from his people, because he gave of his offspring to a ruler, so as to defile My sanctuary and profane the name of those consecrated to Me.
+**20:3** And I will set My face against that man and I will destroy him from his people, because he gave of his offspring to a ruler, so as to defile My holy places and profane the name of those consecrated to Me.
 
 **20:4** And if the natives of the land completely look away with their eyes from that man when he gives of his offspring to a ruler, so as not to kill him,
 
@@ -29,7 +29,7 @@
 
 **20:12** And if anyone lies with his daughter-in-law, both of them shall surely be put to death; for they have acted impiously; they are guilty.
 
-**20:13** And whoever lies with a male as one lies with a woman, both of them have done a detestable thing; they shall be put to death; they are guilty.
+**20:13** And whoever lies with a male as one lies with a woman, both of them have done an abomination; they shall be put to death; they are guilty.
 
 **20:14** Whoever takes a woman and her mother, it is a lawless deed; they shall burn up him and them in fire, and there shall not be lawlessness among you.
 
@@ -49,7 +49,7 @@
 
 **20:22** And keep all My ordinances and My judgments, and you shall do them; and the land into which I am bringing you to dwell there upon it shall by no means be disgusted with you.
 
-**20:23** And you are not to walk in the customs of the nations, whom I am sending away from you; because they did all these things, and I detested them.
+**20:23** And you are not to walk in the statutes of the nations, whom I am sending away from you; because they did all these things, and I detested them.
 
 **20:24** And I said to you, "You inherit their land, and I will give it to you as a possession, a land flowing with milk and honey." I am the Lord your God, who set you apart from all the nations.
 

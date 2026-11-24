@@ -35,13 +35,13 @@
 
 **42:15** by this you will be revealed: by the health of Pharaoh, you will certainly not go out from here unless your youngest brother comes here.
 
-**42:16** Send one from among you, and fetch your brother, while you are led away until your words become evident, whether you are telling the truth or not; otherwise, by the health of Pharaoh, surely you are spies."
+**42:16** Send one from among you, and fetch your brother, but as for you, be led away until your words become evident, whether you are telling the truth or not; otherwise, by the health of Pharaoh, surely you are spies."
 
 **42:17** And he put them in prison for three days.
 
 **42:18** Then on the third day he said to them, "Do this, and you will live, for I fear God:
 
-**42:19** if you are peaceable, let one of your brothers be held in prison, while you yourselves walk on and carry away the purchase of your grain supply,
+**42:19** if you are peaceable, let one of your brothers be held in prison, but you yourselves go and carry away the purchase of your grain supply,
 
 **42:20** and bring your youngest brother down to me, and your words will be believed; otherwise, you will die." And they did so.
 
@@ -59,7 +59,7 @@
 
 **42:27** Now when one untied his bag to give fodder to his donkeys where they lodged, he saw his bundle of silver, and it was on top of the mouth of the bag.
 
-**42:28** And he said to his brothers, "My silver has been returned to me, and look, here it is in my bag." And their heart failed them, and they were troubled, saying to one another, "What is this that God has done to us?"
+**42:28** And he said to his brothers, "My silver has been returned to me, and look, here it is in my bag." And their heart was astonished, and they were troubled, saying to one another, "What is this that God has done to us?"
 
 **42:29** And they came to Jacob their father in the land of Canaan, and reported to him all the things that had happened to them, saying,
 

@@ -35,7 +35,7 @@
 
 **25:16** And you shall put into the ark the testimonies that I will give you.
 
-**25:17** And you shall make a mercy seat of pure gold, two and a half cubits in length, and a cubit and a half in width.
+**25:17** And you shall make a mercy seat, a cover of pure gold, two and a half cubits in length, and a cubit and a half in width.
 
 **25:18** And you shall make two cherubim of hammered gold, and place them on both sides of the mercy seat;
 
@@ -86,7 +86,7 @@
 ## Translator Notes
 
 - **25:5** — "Incorruptible wood" renders Greek xyla asēpta (literally "non-rotting wood"), the Septuagint term for acacia wood. Verse 6 of the Hebrew text (listing oil, spices, and incense) is absent in the Greek critical text.
-- **25:17** — "Mercy seat" translates Greek hilastērion epithema (literally "propitiatory cover"), shortened to hilastērion in verses 18–22 and rendered consistently as "mercy seat" across Exodus, Leviticus, and Numbers.
+- **25:17** — "A mercy seat, a cover" renders Greek hilastērion epithema (literally "a propitiatory cover"); verses 18–22 use hilastērion alone.
 - **25:22** — The Greek reads "I will make Myself known to you from there" (gnōsthēsomai), whereas the Hebrew Masoretic Text reads "I will meet with you there."
 - **25:23** — The Greek specifies "a golden table of pure gold," whereas the Hebrew Masoretic Text describes a table of acacia wood overlaid with gold.
 - **25:35** — The Greek specifies a knob under "the two branches" and a knob under "the four branches," and repeats the clause about four nut-shaped cups on the lampstand, differing from the three pairs of two branches in the Hebrew Masoretic Text.

@@ -33,11 +33,11 @@
 
 **16:14** And the Spirit of the Lord departed from Saul, and an evil spirit from the Lord was choking him.
 
-**16:15** And Saul's attendants said to him, "Look now, an evil spirit of the Lord is choking you.
+**16:15** And Saul's servants said to him, "Look now, an evil spirit of the Lord is choking you.
 
 **16:16** Let your servants speak now before you, and let them seek for our lord a man who knows how to play on a lyre; and it will happen, when an evil spirit is upon you, that he will play on his lyre, and it will be good for you, and he will give you rest."
 
-**16:17** And Saul said to his attendants, "Please look for a man for me who plays well, and bring him in to me."
+**16:17** And Saul said to his servants, "Please look for a man for me who plays well, and bring him in to me."
 
 **16:18** And one of his young men answered and said, "Look, I have seen a son of Jesse, a Bethlehemite, and he knows music, and the man is intelligent, and the man is a warrior, and wise in speech, and a man good in appearance, and the Lord is with him."
 
@@ -55,5 +55,5 @@
 
 - **16:8** — Greek reads "Amminadab" (Ameinadab), where the Hebrew text reads "Abinadab."
 - **16:12** — Greek adds "to the Lord," names "David" explicitly, and reads "for this one is good" where the Hebrew text reads "for this is he."
-- **16:14** — Greek "was choking" (also "is choking" in 16:15) renders the Hebrew "was terrorizing" with a physical image of suffocation, contrasted with Saul being "refreshed" (literally breathing freely again) in 16:23.
+- **16:14** — Greek "was choking" (also "is choking" in 16:15) renders a verb meaning "choke" or "strangle," where the Hebrew text reads "was terrorizing."
 - **16:20** — Greek "gomor" (a dry measure corresponding to Hebrew omer or homer) reflects a different vocalization of the Hebrew consonants for "donkey" (a donkey laden with bread).

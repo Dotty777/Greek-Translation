@@ -63,7 +63,7 @@
 
 **22:29** And Balaam said to the donkey, "Because you have mocked me; and if I had a sword in my hand, I would already have run you through."
 
-**22:30** And the donkey said to Balaam, "Am I not your donkey, on which you have ridden from your youth until this day? Have I ever, in utter disregard, done this to you?" And he said, "No."
+**22:30** And the donkey said to Balaam, "Am I not your donkey, on which you have ridden from your youth until this day? Have I, in utter disregard, done this to you?" And he said, "No."
 
 **22:31** Then God uncovered the eyes of Balaam, and he saw the angel of the Lord standing in opposition on the road, with the sword drawn in his hand; and bowing low, he prostrated himself on his face.
 

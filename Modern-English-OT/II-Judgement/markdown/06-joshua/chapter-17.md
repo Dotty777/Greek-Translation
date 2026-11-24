@@ -39,7 +39,7 @@
 
 **17:17** And Joshua said to the sons of Joseph, "If you are a numerous people and have great strength, you will not have one lot;
 
-**17:18** for the forest will be yours, because it is a forest, and you will clear it, and it will be yours even when you utterly destroy the Canaanite, though he has choice cavalry; for you are stronger than he is."
+**17:18** for the forest will be yours, because it is a forest, and you will clear it, and it will be yours even when you utterly destroy the Canaanite, because he has choice cavalry; for you are stronger than he is."
 
 ## Translator Notes
 

@@ -9,13 +9,13 @@
 
 **27:2** and standing before Moses and before Eleazar the priest and before the rulers and before all the congregation at the doorway of the tent of testimony, they said,
 
-**27:3** "Our father died in the wilderness, and he was not in the midst of the congregation that banded together against the Lord in the congregation of Korah, for he died because of his sin, and he had no sons. Let the name of our father not be blotted out from the midst of his clan because he has no son; give us a possession in the midst of our father's brothers."
+**27:3** "Our father died in the wilderness, and he was not in the midst of the congregation that banded together before the Lord in the congregation of Korah, for he died because of his sin, and he had no sons. Let the name of our father not be blotted out from the midst of his clan because he has no son; give us a possession in the midst of our father's brothers."
 
 **27:4** And Moses brought their case before the Lord.
 
 **27:5** And the Lord spoke to Moses, saying,
 
-**27:6** "The daughters of Zelophehad have spoken rightly; you shall surely give them a possession of inheritance in the midst of their father's brothers, and you shall transfer their father's allotment to them. And you shall speak to the sons of Israel.
+**27:6** "The daughters of Zelophehad have spoken rightly; you shall give them as a gift a possession of inheritance in the midst of their father's brothers, and you shall transfer their father's allotment to them. And you shall speak to the sons of Israel.
 
 **27:7** And you shall speak to the sons of Israel,
 

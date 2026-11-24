@@ -57,7 +57,7 @@
 
 **2:26** And the boy Samuel went on, and was good both with the Lord and with people.
 
-**2:27** And a man of God came to Eli and said, "Thus says the Lord: I indeed revealed Myself to the house of your father, when they were in the land of Egypt as slaves to the house of Pharaoh;
+**2:27** And a man of God came to Eli and said, "Thus says the Lord: I indeed revealed Myself to the house of your father, when they were in the land of Egypt as servants to the house of Pharaoh;
 
 **2:28** and I chose the house of your father out of all the tribes of Israel to serve as priests to Me, and to go up to My altar and to burn incense and to bear an ephod; and I gave to the house of your father all the fire offerings of the sons of Israel for food.
 

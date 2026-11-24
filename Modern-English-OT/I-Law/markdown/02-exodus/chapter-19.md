@@ -13,7 +13,7 @@
 
 **19:4** 'You yourselves have seen all that I have done to the Egyptians, and I took you up as on wings of eagles, and brought you to Myself.
 
-**19:5** And now if you truly listen to My voice and keep My covenant, you shall be to Me a treasured people from among all the nations; for all the earth is Mine,
+**19:5** And now if you carefully listen to My voice and keep My covenant, you shall be to Me a treasured people from among all the nations; for all the earth is Mine,
 
 **19:6** and you shall be to Me a royal priesthood and a holy nation.' These are the words that you shall speak to the sons of Israel."
 
@@ -60,4 +60,4 @@
 - **19:3** — The Septuagint states that God called Moses "from heaven" (ek tou ouranou), whereas the Hebrew MT reads "out of the mountain."
 - **19:13** — The Greek instructs that they may ascend when "the sounds and the trumpets and the cloud depart from the mountain," differing significantly from the Hebrew MT "when the ram's horn sounds a long blast."
 - **19:18** — The Septuagint reads "all the people were exceedingly amazed," where the Hebrew MT has "the whole mountain trembled violently."
-- **19:22** — The Greek apallaxe ap' auton most naturally means "depart from them" (though some render it "remove some of them"), differing from the Hebrew MT "break out against them."
+- **19:22** — The Greek apallaxe ap' auton is taken as "depart from them" (the verb can also mean "remove [some] of them"), differing from the Hebrew MT "break out against them."

@@ -19,13 +19,13 @@
 
 **26:7** And David and Abishai went in among the people by night, and look, Saul was fast asleep in a covered wagon, and his spear was driven into the ground beside his head, and Abner and his people were sleeping around him.
 
-**26:8** And Abishai said to David, "Today the Lord has delivered up your enemy into your hands; and now let me strike him with the spear to the ground once, and I will not do it to him a second time."
+**26:8** And Abishai said to David, "Today the Lord has shut up your enemy into your hands; and now let me strike him with the spear to the ground once, and I will not do it to him a second time."
 
 **26:9** And David said to Abishai, "Do not humble him, for who will lay his hand on the Lord's anointed and be held guiltless?"
 
 **26:10** And David said, "As the Lord lives, surely the Lord will discipline him, or his day will come and he will die, or he will go down into battle and be added;
 
-**26:11** far be it from me before the Lord to lay my hand on the Lord's anointed. And now, please take the spear from beside his head and the flask of water, and let us go away by ourselves."
+**26:11** by no means may it be for me from the Lord to lay my hand on the Lord's anointed. And now, please take the spear from beside his head and the flask of water, and let us go away by ourselves."
 
 **26:12** And David took the spear and the flask of water from beside his head, and they went away by themselves; and there was no one who saw, and there was no one who knew, and there was no one who woke up; all were sleeping, because a stupor from the Lord had fallen upon them.
 

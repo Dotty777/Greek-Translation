@@ -13,7 +13,7 @@
 
 **36:4** And if the release of the sons of Israel comes, then their inheritance will be added to the inheritance of the tribe to whom they become wives, and their inheritance will be taken away from the inheritance of the tribe of our ancestral family."
 
-**36:5** And Moses commanded the sons of Israel by the decree of the Lord, saying, "The tribe of the sons of Joseph speaks rightly.
+**36:5** And Moses commanded the sons of Israel by the decree of the Lord, saying, "The tribe of the sons of Joseph speaks thus.
 
 **36:6** This is the word that the Lord ordered for the daughters of Zelophehad, saying, 'Where it is pleasing in their sight, let them become wives; only to those from the clan of their father let them become wives.
 
@@ -35,6 +35,6 @@
 
 - **36:1** — The Septuagint uniquely includes "and before Eleazar the priest," which is absent from the Hebrew Masoretic Text (cf. Num 27:2), and refers to the Gileadite group as a "tribe" rather than a clan.
 - **36:4** — Greek aphesis ("release") is the Septuagint's regular term for the Hebrew Jubilee (cf. Lev 25:10).
-- **36:5** — Greek houtos ("Thus") renders Hebrew ken with its sense "so/thus" rather than "rightly" (contrast Num 27:7, where the Septuagint renders ken as orthos, "rightly").
+- **36:5** — Greek houtos ("Thus") renders Hebrew ken with its sense "so/thus" rather than "rightly" (contrast Num 27:6, where the Septuagint renders ken as orthos, "rightly").
 - **36:11** — The Septuagint orders the five daughters of Zelophehad with Mahlah last rather than first as in the Hebrew Masoretic Text, and uses the idiom "became to their cousins" (i.e., "were married to their cousins") without an explicit word for "wives."
 - **36:13** — The Septuagint includes "the statutes" alongside commandments and judgments, omits "to the sons of Israel," and renders Hebrew arbot ("plains") as "the west" (lit. "sunsets") of Moab.

@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **30:1** — Following Septuagint and Hebrew versification, chapter 30 begins here (numbered 29:40 in most English Bibles), shifting the chapter's verse numbers ahead by one.
+- **30:1** — Following Septuagint and Hebrew versification, chapter 30 begins here (29:40 in an alternative versification), shifting the chapter's verse numbers ahead by one.
 - **30:6** — Greek kathariei ("will cleanse," also in vv. 9, 13) declares the woman clear of guilt, where the Hebrew text reads "will forgive."
 - **30:7** — Greek kata ten diastolen ton cheileon autes ("according to the utterance of her lips") links to the vows as a qualifying phrase rather than the Hebrew alternative "or the rash utterance of her lips."
 - **30:13** — Greek periaireo (literally "remove" or "take away," also in vv. 14, 16) denotes canceling or annulling the binding force of a vow.

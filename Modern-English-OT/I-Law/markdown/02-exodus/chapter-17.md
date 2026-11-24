@@ -41,5 +41,5 @@
 
 - **17:6** — The Greek reads "before the sons of Israel," whereas the Hebrew MT reads "in the sight of the elders of Israel."
 - **17:7** — Rather than transliterating the Hebrew place names Massah and Meribah, the Septuagint translates them into Greek as Peirasmos ("Testing") and Loidoresis ("Reviling").
-- **17:15** — The Septuagint renders the altar's name "The Lord is my refuge" (Kyrios kataphyge mou), differing from the Hebrew MT "Yahweh-Nissi" ("The Lord is my banner").
+- **17:15** — The Septuagint renders the altar's name "The Lord is my refuge" (Kyrios kataphyge mou), differing from the Hebrew MT name meaning "The Lord is my banner."
 - **17:16** — The Greek reads "with a hidden hand" (en cheiri kryphaia), whereas the Hebrew MT has the difficult phrase "a hand upon the throne of Yah."

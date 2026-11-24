@@ -13,11 +13,11 @@
 
 **11:4** And Moses said, "Thus says the Lord: 'Around midnight I am going into the midst of Egypt,
 
-**11:5** and every firstborn in the land of Egypt will die, from the firstborn of Pharaoh who sits on the throne even to the firstborn of the maidservant who is beside the mill, and even to the firstborn of every animal;
+**11:5** and every firstborn in the land of Egypt will die, from the firstborn of Pharaoh who sits on the throne even to the firstborn of the maidservant who is beside the mill, and even to the firstborn of all livestock;
 
 **11:6** and there will be a great outcry throughout all the land of Egypt, such as has never occurred and such as will never occur again.
 
-**11:7** And among all the sons of Israel not a dog will snarl with its tongue, not from man to animal, so that you may see how wondrously the Lord makes a distinction between the Egyptians and Israel.'
+**11:7** And among all the sons of Israel not a dog will snarl with its tongue, not from man to livestock, so that you may see how wondrously the Lord makes a distinction between the Egyptians and Israel.'
 
 **11:8** And all these servants of yours will come down to me and bow down to me, saying, 'Go out, you and all your people whom you lead!' And after these things I will go out." And Moses went out from Pharaoh in anger.
 

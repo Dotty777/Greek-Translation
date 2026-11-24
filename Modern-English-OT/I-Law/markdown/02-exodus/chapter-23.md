@@ -17,7 +17,7 @@
 
 **23:6** You shall not pervert the judgment of a poor person in his case.
 
-**23:7** From every unjust matter you shall stay away; the innocent and the righteous you shall not kill, and you shall not acquit the ungodly for the sake of gifts.
+**23:7** From every unjust matter you shall stay away; the innocent and the righteous you shall not kill, and you shall not justify the ungodly for the sake of gifts.
 
 **23:8** And you shall not take gifts; for gifts blind the eyes of those who see and ruin righteous words.
 
@@ -47,7 +47,7 @@
 
 **23:21** Pay attention to yourself and listen to him, and do not disobey him; for he will by no means hold back from you, for My name is upon him.
 
-**23:22** If you truly listen to My voice, and do all things that I command you, and keep My covenant, you shall be to Me a treasured people above all the nations; for all the earth is Mine, and you shall be to Me a royal priesthood and a holy nation. These words you shall speak to the sons of Israel. If you truly listen to My voice, and do all things that I say to you, I will be an enemy to your enemies and oppose those who oppose you.
+**23:22** If you carefully listen to My voice, and do all things that I command you, and keep My covenant, you shall be to Me a treasured people from among all the nations; for all the earth is Mine, and you shall be to Me a royal priesthood and a holy nation. These words you shall speak to the sons of Israel. If you carefully listen to My voice, and do all things that I say to you, I will be an enemy to your enemies and oppose those who oppose you.
 
 **23:23** For My angel will go leading you, and will bring you to the Amorite and the Hittite and the Perizzite and the Canaanite and the Girgashite and the Hivite and the Jebusite, and I will wipe them out.
 

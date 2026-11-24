@@ -17,17 +17,17 @@
 
 **12:6** And it shall be kept by you until the fourteenth of this month, and all the multitude of the congregation of the sons of Israel shall slaughter it toward evening.
 
-**12:7** And they shall take some of the blood and put it on the two doorposts and on the lintel, on the houses in which they eat them.
+**12:7** And they shall take some of the blood and put it on the two doorposts and on the lintel, in the houses in which they eat them.
 
 **12:8** And they shall eat the flesh on this night, roasted with fire, and they shall eat unleavened bread with bitter herbs.
 
 **12:9** You shall not eat any of it raw nor boiled in water, but only roasted with fire, the head with the feet and the inner parts.
 
-**12:10** You shall not leave any of it until morning, and you shall not break a bone of it; and what remains of it until morning you shall burn with fire.
+**12:10** None of it shall be left until morning, and a bone of it shall not be broken; and what remains of it until morning you shall burn with fire.
 
 **12:11** And in this way you shall eat it: your waists girded, and your sandals on your feet, and your staffs in your hands; and you shall eat it with haste. It is a Passover to the Lord.
 
-**12:12** And I will go through the land of Egypt on this night, and I will strike every firstborn in the land of Egypt, from man to livestock, and against all the gods of the Egyptians I will execute vengeance; I am the Lord.
+**12:12** And I will come into the land of Egypt on this night, and I will strike every firstborn in the land of Egypt, from man to livestock, and against all the gods of the Egyptians I will execute vengeance; I am the Lord.
 
 **12:13** And the blood shall be for you as a sign on the houses where you are; and I will see the blood and will shelter you, and there shall not be among you a plague of destruction when I strike in the land of Egypt.
 
@@ -99,9 +99,9 @@
 
 **12:47** All the congregation of the sons of Israel shall observe it.
 
-**12:48** And if any proselyte comes to you to observe the Passover to the Lord, you shall circumcise every male belonging to him; and then he shall come near to observe it, and he shall be just like the native of the land. No uncircumcised person shall eat of it.
+**12:48** And if any resident alien comes to you to observe the Passover to the Lord, you shall circumcise every male belonging to him; and then he shall come near to observe it, and he shall be just like the native of the land. No uncircumcised person shall eat of it.
 
-**12:49** There shall be one law for the native-born and for the proselyte who has come among you."
+**12:49** There shall be one law for the native-born and for the resident alien who has come among you."
 
 **12:50** And the sons of Israel did just as the Lord commanded Moses and Aaron concerning them; so they did.
 
@@ -109,7 +109,7 @@
 
 ## Translator Notes
 
-- **12:10** — The clause "and you shall not break a bone of it" appears here in the Septuagint in addition to 12:46 (absent from the Masoretic Text in v. 10). The Greek spelling of the first two verbs (-εται) is an orthographic variant for the second-person plural future (-ετε), matching the third verb and 12:46.
+- **12:10** — The clause "and a bone of it shall not be broken" appears here in the Septuagint in addition to 12:46 (absent from the Masoretic Text in v. 10). The first two verbs here are third-person forms (ἀπολείψεται, συντρίψεται); other editions read second-person plural forms (-ετε), matching the third verb and 12:46.
 - **12:13** — Greek σκεπάσω ("I will shelter") renders the Passover verb here and in 12:27, emphasizing protective covering (compare παρελεύσεται, "will pass by," in 12:23).
 - **12:19** — Greek γιώραις is a transliteration of the Aramaic term giyora ("proselyte" or "resident alien"), corresponding to προσήλυτος in 12:48–49.
 - **12:22** — Greek παρὰ τὴν θύραν ("beside the door," twice) reflects the Septuagint's understanding of the Hebrew term as "threshold" rather than "basin."

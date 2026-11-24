@@ -41,5 +41,5 @@
 
 - **12:1** — The Greek text reads Aithiopissa ("Ethiopian woman"), rendering the Hebrew "Cushite woman" with the Septuagint's standard geographic equivalent.
 - **12:4** — The Greek text uses skene tou martyriou ("tent of testimony") rather than the Hebrew "tent of meeting," and lists Miriam before Aaron.
-- **12:6** — The Greek text reads Kyrio ("for the Lord") in the dative and en hypno ("in sleep") rather than "in a dream," resolving a difficult Hebrew clause; in v. 8 it likewise reads "the glory of the Lord" where Hebrew has "the form of the LORD."
+- **12:6** — The Greek text reads Kyrio ("for the Lord") in the dative and en hypno ("in sleep") rather than "in a dream," resolving a difficult Hebrew clause; in v. 8 it likewise reads "the glory of the Lord" where Hebrew has "the form of the Lord."
 - **12:15** — The Greek text reads ekatharisthe ("was cleansed"), whereas the Hebrew text reads "was brought back in."

@@ -23,7 +23,7 @@
 
 **19:9** And a clean person shall gather the ashes of the heifer and deposit them outside the camp in a clean place. And it shall be for the congregation of the sons of Israel for safekeeping; water of sprinkling—it is a purification.
 
-**19:10** And the one who gathers the ashes of the heifer shall wash his garments, and he shall be unclean until evening; and it shall be for the sons of Israel and for the attached proselytes an eternal statute.
+**19:10** And the one who gathers the ashes of the heifer shall wash his garments, and he shall be unclean until evening; and it shall be for the sons of Israel and for the attached resident aliens an eternal statute.
 
 **19:11** The one who touches the dead body of any human person shall be unclean for seven days;
 

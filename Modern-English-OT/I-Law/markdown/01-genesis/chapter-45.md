@@ -41,7 +41,7 @@
 
 **45:18** and taking your father and your possessions, come to me; and I will give you of all the good things of Egypt, and you will eat the marrow of the land.'
 
-**45:19** And you command these things: for them to take wagons from the land of Egypt for your little ones and your wives, and taking up your father, come.
+**45:19** And you, command these things: for them to take wagons from the land of Egypt for your little ones and your wives, and taking up your father, come.
 
 **45:20** And do not spare your goods with your eyes, for all the good things of Egypt will be yours."
 

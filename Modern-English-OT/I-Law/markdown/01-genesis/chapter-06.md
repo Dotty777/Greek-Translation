@@ -31,7 +31,7 @@
 
 **6:13** And God said to Noah, "The time of every person has come before Me, because the earth has been filled with injustice because of them; and look, I am about to destroy them and the earth.
 
-**6:14** Therefore, make for yourself an ark out of squared timbers; you will make nests in the ark, and you will coat it inside and outside with bitumen.
+**6:14** Therefore, make for yourself an ark out of squared timbers; you will make nests in the ark, and you will coat it inside and outside with asphalt.
 
 **6:15** And this is how you will make the ark: three hundred cubits the length of the ark, and fifty cubits the width, and thirty cubits its height.
 

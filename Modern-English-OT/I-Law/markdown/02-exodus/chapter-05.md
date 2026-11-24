@@ -41,7 +41,7 @@
 
 **5:18** Now therefore go and work; for the straw will not be given to you, yet you shall deliver the quota of brickmaking."
 
-**5:19** And the scribes of the sons of Israel saw themselves in trouble, as it was said, "You shall not fall short of the daily requirement of brickmaking."
+**5:19** And the scribes of the sons of Israel saw themselves in trouble, saying, "You shall not fall short of the daily requirement of brickmaking."
 
 **5:20** And they met Moses and Aaron coming to meet them, as they were going out from Pharaoh,
 

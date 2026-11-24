@@ -9,9 +9,9 @@
 
 **25:2** "Speak to the sons of Israel and you shall say to them, 'When you enter the land which I am giving to you, then the land which I am giving to you shall rest a Sabbath to the Lord.
 
-**25:3** Six years you shall sow your field, and six years you shall prune your vineyard and gather its fruit;
+**25:3** Six years you shall sow your field, and six years you shall prune your vine and gather its fruit;
 
-**25:4** but in the seventh year there shall be a Sabbath rest for the land, a Sabbath to the Lord; you shall not sow your field and you shall not prune your vineyard,
+**25:4** but in the seventh year there shall be a Sabbath rest for the land, a Sabbath to the Lord; you shall not sow your field and you shall not prune your vine,
 
 **25:5** and you shall not reap what grows up of itself from your field, and you shall not gather the grapes of your consecration; it shall be a year of rest for the land.
 
@@ -53,7 +53,7 @@
 
 **25:24** and throughout all the land of your possession you shall grant redemption for the land.
 
-**25:25** And if your brother who is with you becomes poor and sells from his possession, then the kinsman who is nearest to him shall come and redeem what his brother sold.
+**25:25** And if your brother who is with you becomes poor and sells from his possession, and the kinsman who is nearest to him comes, then he shall redeem what his brother sold.
 
 **25:26** And if someone does not have a kinsman, and he prospers by his hand and enough is found for him for his redemption,
 
@@ -91,7 +91,7 @@
 
 **25:43** You shall not wear him down with toil, and you shall fear the Lord your God.
 
-**25:44** And a male servant and a female servant, as many as may become yours from the nations, as many as are around you, from them you shall acquire a male slave and a female slave.
+**25:44** And a male servant and a female servant, as many as may become yours from the nations, as many as are around you, from them you shall acquire a male servant and a female servant.
 
 **25:45** And from the sons of the sojourners who are among you, from these you shall acquire, and from their relatives, as many as are born in your land; let them be for you as a possession.
 
@@ -113,7 +113,7 @@
 
 **25:54** And if he is not redeemed after these things, he shall go out in the year of release, he and his children with him.
 
-**25:55** For to Me the sons of Israel are household servants; these are My servants whom I brought out of the land of Egypt.'"
+**25:55** For to Me the sons of Israel are household servants; these are My servants whom I brought out of the land of Egypt.
 
 ## Translator Notes
 

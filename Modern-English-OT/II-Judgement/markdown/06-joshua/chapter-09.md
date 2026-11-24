@@ -17,7 +17,7 @@
 
 **9:6** And they came to Joshua to the camp of Israel at Gilgal, and they said to Joshua and Israel, "We have come from a distant land; and now, make a covenant with us."
 
-**9:7** And the sons of Israel said to the Horite, "See that you are not living among me; and how could I make a covenant with you?"
+**9:7** And the sons of Israel said to the Horite, "See, perhaps you are living among me; and how could I make a covenant with you?"
 
 **9:8** And they said to Joshua, "We are your servants." And Joshua said to them, "Where are you from, and from where have you come?"
 
@@ -49,7 +49,7 @@
 
 **9:22** And Joshua summoned them and said to them, "Why have you deceived me, saying, 'We are very far from you,' when you are locals, of those living among us?
 
-**9:23** And now you are cursed; there will never be lacking from among you a slave or a woodcutter for me and for my God."
+**9:23** And now you are cursed; there will never be lacking from among you a servant or a woodcutter for me and for my God."
 
 **9:24** And they answered Joshua, saying, "It was reported to us all that the Lord your God commanded Moses His servant, to give you this land and to utterly destroy us and all those living upon it from before you; and we were greatly afraid for our lives before you, and we did this thing.
 

@@ -19,7 +19,7 @@
 
 **12:7** And the Lord appeared to Abram and said to him, "To your seed I will give this land." And there Abram built an altar to the Lord who had appeared to him.
 
-**12:8** And he moved away from there to the mountain east of Bethel, and he pitched his tent there, with Bethel toward the sea and Ai toward the east; and he built an altar there to the Lord and called upon the name of the Lord.
+**12:8** And he moved away from there to the mountain east of Bethel, and he pitched his tent there in Bethel toward the sea, with Ai toward the east; and he built an altar there to the Lord and called upon the name of the Lord.
 
 **12:9** And Abram set out, and having traveled on, he encamped in the wilderness.
 

@@ -79,7 +79,7 @@
 
 - **21:3** — The Septuagint translates the Hebrew place name Hormah into Greek as Anathema ("devoted to destruction" or "accursed"), preserving the wordplay with the preceding verb.
 - **21:11** — Greek "Chalgai on the far side" (Chalgai ek tou peran) is a distinct Septuagint form corresponding to Hebrew Iye-abarim.
-- **21:14** — In this citation of the singular "War of the Lord" (Hebrew "Wars of YHWH"), the Greek reads the verb "He set ablaze" with the distinct place name Zoob, where the Hebrew has the obscure phrase "Waheb in Suphah."
+- **21:14** — In this citation of the singular "War of the Lord" (Hebrew "Wars of the Lord"), the Greek reads the verb "He set ablaze" with the distinct place name Zoob, where the Hebrew has the obscure phrase "Waheb in Suphah."
 - **21:19** — This verse gives the whole itinerary and preserves the distinct Greek forms Manthanain (Hebrew Mattanah), Manael (Hebrew Nahaliel), and Ianen (a proper name where the Hebrew has 'the valley'), and reads 'the hewn rock' (τοῦ λελαξευμένου) where the Hebrew has Pisgah.
 - **21:20** — The Saints Greek Critical Text has this clause here and again at the opening of verse 21; both are translated as they stand.
 - **21:24** — The Septuagint reads the place name "Jazer" where the Hebrew reads "strong" ("for the border of the sons of Ammon was strong").

@@ -45,4 +45,4 @@
 - **7:9** — Greek reads 'with all the people' where the Hebrew Masoretic Text reads 'entirely' (a whole offering).
 - **7:12** — Greek reads 'the Old' ('tes palaias', reflecting a Hebrew reading 'Jeshanah') where the Masoretic Text has 'Shen,' and gives both the transliteration 'Ebenezer' and its Greek gloss 'Stone of the Helper.'
 - **7:14** — Greek reads 'from Ashkelon to Azob' where the Hebrew Masoretic Text reads 'from Ekron to Gath.'
-- **7:16** — Greek reads 'in all these consecrated places' where the Hebrew Masoretic Text reads simply 'in all these places'; in v. 17 (and 8:4) Greek reads 'Ramathaim' where the Masoretic Text reads 'Ramah.'
+- **7:16** — Greek reads 'in all these consecrated places' where the Hebrew Masoretic Text reads simply 'in all these places'; in v. 17 (and 8:4) Greek reads 'Armathaim' where the Masoretic Text reads 'Ramah.'

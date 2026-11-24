@@ -5,15 +5,15 @@
 
 ## Text
 
-**7:1** Now it came about on the day when Moses finished setting up the tabernacle that he anointed it and consecrated it, and all its utensils, and the altar and all its utensils, and he anointed them and consecrated them.
+**7:1** Now it came about on the day when Moses finished setting up the tent that he anointed it and consecrated it, and all its utensils, and the altar and all its utensils, and he anointed them and consecrated them.
 
 **7:2** And the leaders of Israel presented an offering, twelve leaders of their ancestral houses; these were the leaders of the tribes, these were the ones who stood over the inspection.
 
-**7:3** And they brought their gift before the Lord: six covered wagons and twelve oxen, a wagon from two leaders and a young bull from each one, and they brought them before the tabernacle.
+**7:3** And they brought their gift before the Lord: six covered wagons and twelve oxen, a wagon from two leaders and a young bull from each one, and they brought them before the tent.
 
 **7:4** And the Lord spoke to Moses, saying,
 
-**7:5** "Accept them from them, and they shall be for the service tasks of the tabernacle of the testimony; and you shall give them to the Levites, to each according to his service."
+**7:5** "Accept them from them, and they shall be for the service tasks of the tent of the testimony; and you shall give them to the Levites, to each according to his service."
 
 **7:6** And Moses took the wagons and the oxen and gave them to the Levites.
 
@@ -181,7 +181,7 @@
 
 **7:88** All the cattle for the sacrifice of deliverance were twenty-four heifers, and sixty rams, sixty year-old ewe lambs without blemish, sixty he-goats. This was the dedication of the altar after filling his hands and after anointing him.
 
-**7:89** When Moses went into the tabernacle of the testimony to speak with Him, he heard the voice of the Lord speaking to him from above the mercy seat, which is on the ark of the testimony, between the two cherubim; and He spoke to him.
+**7:89** When Moses went into the tent of the testimony to speak with Him, he heard the voice of the Lord speaking to him from above the mercy seat, which is on the ark of the testimony, between the two cherubim; and He spoke to him.
 
 ## Translator Notes
 

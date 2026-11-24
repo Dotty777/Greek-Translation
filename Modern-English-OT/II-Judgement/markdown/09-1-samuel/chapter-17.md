@@ -53,7 +53,7 @@
 
 **17:45** And David said to the foreigner, "You come to me with a sword and with a spear and with a shield, and I go to you in the name of the Lord God Sabaoth of the battle line of Israel, which you have reproached today;
 
-**17:46** and the Lord will deliver you up today into my hand, and I will kill you and remove your head from you, and I will give your limbs and the limbs of the camp of the foreigners on this day to the birds of the sky and to the wild beasts of the earth; and all the earth will know that there is a God in Israel.
+**17:46** and the Lord will shut you up today into my hand, and I will kill you and remove your head from you, and I will give your limbs and the limbs of the camp of the foreigners on this day to the birds of the sky and to the wild beasts of the earth; and all the earth will know that there is a God in Israel.
 
 **17:47** And all this assembly will know that the Lord does not save with sword and spear; for the battle belongs to the Lord, and the Lord will hand you over into our hands."
 
@@ -71,7 +71,7 @@
 
 ## Translator Notes
 
-- **17:1** — The Septuagint regularly renders Philistines literally as allophyloi ("foreigners"), here locates Socoh in "Idumea" (MT: "Judah"), and gives the third place name as "Ephermem" (MT: "at Ephes-dammim").
+- **17:1** — The Septuagint regularly renders Philistines as allophyloi ("foreigners"), here locates Socoh in "Idumea" (MT: "Judah"), and gives the third place name as "Ephermem" (MT: "at Ephes-dammim").
 - **17:4** — The Greek gives Goliath's height as "four cubits and a span" (agreeing with 4QSam^a and Josephus), whereas the Hebrew MT reads "six cubits and a span."
 - **17:8** — The Greek reads "Hebrews and Saul" (Hebraioi kai Saoul), differing from the Hebrew MT's "servants of Saul."
 - **17:32** — The shorter Septuagint narrative omits 17:12-31, 41, 50, and 55-58, and here reads "the heart of my lord" where the Hebrew MT reads "the heart of a man."

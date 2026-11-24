@@ -9,13 +9,13 @@
 
 **22:2** "Tell Aaron and his sons, and let them be careful regarding the holy things of the sons of Israel, whatever they themselves sanctify to Me, and they shall not profane My holy name; I am the Lord.
 
-**22:3** Tell them, 'Throughout your generations, any man from your offspring who approaches the holy things, whatever the sons of Israel sanctify to the Lord, while his uncleanness is upon him, that person shall be utterly destroyed from Me; I am the Lord your God.
+**22:3** Tell them, 'Throughout your generations, any man from your offspring who approaches the holy things, whatever the sons of Israel sanctify to the Lord, while his uncleanness is upon him, that soul shall be utterly destroyed from Me; I am the Lord your God.
 
 **22:4** And any man from the offspring of Aaron the priest who has leprosy or a discharge shall not eat of the holy things until he is cleansed; and whoever touches any uncleanness from a dead person, or a man from whom an emission of semen goes out,
 
 **22:5** whoever touches any unclean creeping thing that will defile him, or a person by whom he will defile himself according to all his uncleanness,
 
-**22:6** the person who touches them shall be unclean until evening; he shall not eat from the holy things unless he bathes his body in water
+**22:6** the soul that touches them shall be unclean until evening; he shall not eat from the holy things unless he bathes his body in water
 
 **22:7** and the sun sets, and he shall be clean; and then he may eat of the holy things, because it is his bread.
 
@@ -35,11 +35,11 @@
 
 **22:15** And they shall not profane the holy things of the sons of Israel, which they set apart to the Lord,
 
-**22:16** and bring upon themselves iniquity of trespass when they eat their holy things; because I am the Lord who sanctifies them.'"
+**22:16** and bring upon themselves lawlessness of trespass when they eat their holy things; because I am the Lord who sanctifies them.'"
 
 **22:17** And the Lord spoke to Moses, saying,
 
-**22:18** "Speak to Aaron and to his sons and to the entire congregation of Israel, and you shall say to them, 'Any man from the sons of Israel or from the sons of the proselytes who are joined to them in Israel who offers his gifts according to any pledge of theirs or according to any freewill choice of theirs, whatever they offer to God for a whole burnt offering,
+**22:18** "Speak to Aaron and to his sons and to the entire congregation of Israel, and you shall say to them, 'Any man from the sons of Israel or from the sons of the resident aliens who are joined to them in Israel who offers his gifts according to any pledge of theirs or according to any freewill choice of theirs, whatever they offer to God for a whole burnt offering,
 
 **22:19** they shall be acceptable for you, unblemished males from the cattle and from the sheep and from the goats.
 
@@ -57,7 +57,7 @@
 
 **22:26** And the Lord spoke to Moses, saying,
 
-**22:27** "A calf or a sheep or a goat, when it is born, shall be seven days under its mother; but on the eighth day and beyond, it shall be accepted for gifts, a burnt offering to the Lord.
+**22:27** "A calf or a sheep or a goat, when it is born, shall be seven days under its mother; but on the eighth day and beyond, it shall be accepted for gifts, a fire offering to the Lord.
 
 **22:28** And a calf or a sheep, her and her young ones, you shall not slaughter in one day.
 

@@ -29,7 +29,7 @@
 
 **30:12** and they gave him a piece of a fig cake and he ate, and his spirit was restored in him, because he had not eaten bread and had not drunk water for three days and three nights.
 
-**30:13** And David said to him, "To whom do you belong, and where are you from?" And the Egyptian young man said, "I am a slave of an Amalekite man, and my master left me behind because I fell ill three days ago today.
+**30:13** And David said to him, "To whom do you belong, and where are you from?" And the Egyptian young man said, "I am a servant of an Amalekite man, and my master left me behind because I fell ill three days ago today.
 
 **30:14** And we made a raid against the south of Cholthei and against the regions of Judea and against Gilboa, and we burned Ziklag with fire."
 

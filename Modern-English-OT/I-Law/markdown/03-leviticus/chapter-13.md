@@ -7,7 +7,7 @@
 
 **13:1** And the Lord spoke to Moses and Aaron, saying,
 
-**13:2** "If a bright scar of a mark occurs on any person in the skin of his flesh, and it becomes an affliction of leprosy in the skin of his flesh, then he shall be brought to Aaron the priest or one of his sons, the priests.
+**13:2** "If a bright scar of a mark occurs on any person in the skin of his flesh, and an affliction of leprosy occurs in the skin of his flesh, then he shall be brought to Aaron the priest or one of his sons, the priests.
 
 **13:3** And the priest shall see the affliction in the skin of his flesh, and if the hair in the affliction has turned white and the appearance of the affliction is lower than the skin of the flesh, it is an affliction of leprosy; and the priest shall see and declare him unclean.
 

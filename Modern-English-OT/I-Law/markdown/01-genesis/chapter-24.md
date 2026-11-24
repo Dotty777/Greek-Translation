@@ -39,7 +39,7 @@
 
 **24:17** Then the servant ran to meet her and said, "Give me a little water to drink from your water jar."
 
-**24:18** And she said, "Drink, sir." And she hurried and lowered the water jar onto her arm, and gave him a drink until he finished drinking.
+**24:18** And she said, "Drink, lord." And she hurried and lowered the water jar onto her arm, and gave him a drink until he finished drinking.
 
 **24:19** And she said, "I will draw water for your camels also until they have all drunk."
 
@@ -127,7 +127,7 @@
 
 **24:61** Then Rebekah and her maidservants arose and mounted the camels, and went with the man; and the servant took Rebekah and departed.
 
-**24:62** Now Isaac was journeying through the wilderness by the Well of Vision; for he was dwelling in the land toward the south.
+**24:62** Now Isaac was journeying through the wilderness by the Well of Vision; and he was dwelling in the land toward the south.
 
 **24:63** And Isaac went out to meditate in the field toward evening; and looking up with his eyes, he saw camels coming.
 
@@ -141,13 +141,13 @@
 
 ## Translator Notes
 
-- **24:7** — The Greek text reads "the God of heaven and the God of the earth" and "to you I will give this land and to your seed," where the Hebrew Masoretic Text omits "and the God of the earth" and "to you."
+- **24:7** — The Greek text reads "the God of heaven and the God of the earth" and "to you I will give this land and to your offspring," where the Hebrew Masoretic Text omits "and the God of the earth" and "to you."
 - **24:22** — The Greek reads plural "gold earrings, each a drachma in weight," whereas the Hebrew has a single gold nose-ring weighing half a shekel.
 - **24:24** — The Greek phrasing "whom she bore to him, Nahor" uses an appositional dative (αὐτῷ Ναχώρ) identifying Nahor as the father to whom Milcah bore Bethuel.
 - **24:26** — The Greek participle εὐδοκήσας ("being pleased") differs from the Hebrew "bowed his head."
-- **24:31** — The Greek reads nominative εὐλογητὸς Κύριος ("Blessed is the Lord") as an exclamation of praise, rather than the Hebrew "blessed of the LORD" addressed to the servant.
+- **24:31** — The Greek reads nominative εὐλογητὸς Κύριος ("Blessed is the Lord") as an exclamation of praise, rather than the Hebrew "blessed of the Lord" addressed to the servant.
 - **24:36** — The Greek reads "one son" and "after he had grown old" (masculine αὐτόν, referring to Abraham), whereas the Hebrew Masoretic Text reads "a son" and "after her old age" (referring to Sarah).
 - **24:50** — The Greek idiom ἀντειπεῖν κακὸν καλῷ ("speak against you evil for good") differs from the Hebrew "speak to you bad or good."
 - **24:59** — The Greek reads "her possessions" (τὰ ὑπάρχοντα αὐτῆς), whereas the Hebrew has "her nurse."
 - **24:62** — The Greek renders the place name Beer-lahai-roi descriptively as "the Well of Vision" (τὸ φρέαρ τῆς ὁράσεως) and adds "through the wilderness."
-- **24:67** — The Greek reads "Isaac entered the house of his mother" and ends with "concerning Sarah his mother," whereas the Hebrew reads "brought her into the tent of Sarah his mother" and "after his mother's death."
+- **24:67** — The Greek reads "Isaac entered the house of his mother" and ends with "concerning Sarah his mother," whereas the Hebrew reads "brought her into the tent of Sarah his mother" and "after his mother."

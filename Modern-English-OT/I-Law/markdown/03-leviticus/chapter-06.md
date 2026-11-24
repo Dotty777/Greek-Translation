@@ -19,19 +19,19 @@
 
 **6:7** This is the law of the sacrifice that the sons of Aaron shall present before the Lord in front of the altar:
 
-**6:8** And he shall remove a handful from it, from the fine flour of the sacrifice with its oil and with its frankincense, the things that are on the sacrifice, and he shall offer it up on the altar as an offering, a fragrant aroma, its memorial to the Lord.
+**6:8** And he shall remove a handful from it, from the fine flour of the sacrifice with its oil and with its frankincense, the things that are on the sacrifice, and he shall offer it up on the altar as a fire offering, an aroma of sweet fragrance, its memorial to the Lord.
 
 **6:9** And what is left over from it Aaron and his sons shall eat; it shall be eaten unleavened in a holy place; in the courtyard of the tent of testimony they shall eat it.
 
-**6:10** It shall not be baked leavened; I have given it to them as a portion from the offerings of the Lord; it is most holy, just like the sin offering and just like the trespass offering.
+**6:10** It shall not be baked leavened; I have given it to them as a portion from the fire offerings of the Lord; it is most holy, just like the sin offering and just like the trespass offering.
 
-**6:11** Every male among the priests shall eat it; it is an eternal statute for your generations from the offerings of the Lord. Everyone who touches them shall become holy.'"
+**6:11** Every male among the priests shall eat it; it is an eternal statute for your generations from the fire offerings of the Lord. Everyone who touches them shall become holy.'"
 
 **6:12** And the Lord spoke to Moses, saying,
 
 **6:13** "This is the gift of Aaron and his sons that they shall offer to the Lord on the day when you anoint him: one-tenth of an ephah of fine flour for a continual sacrifice, half of it in the morning and half of it in the evening.
 
-**6:14** It shall be prepared on a griddle in oil; he shall bring it kneaded, rolled pieces, a sacrifice of broken pieces, a sacrifice, a fragrant aroma to the Lord.
+**6:14** It shall be prepared on a griddle in oil; he shall bring it kneaded, rolled pieces, a sacrifice of broken pieces, a sacrifice, an aroma of sweet fragrance to the Lord.
 
 **6:15** The priest who is anointed in his place from among his sons shall prepare it; it is an eternal law; all of it shall be fully performed.
 

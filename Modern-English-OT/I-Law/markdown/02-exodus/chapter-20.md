@@ -51,7 +51,7 @@
 
 **20:23** You must not make for yourselves gods of silver, and gods of gold you must not make for yourselves.
 
-**20:24** You will make an altar of earth for Me, and you will sacrifice upon it your whole burnt offerings and your deliverance offerings, your sheep and your calves, in every place where I name My name; and I will come to you and bless you.
+**20:24** You will make an altar of earth for Me, and you will sacrifice upon it your whole burnt offerings and your deliverance offerings and your sheep and your calves, in every place where I name My name; and I will come to you and bless you.
 
 **20:25** And if you make an altar of stones for Me, you must not build them as cut stones, for you have laid your hand tool upon them, and they have been defiled.
 
@@ -60,6 +60,6 @@
 ## Translator Notes
 
 - **20:12** — The Greek includes "so that it may go well with you" and "the good land," aligning with the phrasing of Deuteronomy 5:16.
-- **20:13** — In the Septuagint, verses 13–15 order the prohibitions as adultery, theft, and murder, differing from the Masoretic Text order (murder, adultery, theft) and matching citations in Luke 18:20 and Romans 13:9.
+- **20:13** — In the Septuagint, verses 13–15 order the prohibitions as adultery, theft, and murder, differing from the Masoretic Text order (murder, adultery, theft).
 - **20:17** — The Greek places "your neighbor's wife" first before "your neighbor's house" and adds "his field," paralleling Deuteronomy 5:21.
 - **20:22** — The Greek expands the introduction with "to the house of Jacob and announce to the sons of Israel," echoing Exodus 19:3.

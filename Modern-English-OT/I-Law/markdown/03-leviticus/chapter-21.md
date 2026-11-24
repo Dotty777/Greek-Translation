@@ -49,7 +49,7 @@
 
 **21:22** He may eat the gifts of God, the most holy things and from the holy things;
 
-**21:23** however, he shall not approach the veil, and he shall not come near to the altar, because he has a blemish; and he shall not profane the sanctuary of his God, because I am the Lord who sanctifies them.'"
+**21:23** however, he shall not approach the curtain, and he shall not come near to the altar, because he has a blemish; and he shall not profane the sanctuary of his God, because I am the Lord who sanctifies them.'"
 
 **21:24** And Moses spoke to Aaron and his sons and to all the sons of Israel.
 
@@ -59,4 +59,4 @@
 - **21:4** — The Greek reads exapina ("suddenly"), whereas the Masoretic Hebrew reads ba'al ("husband" or "chief/leader").
 - **21:8** — The Greek reads third-person singular hagiasei ("he shall sanctify him") rather than second-person ("you shall sanctify him"); the unexpressed subject may be an unspecified Israelite, the Lord, or reflexive.
 - **21:10** — Greek apokidarōsei specifically means "remove the turban from" (from kidaris, the priestly turban), whereas the Hebrew refers to unbinding or uncovering the head.
-- **21:20** — Several Septuagint defect terms specify conditions differently from the Hebrew, including ephēlos ("having a white spot in the eye"), ptilos tous ophthalmous ("bleary in the eyes"), and monarchis ("one with only one testicle"), along with ōtotmētos ("with a cut ear") and hand before foot in 21:19.
+- **21:20** — Several Septuagint defect terms specify conditions differently from the Hebrew, including ephēlos ("having a white spot in the eye"), ptilos tous ophthalmous ("bleary in the eyes"), and monorchis ("one with only one testicle"), along with ōtotmētos ("with a cut ear") and hand before foot in 21:19.

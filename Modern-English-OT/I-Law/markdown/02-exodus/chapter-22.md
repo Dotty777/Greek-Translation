@@ -70,4 +70,4 @@
 - **22:2** — The Greek reads "he shall die in return" (ἀνταποθανεῖται), assigning capital liability to one who kills a thief in daylight, whereas the Hebrew Masoretic Text stipulates restitution by the thief.
 - **22:12** — The Greek reads "he shall lead him to the prey" (ἄξει αὐτὸν ἐπὶ τὴν θήραν), referring to the carcass left by a predator, whereas the Hebrew directs bringing the torn animal as evidence.
 - **22:17** — The Greek uses the masculine plural "sorcerers" (φαρμακούς), whereas the Hebrew uses the feminine singular "sorceress."
-- **22:27** — The Greek renders Hebrew Elohim as plural "gods" (θεούς), a well-known Septuagint reading that prohibits reviling deities in general alongside rulers.
+- **22:27** — The Greek has the plural "gods" (θεούς) for Hebrew Elohim.

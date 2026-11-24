@@ -15,7 +15,7 @@
 
 **28:5** And Saul saw the camp of the foreigners, and he was afraid, and his heart was greatly terrified.
 
-**28:6** And Saul inquired of the Lord, and the Lord did not answer him, either by dreams, or by the manifestations, or by the prophets.
+**28:6** And Saul inquired through the Lord, and the Lord did not answer him, either by dreams, or by the manifestations, or by the prophets.
 
 **28:7** And Saul said to his servants, "Seek for me a woman who is a medium, and I will go to her and inquire through her." And his servants said to him, "Look, there is a woman who is a medium in Endor."
 
@@ -23,7 +23,7 @@
 
 **28:9** And the woman said to him, "Look now, you know all that Saul has done, how he has utterly destroyed the mediums and the wizards from the land. And why are you ensnaring my life to put it to death?"
 
-**28:10** And Saul swore to her, saying, "As the Lord lives, no guilt will come upon you in this matter."
+**28:10** And Saul swore to her, saying, "As the Lord lives, no wrong will come upon you in this matter."
 
 **28:11** And the woman said, "Whom shall I bring up for you?" And he said, "Bring up Samuel for me."
 

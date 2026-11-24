@@ -35,7 +35,7 @@
 
 **32:15** for you will turn away from Him, so as once more to leave it in the wilderness, and you will act lawlessly against this whole congregation."
 
-**32:16** And they approached him and said, "We will build sheepfolds here for our livestock and cities for our dependents,
+**32:16** And they approached him and said, "Let us build sheepfolds here for our livestock and cities for our dependents,
 
 **32:17** and we ourselves will arm as a vanguard ahead of the sons of Israel, until we bring them to their own place; and our dependents will dwell in walled cities because of those who dwell in the land.
 

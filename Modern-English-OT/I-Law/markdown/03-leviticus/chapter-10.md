@@ -27,13 +27,13 @@
 
 **10:11** And you shall teach the sons of Israel all the ordinances that the Lord spoke to them by the hand of Moses."
 
-**10:12** And Moses said to Aaron and to Eleazar and Ithamar, the sons of Aaron who were left, "Take the offering that was left from the offerings by fire of the Lord, and eat it unleavened beside the altar; it is most holy.
+**10:12** And Moses said to Aaron and to Eleazar and Ithamar, the sons of Aaron who were left, "Take the sacrifice that was left from the fire offerings of the Lord, and eat it unleavened beside the altar; it is most holy.
 
-**10:13** And you shall eat it in a holy place, for this is an eternal ordinance for you and an ordinance for your sons from the offerings by fire of the Lord; for so it has been commanded to me.
+**10:13** And you shall eat it in a holy place, for this is an eternal ordinance for you and an ordinance for your sons from the fire offerings of the Lord; for so it has been commanded to me.
 
 **10:14** And the breast of the separated offering and the shoulder of the contribution you shall eat in a holy place, you and your sons and your household with you; for it has been given as an ordinance for you and an ordinance for your sons from the sacrifices of deliverance of the sons of Israel.
 
-**10:15** The shoulder of the contribution and the breast of the separated offering they shall bring along with the offerings by fire of the fat portions, to set apart as a separated offering before the Lord; and it shall be for you and for your sons and for your daughters with you an eternal ordinance, just as the Lord commanded Moses."
+**10:15** The shoulder of the contribution and the breast of the separated offering they shall bring along with the fire offerings of the fat portions, to set apart as a separated offering before the Lord; and it shall be for you and for your sons and for your daughters with you an eternal ordinance, just as the Lord commanded Moses."
 
 **10:16** Now Moses searched diligently for the male goat of the sin offering, and look, it had been burned up; and Moses became angry with Eleazar and Ithamar, the remaining sons of Aaron, saying,
 

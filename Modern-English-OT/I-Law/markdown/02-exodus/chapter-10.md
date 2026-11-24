@@ -37,7 +37,7 @@
 
 **10:16** And Pharaoh hurried to summon Moses and Aaron, saying, "I have sinned before the Lord your God and against you.
 
-**10:17** Therefore forgive my sin just this once more, and pray to the Lord your God, and let Him remove this death from me."
+**10:17** Therefore accept my sin now once more, and pray to the Lord your God, and let Him remove this death from me."
 
 **10:18** And Moses went out from Pharaoh and prayed to God.
 
@@ -53,9 +53,9 @@
 
 **10:24** And Pharaoh summoned Moses and Aaron, saying, "Go, serve the Lord your God; only leave behind the sheep and the cattle, and let your dependents go away with you."
 
-**10:25** And Moses said, "Rather, you yourself will also give us burnt offerings and sacrifices that we will offer to the Lord our God,
+**10:25** And Moses said, "Rather, you yourself will also give us whole burnt offerings and sacrifices that we will offer to the Lord our God,
 
-**10:26** and our livestock will go with us, and we will not leave behind a hoof; for from them we will take to serve the Lord our God, and we do not know with what we are to serve the Lord our God until we arrive there."
+**10:26** and our livestock will go with us, and we will not leave behind a hoof; for from them we will take to serve the Lord our God, but we do not know with what we are to serve the Lord our God until we arrive there."
 
 **10:27** And the Lord hardened the heart of Pharaoh, and he was not willing to send them away.
 

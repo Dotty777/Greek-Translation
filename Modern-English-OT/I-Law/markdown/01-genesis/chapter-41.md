@@ -79,7 +79,7 @@
 
 **41:37** Now the words were pleasing before Pharaoh and before all his servants.
 
-**41:38** And Pharaoh said to all his servants, "Can we find a man like this, who has the Spirit of God in him?"
+**41:38** And Pharaoh said to all his servants, "Can we find a man like this, who has the spirit of God in him?"
 
 **41:39** Then Pharaoh said to Joseph, "Since God has shown you all these things, there is no man more prudent and more discerning than you.
 

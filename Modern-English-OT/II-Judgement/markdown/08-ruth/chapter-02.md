@@ -43,7 +43,7 @@
 
 **2:19** And her mother-in-law said to her, "Where did you glean today, and where did you work? May the one who took notice of you be blessed." And Ruth told her mother-in-law where she had worked, and said, "The name of the man with whom I worked today is Boaz."
 
-**2:20** And Naomi said to her daughter-in-law, "Blessed is he by the Lord, because He has not forsaken His mercy toward the living and toward the dead." And Naomi said to her, "The man is close to us; he is one of our kinsman-redeemers."
+**2:20** And Naomi said to her daughter-in-law, "Blessed is he by the Lord, because He has not forsaken His mercy toward the living and toward the dead." And Naomi said to her, "The man is close to us; he is one of our next of kin."
 
 **2:21** And Ruth said to her mother-in-law, "Indeed, he also said to me, 'Stay close with my young men until they finish the entire harvest that belongs to me.'"
 

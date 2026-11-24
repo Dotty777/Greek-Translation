@@ -69,7 +69,7 @@
 
 **26:32** And it came about on that day that the servants of Isaac arrived and reported to him about the well that they had dug, and they said, "We did not find water."
 
-**26:33** And he called its name Oath; therefore he called the name of the city Well of Oath, to this very day.
+**26:33** And he called its name Oath; therefore he called the name of the city Well of Oath, to the present day.
 
 **26:34** Now Esau was forty years old, and he took as a wife Judith, daughter of Beeri the Hittite, and Basemath, daughter of Elon the Hivite;
 

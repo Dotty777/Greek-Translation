@@ -39,9 +39,9 @@
 
 **28:17** And he was afraid and said, "How fearful is this place! This is nothing other than the house of God, and this is the gate of heaven."
 
-**28:18** And Jacob rose early in the morning, and took the stone that he had put there at his head and set it up as a pillar, and poured oil on the top of it.
+**28:18** And Jacob rose in the morning, and took the stone that he had put there at his head and set it up as a pillar, and poured oil on the top of it.
 
-**28:19** And Jacob called the name of that place House of God; yet Oulammaus was the name of the city previously.
+**28:19** And Jacob called the name of that place House of God; and Oulammaus was the name of the city previously.
 
 **28:20** And Jacob vowed a vow, saying, "If the Lord God is with me, and guards me on this way that I am going, and gives me bread to eat and a garment to put on,
 

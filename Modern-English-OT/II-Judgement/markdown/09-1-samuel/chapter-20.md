@@ -45,7 +45,7 @@
 
 **20:20** And I will shoot three times with the arrows, sending them out toward Armattarei.
 
-**20:21** And look, I am sending the boy, saying, 'Come, find the gouza for me.' If I indeed say to the boy, 'Here is the arrow, on this side of you; take it,' come; for there is peace for you and there is no word of the Lord, as the Lord lives.
+**20:21** And look, I am sending the boy, saying, 'Come, find the gouza for me.' If I say to the boy, 'Here is the arrow, on this side of you; take it,' come; for there is peace for you and there is no word of the Lord, as the Lord lives.
 
 **20:22** If I say thus to the young man, 'Here is the arrow, beyond you,' go, because the Lord has sent you away.
 

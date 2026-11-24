@@ -27,7 +27,7 @@
 
 **18:11** Now Abraham and Sarah were old, advanced in days; and the manner of women had ceased to happen to Sarah.
 
-**18:12** And Sarah laughed within herself, saying, "It has not yet happened to me until now, and my lord is old."
+**18:12** And Sarah laughed within herself, saying, "It has not yet happened to me until now, but my lord is old."
 
 **18:13** And the Lord said to Abraham, "Why did Sarah laugh within herself, saying, 'Will I truly give birth? Yet I have grown old'?
 

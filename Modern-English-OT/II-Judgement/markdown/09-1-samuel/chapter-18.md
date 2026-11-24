@@ -27,15 +27,15 @@
 
 **18:21** And Saul said, "I will give her to him, and she will become a stumbling block to him." And the hand of the foreigners was upon Saul.
 
-**18:22** And Saul commanded his attendants, saying, "Speak secretly to David, saying, 'Look, the king delights in you, and all his attendants love you; now you, become son-in-law to the king.'"
+**18:22** And Saul commanded his servants, saying, "Speak secretly to David, saying, 'Look, the king delights in you, and all his servants love you; now you, become son-in-law to the king.'"
 
-**18:23** And the attendants of Saul spoke these words into the ears of David; and David said, "Is it a light thing in your eyes to become son-in-law to a king? And I am a lowly man and not honored."
+**18:23** And the servants of Saul spoke these words into the ears of David; and David said, "Is it a light thing in your eyes to become son-in-law to a king? And I am a lowly man and not honored."
 
-**18:24** And the attendants of Saul reported to him according to these words that David spoke.
+**18:24** And the servants of Saul reported to him according to these words that David spoke.
 
 **18:25** And Saul said, "This is what you will say to David, 'The king has no desire for a gift, except a hundred foreskins of foreigners, to take vengeance on enemies of the king.'" Now Saul planned to cast him into the hands of the foreigners.
 
-**18:26** And the attendants of Saul reported these words to David, and the matter was right in the eyes of David to become son-in-law to the king;
+**18:26** And the servants of Saul reported these words to David, and the matter was right in the eyes of David to become son-in-law to the king;
 
 **18:27** and David rose up and went, he and his men, and struck down among the foreigners a hundred men, and he brought up their foreskins to the king, and he became son-in-law to the king, and he gave him his daughter Michal as a wife.
 

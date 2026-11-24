@@ -63,7 +63,7 @@
 
 **16:29** if these men die according to the death of all people, and if according to the visitation of all people there is a visitation for them, the Lord has not sent me.
 
-**16:30** But if the Lord shows it by a portent, and the earth opens its mouth and swallows them up, and their houses and their tents and all that belongs to them, and they go down alive into Hades, then you will know that these men have provoked the Lord."
+**16:30** But the Lord will show it by a portent, and the earth will open its mouth and swallow them up, and their houses and their tents and all that belongs to them, and they will go down alive into Hades, and you will know that these men have provoked the Lord."
 
 **16:31** And when he finished speaking all these words, the earth split open beneath them,
 
@@ -85,4 +85,4 @@
 - **16:5** — The Greek reads "God has examined" (epeskeptai) where the Hebrew Masoretic Text reads "in the morning" (boqer), reflecting a verbal reading of the same Hebrew consonants.
 - **16:13** — The Greek text reads "into a land" (eis gen) rather than the Hebrew Masoretic Text's "out of a land," and verse 14 continues as a contrafactual conditional ("Even if you had brought us... you would have gouged out").
 - **16:15** — The Greek reads "desirable thing" (epithymema) where the Hebrew Masoretic Text reads "donkey" (chamor), reflecting a single-consonant difference in the underlying Hebrew.
-- **16:26** — The Greek text reads "these harsh men" (skleron) and "with all your belongings" (en pase te apartia hymon), where other manuscripts and the Hebrew Masoretic Text read "wicked" and "in all their sins" (hamartia auton).
+- **16:26** — The Greek text reads "these harsh men" (skleron) and "with all your belongings" (en pase te apartia hymon); the Hebrew Masoretic Text reads "wicked" and "in all their sins," and some Greek manuscripts read hamartia auton ("their sin").

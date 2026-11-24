@@ -15,7 +15,7 @@
 
 **4:5** And the anointed priest whose hands have been consecrated shall take some of the blood of the calf and bring it into the tent of testimony;
 
-**4:6** and the priest shall dip his finger into the blood and sprinkle some of the blood seven times before the Lord toward the holy veil;
+**4:6** and the priest shall dip his finger into the blood and sprinkle some of the blood seven times before the Lord toward the holy curtain;
 
 **4:7** and the priest shall put some of the blood of the calf on the horns of the altar of compounded incense before the Lord, which is in the tent of testimony; and all the blood of the calf he shall pour out at the base of the altar of burnt offerings, which is at the doors of the tent of testimony.
 
@@ -23,7 +23,7 @@
 
 **4:9** and the two kidneys and the fat that is on them, which is on the thighs, and the lobe that is on the liver—along with the kidneys he shall remove it,
 
-**4:10** in the same way you remove it from the calf of the sacrifice of deliverance; the priest shall bring it up onto the altar of the whole burnt offering.
+**4:10** in the same way you remove it from the calf of the sacrifice of deliverance; the priest shall bring it up onto the altar of the fire offering.
 
 **4:11** And the hide of the calf and all its flesh, with the head and the extremities and the belly and the dung,
 
@@ -37,9 +37,9 @@
 
 **4:16** and the anointed priest shall bring some of the blood of the calf into the tent of testimony;
 
-**4:17** and the priest shall dip his finger in some of the blood of the calf and sprinkle it seven times before the Lord, in front of the holy veil;
+**4:17** and the priest shall dip his finger in some of the blood of the calf and sprinkle it seven times before the Lord, in front of the holy curtain;
 
-**4:18** and the priest shall put some of the blood on the horns of the altar of compounded incense, which is before the Lord, which is in the tent of testimony; and all the blood he shall pour out at the base of the altar of whole burnt offerings, which is at the door of the tent of testimony.
+**4:18** and the priest shall put some of the blood on the horns of the altar of compounded incense, which is before the Lord, which is in the tent of testimony; and all the blood he shall pour out at the base of the altar of fire offerings, which is at the door of the tent of testimony.
 
 **4:19** And all the fat he shall remove from it and offer up on the altar;
 

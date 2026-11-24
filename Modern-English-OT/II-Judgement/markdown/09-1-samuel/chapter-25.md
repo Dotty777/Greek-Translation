@@ -23,7 +23,7 @@
 
 **25:9** And the young men came and spoke these words to Nabal and all these sayings in the name of David, and he sprang up,
 
-**25:10** and Nabal answered the servants of David and said, "Who is David, and who is the son of Jesse? Today slaves have multiplied who depart, each from before his master.
+**25:10** and Nabal answered the servants of David and said, "Who is David, and who is the son of Jesse? Today servants have multiplied who depart, each from before his master.
 
 **25:11** And should I take my loaves of bread and my wine and my meat that I have slaughtered for those who shear my sheep, and give them to men of whom I do not know where they are from?"
 
@@ -39,7 +39,7 @@
 
 **25:17** And now know and see what you will do, because evil has been determined against our master and against his house; and he is a pestilent son, and it is not possible to speak to him."
 
-**25:18** And Abigail hurried and took two hundred loaves of bread, and two vessels of wine, and five prepared sheep, and five ephahs of barley meal, and one omer of raisins, and two hundred fig cakes, and placed them on the donkeys.
+**25:18** And Abigail hurried and took two hundred loaves of bread, and two vessels of wine, and five prepared sheep, and five ephahs of barley meal, and one gomor of raisins, and two hundred fig cakes, and placed them on the donkeys.
 
 **25:19** And she said to her young men, "Go on ahead before me, and look, I am coming behind you." And she did not report it to her husband.
 
@@ -97,7 +97,7 @@
 
 - **25:1** — Greek reads "Armathaim" and "Maon," where the Hebrew Masoretic Text reads "Ramah" and "Paran."
 - **25:3** — Greek reads "doglike," rendering the Hebrew tribal name "Calebite" etymologically from the root for "dog."
-- **25:22** — Greek reads "to David," whereas the Hebrew Masoretic Text softens the self-curse to "to the enemies of David."
+- **25:22** — Greek reads "to David," whereas the Hebrew Masoretic Text reads "to the enemies of David."
 - **25:28** — In the Greek syntax the Lord is the subject fighting David's battle ("the Lord fights the battle of my lord"), whereas the Hebrew Masoretic Text says that David fights the battles of the Lord.
 - **25:43** — Greek reads "from Israel," where the Hebrew Masoretic Text reads "of Jezreel."
 - **25:44** — Greek reads the proper names "Ameis" and "Romma," where the Hebrew Masoretic Text reads "Laish" and "Gallim."

@@ -41,4 +41,4 @@
 
 - **16:1** — The Greek spells her name Sara (Σάρα) throughout Genesis 11–16 before lengthening it to Sarra (Σάρρα) in 17:15; standard modern English Sarai / Sarah is used consistently across chapters 11–17.
 - **16:12** — "A wild man" translates Greek ἄγροικος ἄνθρωπος (literally "a rustic" or "untamed man"), corresponding to Hebrew "a wild donkey of a man."
-- **16:13** — Both here and in the well's name in 16:14 (Φρέαρ οὗ ἐνώπιον εἶδον, corresponding to Hebrew Beer-lahai-roi), the Greek uses ἐνώπιον ("in person" or "face to face") to express Hagar's marvel at having seen God directly.
+- **16:13** — Both here and in the well's name in 16:14 (Φρέαρ οὗ ἐνώπιον εἶδον, corresponding to Hebrew Beer-lahai-roi), the Greek uses ἐνώπιον ("in person" or "face to face").

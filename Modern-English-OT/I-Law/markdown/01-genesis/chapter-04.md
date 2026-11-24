@@ -53,7 +53,7 @@
 
 **4:24** because seven times vengeance has been taken for Cain, but for Lamech seventy times seven."
 
-**4:25** And Adam knew Eve his wife, and she conceived and gave birth to a son. And she called his name Seth, saying, "For God has raised up for me another offspring in place of Abel, whom Cain killed."
+**4:25** And Adam knew Eve his wife, and she conceived and gave birth to a son. And she called his name Seth, saying, "For God has raised up for me another seed in place of Abel, whom Cain killed."
 
 **4:26** And to Seth was born a son, and he called his name Enosh. He hoped to call upon the name of the Lord God.
 

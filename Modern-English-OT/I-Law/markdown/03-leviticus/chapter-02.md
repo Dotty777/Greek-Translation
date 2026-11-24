@@ -13,7 +13,7 @@
 
 **2:4** Now if one presents a gift, a sacrifice baked from frankincense, it shall be a gift to the Lord from fine flour: unleavened loaves kneaded with oil and unleavened flat cakes spread with oil.
 
-**2:5** And if your gift is a sacrifice from a frying pan, it is fine flour kneaded with oil, unleavened;
+**2:5** And if your gift is a sacrifice from a griddle, it is fine flour kneaded with oil, unleavened;
 
 **2:6** and you shall break it into pieces and pour oil on it; it is a sacrifice to the Lord.
 
@@ -40,6 +40,6 @@
 ## Translator Notes
 
 - **2:1** — Throughout chapter 2, the Greek uses thysia ("sacrifice") for what the Hebrew designates specifically as a grain offering (minchah), and here adds "It is a sacrifice" at the end of the verse.
-- **2:4** — The Greek text literally reads ek libanou ("from frankincense"), an early copyist omission of kappa from ek klibanou ("from an oven," matching the Hebrew).
+- **2:4** — The Greek text reads ek libanou ("from frankincense"), probably a scribal slip for ek klibanou ("from an oven"), which matches the Hebrew.
 - **2:7** — Greek escharas ("hearth," or portable brazier/grate) stands where the Hebrew names a cooking pan, and the Greek omits the mention of "fine flour" found in the Hebrew.
 - **2:14** — Greek chidra ("groats") denotes coarsely crushed, roasted unripe wheat grains; the translation preserves the Septuagint's stacked modifiers ("tender, fresh, roasted, crushed groats").

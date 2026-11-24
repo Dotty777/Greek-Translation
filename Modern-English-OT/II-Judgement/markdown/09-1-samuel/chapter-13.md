@@ -7,7 +7,7 @@
 
 **13:2** And Saul chose for himself three thousand men from the men of Israel; and two thousand were with Saul in Michmash and in the hill country of Bethel; one thousand were with Jonathan in Geba of Benjamin; and the remainder of the people he sent away, each one to his tent.
 
-**13:3** And Jonathan struck Nasib the foreigner who was on the hill, and the foreigners heard; and Saul blew a trumpet throughout all the land, saying, "The slaves have rebelled."
+**13:3** And Jonathan struck Nasib the foreigner who was on the hill, and the foreigners heard; and Saul blew a trumpet throughout all the land, saying, "The servants have rebelled."
 
 **13:4** And all Israel heard people saying, "Saul has struck Nasib the foreigner," and Israel was put to shame among the foreigners; and the sons of Israel went up after Saul at Gilgal.
 
@@ -27,7 +27,7 @@
 
 **13:12** and I said, 'Now the foreigners will come down against me at Gilgal, and I have not implored the face of the Lord.' And I forced myself and offered up the burnt offering."
 
-**13:13** And Samuel said to Saul, "You have acted foolishly, because you have not kept my command which the Lord commanded you; for now the Lord would have established your kingdom forever over Israel.
+**13:13** And Samuel said to Saul, "You have acted foolishly, because you have not kept my command which the Lord commanded you; for now the Lord had established your kingdom forever over Israel.
 
 **13:14** And now your kingdom will not stand; and the Lord will seek for Himself a man according to His heart, and the Lord will command him to be ruler over His people, because you have not kept what the Lord commanded you."
 
@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **13:3** — Greek treats Hebrew netsiv ("garrison" or "prefect") as a proper name, "Nasib," translates Geba as "the hill," and reads "The slaves have rebelled" where the Hebrew Masoretic Text reads "Let the Hebrews hear." The Greek text omits verse 1, the difficult chronological formula in the Hebrew.
+- **13:3** — Greek treats Hebrew netsiv ("garrison" or "prefect") as a proper name, "Nasib," translates Geba as "the hill," and reads "The servants have rebelled" where the Hebrew Masoretic Text reads "Let the Hebrews hear." The Greek text omits verse 1, the difficult chronological formula in the Hebrew.
 - **13:5** — Greek reads the distinct place name "Beth-horon to the rear," where the Hebrew Masoretic Text reads "east of Beth-aven."
 - **13:15** — The Septuagint preserves a longer text here ("on his way; and the remainder of the people... arrived from Gilgal") that is absent from the shorter Hebrew Masoretic Text.
 - **13:18** — Greek reads "Geba" where the Hebrew has "the border," transliterates Hebrew gei ("valley") as the proper name "Gai," and has the distinct name "Samin" where the Hebrew reads "Zeboim."

@@ -27,7 +27,7 @@
 
 **1:11** And Naomi said, "Return now, my daughters; and why are you going with me? Do I still have sons in my womb, that they may become husbands for you?
 
-**1:12** Return now, my daughters, because I have grown too old to belong to a husband. For even if I said, 'There is hope for me to belong to a husband, and I will bear sons,'
+**1:12** Return now, my daughters, because I have grown too old to belong to a husband. For I said, 'There is hope for me to belong to a husband, and I will bear sons,'
 
 **1:13** would you wait for them until they grow up? Or would you be held back for them so as not to belong to a husband? No indeed, my daughters, for it has been made more bitter for me than for you, because the hand of the Lord has gone out against me."
 
@@ -52,7 +52,7 @@
 ## Translator Notes
 
 - **1:2** — The Greek text names Naomi's husband Abimelech (rather than Hebrew Elimelech) and omits the clause introducing Naomi by name here (she is first named in 1:3). Greek agros ("country") literally means "field" or "countryside."
-- **1:12** — Greek literally reads "because I said," rendering a Hebrew hypothetical clause ("even if I said"), and omits "tonight" found in the Hebrew Masoretic Text.
+- **1:12** — Greek hoti eipa reads "for I said" where the Hebrew has a hypothetical clause ("even if I said"); the Greek also lacks "tonight," found in the Hebrew Masoretic Text.
 - **1:16** — Greek reads "May it not happen to me" (optative of apantao) rather than the Hebrew "Do not urge me."
 - **1:17** — Literally "for death will separate between me and you"; in this oath formula the Greek renders the Hebrew idiom elliptically, meaning that only death will part them.
 - **1:20** — The Greek translates Hebrew Mara into the Greek name Pikran ("Bitter"), preserving the wordplay with "has been exceedingly bitter," and renders Hebrew Shaddai as ho hikanos ("the Sufficient One"; also in 1:21).

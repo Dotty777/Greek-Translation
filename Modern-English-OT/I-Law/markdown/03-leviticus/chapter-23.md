@@ -77,7 +77,7 @@
 
 **23:36** For seven days you shall offer burnt offerings to the Lord; and the eighth day shall be a holy convocation for you, and you shall offer burnt offerings to the Lord; it is a closing ceremony; you shall not do any servile work.
 
-**23:37** These are the feasts to the Lord which you shall proclaim as holy convocations, so as to present altar offerings to the Lord: burnt offerings and their sacrifices and their drink offerings, the daily portion for each day,
+**23:37** These are the feasts to the Lord which you shall proclaim as holy convocations, so as to present fire offerings to the Lord: burnt offerings and their sacrifices and their drink offerings, the daily portion for each day,
 
 **23:38** besides the Sabbaths of the Lord, and besides your gifts, and besides all your vows, and besides your freewill offerings that you give to the Lord.
 

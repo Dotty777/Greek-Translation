@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **46:10** — The Greek genealogy preserves several Septuagint-distinct personal names where the Masoretic Hebrew text differs, including Samuel here (Hebrew Shaul), Jemuel in v. 12 (Hamul), Zambram in v. 13 (Shimron), Hezron in v. 14 (Elon), Thasoban in v. 16 (Ezbon), Jessai and Jeul in v. 17 (Ishvah and Ishvi), and Chobor in v. 21 (Becher).
-- **46:20** — The Septuagint expands Joseph's genealogy with five additional descendants through Manasseh and Ephraim (Machir, Gilead, Sutalaam, Taam, and Edem; cf. Num 26:29–36), which accounts for Rachel's total of eighteen in v. 22.
+- **46:20** — The Septuagint expands Joseph's genealogy with five additional descendants through Manasseh and Ephraim (Machir, Gilead, Sutalaam, Taam, and Edem; cf. Num 26:29–36), which contribute to the larger totals in vv. 22 and 27.
 - **46:27** — The Septuagint counts nine souls born to Joseph in Egypt and seventy-five total for Jacob's house (the figure cited in Acts 7:14), whereas the Masoretic Hebrew text counts two and seventy.
 - **46:28** — The Septuagint names the meeting place Heroonpolis (Greek Heroon polis, "City of Heroes") in the land of Rameses, whereas the Masoretic Hebrew text reads Goshen.
 - **46:34** — The Septuagint specifies "Goshen of Arabia," referring to the eastern Egyptian border nome known in Hellenistic geography as Arabia, where the Hebrew reads simply "Goshen."

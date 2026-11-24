@@ -44,6 +44,6 @@
 ## Translator Notes
 
 - **24:5** — "Sacrifice of deliverance" translates Greek thysia sōtēriou, the standard Septuagint rendering for the peace/fellowship offering.
-- **24:10** — The Greek reads "they saw the place where the God of Israel stood" rather than the Hebrew Masoretic Text's "they saw the God of Israel," avoiding a direct visual depiction of God.
+- **24:10** — The Greek reads "they saw the place where the God of Israel stood" rather than the Hebrew Masoretic Text's "they saw the God of Israel."
 - **24:11** — The Greek reads "of the chosen ones of Israel not even one perished; and they appeared in the place of God," diverging from the Hebrew Masoretic Text ("He did not stretch out His hand against the nobles... and they saw God").
 - **24:14** — Here ("they said") and in 24:15 ("Moses and Joshua went up"), the Greek explicitly includes Joshua alongside Moses where the Hebrew Masoretic Text speaks only of Moses.

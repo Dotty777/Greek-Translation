@@ -27,19 +27,19 @@
 
 **5:11** Now if his hand does not find a pair of turtledoves or two young pigeons, then he shall bring as his gift for what he sinned the tenth of an ephah of fine flour for a sin offering; he shall not pour oil on it, nor shall he put frankincense on it, because it is a sin offering.
 
-**5:12** And he shall bring it to the priest. And the priest shall take from it a full handful—its memorial portion—and put it on the altar of burnt offerings to the Lord; it is a sin offering.
+**5:12** And he shall bring it to the priest. And the priest shall take from it a full handful—its memorial—and put it on the altar of burnt offerings to the Lord; it is a sin offering.
 
 **5:13** And the priest shall make atonement for him for his sin which he sinned in any one of these things, and it will be forgiven him. And what is left over shall belong to the priest, like the sacrifice of fine flour."
 
 **5:14** And the Lord spoke to Moses, saying,
 
-**5:15** "If something completely escapes a person and he sins unintentionally regarding the holy things of the Lord, then he shall bring for his guilt offering to the Lord a ram without blemish from the flock, valued in silver shekels, by the shekel of the sanctuary, for that in which he incurred guilt.
+**5:15** "If something completely escapes a person and he sins unintentionally regarding the holy things of the Lord, then he shall bring for his trespass offering to the Lord a ram without blemish from the flock, valued in silver shekels, by the shekel of the sanctuary, for that in which he incurred guilt.
 
-**5:16** And what he sinned against the holy things he shall repay, and he shall add one-fifth to it and give it to the priest; and the priest shall make atonement for him with the ram of the guilt offering, and it will be forgiven him.
+**5:16** And what he sinned against the holy things he shall repay, and he shall add one-fifth to it and give it to the priest; and the priest shall make atonement for him with the ram of the trespass offering, and it will be forgiven him.
 
 **5:17** And the person who sins and does any one of all the commandments of the Lord which must not be done, and did not know it, yet incurs guilt and bears the sin,
 
-**5:18** then he shall bring a ram without blemish from the flock, valued in silver, for a guilt offering to the priest; and the priest shall make atonement for him for his ignorance in which he acted in ignorance and he himself did not know it, and it will be forgiven him;
+**5:18** then he shall bring a ram without blemish from the flock, valued in silver, for a trespass offering to the priest; and the priest shall make atonement for him for his ignorance in which he acted in ignorance and he himself did not know it, and it will be forgiven him;
 
 **5:19** for he has certainly incurred guilt before the Lord."
 
@@ -53,7 +53,7 @@
 
 **5:24** or anything about which he swore falsely—he shall repay the principal itself, and he shall add one-fifth to it; to whomever it belongs, to him he shall return it on the day he is convicted.
 
-**5:25** And for his guilt offering he shall bring to the Lord a ram from the flock without blemish, of the valuation for that in which he incurred guilt.
+**5:25** And for his trespass offering he shall bring to the Lord a ram from the flock without blemish, of the valuation for that in which he incurred guilt.
 
 **5:26** And the priest shall make atonement for him before the Lord, and it will be forgiven him for any one of all the things which he did and incurred guilt by it."
 
@@ -62,5 +62,5 @@
 - **5:2** — The Septuagint list differs from the Hebrew Masoretic Text by naming "something unclean torn by wild beasts" ('therialotou akathartou') and "abominations" ('bdelygmaton', for swarming creatures), and by omitting the closing clause on hiddenness and guilt found in the Hebrew.
 - **5:4** — The Greek reads "a lawless person" ('psyche he anomos') where the Hebrew Masoretic Text reads "if a person swears," and adds "before his eyes" ('pro ophthalmon').
 - **5:15** — The Greek phrase "completely escapes a person" (lit. "escapes him with forgetfulness/oversight") differs from the Hebrew Masoretic Text, which speaks of committing a breach of faith.
-- **5:20** — Verses 5:20-26 follow the Septuagint and Hebrew chapter division; most English Bibles number this section as Leviticus 6:1-7.
+- **5:20** — Verses 5:20-26 follow the Greek and Hebrew versification; in an alternative versification this section is numbered 6:1-7.
 - **5:24** — The Greek "on the day he is convicted" ('he hemera elenchthe') differs from the Hebrew Masoretic Text, which reads "on the day of his guilt offering."

@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **21:9** — The Greek text explicitly adds "playing with her own son Isaac," specifying the object of Ishmael's playing (absent from the Hebrew Masoretic Text).
+- **21:9** — The Greek text adds "with her own son Isaac," specifying with whom Ishmael was playing (absent from the Hebrew Masoretic Text).
 - **21:14** — Here and in vv. 32-33 (as well as 22:19), the Greek text translates the place name Beersheba as "the Well of the Oath" (and "Well of Swearing" in v. 31).
 - **21:16** — The Greek text reads that the child cried out and wept rather than Hagar; similarly, v. 15 specifies "one fir tree" rather than a shrub, and v. 21 omits the name "Paran."
 - **21:33** — The Greek renders the Hebrew word for "tamarisk tree" as "a field" (aroura, arable land); earlier, in vv. 22 and 32, the Greek also includes "Ahuzzath his bridal attendant" alongside Abimelech and Phicol (cf. 26:26).

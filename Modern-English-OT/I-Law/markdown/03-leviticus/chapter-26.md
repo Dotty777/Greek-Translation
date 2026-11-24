@@ -7,7 +7,7 @@
 
 **26:1** I am the Lord your God. You shall not make for yourselves handmade objects or carved images, nor shall you set up a pillar for yourselves, nor shall you place a lookout stone in your land to bow down to it; I am the Lord your God.
 
-**26:2** You shall keep My Sabbaths and revere My holy places; I am the Lord.
+**26:2** You shall keep My Sabbaths, and you shall fear My holy places; I am the Lord.
 
 **26:3** If you walk in My ordinances, and keep My commandments and do them,
 
@@ -23,13 +23,13 @@
 
 **26:9** And I will look upon you, and I will increase you and multiply you, and I will establish My covenant with you.
 
-**26:10** And you will eat what is old and the oldest of the old, and you will carry out the old from before the new.
+**26:10** And you will eat what is old and old of the old, and you will carry out the old from before the new.
 
 **26:11** And I will set My covenant among you, and My soul will not abhor you.
 
 **26:12** And I will walk about among you and will be God to you, and you will be My people.
 
-**26:13** I am the Lord your God, who brought you out of the land of Egypt when you were slaves; and I shattered the bond of your yoke and led you with boldness.
+**26:13** I am the Lord your God, who brought you out of the land of Egypt when you were servants; and I shattered the bond of your yoke and led you with boldness.
 
 **26:14** But if you do not obey Me, and do not do these ordinances of Mine,
 
@@ -89,13 +89,13 @@
 
 **26:42** And I will remember the covenant of Jacob, and the covenant of Isaac and the covenant of Abraham I will remember, and the land I will remember.
 
-**26:43** And the land will be forsaken by them; then the land will receive its Sabbaths when it is made desolate because of them, and they themselves will receive their own iniquities, because they disregarded My judgments and loathed My ordinances in their soul.
+**26:43** And the land will be forsaken by them; then the land will receive its Sabbaths when it is made desolate because of them, and they themselves will receive their own lawless deeds, because they disregarded My judgments and loathed My ordinances in their soul.
 
 **26:44** And not even so, when they were in the land of their enemies, did I disregard them, nor did I loathe them so as to consume them, to break My covenant with them; for I am the Lord their God.
 
 **26:45** And I will remember their former covenant, when I brought them out of the land of Egypt, out of the house of bondage, in the sight of the nations, to be their God; I am the Lord.
 
-**26:46** These are My judgments and My ordinances, and the law which the Lord gave between Himself and the sons of Israel on Mount Sinai by the hand of Moses.
+**26:46** These are My judgments and My ordinances, and the law which the Lord gave between Himself and the sons of Israel on Mount Sinai by the hand of Moses.'"
 
 ## Translator Notes
 

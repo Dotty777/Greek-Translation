@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **8:1** — Chapter 8 verse numbering follows the Septuagint, where 8:1 corresponds to 8:5 in the Hebrew Masoretic Text (the preceding four verses close chapter 7).
+- **8:1** — Chapter 8 verse numbering follows the Greek and Hebrew numbering, in which 8:1 corresponds to 8:5 in most English versions (the preceding four verses close chapter 7).
 - **8:8** — The Greek reads "concerning the appointed time" (horismos) of the frogs, differing from the Hebrew Masoretic Text ("concerning the frogs which He had brought upon Pharaoh").
 - **8:17** — "Dog-flies" translates the collective singular Greek kynomyia (literally "dog-fly"), a biting fly, where the Hebrew has "swarms."
 - **8:18** — "Goshen" represents the Septuagint spelling Gesem; the verse also concludes with the Septuagint reading "the Lord, the Lord of all the earth."

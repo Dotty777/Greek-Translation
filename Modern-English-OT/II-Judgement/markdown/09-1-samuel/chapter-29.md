@@ -13,7 +13,7 @@
 
 **29:4** And the commanders of the foreigners were displeased with him and said to him, "Send the man back to his place where you stationed him, and let him not come with us into the battle, and let him not become a plotter against the camp. And with what will this man be reconciled to his lord? Will it not be with the heads of those men?
 
-**29:5** Is this not David, for whom they led the song in dances, saying, 'Saul struck in his thousands, and David in his ten thousands'?"
+**29:5** Is this not David, for whom they led the song in dances, saying, 'Saul struck down in his thousands, and David in his ten thousands'?"
 
 **29:6** And Achish called David and said to him, "As the Lord lives, you are upright and good in my eyes, and so are your going out and your coming in with me in the camp, and I have found no evil against you from the day you came to me until this present day, and in the eyes of the satraps you are good.
 

@@ -13,7 +13,7 @@
 
 **4:4** And these are the works of the sons of Kohath in the tent of the testimony: the holy of holies.
 
-**4:5** And Aaron and his sons shall go in when the camp sets out, and they shall take down the screening veil and cover the ark of the testimony with it.
+**4:5** And Aaron and his sons shall go in when the camp sets out, and they shall take down the screening curtain and cover the ark of the testimony with it.
 
 **4:6** And they shall place on it a covering of blue leather, and lay over it an all-blue cloth on top, and insert the carrying poles.
 
@@ -35,7 +35,7 @@
 
 **4:15** And Aaron and his sons shall finish covering the holy things and all the holy articles when the camp sets out; and after these things the sons of Kohath shall go in to carry them, and they shall not touch the holy things, so that they will not die. These things the sons of Kohath shall carry in the tent of the testimony.
 
-**4:16** Eleazar son of Aaron the priest is overseer: the oil of the light, and the compounded incense, and the daily offering, and the anointing oil, the oversight of the whole tent and all that is in it in the holy place, in all the works."
+**4:16** Eleazar son of Aaron the priest is overseer: the oil of the light, and the compounded incense, and the daily sacrifice, and the anointing oil, the oversight of the whole tent and all that is in it in the holy place, in all the works."
 
 **4:17** And the Lord spoke to Moses and Aaron, saying,
 
@@ -67,7 +67,7 @@
 
 **4:31** And these are the charges of the things carried by them, according to all the works of the things in the tent of the testimony: the capitals of the tent, and the bars, and its pillars, and its bases, and the covering, and their bases, and their pillars, and the covering of the doorway of the tent,
 
-**4:32** and the pillars of the courtyard all around, and their bases, and the pillars of the veil of the gate of the courtyard and their bases, and their pegs, and their cords, and all their articles, and all their ministries; by name register them and all the articles of the charge of the things carried by them.
+**4:32** and the pillars of the courtyard all around, and their bases, and the pillars of the curtain of the gate of the courtyard and their bases, and their pegs, and their cords, and all their articles, and all their ministries; by name register them and all the articles of the charge of the things carried by them.
 
 **4:33** This is the ministry of the clan of the sons of Merari in all their works in the tent of the testimony, in the hand of Ithamar son of Aaron the priest."
 

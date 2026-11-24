@@ -63,7 +63,7 @@
 
 **31:29** and from their half you shall take and give to Eleazar the priest the firstfruits of the Lord;
 
-**31:30** and from the half belonging to the sons of Israel, you shall take one out of fifty, from the people and from the cattle and from the sheep and from the donkeys and from all the livestock, and you shall give them to the Levites who keep the watches in the tabernacle of the Lord."
+**31:30** and from the half belonging to the sons of Israel, you shall take one out of fifty, from the people and from the cattle and from the sheep and from the donkeys and from all the livestock, and you shall give them to the Levites who keep the watches in the tent of the Lord."
 
 **31:31** And Moses and Eleazar the priest did just as the Lord commanded Moses.
 
@@ -97,7 +97,7 @@
 
 **31:46** and human souls, sixteen thousand.
 
-**31:47** And Moses took from the half-share of the sons of Israel the one out of fifty, from the people and from the livestock, and gave them to the Levites who keep the watches of the tabernacle of the Lord, in the manner that the Lord commanded Moses.
+**31:47** And Moses took from the half-share of the sons of Israel the one out of fifty, from the people and from the livestock, and gave them to the Levites who keep the watches of the tent of the Lord, in the manner that the Lord commanded Moses.
 
 **31:48** And all those appointed over the divisions of thousands of the force, commanders of thousands and commanders of hundreds, approached Moses,
 
@@ -111,7 +111,7 @@
 
 **31:53** And the fighting men plundered, each for himself.
 
-**31:54** And Moses and Eleazar the priest took the gold from the commanders of thousands and from the commanders of hundreds, and brought it into the tabernacle of the testimony, a memorial of the sons of Israel before the Lord.
+**31:54** And Moses and Eleazar the priest took the gold from the commanders of thousands and from the commanders of hundreds, and brought it into the tent of the testimony, a memorial of the sons of Israel before the Lord.
 
 ## Translator Notes
 

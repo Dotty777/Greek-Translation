@@ -73,5 +73,5 @@
 
 - **5:1** — The Septuagint has the plural "human beings" (anthropon) rather than singular "Adam" in the opening title.
 - **5:3** — Throughout Genesis 5, the Septuagint preserves a distinct chronology with higher pre-fatherhood ages for most patriarchs (such as 230 for Adam and 188 for Lamech) and corresponding differences in remaining years compared to the Masoretic Text.
-- **5:24** — In 5:22 and 5:24, the Septuagint translates Enoch's walking with God as "pleased God" and adds "was not found, because God transferred him," the wording echoed in Hebrews 11:5.
+- **5:24** — In 5:22 and 5:24, the Septuagint translates Enoch's walking with God as "pleased God" and renders "he was not, for God took him" as "was not found, because God transferred him," the wording echoed in Hebrews 11:5.
 - **5:29** — The Septuagint reads "will give us rest" (dianapausei) rather than "will comfort us" (Masoretic Text), emphasizing the wordplay on the name Noah.

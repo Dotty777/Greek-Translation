@@ -43,7 +43,7 @@
 
 **6:19** And the sons of Jeconiah were not pleased among the men of Beth-shemesh because they saw the ark of the Lord; and He struck among them seventy men and fifty thousand men. And the people mourned, because the Lord struck among the people a very great blow.
 
-**6:20** And the men from Beth-shemesh said, "Who will be able to pass before this Holy One? And to whom shall the ark of the Lord go up from us?"
+**6:20** And the men from Beth-shemesh said, "Who will be able to pass before this holy one? And to whom shall the ark of the Lord go up from us?"
 
 **6:21** And they sent messengers to the inhabitants of Kiriath-jearim, saying, "The foreigners have returned the ark of the Lord; come down and bring it up to yourselves."
 

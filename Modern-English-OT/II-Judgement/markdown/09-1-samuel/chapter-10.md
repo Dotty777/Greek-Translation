@@ -41,7 +41,7 @@
 
 **10:18** and he said to the sons of Israel, "Thus the Lord, the God of Israel, spoke, saying, 'I brought up the sons of Israel out of Egypt, and I delivered you from the hand of Pharaoh, king of Egypt, and from all the kingdoms that were oppressing you.'
 
-**10:19** Yet you today have rejected God, who Himself is your Savior from all your evils and your afflictions, and you said, 'No, rather you shall set a king over us.' And now present yourselves before the Lord according to your tribes and according to your families."
+**10:19** Yet you today have despised God, who Himself is your Savior from all your evils and your afflictions, and you said, 'No, rather you shall set a king over us.' And now present yourselves before the Lord according to your tribes and according to your families."
 
 **10:20** And Samuel brought near all the tribes of Israel, and the tribe of Benjamin was chosen by lot.
 
@@ -53,11 +53,11 @@
 
 **10:24** And Samuel said to all the people, "Have you seen the one whom the Lord has chosen for Himself, that there is no one like him among all of you?" And all the people recognized him and said, "May the king live!"
 
-**10:25** And Samuel spoke to the people the ordinance of the king, and wrote it in a book and placed it before the Lord. And Samuel sent all the people away, and each one departed to his place.
+**10:25** And Samuel spoke to the people the right of the king, and wrote it in a book and placed it before the Lord. And Samuel sent all the people away, and each one departed to his place.
 
 **10:26** And Saul departed to his house at Gibeah; and men of might, whose hearts the Lord had touched, went with Saul.
 
-**10:27** And pestilent men said, "How will this one save us?" And they dishonored him, and did not bring him gifts.
+**10:27** And pestilent men said, "Who will save us—this one?" And they dishonored him, and did not bring him gifts.
 
 ## Translator Notes
 

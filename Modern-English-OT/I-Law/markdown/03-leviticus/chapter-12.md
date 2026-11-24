@@ -26,5 +26,5 @@
 - **12:2** — Greek σπερματισθῇ (aorist passive of σπερματίζω) literally means "is seeded" or "receives seed," denoting conception.
 - **12:3** — Greek uses the active verb περιτεμεῖ ("shall circumcise") with no new explicit subject, continuing the mother from v. 2 as grammatical subject (or acting impersonally as "one shall circumcise"), whereas the Hebrew text is passive.
 - **12:4** — Greek reads ἐν αἵματι ἀκαθάρτῳ αὐτῆς ("in her unclean blood," also in v. 5) where the Hebrew has "blood of purification," and reads ἀγγίου ("vessel") where other Greek witnesses and the Hebrew read ἁγίου ("holy thing").
-- **12:7** — Greek makes the priest the explicit active subject of καθαριεῖ αὐτήν ("he shall cleanse her"), whereas the Hebrew text reads "and she shall be clean."
+- **12:7** — Greek καθαριεῖ αὐτήν ("he shall cleanse her") is active, with the priest as its implied subject, whereas the Hebrew text reads "and she shall be clean."
 - **12:8** — "Her hand does not find what is sufficient" preserves a literal Greek rendering of a Semitic idiom meaning she cannot afford a lamb.

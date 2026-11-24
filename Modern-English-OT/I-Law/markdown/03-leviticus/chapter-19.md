@@ -7,7 +7,7 @@
 
 **19:1** And the Lord spoke to Moses, saying,
 
-**19:2** "Speak to the assembly of the sons of Israel, and you shall say to them, 'You shall be holy, because I am holy, the Lord your God.
+**19:2** "Speak to the congregation of the sons of Israel, and you shall say to them, 'You shall be holy, because I am holy, the Lord your God.
 
 **19:3** Let each one fear his father and his mother, and you shall keep My Sabbaths; I am the Lord your God.
 
@@ -63,7 +63,7 @@
 
 **19:29** You shall not profane your daughter to prostitute her; and the land shall not commit prostitution, and the land shall be filled with lawlessness.
 
-**19:30** You shall keep My Sabbaths, and you shall fear My sanctuary; I am the Lord.
+**19:30** You shall keep My Sabbaths, and you shall fear My holy places; I am the Lord.
 
 **19:31** You shall not follow after mediums, and you shall not attach yourselves to enchanters so as to be defiled by them. I am the Lord your God.
 
@@ -83,6 +83,6 @@
 
 - **19:5** — The Greek text reads δεκάτην ("tithe" or "tenth"), a notable Septuagint manuscript reading where other witnesses have δεκτὴν ("acceptable," matching the Hebrew).
 - **19:23** — The Greek adds the clause "which the Lord God is giving you" and uses purification language ("cleanse away its uncleanness," "uncleansed") rather than the Hebrew's circumcision imagery.
-- **19:26** — The Greek reads "upon the mountains" (ἐπὶ τῶν ὀρέων), reflecting a different vocalization of the Hebrew consonants than the Masoretic Text's "with the blood."
+- **19:26** — The Greek reads "upon the mountains" (ἐπὶ τῶν ὀρέων), where the Hebrew Masoretic Text has "with the blood."
 - **19:29** — Following Hebrew negative coordination literally, the Greek does not repeat the negative before "and the land shall be filled with lawlessness," though the negation extends to both clauses.
 - **19:36** — A chous (χοῦς) is a Greek liquid measure of roughly three liters; the Greek lists three measuring standards where the Hebrew lists four.

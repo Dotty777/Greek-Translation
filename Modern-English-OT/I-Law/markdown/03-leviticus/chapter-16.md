@@ -61,22 +61,22 @@
 
 **16:28** And the one who burns them up shall wash his clothes and bathe his body in water, and afterward he shall enter the camp.
 
-**16:29** And this shall be a perpetual statute for you: in the seventh month, humble your souls and you shall not do any work, the native and the proselyte who is joined among you.
+**16:29** And this shall be an eternal statute for you: in the seventh month, humble your souls and you shall not do any work, the native and the resident alien who is settled among you.
 
 **16:30** For on this day he shall make atonement for you, to cleanse you from all your sins before the Lord; and you shall be cleansed.
 
-**16:31** This shall be a Sabbath of Sabbaths, a rest for you, and you shall humble your souls; it is a perpetual statute.
+**16:31** This shall be a Sabbath of Sabbaths, a rest for you, and you shall humble your souls; it is an eternal statute.
 
 **16:32** The priest whom they anoint and whose hands they consecrate to serve as priest after his father shall make atonement, and he shall put on the linen robe, a holy robe;
 
 **16:33** and he shall make atonement for the most holy place, and he shall make atonement for the tent of testimony and the altar, and he shall make atonement for the priests and for the entire congregation.
 
-**16:34** And this shall be a perpetual statute for you, to make atonement for the sons of Israel from all their sins." Once a year it shall be done, just as the Lord commanded Moses.
+**16:34** And this shall be an eternal statute for you, to make atonement for the sons of Israel from all their sins." Once a year it shall be done, just as the Lord commanded Moses.
 
 ## Translator Notes
 
 - **16:1** — The Septuagint explicitly adds "strange fire" (pyr allotrion, echoing Lev 10:1), whereas the Hebrew Masoretic Text reads only "when they drew near before the Lord."
 - **16:8** — Where the Hebrew Masoretic Text has "Azazel," the Septuagint translates with to apopompaio ("the one to be sent away," i.e., the scapegoat; cf. apopompe, "sending away," in 16:10 and eis aphesin, "for release," in 16:26).
 - **16:24** — As in 16:20 ("make cleansing for the priests"), the Septuagint expands the atonement formula here by adding "and for his household" and "as for the priests" (hos peri ton hiereon).
-- **16:29** — Following the Codex Vaticanus tradition, the Greek text omits "on the tenth day of the month" after "in the seventh month" and uses an aorist imperative ("humble your souls") rather than a future verb; it also renders the resident alien as proselutos ho proskeimenos ("the proselyte who is joined").
+- **16:29** — The Greek text lacks "on the tenth day of the month" (present in the Hebrew Masoretic Text) after "in the seventh month" and uses an aorist imperative ("humble your souls") rather than a future verb.
 - **16:34** — The Septuagint renders the closing verb as future passive poiethesetai ("Once a year it shall be done"), whereas the Hebrew Masoretic Text has a narrative past tense ("And he did as the Lord commanded Moses").

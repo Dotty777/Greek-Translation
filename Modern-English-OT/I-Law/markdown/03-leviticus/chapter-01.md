@@ -7,7 +7,7 @@
 
 **1:1** And the Lord summoned Moses and spoke to him from the tent of testimony, saying,
 
-**1:2** "Speak to the sons of Israel and you shall say to them, 'If a person among you brings gifts to the Lord, from the livestock, both from the cattle and from the sheep, you shall present your gifts.
+**1:2** "Speak to the sons of Israel and you shall say to them, 'If a person among you brings gifts to the Lord, from the livestock and from the cattle and from the sheep, you shall present your gifts.
 
 **1:3** If his gift is a whole burnt offering from the cattle, he shall bring an unblemished male; he shall present it at the door of the tent of testimony, acceptable for him before the Lord.
 

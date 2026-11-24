@@ -62,5 +62,5 @@
 - **6:3** — The Septuagint presents a shorter form of the Lord's instructions here, omitting verse 4 entirely; in 6:5 it uniquely specifies that the city walls will fall "of themselves" (automata).
 - **6:10** — "he himself announces" (autos diangeile) shifts to the third person inside Joshua's direct speech, referring to Joshua himself (cf. 6:16).
 - **6:15** — Greek states that the Israelites marched around the city "six times" (hexakis) prior to the seventh circuit in 6:16, whereas the Hebrew reads "seven times."
-- **6:17** — "the Lord Sabaoth" (Kyrio sabaoth, transliterating Hebrew "Lord of hosts") is a Septuagint expansion not present in the Hebrew of this verse.
+- **6:17** — "Sabaoth" (σαβαώθ, transliterating Hebrew "hosts") is an addition in the Greek; the Hebrew of this verse reads only "to the Lord."
 - **6:26** — The Septuagint adds a fulfillment notice (paralleled in 1 Kings 16:34), naming the rebuilder "Ozan" (Ozan, distinct from Hebrew Hiel), using the Greek form Abeiron (Abiram), and rendering the youngest son's name (Segub) as "the youngest who survived" (to elachisto diasothenti); "at the cost of" renders instrumental Greek en ("in/with").

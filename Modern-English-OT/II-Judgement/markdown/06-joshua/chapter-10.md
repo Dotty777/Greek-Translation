@@ -41,7 +41,7 @@
 
 **10:19** but you, do not stand still; keep pursuing after your enemies, and overtake their rear guard, and do not let them enter their cities; for the Lord our God has delivered them into our hands."
 
-**10:20** And it happened, when Joshua and every son of Israel had finished cutting them down with a very great slaughter to the very end, that those who were escaping escaped into the fortified cities.
+**10:20** And it happened, when Joshua and every son of Israel had finished cutting them down with a very great slaughter to the end, that those who were escaping escaped into the fortified cities.
 
 **10:21** And all the people returned to Joshua at Makkedah unharmed, and not one of the sons of Israel muttered with his tongue.
 

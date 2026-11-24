@@ -9,9 +9,9 @@
 
 **9:2** And Moses said to Aaron, "Take for yourself a tender calf from the cattle for a sin offering, and a ram for a whole burnt offering, without blemish, and present them before the Lord;
 
-**9:3** and speak to the council of elders of Israel, saying, 'Take one male goat from the goats for a sin offering, and a calf and a year-old lamb for a whole offering, without blemish,
+**9:3** and speak to the council of elders of Israel, saying, 'Take one male goat from the goats for a sin offering, and a calf and a year-old lamb for a whole fire offering, without blemish,
 
-**9:4** and a young bull and a ram for a sacrifice of deliverance before the Lord, and fine flour mixed with oil; for today the Lord will appear among you.'"
+**9:4** and a young bull and a ram for a sacrifice of deliverance before the Lord, and fine flour kneaded with oil; for today the Lord will appear among you.'"
 
 **9:5** And they took them, just as Moses commanded, in front of the tent of testimony; and all the congregation approached and stood before the Lord.
 

@@ -21,7 +21,7 @@
 
 **15:8** And he captured Agag king of Amalek alive, and all the people of Jerim he killed with the edge of the sword.
 
-**15:9** And Saul and all the people preserved Agag alive, and what was good of the flocks and of the herds and of the provisions and of the vineyards and of all the good things, and he was not willing to utterly destroy them; and every work that was dishonored and rejected they utterly destroyed.
+**15:9** And Saul and all the people preserved Agag alive, and what was good of the flocks and of the herds and of the provisions and of the vineyards and of all the good things, and he was not willing to utterly destroy them; and every work that was dishonored and despised they utterly destroyed.
 
 **15:10** And the word of the Lord came to Samuel, saying,
 
@@ -37,7 +37,7 @@
 
 **15:16** And Samuel said to Saul, "Stop, and I will report to you what the Lord spoke to me in the night." And he said to him, "Speak."
 
-**15:17** And Samuel said to Saul, "Are you not small before Him, leader of a scepter of a tribe of Israel? And the Lord anointed you as king over Israel.
+**15:17** And Samuel said to Saul, "Are you not small before Him, leader of a tribe of the family of Israel? And the Lord anointed you as king over Israel.
 
 **15:18** And the Lord sent you on a way and said to you, 'Go and utterly destroy; you shall put to death those who sin against Me, Amalek, and you shall make war against them until you make an end of them.'
 

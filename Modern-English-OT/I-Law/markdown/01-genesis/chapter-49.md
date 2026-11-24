@@ -51,7 +51,7 @@
 
 **49:23** against whom, plotting together, they hurled insults, and masters of arrows held a grudge against him.
 
-**49:24** And their bows were shattered with might, and the sinews of the arms of their hand were loosened by the hand of the Mighty One of Jacob; from there is the One who strengthened Israel, from the God of your father.
+**49:24** And their bows were shattered with might, and the sinews of the arms of their hand were loosened by the hand of the Mighty One of Jacob; from there is the one who strengthened Israel, from the God of your father.
 
 **49:25** And my God helped you, and He blessed you with a blessing of heaven above, and a blessing of the earth that holds all things, on account of the blessing of breasts and womb,
 
@@ -77,4 +77,4 @@
 - **49:10** — The Greek reads "the things reserved for him" (ta apokeimena auto), understanding the Hebrew Shiloh as shelo ("that which belongs to him"), and renders the final clause as "the expectation of nations."
 - **49:14** — The Greek reads "desired what is good" rather than the Hebrew Masoretic Text's "a strong donkey," and translates the final noun as "allotments" (kleroi).
 - **49:21** — The Greek reads the Hebrew consonants as a "trunk" (stelechos) yielding beauty in its produce, rather than the Masoretic Text's "doe let loose" bearing beautiful fawns.
-- **49:24** — The Greek reads "their bows were shattered with might" and "the One who strengthened Israel," differing from the Masoretic Text's "his bow remained steady" and "the Shepherd, the Stone of Israel."
+- **49:24** — The Greek reads "their bows were shattered with might" and "the one who strengthened Israel," differing from the Masoretic Text's "his bow remained steady" and "the Shepherd, the Stone of Israel."

@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** Now Moses was shepherding the sheep of Jethro his father-in-law, the priest of Midian; and he led the sheep beyond the wilderness and came to Mount Horeb.
+**3:1** Now Moses was shepherding the sheep of Jethro his father-in-law, the priest of Midian; and he led the sheep toward the wilderness and came to Mount Horeb.
 
 **3:2** And an angel of the Lord appeared to him in a fire of flame out of the bush; and he saw that the bush was burning with fire, yet the bush was not being burned up.
 
@@ -27,7 +27,7 @@
 
 **3:11** And Moses said to God, "Who am I that I should go to Pharaoh king of Egypt, and that I should bring the sons of Israel out of the land of Egypt?"
 
-**3:12** And God spoke to Moses, saying, "I will be with you; and this will be the sign for you that I will send you out: when you bring My people out of Egypt, you will also worship God on this mountain."
+**3:12** And God spoke to Moses, saying, "I will be with you; and this will be the sign for you that I will send you out: when you bring My people out of Egypt, you will worship God on this mountain."
 
 **3:13** And Moses said to God, "Look, I will go out to the sons of Israel and say to them, 'The God of our fathers has sent me to you.' They will ask me, 'What is His name?' What shall I say to them?"
 

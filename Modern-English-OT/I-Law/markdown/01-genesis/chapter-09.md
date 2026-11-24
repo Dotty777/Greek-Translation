@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** And God blessed Noah and his sons, and said to them, "Increase and multiply, and fill the earth and exercise dominion over it.
+**9:1** And God blessed Noah and his sons, and said to them, "Increase and multiply, and fill the earth and gain mastery over it.
 
 **9:2** And the dread of you and the fear will be upon all the wild animals of the earth, and upon all the birds of the sky, and upon all that moves upon the earth, and all the fish of the sea; I have given them under your hands.
 
@@ -21,7 +21,7 @@
 
 **9:8** And God spoke to Noah and to his sons with him, saying,
 
-**9:9** "Look, I am establishing My covenant with you and with your offspring after you,
+**9:9** "Look, I am establishing My covenant with you and with your seed after you,
 
 **9:10** and with every living creature that is with you, from birds and from livestock, and with all the wild animals of the earth that are with you, from all that came out of the ark.
 
@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **9:1** — The Septuagint adds "and exercise dominion over it" at the end of the blessing (echoing Gen 1:28), a clause absent from the Hebrew Masoretic Text.
+- **9:1** — The Septuagint adds "and gain mastery over it" at the end of the blessing (echoing Gen 1:28), a clause absent from the Hebrew Masoretic Text.
 - **9:6** — The Septuagint reads "in return for his blood it will be shed" (where the Hebrew has "by man his blood shall be shed") and uses the first-person "I made" rather than the third-person "he made."
 - **9:21** — The Septuagint reads "in his house" here (and "in the houses of Shem" in 9:27) where the Hebrew text reads "tent(s)."
 - **9:25** — Greek "pais oiketes" ("a household servant") renders the Hebrew idiom "servant of servants."

@@ -43,7 +43,7 @@
 
 **8:19** And he cut up the ram into pieces, and Moses offered up the head and the pieces and the fat.
 
-**8:20** And he washed the belly and the feet with water, and Moses offered up the whole ram on the altar; a whole burnt offering that is for a fragrance of sweet aroma, it is a sacrificial offering to the Lord, just as the Lord commanded Moses.
+**8:20** And he washed the belly and the feet with water, and Moses offered up the whole ram on the altar; a whole burnt offering that is for an aroma of sweet fragrance, it is a fire offering to the Lord, just as the Lord commanded Moses.
 
 **8:21** And Moses brought forward the second ram, a ram of consecration; and Aaron and his sons laid their hands on the head of the ram.
 
@@ -53,11 +53,11 @@
 
 **8:24** And he took the fat, and the loin, and the fat that was on the belly, and the lobe of the liver, and the two kidneys and the fat that was on them, and the right shoulder.
 
-**8:25** And from the basket of consecration that was before the Lord he took one unleavened loaf, and one loaf made with oil, and one flat cake, and he placed them on the fat, and he placed the right shoulder on top.
+**8:25** And from the basket of consecration that was before the Lord he took one unleavened loaf, and one loaf made with oil, and one flat cake, and he placed them on the fat, and he placed the right shoulder.
 
 **8:26** And he placed all of them upon the hands of Aaron and upon the hands of his sons, and he offered them up as a set-apart offering before the Lord.
 
-**8:27** And Moses took them from their hands, and Moses offered them up on the altar, upon the whole burnt offering of consecration, which is a fragrance of sweet aroma; it is a sacrificial offering to the Lord.
+**8:27** And Moses took them from their hands, and Moses offered them up on the altar, upon the whole burnt offering of consecration, which is an aroma of sweet fragrance; it is a fire offering to the Lord.
 
 **8:28** And taking the breast, Moses set it apart as a placed offering before the Lord from the ram of consecration; and it became a portion for Moses, just as the Lord commanded Moses. And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron and his garments and his sons.
 
@@ -84,4 +84,4 @@
 - **8:11** — In the Septuagint order, the anointing of the tent and its contents follows the sprinkling and anointing of the altar and basin at the end of verse 11 rather than appearing in verse 10 as in the Hebrew text.
 - **8:18** — In this Greek text, verse 18 incorporates the material traditionally numbered as verse 19 ("And Moses slaughtered the ram, and Moses poured the blood upon the altar all around").
 - **8:29** — The Saints Greek Critical Text gives the sprinkling of oil and blood twice: at the end of verse 28 and again in full in verse 29. προσέῤῥνεν is a spelling of προσέρρανεν ('sprinkled').
-- **8:30** — This verse in the Saints Greek Critical Text repeats only the closing phrase of verse 29 ('and the garments of his sons with him'); like the Septuagint generally, it lacks the closing sanctification clause found in the Hebrew text.
+- **8:30** — This verse in the Saints Greek Critical Text repeats only the closing phrase of verse 29 ('and the garments of his sons with him') and lacks the closing sanctification clause found in the Hebrew text.

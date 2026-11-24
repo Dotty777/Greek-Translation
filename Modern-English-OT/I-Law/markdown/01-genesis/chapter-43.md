@@ -25,7 +25,7 @@
 
 **43:10** For if we had not delayed, we would already have returned twice."
 
-**43:11** Then Israel their father said to them, "If it is so, do this: take some of the fruits of the land in your vessels, and bring down gifts to the man—some resin and honey, incense and stacte and terebinth and walnuts.
+**43:11** Then Israel their father said to them, "If it is so, do this: take some of the fruits of the land in your vessels, and bring down gifts to the man—some resin and honey, incense and myrrh oil and terebinth and walnuts.
 
 **43:12** And take double the silver in your hands; return with you the silver that was returned in your bags; perhaps it is an oversight.
 

@@ -13,7 +13,7 @@
 
 **7:4** and the two kidneys and the fat that is on them, that which is on the thighs, and the lobe that is on the liver; together with the kidneys he shall remove them;
 
-**7:5** and the priest shall offer them up on the altar as an offering to the Lord; it is for trespass.
+**7:5** and the priest shall offer them up on the altar as a fire offering to the Lord; it is for trespass.
 
 **7:6** Every male from among the priests shall eat it; in a holy place they shall eat it; it is most holy.
 
@@ -21,13 +21,13 @@
 
 **7:8** And as for the priest who presents a person's burnt offering, the hide of the burnt offering that he himself offers shall belong to him.
 
-**7:9** And every sacrifice that is prepared in the oven, and every one that is prepared on a grill or on a griddle, belongs to the priest who offers it; it shall be his.
+**7:9** And every sacrifice that is prepared in the oven, and every one that is prepared on a hearth or on a griddle, belongs to the priest who offers it; it shall be his.
 
 **7:10** And every sacrifice mixed with oil and not mixed shall belong to all the sons of Aaron, to each an equal share.
 
 **7:11** This is the law of the sacrifice of deliverance that they shall offer to the Lord.
 
-**7:12** If he offers it for praise, then he shall offer with the sacrifice of praise loaves of fine flour mixed with oil, unleavened wafers spread with oil, and fine flour kneaded with oil;
+**7:12** If he offers it for praise, then he shall offer with the sacrifice of praise loaves of fine flour mixed with oil, unleavened flat cakes spread with oil, and fine flour kneaded with oil;
 
 **7:13** with leavened loaves he shall offer his gifts, along with a deliverance sacrifice of praise.
 
@@ -53,7 +53,7 @@
 
 **7:24** And the fat of animals that die naturally, and what is torn by wild beasts, may be used for any work, yet for food it shall not be eaten;
 
-**7:25** as for everyone who eats fat from the livestock from which one presents an offering of the Lord, that soul shall be destroyed from its people.
+**7:25** as for everyone who eats fat from the livestock from which one presents a fire offering of the Lord, that soul shall be destroyed from its people.
 
 **7:26** You shall not eat any blood in all the land, your dwelling place, both from the birds and from the livestock.
 
@@ -63,7 +63,7 @@
 
 **7:29** "And you shall speak to the sons of Israel, saying, 'The one who offers a sacrifice of deliverance to the Lord shall bring his gift to the Lord, even from the sacrifice of deliverance;
 
-**7:30** his own hands shall offer the offerings to the Lord: the fat that is on the breast and the lobe of the liver, he shall offer them so as to place them as a gift before the Lord.
+**7:30** his hands shall offer the fire offerings to the Lord: the fat that is on the breast and the lobe of the liver, he shall offer them so as to place them as a gift before the Lord.
 
 **7:31** And the priest shall offer up the fat on the altar, and the breast shall belong to Aaron and shall belong to his sons.
 
@@ -73,7 +73,7 @@
 
 **7:34** For I have taken the breast of the placed offering and the shoulder of the set-apart portion from the sons of Israel, from your sacrifices of deliverance, and I have given them to Aaron the priest and to his sons as an eternal statute from the sons of Israel.'"
 
-**7:35** This is the anointing of Aaron and the anointing of his sons from the offerings of the Lord, on the day when He brought them near to serve as priests to the Lord,
+**7:35** This is the anointing of Aaron and the anointing of his sons from the fire offerings of the Lord, on the day when He brought them near to serve as priests to the Lord,
 
 **7:36** just as the Lord commanded to give to them on the day when He anointed them, from the sons of Israel; it is an eternal statute for their generations.
 

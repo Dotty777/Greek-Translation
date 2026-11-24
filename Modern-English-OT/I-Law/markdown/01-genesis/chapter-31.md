@@ -19,15 +19,15 @@
 
 **31:7** Yet your father cheated me and changed my wages of the ten lambs, and God did not allow him to harm me.
 
-**31:8** If he spoke like this, 'The speckled ones will be your wages,' then all the sheep would bear speckled ones; and if he said, 'The white ones will be your wages,' then all the sheep would bear white ones.
+**31:8** If he spoke like this, 'The variegated ones will be your wages,' then all the sheep would bear variegated ones; and if he said, 'The white ones will be your wages,' then all the sheep would bear white ones.
 
 **31:9** And God took away all the livestock of your father and gave them to me.
 
-**31:10** And it came about at the time when the sheep were conceiving, that I saw with my eyes in my sleep, and look, the male goats and the rams were mounting the sheep and the goats, streaked with white, and speckled, and ash-colored dappled.
+**31:10** And it came about at the time when the sheep were conceiving, that I saw with my eyes in my sleep, and look, the male goats and the rams were mounting the sheep and the goats, white-streaked, and variegated, and ash-colored speckled.
 
-**31:11** And the angel of God said to me in a dream, 'Jacob, Jacob.' And I said, 'What is it?'
+**31:11** And the angel of God said to me in my sleep, 'Jacob, Jacob.' And I said, 'What is it?'
 
-**31:12** And He said, 'Look up with your eyes and see the male goats and the rams mounting the sheep and the goats, streaked with white, and speckled, and ash-colored dappled; for I have seen all that Laban is doing to you.
+**31:12** And he said, 'Look up with your eyes and see the male goats and the rams mounting the sheep and the goats, white-streaked, and variegated, and ash-colored speckled; for I have seen all that Laban is doing to you.
 
 **31:13** I am the God who appeared to you in the place where you anointed a pillar to Me there and vowed a vow to Me there. Now therefore, arise and go out from this land, and go to the land of your birth, and I will be with you.'"
 
@@ -51,7 +51,7 @@
 
 **31:23** And taking all his brothers with him, he pursued after him a journey of seven days, and overtook him in the mountain of Gilead.
 
-**31:24** And God came to Laban the Syrian in a dream during the night and said to him, "Guard yourself so that you never speak evil things with Jacob."
+**31:24** And God came to Laban the Syrian in his sleep during the night and said to him, "Guard yourself so that you never speak evil things with Jacob."
 
 **31:25** And Laban overtook Jacob. Now Jacob had pitched his tent on the mountain, and Laban stationed his brothers on the mountain of Gilead.
 

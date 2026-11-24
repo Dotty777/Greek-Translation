@@ -1,6 +1,6 @@
 # Genesis 20 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -9,13 +9,13 @@
 
 **20:2** And Abraham said concerning Sarah his wife, "She is my sister"; for he was afraid to say, "She is my wife," for fear that the men of the city might kill him on account of her. Then Abimelech, king of Gerar, sent and took Sarah.
 
-**20:3** And God came in to Abimelech in a dream at night, and said to him, "Look, you are about to die because of the woman whom you took, for she is married to a husband."
+**20:3** And God came in to Abimelech in his sleep at night, and said to him, "Look, you are about to die because of the woman whom you took, for she is married to a husband."
 
 **20:4** Now Abimelech had not touched her, and he said, "Lord, will You destroy an unwitting and righteous nation?
 
 **20:5** Did he himself not say to me, 'She is my sister'? And she said to me, 'He is my brother.' With a pure heart and with righteousness of hands I have done this."
 
-**20:6** And God said to him in a dream, "I also knew that you did this with a pure heart, and I Myself spared you from sinning against Me; because of this I did not allow you to touch her.
+**20:6** And God said to him in his sleep, "I also knew that you did this with a pure heart, and I Myself spared you from sinning against Me; because of this I did not allow you to touch her.
 
 **20:7** Now, however, return the wife to the man, because he is a prophet, and he will pray for you, and you will live; but if you do not return her, know that you will die, you and all that is yours."
 
@@ -44,6 +44,7 @@
 ## Translator Notes
 
 - **20:2** — The explanatory clause "for he was afraid to say, 'She is my wife,' for fear that the men of the city might kill him on account of her" is present in the Greek text and absent from the Hebrew MT.
+- **20:3** — Greek ἐν ὕπνῳ means "in sleep" (Hebrew "in a dream"); likewise καθ᾽ ὕπνον in 20:6; 31:11, 24.
 - **20:14** — The Greek adds "a thousand didrachmas" (anticipating 20:16) and uses the earlier form of the name "Abram" here, whereas the surrounding verses use "Abraham."
 - **20:16** — Where the Hebrew MT has a notoriously difficult closing phrase (often rendered "a covering of the eyes... you are completely vindicated"), the Greek reads "for the honor of your face and for all the women with you; and in all things speak the truth."
 - **20:18** — The Greek renders the emphatic Hebrew verb construction as "closed up ... from the outside."

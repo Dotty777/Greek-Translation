@@ -63,7 +63,7 @@
 
 **18:29** For everyone who does any of all these abominations—the souls that do them shall be utterly destroyed from their people.
 
-**18:30** And you shall keep My ordinances, so that you may not do any of all the abominable statutes that has been done before you, and you shall not be defiled by them; for I am the Lord your God.'"
+**18:30** And you shall keep My ordinances, so that you may not do any of all the abominable statutes that have been done before you, and you shall not be defiled by them; for I am the Lord your God.'"
 
 ## Translator Notes
 

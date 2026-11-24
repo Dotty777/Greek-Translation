@@ -31,7 +31,7 @@
 
 **40:13** Three days more, and Pharaoh will remember your office and restore you to your office of chief cupbearer, and you will give the cup of Pharaoh into his hand according to your former office, as when you were serving as cupbearer.
 
-**40:14** Only remember me by yourself when it goes well for you, and show mercy toward me, and make mention of me to Pharaoh, and bring me out of this stronghold.
+**40:14** But remember me by yourself when it goes well for you, and show mercy toward me, and make mention of me to Pharaoh, and bring me out of this stronghold.
 
 **40:15** For by theft I was stolen from the land of the Hebrews; and here I have done nothing, yet they threw me into this pit."
 

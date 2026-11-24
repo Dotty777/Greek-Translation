@@ -5,7 +5,7 @@
 
 ## Text
 
-**32:1** Now Laban rose early in the morning, kissed his sons and his daughters, and blessed them; and Laban turned back and departed to his place.
+**32:1** Now Laban rose in the morning, kissed his sons and his daughters, and blessed them; and Laban turned back and departed to his place.
 
 **32:2** And Jacob went away on his own way; and looking up with his eyes, he saw a camp of God encamped, and the angels of God met him.
 
@@ -33,7 +33,7 @@
 
 **32:14** And he slept there that night. And from what he was bringing he took gifts and sent them out to Esau his brother:
 
-**32:15** two hundred female goats, twenty male goats, two hundred ewes, twenty rams,
+**32:15** two hundred female goats, twenty male goats, two hundred sheep, twenty rams,
 
 **32:16** thirty nursing camels and their young, forty cows, ten bulls, twenty donkeys, ten colts.
 
