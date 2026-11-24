@@ -1,11 +1,13 @@
 # Amos 8 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (13 verses, 5 translator notes)  
+> **Status:** `draft: true` (14 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Amos`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**8:2** and look, a bird-catcher's basket. And He said, "What do you see, Amos?" And I said, "A bird-catcher's basket." And the Lord said to me, "The end has come upon My people Israel; I will no longer pass them by.
+**8:1** And look, a bird-catcher's basket. And He said, "What do you see, Amos?" And I said, "A bird-catcher's basket."
+
+**8:2** And the Lord said to me, "The end has come upon My people Israel; I will no longer pass them by.
 
 **8:3** And the paneled ceilings of the temple will wail in that day," says the Lord, the Lord. "Many are the fallen in every place; I will cast silence."
 
@@ -33,7 +35,7 @@
 
 ## Translator Notes
 
-- **8:2** — Greek 'angos ixeutou' ('a bird-catcher's basket') differs from the Hebrew Masoretic Text's 'basket of summer fruit,' which puns on the Hebrew word for 'end.'
+- **8:1** — Greek 'angos ixeutou' ('a bird-catcher's basket') differs from the Hebrew Masoretic Text's 'basket of summer fruit,' which puns on the Hebrew word for 'end.'
 - **8:3** — Greek 'phatnomata' ('paneled ceilings') differs from the Hebrew Masoretic Text's 'songs,' and the final clause reads a first-person future verb ('I will cast silence').
 - **8:7** — The Greek conditional particle 'ei' reflects a Hebrew oath idiom carrying strong negation ('surely ... not'), and 'eis nikos' (lit. 'to victory') is a standard Septuagint idiom meaning 'forever' or 'completely.'
 - **8:10** — Greek 'agapetou' ('a beloved one') renders the Hebrew for 'an only son,' and 'those with him' ('tous met' autou') differs from the Hebrew Masoretic Text's 'its end.'

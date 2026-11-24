@@ -154,4 +154,4 @@
 - **28:48** — The Greek text omits "in thirst and in nakedness" (present in the Hebrew Masoretic Text and some Greek witnesses) and reads κλοιὸν σιδηροῦν ("an iron collar" rather than "an iron yoke").
 - **28:55** — Greek βασκανεῖ ... ὥστε δοῦναι lacks an explicit negative particle before the infinitive because βασκαίνω itself conveys grudgingly withholding ("begrudge ... so as not to give").
 - **28:65** — Following Codex Vaticanus, the Greek reads καρδίαν ἑτέραν ἀπειθοῦσαν ("a different, disobedient heart"), differing from other Greek manuscripts ("a despondent heart") and the Hebrew Masoretic Text ("a trembling heart").
-- **28:69** — In Septuagint versification this verse concludes chapter 28; in most English Bibles following the Hebrew Masoretic Text it is numbered Deuteronomy 29:1.
+- **28:69** — The Saints Greek Critical Text numbers this verse 29:1 and the rest of the chapter 29:2-29. The English keeps the Saints.Bible verse slots (28:69 and 29:1-28) shared with the Hebrew and Latin editions, so Greek 29:n appears at 29:n-1 in this chapter.

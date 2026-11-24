@@ -17,7 +17,7 @@
 - [Psalm 9](chapter-009.md) — 39 verses, 6 notes
 - [Psalm 10](chapter-010.md) — 7 verses, 5 notes
 - [Psalm 11](chapter-011.md) — 9 verses, 5 notes
-- [Psalm 12](chapter-012.md) — 5 verses, 3 notes, +1 additional
+- [Psalm 12](chapter-012.md) — 6 verses, 4 notes
 - [Psalm 13](chapter-013.md) — 7 verses, 4 notes
 - [Psalm 14](chapter-014.md) — 5 verses, 2 notes
 - [Psalm 15](chapter-015.md) — 11 verses, 5 notes

@@ -1,6 +1,6 @@
 # Leviticus 8 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,27 +41,29 @@
 
 **8:18** And Moses brought forward the ram for a whole burnt offering, and Aaron and his sons laid their hands on the head of the ram. And Moses slaughtered the ram, and Moses poured the blood upon the altar all around.
 
-**8:20** And he cut up the ram into pieces, and Moses offered up the head and the pieces and the fat.
+**8:19** And he cut up the ram into pieces, and Moses offered up the head and the pieces and the fat.
 
-**8:21** And he washed the belly and the feet with water, and Moses offered up the whole ram on the altar; a whole burnt offering that is for a fragrance of sweet aroma, it is a sacrificial offering to the Lord, just as the Lord commanded Moses.
+**8:20** And he washed the belly and the feet with water, and Moses offered up the whole ram on the altar; a whole burnt offering that is for a fragrance of sweet aroma, it is a sacrificial offering to the Lord, just as the Lord commanded Moses.
 
-**8:22** And Moses brought forward the second ram, a ram of consecration; and Aaron and his sons laid their hands on the head of the ram.
+**8:21** And Moses brought forward the second ram, a ram of consecration; and Aaron and his sons laid their hands on the head of the ram.
 
-**8:23** And he slaughtered it, and Moses took some of its blood and put it on the lobe of Aaron's right ear, and on the tip of his right hand, and on the tip of his right foot.
+**8:22** And he slaughtered it, and Moses took some of its blood and put it on the lobe of Aaron's right ear, and on the tip of his right hand, and on the tip of his right foot.
 
-**8:24** And Moses brought forward the sons of Aaron; and Moses put some of the blood on the lobes of their right ears, and on the tips of their right hands, and on the tips of their right feet; and Moses poured the blood upon the altar all around.
+**8:23** And Moses brought forward the sons of Aaron; and Moses put some of the blood on the lobes of their right ears, and on the tips of their right hands, and on the tips of their right feet; and Moses poured the blood upon the altar all around.
 
-**8:25** And he took the fat, and the loin, and the fat that was on the belly, and the lobe of the liver, and the two kidneys and the fat that was on them, and the right shoulder.
+**8:24** And he took the fat, and the loin, and the fat that was on the belly, and the lobe of the liver, and the two kidneys and the fat that was on them, and the right shoulder.
 
-**8:26** And from the basket of consecration that was before the Lord he took one unleavened loaf, and one loaf made with oil, and one flat cake, and he placed them on the fat, and he placed the right shoulder on top.
+**8:25** And from the basket of consecration that was before the Lord he took one unleavened loaf, and one loaf made with oil, and one flat cake, and he placed them on the fat, and he placed the right shoulder on top.
 
-**8:27** And he placed all of them upon the hands of Aaron and upon the hands of his sons, and he offered them up as a set-apart offering before the Lord.
+**8:26** And he placed all of them upon the hands of Aaron and upon the hands of his sons, and he offered them up as a set-apart offering before the Lord.
 
-**8:28** And Moses took them from their hands, and Moses offered them up on the altar, upon the whole burnt offering of consecration, which is a fragrance of sweet aroma; it is a sacrificial offering to the Lord.
+**8:27** And Moses took them from their hands, and Moses offered them up on the altar, upon the whole burnt offering of consecration, which is a fragrance of sweet aroma; it is a sacrificial offering to the Lord.
 
-**8:29** And taking the breast, Moses set it apart as a placed offering before the Lord from the ram of consecration; and it became a portion for Moses, just as the Lord commanded Moses. And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron and his garments and his sons.
+**8:28** And taking the breast, Moses set it apart as a placed offering before the Lord from the ram of consecration; and it became a portion for Moses, just as the Lord commanded Moses. And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron and his garments and his sons.
 
-**8:30** And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron, and his garments, and his sons, and the garments of his sons with him, and the garments of his sons with him.
+**8:29** And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron, and his garments, and his sons, and the garments of his sons with him.
+
+**8:30** and the garments of his sons with him.
 
 **8:31** And Moses said to Aaron and his sons, "Boil the flesh in the courtyard of the tent of testimony in a holy place, and there you shall eat it and the loaves in the basket of consecration, just as it has been ordered to me, saying, 'Aaron and his sons shall eat these.'
 
@@ -81,4 +83,5 @@
 - **8:8** — The Greek renders the Hebrew priestly vestments as ἐπωμίς ("shoulder-piece," for ephod), λόγιον ("oracle," for breastpiece), and τὴν δήλωσιν καὶ τὴν ἀλήθειαν ("the manifestation and the truth," for Urim and Thummim).
 - **8:11** — In the Septuagint order, the anointing of the tent and its contents follows the sprinkling and anointing of the altar and basin at the end of verse 11 rather than appearing in verse 10 as in the Hebrew text.
 - **8:18** — In this Greek text, verse 18 incorporates the material traditionally numbered as verse 19 ("And Moses slaughtered the ram, and Moses poured the blood upon the altar all around").
-- **8:30** — The source Greek text overlaps between verses 29 and 30, duplicates the final phrase ("and the garments of his sons with him") in verse 30, and reads προσέῤῥνεν (a spelling of προσέρρανεν, "sprinkled"); like the Septuagint generally, it omits the closing sanctification clause found in the Hebrew text.
+- **8:29** — The Saints Greek Critical Text gives the sprinkling of oil and blood twice: at the end of verse 28 and again in full in verse 29. προσέῤῥνεν is a spelling of προσέρρανεν ('sprinkled').
+- **8:30** — This verse in the Saints Greek Critical Text repeats only the closing phrase of verse 29 ('and the garments of his sons with him'); like the Septuagint generally, it lacks the closing sanctification clause found in the Hebrew text.

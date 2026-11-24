@@ -1,6 +1,6 @@
 # Leviticus 11 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (47 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,7 +33,9 @@
 
 **11:14** and the vulture and the kite and those like it,
 
-**11:16** and the ostrich and the owl and the gull and those like it, and the hawk and those like it,
+**11:15** and the ostrich and the owl and the gull and those like it,
+
+**11:16** and the hawk and those like it,
 
 **11:17** and the night raven and the cormorant and the ibis,
 
@@ -100,7 +102,7 @@
 ## Translator Notes
 
 - **11:5** — The Greek text reverses the order of the Hebrew MT in vv. 5-6, listing δασύποδα ('hare') in v. 5 and χοιρογρύλλιον ('rock badger') in v. 6 (MT: rock badger in v. 5, hare in v. 6).
-- **11:14** — Verse 11:15 (listing the raven in the Hebrew MT) is absent from this Greek text, while γλαῦκα ('owl') appears twice in the bird list (vv. 16 and 19).
+- **11:14** — This Greek list has no counterpart to the raven of Hebrew 11:15, and γλαῦκα ('owl') appears twice (vv. 15 and 19).
 - **11:22** — The four edible insects in Greek are βροῦχον ('wingless locust'), ἀττάκην ('attakes', an unidentified kind of locust), ἀκρίδα ('locust'), and ὀφιομάχην (literally 'snake-fighter', a kind of locust or grasshopper).
 - **11:26** — The Greek text omits the negation before 'splits hoof-clefts' (ὀνυχιστῆρας ὀνυχίζει), whereas the Hebrew MT reads 'is not cloven-footed.'
 - **11:47** — 'Those that bring forth alive what is eaten' literally translates Greek τῶν ζωογονούντων τὰ ἐσθιόμενα (taking the neuter plural as the direct object of ζωογονέω), whereas the Hebrew MT reads 'the living creature that may be eaten.'

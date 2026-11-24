@@ -23,7 +23,7 @@
 
 **5:13** And he spoke about the trees, from the cedar that is in Lebanon even to the hyssop that comes out through the wall; and he spoke about the beasts, and about the birds, and about the creeping things, and about the fish.
 
-**5:14** And Solomon built Gezer. And all the peoples came to hear the wisdom of Solomon, and from all the kings of the earth, as many as heard of his wisdom. And Solomon took the daughter of Pharaoh for himself as a wife, and brought her into the city of David until he completed the house of the Lord, and his own house, and the wall of Jerusalem. When Pharaoh king of Egypt went up, he captured Gezer beforehand and burned it with fire, and the Canaanite dwelling in Mergab; and Pharaoh gave them as parting gifts to his daughter, Solomon's wife.
+**5:14** And all the peoples came to hear the wisdom of Solomon, and from all the kings of the earth, as many as heard of his wisdom. And Solomon took the daughter of Pharaoh for himself as a wife, and brought her into the city of David until he completed the house of the Lord, and his own house, and the wall of Jerusalem. When Pharaoh king of Egypt went up, he captured Gezer beforehand and burned it with fire, and the Canaanite dwelling in Mergab; and Pharaoh gave them as parting gifts to his daughter, Solomon's wife.
 
 **5:15** And Hiram king of Tyre sent his servants to anoint Solomon in place of David his father, because Hiram continually loved David all the days.
 
@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **5:11** — The Greek preserves distinct forms of these names (Gaithan the Zareite, Ainan, Chalkad, and Darala) and reads singular "son of Mal," corresponding to Ethan the Ezrahite, Heman, Calcol, and Darda, sons of Mahol, in the Hebrew text.
-- **5:14** — The Septuagint places the account of Gezer and Pharaoh's daughter here rather than in chapters 3 and 9, names the Canaanite city Mergab, and has no separate verb for killing the Canaanite.
+- **5:14** — The Greek places the account of Pharaoh's daughter and Gezer here rather than in chapters 3 and 9, names the Canaanite city Mergab, and has no separate verb for killing the Canaanite.
 - **5:15** — The Greek reads "to anoint Solomon," whereas the Hebrew text reads "because he heard that they had anointed him king."
 - **5:20** — The Greek lacks "wages" before "your service" and reads the adverb idios ("on our own"), which may reflect an ancient orthographic variant of eidos ("one who knows how").
 - **5:25** — "Macheir" is an untranslated Greek transliteration corresponding to Hebrew "food" or "provisions," and the Greek specifies twenty thousand baths of oil rather than twenty kors.

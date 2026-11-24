@@ -52,7 +52,7 @@
 - [Chapter 44](chapter-44.md) — 34 verses, 4 notes
 - [Chapter 45](chapter-45.md) — 28 verses, 5 notes
 - [Chapter 46](chapter-46.md) — 34 verses, 5 notes
-- [Chapter 47](chapter-47.md) — 30 verses, 5 notes
+- [Chapter 47](chapter-47.md) — 31 verses, 5 notes
 - [Chapter 48](chapter-48.md) — 22 verses, 3 notes
 - [Chapter 49](chapter-49.md) — 33 verses, 5 notes
 - [Chapter 50](chapter-50.md) — 26 verses, 5 notes

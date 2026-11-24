@@ -1,6 +1,6 @@
 # Sirach 29 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,9 +35,11 @@
 
 **29:15** Do not forget the kindnesses of a guarantor, for he has given his life for you.
 
-**29:16** A sinner will overturn the goods of a guarantor, and one who is ungrateful in mind will forsake his rescuer.
+**29:16** A sinner will overturn the goods of a guarantor,
 
-**29:17** Suretyship has destroyed many who were prospering and has tossed them like a wave of the sea; it has sent powerful men into exile, and they have wandered among foreign nations.
+**29:17** and one who is ungrateful in mind will forsake his rescuer.
+
+**29:18** Suretyship has destroyed many who were prospering and has tossed them like a wave of the sea; it has sent powerful men into exile, and they have wandered among foreign nations.
 
 **29:19** A sinner who falls into suretyship and pursues contracts will fall into lawsuits.
 
@@ -63,6 +65,5 @@
 
 - **29:6** — The primary Greek uncial text reads 'not for nothing' (οὐ δωρεάν), emphasizing ironically that the lender paid for an enemy with his lost loan; some witnesses omit 'not' and read 'for nothing' (without cause).
 - **29:8** — The Greek text here lacks a negative particle and uses the future indicative ('you will delay him for almsgiving'); several later manuscripts and versions read a negative prohibition ('do not keep him waiting for almsgiving').
-- **29:17** — Some editions and translations number the second half of this verse ('it has sent powerful men into exile...') as 29:18; here the Greek text moves directly from 29:17 to 29:19.
 - **29:23** — The primary Greek uncials preserve only this single clause; some manuscripts and versions add a second clause ('and you will not hear the reproach of your sojourning').
 - **29:27** — 'From the presence of honor' (ἀπὸ προσώπου δόξης) is a Semitic idiom meaning to yield one's place to a more honored person.

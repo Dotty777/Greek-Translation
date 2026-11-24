@@ -1,6 +1,6 @@
 # Jeremiah 25 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes)  
+> **Status:** `draft: true` (19 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,7 +31,7 @@
 
 **25:13** and I will bring upon that land all My words that I have spoken against it, all the things written in this book.'"
 
-**25:14** What Jeremiah prophesied against the nations of Elam. At the beginning of the reign of King Zedekiah, this word came concerning Elam.
+**25:14** What Jeremiah prophesied against the nations of Elam.
 
 **25:15** Thus says the Lord: "The bow of Elam is broken, the chief of their might.
 
@@ -43,6 +43,10 @@
 
 **25:19** and it will come about at the end of the days that I will bring back the captivity of Elam," says the Lord.
 
+## Additional Verses (Not in Saints Numbering)
+
+**25:20** *(after `25:19`)* At the beginning of the reign of King Zedekiah, this word came concerning Elam.
+
 ## Translator Notes
 
 - **25:3** — Greek reads "Amos" where the Hebrew Masoretic Text has "Amon" as the father of Josiah.
@@ -50,3 +54,4 @@
 - **25:10** — Greek reads "the scent of perfume" (osmen myrou) where the Hebrew Masoretic Text reads "the sound of the millstones."
 - **25:14** — In the Septuagint arrangement of Jeremiah, the Oracles Against the Nations begin here with Elam (corresponding to 49:34-39 in the Hebrew text), and the Greek phrase "of Elam" (ta Ailam) is sometimes punctuated as a separate subheading ("The matters concerning Elam").
 - **25:17** — Greek reads "according to" (kata) rather than "disaster" (kaka), omitting an explicit direct object before "the wrath of My fury."
+- **25:20 *(additional)*** — In the Saints Greek Critical Text this dating notice closes the oracle against Elam; it has no separate place in the Saints.Bible numbering, so it is shown after 25:19.

@@ -1,6 +1,6 @@
 # Jeremiah 10 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,7 +13,9 @@
 
 **10:4** adorned with silver and gold; with hammers and nails they fastened them.
 
-**10:9** They will set them up, and they will not move; it is hammered silver, they will not walk; plated silver will come from Tarshish, gold of Mophaz, and the hand of goldsmiths; all are works of artisans. They will clothe them in blue and purple. Surely they will be carried, for they will not take a step. Do not be afraid of them, for they will by no means do harm, and there is no good in them."
+**10:5** They will set them up, and they will not move; it is hammered silver; they will not walk.
+
+**10:9** Plated silver will come from Tarshish, gold of Mophaz, and the hand of goldsmiths; all are works of artisans. They will clothe them in blue and purple. Surely they will be carried, for they will not take a step. Do not be afraid of them, for they will by no means do harm, and there is no good in them."
 
 **10:11** Thus you shall say to them: "Gods who did not make heaven and earth, let them perish from the earth and from beneath this heaven."
 
@@ -47,7 +49,7 @@
 
 ## Translator Notes
 
-- **10:9** — Septuagint Jeremiah omits MT 10:6-8 and 10:10, combining MT 10:4b, 10:5, and 10:9 here, and preserves the Greek place-name "Mophaz" where MT has "Uphaz."
+- **10:9** — This Greek text has no verses 10:6-8 or 10:10 (present in the Hebrew Masoretic Text) and preserves the Greek place-name 'Mophaz' where the Hebrew has 'Uphaz.'
 - **10:13** — Greek lacks the opening clause of MT ("when He utters His voice") and reads "light" brought out from God's storehouses where MT reads "wind."
 - **10:17** — Greek has a third-person past statement ("He has gathered your substance from outside") and "in choice places," whereas MT has a second-person imperative ("Gather up your bundle from the ground") and "under siege."
 - **10:19** — Greek uses second-person pronouns throughout 10:19 and the opening of 10:20 ("your shattering... your wound... your injury"), shifting to first person in 10:20 where it also reads "my sheep" and "a place for my tent, a place for my curtains."

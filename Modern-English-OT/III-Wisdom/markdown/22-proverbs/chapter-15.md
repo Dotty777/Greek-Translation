@@ -1,6 +1,6 @@
 # Proverbs 15 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,7 +13,9 @@
 
 **15:4** Healing of the tongue is a tree of life, and the one who guards it will be filled with spirit.
 
-**15:6** A fool mocks a father's discipline, but the one who keeps commands is more shrewd. In abounding righteousness there is great strength, but the ungodly will perish root and all from the earth; in the houses of the righteous there is great strength, but the fruits of the ungodly will perish.
+**15:5** A fool mocks a father's discipline, but the one who keeps commands is more shrewd. In abounding righteousness there is great strength, but the ungodly will perish root and all from the earth.
+
+**15:6** In the houses of the righteous there is great strength, but the fruits of the ungodly will perish.
 
 **15:7** The lips of the wise are bound with perception, but the hearts of fools are not secure.
 
@@ -70,7 +72,7 @@
 ## Translator Notes
 
 - **15:1** — The Greek opens with an additional clause ("Anger destroys even the prudent") absent from the Hebrew Masoretic Text, and uses the participle hypopiptousa, literally "yielding" or "submissive," for the answer that turns away wrath.
-- **15:6** — In the Septuagint numbering, this verse includes the text corresponding to Masoretic 15:5 (with panourgoteros, "more shrewd," used in a positive sense) followed by a double rendering of verse 6.
+- **15:5** — πανουργότερος ('more shrewd') is used here in a positive sense. The second half of this verse and verse 6 give two parallel sayings on the strength of the righteous and the ruin of the ungodly.
 - **15:23** — The Greek continues verse 22 directly, referring back to "counsel" with "it" and stating that the evil person will say nothing timely and good for the public community (to koino).
 - **15:27** — In the Septuagint, verses 27-29 incorporate sayings corresponding to Masoretic 16:6-9, which accounts for the shorter verse sequence at the opening of chapter 16 in the Greek text.
 - **15:33** — Unlike the Hebrew Masoretic Text ("before honor is humility"), the Greek reads "the beginning of glory will answer it," referring back to wisdom or discipline.

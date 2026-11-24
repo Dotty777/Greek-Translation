@@ -1,6 +1,6 @@
 # Wisdom of Solomon 4 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes)  
+> **Status:** `draft: true` (20 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Wisdom of Solomon`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,7 +39,9 @@
 
 **4:17** For they will see the end of a wise person, and they will not understand what He purposed concerning him, and for what purpose the Lord kept him safe.
 
-**4:19** They will see and show contempt, but the Lord will laugh at them in derision; and after this they will become a dishonored corpse and a disgrace among the dead forever. For He will dash them down speechless and headlong, and He will shake them from their foundations; and to the very last they will be laid waste, and they will be in anguish, and their memory will perish.
+**4:18** They will see and show contempt, but the Lord will laugh at them in derision; and after this they will become a dishonored corpse and a disgrace among the dead forever.
+
+**4:19** For He will dash them down speechless and headlong, and He will shake them from their foundations; and to the very last they will be laid waste, and they will be in anguish, and their memory will perish.
 
 **4:20** They will come fearful at the reckoning of their sins, and their lawless deeds will convict them to their face.
 
@@ -49,4 +51,3 @@
 - **4:12** — Greek uses vivid, rare imagery: "fascination" (baskania) denotes a bewitching spell, "roving" (rhembasmos) restless wandering, and "undermines" (metalleuei) literally means "mines under" (also sometimes taken as "alters" or "perverts").
 - **4:14** — The verb "hastened" (espeusen) has no explicit object in Greek; it may be taken intransitively of the righteous person ("he hastened") or, as in the Latin Vulgate, with the Lord as subject ("He hastened [to remove him]").
 - **4:15** — The Greek constructs this verse with participles and no finite main verb (an anacoluthon), rendered with finite verbs here for clarity.
-- **4:19** — The Saints Greek Critical Text joins traditional verses 18 and 19 under verse 19.

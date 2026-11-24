@@ -17,8 +17,6 @@
 
 **23:6** In his days Judah will be saved, and Israel will dwell in confidence; and this is his name which the Lord will call him: Josedek." Concerning the prophets.
 
-**23:8** "And I will put upon you everlasting reproach and everlasting disgrace, which will not be forgotten. Therefore, look, days are coming," says the Lord, "and they will no longer say, 'The Lord lives, who brought up the house of Israel out of the land of Egypt,' but, 'The Lord lives, who gathered all the seed of Israel from the land of the north and from all the countries where He drove them out, and restored them to their land.'"
-
 **23:9** My heart is broken within me; all my bones tremble. I have become like a broken man and like a man overcome by wine, because of the Lord and because of the splendor of His glory.
 
 **23:10** For because of these things the land mourned, the pastures of the wilderness dried up, and their forest became evil, and their strength likewise.
@@ -79,12 +77,14 @@
 
 **23:38** Therefore, thus says the Lord our God: "Because you spoke this word, 'The burden of the Lord,' though I sent to you, saying, 'You must not say, "The burden of the Lord,"'
 
-**23:39** therefore, look, I am taking you up and dashing you down, and the city that I gave to you and to your fathers."
+**23:39** therefore, look, I am taking you up and dashing you down, and the city that I gave to you and to your fathers,
+
+**23:40** and I will put upon you everlasting reproach and everlasting disgrace, which will not be forgotten. Therefore, look, days are coming, says the Lord, and they will no longer say, 'The Lord lives, who brought up the house of Israel out of the land of Egypt,' but, 'The Lord lives, who gathered all the seed of Israel from the land of the north and from all the countries where He drove them out, and restored them to their land.'"
 
 ## Translator Notes
 
 - **23:6** — Greek reads "which the Lord will call him: Josedek," treating the Hebrew title ("the LORD is our righteousness") as a proper name, and closes the verse with the superscription "Concerning the prophets" (literally "Among the prophets"), which introduces verse 9 in the Hebrew Masoretic Text.
-- **23:8** — In the Septuagint tradition, verses 7-8 (along with verse 40 of the Hebrew text) were transposed; here the text combines the conclusion corresponding to Hebrew 23:40 with 23:7-8 (omitting a separate verse 7) and reads "and restored them to their land" where the Hebrew reads "and they shall dwell on their own soil."
 - **23:10** — Greek reads "their forest" (drymos), likely an early scribal shift from dromos ("course"), and omits the negation in the final clause ("and their strength likewise," versus Hebrew "and their might is not right").
 - **23:31** — Greek reads "and slumber their slumber," interpreting the Hebrew verb ("utter an oracle") from the root meaning "to slumber."
 - **23:33** — Greek lemma means "burden" or "what is taken up" (used for a prophetic oracle), preparing for the wordplay on lambano ("taking you up") in verse 39; Greek also reads "You are the burden" where the Hebrew Masoretic Text reads "What burden?"
+- **23:40** — In this Greek text the words that the Hebrew Masoretic Text has at 23:7-8 follow the threat of everlasting reproach within verse 40 (there are no separate verses 7-8), and it reads 'and restored them to their land' where the Hebrew reads 'and they shall dwell on their own soil.'

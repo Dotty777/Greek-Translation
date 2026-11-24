@@ -1,6 +1,6 @@
 # Daniel 4 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes, 5 additional)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 8 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,9 +61,15 @@
 
 **4:36** At that very time my understanding returned to me, and I came into the honor of my kingdom; and my appearance returned to me, and my rulers and my nobles sought me out, and I was firmly established over my kingdom, and surpassing greatness was added to me.
 
-**4:37** King Nebuchadnezzar to all the peoples, tribes, and languages who dwell in all the earth: May peace be multiplied to you. The signs and the wonders that the Most High God did with me, it has seemed good before me to declare to you. How great and mighty they are! His kingdom is an everlasting kingdom; His authority is from generation to generation. Now therefore, I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because all His works are true and His paths are justice, and all those who walk in pride He is able to humble.
+**4:37** Now therefore, I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because all His works are true and His paths are justice, and all those who walk in pride He is able to humble.
 
 ## Additional Verses (Not in Saints Numbering)
+
+**4:1** *(after `3:97`)* King Nebuchadnezzar to all the peoples, tribes, and languages who dwell in all the earth: May peace be multiplied to you.
+
+**4:2** *(after `3:97`)* The signs and the wonders that the Most High God did with me, it has seemed good before me to declare to you.
+
+**4:3** *(after `3:97`)* How great and mighty they are! His kingdom is an everlasting kingdom; His authority is from generation to generation.
 
 **4:6** *(after `4:5`)* And a decree was issued by me to bring in before me all the wise men of Babylon, so that they might make known to me the interpretation of the dream.
 
@@ -81,4 +87,5 @@
 - **4:18** — Greek uses Baltasar (transliterating Aramaic Belteshazzar) for Daniel's Babylonian name, identical to the king's name in chapter 5, and reads singular "a holy spirit of God" (cf. MT "spirit of the holy gods").
 - **4:27** — Greek reads "perhaps God will be patient toward your transgressions," differing from the Aramaic MT ("perhaps there will be a lengthening of your prosperity").
 - **4:29** — Greek ναῷ ("temple") translates Aramaic hekela', which can mean either "temple" or "palace."
-- **4:33** — Greek reads "like lions'" (leonton) where the Aramaic MT has "like eagles'." Also note that 4:37 concludes the chapter with Nebuchadnezzar's greeting and doxology (paralleling MT 4:1-3), while MT 4:6-9 and 4:35 are absent in this Greek text.
+- **4:33** — Greek reads 'like lions'' (λεόντων) where the Aramaic Masoretic Text has 'like eagles''.
+- **4:1 *(additional)*** — In the Saints Greek Critical Text Nebuchadnezzar's greeting and doxology open chapter 4 (4:1-3); these verses have no separate place in the Saints.Bible numbering, so they are shown before 4:4.

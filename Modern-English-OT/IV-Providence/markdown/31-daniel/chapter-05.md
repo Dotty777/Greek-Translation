@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes, 8 additional)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 9 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,6 +65,8 @@
 
 **5:24** *(after `5:23`)* Therefore from His presence the knuckle of a hand was sent, and it inscribed this writing.
 
+**5:25** *(after `5:23`)* And this is the writing that was inscribed: Mane, Thekel, Phares.
+
 ## Translator Notes
 
 - **5:1** — Greek uses Baltasar for King Belshazzar (the same spelling as Daniel's Babylonian name in 4:18-19 and 5:12) and concludes the verse with the verbless clause "before the thousand was the wine."
@@ -74,3 +76,4 @@
 - **5:27** — Greek ὑστεροῦσα is feminine singular ("it [your kingdom] ... found lacking"), whereas the Aramaic MT addresses the king directly in the second person ("you have been weighed ... and found deficient").
 - **5:22 *(additional)*** — The Greek reads the rhetorical question 'did you not know all these things?' (ou panta tauta egnos) where the Aramaic reads 'even though you knew all this.'
 - **5:24 *(additional)*** — Greek astragalos cheiros literally means 'the knuckle [or wrist/palm joint] of a hand,' matching 'knuckles of the hand' in 5:5.
+- **5:25 *(additional)*** — This verse has no separate place in the Saints.Bible numbering, so it is shown with the other additional verses after 5:23.

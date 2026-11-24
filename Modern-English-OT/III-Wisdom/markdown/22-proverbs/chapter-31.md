@@ -1,6 +1,6 @@
 # Proverbs 31 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,13 +51,15 @@
 
 **31:23** And her husband becomes distinguished at the gates whenever he sits in council with the elders, inhabitants of the land.
 
-**31:25** She made and sold linen garments, and sashes to the Canaanites. She opened her mouth carefully and lawfully, and established order for her tongue.
+**31:24** She made and sold linen garments, and sashes to the Canaanites. She opened her mouth carefully and lawfully, and established order for her tongue.
 
-**31:26** She clothed herself with strength and splendor, and rejoiced in the last days.
+**31:25** She clothed herself with strength and splendor, and rejoiced in the last days.
 
-**31:27** The ways of her houses are closely kept, and she did not eat the food of idleness.
+**31:26** The ways of her houses are closely kept, and she did not eat the food of idleness.
 
-**31:28** And she opens her mouth to the wise in accordance with law, and her mercy raised up her children and they became rich, and her husband praised her:
+**31:27** And she opens her mouth to the wise in accordance with law, and her mercy
+
+**31:28** raised up her children and they became rich, and her husband praised her:
 
 **31:29** "Many daughters have acquired wealth, many have done mighty things; but you stand above and have surpassed them all."
 
@@ -69,6 +71,6 @@
 
 - **31:1** — Unlike the Hebrew Masoretic Text, which names King Lemuel, the Greek text reads 'My words have been spoken by God,' rendering the Hebrew consonants as a reference to God.
 - **31:20** — Greek karpon here translates the anatomical term for 'wrist' in parallel with 'hands' in the first clause, though the identical Greek form can also mean 'fruit.'
-- **31:25** — In the Septuagint verse numbering, this verse combines the material corresponding to Hebrew verses 24 and 26 (with no separate verse 24) and renders the Hebrew term for 'merchant' literally as the proper name 'the Canaanites.'
-- **31:28** — The Greek text includes an additional opening clause ('she opens her mouth to the wise in accordance with law') and reads 'her mercy raised up her children and they became rich,' differing from the Hebrew Masoretic Text.
+- **31:24** — Greek reads 'to the Canaanites' (τοῖς Χαναναίοις), a proper name where the Hebrew has the word for 'merchant'; in this Greek text the verse also includes her opening her mouth carefully and lawfully.
+- **31:27** — The sentence runs across verses 27-28 in the Greek ('her mercy raised up her children'), and this Greek clause about opening her mouth to the wise has no counterpart in the Hebrew text.
 - **31:31** — The Greek text reads 'fruits of her lips' (rather than 'hands') and closes with 'let her husband be praised at the gates' (rather than 'let her works praise her').

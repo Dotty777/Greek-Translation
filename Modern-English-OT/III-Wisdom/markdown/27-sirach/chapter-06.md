@@ -1,9 +1,11 @@
 # Sirach 6 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (35 verses, 4 translator notes)  
+> **Status:** `draft: true` (36 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**6:2** and instead of a friend do not become an enemy; for an evil name is shame, and it will inherit reproach; such is the double-tongued sinner. Do not exalt yourself in the counsel of your soul, so that your soul will not be torn apart like a bull.
 
 **6:3** You will devour your leaves and destroy your fruits, and you will leave yourself like a dry tree.
 
@@ -77,6 +79,7 @@
 
 ## Translator Notes
 
+- **6:2** — The Saints Greek Critical Text has no verse 6:1; this verse continues the sentence begun in 5:15. It reads the nominative αἰσχύνη ('an evil name is shame, and it will inherit reproach') rather than the accusative αἰσχύνην found in some witnesses.
 - **6:20** — The Greek text reads tacheia ('swift', as in major uncials such as Vaticanus), whereas other witnesses and editions read tracheia ('rough/harsh'). The adjective akardios literally means 'without heart', an idiom for lacking sense or understanding.
 - **6:22** — The statement that wisdom is 'according to her name' preserves literally a Hebrew wordplay in the underlying text (linking discipline/instruction with what is hidden or turned aside) that does not carry over directly into Greek.
 - **6:29** — The Greek text reads kladoi ('branches'), whereas other witnesses read kloioi ('collars', echoing v. 24).

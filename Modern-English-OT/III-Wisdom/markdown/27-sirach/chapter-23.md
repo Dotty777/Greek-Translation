@@ -1,6 +1,6 @@
 # Sirach 23 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,7 +35,9 @@
 
 **23:15** A man accustomed to words of reproach will by no means be disciplined in all his days.
 
-**23:17** Two kinds multiply sins, and the third will bring on wrath: a hot soul, like a burning fire, will by no means be quenched until it is consumed; a sexually immoral man in the body of his flesh will by no means stop until he kindles a fire; to a sexually immoral man all bread is sweet; he will by no means rest until he dies.
+**23:16** Two kinds multiply sins, and the third will bring on wrath: a hot soul, like a burning fire, will by no means be quenched until it is consumed; a sexually immoral man in the body of his flesh will by no means stop until he kindles a fire.
+
+**23:17** To a sexually immoral man all bread is sweet; he will by no means rest until he dies.
 
 **23:18** A man who strays from his bed, saying in his soul, "Who sees me? Darkness is all around me, and the walls cover me, and no one sees me; why should I be afraid? The Most High will by no means remember my sins."
 
@@ -63,4 +65,4 @@
 - **23:8** — Greek kataleiphthesetai literally means 'will be left behind' (or 'abandoned'); many editors regard it as an early spelling variant for katalemphthesetai ('will be caught/overtaken'), paralleling 'be caught' in 23:7.
 - **23:12** — Greek antiperibeblemene is a unique compound (lit. 'clothed opposite to'), meaning 'matched with' or 'comparable to' death, pointing to speech such as blasphemy that carries a death-worthy penalty.
 - **23:14** — Greek synedreuei is rendered as second person singular ('you sit in council,' as a middle form or variant for synedreueis), and the Greek text retains a resumptive negative me before katarase ('nor curse').
-- **23:17** — The phrase 'in the body of his flesh' (en somati sarkos autou) is literal to the Greek and reflects a Semitic idiom that can denote either misuse of one's own physical body or illicit relations with close kin.
+- **23:16** — The phrase 'in the body of his flesh' (en somati sarkos autou) is literal to the Greek and reflects a Semitic idiom that can denote either misuse of one's own physical body or illicit relations with close kin.

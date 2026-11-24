@@ -111,17 +111,17 @@
 
 **3:53** Blessed are You in the temple of Your holy glory, and supremely worthy of hymns and supremely glorious forever.
 
-**3:54** Blessed are You on the throne of Your kingdom, and supremely worthy of hymns and highly exalted forever.
+**3:54** Blessed are You who look upon the depths, seated upon cherubim, and praiseworthy and highly exalted forever.
 
-**3:55** Blessed are You who look upon the depths, seated upon cherubim, and praiseworthy and highly exalted forever.
+**3:55** Blessed are You on the throne of Your kingdom, and supremely worthy of hymns and highly exalted forever.
 
 **3:56** Blessed are You in the expanse of heaven, and worthy of hymns and glorified forever.
 
 **3:57** Bless the Lord, all works of the Lord; sing hymns to Him and highly exalt Him forever.
 
-**3:58** Bless the Lord, angels of the Lord; sing hymns to Him and highly exalt Him forever.
+**3:58** Bless the Lord, heavens; sing hymns to Him and highly exalt Him forever.
 
-**3:59** Bless the Lord, heavens; sing hymns to Him and highly exalt Him forever.
+**3:59** Bless the Lord, angels of the Lord; sing hymns to Him and highly exalt Him forever.
 
 **3:60** Bless the Lord, waters and all things above heaven; sing hymns to Him and highly exalt Him forever.
 
@@ -149,9 +149,9 @@
 
 **3:76** Bless the Lord, all things that grow on the earth; sing hymns to Him and highly exalt Him forever.
 
-**3:77** Bless the Lord, springs; sing hymns to Him and highly exalt Him forever.
+**3:77** Bless the Lord, seas and rivers; sing hymns to Him and highly exalt Him forever.
 
-**3:78** Bless the Lord, seas and rivers; sing hymns to Him and highly exalt Him forever.
+**3:78** Bless the Lord, springs; sing hymns to Him and highly exalt Him forever.
 
 **3:79** Bless the Lord, sea monsters and all things that move in the waters; sing hymns to Him and highly exalt Him forever.
 

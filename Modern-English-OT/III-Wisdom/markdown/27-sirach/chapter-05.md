@@ -1,6 +1,6 @@
 # Sirach 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (15 verses, 4 translator notes)  
+> **Status:** `draft: true` (15 verses, 3 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,11 +33,10 @@
 
 **5:14** Do not be called a whisperer, and do not be entrapped by your tongue; for shame is upon the thief, and harsh condemnation is upon one who is double-tongued.
 
-**5:15** In a great matter and in a small, do not act in ignorance, and instead of a friend do not become an enemy; for an evil name is shame, and it will inherit reproach; such is the double-tongued sinner. Do not exalt yourself in the counsel of your soul, so that your soul will not be torn apart like a bull.
+**5:15** In a great matter and in a small, do not act in ignorance,
 
 ## Translator Notes
 
 - **5:6** — The Greek text reads the genitive par' autou ('from Him'), whereas some manuscripts read the dative par' auto ('with Him'). The verb exilasetai (cognate with exilasmou, 'atonement', in v. 5) carries the sense of atoning for or pardoning sins.
 - **5:8** — The Greek text reads the second-person singular opheleseis ('you will gain nothing'), whereas some witnesses read the third-person singular or plural ('it/they will profit nothing').
 - **5:14** — The Greek text reads the aorist passive enedreuthes ('do not be entrapped by your tongue'), whereas other witnesses read the active imperative enedreue ('do not lie in wait with your tongue').
-- **5:15** — In this Greek text, 5:15 incorporates the clauses traditionally numbered 6:1-2. It also reads the nominative aischyne ('an evil name is shame, and it will inherit reproach') rather than the accusative aischynen found in some witnesses.

@@ -61,4 +61,4 @@
 - **30:4** — The Greek text reads accented 'kai hos' ('and even so'); some editions accent it as 'hos' ('as though he did not die').
 - **30:7** — The Greek text reads 'peri psychon huion' ('for the souls of sons'), reflecting an ancient word-division difference from 'peripsychon huion' ('pampering a son').
 - **30:13** — The Greek text reads 'in your disgrace he may stumble'; other textual witnesses read 'at his shameful conduct you may stumble.'
-- **30:25** — Greek 'lampra kardia' ('a bright heart') denotes a cheerful or generous disposition, and 'epimelesetai' ('will attend to') conveys caring for or enjoying its food.
+- **30:25** — Greek 'lampra kardia' ('a bright heart') denotes a cheerful or generous disposition, and 'epimelesetai' ('will attend to') conveys caring for or enjoying its food. From here through 36:16 the English keeps the Saints.Bible verse slots shared with the Latin edition (the restored chapter order); the Saints Greek Critical Text follows the manuscript order (Swete), so its verse numbers differ throughout this section.

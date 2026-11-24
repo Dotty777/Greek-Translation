@@ -1,6 +1,6 @@
 # Genesis 47 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -11,7 +11,9 @@
 
 **47:3** And Pharaoh said to Joseph's brothers, "What is your occupation?" And they said to Pharaoh, "Your servants are shepherds of sheep, both we and our fathers."
 
-**47:5** And they said to Pharaoh, "We have come to sojourn in the land, for there is no pasture for the livestock of your servants, because the famine has grown severe in the land of Canaan. Now therefore we will dwell in the land of Goshen." And Pharaoh said to Joseph, "Let them dwell in the land of Goshen; and if you know that there are capable men among them, appoint them rulers over my livestock." Now Jacob and his sons came into Egypt to Joseph, and Pharaoh king of Egypt heard. And Pharaoh spoke to Joseph, saying, "Your father and your brothers have come to you;
+**47:4** And they said to Pharaoh, "We have come to sojourn in the land, for there is no pasture for the livestock of your servants, because the famine has grown severe in the land of Canaan. Now therefore we will dwell in the land of Goshen." And Pharaoh said to Joseph, "Let them dwell in the land of Goshen; and if you know that there are capable men among them, appoint them rulers over my livestock." Now Jacob and his sons came into Egypt to Joseph, and Pharaoh king of Egypt heard.
+
+**47:5** And Pharaoh spoke to Joseph, saying, "Your father and your brothers have come to you;
 
 **47:6** look, the land of Egypt is before you. Settle your father and your brothers in the best land."
 
@@ -67,7 +69,7 @@
 
 ## Translator Notes
 
-- **47:5** — The Septuagint has no separate v. 4 and arranges the dialogue in a different order, placing Pharaoh's grant of Goshen and his instruction regarding capable men before a transitional notice that Jacob and his sons arrived and Pharaoh heard of it.
+- **47:4** — In this Greek text, Pharaoh's grant of Goshen and his instruction about capable men come within verse 4, before the notice that Jacob and his sons arrived in Egypt and that Pharaoh heard; Pharaoh's address to Joseph follows in verses 5-6.
 - **47:18** — The Greek verb ektribomen ("be wiped out") interprets the underlying Hebrew root k-ch-d in the sense of destruction rather than concealment ("hide from my lord" in the Masoretic text).
 - **47:19** — The Greek source text has no negative particle before the final future verb, reading literally "and the land will become desolate" rather than "and the land will not become desolate."
 - **47:21** — The Septuagint reads "enslaved the people to him as servants" (agreeing with the Samaritan Pentateuch), whereas the Masoretic Hebrew text reads "removed them to the cities."

@@ -1,6 +1,6 @@
 # Sirach 51 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -23,7 +23,7 @@
 
 **51:9** And I lifted up my supplication on the earth, and I pleaded for deliverance from death.
 
-**51:10** I called upon the Lord, the Father of my lord, not to forsake me in days of affliction, in a time of arrogant acts, of helplessness. I will praise Your name continually, and I will sing hymns with thanksgiving; and my plea was heard.
+**51:10** I called upon the Lord, the Father of my lord, not to forsake me in days of affliction, in a time of arrogant acts, of helplessness.
 
 **51:12** For You saved me from destruction, and You rescued me from an evil time; therefore I will give thanks and praise You, and I will bless the name of the Lord.
 
@@ -63,10 +63,15 @@
 
 **51:30** Do your work before the time, and He will give your reward in His time."
 
+## Additional Verses (Not in Saints Numbering)
+
+**51:11** *(after `51:10`)* I will praise Your name continually, and I will sing hymns with thanksgiving; and my plea was heard.
+
 ## Translator Notes
 
 - **51:3** — The Greek literally has the nominative singular ἕτοιμος εἰς βρῶμα ("ready for food"), which may refer either to the speaker as ready to become prey or, by grammatical discord (where other witnesses read the genitive plural ἑτοίμων), to gnashing jaws ready to devour.
 - **51:6** — The verbless opening phrase ("To a king, the slander of an unrighteous tongue") is sometimes joined to the end of verse 5. The verb "praised" translates the Greek reading ᾔνεσεν found in major uncial witnesses, whereas other manuscripts and the Hebrew parallel reflect ἤγγισεν ("drew near").
-- **51:10** — The Greek phrase "the Lord, the Father of my lord" reflects a debated rendering of the Hebrew prayer addressing God as Father and Lord; this verse also includes the text numbered as verse 11 in some editions.
+- **51:10** — The Greek phrase 'the Lord, the Father of my lord' is an unusual address whose wording is debated.
 - **51:19** — "In the practice of hunger" translates the Greek reading λιμοῦ ("hunger/famine") found in early uncial manuscripts, whereas other Greek witnesses read νόμου ("of the law").
 - **51:20** — The Greek text places this clause before "and in purification I found her" and reads the plural pronoun μετ᾽ αὐτῶν ("with them"), whereas other witnesses invert the clauses and read the singular μετ᾽ αὐτῆς ("with her").
+- **51:11 *(additional)*** — This verse has no separate place in the Saints.Bible numbering, so it is shown after 51:10.

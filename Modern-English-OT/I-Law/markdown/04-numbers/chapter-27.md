@@ -1,6 +1,6 @@
 # Numbers 27 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -11,13 +11,15 @@
 
 **27:3** "Our father died in the wilderness, and he was not in the midst of the congregation that banded together against the Lord in the congregation of Korah, for he died because of his sin, and he had no sons. Let the name of our father not be blotted out from the midst of his clan because he has no son; give us a possession in the midst of our father's brothers."
 
-**27:5** And Moses brought their case before the Lord.
+**27:4** And Moses brought their case before the Lord.
 
-**27:6** And the Lord spoke to Moses, saying,
+**27:5** And the Lord spoke to Moses, saying,
 
-**27:7** "The daughters of Zelophehad have spoken rightly; you shall surely give them a possession of inheritance in the midst of their father's brothers, and you shall transfer their father's allotment to them. And you shall speak to the sons of Israel.
+**27:6** "The daughters of Zelophehad have spoken rightly; you shall surely give them a possession of inheritance in the midst of their father's brothers, and you shall transfer their father's allotment to them. And you shall speak to the sons of Israel.
 
-**27:8** And you shall speak to the sons of Israel, saying, 'If a man dies and has no son, you shall transfer his inheritance to his daughter;
+**27:7** And you shall speak to the sons of Israel,
+
+**27:8** saying, 'If a man dies and has no son, you shall transfer his inheritance to his daughter;
 
 **27:9** and if he has no daughter, you shall give the inheritance to his brother;
 
@@ -52,7 +54,7 @@
 ## Translator Notes
 
 - **27:3** — The Greek text combines MT verses 3 and 4 into a single verse and frames the request as a third-person imperative prohibition ("Let the name of our father not be blotted out") rather than the Hebrew rhetorical question ("Why should the name of our father be withdrawn?").
-- **27:7** — The closing clause "And you shall speak to the sons of Israel" is repeated at the start of 27:8 in the Greek text, reflecting a textual overlap across the verse boundary.
+- **27:7** — The Saints Greek Critical Text repeats the closing clause of verse 6 ('And you shall speak to the sons of Israel') as verse 7; both are translated as they stand.
 - **27:12** — Instead of transliterating Hebrew Abarim, the Greek renders it geographically as "the mountain on the other side" and explicitly identifies it as "this Mount Nebo" (compare Deut 32:49), while also adding "of Canaan" and "as a possession."
 - **27:14** — Rather than transliterating Hebrew Meribah, the Greek translates it as "water of contention" and adds the explicit clause "you did not sanctify Me at the water before them."
 - **27:21** — The Greek renders Hebrew Urim etymologically as "the Manifestations" (Greek ton delon) and uses a plural verb ("they shall inquire of him") where the Hebrew has singular ("he shall inquire for him").

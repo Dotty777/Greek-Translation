@@ -1,6 +1,6 @@
 # Numbers 6 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,13 +49,17 @@
 
 **6:22** And the Lord spoke to Moses, saying,
 
-**6:23** "Speak to Aaron and to his sons, saying, 'In this way you shall bless the sons of Israel, saying to them'—and they shall put My name upon the sons of Israel, and I, the Lord, will bless them:
+**6:23** "Speak to Aaron and to his sons, saying, 'In this way you shall bless the sons of Israel, saying to them:
 
-**6:24** 'May the Lord bless and guard you,
+**6:24** "May the Lord bless you and guard you,
 
 **6:25** and may the Lord make His face shine upon you and have mercy on you;
 
-**6:26** may the Lord lift up His face upon you and give you peace.'"
+**6:26** may the Lord lift up His face upon you and give you peace."'
+
+## Additional Verses (Not in Saints Numbering)
+
+**6:27** *(after `6:26`)* And they shall put My name upon the sons of Israel, and I, the Lord, will bless them."
 
 ## Translator Notes
 
@@ -63,4 +67,5 @@
 - **6:4** — The Greek text reads accusative oinon ("wine") in apposition with the grape products rather than a genitive modifier ("vine of wine") as in the Hebrew Masoretic Text.
 - **6:11** — The Septuagint joins the clause "on which he was consecrated to the Lord for the days of the vow" to v. 11 with a passive verb, whereas the Hebrew Masoretic Text begins v. 12 with an active rededication.
 - **6:14** — Greek soterion ("deliverance [offering]") is the Septuagint's standard rendering of the Hebrew peace/fellowship offering (similarly in vv. 17, 18).
-- **6:23** — The Septuagint places the promise to put God's name on Israel here before the blessing (MT v. 27) and adds "the Lord" after "I"; in vv. 24-25 it also omits a repeated pronoun after "guard" and reads "have mercy on you" rather than "be gracious to you."
+- **6:24** — Greek reads 'bless you and guard' without repeating 'you' after 'guard' (supplied in English), and in verse 25 'have mercy on you' (ἐλεήσαι σε).
+- **6:27 *(additional)*** — In the Saints Greek Critical Text this verse follows the blessing (vv. 24-26); it has no separate place in the Saints.Bible numbering, so it is shown after 6:26.

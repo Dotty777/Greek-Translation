@@ -1,6 +1,6 @@
 # Deuteronomy 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (33 verses, 4 translator notes)  
+> **Status:** `draft: true` (33 verses, 3 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -37,9 +37,9 @@
 
 **5:16** Honor your father and your mother, just as the Lord your God commanded, so that it may go well with you, and so that you may live long upon the land that the Lord your God is giving you.
 
-**5:17** You shall not commit adultery.
+**5:17** You shall not murder.
 
-**5:18** You shall not murder.
+**5:18** You shall not commit adultery.
 
 **5:19** You shall not steal.
 
@@ -74,6 +74,5 @@
 ## Translator Notes
 
 - **5:14** — The Greek text includes the creation rationale ("for in six days the Lord made both heaven and earth, and the sea, and all that is in them"), paralleling Exodus 20:11, whereas the Hebrew Masoretic Text omits this clause here.
-- **5:17** — The Greek text places the prohibition against adultery (5:17) before murder (5:18), an order also reflected in Luke 18:20, Romans 13:9, and James 2:11, in contrast to the Hebrew Masoretic order.
 - **5:29** — "Who will grant" translates the literal Greek idiom τίς δώσει, reflecting a Hebrew expression of earnest wish ("Oh that...").
 - **5:33** — "So that He may give you rest" translates the Greek καταπαύσῃ σε, whereas the Hebrew Masoretic Text reads "so that you may live."

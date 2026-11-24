@@ -39,26 +39,26 @@
 
 **41:17** Be ashamed before father and mother of sexual immorality, and before a leader and a mighty one of a lie,
 
-**41:19** before a judge and a ruler of an offense, before an assembly and a people of lawlessness, before a partner and a friend of injustice, and before the place where you dwell of theft,
+**41:18** before a judge and a ruler of an offense, before an assembly and a people of lawlessness, before a partner and a friend of injustice, and before the place where you dwell of theft,
 
-**41:20** and before the truth of God and the covenant, and of leaning an elbow on the bread, of scorn in receiving and giving,
+**41:19** and before the truth of God and the covenant, and of leaning an elbow on the bread, of scorn in receiving and giving,
 
-**41:21** and before those who greet you of silence, of looking at a prostitute,
+**41:20** and before those who greet you of silence, of looking at a prostitute,
 
-**41:23** and of turning away the face of a relative, of taking away a portion and a gift, and of looking intently at a married woman,
+**41:21** and of turning away the face of a relative, of taking away a portion and a gift, and of looking intently at a married woman,
 
-**41:25** of meddling with his maidservant, and do not approach her bed; before friends of words of reproach, and after giving do not reproach;
+**41:22** of meddling with his maidservant, and do not approach her bed; before friends of words of reproach, and after giving do not reproach;
 
-**41:27** of repetition and of a word heard, and of revelations of hidden words; and you will be truly modest and finding favor before every person.
+**41:23** of repetition and of a word heard, and of revelations of hidden words;
 
 ## Additional Verses (Not in Saints Numbering)
 
-**41:23** *(after `41:25`)* of repetition and of a word heard, and of revelations of hidden words;
+**41:24** *(after `41:23`)* of repetition and of a word heard, and of revelations of hidden words; and you will be truly modest and finding favor before every person.
 
 ## Translator Notes
 
 - **41:2** — Greek apeithounti literally means 'disobedient' or 'refusing to comply,' conveying a person stubbornly or despairingly at odds with life.
 - **41:4** — Greek elegmos zoes literally means 'reproof' or 'inquiry of life,' expressing that in Hades there is no questioning or argument over the length of one's life.
-- **41:20** — The Greek literally reads 'and before the truth of God and the covenant' without naming a separate offense, either continuing from the preceding clause or reflecting an ancient translation rendering of a Hebrew clause about breaking an oath and covenant.
-- **41:27** — Greek deuteroseos kai logou akoes literally means 'of repetition and of a word of hearing,' a hendiadys for repeating something one has heard.
-- **41:23 *(additional)*** — Parallels the opening clauses of 41:27 in the site numbering.
+- **41:19** — The Greek literally reads 'and before the truth of God and the covenant' without naming a separate offense, either continuing from the preceding clause or reflecting an ancient translation rendering of a Hebrew clause about breaking an oath and covenant.
+- **41:23** — The Saints Greek Critical Text gives this line twice: here, and again at the opening of 41:24; both are translated as they stand.
+- **41:24 *(additional)*** — Greek deuteroseos kai logou akoes literally means 'of repetition and of a word of hearing,' a hendiadys for repeating something one has heard. This verse has no separate place in the Saints.Bible numbering, so it is shown after 41:23.

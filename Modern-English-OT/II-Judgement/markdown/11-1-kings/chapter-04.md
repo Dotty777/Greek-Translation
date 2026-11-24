@@ -1,6 +1,6 @@
 # 1 Kings 4 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes)  
+> **Status:** `draft: true` (19 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,6 +43,10 @@
 
 **4:19** Jehoshaphat son of Phuasud in Issachar.
 
+## Additional Verses (Not in Saints Numbering)
+
+**4:33** *(after `4:19`)* And Solomon built Gezer.
+
 ## Translator Notes
 
 - **4:3** — In verses 2-6, the Greek cabinet list preserves several names and entries differing from the Hebrew: Azari (Heb. Azariah), Eliaph (Heb. Elihoreph), Saba (Heb. Shisha), Ornia (Heb. Azariah), Ahi (Heb. Ahishar), Ephra (Heb. Abda), plus Eliak and Eliab son of Saph (absent from the Hebrew), while omitting Benaiah in verse 4.
@@ -50,3 +54,4 @@
 - **4:10** — In verses 10-11, the Greek transliterates corrupted phrases as proper names: Bernemalousamencha and Respharachein (Heb. "in Arubboth; to him belonged Socoh and all the land of Hepher"), and "throughout Dan and throughout Phathei, husband of Tablethei" (Heb. "Ben-abinadab, all Naphath-dor; Taphath").
 - **4:12** — In verses 12-16, the Greek preserves distinct forms including Baccha son of Ahimach, Polamach, "the house of Dan," Sesathan, Esrae, Baisaphut, and Maeber Lukam (v. 12); Eretabam (v. 13, Heb. Argob); Ahinaab son of Achel (v. 14, Heb. Ahinadab son of Iddo); and Maala (v. 16, Heb. Asher and Bealoth).
 - **4:18** — Verses 17-19 follow the Septuagint order (placing Benjamin and Gad before Issachar) and preserve distinct readings: "son of Ela" without Shimei (v. 17), "son of Adai" in "the land of Gad" of Sihon king of "Heshbon" and "one naseph"—an untranslated transliteration of Hebrew netsib ("officer")—in Judah (v. 18), and Phuasud (v. 19, Heb. Paruah).
+- **4:33 *(additional)*** — The Saints Greek Critical Text has this sentence as 4:33 at the end of chapter 4; it has no separate place in the Saints.Bible numbering, so it is shown after 4:19.

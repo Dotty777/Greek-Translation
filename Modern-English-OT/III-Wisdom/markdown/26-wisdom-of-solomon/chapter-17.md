@@ -1,6 +1,6 @@
 # Wisdom of Solomon 17 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (20 verses, 4 translator notes)  
+> **Status:** `draft: true` (20 verses, 3 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Wisdom of Solomon`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,33 +21,37 @@
 
 **17:8** For those who promised to drive away terrors and troubles from a sick soul—these were sick with a laughable timidity.
 
-**17:9** For even if nothing disturbing frightened them, panicked by the passing of vermin and the hissing of reptiles, they were perishing, trembling and refusing to look upon the air that cannot be escaped on any side.
+**17:9** For even if nothing disturbing frightened them, panicked by the passing of vermin and the hissing of reptiles,
 
-**17:10** For wickedness, being condemned, testifies on its own that it is a cowardly thing, and pressed hard by conscience, it has always added distressing things.
+**17:10** they were perishing, trembling and refusing to look upon the air that cannot be escaped on any side.
 
-**17:11** For fear is nothing except a surrender of the aids from reason;
+**17:11** For wickedness, being condemned, testifies on its own that it is a cowardly thing, and pressed hard by conscience, it has always added distressing things.
 
-**17:12** and expectation, being weaker from within, counts ignorance greater than the cause that produces the torment.
+**17:12** For fear is nothing except a surrender of the aids from reason;
 
-**17:13** But they, sleeping the same sleep throughout that truly powerless night, which came out of the recesses of powerless Hades,
+**17:13** and expectation, being weaker from within, counts ignorance greater than the cause that produces the torment.
 
-**17:14** were partly driven by monstrous phantoms and partly paralyzed by the surrender of the soul; for a sudden and unexpected fear came upon them.
+**17:14** But they, sleeping the same sleep throughout that truly powerless night, which came out of the recesses of powerless Hades,
 
-**17:15** So then, whoever fell down there was kept under guard, shut in the prison without iron.
+**17:15** were partly driven by monstrous phantoms and partly paralyzed by the surrender of the soul; for a sudden and unexpected fear came upon them.
 
-**17:16** For whether someone was a farmer or a shepherd or a laborer at wilderness toils, overtaken, he endured the inescapable necessity.
+**17:16** So then, whoever fell down there was kept under guard, shut in the prison without iron.
 
-**17:17** For with one chain of darkness they were all bound. Whether a whistling wind, or a melodious sound of birds among spreading branches, or the rhythm of water flowing with force, or the harsh crash of rocks hurled down,
+**17:17** For whether someone was a farmer or a shepherd or a laborer at wilderness toils, overtaken, he endured the inescapable necessity.
 
-**17:18** or the unseen running of leaping animals, or the voice of the most savage roaring wild beasts, or an echo rebounding from the hollow of the mountains—these terrified and paralyzed them.
+**17:18** For with one chain of darkness they were all bound. Whether a whistling wind, or a melodious sound of birds among spreading branches, or the rhythm of water flowing with force, or the harsh crash of rocks hurled down,
 
-**17:19** For the whole world was illuminated with bright light, and was engaged in unhindered works;
+**17:19** or the unseen running of leaping animals, or the voice of the most savage roaring wild beasts, or an echo rebounding from the hollow of the mountains—these terrified and paralyzed them.
 
-**17:20** but over those alone a heavy night was spread, an image of the darkness that was about to receive them; yet to themselves they were heavier than darkness.
+**17:20** For the whole world was illuminated with bright light, and was engaged in unhindered works;
+
+## Additional Verses (Not in Saints Numbering)
+
+**17:21** *(after `17:20`)* but over those alone a heavy night was spread, an image of the darkness that was about to receive them; yet to themselves they were heavier than darkness.
 
 ## Translator Notes
 
 - **17:6** — The genitive phrase 'that unseen sight' is syntactically debated: it can be taken as causal with 'terrified' ('terrified by that unseen sight') or as comparative with 'worse' ('worse than that unseen sight').
-- **17:10** — The Greek text reads idios ... martyrei ('testifies on its own') and proseilephen ('has added/taken on'), where some witnesses or critics read idio martyri ('condemned by its own witness') and proeilephen ('has anticipated/forecast').
-- **17:12** — This compressed philosophical sentence is notoriously difficult: 'expectation' (prosdokia) likely refers to expectation of aid from v. 11, and 'the cause' may be construed either as comparative ('greater than the cause') or as objective with 'ignorance' ('ignorance of the cause').
-- **17:20** — The verb form epetato is best understood as a shortened spelling or haplography for epetetato ('was stretched/spread over,' from epiteino), governing the dative 'over those alone.'
+- **17:11** — The Greek text reads idios ... martyrei ('testifies on its own') and proseilephen ('has added/taken on'), where some witnesses or critics read idio martyri ('condemned by its own witness') and proeilephen ('has anticipated/forecast').
+- **17:13** — This compressed philosophical sentence is notoriously difficult: 'expectation' (prosdokia) likely refers to expectation of aid from v. 11, and 'the cause' may be construed either as comparative ('greater than the cause') or as objective with 'ignorance' ('ignorance of the cause').
+- **17:21 *(additional)*** — The verb form epetato is best understood as a shortened spelling or haplography for epetetato ('was stretched/spread over,' from epiteino), governing the dative 'over those alone.' This verse has no separate place in the Saints.Bible numbering, so it is shown after 17:20.
