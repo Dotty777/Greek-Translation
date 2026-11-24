@@ -5,7 +5,7 @@
 
 ## Text
 
-**20:1** And there was one called a lawless man, and his name was Sheba son of Bichri, a Benjaminite man; and he blew the horn and said, "We have no portion in David, nor do we have an inheritance in the son of Jesse! Each man to your tents, Israel!"
+**20:1** And there was one called a lawless man, and his name was Sheba son of Bichri, a Jeminite man; and he blew the horn and said, "We have no portion in David, nor do we have an inheritance in the son of Jesse! Each man to your tents, Israel!"
 
 **20:2** And all Israel went up from behind David, after Sheba son of Bichri; but the men of Judah clung to their king from the Jordan even to Jerusalem.
 
@@ -27,7 +27,7 @@
 
 **20:11** And a man from Joab's attendants stood over him and said, "Who favors Joab, and who is for David? After Joab!"
 
-**20:12** And Amasa was drenched in blood in the middle of the road, and the man saw that all the people were standing still; and they removed Amasa from the road into a field, and he threw a garment over him, because he saw everyone who came up to him standing still.
+**20:12** And Amasa was drenched in blood in the middle of the road, and a man saw that all the people were standing still; and they removed Amasa from the road into a field, and he threw a garment over him, because he saw everyone who came up to him standing still.
 
 **20:13** And when he was gone from the road, all the men of Israel passed on after Joab to pursue after Sheba son of Bichri.
 

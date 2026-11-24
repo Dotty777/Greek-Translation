@@ -53,7 +53,7 @@
 
 **3:24** "Lord God, You have begun to show Your servant Your strength and Your power and the mighty hand and the uplifted arm; for what god is there in heaven or on earth who will do according to what You have done and according to Your strength?
 
-**3:25** Let me cross over, then, and see this good land that is beyond the Jordan, the good mountain and Anti-Lebanon."
+**3:25** Having crossed over, then, I will see this good land that is beyond the Jordan, the good mountain and Anti-Lebanon."
 
 **3:26** And the Lord overlooked me on account of you and did not listen to me; and the Lord said to me, "Let it be enough for you; do not continue to speak of this matter.
 

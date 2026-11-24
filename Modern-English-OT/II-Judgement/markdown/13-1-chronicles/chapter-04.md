@@ -83,7 +83,7 @@
 
 **4:39** And they went until they came to Gerar, as far as the east of Gai, to seek pastures for their livestock.
 
-**4:40** And they found rich and good pastures; and the land was wide before them, and there was peace and quiet, for they were from the sons of Ham who lived there previously.
+**4:40** And they found rich and good pastures; and the land was wide before them, and there was peace and quiet, for those who lived there previously were from the sons of Ham.
 
 **4:41** And these who were written by name came in the days of Hezekiah, king of Judah, and struck their houses and the Minaeans whom they found there, and devoted them to destruction to this day; and they lived in their place, because there were pastures for their livestock there.
 

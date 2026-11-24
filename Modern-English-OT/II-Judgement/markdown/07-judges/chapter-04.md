@@ -11,7 +11,7 @@
 
 **4:3** And the sons of Israel cried out to the Lord, because he had nine hundred iron chariots, and he oppressed Israel forcefully for twenty years.
 
-**4:4** And Deborah, a prophetess, the wife of Lappidoth, she was judging Israel at that time.
+**4:4** And Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time.
 
 **4:5** And she sat under the palm tree of Deborah between Bama and Bethel in the hill country of Ephraim, and the sons of Israel went up to her for judgment.
 

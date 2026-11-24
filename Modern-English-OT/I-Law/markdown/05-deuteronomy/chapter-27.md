@@ -21,9 +21,9 @@
 
 **27:8** And you shall write on the stones all this law very clearly."
 
-**27:9** And Moses and the Levite priests spoke to all Israel, saying, "Be silent and listen, Israel. On this day you have become a people for the Lord your God.
+**27:9** And Moses and the priests, the Levites, spoke to all Israel, saying, "Be silent and listen, Israel. On this day you have become a people for the Lord your God.
 
-**27:10** And you shall obey the voice of the Lord your God, and you shall do all His commandments and His ordinances that I am commanding you today."
+**27:10** And you shall obey the voice of the Lord your God, and you shall do all His commandments and His statutes that I am commanding you today."
 
 **27:11** And Moses commanded the people on that day, saying,
 
@@ -41,7 +41,7 @@
 
 **27:18** "Cursed is the one who leads a blind person astray on the road." And all the people shall say, "So be it."
 
-**27:19** "Cursed is whoever perverts the justice of a resident foreigner, an orphan, and a widow." And all the people shall say, "So be it."
+**27:19** "Cursed is whoever perverts the justice of a resident alien, an orphan, and a widow." And all the people shall say, "So be it."
 
 **27:20** "Cursed is the one who lies with a wife of his father, because he uncovered his father's covering." And all the people shall say, "So be it."
 

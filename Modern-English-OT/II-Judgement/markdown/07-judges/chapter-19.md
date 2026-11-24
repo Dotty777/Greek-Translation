@@ -51,7 +51,7 @@
 
 **19:23** And the man, the master of the house, went out to them and said, "No, brothers, please do not act wickedly after this man has entered into my house; do not commit this folly.
 
-**19:24** Look, here are my virgin daughter and his concubine. I will bring them out, and humiliate them, and do to them what is good in your eyes; and to this man you will not do this matter of folly."
+**19:24** Look, here are my virgin daughter and his concubine. I will bring them out; humiliate them, and do to them what is good in your eyes; and to this man you will not do this matter of folly."
 
 **19:25** And the men were not willing to listen to him; and the man seized his concubine and brought her out to them outside; and they knew her, and kept abusing her all night until morning, and they sent her away as morning rose.
 

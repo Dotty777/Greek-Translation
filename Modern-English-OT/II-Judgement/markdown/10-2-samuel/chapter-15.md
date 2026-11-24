@@ -67,7 +67,7 @@
 
 **15:31** And it was reported to David, saying, "Ahithophel also is among those conspiring with Absalom." And David said, "Please frustrate the counsel of Ahithophel, Lord my God."
 
-**15:32** And David was coming as far as Roos, where he worshiped God there; and look, coming to meet him was Hushai the Archite, the companion of David, with his tunic torn and earth on his head.
+**15:32** And David was coming as far as Roos, where he worshiped God there; and look, coming to meet him was Hushai the Archite, the friend of David, with his tunic torn and earth on his head.
 
 **15:33** And David said to him, "If you cross over with me, then you will be a burden upon me.
 
@@ -77,7 +77,7 @@
 
 **15:36** Look, there with them are their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar; and you shall send by their hand to me every word that you hear."
 
-**15:37** And Hushai the companion of David went into the city, and Absalom was entering Jerusalem.
+**15:37** And Hushai the friend of David went into the city, and Absalom was entering Jerusalem.
 
 ## Translator Notes
 

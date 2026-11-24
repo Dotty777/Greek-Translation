@@ -11,7 +11,7 @@
 
 **8:3** And it happened after the end of the seven years that the woman returned from the land of the foreigners to the city, and she came to cry out to the king concerning her house and concerning her fields.
 
-**8:4** And the king was speaking to Gehazi, the attendant of Elisha the man of God, saying, "Please recount to me all the great things that Elisha has done."
+**8:4** And the king was speaking to Gehazi, the servant of Elisha the man of God, saying, "Please recount to me all the great things that Elisha has done."
 
 **8:5** And it happened while he was relating to the king how he had restored a dead son to life, that look, the woman whose son Elisha had restored to life was crying out to the king concerning her house and concerning her fields. And Gehazi said, "My lord the king, this is the woman, and this is her son whom Elisha restored to life."
 
@@ -49,7 +49,7 @@
 
 **8:22** And Edom revolted from under the hand of Judah until this day. Then Senna revolted at that time.
 
-**8:23** And the rest of the deeds of Joram and all that he did, look, are these not written in the book of the words of the days of the kings of Judah?
+**8:23** And the rest of the matters of Joram and all that he did, look, are these not written in the book of the words of the days of the kings of Judah?
 
 **8:24** And Joram slept with his fathers, and he was buried with his fathers in the city of David his father. And Ahaziah his son became king in his place.
 

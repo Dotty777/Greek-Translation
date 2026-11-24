@@ -23,7 +23,7 @@
 
 **24:9** And Joab gave the number of the registration of the people to the king; and Israel was eight hundred thousand men of valor drawing the sword, and the men of Judah were five hundred thousand fighting men.
 
-**24:10** And David's heart struck him after he had counted the people; and David said to the Lord, "I have sinned greatly in what I have done; now, Lord, please remove the iniquity of Your servant, for I have acted very foolishly."
+**24:10** And David's heart struck him after he had counted the people; and David said to the Lord, "I have sinned greatly in what I have done; now, Lord, please remove the lawlessness of Your servant, for I have acted very foolishly."
 
 **24:11** And David arose in the morning; and the word of the Lord came to Gad the prophet, David's seer, saying,
 

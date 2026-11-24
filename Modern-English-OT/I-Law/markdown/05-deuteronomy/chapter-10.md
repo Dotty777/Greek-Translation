@@ -15,7 +15,7 @@
 
 **10:5** And I turned and went down from the mountain, and I put the tablets into the ark which I had made, and they were there, just as the Lord had commanded me.
 
-**10:6** And the sons of Israel set out from Beeroth of the sons of Jakim to Misadai; there Aaron died and was buried there, and Eleazar his son served as priest in his place.
+**10:6** And the sons of Israel set out from Beeroth of the sons of Jakim Misadai; there Aaron died and was buried there, and Eleazar his son served as priest in his place.
 
 **10:7** From there they set out to Gadgad, and from Gadgad to Taibatha, a land of streams of water.
 
@@ -29,11 +29,11 @@
 
 **10:12** And now, Israel, what does the Lord your God ask of you except to fear the Lord your God, and to walk in all His ways, and to love Him, and to serve the Lord your God with your whole heart and with your whole soul,
 
-**10:13** to keep the commandments of the Lord your God and His ordinances, all that I am commanding you today, so that it may go well with you?
+**10:13** to keep the commandments of the Lord your God and His statutes, all that I am commanding you today, so that it may go well with you?
 
 **10:14** Look, to the Lord your God belong heaven and the heaven of heaven, the earth and all things that are in it.
 
-**10:15** Yet the Lord preferred your fathers, to love them, and He chose their offspring after them—you—above all the nations, as on this day.
+**10:15** Yet the Lord selected your fathers, to love them, and He chose their offspring after them—you—above all the nations, as on this day.
 
 **10:16** And you shall circumcise the hardness of your heart, and you shall not stiffen your neck.
 

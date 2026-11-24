@@ -57,7 +57,7 @@
 
 **5:26** And Elisha said to him, "Did not my heart go with you when the man turned back from the chariot to meet you? And now you have taken the silver, and now you have taken the garments and olive groves and vineyards and sheep and oxen and male servants and female servants;
 
-**5:27** and the leprosy of Naaman shall cling to you and to your offspring forever." And he went out from his presence leprous like snow.
+**5:27** and the leprosy of Naaman shall cling to you and to your seed forever." And he went out from his presence leprous like snow.
 
 ## Translator Notes
 

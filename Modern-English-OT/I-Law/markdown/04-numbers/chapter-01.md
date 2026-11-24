@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** And the Lord spoke to Moses in the wilderness of Sinai, in the tent of the testimony, on the first day of the second month, in the second year after they came out of the land of Egypt, saying,
+**1:1** And the Lord spoke to Moses in the wilderness of Sinai, in the tent of testimony, on the first day of the second month, in the second year after they came out of the land of Egypt, saying,
 
 **1:2** "Take the sum of the whole congregation of Israel by kinship groups, by houses of ancestral families, by number, by name, head by head among them;
 
@@ -103,13 +103,13 @@
 
 **1:49** "See, you shall not include the tribe of Levi in the muster, and you shall not take their number in the midst of the sons of Israel.
 
-**1:50** And you, appoint the Levites over the tent of the testimony and over all its furnishings and over all that is in it. They shall carry the tent and all its furnishings, and they shall minister in it, and they shall encamp around the tent.
+**1:50** And you, appoint the Levites over the tent of testimony and over all its furnishings and over all that is in it. They shall carry the tent and all its furnishings, and they shall minister in it, and they shall encamp around the tent.
 
 **1:51** And when the tent is to set out, the Levites shall take it down, and when the tent is to encamp, they shall set it up; and the outsider who comes near must die.
 
 **1:52** And the sons of Israel shall encamp, each man in his own rank and each man according to his own command, with their army;
 
-**1:53** but let the Levites encamp before the Lord around the tent of the testimony, and there will be no sin among the sons of Israel. And the Levites themselves shall keep the watch of the tent of the testimony."
+**1:53** but let the Levites encamp before the Lord around the tent of testimony, and there will be no sin among the sons of Israel. And the Levites themselves shall keep the watch of the tent of testimony."
 
 **1:54** And the sons of Israel did according to all that the Lord commanded Moses and Aaron; so they did.
 

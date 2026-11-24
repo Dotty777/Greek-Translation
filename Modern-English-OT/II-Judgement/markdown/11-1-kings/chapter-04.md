@@ -33,7 +33,7 @@
 
 **4:14** Ahinaab son of Achel, Mahanaim;
 
-**4:15** Ahimaaz in Naphtali, and he also took Basemath the daughter of Solomon, one;
+**4:15** Ahimaaz in Naphtali, and he took Basemath the daughter of Solomon, one;
 
 **4:16** Baana son of Hushai in Maala, one;
 

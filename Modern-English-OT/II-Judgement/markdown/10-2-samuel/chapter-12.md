@@ -17,7 +17,7 @@
 
 **12:6** and he shall repay the ewe lamb sevenfold, because he did this thing and because he showed no pity."
 
-**12:7** And Nathan said to David, "You are the man who did this! For this is what the Lord, the God of Israel, says: 'I am the One who anointed you as king over Israel, and I am the One who rescued you from the hand of Saul;
+**12:7** And Nathan said to David, "You are the man who did this! For thus says the Lord, the God of Israel: 'I am the One who anointed you as king over Israel, and I am the One who rescued you from the hand of Saul;
 
 **12:8** and I gave you your master's house and your master's wives into your bosom, and I gave you the house of Israel and Judah; and if it is too little, I will add to you according to these things.'
 
@@ -25,7 +25,7 @@
 
 **12:10** and now a sword will not depart from your house forever, because you showed contempt and took the wife of Uriah the Hittite to be your wife.
 
-**12:11** This is what the Lord says: 'Look, I am raising up evils against you out of your house, and I will take your wives before your eyes and give them to your neighbor, and he will lie with your wives in the sight of this sun.
+**12:11** Thus says the Lord: 'Look, I am raising up evils against you out of your house, and I will take your wives before your eyes and give them to your neighbor, and he will lie with your wives in the sight of this sun.
 
 **12:12** For you acted in secret, but I will do this thing before all Israel and in the sight of this sun.'"
 
@@ -41,11 +41,11 @@
 
 **12:18** And it happened on the seventh day that the child died. And David's servants were afraid to tell him that the child was dead, for they said, "Look, while the child was still alive, we spoke to him, and he did not listen to our voice; and how can we say to him that the child is dead? And he will do evil things."
 
-**12:19** And David perceived that his attendants were whispering, and David realized that the child was dead. And David said to his attendants, "Is the child dead?" And they said, "He is dead."
+**12:19** And David perceived that his servants were whispering, and David realized that the child was dead. And David said to his servants, "Is the child dead?" And they said, "He is dead."
 
 **12:20** And David arose from the ground, and washed himself and anointed himself and changed his garments, and went into the house of God and worshiped Him; and he went into his house and asked for bread to eat, and they set bread before him, and he ate.
 
-**12:21** And his attendants said to him, "What is this thing that you have done? For the sake of the child while he was still alive, you were fasting and weeping and staying awake; yet when the child died, you arose and ate bread and have drunk."
+**12:21** And his servants said to him, "What is this thing that you have done? For the sake of the child while he was still alive, you were fasting and weeping and staying awake; yet when the child died, you arose and ate bread and have drunk."
 
 **12:22** And David said, "While the child was still alive, I fasted and wept, for I said, 'Who knows whether the Lord will have mercy on me, and the child will live?'
 

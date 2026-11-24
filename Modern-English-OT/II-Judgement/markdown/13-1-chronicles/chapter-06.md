@@ -111,7 +111,7 @@
 
 **6:53** and Ikaam and its pasturelands, and Beth-horon and its pasturelands,
 
-**6:54** and Aijalon and its pasturelands.
+**6:54** and Esebaon and its pasturelands, and Gezer and its pasturelands.
 
 **6:55** And from the half-tribe of Manasseh: Amar and its pasturelands, according to family, for the remaining sons of Kohath.
 
@@ -147,5 +147,5 @@
 - **6:36** — In the priestly line (vv. 36-38), the Greek reads Seraiah (v. 36; MT Zerahiah), Mariel (v. 37; MT Meraioth), and Ahisama (v. 38; MT Ahimaaz).
 - **6:42** — Among the Aaronite cities (vv. 42-45), the Greek preserves distinct names and an extra city compared to the Masoretic Text (MT 6:57-60): Selna (v. 42; MT Jattir), Eglam and Gethoron (v. 43; MT Hilen and Debir), Attan (v. 44; absent in MT, cf. Josh 21:16 Juttah), and Anchoch (v. 45; MT Anathoth).
 - **6:48** — The Greek reads 'the tribe of Dan' where the Masoretic Text has 'the tribe of Gad' (MT 6:63; cf. v. 65). Similarly, v. 50 omits 'the tribe of the sons of Benjamin' (cf. MT 6:65).
-- **6:54** — In the Kohathite and Gershonite city lists (vv. 53-61), the Greek omits Gath-rimmon (v. 54) and Bileam (v. 55) and differs from the Masoretic Text (MT 6:68-76) in several names: Ikaam (v. 53; MT Jokmeam), Amar (v. 55; MT Aner), Aseroth (v. 56; MT Ashtaroth), Deberi and Dabor (v. 57; MT Daberath), Jeththar and Debir (v. 58; MT Ramoth and Anem), Maasa and Abaran (v. 59; MT Mashal and Abdon), and Hammoth (v. 61; MT Hammon).
+- **6:54** — In the Kohathite and Gershonite city lists (vv. 53-61), the Greek omits Bileam (v. 55) and differs from the Masoretic Text (MT 6:68-76) in several names: Ikaam (v. 53; MT Jokmeam), Esebaon and Gezer (v. 54; MT Aijalon and Gath-rimmon), Amar (v. 55; MT Aner), Aseroth (v. 56; MT Ashtaroth), Deberi and Dabor (v. 57; MT Daberath), Jeththar and Debir (v. 58; MT Ramoth and Anem), Maasa and Abaran (v. 59; MT Mashal and Abdon), and Hammoth (v. 61; MT Hammon).
 - **6:63** — The Greek reads 'and Jericho toward the west of the Jordan' (MT 6:78 'at Jericho, east of the Jordan') and omits Jahzah. In the Merarite list (vv. 62-66), the Greek also reads Thachchia (v. 62; MT Tabor), Kadamos and Maephla (v. 64; MT Kedemoth and Mephaath), Rammon-gilead and Maanaith (v. 65; MT Ramoth in Gilead and Mahanaim), and Gezer (v. 66; MT Jazer).

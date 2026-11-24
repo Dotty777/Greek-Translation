@@ -13,7 +13,7 @@
 
 **7:4** And the Lord spoke to Moses, saying,
 
-**7:5** "Accept them from them, and they shall be for the service tasks of the tent of the testimony; and you shall give them to the Levites, to each according to his service."
+**7:5** "Accept them from them, and they shall be for the service tasks of the tent of testimony; and you shall give them to the Levites, to each according to his service."
 
 **7:6** And Moses took the wagons and the oxen and gave them to the Levites.
 
@@ -181,7 +181,7 @@
 
 **7:88** All the cattle for the sacrifice of deliverance were twenty-four heifers, and sixty rams, sixty year-old ewe lambs without blemish, sixty he-goats. This was the dedication of the altar after filling his hands and after anointing him.
 
-**7:89** When Moses went into the tent of the testimony to speak with Him, he heard the voice of the Lord speaking to him from above the mercy seat, which is on the ark of the testimony, between the two cherubim; and He spoke to him.
+**7:89** When Moses went into the tent of testimony to speak with Him, he heard the voice of the Lord speaking to him from above the mercy seat, which is on the ark of the testimony, between the two cherubim; and He spoke to him.
 
 ## Translator Notes
 

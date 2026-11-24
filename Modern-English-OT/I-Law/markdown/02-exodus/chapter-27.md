@@ -45,7 +45,7 @@
 
 **27:20** And you, command the sons of Israel, and let them take for you oil from olives, clear, pure, beaten, to burn for light, so that a lamp may burn continually
 
-**27:21** in the tabernacle of the testimony, outside the veil that is over the covenant; Aaron and his sons shall burn it from evening until morning before the Lord. It shall be a perpetual statute for your generations from the sons of Israel.
+**27:21** in the tent of testimony, outside the curtain that is over the covenant; Aaron and his sons shall burn it from evening until morning before the Lord. It shall be an eternal statute for your generations from the sons of Israel.
 
 ## Translator Notes
 

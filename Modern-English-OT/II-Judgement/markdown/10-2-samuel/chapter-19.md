@@ -31,13 +31,13 @@
 
 **19:13** You are brothers to me; you are my bones and my flesh. Why are you becoming the last to bring back the king to his house?'
 
-**19:14** And to Amasa you shall say, 'Are you not my bone and my flesh? And now may God do so to me and add even more, if you will not be commander of the army before me all the days in place of Joab.'"
+**19:14** And to Amasa you shall say, 'Are you not my bone and my flesh? And now may God do so to me, and so also may He add, if you will not be commander of the army before me all the days in place of Joab.'"
 
 **19:15** And he inclined the heart of all the men of Judah, even to one man; and they sent to the king, saying, "Return, you and all your servants."
 
 **19:16** And the king returned and came as far as the Jordan; and the men of Judah came to Gilgal to go to meet the king, to bring the king across the Jordan.
 
-**19:17** And Shimei son of Gera, the Benjaminite, from Bahurim hurried and went down with the men of Judah to meet King David,
+**19:17** And Shimei son of Gera, son of the Jeminite, from Bahurim hurried and went down with the men of Judah to meet King David,
 
 **19:18** and a thousand men of Benjamin were with him, and Ziba the attendant of the house of Saul, and his fifteen sons with him and his twenty servants with him; and they made straight for the Jordan before the king,
 
@@ -89,13 +89,13 @@
 
 **19:42** And look, all the men of Israel came to the king and said to the king, "Why is it that our brothers, the men of Judah, have stolen you away, and have brought the king and his house across the Jordan, and all the men of David with him?"
 
-**19:43** And all the men of Judah answered the men of Israel and said, "Because the king is close to me. And why have you become so angry about this matter? Have we eaten at all from the king, or has he given a gift, or lifted a portion for us?"
+**19:43** And all the men of Judah answered the men of Israel and said, "Because the king is close to me? And why have you become so angry about this matter? Have we eaten at all from the king, or has he given a gift, or lifted a portion for us?"
 
 **19:44** And the men of Israel answered the men of Judah and said, "I have ten shares in the king, and I am firstborn rather than you, and indeed I am in David more than you. And why have you insulted me like this, and was my word not reckoned first for me ahead of Judah, to bring back the king for me?" And the word of the men of Judah was harsher than the word of the men of Israel.
 
 ## Translator Notes
 
-- **19:1** — The Septuagint begins chapter 19 here (corresponding to 18:33 in most English Bibles) and renders the Hebrew wish idiom literally as "Who would grant my death in place of you?" (Greek tis doe). Its wording of David's lament is also shorter than the Hebrew Masoretic Text.
+- **19:1** — The Septuagint begins chapter 19 here (corresponding to 18:33 in most English Bibles) and renders the Hebrew wish idiom literally as "Who would grant my death in place of you?" (Greek tis doe).
 - **19:10** — The Greek text includes "David" and "and from his kingdom" (absent from the Hebrew Masoretic Text) and regularly renders "Philistines" with allophyloi ("foreigners").
 - **19:19** — The Greek includes the opening clause "and they performed the service of bringing the king across" (not in the Hebrew Masoretic Text) and reads exegeirai ("to rouse") where the Masoretic Text has "to bring across."
 - **19:36** — The Greek phrase "to evil" (eis poneron) is a Septuagint doublet alongside "and bad" (kai kakou), both rendering the same Hebrew expression.

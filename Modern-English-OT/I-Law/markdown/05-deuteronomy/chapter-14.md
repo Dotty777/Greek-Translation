@@ -7,7 +7,7 @@
 
 **14:1** You are sons of the Lord your God; you shall not make a bald spot between your eyes for a dead person,
 
-**14:2** for you are a holy people to the Lord your God, and the Lord your God chose you to become a treasured people for Himself out of all the nations that are on the face of the earth.
+**14:2** for you are a holy people to the Lord your God, and the Lord your God chose you to become a special people for Himself out of all the nations that are on the face of the earth.
 
 **14:3** You shall not eat any abomination.
 
@@ -59,7 +59,7 @@
 
 **14:28** After three years you shall bring out the entire tithe of your produce. In that year you shall place it in your cities.
 
-**14:29** And the Levite shall come, because he has no portion nor inheritance with you, and the proselyte, and the orphan, and the widow who is in your cities, and they shall eat and be filled, so that the Lord your God may bless you in all the works that you do.
+**14:29** And the Levite shall come, because he has no portion nor inheritance with you, and the resident alien, and the orphan, and the widow who is in your cities, and they shall eat and be filled, so that the Lord your God may bless you in all the works that you do.
 
 ## Translator Notes
 

@@ -15,7 +15,7 @@
 
 **1:5** And David said to the young man who was reporting to him, "How do you know that Saul and Jonathan his son are dead?"
 
-**1:6** And the young man who was reporting to him said, "By chance I happened to be on Mount Gilboa, and look, Saul was leaning on his spear, and look, the chariots and the cavalry commanders closed in on him.
+**1:6** And the young man who was reporting to him said, "By chance they happened to be on Mount Gilboa, and look, Saul was leaning on his spear, and look, the chariots and the cavalry commanders closed in on him.
 
 **1:7** And he looked behind him, and saw and called me, and I said, 'Here I am.'
 
@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **1:6** — The Greek verb περιέπεσαν is morphologically third-person plural ("they happened/fell"), here reflecting an early uncial spelling (or dittography before ἐν) of first-person singular περιέπεσα ("I happened by chance"), as required by the speaker's eyewitness narrative in vv. 6-7.
+- **1:6** — The Greek verb περιέπεσαν is third-person plural ("they happened"); the Hebrew text has the first-person singular ("I happened by chance").
 - **1:9** — Greek reads "a terrible darkness has seized me" (σκότος δεινόν), whereas the Hebrew Masoretic Text refers to "anguish" or "cramp."
 - **1:12** — Greek reads "over the people of Judah" (τὸν λαὸν Ἰούδα), whereas the Hebrew Masoretic Text reads "over the people of the Lord."
 - **1:18** — Greek omits the title "the Bow" found in the Hebrew text and translates "Book of Jashar" literally as "the Book of the Upright" (βιβλίου τοῦ εὐθοῦς).

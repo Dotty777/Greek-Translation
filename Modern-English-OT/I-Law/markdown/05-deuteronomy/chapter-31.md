@@ -27,13 +27,13 @@
 
 **31:11** when all Israel comes together to appear before the Lord your God in the place that the Lord chooses, you shall read this law in the presence of all Israel, in their hearing,
 
-**31:12** having assembled the people, the men and the women and the children, and the proselyte who is in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will listen so as to do all the words of this law;
+**31:12** having assembled the people, the men and the women and the children, and the resident alien who is in your cities, so that they may hear and so that they may learn to fear the Lord your God, and they will listen so as to do all the words of this law;
 
 **31:13** and their sons, who do not know, will hear and will learn to fear the Lord your God all the days that they live on the land into which you are crossing the Jordan to inherit it there."
 
-**31:14** And the Lord said to Moses, "Look, the days of your death have drawn near; call Joshua, and stand beside the doors of the tent of the testimony, and I will command him." And Moses and Joshua went to the tent of the testimony, and stood beside the doors of the tent of the testimony.
+**31:14** And the Lord said to Moses, "Look, the days of your death have drawn near; call Joshua, and stand beside the doors of the tent of testimony, and I will command him." And Moses and Joshua went to the tent of testimony, and stood beside the doors of the tent of testimony.
 
-**31:15** And the Lord came down in a cloud, and stood beside the doors of the tent of the testimony; and the pillar of the cloud stood beside the doors of the tent.
+**31:15** And the Lord came down in a cloud, and stood beside the doors of the tent of testimony; and the pillar of the cloud stood beside the doors of the tent.
 
 **31:16** And the Lord said to Moses, "Look, you are about to sleep with your fathers, and this people will rise up and prostitute itself after foreign gods of the land into which it is entering, and they will forsake Me and break My covenant that I made with them.
 

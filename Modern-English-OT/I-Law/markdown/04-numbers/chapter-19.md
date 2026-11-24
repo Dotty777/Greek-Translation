@@ -11,7 +11,7 @@
 
 **19:3** And you shall give it to Eleazar the priest; and they shall lead it outside the camp to a clean place, and they shall slaughter it before him;
 
-**19:4** and Eleazar shall take some of its blood, and he shall sprinkle some of its blood opposite the front of the tent of the testimony seven times.
+**19:4** and Eleazar shall take some of its blood, and he shall sprinkle some of its blood opposite the front of the tent of testimony seven times.
 
 **19:5** And they shall burn it completely before him; and the hide and its flesh and its blood, together with its dung, shall be burned completely.
 

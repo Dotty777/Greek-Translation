@@ -37,7 +37,7 @@
 
 **6:16** And Elisha said, "Do not be afraid, for those who are with us are more than those who are with them."
 
-**6:17** And Elisha prayed and said, "Lord, open the eyes of the young man, and let him see." And the Lord opened his eyes, and he saw; and look, the mountain was full of horses and chariots of fire all around Elisha.
+**6:17** And Elisha prayed and said, "Lord, open the eyes of the young man, and let him see." And the Lord opened his eyes, and he saw; and look, the mountain was full of horses, and chariots of fire were all around Elisha.
 
 **6:18** And they came down to him; and he prayed to the Lord and said, "Please strike this nation with blindness." And He struck them with blindness according to the word of Elisha.
 

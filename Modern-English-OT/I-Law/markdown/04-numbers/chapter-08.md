@@ -21,7 +21,7 @@
 
 **8:8** And they shall take one calf from the cattle and its sacrifice of fine flour mixed with oil, and you shall take a year-old calf from the cattle for sin.
 
-**8:9** And you shall bring the Levites forward before the tent of the testimony, and you shall assemble the whole assembly of the sons of Israel;
+**8:9** And you shall bring the Levites forward before the tent of testimony, and you shall assemble the whole assembly of the sons of Israel;
 
 **8:10** and you shall bring the Levites forward before the Lord, and the sons of Israel shall lay their hands upon the Levites;
 
@@ -33,7 +33,7 @@
 
 **8:14** and you shall separate the Levites from the midst of the sons of Israel, and they shall be Mine.
 
-**8:15** And after these things the Levites shall enter to perform the works of the tent of the testimony, and you shall cleanse them, and you shall give them over before the Lord.
+**8:15** And after these things the Levites shall enter to perform the works of the tent of testimony, and you shall cleanse them, and you shall give them over before the Lord.
 
 **8:16** For these have been given over to Me as a gift from the midst of the sons of Israel; in place of those who open every womb, all the firstborn of those from the sons of Israel, I have taken them for Myself.
 
@@ -41,21 +41,21 @@
 
 **8:18** And I took the Levites in place of every firstborn among the sons of Israel.
 
-**8:19** And I gave over the Levites as a gift given to Aaron and to his sons from the midst of the sons of Israel, to perform the works of the sons of Israel in the tent of the testimony and to make atonement for the sons of Israel; and there shall not be among the sons of Israel anyone approaching the holy things."
+**8:19** And I gave over the Levites as a gift given to Aaron and to his sons from the midst of the sons of Israel, to perform the works of the sons of Israel in the tent of testimony and to make atonement for the sons of Israel; and there shall not be among the sons of Israel anyone approaching the holy things."
 
 **8:20** And Moses and Aaron and the whole assembly of the sons of Israel did to the Levites just as the Lord commanded Moses concerning the Levites; so the sons of Israel did to them.
 
 **8:21** And the Levites purified themselves and washed their garments; and Aaron gave them over as a gift before the Lord, and Aaron made atonement for them to purify them.
 
-**8:22** And after these things the Levites entered to perform their service in the tent of the testimony before Aaron and before his sons; just as the Lord directed Moses concerning the Levites, so they did to them.
+**8:22** And after these things the Levites entered to perform their service in the tent of testimony before Aaron and before his sons; just as the Lord directed Moses concerning the Levites, so they did to them.
 
 **8:23** And the Lord spoke to Moses, saying,
 
-**8:24** "This is what concerns the Levites: from twenty-five years old and upward they shall enter to work in the tent of the testimony;
+**8:24** "This is what concerns the Levites: from twenty-five years old and upward they shall enter to work in the tent of testimony;
 
 **8:25** and from fifty years old he shall withdraw from the service, and he does not work anymore,
 
-**8:26** and his brother shall serve in the tent of the testimony to keep watches, but he does not perform works. In this way you shall do to the Levites in their watches."
+**8:26** and his brother shall serve in the tent of testimony to keep watches, but he does not perform works. In this way you shall do to the Levites in their watches."
 
 ## Translator Notes
 

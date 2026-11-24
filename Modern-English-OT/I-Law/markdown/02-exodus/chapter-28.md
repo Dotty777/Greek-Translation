@@ -11,7 +11,7 @@
 
 **28:3** And you, speak to all who are wise in mind, whom I have filled with a spirit of perception, and they shall make the holy garment of Aaron for the sanctuary, in which he shall serve as priest to Me.
 
-**28:4** And these are the garments which they shall make: the breastpiece and the shoulder-garment and the full-length tasseled tunic and a turban and a sash. And they shall make holy garments for Aaron and for his sons to serve as priests to Me.
+**28:4** And these are the garments which they shall make: the breastpiece and the shoulder-garment and the full-length tasseled tunic and a headdress and a sash. And they shall make holy garments for Aaron and for his sons to serve as priests to Me.
 
 **28:5** And they shall take the gold and the blue and the purple and the scarlet and the fine linen.
 
@@ -65,19 +65,19 @@
 
 **28:36** And you shall make a plate of pure gold, and you shall stamp on it the impression of a seal: "Holiness of the Lord."
 
-**28:37** And you shall place it upon twisted blue, and it shall be upon the miter; on the front of the miter it shall be.
+**28:37** And you shall place it upon twisted blue, and it shall be upon the turban; on the front of the turban it shall be.
 
 **28:38** And it shall be upon the forehead of Aaron, and Aaron shall take away the sins of the holy things, whatever the sons of Israel may consecrate, of every gift of their holy things; and it shall be upon the forehead of Aaron continually, acceptable for them before the Lord.
 
-**28:39** And the tasseled parts of the tunics shall be of fine linen; and you shall make a turban of fine linen, and you shall make a sash, the work of an embroiderer.
+**28:39** And the tasseled parts of the tunics shall be of fine linen; and you shall make a headdress of fine linen, and you shall make a sash, the work of an embroiderer.
 
-**28:40** And for the sons of Aaron you shall make tunics and sashes, and turbans you shall make for them, for honor and glory.
+**28:40** And for the sons of Aaron you shall make tunics and sashes, and headdresses you shall make for them, for honor and glory.
 
 **28:41** And you shall put them on Aaron your brother and his sons with him; and you shall anoint them, and you shall fill their hands, and you shall consecrate them, so that they may serve as priests to Me.
 
 **28:42** And you shall make for them linen breeches to cover the nakedness of their flesh; from waist to thighs they shall be.
 
-**28:43** And Aaron and his sons shall wear them whenever they enter into the tent of the testimony, when they approach to minister at the altar of the sanctuary; and they shall not bring sin upon themselves, so that they may not die; an eternal statute for him and for his seed after him.
+**28:43** And Aaron and his sons shall wear them whenever they enter into the tent of testimony, when they approach to minister at the altar of the sanctuary; and they shall not bring sin upon themselves, so that they may not die; an eternal statute for him and for his seed after him.
 
 ## Translator Notes
 

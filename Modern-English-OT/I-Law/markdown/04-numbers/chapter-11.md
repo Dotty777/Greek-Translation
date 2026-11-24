@@ -35,7 +35,7 @@
 
 **11:15** And if You deal with me this way, kill me outright, if I have found mercy with You, so that I may not see my affliction."
 
-**11:16** And the Lord said to Moses, "Gather for Me seventy men from the elders of Israel, of whom you yourself have seen that they are elders of the people and their scribes. And you shall bring them to the tent of the testimony, and they will stand there with you.
+**11:16** And the Lord said to Moses, "Gather for Me seventy men from the elders of Israel, of whom you yourself have seen that they are elders of the people and their scribes. And you shall bring them to the tent of testimony, and they will stand there with you.
 
 **11:17** And I will come down and speak there with you, and I will take some of the Spirit on you and place some on them; and they will help bear the impulse of the people with you, and you will not bear them alone.
 

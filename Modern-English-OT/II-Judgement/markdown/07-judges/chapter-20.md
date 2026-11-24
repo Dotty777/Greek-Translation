@@ -87,17 +87,17 @@
 
 **20:41** And the men of Israel turned back, and the men of Benjamin hurried, because they saw that evil had come upon them.
 
-**20:42** And they turned before the sons of Israel toward the road of the wilderness and fled; and the battle overtook them, and those from the cities were destroying them in their midst.
+**20:42** And they looked before the sons of Israel toward the road of the wilderness and fled; and the battle overtook them, and those from the cities were destroying them in their midst.
 
 **20:43** And they were cutting down Benjamin, and pursued him from Noua close at his heels as far as opposite Gibeah toward the rising of the sun.
 
 **20:44** And eighteen thousand men fell from Benjamin; all of these were men of might.
 
-**20:45** And the rest turned and were fleeing into the wilderness toward the rock of Rimmon, and the sons of Israel gleaned five thousand men from them. And the sons of Israel went down after them as far as Gedan, and struck down two thousand men of them.
+**20:45** And the rest looked and were fleeing into the wilderness toward the rock of Rimmon, and the sons of Israel gleaned five thousand men from them. And the sons of Israel went down after them as far as Gedan, and struck down two thousand men of them.
 
 **20:46** And all who fell from Benjamin were twenty-five thousand men drawing the sword on that day; all of these were men of might.
 
-**20:47** And the rest turned and fled into the wilderness toward the rock of Rimmon, six hundred men, and they stayed at the rock of Rimmon for four months.
+**20:47** And the rest looked and fled into the wilderness toward the rock of Rimmon, six hundred men, and they stayed at the rock of Rimmon for four months.
 
 **20:48** And the sons of Israel turned back against the sons of Benjamin and struck them with the edge of the sword, from the city of Methla even to the livestock and even to everything that was found in all the cities; and they burned with fire the cities that were found.
 

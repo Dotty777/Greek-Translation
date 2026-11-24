@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **6:1** — The Greek reads "about seventy thousand" young men, whereas the Hebrew Masoretic Text reads "thirty thousand."
-- **6:2** — The Greek renders the Hebrew place name Baale-judah as "from the rulers of Judah in an ascent" and translates the divine title as "Lord of powers" (Kyrios ton dynameon, also in 6:18; MT: "LORD of hosts"). In 6:3, the Greek reads "to the house of Amminadab" (MT: "from the house of Abinadab"; cf. 1 Sam 7:1) and translates the Hebrew name Ahio as "his brothers" (also in 6:4).
+- **6:2** — The Greek renders the Hebrew place name Baale-judah as "from the rulers of Judah in an ascent" and translates the divine title as "Lord of powers" (Kyrios ton dynameon, also in 6:18; MT: "Lord of hosts"). In 6:3, the Greek reads "to the house of Amminadab" (MT: "from the house of Abinadab"; cf. 1 Sam 7:1) and translates the Hebrew name Ahio as "his brothers" (also in 6:4).
 - **6:6** — The Greek gives the distinct proper name Nodab (MT: Nachon) and reads "because the calf pulled him aside, in order to hold it" (repeating "to hold it"), where the Hebrew Masoretic Text has "because the oxen stumbled."
 - **6:10** — The Greek gives the distinct proper name Abeddara (vv. 10-12) for the Hebrew Masoretic Text's Obed-edom, and explicitly calls the ark "the ark of the covenant of the Lord."
 - **6:13** — The Greek describes "seven choirs" carrying the ark with a sacrifice of a calf and a lamb (and in 6:14 "an unusual robe" rather than "a linen ephod"), differing substantially from the Masoretic Text's "six steps." In 6:22, the Greek reads "in your eyes" (MT: "in my own eyes") and a condensed indirect-speech clause echoing Michal's taunt in 6:20.

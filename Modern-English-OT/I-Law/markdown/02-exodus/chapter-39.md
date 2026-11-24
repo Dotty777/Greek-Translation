@@ -7,7 +7,7 @@
 
 **39:1** All the gold that was worked for the works, throughout all the workmanship of the holy things, came from the gold of the firstfruits: twenty-nine talents and seven hundred twenty shekels, according to the holy shekel.
 
-**39:2** And the offering of silver from the numbered men of the congregation was one hundred talents and one thousand seven hundred seventy-five shekels; one drachma per head, half a shekel, according to the holy shekel.
+**39:2** And the contribution of silver from the numbered men of the congregation was one hundred talents and one thousand seven hundred seventy-five shekels; one drachma per head, half a shekel, according to the holy shekel.
 
 **39:3** Everyone passing through the numbering, from twenty years old and upward, amounted to six hundred thousand and three thousand five hundred fifty.
 
@@ -17,7 +17,7 @@
 
 **39:6** And the one thousand seven hundred seventy-five shekels they made into the hooks for the pillars, and he overlaid their capitals with gold and adorned them.
 
-**39:7** And the bronze of the offering was seventy talents and one thousand five hundred shekels.
+**39:7** And the bronze of the contribution was seventy talents and one thousand five hundred shekels.
 
 **39:8** And out of them he made the bases of the door of the tent of testimony,
 
@@ -27,13 +27,13 @@
 
 **39:11** And the sons of Israel did just as the Lord commanded Moses; so they did.
 
-**39:12** Now the remaining gold of the offering they made into utensils for ministering with them before the Lord;
+**39:12** Now the remaining gold of the contribution they made into utensils for ministering with them before the Lord;
 
 **39:13** and the blue and purple and scarlet that were left over they made into ministering garments for Aaron, so as to minister in them in the sanctuary.
 
 **39:14** And they brought the garments to Moses, and the tent and its utensils and the bases and its bars and the pillars,
 
-**39:15** and you shall enclose the tent, and you shall sanctify all that belongs to it all around. And you shall anoint the altar of burnt offerings and all its utensils,
+**39:15** and you shall enclose the tent, and you shall sanctify all that belongs to it all around. And you shall anoint the altar of fire offerings and all its utensils,
 
 **39:16** and the altar and all its utensils, and the anointing oil and the compounded incense, and the pure lampstand
 

@@ -35,7 +35,7 @@
 
 **23:15** for the Lord your God walks about in your camp to deliver you and to hand over your enemy before you; and your camp shall be holy, and no indecent thing shall be seen among you, or He will turn away from you.
 
-**23:16** You shall not hand over to his master a slave who has attached himself to you from his master.
+**23:16** You shall not hand over to his master a servant who has attached himself to you from his master.
 
 **23:17** He shall live with you, among you; he shall live wherever it pleases him; you shall not oppress him.
 
@@ -59,8 +59,8 @@
 
 ## Translator Notes
 
-- **23:1** — Septuagint versification begins chapter 23 with this verse (numbered 22:30 in the Hebrew MT and most English translations), shifting 23:2-26 one verse ahead of MT 23:1-25.
+- **23:1** — In both the Greek and the Hebrew numbering chapter 23 begins with this verse (numbered 22:30 in another common versification, which counts 23:2-26 as 23:1-25).
 - **23:8** — Greek Idoumaion ("Idumean") is the Septuagint's Greek designation corresponding to Hebrew "Edomite" (similarly, 23:5 reads "from Mesopotamia" where the Hebrew MT has "from Pethor of Aram-naharaim").
 - **23:11** — Following Codex Vaticanus, the Greek text reads "he shall go out into the camp," reflecting an early scribal omission (parablepsis) of the clause "outside the camp, and he shall not enter" preserved in other witnesses and the Hebrew MT.
 - **23:18** — The Septuagint renders the Hebrew's two prohibitions as four clauses, pairing prostitution terms (pornē / porneuōn) with Hellenistic mystery-cult initiation terms (telesphoros / teliskomenos).
-- **23:25** — The Septuagint reverses the order of the standing-grain law (23:25) and the vineyard law (23:26) compared with the Hebrew MT (23:24-25).
+- **23:25** — The Septuagint reverses the order of the standing-grain law (23:25) and the vineyard law (23:26) compared with the Hebrew MT, where the vineyard law comes first.

@@ -19,7 +19,7 @@
 
 **7:7** In all the places through which I passed among all Israel, did I speak at all to a single tribe of Israel, whom I commanded to shepherd My people Israel, saying, "Why have you not built Me a cedar house?"'
 
-**7:8** And now thus you will say to My servant David: 'Thus says the Lord Almighty: I took you from the sheepfold for you to be a ruler over My people, over Israel,
+**7:8** And now thus you will say to My servant David: 'Thus says the Lord Almighty: I took you from the sheepfold for you to be a leader over My people, over Israel,
 
 **7:9** and I was with you wherever you went, and I utterly destroyed all your enemies from before you, and I made you renowned, like the name of the great ones who are on the earth.
 

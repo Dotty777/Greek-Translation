@@ -81,7 +81,7 @@
 
 **9:38** And Mikloth fathered Shamaa. And these lived in the midst of their brothers in Jerusalem, in the midst of their brothers.
 
-**9:39** And Ner fathered Kish, and Kish fathered Saul, and Saul fathered Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+**9:39** And Ner fathered Kish, and Kish fathered Saul, and Saul fathered Jonathan, and Malchishua, and Amminadab, and Eshbaal.
 
 **9:40** And the son of Jonathan was Merib-baal; and Merib-baal fathered Micah.
 
@@ -91,7 +91,7 @@
 
 **9:43** and Moza fathered Baana; Rephaiah was his son, Azel his son.
 
-**9:44** And Azel had six sons, and these were their names: Azrikam his firstborn, and Ishmael, and Sheariah, and Obadiah, and Hanan; these were the sons of Azel.
+**9:44** And Azel had six sons, and these were their names: Azrikam his firstborn, and Ishmael, and Seraiah, and Obadiah, and Hanan; these were the sons of Azel.
 
 ## Translator Notes
 

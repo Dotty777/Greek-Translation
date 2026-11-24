@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **30:3** — The Greek reads 'the Lord will heal your sins,' a notable theological rendering where the Hebrew Masoretic Text reads 'the LORD your God will restore your fortunes' (or 'return your captivity').
+- **30:3** — The Greek reads "the Lord will heal your sins" where the Hebrew Masoretic Text reads "the Lord your God will restore your fortunes" (or "return your captivity").
 - **30:6** — The Greek reads 'the Lord will thoroughly cleanse your heart,' interpreting the metaphor where the Hebrew Masoretic Text reads 'will circumcise your heart.'
 - **30:14** — The Greek adds 'and in your hands' after 'in your mouth and in your heart,' a phrase absent from the Hebrew Masoretic Text and from Paul's quotation in Romans 10:8.
 - **30:20** — The Greek uses the neuter pronoun 'this' (referring to loving, listening to, and holding fast to the Lord), whereas the Hebrew pronoun can be read either as 'He is your life' or 'that is your life.'

@@ -21,7 +21,7 @@
 
 **36:8** And every wise person among those doing the work made the robes of the sanctuary, which are for Aaron the priest, just as the Lord commanded Moses.
 
-**36:9** And he made the ephod of gold, and blue, and purple, and spun scarlet, and twisted fine linen.
+**36:9** And he made the shoulder-garment of gold, and blue, and purple, and spun scarlet, and twisted fine linen.
 
 **36:10** And the plates of gold were cut as hairs, so as to weave together with the blue, and the purple, and the thoroughly spun scarlet, and with the twisted fine linen; they made it a woven work,
 
@@ -31,9 +31,9 @@
 
 **36:13** And they made both the emerald stones fastened with clasps, and bordered around, and engraved with the engraving of a signet after the names of the sons of Israel;
 
-**36:14** and he placed them upon the shoulders of the ephod, stones of memorial of the sons of Israel, just as the Lord commanded Moses.
+**36:14** and he placed them upon the shoulders of the shoulder-garment, stones of memorial of the sons of Israel, just as the Lord commanded Moses.
 
-**36:15** And they made an oracle, a woven work with embroidery, according to the work of the ephod, of gold, and blue, and purple, and thoroughly spun scarlet, and twisted fine linen;
+**36:15** And they made an oracle, a woven work with embroidery, according to the work of the shoulder-garment, of gold, and blue, and purple, and thoroughly spun scarlet, and twisted fine linen;
 
 **36:16** they made the oracle square and doubled, a span its length and a span its width, doubled.
 
@@ -53,15 +53,15 @@
 
 **36:24** and they placed the braids of gold upon the rings on both sides of the oracle, and into them the two braids,
 
-**36:25** and they placed them upon the two small shields; and they placed them upon the shoulders of the ephod opposite on the front.
+**36:25** and they placed them upon the two small shields; and they placed them upon the shoulders of the shoulder-garment opposite on the front.
 
-**36:26** And they made two gold rings, and they placed them upon the two corners on the edge of the oracle and upon the edge of the back of the ephod on the inside.
+**36:26** And they made two gold rings, and they placed them upon the two corners on the edge of the oracle and upon the edge of the back of the shoulder-garment on the inside.
 
-**36:27** And they made two gold rings, and they placed them upon both shoulders of the ephod.
+**36:27** And they made two gold rings, and they placed them upon both shoulders of the shoulder-garment.
 
-**36:28** And he bound the oracle tightly from the rings that were on it to the rings of the ephod, held together with the blue, intertwined into the weaving of the ephod, so that the oracle would not become loose from the ephod, just as the Lord commanded Moses.
+**36:28** And he bound the oracle tightly from the rings that were on it to the rings of the shoulder-garment, held together with the blue, intertwined into the weaving of the shoulder-garment, so that the oracle would not become loose from the shoulder-garment, just as the Lord commanded Moses.
 
-**36:29** And they made the under-robe beneath the ephod, a woven work, wholly blue;
+**36:29** And they made the under-robe beneath the shoulder-garment, a woven work, wholly blue;
 
 **36:30** and the opening of the under-robe in the middle was woven through and intertwined, having a border around the opening so as not to come apart.
 
@@ -85,6 +85,6 @@
 
 - **36:1** — The Greek text names Bezalel's companion Eliab here and in 36:2 and 37:21, where the Hebrew Masoretic Text has Oholiab.
 - **36:8** — From 36:8 onward, the Septuagint places the account of making the priestly garments here (corresponding to Hebrew Exodus 39:1-31), before the curtains and courtyard in chapter 37.
-- **36:9** — Greek epomis (literally 'shoulder-garment') is the Septuagint term for the priestly ephod, and in the plural (36:11) refers to its shoulder-pieces.
+- **36:9** — Greek epomis (literally 'shoulder-garment') is the Septuagint term corresponding to the Hebrew ephod; in the plural (36:11) it refers to the shoulder-pieces.
 - **36:15** — Greek logion ('oracle') is the Septuagint rendering for the high priest's breastpiece (Hebrew choshen).
 - **36:24** — The Greek phrase rendered 'and into them the two braids' (kai eis tas ta dyo emplokia) lacks a noun after the feminine plural article tas, likely due to an early scribal omission (some witnesses supply 'couplings').

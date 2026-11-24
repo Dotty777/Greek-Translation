@@ -39,7 +39,7 @@
 
 **11:17** and the Lord will become enraged with anger against you and shut up heaven, and there will be no rain, and the land will not give its fruit, and you will perish quickly from the good land that the Lord has given you.
 
-**11:18** And you shall place these words in your heart and in your soul, and you shall bind them as a sign upon your hand, and they shall be immovable before your eyes;
+**11:18** And you shall place these words in your heart and in your soul, and you shall fasten them as a sign upon your hand, and it shall be immovable before your eyes;
 
 **11:19** and you shall teach them to your children, to speak of them when you sit at home and when you walk on the way, and when you sleep and when you rise up;
 

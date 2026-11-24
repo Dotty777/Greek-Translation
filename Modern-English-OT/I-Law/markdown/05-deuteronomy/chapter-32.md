@@ -105,7 +105,7 @@
 
 **32:50** and die on the mountain to which you are going up, and be added to your people, just as Aaron your brother died on Mount Hor and was added to his people;
 
-**32:51** because you disobeyed My word among the sons of Israel at the water of Contradiction at Kadesh in the wilderness of Zin, because you did not sanctify Me among the sons of Israel.
+**32:51** because you disobeyed My word among the sons of Israel at the water of Contention at Kadesh in the wilderness of Zin, because you did not sanctify Me among the sons of Israel.
 
 **32:52** You will see the land opposite, and you will not enter there."
 
@@ -115,4 +115,4 @@
 - **32:23** — Translates the Greek reading συνπολεμήσω ("wage war with," as in Codex Vaticanus), rather than συντελέσω ("spend / use up") found in other Greek manuscripts and corresponding to the Hebrew.
 - **32:43** — The Greek preserves an expanded poetic conclusion calling on the heavens, the sons of God, the nations, and all the angels of God to rejoice and worship Him (clauses cited in Rom 15:10 and Heb 1:6).
 - **32:49** — The Greek text (as in Codex Vaticanus) locates Mount Nebo "in the land of Canaan," whereas other Greek manuscripts and the Hebrew text read "in the land of Moab."
-- **32:51** — "Contradiction" translates the Greek place name Ἀντιλογίας (lit. "contradiction" or "dispute"), the Septuagint rendering of Hebrew Meribah.
+- **32:51** — "Contention" translates the Greek place name Ἀντιλογίας (lit. "contradiction" or "dispute"), the Septuagint rendering of Hebrew Meribah.

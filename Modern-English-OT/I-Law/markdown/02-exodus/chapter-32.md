@@ -51,7 +51,7 @@
 
 **32:24** And I said to them, 'If anyone has gold jewelry, take it off.' And they gave it to me; and I threw it into the fire, and this calf came out."
 
-**32:25** And when Moses saw that the people had been scattered--for Aaron had scattered them, an object of gloating to their adversaries--
+**32:25** And when Moses saw that the people had been scattered—for Aaron had scattered them, an object of gloating to their adversaries—
 
 **32:26** Moses stood at the gate of the camp and said, "Who is for the Lord? Let him come to me." So all the sons of Levi came together.
 

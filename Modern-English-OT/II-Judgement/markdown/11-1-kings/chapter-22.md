@@ -110,6 +110,6 @@
 - **22:8** — Jemias (Greek Iemias, genitive Iemia in v. 9) preserves the Septuagint name form where the Hebrew text reads Imlah.
 - **22:16** — The Greek text reads "Five times" (pentakis) as a statement, whereas the Hebrew asks "How many times?" (and some Greek manuscripts read posakis).
 - **22:17** — The Greek renders this clause as a question, "Is the Lord not God to these?", contrasting with the Hebrew "These have no master."
-- **22:24** — The Greek literally reads Canaan (Chanaan, compared to Chaana for Hebrew Chenaanah in v. 11) and asks "What kind of spirit of the Lord is it that spoke in you?" rather than the Hebrew "Which way did the Spirit of the LORD go from me to speak to you?"
+- **22:24** — The Greek literally reads Canaan (Chanaan, compared to Chaana for Hebrew Chenaanah in v. 11) and asks "What kind of spirit of the Lord is it that spoke in you?" rather than the Hebrew "Which way did the Spirit of the Lord go from me to speak to you?"
 - **22:26** — The Greek names the official Semer and titles him "the king of the city," where the Hebrew text has Amon the governor of the city.
 - **22:42** — The Greek names Jehoshaphat's maternal grandfather Shimei (Semeei) where the Hebrew has Shilhi; verses 47-50 do not appear here in the Septuagint order (parallel material stands earlier in 16:28a-h).

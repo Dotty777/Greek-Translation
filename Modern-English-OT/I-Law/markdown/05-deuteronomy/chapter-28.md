@@ -139,14 +139,14 @@
 
 **28:67** In the morning you will say, "If only evening would come!" and in the evening you will say, "If only morning would come!" because of the fear of your heart that you will fear, and because of the sights of your eyes that you will see.
 
-**28:68** And the Lord will bring you back to Egypt in ships, by the way of which I said, "You will never see it again"; and there you will be sold to your enemies as male slaves and female slaves, and there will be no one to buy.
+**28:68** And the Lord will bring you back to Egypt in ships, by the way of which I said, "You will never see it again"; and there you will be sold to your enemies as male servants and female servants, and there will be no one to buy.
 
 **28:69** These are the words of the covenant that the Lord commanded Moses to establish with the sons of Israel in the land of Moab, besides the covenant that He made with them at Horeb.
 
 ## Translator Notes
 
 - **28:5** — Greek ἀποθῆκαι ("storehouses") and ἐνκαταλίμματα ("reserves," literally "things left over," also in v. 17) differ from the Hebrew Masoretic Text's "basket" and "kneading bowl."
-- **28:7** — Here and in the other covenant invocations of blessing and curse (vv. 8-9, 12-13, 20-22, 24-25, 27-28, 35), the Greek uses the volitive/optative mood ("May the Lord..."), contrasting with the future indicatives used for the resulting outcomes.
+- **28:7** — Here and in the other covenant invocations of blessing and curse (vv. 8-9, 12-13, 20-22, 24-25, 27-28, 35-36), the Greek uses the volitive/optative mood ("May the Lord..."), contrasting with the future indicatives used for the resulting outcomes.
 - **28:25** — The Greek reads ἐπισκοπήν ("visitation," in the sense of divine judgment or punishment) and διασπορά ("dispersion"), where the Hebrew Masoretic Text reads "defeated" and "a horror."
 - **28:28** — The Greek text binds the first two afflictions into a single genitive phrase, παραπληξίᾳ ἀορασίας ("derangement of blindness"), rather than separating them with "and" as in the Hebrew Masoretic Text ("madness and blindness").
 - **28:32** — Following the shorter Greek text (as in Codex Vaticanus), vv. 31-32 lack the clause about having no helper and sons and daughters being given to another nation; thus neuter plural αὐτά ("them") refers back to "your sheep" in v. 31, and σφακελίζοντες depicts eyes wasting away in anguish.

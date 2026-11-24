@@ -53,7 +53,7 @@
 
 **26:24** and it shall be equal at the bottom; in the same way they shall be equal at their heads into one joining; so you shall do for both; let them be for the two corners.
 
-**26:25** And there shall be eight pillars, and their bases shall be sixteen silver ones: two bases for the one pillar for both of its sides, and two bases for the other pillar.
+**26:25** And there shall be eight pillars, and their bases shall be sixteen silver ones: two bases for the one pillar for both of its sides, and two bases for the one pillar.
 
 **26:26** And you shall make bars of incorruptible wood, five for the one pillar on the one side of the tabernacle,
 
@@ -65,19 +65,19 @@
 
 **26:30** And you shall erect the tabernacle according to the form that was shown to you on the mountain.
 
-**26:31** And you shall make a veil of blue and purple and twisted scarlet and spun fine linen; you shall make it a woven work with cherubim.
+**26:31** And you shall make a curtain of blue and purple and twisted scarlet and spun fine linen; you shall make it a woven work with cherubim.
 
 **26:32** And you shall put it upon four incorruptible pillars overlaid with gold; and their capitals shall be of gold, and their four bases shall be of silver.
 
-**26:33** And you shall place the veil upon the pillars, and you shall bring in there, inside the veil, the ark of the testimony; and the veil shall separate for you between the holy place and the Holy of Holies.
+**26:33** And you shall place the curtain upon the pillars, and you shall bring in there, inside the curtain, the ark of the testimony; and the curtain shall separate for you between the holy place and the Holy of Holies.
 
-**26:34** And you shall cover the ark of the testimony with the veil in the Holy of Holies.
+**26:34** And you shall cover the ark of the testimony with the curtain in the Holy of Holies.
 
-**26:35** And you shall place the table outside the veil, and the lampstand opposite the table on the side of the tabernacle toward the south; and the table you shall put on the side of the tabernacle toward the north.
+**26:35** And you shall place the table outside the curtain, and the lampstand opposite the table on the side of the tabernacle toward the south; and the table you shall put on the side of the tabernacle toward the north.
 
 **26:36** And you shall make a screen of blue and purple and twisted scarlet and twisted fine linen, the work of an embroiderer.
 
-**26:37** And you shall make five pillars for the veil, and you shall overlay them with gold; and their capitals shall be of gold; and you shall cast five bronze bases for them.
+**26:37** And you shall make five pillars for the curtain, and you shall overlay them with gold; and their capitals shall be of gold; and you shall cast five bronze bases for them.
 
 ## Translator Notes
 
@@ -85,4 +85,4 @@
 - **26:15** — Throughout verses 15–29 the Greek uses στύλους ("pillars") and ξύλων ἀσήπτων ("incorruptible wood"), corresponding to "boards" (or "frames") and "acacia wood" in the Hebrew Masoretic Text.
 - **26:18** — The Greek places the first twenty pillars on the north side (πρὸς βορρᾶν) and the second twenty on the south side (πρὸς νότον, v. 20), reversing the south-then-north order of the Hebrew Masoretic Text.
 - **26:32** — Greek κεφαλίδες ("capitals," also in 26:37 and 27:17) denotes decorative pillar tops, whereas the Hebrew Masoretic Text reads "hooks."
-- **26:34** — The Greek instructs covering the ark of the testimony with the veil (κατακαλύψεις τῷ καταπετάσματι), whereas the Hebrew Masoretic Text instructs placing the mercy seat upon the ark.
+- **26:34** — The Greek instructs covering the ark of the testimony with the curtain (κατακαλύψεις τῷ καταπετάσματι), whereas the Hebrew Masoretic Text instructs placing the mercy seat upon the ark.

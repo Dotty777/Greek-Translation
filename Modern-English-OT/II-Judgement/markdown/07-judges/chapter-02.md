@@ -21,7 +21,7 @@
 
 **2:8** And Joshua the son of Nun, the servant of the Lord, died, one hundred ten years old.
 
-**2:9** And they buried him within the border of his inheritance in Timnath-heres, in Mount Ephraim, north of Mount Gaash.
+**2:9** And they buried him within the border of his inheritance in Timnath-heres, in the hill country of Ephraim, north of Mount Gaash.
 
 **2:10** And all that generation also was added to their fathers; and another generation arose after them who did not know the Lord, nor even the work that He had done in Israel.
 
@@ -29,7 +29,7 @@
 
 **2:12** And they abandoned the Lord, the God of their fathers, who brought them out from the land of Egypt, and went after other gods from among the gods of the nations that were around them, and bowed down to them; and they provoked the Lord to anger.
 
-**2:13** And they abandoned Him, and served Baal and the Ashtaroth.
+**2:13** And they abandoned Him, and served Baal and the Astartes.
 
 **2:14** And the Lord became angry with wrath against Israel, and delivered them into the hands of plunderers, and they thoroughly plundered them; and He sold them into the hands of their enemies all around, and they were no longer able to stand before their enemies wherever they went out.
 

@@ -41,7 +41,7 @@
 
 **24:18** and the Lord drove out the Amorite and all the nations living in the land from before us. Indeed, we also will serve the Lord, for He is our God."
 
-**24:19** And Joshua said to the people, "You will not be able to serve the Lord, because He is a holy God, and being jealous, He will not forgive your sins and your lawless deeds.
+**24:19** And Joshua said to the people, "You will by no means be able to serve the Lord, because He is a holy God, and being jealous, He will not forgive your sins and your lawless deeds.
 
 **24:20** Whenever you abandon the Lord and serve other gods, He will come and afflict you and consume you, instead of how He did good to you."
 
@@ -61,11 +61,11 @@
 
 **24:28** And Joshua sent the people away, and they went, each one to his own place.
 
-**24:29** And Israel served the Lord all the days of Joshua and all the days of the elders who prolonged their time after Joshua and who saw all the works of the Lord, all that He did for Israel.
+**24:29** And Israel served the Lord all the days of Joshua and all the days of the elders who prolonged their time with Joshua and who saw all the works of the Lord, all that He did for Israel.
 
 **24:30** And it happened after those things that Joshua son of Nun, the servant of the Lord, died, one hundred and ten years old.
 
-**24:31** And they buried him by the borders of his inheritance in Timnath-serah, in the hill country of Ephraim, north of Mount Gilead; there they placed with him in the tomb in which they buried him the stone knives with which he circumcised the sons of Israel in Gilgal, when He brought them out from Egypt, just as the Lord commanded them; and they are there to this day.
+**24:31** And they buried him by the borders of his inheritance in Timnath-serah, in the hill country of Ephraim, north of Mount Gilead; there they placed with him in the tomb in which they buried him the stone knives with which he circumcised the sons of Israel in Gilgal, when he brought them out from Egypt, just as the Lord commanded them; and they are there to this day.
 
 **24:32** And the sons of Israel brought up the bones of Joseph from Egypt and buried them in Shechem, in the portion of the field that Jacob bought from the Amorites who lived in Shechem for one hundred ewe lambs.
 

@@ -17,13 +17,13 @@
 
 **3:6** "Take the tribe of Levi, and you shall set them before Aaron the priest, and they shall minister to him.
 
-**3:7** And they shall keep his charges and the charges of the sons of Israel before the tent of the testimony, to perform the works of the tent;
+**3:7** And they shall keep his charges and the charges of the sons of Israel before the tent of testimony, to perform the works of the tent;
 
-**3:8** and they shall keep all the articles of the tent of the testimony and the charges of the sons of Israel, according to all the works of the tent.
+**3:8** and they shall keep all the articles of the tent of testimony and the charges of the sons of Israel, according to all the works of the tent.
 
 **3:9** And you shall give the Levites to Aaron and to his sons the priests; these are given as a gift to Me from the sons of Israel.
 
-**3:10** And you shall appoint Aaron and his sons over the tent of the testimony, and they shall keep their priesthood and all things pertaining to the altar and inside the curtain; and the outsider who touches it shall die."
+**3:10** And you shall appoint Aaron and his sons over the tent of testimony, and they shall keep their priesthood and all things pertaining to the altar and inside the curtain; and the outsider who touches it shall die."
 
 **3:11** And the Lord spoke to Moses, saying,
 
@@ -53,7 +53,7 @@
 
 **3:24** and the leader of the father's house of the clan of Gershon was Eliasaph son of Dael.
 
-**3:25** And the charge of the sons of Gershon in the tent of the testimony was the tent and the covering, and the screen of the door of the tent of the testimony,
+**3:25** And the charge of the sons of Gershon in the tent of testimony was the tent and the covering, and the screen of the door of the tent of testimony,
 
 **3:26** and the hangings of the courtyard, and the curtain of the gate of the courtyard that is by the tent, and the remainder of all its works.
 
@@ -79,7 +79,7 @@
 
 **3:37** and the pillars of the courtyard all around and their bases, and the pegs and their cords.
 
-**3:38** And those who encamp in front of the tent of the testimony on the east are Moses and Aaron and his sons, keeping the charges of the sanctuary for the charges of the sons of Israel; and the outsider who touches it shall die.
+**3:38** And those who encamp in front of the tent of testimony on the east are Moses and Aaron and his sons, keeping the charges of the sanctuary for the charges of the sons of Israel; and the outsider who touches it shall die.
 
 **3:39** The entire enrollment of the Levites whom Moses and Aaron enrolled by the voice of the Lord according to their clans, every male from a month old and upward, was twenty-two thousand.
 

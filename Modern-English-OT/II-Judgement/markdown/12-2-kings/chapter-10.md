@@ -21,9 +21,9 @@
 
 **10:8** And the messenger came and reported, saying, "I have brought the heads of the sons of the king." And he said, "Put them in two heaps beside the doorway of the gate of the city until morning."
 
-**10:9** And it came about in the morning that he went out and stood, and he said to all the people, "You are righteous; look, I am the one who conspired against my master and killed him, and who struck down all these?
+**10:9** And it came about in the morning that he went out and stood, and he said to all the people, "You are righteous; look, I am the one who conspired against my master and killed him; and who struck down all these?
 
-**10:10** See, appho, that nothing from the word of the Lord will fall to the ground which the Lord spoke concerning the house of Ahab; and the Lord has done all that He spoke by the hand of His servant Elijah."
+**10:10** See, aphpho, that nothing from the word of the Lord will fall to the ground which the Lord spoke concerning the house of Ahab; and the Lord has done all that He spoke by the hand of His servant Elijah."
 
 **10:11** And Jehu struck down all those who were left in the house of Ahab in Israel, and all his prominent men and his acquaintances and his priests, so as not to leave them a remnant.
 
@@ -65,7 +65,7 @@
 
 **10:30** And the Lord said to Jehu, "Because you have done well to do what is upright in My eyes, having done to the house of Ahab according to all that was in My heart, sons of the fourth generation will sit for you on the throne of Israel."
 
-**10:31** And Jehu was not careful to walk in the law of the Lord, the God of Israel, with all his heart; he did not turn away from the sins of Jeroboam, who caused Israel to sin.
+**10:31** And Jehu was not careful to walk in the law of the Lord God of Israel with all his heart; he did not turn away from the sins of Jeroboam, who caused Israel to sin.
 
 **10:32** In those days the Lord began to cut off in Israel, and Hazael struck them down even in every border of Israel,
 
@@ -80,7 +80,7 @@
 ## Translator Notes
 
 - **10:6** — Greek reads "Israel" here and in vv. 7 and 11 (and "Samaria" in v. 1) where the Hebrew Masoretic Text reads "Jezreel." Greek also reads "these prominent men" rather than "with the great men."
-- **10:10** — Greek leaves the Hebrew particle epho ("then, now") untranslated as the transliteration appho.
+- **10:10** — Greek leaves the Hebrew particle epho ("then, now") untranslated as the transliteration aphpho (as in 2:14).
 - **10:18** — Greek reads "was zealous for" (ezelosen) where the Hebrew text reads "gathered."
 - **10:22** — Greek transliterates the Hebrew word for "wardrobe" (meltahah) as mesthaal, and renders the closing subject as "the vestment-keeper" (ho stolistes).
 - **10:26** — Greek reads "the robe of Baal" (ten stolen, likely an inner-Greek shift from "pillar") rather than "the pillars of the house of Baal," and in v. 27 reads singular "struck it down into latrines" (lytronas).

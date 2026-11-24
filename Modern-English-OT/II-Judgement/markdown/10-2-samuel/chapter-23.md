@@ -9,7 +9,7 @@
 
 **23:2** The Spirit of the Lord spoke in me, and His word was upon my tongue.
 
-**23:3** The God of Israel says; the Watchman from Israel spoke to me, "Speak a parable: 'In man, how may you strengthen the fear of the anointed?
+**23:3** The God of Israel says; the Guardian from Israel spoke to me, "Speak a parable: 'In man, how may you strengthen the fear of the anointed?
 
 **23:4** And in God, the light of morning, may the sun rise; in the morning the Lord did not pass by from brightness, and as from rain of fresh grass from the earth.'"
 
@@ -84,7 +84,7 @@
 ## Translator Notes
 
 - **23:1** — In this Greek text the introductory clause 'And these are the last words of David' appears at the end of 22:51 rather than opening 23:1; the Septuagint also reads 'Faithful' (pistos) instead of 'oracle', reflecting a different reading of the Hebrew consonants, and renders 'over the anointed' rather than 'raised on high'.
-- **23:3** — The Greek diverges markedly from the Masoretic Text here and in 23:4, rendering 'Rock of Israel' as 'Watchman from Israel', reading 'Speak a parable' for 'one who rules', and reading 'fear of the anointed' (christou) rather than 'fear of God'.
+- **23:3** — The Greek diverges markedly from the Masoretic Text here and in 23:4, rendering 'Rock of Israel' as 'Guardian from Israel', reading 'Speak a parable' for 'one who rules', and reading 'fear of the anointed' (christou) rather than 'fear of God'.
 - **23:9** — The Greek reads Elhanan (MT: Eleazar) and uses 'the foreigners' (hoi allophyloi), the Septuagint's regular term for the Philistines in 1-2 Kingdoms. At the end of the verse, 'cried out' (aneboesen) differs from MT 'withdrew'.
 - **23:21** — The Greek uniquely describes the Egyptian's spear as 'like the beam of a gangplank' (xylon diabathras) and states that Benaiah went down to him 'with the spear' rather than 'with a club'.
 - **23:25** — Throughout 23:8-38 the Greek preserves numerous distinctive personal and place names (such as Jebosthe, Adinon, Theria, Kadon, Saima the Rudite, Selles, Noere, Esthai, Emasu, and Gelore), omits 23:30 (with surviving elements appearing in 23:29 and 23:37), and in 23:36 translates 'from Zobah' as 'from the army' (apo dynameos).

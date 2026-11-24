@@ -25,7 +25,7 @@
 
 **16:10** And the king said, "What do I have to do with you, sons of Zeruiah? Leave him alone, and let him curse like this, because the Lord told him to curse David; and who will say, 'Why have you done so?'"
 
-**16:11** And David said to Abishai and to all his servants, "Look, my own son who came out from my body seeks my life, and how much more now the son of the Jeminite! Leave him alone to curse, because the Lord has told him to;
+**16:11** And David said to Abishai and to all his servants, "Look, my own son who came out from my body seeks my life, and now in addition the son of the Jeminite! Leave him alone to curse, because the Lord has told him to;
 
 **16:12** perhaps the Lord will look upon my humiliation, and He will return good to me in place of his curse on this day."
 
@@ -37,7 +37,7 @@
 
 **16:16** And it happened when Hushai the Archite, the friend of David, came to Absalom, that Hushai said to Absalom, "Long live the king!"
 
-**16:17** And Absalom said to Hushai, "Is this your kindness toward your friend? Why did you not go with your friend?"
+**16:17** And Absalom said to Hushai, "Is this your mercy toward your friend? Why did you not go with your friend?"
 
 **16:18** And Hushai said to Absalom, "No, but following the one whom the Lord and this people and all the men of Israel have chosen, to him I will belong, and with him I will stay.
 

@@ -47,6 +47,6 @@
 
 - **26:5** — This Greek text reads third-person singular erei ("he will say") rather than second-person "you shall say" as in the Hebrew Masoretic Text, and translates the famous Hebrew phrase ("a wandering Aramean was my father") as "My father abandoned Syria" (Syrian apebalen ho pater mou).
 - **26:8** — The Greek adds "He Himself with His great strength" and renders the Hebrew "great terror" as "great visions" (horamasin megalois), deriving the Hebrew noun from the root "to see" rather than "to fear."
-- **26:12** — Greek to deuteron epidekaton ("the second tithe") differs from the Hebrew Masoretic Text's "the year of the tithe," reflecting early Jewish legal terminology for the triennial tithe distribution.
+- **26:12** — Greek to deuteron epidekaton ("the second tithe") differs from the Hebrew Masoretic Text's "the year of the tithe."
 - **26:14** — Greek ekarpousa ("I have offered," a sacrificial term) renders the Hebrew "removed/consumed," and the text repeats epekousa ("I have obeyed") where the Hebrew Masoretic Text and other Greek witnesses read "I have done."
-- **26:17** — Greek heilou ("you have chosen") and heilato in v. 18 ("He has chosen") represent the Septuagint's interpretation of the rare and debated Hebrew verbal forms (Hiphil of amar, often rendered "declared" or "avouched").
+- **26:17** — Greek heilou ("you have chosen") and heilato in v. 18 ("He has chosen") render a rare Hebrew causative form of amar ("say"), whose sense is debated.

@@ -17,9 +17,9 @@
 
 **8:6** And Moses presented Aaron and his sons, and washed them with water.
 
-**8:7** And he clothed them with the tunic and fastened the sash around them; and he clothed him with the robe and placed the shoulder-piece upon him,
+**8:7** And he clothed them with the tunic and fastened the sash around them; and he clothed him with the robe and placed the shoulder-garment upon him,
 
-**8:8** and he wrapped him according to the workmanship of the shoulder-piece and fastened him tightly with it; and he placed the oracle upon it, and placed the manifestation and the truth upon the oracle.
+**8:8** and he wrapped him according to the workmanship of the shoulder-garment and fastened him tightly with it; and he placed the oracle upon it, and placed the manifestation and the truth upon the oracle.
 
 **8:9** And he placed the turban upon his head, and he placed upon the turban, in front of his face, the golden plate, dedicated as holy, just as the Lord ordered Moses.
 

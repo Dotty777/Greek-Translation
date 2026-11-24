@@ -7,9 +7,9 @@
 
 **28:1** And the Lord spoke to Moses, saying,
 
-**28:2** "Command the sons of Israel, and you shall say to them, 'My gifts, My offerings, My fire-offerings, for an aroma of sweet fragrance, you shall be careful to offer to Me at My feasts.'
+**28:2** "Command the sons of Israel, and you shall say to them, 'My gifts, My offerings, My fire offerings, for an aroma of sweet fragrance, you shall be careful to offer to Me at My feasts.'
 
-**28:3** And you shall say to them, 'These are the fire-offerings which you shall bring to the Lord: two year-old lambs without blemish each day for a whole burnt offering continually;
+**28:3** And you shall say to them, 'These are the fire offerings which you shall bring to the Lord: two year-old lambs without blemish each day for a whole burnt offering continually;
 
 **28:4** the one lamb you shall prepare in the morning, and the second lamb you shall prepare toward evening.
 
@@ -29,7 +29,7 @@
 
 **28:12** three-tenths of fine flour mixed with oil for each young bull, and two-tenths of fine flour mixed with oil for the one ram,
 
-**28:13** one-tenth of fine flour mixed with oil for each lamb, a sacrifice, an aroma of sweet fragrance, a fire-offering to the Lord.
+**28:13** one-tenth of fine flour mixed with oil for each lamb, a sacrifice, an aroma of sweet fragrance, a fire offering to the Lord.
 
 **28:14** Their drink offering shall be one-half of a hin for each young bull, and one-third of a hin shall be for the one ram, and one-fourth of a hin of wine shall be for each lamb; this is the whole burnt offering month by month for the months of the year.
 
@@ -41,7 +41,7 @@
 
 **28:18** And the first day shall be a holy convocation for you; you shall not do any servile work;
 
-**28:19** and you shall bring whole burnt offerings, fire-offerings to the Lord: two young bulls from the cattle, one ram, seven year-old lambs; they shall be without blemish for you;
+**28:19** and you shall bring whole burnt offerings, fire offerings to the Lord: two young bulls from the cattle, one ram, seven year-old lambs; they shall be without blemish for you;
 
 **28:20** and their sacrifice shall be fine flour mixed with oil: three-tenths for each young bull and two-tenths for the one ram,
 
@@ -51,7 +51,7 @@
 
 **28:23** besides the perpetual whole burnt offering of the morning, which is a continual whole burnt offering.
 
-**28:24** You shall prepare these things in the same manner each day for the seven days, a gift, a fire-offering for an aroma of sweet fragrance for the Lord; in addition to the perpetual whole burnt offering you shall prepare its drink offering.
+**28:24** You shall prepare these things in the same manner each day for the seven days, a gift, a fire offering for an aroma of sweet fragrance for the Lord; in addition to the perpetual whole burnt offering you shall prepare its drink offering.
 
 **28:25** And the seventh day shall be a holy convocation for you; you shall not do any servile work on it.
 

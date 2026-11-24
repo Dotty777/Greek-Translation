@@ -47,7 +47,7 @@
 
 **22:21** And if a man offers a sacrifice of deliverance to the Lord, specifying a vow according to freewill choice or at your feasts, from the cattle or from the sheep, it shall be unblemished to be acceptable; there shall be no blemish at all in it.
 
-**22:22** One that is blind, or fractured, or with a cut tongue, or having warts, or having a malignant scab, or having scaly eruptions—these they shall not present to the Lord, and you shall not give any of them for a burnt offering upon the altar to the Lord.
+**22:22** One that is blind, or fractured, or with a cut tongue, or having warts, or having a malignant scab, or having scaly eruptions—these they shall not present to the Lord, and you shall not give any of them for a fire offering upon the altar to the Lord.
 
 **22:23** And a calf or a sheep with a cut ear or with a docked tail, you may make them animals for slaughter for yourself, but for your vow it shall not be accepted.
 

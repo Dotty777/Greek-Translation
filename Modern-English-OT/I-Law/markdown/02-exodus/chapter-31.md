@@ -17,7 +17,7 @@
 
 **31:6** And I have given him and Eliab, the son of Ahisamach, of the tribe of Dan, and to everyone understanding in heart I have given understanding;
 
-**31:7** and they shall make all that I have commanded you: the tent of the testimony, and the ark of the covenant and the mercy seat that is on it, and the furnishings of the tent,
+**31:7** and they shall make all that I have commanded you: the tent of testimony, and the ark of the covenant and the mercy seat that is on it, and the furnishings of the tent,
 
 **31:8** and the altars, and the table and all its utensils, and the pure lampstand and all its utensils,
 

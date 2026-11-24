@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **15:3** — The Greek text consistently refers to the Philistines as allophyloi ("foreigners") throughout Judges.
+- **15:3** — The Greek here calls the Philistines allophyloi ("foreigners"), as through most of the Samson narrative; Judges also uses Phylistieim (e.g., 10:6; 13:1; 14:2).
 - **15:15** — Codex B describes the donkey's jawbone as "cast aside" (ekrerimmenen, discarded), where the Hebrew Masoretic Text reads "fresh."
 - **15:16** — Codex B reads "I utterly wiped them out" (exaleiphon exeleipsa autous), diverging from the Hebrew wordplay "heaps upon heaps."
 - **15:17** — Greek translates the Hebrew place name Ramath-lehi as Anairesis siagonos ("Removal of a Jawbone," also capable of meaning "Destruction of a Jawbone"), paralleling the translation of Lehi as "Jawbone" in vv. 14 and 19 (transcribed Leuei in v. 9).

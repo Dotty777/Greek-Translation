@@ -7,7 +7,7 @@
 
 **10:1** And the foreigners fought against Israel, and they fled from before the foreigners and fell wounded on Mount Gilboa.
 
-**10:2** And the foreigners pursued after Saul and after his sons; and the foreigners struck down Jonathan, and Abinadab, and Malchishua, the sons of Saul.
+**10:2** And the foreigners pursued after Saul and after his sons; and the foreigners struck down Jonathan, and Amminadab, and Malchishua, the sons of Saul.
 
 **10:3** And the battle grew heavy against Saul; and the archers found them with bows and pains, and they suffered pain from the bows.
 
@@ -21,7 +21,7 @@
 
 **10:8** And it happened on the next day that the foreigners came to plunder the wounded, and they found Saul and his sons fallen on Mount Gilboa.
 
-**10:9** And they stripped him, and took his head and his armor, and sent word into the land of the foreigners all around to proclaim the good news to their idols and to the people.
+**10:9** And they stripped him, and took his head and his armor, and sent into the land of the foreigners all around to proclaim the good news to their idols and to the people.
 
 **10:10** And they placed their armor in the house of their god, and they placed his head in the house of Dagon.
 

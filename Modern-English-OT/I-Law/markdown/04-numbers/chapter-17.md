@@ -17,9 +17,9 @@
 
 **17:6** And the sons of Israel grumbled the next day against Moses and Aaron, saying, "You have killed the people of the Lord."
 
-**17:7** And it happened, while the congregation was banding together against Moses and Aaron, that they rushed toward the tent of the testimony; and this one, the cloud covered it, and the glory of the Lord appeared.
+**17:7** And it happened, while the congregation was banding together against Moses and Aaron, that they rushed toward the tent of testimony; and this one, the cloud covered it, and the glory of the Lord appeared.
 
-**17:8** And Moses and Aaron went in before the tent of the testimony;
+**17:8** And Moses and Aaron went in before the tent of testimony;
 
 **17:9** and the Lord spoke to Moses and Aaron, saying,
 
@@ -33,7 +33,7 @@
 
 **17:14** And those who died in the plague were fourteen thousand seven hundred, besides those who died on account of Korah.
 
-**17:15** And Aaron returned to Moses at the door of the tent of the testimony, and the plague ceased.
+**17:15** And Aaron returned to Moses at the door of the tent of testimony, and the plague ceased.
 
 **17:16** And the Lord spoke to Moses, saying,
 
@@ -41,15 +41,15 @@
 
 **17:18** And write the name of Aaron on the staff of Levi; for there is one staff; they will give it according to the tribe of their ancestral house.
 
-**17:19** And you will place them in the tent of the testimony, in front of the testimony, where I will be made known to you there.
+**17:19** And you will place them in the tent of testimony, in front of the testimony, where I will be made known to you there.
 
 **17:20** And it will be that the man whom I choose, his staff will sprout; and I will remove from Myself the grumbling of the sons of Israel, which they grumble against you."
 
 **17:21** And Moses spoke to the sons of Israel; and all their rulers gave him a staff, for the one ruler a staff, ruler by ruler, according to their ancestral houses, twelve staffs; and the staff of Aaron was among their staffs.
 
-**17:22** And Moses deposited the staffs before the Lord in the tent of the testimony.
+**17:22** And Moses deposited the staffs before the Lord in the tent of testimony.
 
-**17:23** And it happened on the next day that Moses and Aaron entered the tent of the testimony, and look, the staff of Aaron for the house of Levi had sprouted, and brought forth a sprout, and bloomed with blossoms, and produced nuts.
+**17:23** And it happened on the next day that Moses and Aaron entered the tent of testimony, and look, the staff of Aaron for the house of Levi had sprouted, and brought forth a sprout, and bloomed with blossoms, and produced nuts.
 
 **17:24** And Moses brought out all the staffs from the presence of the Lord to all the sons of Israel; and they saw, and each one took his staff.
 

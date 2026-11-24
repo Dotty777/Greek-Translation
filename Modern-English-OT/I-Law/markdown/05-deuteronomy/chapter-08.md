@@ -25,7 +25,7 @@
 
 **8:10** And you will eat and be filled, and you will bless the Lord your God on the good land that He gave you.
 
-**8:11** Watch yourself so that you do not forget the Lord your God by not keeping His commandments and the judgments and His ordinances, all that I command you today;
+**8:11** Watch yourself so that you do not forget the Lord your God by not keeping His commandments and the judgments and His statutes, all that I command you today;
 
 **8:12** so that, when you have eaten and been filled, and have built fine houses and lived in them,
 

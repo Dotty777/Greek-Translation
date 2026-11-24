@@ -51,7 +51,7 @@
 
 **13:23** And it happened after two years of days that there were shearers for Absalom in Baal-hazor, which is near Ephraim, and Absalom invited all the king's sons.
 
-**13:24** And Absalom came to the king and said, "See now, they are shearing for your servant; please let the king and his attendants go with your servant."
+**13:24** And Absalom came to the king and said, "See now, they are shearing for your servant; please let the king and his servants go with your servant."
 
 **13:25** And the king said to Absalom, "No, please, my son, let not all of us go, and we will certainly not become a burden on you." And he pressed him, yet he was not willing to go, and he blessed him.
 
@@ -65,7 +65,7 @@
 
 **13:30** And it happened while they were on the way that the report came to David, saying, "Absalom has struck down all the king's sons, and not even one of them has been left."
 
-**13:31** And the king arose and tore his garments and lay down on the ground, and all his attendants who were standing around him tore their garments.
+**13:31** And the king arose and tore his garments and lay down on the ground, and all his servants who were standing around him tore their garments.
 
 **13:32** And Jonadab son of Shammah, David's brother, answered and said, "Let not my lord the king say that he has put to death all the young men, the king's sons, for Amnon alone has died; for by the mouth of Absalom he was appointed from the day he humiliated Tamar his sister.
 
@@ -75,7 +75,7 @@
 
 **13:35** And Jonadab said to the king, "Look, the king's sons are here; according to the word of your servant, so it has happened."
 
-**13:36** And it happened when he finished speaking that, look, the king's sons came, and they lifted up their voice and wept; and indeed the king and all his attendants wept with a great weeping.
+**13:36** And it happened when he finished speaking that, look, the king's sons came, and they lifted up their voice and wept; and indeed the king and all his servants wept with a great weeping.
 
 **13:37** Now Absalom fled and went to Tholmailem son of Ammihud, king of Geshur, to Machad. And King David mourned for his son all the days.
 

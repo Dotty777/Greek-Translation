@@ -39,7 +39,7 @@
 
 **16:17** each one according to the ability of your hands, according to the blessing of the Lord your God that He has given you.
 
-**16:18** You shall appoint judges and court clerks for yourself in your cities that the Lord your God is giving you, tribe by tribe, and they shall judge the people with righteous judgment.
+**16:18** You shall appoint judges and recorders for yourself in your cities that the Lord your God is giving you, tribe by tribe, and they shall judge the people with righteous judgment.
 
 **16:19** They shall not show partiality, nor shall they accept a bribe; for bribes blind the eyes of the wise and will remove the words of the righteous.
 

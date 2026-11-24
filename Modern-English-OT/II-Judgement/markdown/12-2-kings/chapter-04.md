@@ -63,7 +63,7 @@
 
 **4:29** And Elisha said to Gehazi, "Gird your waist and take my staff in your hand and go. For if you find a man, you shall not bless him; and if a man blesses you, you shall not answer him. And you shall place my staff upon the face of the boy."
 
-**4:30** And the mother of the boy said, "As the Lord lives and as your soul lives, I will certainly not leave you." And Elisha rose up and went after her.
+**4:30** And the mother of the boy said, "As the Lord lives and as your soul lives, I will not abandon you." And Elisha rose up and went after her.
 
 **4:31** And Gehazi passed on ahead of her and placed the staff upon the face of the boy, and there was no voice and there was no hearing. And he returned to meet him and reported to him, saying, "The boy has not awakened."
 

@@ -39,9 +39,9 @@
 
 **16:17** and each of you take his censer, and you will put incense on them, and each of you will bring his censer before the Lord, two hundred and fifty censers, and you and Aaron, each his censer."
 
-**16:18** And each one took his censer, and they put fire on them, and laid incense on it; and Moses and Aaron stood by the doors of the tent of the testimony.
+**16:18** And each one took his censer, and they put fire on them, and laid incense on it; and Moses and Aaron stood by the doors of the tent of testimony.
 
-**16:19** And Korah assembled all his congregation against them by the door of the tent of the testimony; and the glory of the Lord appeared to all the congregation.
+**16:19** And Korah assembled all his congregation against them by the door of the tent of testimony; and the glory of the Lord appeared to all the congregation.
 
 **16:20** And the Lord spoke to Moses and Aaron, saying,
 

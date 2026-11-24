@@ -67,5 +67,5 @@
 
 - **22:1** — The Septuagint consistently renders Hebrew shor ("ox") as moschos ("calf") in 22:1, 4, 10, and here includes "on the road" and "and return them to him" beyond the Hebrew Masoretic Text.
 - **22:9** — Greek diphoron literally means "double-yielding" (bearing two crops), translating Hebrew kilayim ("two kinds"); hagiasthē ("be consecrated") indicates forfeiture to the sanctuary.
-- **22:21** — The Greek omits "of the house" after "her father" and "the men of her city" before "shall stone her" (both in the Hebrew MT), and uses masculine singular ton ponēron ("the evil person," echoed in 1 Cor 5:13) here and in 22:22, 24 rather than an abstract neuter "evil."
+- **22:21** — The Greek omits "of the house" after "her father" and "the men of her city" before "shall stone her" (both in the Hebrew MT), and uses masculine singular ton ponēron ("the evil person," echoed in 1 Cor 5:13) here and in 22:22, 24.
 - **22:29** — The Septuagint uses the Greek silver coin didrachma ("fifty didrachmas of silver") here, whereas 22:19 uses the transliterated siklous ("one hundred shekels").

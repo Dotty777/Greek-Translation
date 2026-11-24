@@ -15,7 +15,7 @@
 
 **9:5** And he went in, and look, the commanders of the army were sitting there. And he said, "I have a word for you, commander." And Jehu said, "For which one of all of us?" And he said, "For you, commander."
 
-**9:6** And he rose and went into the house, and he poured the oil on his head and said to him, "Thus says the Lord, the God of Israel: 'I have anointed you as king over the people of the Lord, over Israel.
+**9:6** And he rose and went into the house, and he poured the oil on his head and said to him, "Thus says the Lord God of Israel: 'I have anointed you as king over the people of the Lord, over Israel.
 
 **9:7** And you will destroy the house of Ahab your master from before your face, and you will avenge the blood of My servants the prophets and the blood of all the servants of the Lord from the hand of Jezebel
 

@@ -21,7 +21,7 @@
 
 **21:8** And they said, "Which one from the tribes of Israel did not go up to the Lord, to Mizpah?" And look, no man had come to the camp from Jabesh-gilead, to the assembly.
 
-**21:9** And the people were inspected, and there was not a man there from the inhabitants of Jabesh-gilead.
+**21:9** And the people were mustered, and there was not a man there from the inhabitants of Jabesh-gilead.
 
 **21:10** And the congregation sent twelve thousand men there from the sons of might, and commanded them, saying, "Go and strike the inhabitants of Jabesh-gilead with the edge of the sword.
 

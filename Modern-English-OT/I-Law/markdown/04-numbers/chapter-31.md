@@ -111,7 +111,7 @@
 
 **31:53** And the fighting men plundered, each for himself.
 
-**31:54** And Moses and Eleazar the priest took the gold from the commanders of thousands and from the commanders of hundreds, and brought it into the tent of the testimony, a memorial of the sons of Israel before the Lord.
+**31:54** And Moses and Eleazar the priest took the gold from the commanders of thousands and from the commanders of hundreds, and brought it into the tent of testimony, a memorial of the sons of Israel before the Lord.
 
 ## Translator Notes
 

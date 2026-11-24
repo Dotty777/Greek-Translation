@@ -25,9 +25,9 @@
 
 **7:10** and who repays those who hate to their face, to utterly destroy them; and He will not delay toward those who hate; to their face He will repay them.
 
-**7:11** And you shall keep His commandments and His ordinances and His judgments, all that I command you today to do.
+**7:11** And you shall keep His commandments and His statutes and His judgments, all that I command you today to do.
 
-**7:12** And it will be, if you listen to these ordinances and keep and do them, that the Lord your God will faithfully keep for you the covenant and the mercy that He swore to your fathers;
+**7:12** And it will be, if you listen to these statutes and keep and do them, that the Lord your God will faithfully keep for you the covenant and the mercy that He swore to your fathers;
 
 **7:13** and the Lord will love you and bless you and multiply you, and He will bless the offspring of your womb and the fruit of your land, your grain and your wine and your oil, the herds of your cattle and the flocks of your sheep, on the land, as the Lord swore to your fathers to give to you.
 

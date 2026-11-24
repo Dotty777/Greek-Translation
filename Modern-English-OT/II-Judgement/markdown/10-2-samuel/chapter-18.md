@@ -27,7 +27,7 @@
 
 **18:11** And Joab said to the man reporting it, "And look, you have seen him! Why did you not strike him to the ground? And I would have given you ten pieces of silver and one belt."
 
-**18:12** But the man said to Joab, "Even if I were weighing out a thousand shekels of silver into my hands, I would by no means lay my hand on the king's son; for in our ears the king commanded you and Abishai and Ittai, saying, 'Guard for me the young man Absalom,
+**18:12** But the man said to Joab, "Though I am weighing out a thousand shekels of silver into my hands, I will by no means lay my hand on the king's son; for in our ears the king commanded you and Abishai and Ittai, saying, 'Guard for me the young man Absalom,
 
 **18:13** so as not to do wrong against his life.' And no matter will be hidden from the king, and you yourself will stand in opposition."
 

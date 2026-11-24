@@ -13,9 +13,9 @@
 
 **5:4** For he was ruler beyond the river, and he had peace from all sides all around.
 
-**5:9** And the Lord gave understanding to Solomon, and exceedingly great wisdom, and vastness of heart like the sand beside the sea.
+**5:9** And the Lord gave discernment to Solomon, and exceedingly great wisdom, and vastness of heart like the sand beside the sea.
 
-**5:10** And Solomon abounded exceedingly beyond the understanding of all ancient men and beyond all the discerning men of Egypt.
+**5:10** And Solomon abounded exceedingly beyond the discernment of all ancient men and beyond all the discerning men of Egypt.
 
 **5:11** And he was wiser than all men, and he was wiser than Gaithan the Zareite, and Ainan, and Chalkad, and Darala, son of Mal.
 
@@ -25,7 +25,7 @@
 
 **5:14** And all the peoples came to hear the wisdom of Solomon, and from all the kings of the earth, as many as heard of his wisdom. And Solomon took the daughter of Pharaoh for himself as a wife, and brought her into the city of David until he completed the house of the Lord, and his own house, and the wall of Jerusalem. When Pharaoh king of Egypt went up, he captured Gezer beforehand and burned it with fire, and the Canaanite dwelling in Mergab; and Pharaoh gave them as parting gifts to his daughter, Solomon's wife.
 
-**5:15** And Hiram king of Tyre sent his servants to anoint Solomon in place of David his father, because Hiram continually loved David all the days.
+**5:15** And Hiram king of Tyre sent his servants to anoint Solomon in place of David his father, because Hiram loved David all the days.
 
 **5:16** And Solomon sent to Hiram, saying,
 

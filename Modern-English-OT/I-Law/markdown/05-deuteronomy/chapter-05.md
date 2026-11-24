@@ -31,7 +31,7 @@
 
 **5:13** Six days you shall labor and do all your works,
 
-**5:14** but on the seventh day is a Sabbath to the Lord your God; you shall not do any work on it—you and your sons and your daughter, your male servant and your female servant, your ox and your draft animal and all your livestock, the stranger who resides among you; for in six days the Lord made both heaven and earth, and the sea, and all that is in them; so that your male servant and your female servant may rest just as you do.
+**5:14** but on the seventh day is a Sabbath to the Lord your God; you shall not do any work on it—you and your sons and your daughter, your male servant and your female servant, your ox and your draft animal and all your livestock, the resident alien who lives among you; for in six days the Lord made both heaven and earth, and the sea, and all that is in them; so that your male servant and your female servant may rest just as you do.
 
 **5:15** And you shall remember that you were a household servant in the land of Egypt, and the Lord your God led you out from there with a mighty hand and with an uplifted arm; for this reason the Lord your God ordered you to keep the Sabbath day and to sanctify it.
 
@@ -47,7 +47,7 @@
 
 **5:21** You shall not covet the wife of your neighbor; you shall not covet the house of your neighbor, nor his field, nor his male servant, nor his female servant, nor his ox, nor his draft animal, nor any of his livestock, nor anything that belongs to your neighbor.'
 
-**5:22** These words the Lord spoke to all your assembly on the mountain out of the midst of the fire—darkness, gloom, tempest, a great voice—and He added no more; and He wrote them on two tablets and gave them to me.
+**5:22** These words the Lord spoke to all your assembly on the mountain out of the midst of the fire—darkness, gloom, storm, a loud voice—and He added no more; and He wrote them on two tablets and gave them to me.
 
 **5:23** And it happened, when you heard the voice out of the midst of the fire, and the mountain was burning with fire, that you approached me, all the leaders of your tribes and your council of elders;
 

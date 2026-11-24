@@ -9,7 +9,7 @@
 
 **7:2** the son of a widowed woman, and he was from the tribe of Naphtali, and his father was a Tyrian man, a craftsman of bronze and filled with skill and understanding and knowledge to do every work in bronze. And he was brought in to King Solomon, and he did all the works.
 
-**7:3** And he cast the portico of the house: eighteen cubits was the height of the pillar, and a circumference of fourteen cubits encircled it, the thickness of the pillar; the hollows were four fingers; and thus was the second pillar.
+**7:3** And he cast the ailam of the house: eighteen cubits was the height of the pillar, and a circumference of fourteen cubits encircled it, the thickness of the pillar; the hollows were four fingers; and thus was the second pillar.
 
 **7:4** And he made two cast capitals to put on the tops of the pillars; five cubits was the height of the one capital.
 
@@ -107,7 +107,7 @@
 
 ## Translator Notes
 
-- **7:3** — The Greek reads "the portico" (transliterating Hebrew ulam as ailam) where the Hebrew Masoretic Text mentions casting the two bronze pillars, and gives the pillar's circumference as fourteen cubits rather than twelve.
+- **7:3** — The Greek reads "the ailam" (transliterating Hebrew ulam, the porch) where the Hebrew Masoretic Text mentions casting the two bronze pillars, and gives the pillar's circumference as fourteen cubits rather than twelve.
 - **7:7** — The Greek preserves the distinct pillar names Jachum (Iachoum) and Balaz (Balaz), corresponding to Jachin and Boaz in the Hebrew Masoretic Text.
 - **7:10** — The Greek uniquely reads "from its wall to its brim" (compared to "from brim to brim" in Hebrew) and gives the measurement as thirty-three cubits "gathered together" rather than a thirty-cubit measuring line.
 - **7:33** — Seira is the Septuagint's distinct proper name for the site called Zarethan in the Hebrew Masoretic Text.

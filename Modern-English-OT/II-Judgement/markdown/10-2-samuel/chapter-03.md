@@ -37,7 +37,7 @@
 
 **3:16** And her husband went with her, weeping behind her as far as Baraki; and Abner said to him, "Go, turn back." And he turned back.
 
-**3:17** And Abner spoke to the elders of Israel, saying, "In earlier times you were seeking David to reign over you.
+**3:17** And Abner spoke to the elders of Israel, saying, "Yesterday and the day before you were seeking David to reign over you.
 
 **3:18** And now do it, for the Lord spoke concerning David, saying, 'By the hand of My servant David I will save Israel from the hand of foreigners and from the hand of all their enemies.'"
 

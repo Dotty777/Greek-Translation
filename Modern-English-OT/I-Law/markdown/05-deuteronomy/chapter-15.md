@@ -13,7 +13,7 @@
 
 **15:4** because there will be no needy person among you, for the Lord your God will surely bless you in the land that the Lord your God is giving you as an inheritance for you to possess,
 
-**15:5** if only you diligently listen to the voice of the Lord your God, to keep and to do all these commandments that I command you today.
+**15:5** if you diligently listen to the voice of the Lord your God, to keep and to do all these commandments that I command you today.
 
 **15:6** For the Lord your God has blessed you just as He spoke to you, and you will lend to many nations, yet you will not borrow; and you will rule over many nations, yet they will not rule over you.
 
@@ -33,11 +33,11 @@
 
 **15:14** you shall surely supply him with provisions from your sheep and from your grain and from your wine; just as the Lord your God has blessed you, you shall give to him.
 
-**15:15** And you shall remember that you were a slave in the land of Egypt, and the Lord your God redeemed you from there; therefore I command you to do this thing.
+**15:15** And you shall remember that you were a household servant in the land of Egypt, and the Lord your God redeemed you from there; therefore I command you to do this thing.
 
 **15:16** Now if he says to you, "I will not go out from you," because he has loved you and your household, because it is well for him with you,
 
-**15:17** then you shall take the awl and pierce his ear against the door, and he shall be your slave forever; and to your female slave you shall do likewise.
+**15:17** then you shall take the awl and pierce his ear against the door, and he shall be your household servant forever; and to your female servant you shall do likewise.
 
 **15:18** It shall not be hard before you when they are sent away free from you, because he served you six years for the annual wage of a hired worker; and the Lord your God will bless you in all that you do.
 
@@ -55,4 +55,4 @@
 
 - **15:7** — The rare Greek verb apostergo ('turn away affection / cease to love') is used here instead of the Hebrew idiom 'harden your heart'.
 - **15:10** — The Greek repeats the lending command from v. 8 ('you shall surely lend him a loan... according to what he lacks'), which does not appear in v. 10 of the Hebrew Masoretic Text.
-- **15:18** — The Greek reads 'the annual wage' (ephetion misthon) rather than 'double the wage' of the Hebrew Masoretic Text, reflecting a different vocalization of the Hebrew root, and uses a plural passive participle ('when they are sent away free') encompassing both male and female slaves.
+- **15:18** — The Greek reads "the annual wage" (ephetion misthon) rather than "double the wage" of the Hebrew Masoretic Text, and uses a plural passive participle ("when they are sent away free") encompassing both male and female servants.

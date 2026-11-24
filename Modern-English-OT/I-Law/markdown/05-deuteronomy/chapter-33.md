@@ -23,7 +23,7 @@
 
 **33:9** Saying to his father and to his mother, 'I have not seen you,' he also did not recognize his brothers, and he disowned his sons; he guarded Your oracles, and preserved Your covenant.
 
-**33:10** They will make known Your ordinances to Jacob, and Your law to Israel; they will place incense in Your wrath continually upon Your altar.
+**33:10** They will make known Your statutes to Jacob, and Your law to Israel; they will place incense in Your wrath continually upon Your altar.
 
 **33:11** Bless, Lord, his strength, and accept the works of his hands; shatter the loins of enemies who have risen up against him, and let those who hate him not rise."
 
@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **33:2** — Greek reads "Kadesh" (transliterating the Hebrew word for "holy ones") and "angels with Him" where the Hebrew Masoretic Text has a difficult phrase often rendered "a fiery law for them."
+- **33:2** — Greek reads "Kadesh" (transliterating the Hebrew word for "holy ones") and "angels with Him" where the Hebrew Masoretic Text has a difficult phrase, read as "a fiery law for them."
 - **33:5** — "The beloved one" translates the Septuagint rendering of the poetic name Jeshurun for Israel (also in 33:26), and Greek reads "ruler" rather than "king."
 - **33:8** — Greek renders Hebrew Urim and Thummim as "manifestations" and "truth," and translates the place names Massah and Meribah as "Testing" and "Contention."
 - **33:10** — Greek translates the Hebrew word meaning either "nostrils" or "anger" as "in Your wrath" and renders the term for "whole burnt offering" as "continually."

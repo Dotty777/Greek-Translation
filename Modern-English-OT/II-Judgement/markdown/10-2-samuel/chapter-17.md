@@ -23,9 +23,9 @@
 
 **17:9** For look, he is now hidden in one of the hills or in one of the places; and it will happen, when he falls upon them at the start, that whoever hears of it will say, 'There has been a slaughter among the people who follow Absalom,'
 
-**17:10** then even the man of might, whose heart is like the heart of a lion, will completely melt; for all Israel knows that your father is a mighty man, and those who are with him are men of might.
+**17:10** then even he, a son of strength, whose heart is like the heart of a lion, will completely melt; for all Israel knows that your father is a mighty man, and those who are with him are sons of strength.
 
-**17:11** Therefore this is what I myself firmly counsel: let all Israel surely be gathered to you, from Dan even to Beersheba, like the sand that is by the sea in multitude, and your own presence going in their midst;
+**17:11** For thus I myself firmly counsel: all Israel will surely be gathered to you, from Dan even to Beersheba, like the sand that is by the sea in multitude, and your own presence going in their midst;
 
 **17:12** and we will come to him in one of the places where we may find him, and we will encamp upon him as the dew falls on the earth, and of him and the men who are with him we will not leave even one.
 

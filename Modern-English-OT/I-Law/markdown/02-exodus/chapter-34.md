@@ -80,4 +80,4 @@
 - **34:18** — "Month of new things" translates Greek menì ton neon (referring to new crops or produce), the Septuagint rendering of the Hebrew month name Abib.
 - **34:20** — "You shall pay a price" reflects the Septuagint reading (timen doseis), whereas the Hebrew Masoretic Text reads "you shall break its neck."
 - **34:26** — "You shall not offer a lamb" reflects the Septuagint wording (ou prosoiseis arna), whereas the Hebrew Masoretic Text reads "you shall not boil a young goat."
-- **34:29** — "Had been glorified" (dedoxastai) translates the Septuagint rendering for the radiance of Moses's face (later echoed in 2 Corinthians 3:7-11), where the Hebrew verb denotes shining or sending out rays.
+- **34:29** — "Had been glorified" (dedoxastai) is the Septuagint's wording for the radiance of Moses's face, where the Hebrew verb denotes shining or sending out rays.

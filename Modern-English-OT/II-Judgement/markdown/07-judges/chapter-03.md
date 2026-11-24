@@ -19,7 +19,7 @@
 
 **3:7** And the sons of Israel did what was evil before the Lord, and they forgot the Lord their God, and they served the Baals and the groves.
 
-**3:8** And the Lord was angry with fury against Israel, and He sold them into the hand of Cushan-rishathaim, king of the rivers of Syria. And the sons of Israel served Cushan-rishathaim eight years.
+**3:8** And the Lord became angry with wrath against Israel, and He sold them into the hand of Cushan-rishathaim, king of the rivers of Syria. And the sons of Israel served Cushan-rishathaim eight years.
 
 **3:9** And the sons of Israel cried out to the Lord, and the Lord raised up a savior for Israel, and he saved them: Othniel the son of Kenaz, Caleb's brother, who was younger than him.
 
@@ -29,7 +29,7 @@
 
 **3:12** And the sons of Israel again did what was evil before the Lord; and the Lord strengthened Eglon, king of Moab, against Israel, because they had done what was evil before the Lord.
 
-**3:13** And he gathered to himself all the sons of Ammon and Amalek, and he went and struck Israel, and he took possession of the city of palm trees.
+**3:13** And he gathered to himself all the sons of Ammon and Amalek, and he went and struck Israel, and he took possession of the City of Palms.
 
 **3:14** And the sons of Israel served Eglon, king of Moab, eighteen years.
 

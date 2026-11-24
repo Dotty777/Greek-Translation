@@ -9,7 +9,7 @@
 
 **10:2** of hammered silver you shall make them for yourself. And they will be for you to summon the congregation and to move out the camps.
 
-**10:3** And you shall blow on them, and all the congregation will be gathered to the doorway of the tent of the testimony;
+**10:3** And you shall blow on them, and all the congregation will be gathered to the doorway of the tent of testimony;
 
 **10:4** but if they blow on one, all the rulers, the leaders of Israel, will come to you.
 
@@ -25,7 +25,7 @@
 
 **10:10** And in the days of your gladness, and at your feasts, and at your new moons, you shall blow the trumpets over the whole burnt offerings and over the sacrifices of your deliverance, and it will be a remembrance for you before your God; I am the Lord your God."
 
-**10:11** And it happened in the second year, in the second month, on the twentieth of the month, that the cloud went up from the tent of the testimony,
+**10:11** And it happened in the second year, in the second month, on the twentieth of the month, that the cloud went up from the tent of testimony,
 
 **10:12** and the sons of Israel set out with their baggage in the wilderness of Sinai; and the cloud stood still in the wilderness of Paran.
 

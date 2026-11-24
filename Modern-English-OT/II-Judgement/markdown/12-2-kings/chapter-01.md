@@ -39,7 +39,7 @@
 
 **1:17** And he died according to the word of the Lord that Elijah spoke.
 
-**1:18** And the rest of the deeds of Ahaziah that he did, look, are these not written in the book of the records of the days for the kings of Israel? And Joram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Jehoshaphat king of Judah. And he did what was evil before the Lord, yet not like his brothers nor like his mother; and he sent away the pillars of Baal that his father had made and shattered them; yet he clung to the sins of the house of Jeroboam, who caused Israel to sin; he did not turn away from them. And the Lord became angry with wrath against the house of Ahab.
+**1:18** And the rest of the matters of Ahaziah that he did, look, are these not written in the book of the words of the days of the kings of Israel? And Joram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Jehoshaphat king of Judah. And he did what was evil before the Lord, yet not like his brothers nor like his mother; and he sent away the pillars of Baal that his father had made and shattered them; yet he clung to the sins of the house of Jeroboam, who caused Israel to sin; he did not turn away from them. And the Lord became angry with wrath against the house of Ahab.
 
 ## Translator Notes
 

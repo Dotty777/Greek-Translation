@@ -99,7 +99,7 @@
 
 **4:47** And they inherited his land and the land of Gog, king of Bashan, two kings of the Amorites who were beyond the Jordan toward the rising of the sun;
 
-**4:48** from Aroer, which is on the edge of the torrent of Arnon, and up to Mount Seon, which is Hermon,
+**4:48** from Aroer, which is on the bank of the brook Arnon, and up to Mount Seon, which is Hermon,
 
 **4:49** all the Arabah beyond the Jordan toward the rising of the sun, from Ashdoth the hewn.
 

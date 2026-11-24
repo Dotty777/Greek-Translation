@@ -17,7 +17,7 @@
 
 **24:6** You must not take a millstone or an upper millstone as a pledge, for that person takes a life as a pledge.
 
-**24:7** Now if a man is caught stealing a person from his brothers, the sons of Israel, and after overpowering him sells him, that thief must die; and you will remove the evil one from among yourselves.
+**24:7** Now if a man is caught stealing a person from his brothers, the sons of Israel, and after overpowering him sells him, that thief must die; and you will remove the evil person from among yourselves.
 
 **24:8** Watch yourself regarding the plague of leprosy; be very careful to act according to all the law that the priests, the Levites, declare to you; in the way I commanded you, be careful to act.
 
@@ -53,5 +53,5 @@
 
 - **24:3** — The Greek text reads "and" (kai) rather than "or if" as in the Hebrew Masoretic Text and some Greek manuscripts, joining the second divorce and the second husband's death with a conjunctive link.
 - **24:10** — The Greek text reads "and you go into his house" (kai eiseleuse) without a negative particle, treating the clause as part of the condition leading into v. 11's command to stand outside; the Hebrew Masoretic Text and other Greek manuscripts prohibit entering ("you shall not go into his house").
-- **24:13** — Greek eleemosyne ("mercy" or "charitable deed") renders the Hebrew term usually translated "righteousness" (tsedaqah), reflecting Septuagint usage linking covenantal righteousness with concrete acts of mercy.
+- **24:13** — Greek eleemosyne ("mercy" or "charitable deed") renders Hebrew tsedaqah ("righteousness").
 - **24:17** — This Greek text ends after "a widow," and v. 18 begins directly with "because," lacking the prohibition against taking a widow's garment in pledge and the opening "and you shall remember" found in the Hebrew Masoretic Text and other Greek witnesses.

@@ -19,7 +19,7 @@
 
 **17:7** And the hand of the witnesses shall be against him first to put him to death, and the hand of the people afterward; and you shall remove the evil person from among yourselves.
 
-**17:8** Now if a matter in judgment is too difficult for you—between blood and blood, and between judgment and judgment, and between affliction and affliction, and between dispute and dispute, matters of judgment in your cities—then you shall arise and go up to the place that the Lord your God chooses there,
+**17:8** Now if a matter in judgment is too difficult for you—between blood and blood, and between judgment and judgment, and between assault and assault, and between dispute and dispute, matters of judgment in your cities—then you shall arise and go up to the place that the Lord your God chooses there,
 
 **17:9** and you shall come to the judge who arises in those days, and they will inquire and declare the judgment to you.
 
@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **17:3** — Greek tou kosmou tou ouranou ("the array of heaven") renders Hebrew "host of heaven," and LXX reads third-person "which He did not command" (ou prosetaxen) rather than MT's first-person "which I did not command."
-- **17:7** — LXX reads masculine ton poneron ("the evil person," also in v. 12 and quoted in 1 Cor 5:13) rather than neuter "the evil" as in MT.
+- **17:7** — LXX reads masculine ton poneron ("the evil person," also in v. 12 and quoted in 1 Cor 5:13), where MT has the ambiguous "the evil."
 - **17:9** — Following Codex Vaticanus, the Greek text mentions only "the judge" here (omitting the Levitical priests found in MT and other Greek witnesses), though the following verbs remain plural and the priest appears in v. 12.
 - **17:14** — Throughout vv. 14-20, LXX uses archon ("ruler") and arche ("rule") rather than basileus ("king") and "throne/kingdom" as in MT.
 - **17:18** — Greek to deuteronomion touto ("this second law") translates Hebrew mishneh hattorah hazzot ("a copy of this law") and is the source of the book's English title, Deuteronomy.

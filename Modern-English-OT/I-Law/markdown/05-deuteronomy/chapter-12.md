@@ -39,7 +39,7 @@
 
 **12:17** You may not eat in your cities the tithe of your grain and of your wine and of your oil, the firstborn of your cattle, and all vows that you vow, and your pledged offerings, and the firstfruits of your hands;
 
-**12:18** rather, before the Lord your God you shall eat it in the place that the Lord your God chooses for Himself, you and your son and your daughter, your male servant and your female servant, and the proselyte who is in your cities; and you shall rejoice before the Lord your God in everything to which you put your hand.
+**12:18** rather, before the Lord your God you shall eat it in the place that the Lord your God chooses for Himself, you and your son and your daughter, your male servant and your female servant, and the resident alien who is in your cities; and you shall rejoice before the Lord your God in everything to which you put your hand.
 
 **12:19** Watch yourself that you do not forsake the Levite all the time that you live on the land.
 
@@ -71,6 +71,6 @@
 
 - **12:3** — Compared with the Hebrew MT, the Greek reverses the verbs for sacred groves ("cut down") and carved images ("burn with fire"), and ends intransitively with "their name will perish."
 - **12:5** — The Greek specifies "in one of your cities" (MT: "out of all your tribes"), and v. 6 follows a shorter Greek text mentioning only burnt offerings, pledged offerings (ὁμολογίας), and the firstborn of cattle and sheep.
-- **12:18** — The Greek reads "the proselyte" (ὁ προσήλυτος, resident alien/convert) "in your cities," where the Hebrew MT has "the Levite who is within your gates."
+- **12:18** — The Greek reads "the resident alien" (ὁ προσήλυτος) "in your cities," where the Hebrew MT has "the Levite who is within your gates."
 - **12:23** — Greek ψυχή ("soul/life") here carries the sense "life"; the Greek also adds "its" before "blood" and states the prohibition passively ("the life shall not be eaten with the meat").
 - **12:27** — The Greek text here is markedly shorter than the Hebrew MT, omitting the clauses concerning the altar and the pouring out of the blood of sacrifices.
