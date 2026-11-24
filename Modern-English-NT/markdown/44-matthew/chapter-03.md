@@ -1,6 +1,6 @@
 # Matthew 3 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (17 verses, 3 translator notes)  
+> **Status:** `draft: true` (17 verses, 2 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -23,7 +23,7 @@
 
 **3:9** and do not presume to say within yourselves, 'We have Abraham as our father,' for I tell you that God is able from these stones to raise up children for Abraham.
 
-**3:10** Already indeed the ax lies at the root of the trees; every tree, therefore, that does not produce good fruit is cut down and cast into the fire.
+**3:10** And already the ax lies at the root of the trees; every tree, therefore, that does not produce good fruit is cut down and cast into the fire.
 
 **3:11** I indeed baptize you in water for repentance, yet He who comes after me is stronger than I, whose sandals I am not worthy to carry; He Himself will baptize you in the Holy Spirit and fire.
 
@@ -31,7 +31,7 @@
 
 **3:13** Then Jesus arrived from Galilee at the Jordan to John in order to be baptized by him.
 
-**3:14** But John was trying to hinder Him, saying, "I have need to be baptized by You, and You are coming to me?"
+**3:14** But he was trying to hinder Him, saying, "I have need to be baptized by You, and You are coming to me?"
 
 **3:15** But answering, Jesus said to him, "Allow it for now, for in this way it is proper for us to fulfill all righteousness." Then he allowed Him.
 
@@ -42,5 +42,4 @@
 ## Translator Notes
 
 - **3:11** — The preposition "in" ("in water," "in the Holy Spirit and fire") can also be rendered instrumentally as "with"; "fire" is variously taken to signify purifying refinement or eschatological judgment (compare 3:10, 12).
-- **3:15** — "Fulfill all righteousness" refers to carrying out God's saving will and covenant plan in full, here through Jesus' solidarity with John's baptism.
 - **3:16** — The critical Greek text reads simply "the heavens were opened," without the addition "to Him" found in some manuscripts.

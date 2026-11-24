@@ -49,13 +49,13 @@
 
 **17:22** Then Paul stood in the midst of the Areopagus and said, "Men of Athens, I observe that in every respect you are very religious;
 
-**17:23** for while passing through and closely observing your objects of worship, I also found an altar on which had been inscribed, 'To an Unknown God.' What therefore you worship in ignorance, this I proclaim to you.
+**17:23** for while passing through and closely observing your objects of worship, I also found an altar on which had been inscribed, 'To an unknown god.' What therefore you worship in ignorance, this I proclaim to you.
 
 **17:24** The God who made the world and everything in it, since He is Lord of heaven and earth, does not dwell in temples made with hands,
 
 **17:25** nor is He served by human hands, as though He needed anything, since He Himself gives to all life and breath and all things.
 
-**17:26** And He made from one man every nation of mankind to live on the entire face of the earth, having determined their appointed times and the boundaries of their habitation,
+**17:26** And He made from one every nation of mankind to live on the entire face of the earth, having determined their appointed times and the boundaries of their habitation,
 
 **17:27** so that they would seek God, if perhaps they might grope for Him and find Him, though indeed He is not far from each one of us;
 
@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **17:6** — "City officials" translates Greek politarchas (politarchs), a civic title confirmed by inscriptions specifically for the magistrates of Thessalonica.
+- **17:6** — "City officials" translates Greek politarchas (politarchs), the title of the city's magistrates.
 - **17:18** — "Babbler" translates spermologos (literally "seed-picker"), Athenian slang for a scavenger of stray ideas. "Foreign deities" (xenon daimonion) reflects classical Greek usage for divine beings rather than evil spirits.
-- **17:22** — Greek deisidaimonesterous is an ambiguous comparative ranging from "very religious" to "rather superstitious," allowing Paul a diplomatic opening before critiquing Athenian idolatry.
-- **17:26** — Literally "from one" (ex henos), understood as one man (Adam); some later manuscripts add "blood" (haimatos).
+- **17:22** — Greek deisidaimonesterous is an ambiguous comparative ranging from "very religious" to "rather superstitious."
+- **17:26** — Greek ex henos, "from one," is usually understood as one man; some later manuscripts add "blood" (haimatos).

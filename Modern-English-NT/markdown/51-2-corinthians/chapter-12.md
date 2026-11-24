@@ -27,7 +27,7 @@
 
 **12:11** I have become foolish; you forced me to it! For I ought to have been commended by you. For I fell short in nothing compared to the super-apostles, even though I am nothing;
 
-**12:12** indeed, the signs of an apostle were carried out among you with all perseverance, by signs and wonders and works of power.
+**12:12** indeed, the signs of an apostle were carried out among you with all endurance, by signs and wonders and works of power.
 
 **12:13** For in what respect were you treated as inferior to the rest of the churches, except that I myself was not a burden to you? Forgive me this wrong!
 
@@ -43,7 +43,7 @@
 
 **12:19** Have you been thinking all this time that we are defending ourselves to you? Before God in Christ we speak. And all things, beloved, are for your building up,
 
-**12:20** for I fear that somehow when I come I may not find you such as I wish, and I may be found by you such as you do not wish—that somehow there may be strife, jealousy, outbursts of anger, selfish rivalries, slanders, whisperings, arrogant conceits, disorders;
+**12:20** for I fear that somehow when I come I may not find you such as I wish, and I may be found by you such as you do not wish—that somehow there may be strife, jealousy, outbursts of rage, selfish ambitions, slanders, whisperings, arrogant conceits, disorders;
 
 **12:21** and that when I come again my God may humble me before you, and I may mourn over many of those who have previously sinned and have not repented of the impurity, sexual immorality, and sensuality that they practiced.
 

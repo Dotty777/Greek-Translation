@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **1:1** — Greek "biblos geneseos" ("book of origin/lineage") echoes the Septuagint of Genesis 2:4 and 5:1, introducing Jesus' genealogy as the beginning of a new era.
+- **1:1** — Greek "biblos geneseos" ("book of origin/lineage") is the phrase used in the Septuagint of Genesis 2:4 and 5:1.
 - **1:7** — The earliest Greek manuscripts read "Asaph" here (and in 1:8) rather than King Asa, and similarly "Amos" in 1:10 rather than King Amon; later manuscripts assimilate both names to the Old Testament kings.
 - **1:21** — The name Jesus (Hebrew Yeshua) means "the Lord saves," grounding the angel's declaration that He will save His people from their sins.
 - **1:25** — "Did not know her" preserves the biblical idiom for marital relations (in the imperfect tense); the critical Greek text reads simply "a son" without "her firstborn" found in later manuscripts.

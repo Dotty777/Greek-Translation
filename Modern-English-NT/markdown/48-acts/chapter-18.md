@@ -19,7 +19,7 @@
 
 **18:7** And leaving from there, he went into the house of a man named Titius Justus, a worshiper of God, whose house was adjacent to the synagogue.
 
-**18:8** Now Crispus, the synagogue leader, believed in the Lord together with his whole household; and many of the Corinthians, as they heard, were believing and being baptized.
+**18:8** Now Crispus, the synagogue ruler, believed in the Lord together with his whole household; and many of the Corinthians, as they heard, were believing and being baptized.
 
 **18:9** And the Lord said to Paul in the night by a vision, "Do not be afraid, but speak and do not keep silent,
 
@@ -37,7 +37,7 @@
 
 **18:16** And he drove them away from the tribunal.
 
-**18:17** Then they all took hold of Sosthenes, the synagogue leader, and began beating him in front of the tribunal; and Gallio was not concerned about any of these things.
+**18:17** Then they all took hold of Sosthenes, the synagogue ruler, and began beating him in front of the tribunal; and Gallio was not concerned about any of these things.
 
 **18:18** Now Paul, having remained many days longer, took leave of the brothers and set sail for Syria, and with him Priscilla and Aquila, having cut his hair in Cenchreae, for he had a vow.
 

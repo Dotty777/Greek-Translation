@@ -45,7 +45,7 @@
 
 **3:20** Now a mediator is not of one, yet God is one.
 
-**3:21** Is the law then against the promises of God? Certainly not! For if a law had been given that was able to impart life, then righteousness would indeed have been from the law.
+**3:21** Is the law then against the promises of God? May it never be! For if a law had been given that was able to impart life, then righteousness would indeed have been from the law.
 
 **3:22** Instead, the Scripture confined everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.
 
@@ -67,6 +67,6 @@
 
 - **3:2** — The Greek phrase rendered 'the hearing of faith' (akoes pisteos) can mean either 'hearing with faith' or 'the message that produces faith.'
 - **3:15** — The Greek word diatheke ('covenant') can also denote a human last will or legal disposition, which Paul uses here as an analogy for God's unalterable covenant with Abraham.
-- **3:20** — This compressed statement is widely debated; Paul contrasts the law, which involved a mediator representing multiple parties, with God's direct, unilateral promise.
+- **3:20** — This compressed statement is widely debated; it is commonly read as contrasting the law, which involved a mediator representing multiple parties, with God's direct, unilateral promise.
 - **3:22** — The Greek genitive pisteos Iesou Christou can be taken either objectively as 'faith in Jesus Christ' or subjectively as 'the faithfulness of Jesus Christ.'
 - **3:24** — A paidagogos ('custodian') was a household slave who escorted and supervised a child until maturity; 'until Christ' (eis Christon) can also carry the directional sense 'leading to Christ.'

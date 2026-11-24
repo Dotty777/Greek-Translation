@@ -41,7 +41,7 @@
 
 **11:18** For in the first place, when you come together as a church, I hear that divisions exist among you, and in part I believe it.
 
-**11:19** For there must indeed be factions among you, so that those who are approved may also become evident among you.
+**11:19** For there must also be factions among you, so that those who are approved may also become evident among you.
 
 **11:20** Therefore, when you come together in one place, it is not to eat the Lord's supper,
 

@@ -65,12 +65,12 @@
 
 **14:30** I will no longer speak much with you, for the ruler of the world is coming, and he has nothing in Me—
 
-**14:31** but so that the world may know that I love the Father, just as the Father commanded Me, so I do. Get up, let us go from here."
+**14:31** but so that the world may know that I love the Father, and just as the Father commanded Me, so I do. Get up, let us go from here."
 
 ## Translator Notes
 
 - **14:1** — Both occurrences of Greek pisteuete are ambiguous in form between indicative ("you believe") and imperative ("believe").
 - **14:2** — Following the statement punctuation of the critical text, hoti is translated causally ("because I am going..."); alternatively, it may introduce a question ("would I have told you that I am going...?").
 - **14:14** — Some manuscripts omit "Me" (me), reading "If you ask anything in My name."
-- **14:16** — Greek parakletos designates one called alongside to assist, intercede, or plead a case, rendered "Advocate" (also commonly translated "Helper" or "Counselor").
-- **14:17** — Greek uses neuter pronouns here to agree grammatically with neuter pneuma ("Spirit"), rendered with masculine personal pronouns reflecting the Spirit's personhood (cf. masculine ekeinos in 14:26).
+- **14:16** — Greek parakletos designates one called alongside to assist, intercede, or plead a case, rendered "Advocate" (it can also be rendered "Helper" or "Counselor").
+- **14:17** — Greek uses neuter pronouns here to agree grammatically with neuter pneuma ("Spirit"); they are rendered with personal pronouns, as with masculine ekeinos in 14:26.

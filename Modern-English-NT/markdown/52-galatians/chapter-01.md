@@ -47,7 +47,7 @@
 
 **1:21** Then I went into the regions of Syria and Cilicia.
 
-**1:22** And I was still unknown by face to the churches of Judea that are in Christ;
+**1:22** And I was unknown by face to the churches of Judea that are in Christ;
 
 **1:23** they only kept hearing, "The one who once persecuted us is now proclaiming the faith that he formerly ravaged,"
 
@@ -56,6 +56,6 @@
 ## Translator Notes
 
 - **1:3** — The Greek text places 'our' with 'Lord Jesus Christ' rather than 'God the Father' (other manuscripts read 'God our Father and the Lord Jesus Christ').
-- **1:6** — Paul pairs two Greek words for 'another' across verses 6-7 (heteros and allos), highlighting that this rival message is a different kind of message rather than another legitimate version of the gospel.
+- **1:6** — Paul uses two Greek words for 'other' across verses 6-7: heteros ('different,' v. 6) and allos ('another,' v. 7).
 - **1:12** — The phrase 'a revelation of Jesus Christ' can denote either a revelation given by Jesus Christ (subjective genitive) or a revelation disclosing Jesus Christ (objective genitive; compare 1:16).
 - **1:15** — This Greek text omits 'God' before 'the One who set me apart,' leaving the divine subject implied (other manuscripts explicitly supply 'God').

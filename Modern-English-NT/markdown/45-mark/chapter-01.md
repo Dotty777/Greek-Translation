@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** The beginning of the good news of Jesus Christ, Son of God.
+**1:1** The beginning of the gospel of Jesus Christ, Son of God.
 
 **1:2** Just as it has been written in Isaiah the prophet: "Look, I am sending My messenger before Your face, who will prepare Your way;
 
@@ -31,9 +31,9 @@
 
 **1:13** And He was in the wilderness forty days, being tempted by Satan, and He was with the wild animals, and the angels were serving Him.
 
-**1:14** And after John was handed over, Jesus came into Galilee, proclaiming the good news of God
+**1:14** And after John was handed over, Jesus came into Galilee, proclaiming the gospel of God
 
-**1:15** and saying, "The appointed time has been fulfilled, and the kingdom of God has drawn near; repent and believe in the good news."
+**1:15** and saying, "The appointed time has been fulfilled, and the kingdom of God has drawn near; repent and believe in the gospel."
 
 **1:16** And as He was passing along beside the Sea of Galilee, He saw Simon and Andrew, the brother of Simon, casting a net in the sea, for they were fishermen.
 
@@ -75,7 +75,7 @@
 
 **1:35** And very early in the morning, while it was still night, rising up, He went out and departed to a desolate place, and there He was praying.
 
-**1:36** And Simon and those with him tracked Him down,
+**1:36** And Simon and those with him searched for Him,
 
 **1:37** and they found Him and said to Him, "Everyone is looking for You."
 

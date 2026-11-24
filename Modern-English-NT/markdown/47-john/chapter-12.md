@@ -51,7 +51,7 @@
 
 **12:23** And Jesus answered them, saying, "The hour has come for the Son of Man to be glorified.
 
-**12:24** Truly, truly, I say to you, unless the grain of wheat falls into the earth and dies, it remains by itself alone; but if it dies, it bears much fruit.
+**12:24** Truly, truly, I tell you, unless the grain of wheat falls into the earth and dies, it remains by itself alone; but if it dies, it bears much fruit.
 
 **12:25** The one who loves his life loses it, and the one who hates his life in this world will keep it for eternal life.
 
@@ -71,7 +71,7 @@
 
 **12:33** Now He was saying this to indicate by what kind of death He was about to die.
 
-**12:34** Therefore the crowd answered Him, "We have heard from the Law that the Christ remains forever, and how do You say that the Son of Man must be lifted up? Who is this Son of Man?"
+**12:34** Therefore the crowd answered Him, "We have heard from the law that the Christ remains forever, and how do You say that the Son of Man must be lifted up? Who is this Son of Man?"
 
 **12:35** So Jesus said to them, "For a little while longer the light is among you. Walk while you have the light, so that darkness may not overtake you; and the one who walks in the darkness does not know where he is going.
 
@@ -110,4 +110,4 @@
 - **12:3** — The rare Greek adjective pistikēs modifying nard is debated; it most likely means "genuine" or "pure" (unadulterated), though some take it to mean "liquid" or a commercial designation for a variety of nard.
 - **12:7** — The Greek clause hina ... tērēsē ("so that she may keep it") is elliptical and debated; it may imply keeping what remains for Jesus' burial or function imperativally ("let her keep it for the day of My burial").
 - **12:27** — "Father, save Me from this hour" can be understood either as a genuine plea immediately submitted to God's purpose or as a deliberative question continuing "what shall I say?" (i.e., "Shall I say, 'Father, save Me from this hour'?").
-- **12:43** — Greek doxa ("glory") here carries the sense of honor, praise, or approval from people versus from God, while deliberately echoing the "glory" Isaiah saw in v. 41.
+- **12:43** — Greek doxa ("glory") here carries the sense of honor, praise, or approval from people versus from God.

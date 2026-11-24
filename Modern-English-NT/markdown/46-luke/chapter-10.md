@@ -94,4 +94,4 @@
 - **10:1** — The critical text reads "seventy-two" (also in 10:17), whereas many manuscripts read "seventy"; both numbers have Old Testament precedents (e.g., the nations in Genesis 10 in the Septuagint vs. Masoretic Text, or the elders in Numbers 11).
 - **10:18** — The imperfect verb "I was watching" paired with the aorist participle "fall" depicts a vivid sighting of Satan's sudden downfall, viewed by interpreters either as taking place during the mission of the seventy-two or as a prophetic vision of his defeat.
 - **10:38** — The critical text concludes with "welcomed Him," omitting the clarifying addition "into her house" found in many later manuscripts.
-- **10:42** — The reading "few things are needed, or one" (combining a literal reference to a simple meal with the single spiritual necessity) is strongly attested in early Alexandrian witnesses, while other manuscripts shorten it to "one thing is needed" or "few things are needed."
+- **10:42** — The critical text reads "few things are needed, or one," with early Alexandrian witnesses (e.g., Sinaiticus, Vaticanus); other manuscripts read "one thing is needed" or "few things are needed."

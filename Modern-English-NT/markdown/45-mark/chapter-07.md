@@ -84,7 +84,7 @@
 ## Translator Notes
 
 - **7:3** — Greek pygme literally means 'with the fist,' a debated idiom variously understood as washing with a cupped hand, up to the wrist, or thoroughly; some manuscripts read pykna ('often').
-- **7:15** — Verse 16 ('If anyone has ears to hear, let him hear') is absent from the earliest and best manuscripts and is omitted in this critical text.
+- **7:15** — Verse 16 ('If anyone has ears to hear, let him hear') is absent from the earliest manuscripts; this critical text prints it in double brackets ⟦ ⟧.
 - **7:19** — The masculine participle katharizon ('declaring clean,' literally 'cleansing') refers back to Jesus ('He said' in v. 18), marking Mark's editorial comment on the implication of the saying.
 - **7:22** — 'An evil eye' (ophthalmos poneros) is a literal idiom denoting envy, stinginess, or grudging malice.
 - **7:16 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

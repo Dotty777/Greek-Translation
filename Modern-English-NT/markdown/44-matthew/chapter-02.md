@@ -54,5 +54,5 @@
 ## Translator Notes
 
 - **2:2** — The Greek phrase "en te anatole" ("in the east") can also be understood astronomically as "at its rising."
-- **2:15** — Matthew quotes Hosea 11:1, originally spoken of Israel's exodus from Egypt, applying it typologically to Jesus as God's Son.
-- **2:23** — No single Old Testament passage contains these exact words; citing "the prophets" collectively, Matthew likely draws on wordplay with Hebrew "netser" ("branch," Isa 11:1) and/or prophetic themes of the Messiah's humble origins.
+- **2:15** — Quoted from Hosea 11:1, where the words refer to Israel's coming out of Egypt.
+- **2:23** — No single Old Testament passage contains these exact words; the citation is attributed to "the prophets" collectively, possibly with wordplay on Hebrew "netser" ("branch," Isa 11:1).

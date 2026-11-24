@@ -53,7 +53,7 @@
 
 **8:24** And look, a great storm arose on the sea, so that the boat was being covered by the waves; yet He Himself was sleeping.
 
-**8:25** And they came and woke Him, saying, "Lord, save us; we are perishing!"
+**8:25** And they came and woke Him, saying, "Lord, save! We are perishing!"
 
 **8:26** And He said to them, "Why are you timid, you of little faith?" Then He got up and rebuked the winds and the sea, and there was a great calm.
 

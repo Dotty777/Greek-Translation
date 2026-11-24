@@ -7,7 +7,7 @@
 
 **2:1** Now we ask you, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to Him,
 
-**2:2** not to be quickly shaken from your reason nor to be alarmed, whether by a spirit, or by a word, or by a letter as if through us, to the effect that the day of the Lord is already present.
+**2:2** not to be quickly shaken from your reason nor to be alarmed, whether by a spirit, or by a word, or by a letter as if through us, to the effect that the day of the Lord has come.
 
 **2:3** Let no one deceive you in any way; for it will not come unless the rebellion comes first and the man of lawlessness is revealed, the son of destruction,
 
@@ -15,7 +15,7 @@
 
 **2:5** Do you not remember that while I was still with you, I used to tell you these things?
 
-**2:6** And now you know what restrains him, so that he will be revealed in his own time.
+**2:6** And now you know what restrains, so that he will be revealed in his own time.
 
 **2:7** For the mystery of lawlessness is already at work; only the one who restrains at present does so until he is out of the way.
 
@@ -44,4 +44,4 @@
 - **2:3** — The Greek clause is elliptical, omitting the main verb ("it will not come") before the condition; "rebellion" translates apostasia (also rendered "apostasy").
 - **2:6** — Paul refers to the unnamed restrainer with a neuter participle here ("what restrains") and a masculine participle in 2:7 ("the one who restrains"), where the verb in the main clause is also elliptical.
 - **2:13** — The critical text reads ap' arches ("from the beginning"); a well-attested manuscript variant reads aparchen ("as firstfruits").
-- **2:17** — The optative verbs "encourage" and "establish" are grammatically singular in Greek despite the compound subject of Christ and God the Father in 2:16, highlighting their unified action.
+- **2:17** — The optative verbs "encourage" and "establish" are grammatically singular in Greek despite the compound subject of Christ and God the Father in 2:16.

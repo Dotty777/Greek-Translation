@@ -23,7 +23,7 @@
 
 **25:9** But the wise ones answered, saying, 'No, there will certainly not be enough for us and for you; go rather to those who sell and buy for yourselves.'
 
-**25:10** And while they were going away to buy, the bridegroom came, and those who were ready entered with him into the wedding feast, and the door was shut.
+**25:10** And while they were going away to buy, the bridegroom came, and those who were ready entered with him into the wedding banquet, and the door was shut.
 
 **25:11** Afterward the other virgins also came, saying, 'Lord, lord, open to us!'
 
@@ -31,7 +31,7 @@
 
 **25:13** Stay awake, therefore, because you know neither the day nor the hour.
 
-**25:14** For it is just like a man going on a journey, who called his own servants and entrusted his possessions to them.
+**25:14** For it is just like a man going on a journey, who called his own slaves and entrusted his possessions to them.
 
 **25:15** To one he gave five talents, to another two, and to another one, to each according to his own ability, and he went on his journey. Immediately
 
@@ -41,21 +41,21 @@
 
 **25:18** But the one who had received the one went away, dug in the ground, and hid his master's money.
 
-**25:19** Now after a long time the master of those servants came and settled accounts with them.
+**25:19** Now after a long time the master of those slaves came and settled accounts with them.
 
 **25:20** And the one who had received the five talents came forward and brought five more talents, saying, 'Master, you entrusted five talents to me; look, I have gained five more talents.'
 
-**25:21** His master said to him, 'Well done, good and faithful servant! You were faithful over a few things; I will set you over many things. Enter into the joy of your master.'
+**25:21** His master said to him, 'Well done, good and faithful slave! You were faithful over a few things; I will set you over many things. Enter into the joy of your master.'
 
 **25:22** The one with the two talents also came forward and said, 'Master, you entrusted two talents to me; look, I have gained two more talents.'
 
-**25:23** His master said to him, 'Well done, good and faithful servant! You were faithful over a few things; I will set you over many things. Enter into the joy of your master.'
+**25:23** His master said to him, 'Well done, good and faithful slave! You were faithful over a few things; I will set you over many things. Enter into the joy of your master.'
 
 **25:24** Then the one who had received the one talent also came forward and said, 'Master, I knew you, that you are a hard man, reaping where you did not sow and gathering from where you did not scatter;
 
 **25:25** and being afraid, I went away and hid your talent in the ground. Look, you have what is yours.'
 
-**25:26** But his master answered and said to him, 'Wicked and lazy servant! You knew that I reap where I did not sow and gather from where I did not scatter?
+**25:26** But his master answered and said to him, 'Wicked and lazy slave! You knew that I reap where I did not sow and gather from where I did not scatter?
 
 **25:27** Therefore you ought to have deposited my money with the bankers, and upon returning I would have received back what is mine with interest.
 
@@ -63,7 +63,7 @@
 
 **25:29** For to everyone who has, more will be given and he will abound; yet from the one who does not have, even what he has will be taken away from him.
 
-**25:30** And throw the worthless servant out into the outer darkness; in that place there will be the weeping and the gnashing of teeth.'
+**25:30** And throw the worthless slave out into the outer darkness; in that place there will be the weeping and the gnashing of teeth.'
 
 **25:31** Now when the Son of Man comes in His glory, and all the angels with Him, then He will sit on the throne of His glory.
 

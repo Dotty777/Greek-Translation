@@ -41,7 +41,7 @@
 
 **1:18** By His own choice He brought us forth by the word of truth, so that we might be a kind of firstfruits of His creatures.
 
-**1:19** Know this, my beloved brothers: every person must be quick to hear, slow to speak, and slow to anger,
+**1:19** Know this, my beloved brothers. And every person must be quick to hear, slow to speak, and slow to anger,
 
 **1:20** for a man's anger does not accomplish God's righteousness.
 

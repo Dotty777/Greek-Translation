@@ -13,15 +13,15 @@
 
 **11:4** But Peter began and laid it out for them in order, saying,
 
-**11:5** "I was in the city of Joppa praying, and in a trance I saw a vision: a certain vessel descending, like a large sheet being lowered from heaven by four corners, and it came all the way to me.
+**11:5** "I was in the city of Joppa praying, and in a trance I saw a vision: a certain object descending, like a large sheet being lowered from heaven by four corners, and it came all the way to me.
 
 **11:6** Gazing intently into it, I examined it and saw the four-footed animals of the earth, and the wild beasts, and the crawling creatures, and the birds of the sky.
 
-**11:7** I also heard a voice saying to me, 'Rise, Peter, slaughter and eat.'
+**11:7** I also heard a voice saying to me, 'Get up, Peter; slaughter and eat.'
 
 **11:8** But I said, 'By no means, Lord, because nothing common or unclean has ever entered my mouth.'
 
-**11:9** But a voice answered a second time from heaven, 'What God has made clean, you must not call common.'
+**11:9** But a voice answered a second time from heaven, 'What God has cleansed, you must not regard as common.'
 
 **11:10** Now this happened three times, and everything was drawn up again into heaven.
 
@@ -68,5 +68,5 @@
 ## Translator Notes
 
 - **11:12** — The Greek active participle διακρίναντα literally means "making no distinction" (unlike the middle voice in 10:20, "without hesitating"), though some interpreters take it in the sense of "without doubting."
-- **11:20** — The Greek text reads Ἑλληνιστάς ("Hellenists"), while some manuscripts read Ἕλληνας ("Greeks"); contrasted with "Jews" in v. 19, the term here refers to Greek-speaking Gentiles.
-- **11:28** — Greek οἰκουμένην ("inhabited world") in Luke-Acts typically refers to the Roman world; historical sources attest severe famines during the reign of Claudius (AD 41-54), especially in Judea around AD 46-48.
+- **11:20** — The Greek text reads Ἑλληνιστάς ("Hellenists," i.e., Greek-speakers), while some manuscripts read Ἕλληνας ("Greeks"); here the term stands in contrast to "Jews" in v. 19.
+- **11:28** — Greek οἰκουμένην ("inhabited world") in Luke-Acts typically refers to the Roman world.

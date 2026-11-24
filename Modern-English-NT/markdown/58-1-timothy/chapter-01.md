@@ -33,7 +33,7 @@
 
 **1:14** and the grace of our Lord overflowed exceedingly, along with the faith and love that are in Christ Jesus.
 
-**1:15** Trustworthy is this saying and worthy of complete acceptance, that Christ Jesus came into the world to save sinners—of whom I am the first.
+**1:15** Trustworthy is this saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners—of whom I am the first.
 
 **1:16** Yet for this reason I was shown mercy, so that in me as the first, Jesus Christ might display complete patience as a pattern for those who were going to believe in Him for eternal life.
 

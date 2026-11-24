@@ -7,7 +7,7 @@
 
 **11:1** Now a certain man was ill, Lazarus from Bethany, of the village of Mary and Martha her sister.
 
-**11:2** And it was Mary who anointed the Lord with perfumed oil and wiped His feet with her hair, whose brother Lazarus was ill.
+**11:2** And it was Mary who anointed the Lord with ointment and wiped His feet with her hair, whose brother Lazarus was ill.
 
 **11:3** So the sisters sent to Him, saying, "Lord, look, the one You love is ill."
 
@@ -47,7 +47,7 @@
 
 **11:21** Martha then said to Jesus, "Lord, if You had been here, my brother would not have died.
 
-**11:22** And even now I know that whatever You ask from God, God will give You."
+**11:22** Even now I know that whatever You ask from God, God will give You."
 
 **11:23** Jesus said to her, "Your brother will rise."
 
@@ -115,14 +115,14 @@
 
 **11:55** Now the Passover of the Jews was near, and many went up to Jerusalem from the countryside before the Passover in order to purify themselves.
 
-**11:56** So they were seeking Jesus and saying to one another as they stood in the temple, "What do you think? That He will not come to the festival at all?"
+**11:56** So they were seeking Jesus and saying to one another as they stood in the temple, "What do you think? That He will not come to the feast at all?"
 
 **11:57** Now the chief priests and the Pharisees had given orders that if anyone knew where He was, he should report it, so that they might seize Him.
 
 ## Translator Notes
 
-- **11:12** — Greek "sōthēsetai" literally means "will be saved" and is used here by the disciples in its medical sense ("will recover"), creating typical Johannine irony regarding spiritual salvation.
+- **11:12** — Greek "sōthēsetai" literally means "will be saved" and is used here by the disciples in its medical sense ("will recover").
 - **11:18** — Fifteen stadia is roughly two miles (about three kilometers).
 - **11:33** — The Greek verb "enebrimēsato" conveys intense emotional agitation—often indignation or anger as well as deep distress—and "etaraxen heauton" literally reads "troubled Himself."
 - **11:35** — In contrast to the loud weeping ("klaiō") of Mary and the mourners in verses 31 and 33, John uses "edakrysen" (its only New Testament occurrence), literally meaning "shed tears."
-- **11:48** — Greek "topos" ("place") here refers specifically to the Jerusalem temple as the holy place.
+- **11:48** — Greek "topos" ("place") here likely refers to the Jerusalem temple.

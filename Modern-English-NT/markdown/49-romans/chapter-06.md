@@ -13,7 +13,7 @@
 
 **6:4** We were buried with Him, therefore, through baptism into death, so that just as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.
 
-**6:5** For if we have become united with Him in the likeness of His death, we shall certainly also be united with Him in the likeness of His resurrection,
+**6:5** For if we have become united with the likeness of His death, we shall certainly also be united with the likeness of His resurrection,
 
 **6:6** knowing this, that our old self was crucified with Him, so that the body of sin might be rendered powerless, in order that we would no longer be enslaved to sin;
 

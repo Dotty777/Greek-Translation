@@ -25,7 +25,7 @@
 
 **15:10** Now therefore, why are you putting God to the test by placing a yoke on the neck of the disciples that neither our fathers nor we were able to bear?
 
-**15:11** On the contrary, we believe that through the grace of the Lord Jesus we are saved, in the very same way as they also are."
+**15:11** On the contrary, we believe that through the grace of the Lord Jesus we are saved, in the same way as they also are."
 
 **15:12** Then all the multitude fell silent, and they listened to Barnabas and Paul as they recounted all the signs and wonders that God had done among the Gentiles through them.
 
@@ -35,9 +35,9 @@
 
 **15:15** And with this the words of the prophets agree, just as it is written:
 
-**15:16** 'After these things I will return, and I will rebuild the fallen tent of David; I will rebuild its ruins, and I will restore it,
+**15:16** 'After these things I will return, and I will rebuild the fallen tabernacle of David; I will rebuild its ruins, and I will restore it,
 
-**15:17** so that the rest of mankind may seek the Lord, even all the Gentiles upon whom My name has been called, says the Lord, who makes these things
+**15:17** so that the rest of mankind may seek the Lord, and all the Gentiles upon whom My name has been called, says the Lord, who makes these things
 
 **15:18** known from ages past.'
 
@@ -63,7 +63,7 @@
 
 **15:29** that you abstain from things sacrificed to idols, and from blood, and from things strangled, and from sexual immorality. If you keep yourselves free from these, you will do well. Farewell."
 
-**15:30** So when they were sent off, they went down to Antioch, and having gathered the assembly together, they delivered the letter.
+**15:30** So when they were sent off, they went down to Antioch, and having gathered the multitude together, they delivered the letter.
 
 **15:31** When they read it, they rejoiced over the encouragement.
 
@@ -91,7 +91,7 @@
 
 ## Translator Notes
 
-- **15:14** — "Simeon" (Symeon) is the Semitic form of Peter's Hebrew name Simon, fitting James's Jerusalem setting.
+- **15:14** — "Simeon" (Symeon) is the Semitic form of Peter's name Simon.
 - **15:16** — James quotes Amos 9:11-12 following the Septuagint, which reads "the rest of mankind" rather than the Masoretic Text's "the remnant of Edom."
 - **15:20** — "Pollutions" (alisgema) is a rare word occurring only here in the New Testament, clarified in the council's letter (v. 29) as "things sacrificed to idols."
 - **15:23** — The critical text reads "the apostles and the elders, brothers" in apposition, whereas later manuscripts insert "and the" before "brothers."

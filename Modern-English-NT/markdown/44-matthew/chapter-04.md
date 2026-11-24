@@ -15,7 +15,7 @@
 
 **4:5** Then the devil took Him along into the holy city and placed Him on the pinnacle of the temple,
 
-**4:6** and said to Him, "If You are the Son of God, throw Yourself down, for it is written, 'To His angels He will give orders concerning You, and on their hands they will lift You up, so that You never strike Your foot against a stone.'"
+**4:6** and said to Him, "If You are the Son of God, throw Yourself down, for it is written, 'To His angels He will give orders concerning You, and on their hands they will lift You up, so that You do not strike Your foot against a stone.'"
 
 **4:7** Jesus said to him, "Again, it is written, 'You shall not test the Lord your God.'"
 
@@ -49,7 +49,7 @@
 
 **4:22** And immediately leaving the boat and their father, they followed Him.
 
-**4:23** And He was going around throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every ailment among the people.
+**4:23** And He was going around throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every sickness among the people.
 
 **4:24** And the report about Him went out into all Syria, and they brought to Him all who were unwell, those gripped by various diseases and severe pains, the demon-possessed and epileptics and paralytics, and He healed them.
 

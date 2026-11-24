@@ -121,7 +121,7 @@
 
 ## Translator Notes
 
-- **23:18** — Verse 17 (mentioning an obligation to release one prisoner at the festival) is absent from the earliest Greek manuscripts and from the Saints Greek Critical Text, which moves directly from 23:16 to 23:18.
+- **23:18** — Verse 17 (mentioning an obligation to release one prisoner at the festival) is absent from the earliest Greek manuscripts; the Saints Greek Critical Text prints it within double brackets ⟦ ⟧.
 - **23:34** — Jesus' prayer for forgiveness ("Father, forgive them, for they do not know what they are doing") is absent from several early manuscripts (including P75, B, and D*) but is well attested in other early witnesses and patristic citations, and stands in this Greek text.
 - **23:43** — The Greek text has no punctuation around "today" (semeron); placing the comma before "today" matches Luke's regular idiom after "Truly I say to you" rather than attaching "today" to "I say."
 - **23:45** — The phrase tou heliou eklipontos literally means "as the sun failed" (a verb often used of an eclipse, though a Passover full moon rules out a natural solar eclipse); many later manuscripts read "and the sun was darkened."

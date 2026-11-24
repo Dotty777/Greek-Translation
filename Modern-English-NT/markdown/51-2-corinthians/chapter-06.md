@@ -7,7 +7,7 @@
 
 **6:1** And working together, we also appeal to you not to receive the grace of God in vain;
 
-**6:2** for He says, "At an acceptable time I listened to you, and on a day of salvation I helped you." Look, now is the truly favorable time; look, now is the day of salvation—
+**6:2** for He says, "At an acceptable time I listened to you, and on a day of salvation I helped you." Look, now is the acceptable time; look, now is the day of salvation—
 
 **6:3** giving no cause for offense in anything, so that the ministry will not be found fault with,
 

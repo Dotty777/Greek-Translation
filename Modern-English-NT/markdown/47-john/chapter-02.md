@@ -23,7 +23,7 @@
 
 **2:9** When the banquet steward tasted the water that had become wine, and did not know where it came from—though the servants who had drawn the water knew—the banquet steward called the bridegroom,
 
-**2:10** and said to him, "Every person serves the good wine first, and when they have drunk freely, the lesser wine; you have kept the good wine until now."
+**2:10** and said to him, "Every person serves the good wine first, and when they have become drunk, the lesser wine; you have kept the good wine until now."
 
 **2:11** Jesus performed this as the beginning of the signs in Cana of Galilee and revealed His glory, and His disciples believed in Him.
 
@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **2:4** — The Greek phrase literally asks "What to Me and to you?", a Semitic idiom distancing the speaker from another's concern or request. Addressing Mary as "woman" (gynai) was polite and respectful in ancient Greek, not disrespectful.
+- **2:4** — The Greek phrase literally asks "What to Me and to you?", a Semitic idiom distancing the speaker from another's concern or request. The vocative γύναι ("woman") was a normal, polite form of address.
 - **2:6** — A Greek metretes ("measure") was a liquid unit of roughly 9 to 10 gallons (about 35 to 40 liters), meaning each stone jar held approximately 20 to 30 gallons.
 - **2:19** — John uses naos ("sanctuary," referring to the inner temple building) here and in vv. 20-21, distinguishing it from hieron ("temple," the entire temple precinct) in vv. 14-15.
 - **2:24** — John plays on the verb pisteuo: while many "believed" in Jesus' name (v. 23), Jesus was not "entrusting" Himself to them (v. 24).

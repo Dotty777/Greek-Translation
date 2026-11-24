@@ -39,7 +39,7 @@
 
 **2:17** 'And it will be in the last days,' says God, 'I will pour out from My Spirit upon all flesh, and your sons and your daughters will prophesy, and your young men will see visions, and your old men will dream dreams;
 
-**2:18** and even upon My male servants and upon My female servants in those days I will pour out from My Spirit, and they will prophesy.
+**2:18** and even upon My male slaves and upon My female slaves in those days I will pour out from My Spirit, and they will prophesy.
 
 **2:19** And I will grant wonders in heaven above and signs on the earth below, blood and fire and vapor of smoke.
 

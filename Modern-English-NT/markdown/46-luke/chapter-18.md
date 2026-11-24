@@ -31,7 +31,7 @@
 
 **18:13** But the tax collector, standing at a distance, was unwilling even to lift up his eyes toward heaven, but kept beating his chest, saying, 'God, be merciful to me, the sinner!'
 
-**18:14** I tell you, this man went down to his house justified rather than that one; because everyone who exalts himself will be humbled, and the one who humbles himself will be exalted."
+**18:14** I tell you, this man went down to his house justified rather than that one; because everyone who exalts himself will be humbled, but the one who humbles himself will be exalted."
 
 **18:15** Now they were bringing even infants to Him so that He might touch them; but when the disciples saw it, they were rebuking them.
 
@@ -63,7 +63,7 @@
 
 **18:29** And He said to them, "Truly I tell you that there is no one who has left house or wife or brothers or parents or children for the sake of the kingdom of God,
 
-**18:30** who will not certainly receive many times as much in this time, and in the coming age eternal life."
+**18:30** who will not receive many times as much in this time, and in the coming age eternal life."
 
 **18:31** Taking the twelve aside, He said to them, "Look, we are going up to Jerusalem, and everything written through the prophets for the Son of Man will be accomplished.
 

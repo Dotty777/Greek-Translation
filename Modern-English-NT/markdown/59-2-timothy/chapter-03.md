@@ -42,5 +42,5 @@
 ## Translator Notes
 
 - **3:8** — Jannes and Jambres are the traditional Jewish names for the Egyptian magicians who opposed Moses in Exodus 7:11, 22.
-- **3:14** — The pronoun "whom" (tinon) is plural in Greek, encompassing Timothy's mother and grandmother (1:5) as well as Paul.
+- **3:14** — The pronoun "whom" (tinon) is plural in Greek, probably including Timothy's mother and grandmother (1:5) as well as Paul.
 - **3:16** — The clause lacks an explicit verb "is"; while most interpreters take both adjectives as predicates ("All Scripture is God-breathed and beneficial"), it can also be construed attributively ("Every God-breathed scripture is also beneficial").

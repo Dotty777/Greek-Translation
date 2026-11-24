@@ -35,7 +35,7 @@
 
 **4:15** For all things are for your sake, so that grace, having increased through more people, may cause thanksgiving to overflow to the glory of God.
 
-**4:16** Therefore we do not lose heart; even though our outer person is decaying, still our inner person is being renewed day by day.
+**4:16** Therefore we do not lose heart; but even though our outer person is decaying, still our inner person is being renewed day by day.
 
 **4:17** For the momentary lightness of our affliction is producing for us far beyond all measure an eternal weight of glory,
 

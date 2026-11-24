@@ -13,7 +13,7 @@
 
 **4:4** so that I may make it manifest as I ought to speak.
 
-**4:5** Walk in wisdom toward those outside, making the most of the time.
+**4:5** Walk in wisdom toward those outside, redeeming the opportunity.
 
 **4:6** Let your speech always be with grace, seasoned with salt, so that you know how you ought to answer each individual.
 

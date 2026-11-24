@@ -70,7 +70,7 @@
 ## Translator Notes
 
 - **16:6** — A "bath" was a Hebrew liquid measure of about 8 to 9 gallons (30 to 35 liters); in verse 7, a "kor" was a dry measure of about 10 to 11 bushels (350 to 400 liters).
-- **16:8** — Greek ho kyrios ("the master" or "the Lord") refers here to the rich master of the parable rather than Jesus, as confirmed by the shift to Jesus's own voice in verse 9 ("And I tell you").
+- **16:8** — Greek ho kyrios can mean "the master" or "the Lord"; it is taken here as the master of the parable (cf. "my master," vv. 3, 5).
 - **16:9** — "Unrighteous wealth" renders the literal Semitic expression "the mammon of unrighteousness" (from Aramaic mamona, referring to wealth or material possessions).
 - **16:16** — The verb biazetai is debated: taken as middle voice it means "forces his way into it," while taken as passive it can mean "is strongly urged into it."
 - **16:22** — Literally "into Abraham's bosom," an idiom expressing the place of honor reclining next to a host at a banquet.

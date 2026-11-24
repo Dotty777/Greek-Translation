@@ -35,7 +35,7 @@
 
 **4:15** And you yourselves also know, Philippians, that in the beginning of the gospel, when I departed from Macedonia, no church shared with me in the account of giving and receiving except you alone,
 
-**4:16** for even in Thessalonica you sent to me more than once for my need.
+**4:16** for even in Thessalonica you sent to me both once and twice for my need.
 
 **4:17** Not that I am seeking the gift, but I am seeking the fruit that increases to your account.
 

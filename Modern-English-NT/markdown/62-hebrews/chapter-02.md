@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **2:7** — Greek βραχύ τι ("a little") can express either degree ("a little lower," as in Psalm 8:5) or duration ("for a little while," highlighting Christ's temporary humiliation in 2:9).
+- **2:7** — Greek βραχύ τι ("a little") can express either degree ("a little lower," as in Psalm 8:5) or duration ("for a little while"); the same phrase recurs in 2:9.
 - **2:10** — Greek ἀρχηγόν ("pioneer") denotes a founder, originator, or trailblazing leader who opens the way for others.
 - **2:11** — Greek ἐξ ἑνός ("from one") is deliberately concise and may refer to one Father (God) or one common origin.
 - **2:16** — Greek ἐπιλαμβάνεται literally means "takes hold of," used here in the sense of coming to someone's aid; σπέρματος literally means "seed" or "offspring."

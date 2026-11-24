@@ -35,7 +35,7 @@
 
 **2:15** Make every effort to present yourself to God as approved, an unashamed worker, properly handling the word of truth.
 
-**2:16** But avoid irreverent empty chatter, for they will advance further into ungodliness,
+**2:16** But avoid profane empty chatter, for they will advance further into ungodliness,
 
 **2:17** and their talk will spread like gangrene; among whom are Hymenaeus and Philetus,
 
@@ -51,7 +51,7 @@
 
 **2:23** But refuse foolish and ignorant controversies, knowing that they breed quarrels.
 
-**2:24** And a servant of the Lord must not quarrel, but be gentle toward all, able to teach, patient when wronged,
+**2:24** And a slave of the Lord must not quarrel, but be gentle toward all, able to teach, patient when wronged,
 
 **2:25** with gentleness instructing those who stand in opposition, so that perhaps God may grant them repentance leading to a knowledge of the truth,
 

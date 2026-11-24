@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **17:2** — The Greek uses a neuter singular collective ("all that You have given Him," similarly in 17:24) resumed by a plural pronoun ("them"), presenting believers both as a unified gift and as individual recipients of eternal life.
+- **17:2** — The Greek uses a neuter singular collective ("all that You have given Him," similarly in 17:24) resumed by a plural pronoun ("them").
 - **17:11** — The critical Greek text reads the singular relative pronoun referring back to "Your name" ("Your name that You have given Me," as also in 17:12), whereas some later manuscripts read a plural pronoun referring to the disciples.
 - **17:15** — The Greek phrase "from the evil one" is grammatically ambiguous between masculine ("the evil one") and neuter ("evil"), though Johannine usage elsewhere favors the personal adversary.
 - **17:17** — The Greek verb rendered "consecrate" (and "consecrated" in 17:19) means to set apart as holy for God's purpose, sharing the same root as "Holy Father" in 17:11.

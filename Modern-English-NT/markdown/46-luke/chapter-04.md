@@ -29,7 +29,7 @@
 
 **4:12** And answering, Jesus said to him, "It has been said, 'You will not put the Lord your God to the test.'"
 
-**4:13** And when the devil had completed every temptation, he departed from Him until an appointed time.
+**4:13** And when the devil had completed every temptation, he departed from Him until an opportune time.
 
 **4:14** And Jesus returned in the power of the Spirit to Galilee. And a report went out through all the surrounding region concerning Him.
 
@@ -49,7 +49,7 @@
 
 **4:22** And all were bearing witness to Him and marveling at the words of grace that were coming out of His mouth, and they were saying, "Is this not the son of Joseph?"
 
-**4:23** And He said to them, "Surely you will say this proverb to Me: 'Physician, heal yourself! Whatever we heard took place in Capernaum, do here also in Your hometown.'"
+**4:23** And He said to them, "Surely you will say this proverb to Me: 'Physician, heal Yourself! Whatever we heard took place in Capernaum, do here also in Your hometown.'"
 
 **4:24** And He said, "Truly I say to you, no prophet is acceptable in his hometown.
 

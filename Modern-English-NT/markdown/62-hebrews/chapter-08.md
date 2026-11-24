@@ -11,7 +11,7 @@
 
 **8:3** For every high priest is appointed to offer both gifts and sacrifices; therefore it is necessary for this One also to have something to offer.
 
-**8:4** Now if He were on earth, He would not even be a priest, since there are those who offer the gifts according to the Law;
+**8:4** Now if He were on earth, He would not even be a priest, since there are those who offer the gifts according to the law;
 
 **8:5** who serve a copy and shadow of the heavenly things, just as Moses was divinely warned when he was about to construct the tabernacle; for He says, "See that you make all things according to the pattern shown to you on the mountain."
 

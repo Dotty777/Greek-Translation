@@ -9,9 +9,9 @@
 
 **27:2** and having bound Him, they led Him away and handed Him over to Pilate the governor.
 
-**27:3** Then Judas, who had betrayed Him, seeing that He had been condemned, was filled with remorse and returned the thirty silver coins to the chief priests and elders,
+**27:3** Then Judas, who had handed Him over, seeing that He had been condemned, was filled with remorse and returned the thirty silver coins to the chief priests and elders,
 
-**27:4** saying, "I have sinned in betraying innocent blood." But they said, "What is that to us? You see to it."
+**27:4** saying, "I have sinned in handing over innocent blood." But they said, "What is that to us? You see to it."
 
 **27:5** And throwing the silver coins into the sanctuary, he withdrew; and going away, he hanged himself.
 

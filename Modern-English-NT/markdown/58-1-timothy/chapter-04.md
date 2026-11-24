@@ -15,7 +15,7 @@
 
 **4:5** for it is sanctified through God's word and prayer.
 
-**4:6** By setting these things before the brothers, you will be a good servant of Christ Jesus, continually nourished on the words of the faith and of the good teaching that you have closely followed.
+**4:6** By setting these things before the brothers, you will be a good servant of Christ Jesus, being nourished on the words of the faith and of the good teaching that you have closely followed.
 
 **4:7** But refuse profane and old wives' myths. Instead, train yourself for godliness;
 
@@ -42,4 +42,4 @@
 - **4:2** — "Seared" renders a Greek verb literally meaning "branded with a hot iron," denoting a conscience either cauterized into insensitivity or marked with a brand of ownership.
 - **4:3** — Greek employs a single participle ("forbidding") over both "to marry" and "to abstain from foods," implying a contrasting verb such as "requiring" for the second clause.
 - **4:10** — The critical text reads "we strive" (ἀγωνιζόμεθα), whereas some later manuscripts read "we suffer reproach" (ὀνειδιζόμεθα).
-- **4:13** — "The reading" (τῇ ἀναγνώσει) with the definite article refers to the public reading of Scripture in the assembled church.
+- **4:13** — "The reading" (τῇ ἀναγνώσει) most likely refers to the public reading of Scripture in the assembled church.

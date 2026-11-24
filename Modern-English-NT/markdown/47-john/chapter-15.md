@@ -61,6 +61,6 @@
 
 ## Translator Notes
 
-- **15:2** — Greek airei is most commonly rendered "takes away," though some interpreters suggest "lifts up." The verb kathairei ("prunes" or "cleanses") creates a wordplay with katharoi ("clean") in verse 3.
+- **15:2** — Greek airei can mean "takes away" or "lifts up." The verb kathairei ("prunes" or "cleanses") creates a wordplay with katharoi ("clean") in verse 3.
 - **15:10** — The Greek text reads "the Father's commandments" without the possessive pronoun "My."
-- **15:26** — Greek parakletos ("Advocate") denotes one called alongside to assist, intercede, or counsel, and is also translated "Helper" or "Counselor."
+- **15:26** — Greek parakletos ("Advocate") denotes one called alongside to assist, intercede, or counsel, and can also be rendered "Helper" or "Counselor."

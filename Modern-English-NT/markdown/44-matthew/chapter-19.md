@@ -70,5 +70,5 @@
 - **19:9** — Greek porneia denotes sexual immorality or marital unfaithfulness. The closing clause ("and the one who marries a divorced woman commits adultery") is supported by manuscripts such as Vaticanus and Ephraemi Rescriptus, while omitted in others such as Sinaiticus and Bezae.
 - **19:17** — Matthew's text reads "about what is good" and "There is One who is good," whereas some later manuscripts harmonize the wording with Mark 10:18 and Luke 18:19 ("Why do you call Me good?").
 - **19:21** — Greek teleios means "complete," "whole," or "perfect," directly answering the young man's question about what he is still lacking (v. 20).
-- **19:28** — Greek palingenesia ("rebirth" or "regeneration") refers to the future renewal of creation at the coming of the Messianic reign.
+- **19:28** — Greek palingenesia means "rebirth" or "regeneration"; here it denotes the renewal of the world in the age to come.
 - **19:29** — Some early manuscripts omit "or wife" and read "many times as much" instead of "a hundredfold."

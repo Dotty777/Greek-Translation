@@ -33,7 +33,7 @@
 
 **17:14** And when they came to the crowd, a man approached Him, kneeling before Him
 
-**17:15** and saying, "Lord, have mercy on my son, because he has seizures and suffers badly; for often he falls into the fire and often into the water.
+**17:15** and saying, "Lord, have mercy on my son, because he has seizures and is ill; for often he falls into the fire and often into the water.
 
 **17:16** And I brought him to Your disciples, and they were not able to heal him."
 

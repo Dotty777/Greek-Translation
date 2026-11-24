@@ -41,9 +41,9 @@
 
 **1:18** and He Himself is the head of the body, the church. He is the beginning, firstborn from the dead, so that in all things He Himself might hold first place,
 
-**1:19** because God was pleased for all the fullness to dwell in Him,
+**1:19** because in Him all the fullness was pleased to dwell,
 
-**1:20** and through Him to reconcile all things to Himself, having made peace through the blood of His cross—through Him, whether the things on the earth or the things in the heavens.
+**1:20** and through Him to reconcile all things to Him, having made peace through the blood of His cross—through Him, whether the things on the earth or the things in the heavens.
 
 **1:21** And you, who were once alienated and enemies in your mind in evil deeds—
 
@@ -66,7 +66,7 @@
 ## Translator Notes
 
 - **1:7** — Some Greek manuscripts read "on your behalf" (hyper hymon) instead of "on our behalf" (hyper hemon).
-- **1:15** — "Firstborn of all creation" denotes preeminence and supreme rank over all creation rather than being the first created being, as v. 16 immediately explains.
-- **1:19** — "God" is supplied as the implied subject of "was pleased," confirmed by the masculine participle "having made peace" in v. 20; alternatively, "all the fullness" may be taken as the grammatical subject ("in Him all the fullness was pleased to dwell").
+- **1:15** — Greek prōtotokos ("firstborn") can denote priority in time or preeminence in rank.
+- **1:19** — The Greek has no separate subject for "was pleased"; "all the fullness" may be the subject, or "God" may be understood ("God was pleased for all the fullness to dwell in Him").
 - **1:22** — The Saints Greek Critical Text reads the passive "you have been reconciled" (apokatellagete), forming a parenthetical break in syntax; other manuscripts read the active "He has reconciled" (apokatellaxen).
-- **1:24** — "What is lacking in the afflictions of Christ" does not imply a deficiency in Christ's atoning work, but refers to ongoing missionary sufferings endured in union with Him for the sake of His church.
+- **1:24** — The genitive in "the afflictions of Christ" may denote afflictions Christ Himself endured or afflictions borne for Him or in union with Him.

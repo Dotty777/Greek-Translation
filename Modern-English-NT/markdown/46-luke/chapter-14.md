@@ -37,7 +37,7 @@
 
 **14:16** But He said to him, "A certain man was giving a great banquet, and he invited many;
 
-**14:17** and at the hour of the banquet he sent his slave to say to those who had been invited, 'Come, because everything is ready now.'
+**14:17** and at the hour of the banquet he sent his slave to say to those who had been invited, 'Come, because it is ready now.'
 
 **14:18** And they all alike began to make excuses. The first said to him, 'I have bought a field, and I must go out and see it; I ask you, consider me excused.'
 
@@ -80,5 +80,5 @@
 - **14:2** — "Dropsy" translates Greek hydropikos, a condition characterized by abnormal fluid retention and swelling in the body (edema).
 - **14:5** — The Greek text reads "a son or an ox" (huios e bous), strongly attested in early witnesses; other manuscripts read "a donkey or an ox" (onos e bous).
 - **14:18** — "All alike" renders the elliptical Greek idiom apo mias (literally "from one [mind/voice]"), meaning unanimously or one and all.
-- **14:24** — "You" is plural (hymin), shifting from the single slave addressed in v. 23 so that the host's final declaration also speaks directly to Jesus' listeners.
-- **14:26** — In Semitic idiom, "hate" (miseo) is used hyperbolically for loving less or subordinating all other allegiances to devotion to Jesus (cf. Matthew 10:37).
+- **14:24** — "You" is plural (hymin), although a single slave is addressed in v. 23.
+- **14:26** — In Semitic idiom, "hate" (miseo) can be used hyperbolically for loving less (cf. Matthew 10:37).

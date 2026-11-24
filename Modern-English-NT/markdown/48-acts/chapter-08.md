@@ -55,7 +55,7 @@
 
 **8:25** So when they had solemnly testified and spoken the word of the Lord, they were returning to Jerusalem and were preaching the good news to many villages of the Samaritans.
 
-**8:26** Now an angel of the Lord spoke to Philip, saying, "Rise and go toward the south to the road that goes down from Jerusalem to Gaza." This is a desert road.
+**8:26** Now an angel of the Lord spoke to Philip, saying, "Rise and go toward the south to the road that goes down from Jerusalem to Gaza." This is deserted.
 
 **8:27** So he rose and went; and look, an Ethiopian man, a eunuch, a high official of Candace, queen of the Ethiopians, who was in charge of all her treasury—he had come to Jerusalem to worship,
 

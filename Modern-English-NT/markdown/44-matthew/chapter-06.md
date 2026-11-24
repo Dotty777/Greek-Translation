@@ -55,7 +55,7 @@
 
 **6:25** For this reason I tell you: do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will wear. Is not life more than food, and the body more than clothing?
 
-**6:26** Look closely at the birds of the sky: they neither sow nor reap nor gather into barns, yet your heavenly Father feeds them. Are you not worth much more than they are?
+**6:26** Look closely at the birds of the sky: they neither sow nor reap nor gather into barns, yet your heavenly Father feeds them. Are you not worth more than they are?
 
 **6:27** And which of you by being anxious is able to add a single cubit to his lifespan?
 

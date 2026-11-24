@@ -11,11 +11,11 @@
 
 **3:3** What then? If some proved unfaithful, will their unfaithfulness nullify the faithfulness of God?
 
-**3:4** May that never happen! Rather, let God prove true, and every person a liar, just as it is written: "So that You may be justified in Your words and will prevail when You are judged."
+**3:4** May it never happen! Rather, let God prove true, and every person a liar, just as it is written: "So that You may be justified in Your words and will prevail when You are judged."
 
 **3:5** But if our unrighteousness establishes God's righteousness, what shall we say? God, who brings wrath, is not unrighteous, is He? I am speaking in human terms.
 
-**3:6** May that never happen! For otherwise, how will God judge the world?
+**3:6** May it never happen! For otherwise, how will God judge the world?
 
 **3:7** But if through my falsehood the truth of God abounded to His glory, why am I too still being judged as a sinner,
 
@@ -45,7 +45,7 @@
 
 **3:20** because by works of the law no flesh will be justified before Him, for through the law comes the recognition of sin.
 
-**3:21** But now, apart from the law, a righteousness of God has been revealed, attested by the Law and the Prophets,
+**3:21** But now, apart from the law, a righteousness of God has been manifested, attested by the Law and the Prophets,
 
 **3:22** namely, the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction;
 
@@ -65,7 +65,7 @@
 
 **3:30** since indeed there is one God, who will justify the circumcised by faith and the uncircumcised through faith.
 
-**3:31** Do we then nullify the law through faith? May that never happen! On the contrary, we establish the law.
+**3:31** Do we then nullify the law through faith? May it never happen! On the contrary, we establish the law.
 
 ## Translator Notes
 

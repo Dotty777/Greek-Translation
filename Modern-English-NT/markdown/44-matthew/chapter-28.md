@@ -5,7 +5,7 @@
 
 ## Text
 
-**28:1** Now after the Sabbath, as it was dawning toward the first day of the week, Mary Magdalene and the other Mary came to see the grave.
+**28:1** Now after the Sabbath, as it was dawning toward the first day of the week, Mary Magdalene and the other Mary came to see the tomb.
 
 **28:2** And look, a great earthquake occurred, for an angel of the Lord descended from heaven, came near, rolled away the stone, and was sitting on top of it.
 
@@ -50,4 +50,4 @@
 - **28:1** — The Greek phrase opse sabbaton can mean "late on the Sabbath," but in Hellenistic Greek opse with the genitive regularly means "after," matching the following clause describing the dawn of the first day of the week.
 - **28:6** — Later Greek manuscripts add "the Lord" ("where the Lord was lying"), whereas the earliest witnesses omit the title and read simply "where He was lying."
 - **28:17** — The Greek verb distazo ("doubted" or "hesitated") and the construction hoi de ("yet some") are debated as to whether a portion of the eleven wavered or whether the disciples as a whole felt initial hesitation alongside worship.
-- **28:19** — The Greek preposition eis ("into the name") conveys entry into allegiance and relationship with the singular "name" of the Father, the Son, and the Holy Spirit.
+- **28:19** — The Greek preposition eis is literally "into" ("into the name").

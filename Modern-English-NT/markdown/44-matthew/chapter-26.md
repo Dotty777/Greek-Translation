@@ -55,7 +55,7 @@
 
 **26:25** Then Judas, the one handing Him over, answered and said, "Surely it is not I, Rabbi?" He said to him, "You have said it."
 
-**26:26** Now while they were eating, Jesus took bread, and having blessed it, He broke it, and giving it to the disciples, He said, "Take, eat; this is My body."
+**26:26** Now while they were eating, Jesus took bread, and having said a blessing, He broke it, and giving it to the disciples, He said, "Take, eat; this is My body."
 
 **26:27** And taking a cup and having given thanks, He gave it to them, saying, "Drink from it, all of you,
 

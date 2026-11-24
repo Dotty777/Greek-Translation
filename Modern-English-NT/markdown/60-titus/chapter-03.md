@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** Remind them to submit to rulers and authorities, to be obedient, to be ready for every good work,
+**3:1** Remind them to submit to rulers, to authorities, to be obedient, to be ready for every good work,
 
 **3:2** to malign no one, to be peaceable and considerate, showing all gentleness toward all people.
 
@@ -19,7 +19,7 @@
 
 **3:7** so that, having been justified by His grace, we might become heirs according to the hope of eternal life.
 
-**3:8** The word is trustworthy, and concerning these things I want you to insist confidently, so that those who have believed in God may be careful to devote themselves to good deeds. These things are good and profitable for people.
+**3:8** The saying is trustworthy, and concerning these things I want you to insist confidently, so that those who have believed in God may be careful to devote themselves to good deeds. These things are good and profitable for people.
 
 **3:9** But avoid foolish controversies, genealogies, strifes, and quarrels about the law, for they are unprofitable and futile.
 

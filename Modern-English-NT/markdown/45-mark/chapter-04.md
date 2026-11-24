@@ -37,7 +37,7 @@
 
 **4:16** And in the same way, these are the ones sown on the rocky places, who, when they hear the word, immediately receive it with joy,
 
-**4:17** and they have no root in themselves, but are only temporary; then, when affliction or persecution arises because of the word, immediately they stumble.
+**4:17** and they have no root in themselves, but are temporary; then, when affliction or persecution arises because of the word, immediately they stumble.
 
 **4:18** And others are the ones sown among the thorns; these are the ones who heard the word,
 

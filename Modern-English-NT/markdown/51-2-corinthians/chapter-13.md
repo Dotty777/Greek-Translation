@@ -19,7 +19,7 @@
 
 **13:7** Now we pray to God that you do nothing wrong—not so that we may appear approved, but so that you may do what is right, even though we may be as though unapproved.
 
-**13:8** For we are not able to do anything against the truth, but only on behalf of the truth.
+**13:8** For we are not able to do anything against the truth, but on behalf of the truth.
 
 **13:9** For we rejoice whenever we are weak while you are strong. This also is what we pray for: your restoration.
 

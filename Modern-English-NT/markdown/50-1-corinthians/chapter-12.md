@@ -59,7 +59,7 @@
 
 **12:27** Now you are Christ's body, and individually members of it.
 
-**12:28** And God has appointed in the church, first apostles, second prophets, third teachers, then miracles, then gifts of healings, helps, administrations, and kinds of tongues.
+**12:28** And God has appointed some in the church: first apostles, second prophets, third teachers, then miracles, then gifts of healings, helps, administrations, and kinds of tongues.
 
 **12:29** Are all apostles? Are all prophets? Are all teachers? Do all perform miracles?
 

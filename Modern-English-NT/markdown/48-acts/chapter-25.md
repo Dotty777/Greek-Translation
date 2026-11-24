@@ -29,7 +29,7 @@
 
 **25:12** Then Festus, having conferred with the council, answered, "To Caesar you have appealed; to Caesar you will go."
 
-**25:13** Now when several days had passed, King Agrippa and Bernice arrived at Caesarea to greet Festus.
+**25:13** Now when several days had passed, King Agrippa and Bernice arrived at Caesarea and greeted Festus.
 
 **25:14** And while they were spending many days there, Festus laid the matters concerning Paul before the king, saying, "There is a certain man left behind as a prisoner by Felix,
 
@@ -49,7 +49,7 @@
 
 **25:22** And Agrippa said to Festus, "I myself would also like to hear the man." "Tomorrow," he said, "you will hear him."
 
-**25:23** So on the next day, when Agrippa and Bernice came with great pomp and entered the audience hall along with the military tribunes and the prominent men of the city, at the command of Festus Paul was brought in.
+**25:23** So on the next day, when Agrippa and Bernice came with great pomp and entered the audience hall along with the military commanders and the prominent men of the city, at the command of Festus Paul was brought in.
 
 **25:24** And Festus said, "King Agrippa, and all you men who are present here with us, you see this man, concerning whom the entire multitude of the Jews petitioned me both in Jerusalem and here, shouting that he ought not to live any longer.
 

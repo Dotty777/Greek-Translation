@@ -27,7 +27,7 @@
 
 **7:11** And it happened soon afterward that He went to a city called Nain, and His disciples and a large crowd were going along with Him.
 
-**7:12** Now as He approached the gate of the city, look, a dead man was being carried out, the only son of his mother, and she was a widow; and a sizable crowd from the city was with her.
+**7:12** Now as He approached the gate of the city, look, a dead man was being carried out, the only-begotten son of his mother, and she was a widow; and a sizable crowd from the city was with her.
 
 **7:13** When the Lord saw her, He was moved with compassion for her and said to her, "Do not weep."
 
@@ -61,7 +61,7 @@
 
 **7:28** I tell you, among those born of women there is no one greater than John; yet the one who is least in the kingdom of God is greater than he."
 
-**7:29** (When all the people and the tax collectors heard this, they vindicated God, having been baptized with the baptism of John;
+**7:29** (When all the people and the tax collectors heard this, they justified God, having been baptized with the baptism of John;
 
 **7:30** but the Pharisees and the experts in the law rejected God's purpose for themselves, not having been baptized by him.)
 
@@ -73,7 +73,7 @@
 
 **7:34** The Son of Man has come eating and drinking, and you say, 'Look, a gluttonous man and a drunkard, a friend of tax collectors and sinners!'
 
-**7:35** Yet wisdom is vindicated by all her children."
+**7:35** Yet wisdom is justified by all her children."
 
 **7:36** Now one of the Pharisees was asking Him to eat with him; and having entered the Pharisee's house, He reclined at table.
 
@@ -108,6 +108,6 @@
 ## Translator Notes
 
 - **7:19** — The Greek text here reads "to Jesus" (πρὸς τὸν Ἰησοῦν), whereas several early manuscripts read "to the Lord" (πρὸς τὸν κύριον).
-- **7:29** — Verses 29–30 are punctuated as a parenthetical comment by the narrator, though some interpreters view them as a continuation of Jesus' speech. "Vindicated God" (ἐδικαίωσαν τὸν θεόν) means they acknowledged God to be righteous.
-- **7:35** — "Is vindicated" uses a gnomic aorist (ἐδικαιώθη), echoing "vindicated" in 7:29; the preposition ἀπό ("by") marks the children of wisdom as those through whom wisdom's rightness is demonstrated.
+- **7:29** — Verses 29–30 are punctuated as a parenthetical comment by the narrator, though some interpreters view them as a continuation of Jesus' speech. "Justified God" (ἐδικαίωσαν τὸν θεόν) means they acknowledged God to be righteous.
+- **7:35** — "Is justified" uses a gnomic aorist (ἐδικαιώθη), echoing "justified" in 7:29; the preposition ἀπό ("by") marks the children of wisdom as those through whom wisdom's rightness is demonstrated.
 - **7:47** — The conjunction ὅτι ("for") is debated: in light of the parable in 7:41–43, many read it evidentially ("as shown by the fact that she has loved much"), while others take it causally ("because she has loved much").

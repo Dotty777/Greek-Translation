@@ -59,7 +59,7 @@
 
 **5:28** Do not marvel at this, because an hour is coming in which all who are in the tombs will hear His voice
 
-**5:29** and will come out—those who did good things to a resurrection of life, and those who practiced evil things to a resurrection of judgment.
+**5:29** and will come out—those who did good things to a resurrection of life, and those who practiced wicked things to a resurrection of judgment.
 
 **5:30** I cannot do anything from Myself; just as I hear, I judge, and My judgment is righteous, because I do not seek My own will, but the will of the One who sent Me.
 
@@ -104,7 +104,7 @@
 ## Translator Notes
 
 - **5:2** — The Greek reads literally 'by the sheep' (with 'Gate' implied, cf. Neh 3:1). Early manuscripts vary on the pool's name among Bethzatha, Bethesda, and Bethsaida, and 'in Hebrew' refers here to the Semitic vernacular (Aramaic) spoken in Judea.
-- **5:3** — The earliest and most reliable Greek manuscripts omit 'waiting for the moving of the water' at the end of v. 3 and all of v. 4 (about an angel stirring the water), so v. 4 is absent from the critical text.
-- **5:27** — The Greek phrase 'Son of Man' is uniquely without the definite article here, recalling both the heavenly judge of Daniel 7:13-14 and Jesus' genuine humanity.
+- **5:3** — The critical text does not include 'waiting for the moving of the water' at the end of v. 3 or v. 4 (about an angel stirring the water); these are absent from the earliest Greek manuscripts.
+- **5:27** — Here υἱὸς ἀνθρώπου lacks the definite article (the only such case in John), so it is rendered 'Son of Man' without 'the.'
 - **5:39** — The Greek verb 'eraunate' can be construed as either an indicative ('You search') or an imperative ('Search!'); the indicative fits the flow of the argument best in contrast with v. 40.
 - **5:4 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

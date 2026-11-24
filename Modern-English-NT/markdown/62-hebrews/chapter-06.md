@@ -11,11 +11,11 @@
 
 **6:3** And this we will do, if indeed God permits.
 
-**6:4** For it is impossible for those who have once been enlightened, and have tasted the heavenly gift, and have become partakers of the Holy Spirit,
+**6:4** For it is impossible, in the case of those who have once been enlightened, and have tasted the heavenly gift, and have become partakers of the Holy Spirit,
 
 **6:5** and have tasted the good word of God and the powers of the coming age,
 
-**6:6** and have fallen away, to be renewed again to repentance, since they crucify the Son of God again for themselves and expose Him to public disgrace.
+**6:6** and have fallen away, to renew them again to repentance, since they crucify the Son of God again for themselves and expose Him to public disgrace.
 
 **6:7** For ground that drinks the rain which often falls on it, and produces vegetation useful to those for whose sake it is also cultivated, receives a blessing from God;
 
@@ -48,6 +48,6 @@
 ## Translator Notes
 
 - **6:2** — The Greek text reads the accusative didachen ("instruction") in apposition to "foundation" in 6:1, while some manuscripts read the genitive didaches. Plural baptismon typically denotes ceremonial washings rather than exclusively Christian baptism.
-- **6:6** — The Greek infinitive anakainizein is active (literally "to renew [them] again to repentance"). Greek anastaurountas can mean either "crucifying again" or simply "crucifying," and its force may be causal ("since") or temporal ("while").
+- **6:6** — Greek anastaurountas can mean either "crucifying again" or simply "crucifying," and its force may be causal ("since") or temporal ("while").
 - **6:14** — Greek Ei men ("Surely") with the cognate participles ("blessing I will bless... multiplying I will multiply") preserves the Septuagint rendering of the emphatic Hebrew infinitive absolute in Genesis 22:17.
 - **6:17** — Greek emesiteusen literally means "intervened" or "acted as mediator," expressing how God guaranteed His promise by interposing an oath.

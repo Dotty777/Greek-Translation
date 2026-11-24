@@ -15,7 +15,7 @@
 
 **19:5** So Jesus came outside, wearing the crown of thorns and the purple robe. And he said to them, "Here is the man."
 
-**19:6** Therefore, when the chief priests and the officers saw Him, they shouted, saying, "Crucify! Crucify!" Pilate said to them, "Take Him yourselves and crucify Him, for I myself find no grounds for a charge in Him."
+**19:6** Therefore, when the chief priests and the attendants saw Him, they shouted, saying, "Crucify! Crucify!" Pilate said to them, "Take Him yourselves and crucify Him, for I myself find no grounds for a charge in Him."
 
 **19:7** The Jews answered him, "We have a law, and according to the law He must die, because He made Himself the Son of God."
 

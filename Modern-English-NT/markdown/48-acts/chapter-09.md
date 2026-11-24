@@ -97,4 +97,4 @@
 - **9:7** — Greek uses the genitive case with akouō ("hearing the voice/sound"), which is often contrasted with the accusative in Acts 22:9 to indicate that Saul's companions heard the sound without understanding the message.
 - **9:15** — Literally "a vessel of choice" (skeuos eklogēs), an idiom denoting a chosen instrument or appointed agent.
 - **9:25** — The earliest Greek manuscripts read "his disciples" (hoi mathētai autou), likely referring to converts won through Saul's preaching in Damascus; later manuscripts simplify this to "the disciples."
-- **9:31** — The earliest manuscripts read the singular "the church" (hē ekklēsia) with singular verbs, emphasizing the unity of the whole Christian community across Judea, Galilee, and Samaria rather than the later plural reading "churches."
+- **9:31** — The earliest manuscripts read the singular "the church" (hē ekklēsia) with singular verbs; later manuscripts read the plural "churches."

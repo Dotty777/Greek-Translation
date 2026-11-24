@@ -49,7 +49,7 @@
 
 **27:22** Yet now I advise you to take courage, for there will be no loss of life among you, but only of the ship.
 
-**27:23** For this very night an angel of the God to whom I belong and whom I also serve stood beside me,
+**27:23** For this night an angel of the God to whom I belong and whom I also serve stood beside me,
 
 **27:24** saying, 'Do not be afraid, Paul; you must stand before Caesar; and look, God has graciously granted to you all those who are sailing with you.'
 

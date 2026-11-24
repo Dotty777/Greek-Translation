@@ -78,4 +78,4 @@
 - **20:2** — A denarius was a Roman silver coin that served as the standard daily wage for a common laborer.
 - **20:3** — Daytime hours were counted from sunrise (around 6:00 a.m.), placing the third, sixth, ninth, and eleventh hours at roughly 9:00 a.m., noon, 3:00 p.m., and 5:00 p.m.
 - **20:15** — "Is your eye evil" is a Semitic idiom denoting envy or stinginess, contrasted here with the owner's "good" (generous) character.
-- **20:28** — Greek lytron denotes a ransom price paid for release, and the preposition anti ("in place of" or "for") expresses substitution.
+- **20:28** — Greek lytron denotes a ransom price paid for release; the preposition anti means "in place of" or "in exchange for."

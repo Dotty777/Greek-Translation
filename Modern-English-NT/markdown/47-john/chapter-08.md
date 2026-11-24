@@ -43,7 +43,7 @@
 
 **8:19** Therefore they were saying to Him, "Where is Your Father?" Jesus replied, "You know neither Me nor My Father; if you knew Me, you would know My Father as well."
 
-**8:20** He spoke these words in the treasury while teaching in the temple, and no one seized Him, because His hour had not yet arrived.
+**8:20** He spoke these words in the treasury while teaching in the temple, and no one seized Him, because His hour had not yet come.
 
 **8:21** So He said to them again, "I am going away, and you will seek Me, and you will die in your sin. Where I am going, you are not able to come."
 
@@ -103,7 +103,7 @@
 
 **8:49** Jesus replied, "I do not have a demon; rather, I honor My Father, yet you dishonor Me.
 
-**8:50** I, however, do not seek My own glory; there is One who seeks and judges.
+**8:50** I, however, do not seek My glory; there is One who seeks and judges.
 
 **8:51** Truly, truly, I tell you, if anyone keeps My word, he will never see death."
 
@@ -129,8 +129,8 @@
 - **8:7** — τὸν λίθον carries the definite article ("the stone"), referring to the first stone in a stoning execution, and πρῶτον is adverbial ("first").
 - **8:9** — The Saints Greek Critical Text includes καὶ ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι ("and being convicted by their conscience"), which appears in the Byzantine textual tradition.
 - **8:11** — While 8:10 uses κατέκρινεν ("condemn"), the Saints Greek Critical Text here reads the simple verb κρίνω ("judge"), preserved distinctly as "judge."
-- **8:24** — The Greek phrase "egō eimi" ("I am") lacks a predicate here (as also in 8:28 and 8:58), echoing God's self-revelation in Exodus 3:14 and Isaiah 43:10.
+- **8:24** — The Greek phrase "egō eimi" ("I am") lacks a predicate here (as also in 8:28 and 8:58).
 - **8:25** — The Greek construction "Tēn archēn ho ti kai lalō hymin;" is famously difficult; punctuated as a question in the critical text it means "Why am I even speaking to you at all?" though it is alternatively read as a statement, "Just what I have been telling you from the beginning."
 - **8:38** — The critical text reads "from the father" without a possessive pronoun, leaving the identity of their father ambiguous until Jesus explicitly names the devil in 8:44.
 - **8:44** — The final clause "the father of it" ("ho patēr autou") most naturally refers back to "a lie" (falsehood), though some take it to mean "the father of the liar."
-- **8:58** — Jesus contrasts the aorist infinitive "genesthai" ("came into being") for Abraham with the timeless present "egō eimi" ("I am"), asserting divine preexistence in echo of Exodus 3:14.
+- **8:58** — The aorist infinitive "genesthai" ("came into being") used of Abraham contrasts with the present "egō eimi" ("I am").

@@ -13,7 +13,7 @@
 
 **5:4** For indeed, we who are in the tent groan, being burdened, because we do not want to be unclothed, but to be clothed over, so that what is mortal may be swallowed up by life.
 
-**5:5** Now the One who prepared us for this very purpose is God, who gave us the pledge of the Spirit.
+**5:5** Now the One who prepared us for this very purpose is God, who gave us the down payment of the Spirit.
 
 **5:6** Therefore, being always confident and knowing that while we are at home in the body we are away from the Lord—
 
@@ -41,7 +41,7 @@
 
 **5:18** Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,
 
-**5:19** namely, that in Christ God was reconciling the world to Himself, not counting their trespasses against them, and having committed to us the word of reconciliation.
+**5:19** namely, that God was in Christ reconciling the world to Himself, not counting their trespasses against them, and having committed to us the word of reconciliation.
 
 **5:20** Therefore we serve as ambassadors on behalf of Christ, as though God were appealing through us; we implore you on behalf of Christ, be reconciled to God.
 
@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **5:3** — Some manuscripts read "having been unclothed" (ekdysamenoi) rather than "having been clothed" (endysamenoi); the conjunction "if indeed" (ei ge) can also carry a confident sense ("since indeed").
-- **5:7** — Greek "eidos" denotes visible appearance or outward form, often rendered "sight" in contrast to faith.
+- **5:7** — Greek "eidos" denotes visible appearance or outward form, here contrasted with faith.
 - **5:10** — Some manuscripts read "worthless" (phaulon) instead of "evil" (kakon).
 - **5:17** — The verbless Greek clause "kaine ktisis" may be understood either cosmically ("there is a new creation") or individually ("that person is a new creature"); later manuscripts add "all things" (ta panta) to the final clause.
-- **5:21** — Greek "hamartia" ("sin") here may carry the sense of "sin offering" (as often in the Septuagint) or denote Christ's substitutionary identification with human sin.
+- **5:21** — Greek "hamartia" ("sin") here may carry the sense of "sin offering" (as often in the Septuagint).

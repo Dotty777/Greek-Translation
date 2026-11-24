@@ -7,9 +7,9 @@
 
 **1:1** Paul, a slave of God and an apostle of Jesus Christ, according to the faith of God's chosen ones and the knowledge of the truth that is in accord with godliness,
 
-**1:2** in hope of eternal life, which God, who never lies, promised before eternal ages,
+**1:2** in hope of eternal life, which God, who never lies, promised before eternal times,
 
-**1:3** and at the proper times manifested His word through the proclamation with which I was entrusted according to the command of God our Savior,
+**1:3** but at the proper times manifested His word through the proclamation with which I was entrusted according to the command of God our Savior,
 
 **1:4** to Titus, a genuine child in a shared faith: Grace and peace from God the Father and Christ Jesus our Savior.
 

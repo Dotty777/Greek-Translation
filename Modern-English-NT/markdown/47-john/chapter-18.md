@@ -88,6 +88,6 @@
 ## Translator Notes
 
 - **18:3** — A "cohort" formally designated a Roman military unit of roughly six hundred soldiers, though the term could also refer to a smaller detachment led by a commander (18:12).
-- **18:5** — Jesus' reply "I am" (repeated in 18:6, 8) functions both as ordinary self-identification ("I am he") and as a resonant echo of the divine self-declaration in John, directly contrasting with Peter's "I am not" in 18:17 and 18:25.
-- **18:24** — The Greek verb is a simple past ("sent") rather than an explicit pluperfect, reflecting the narrative sequence in which Annas—who retained the courtesy title "high priest" after leaving office—interrogated Jesus before sending Him on to Caiaphas.
-- **18:37** — The Greek wording "You say that I am a king" can also be construed as "You say so, because I am a king"; in either reading, Jesus affirms His kingship while reframing it around bearing witness to the truth rather than political revolt.
+- **18:5** — Greek ego eimi, literally "I am" (repeated in 18:6, 8), can be understood as self-identification ("I am he"); compare Peter's "I am not" (ouk eimi) in 18:17 and 18:25.
+- **18:24** — The Greek verb apesteilen is a simple aorist ("sent"), not a pluperfect ("had sent").
+- **18:37** — The Greek wording "You say that I am a king" can also be construed as "You say so, because I am a king."

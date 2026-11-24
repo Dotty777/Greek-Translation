@@ -33,7 +33,7 @@
 
 **6:14** that you keep the commandment spotless and above reproach until the appearing of our Lord Jesus Christ,
 
-**6:15** which He will display at His own times—the blessed and only Sovereign, the King of those who reign and Lord of those who rule,
+**6:15** which He will display at the proper times—the blessed and only Sovereign, the King of those who reign and Lord of those who rule,
 
 **6:16** who alone possesses immortality, dwelling in unapproachable light, whom no human being has seen nor can see. To Him be honor and eternal dominion. Amen.
 
@@ -45,12 +45,12 @@
 
 **6:20** O Timothy, guard the deposit, turning away from profane empty chatter and the opposing arguments of what is falsely called knowledge,
 
-**6:21** which some have professed and so missed the mark regarding the faith. Grace be with you all.
+**6:21** which some have professed and so missed the mark regarding the faith. Grace be with you.
 
 ## Translator Notes
 
-- **6:2** — "Those who partake of the benefit" refers to the believing masters who benefit from the faithful service of their Christian slaves.
+- **6:2** — "Those who partake of the benefit" most likely refers to the believing masters who benefit from the faithful service of their Christian slaves.
 - **6:7** — The critical text has the conjunction ὅτι ("so that" or "because") directly linking the clauses; some later manuscripts add "it is clear" (δῆλον) to smooth the syntax.
-- **6:10** — Greek omits the definite article before "root," indicating that the love of money is a root from which all kinds of evil grow.
+- **6:10** — Greek has no definite article before "root" (ῥίζα), so the phrase may be read as "a root" or "the root" of all evils.
 - **6:20** — "The deposit" (τὴν παραθήκην) refers to the apostolic gospel and sound teaching entrusted to Timothy's care.
 - **6:21** — The pronoun "you" (ὑμῶν) is plural in the critical text, extending the closing blessing beyond Timothy to the entire congregation.

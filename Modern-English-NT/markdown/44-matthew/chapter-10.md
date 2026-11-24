@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** And calling His twelve disciples to Himself, He gave them authority over unclean spirits, to cast them out and to heal every disease and every affliction.
+**10:1** And calling His twelve disciples to Himself, He gave them authority over unclean spirits, to cast them out and to heal every disease and every sickness.
 
 **10:2** Now the names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; and James the son of Zebedee, and John his brother;
 
@@ -17,7 +17,7 @@
 
 **10:6** but go rather to the lost sheep of the house of Israel.
 
-**10:7** And as you go, proclaim, saying, 'The kingdom of heaven has come near.'
+**10:7** And as you go, proclaim, saying, 'The kingdom of heaven has drawn near.'
 
 **10:8** Heal the sick, raise the dead, cleanse lepers, cast out demons. Without cost you received; without cost give.
 
@@ -92,6 +92,6 @@
 ## Translator Notes
 
 - **10:4** — "Cananaean" transliterates Greek Καναναῖος, derived from an Aramaic term meaning "zealous one" or "Zealot" (cf. Luke 6:15), not a resident of Cana or Canaan.
-- **10:23** — "Finish going through" renders Greek τελέσητε ("complete"), referring to completing the mission circuit through Israel's towns; interpreters debate whether the coming of the Son of Man refers to His resurrection vindication, the judgment on Jerusalem in AD 70, or His final return.
+- **10:23** — "Finish going through" renders Greek τελέσητε ("complete," "finish"), referring to completing the circuit of Israel's cities.
 - **10:28** — "Gehenna" transliterates Greek γέεννα (from the Hebrew Valley of Hinnom south of Jerusalem), used in Jewish and early Christian usage as a term for final divine judgment and hell.
 - **10:29** — "Copper coin" translates Greek ἀσσάριον (assarion), a small Roman bronze coin worth one-sixteenth of a denarius; "apart from your Father" literally renders ἄνευ τοῦ πατρὸς ὑμῶν, conveying without His knowledge or will.

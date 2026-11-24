@@ -51,7 +51,7 @@
 
 **15:23** But each in his own order: Christ the firstfruits, then those who belong to Christ at His coming.
 
-**15:24** Then comes the end, when He hands over the kingdom to God the Father, once He has abolished every rule and every authority and power.
+**15:24** Then comes the end, when He hands over the kingdom to the God and Father, once He has abolished every rule and every authority and power.
 
 **15:25** For He must reign until He places all enemies under His feet.
 
@@ -71,7 +71,7 @@
 
 **15:33** Do not be deceived: bad associations corrupt good character.
 
-**15:34** Sober up properly and stop sinning, for some have no knowledge of God; I speak this to your shame.
+**15:34** Sober up properly and stop sinning, for some have no knowledge of God; I speak to your shame.
 
 **15:35** But someone will say, "How are the dead raised? And with what kind of body do they come?"
 
@@ -123,7 +123,7 @@
 
 ## Translator Notes
 
-- **15:8** — The Greek term ektrōmati (with the definite article) literally denotes a miscarriage or an abnormally early birth, underscoring the sudden, irregular, and humbling character of Paul's call as an apostle.
-- **15:29** — The phrase "baptized on behalf of the dead" (hyper tōn nekrōn) is famously debated, with proposals ranging from vicarious baptism for deceased persons to baptism undertaken in hope of rejoining dead believers. Paul cites the practice simply to expose the inconsistency of denying the resurrection, without explaining or endorsing it.
-- **15:44** — Greek psychikon literally means "soulish" (pertaining to the psychē, natural mortal life), contrasted with pneumatikon ("spiritual"), meaning a resurrection body animated by the Spirit rather than an immaterial body.
+- **15:8** — The Greek term ektrōmati (with the definite article) literally denotes a miscarriage or an abnormally early birth.
+- **15:29** — The phrase "baptized on behalf of the dead" (hyper tōn nekrōn) is famously debated, with proposals ranging from vicarious baptism for deceased persons to baptism undertaken in hope of rejoining dead believers.
+- **15:44** — Greek psychikon literally means "soulish" (pertaining to the psychē, natural mortal life), contrasted with pneumatikon ("spiritual").
 - **15:49** — The critical Greek text reads the hortatory subjunctive phoresōmen ("let us also bear"), supported by strong early manuscripts; other manuscripts read the future indicative phoresomen ("we will also bear"), which aligns with the predictive statements in the context.

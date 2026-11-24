@@ -23,7 +23,7 @@
 
 **1:9** Indeed, we ourselves had the sentence of death within ourselves, so that we would not rely on ourselves, but on God who raises the dead;
 
-**1:10** who rescued us from so great a death and will rescue us; on Him we have set our hope that He will continue to rescue us still further,
+**1:10** who rescued us from so great a death and will rescue us; on Him we have set our hope that He will rescue us yet again,
 
 **1:11** as you also join in helping on our behalf through prayer, so that for the gracious gift granted to us from many persons, thanks may be given through many on our behalf.
 

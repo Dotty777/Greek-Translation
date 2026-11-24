@@ -132,8 +132,8 @@
 ## Translator Notes
 
 - **9:2** — Some early manuscripts (notably Codex Vaticanus) omit "the sick," reading simply "and to cure."
-- **9:28** — Luke's "about eight days" reflects inclusive reckoning of the interval that Matthew 17:1 and Mark 9:2 express as "six days."
-- **9:31** — The Greek word exodos literally means "departure" or "exodus," echoing Israel's Exodus while referring to Jesus' impending death, resurrection, and ascension.
+- **9:28** — Greek hosei hemerai okto ("about eight days") stands as a parenthetical nominative; Matthew 17:1 and Mark 9:2 read "after six days."
+- **9:31** — The Greek word exodos literally means "a going out," that is, "departure" (the source of English "exodus").
 - **9:35** — The earliest manuscripts read "the Chosen One," whereas later manuscripts harmonize with Matthew 17:5 and Mark 9:7 to read "the Beloved."
-- **9:51** — The Greek term analempsis ("taking up" or "ascension") opens Luke's travel narrative to Jerusalem and looks ahead to Jesus' passion, resurrection, and ascension.
+- **9:51** — The Greek term analempsis means "a taking up."
 - **9:55** — Many later manuscripts add to this verse, "and said, 'You do not know what kind of spirit you are of; for the Son of Man did not come to destroy men's lives, but to save them,'" which is absent from the earliest manuscripts.

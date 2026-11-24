@@ -61,7 +61,7 @@
 
 **2:28** then he himself received Him into his arms and blessed God and said,
 
-**2:29** "Now You are releasing Your servant, Master, according to Your word, in peace;
+**2:29** "Now You are releasing Your slave, Master, according to Your word, in peace;
 
 **2:30** for my eyes have seen Your salvation,
 

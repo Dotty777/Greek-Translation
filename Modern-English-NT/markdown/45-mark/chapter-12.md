@@ -15,7 +15,7 @@
 
 **12:5** And he sent another, and that one they killed; and many others as well, beating some and killing others.
 
-**12:6** He still had one more, a beloved son; he sent him last of all to them, saying, 'They will respect my son.'
+**12:6** He still had one more, a beloved son; he sent him last to them, saying, 'They will respect my son.'
 
 **12:7** But those farmers said among themselves, 'This is the heir; come, let us kill him, and the inheritance will be ours.'
 
@@ -69,7 +69,7 @@
 
 **12:32** And the scribe said to Him, "Well said, Teacher; in truth You have spoken, that He is one, and there is no other besides Him;
 
-**12:33** and to love Him with the whole heart, and with the whole understanding, and with the whole strength, and to love one's neighbor as oneself, is far more than all whole burnt offerings and sacrifices."
+**12:33** and to love Him with the whole heart, and with the whole understanding, and with the whole strength, and to love one's neighbor as oneself, is more than all whole burnt offerings and sacrifices."
 
 **12:34** And Jesus, seeing that he had answered sensibly, said to him, "You are not far from the kingdom of God." And no one dared any longer to question Him.
 

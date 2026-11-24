@@ -45,7 +45,7 @@
 
 **24:20** And pray that your flight will not take place in winter or on a Sabbath.
 
-**24:21** For then there will be great affliction, such as has not occurred from the beginning of the world until now, nor will by any means occur again.
+**24:21** For then there will be great affliction, such as has not occurred from the beginning of the world until now, nor will by any means occur.
 
 **24:22** And if those days had not been cut short, no flesh would have been saved; but for the sake of the chosen ones, those days will be cut short.
 
@@ -105,12 +105,12 @@
 
 **24:50** the master of that slave will come on a day he does not expect and at an hour he does not know,
 
-**24:51** and will cut him in two and assign his portion with the hypocrites. In that place there will be weeping and gnashing of teeth."
+**24:51** and will cut him in two and assign his portion with the hypocrites. In that place there will be the weeping and the gnashing of teeth."
 
 ## Translator Notes
 
 - **24:3** — Greek parousia means "coming" or "presence" (often used for a royal arrival), and synteleia denotes the "completion" or "close" of the age.
 - **24:28** — Greek aetoi literally means "eagles," though in antiquity the term also included large carrion birds such as vultures, which fits the mention of a carcass.
 - **24:33** — The clause has no explicit subject in Greek and can be translated either "He is near" (the Son of Man) or "it is near" (His coming or the end).
-- **24:36** — Some later manuscripts omit "nor the Son," likely out of theological concern, whereas the earliest and best-attested witnesses include the phrase.
+- **24:36** — Some later manuscripts omit "nor the Son," which the earliest witnesses and the Saints Greek Critical Text include.
 - **24:51** — Greek dichotomesei literally means "will cut in two," denoting either literal execution or, figuratively, severe punishment and expulsion.

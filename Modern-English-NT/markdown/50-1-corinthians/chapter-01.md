@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** Paul, called as an apostle of Christ Jesus through the will of God, and our brother Sosthenes,
+**1:1** Paul, called as an apostle of Christ Jesus through the will of God, and Sosthenes the brother,
 
 **1:2** to the church of God that is in Corinth, to those sanctified in Christ Jesus, called as saints, together with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours:
 
@@ -72,4 +72,4 @@
 - **1:2** — The Greek text places "those sanctified in Christ Jesus" before "that is in Corinth," and "both theirs and ours" at the end of the verse can grammatically modify either "every place" or "our Lord Jesus Christ."
 - **1:14** — The critical Greek text reads simply "I give thanks," omitting "to God," which is added in many later manuscripts.
 - **1:23** — The critical Greek text reads "Gentiles" (literally "nations") here rather than "Greeks," which appears in some later manuscripts in assimilation to verses 22 and 24.
-- **1:30** — The Greek construction links righteousness, sanctification, and redemption closely together as an unfolding of how Christ became wisdom from God for believers.
+- **1:30** — The particles te kai ... kai bind righteousness, sanctification, and redemption closely together; they may explain "wisdom from God" or stand alongside it.

@@ -19,7 +19,7 @@
 
 **10:7** or, "Who will descend into the abyss?" (that is, to bring Christ up from the dead).
 
-**10:8** Rather, what does it say? "The word is near you, in your mouth and in your heart"--that is, the word of faith that we proclaim:
+**10:8** Rather, what does it say? "The word is near you, in your mouth and in your heart"—that is, the word of faith that we proclaim:
 
 **10:9** that if with your mouth you confess Jesus as Lord, and in your heart you believe that God raised Him from the dead, you will be saved;
 
@@ -51,5 +51,5 @@
 
 - **10:4** — Greek telos can mean either "end" (termination) or "goal" (culmination/purpose), and interpreters debate whether Paul intends one or both senses here.
 - **10:5** — The critical Greek text reads en aute ("by it," referring to the righteousness from the law), whereas some manuscripts read en autois ("by them," referring to the things done).
-- **10:14** — Literally "whom they have not heard" (taking the genitive relative pronoun as the direct object of hearing), indicating that Christ Himself is heard in the proclamation of the gospel.
+- **10:14** — Literally "whom they have not heard," taking the genitive relative pronoun as the direct object of hearing.
 - **10:17** — Greek akoe links 10:16 and 10:17 with a dual sense of "report/message" (10:16) and "hearing" (10:17); some later manuscripts read "the word of God" rather than "the word of Christ."

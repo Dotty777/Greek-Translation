@@ -21,9 +21,9 @@
 
 **3:8** But now you also put away all these things: wrath, fury, malice, slander, and obscene speech from your mouth.
 
-**3:9** Do not lie to one another, since you have stripped off the old man together with his practices,
+**3:9** Do not lie to one another, since you have stripped off the old self together with its practices,
 
-**3:10** and have put on the new man, who is being renewed to full knowledge according to the image of the One who created him,
+**3:10** and have put on the new self, which is being renewed to full knowledge according to the image of the One who created it,
 
 **3:11** where there is not Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, slave, free; rather, Christ is all and in all.
 
@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **3:6** — Many later manuscripts add "upon the sons of disobedience" (likely influenced by Ephesians 5:6); the earlier critical text omits the phrase.
+- **3:6** — The Greek text here lacks "upon the sons of disobedience," which many manuscripts add (compare Ephesians 5:6).
 - **3:15** — The verb rendered "govern" literally means "act as umpire" or "arbitrate."
 - **3:16** — Punctuation is debated: "in all wisdom" may modify either "dwell" (as punctuated here) or "teaching and admonishing," and "in grace" may also mean "with gratitude."
 - **3:24** — The Greek verb form can be read either as an indicative ("You serve the Lord Christ") or as an imperative ("Serve the Lord Christ").

@@ -27,7 +27,7 @@
 
 **2:11** Therefore remember that formerly you, the Gentiles in the flesh, who are called "uncircumcision" by the so-called "circumcision" in the flesh made by hands,
 
-**2:12** that at that time you were apart from Christ, estranged from the citizenship of Israel and foreigners to the covenants of the promise, not having hope and without God in the world.
+**2:12** that at that time you were apart from Christ, alienated from the citizenship of Israel and foreigners to the covenants of the promise, not having hope and without God in the world.
 
 **2:13** But now in Christ Jesus, you who once were far away were brought near by the blood of Christ.
 
@@ -37,7 +37,7 @@
 
 **2:16** and might reconcile both in one body to God through the cross, having put the hostility to death by it.
 
-**2:17** And having come, He proclaimed peace to you who were far away and peace to those who were near;
+**2:17** And having come, He proclaimed good news of peace to you who were far away and peace to those who were near;
 
 **2:18** because through Him both of us have access in one Spirit to the Father.
 
@@ -52,6 +52,6 @@
 ## Translator Notes
 
 - **2:1** — The Greek leaves "you, being dead..." grammatically suspended without a main verb until God's action is stated in vv. 4-5.
-- **2:8** — The neuter pronoun "this" (touto) points to the entire statement of salvation by grace through faith rather than to "faith" (feminine in Greek) alone.
+- **2:8** — The pronoun "this" (touto) is neuter, while "grace" and "faith" are feminine; it may refer to the whole preceding clause.
 - **2:16** — "By it" (en autō) refers to the cross, though it may also be understood as "in Himself" (Christ).
 - **2:21** — Without the Greek article, pasa oikodomē ("the whole structure") can also be translated "every building" or "every structure."

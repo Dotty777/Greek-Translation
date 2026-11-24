@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** Now before the festival of the Passover, knowing that His hour had come that He should depart from this world to the Father, Jesus, having loved His own who were in the world, loved them to the end.
+**13:1** Now before the feast of the Passover, knowing that His hour had come that He should depart from this world to the Father, Jesus, having loved His own who were in the world, loved them to the end.
 
 **13:2** And while supper was underway, the devil having already put into the heart that Judas Iscariot, son of Simon, should betray Him,
 
@@ -86,5 +86,5 @@
 - **13:1** — Greek eis telos can mean either "to the end" (temporally, through His death) or "to the utmost," and both nuances may be intended here.
 - **13:2** — Greek literally reads "having already put into the heart" without a possessive pronoun; it is usually understood as Judas's heart, though some take it as the devil's own purpose.
 - **13:10** — Some early manuscripts omit "except to wash his feet" (ei me tous podas), reading simply "has no need to wash."
-- **13:19** — Greek ego eimi literally reads "I am," echoing the divine self-declaration in the Greek Old Testament (e.g., Isa 43:10), though it can also be understood as "I am He."
+- **13:19** — Greek ego eimi literally reads "I am," though it can also be understood as "I am He."
 - **13:32** — Some manuscripts include "If God has been glorified in Him" at the start of this verse, which is omitted in the earliest witnesses.

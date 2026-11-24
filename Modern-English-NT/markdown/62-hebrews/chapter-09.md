@@ -37,17 +37,17 @@
 
 **9:16** For where there is a will, the death of the one who made it must be established;
 
-**9:17** for a will is confirmed only upon death, since it is never in force while the one who made it is alive.
+**9:17** for a will is confirmed upon death, since it is never in force while the one who made it is alive.
 
 **9:18** Therefore not even the first covenant was inaugurated without blood.
 
-**9:19** For when every commandment according to the Law had been spoken by Moses to all the people, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the scroll itself and all the people,
+**9:19** For when every commandment according to the law had been spoken by Moses to all the people, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the scroll itself and all the people,
 
 **9:20** saying, "This is the blood of the covenant that God commanded for you."
 
 **9:21** And in the same way he sprinkled both the tabernacle and all the vessels of the ministry with the blood.
 
-**9:22** And according to the Law nearly everything is cleansed with blood, and without the shedding of blood there is no forgiveness.
+**9:22** And according to the law nearly everything is cleansed with blood, and without the shedding of blood there is no forgiveness.
 
 **9:23** Therefore it was necessary for the copies of the things in the heavens to be cleansed with these, but the heavenly things themselves with better sacrifices than these.
 
@@ -64,6 +64,6 @@
 ## Translator Notes
 
 - **9:4** — The Greek term θυμιατήριον can refer either to the golden altar of incense or to a portable golden censer used on the Day of Atonement.
-- **9:11** — The Greek text reads γενομένων ("that have come") rather than the variant μελλόντων ("to come"), emphasizing blessings already realized through Christ.
+- **9:11** — The Greek text reads γενομένων ("that have come") rather than the variant μελλόντων ("to come").
 - **9:14** — The Greek text reads ὑμῶν ("your conscience") rather than ἡμῶν ("our conscience"); "through the eternal Spirit" (διὰ πνεύματος αἰωνίου) may refer either to the Holy Spirit or to Christ's own eternal spiritual nature.
-- **9:16** — In verses 16-17, the Greek noun διαθήκη ("covenant") shifts to its legal sense of "will" or "testament," playing on the dual meaning of the term to explain the necessity of Christ's death.
+- **9:16** — In verses 16-17, the Greek noun διαθήκη ("covenant") shifts to its legal sense of "will" or "testament," playing on the dual meaning of the term.

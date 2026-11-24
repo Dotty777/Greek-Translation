@@ -55,7 +55,7 @@
 
 **10:25** Eat everything sold in the meat market without raising any question for the sake of conscience,
 
-**10:26** for the earth belongs to the Lord, and all its fullness.
+**10:26** for the earth belongs to the Lord, and its fullness.
 
 **10:27** If one of the unbelievers invites you and you want to go, eat everything set before you without raising any question for the sake of conscience.
 
@@ -74,6 +74,6 @@
 ## Translator Notes
 
 - **10:4** — Paul draws on a Jewish interpretive tradition that the water-giving rock of Exodus 17 and Numbers 20 accompanied Israel in the wilderness, identifying its spiritual reality with Christ.
-- **10:8** — Numbers 25:9 records a total of 24,000 dead in the plague; Paul's figure of 23,000 falling 'in a single day' likely reflects either a rounded number or those who fell on one day.
+- **10:8** — Numbers 25:9 gives the number of those who died in the plague as 24,000.
 - **10:9** — The Greek source text reads 'the Lord' (ton Kyrion), while many ancient manuscripts read 'Christ' (ton Christon) and a few read 'God' (ton theon).
 - **10:28** — The speaker uses the neutral term hierothyton ('offered in sacrifice') rather than Paul's term eidōlothyton ('sacrificed to idols', v. 19). Later manuscripts repeat v. 26 at the end of this verse, which is omitted in the earliest witnesses.

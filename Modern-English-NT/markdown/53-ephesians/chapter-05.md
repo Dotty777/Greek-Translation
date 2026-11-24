@@ -74,7 +74,7 @@
 ## Translator Notes
 
 - **5:2** — The Greek text shifts from the second person ("loved you") to the first person ("for us"), a reading well attested in early manuscripts.
-- **5:5** — "Of Christ and God" places a single Greek article before both nouns, which many grammarians understand as identifying Christ as God ("of Him who is Christ and God").
+- **5:5** — A single Greek article governs both nouns (tou Christou kai theou); the construction may denote one referent or two closely joined ones.
 - **5:14** — An unidentified quotation—likely an early Christian hymn echoing Isaiah 26:19 and 60:1—introduced with the standard scriptural citation formula "it says."
 - **5:22** — The earliest Greek text has no verb in this verse, carrying over "submitting" directly from verse 21.
 - **5:33** — "Respect" translates the Greek verb meaning "fear" or "revere," echoing "the fear of Christ" in verse 21.

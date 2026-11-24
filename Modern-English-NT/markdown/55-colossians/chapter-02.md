@@ -41,7 +41,7 @@
 
 **2:18** Let no one disqualify you, delighting in humility and the worship of angels, entering into the things he has seen, puffed up without reason by the mind of his flesh,
 
-**2:19** and not holding fast to the Head, from whom the whole body, being supplied and knit together through the joints and ligaments, grows with a growth from God.
+**2:19** and not holding fast to the head, from whom the whole body, being supplied and knit together through the joints and ligaments, grows with a growth from God.
 
 **2:20** If you died with Christ to the elementary principles of the world, why, as though living in the world, do you submit to decrees,
 

@@ -11,7 +11,7 @@
 
 **3:3** for you are still fleshly. For where there is jealousy and strife among you, are you not fleshly and walking according to human ways?
 
-**3:4** For whenever someone says, "I am of Paul," and another, "I of Apollos," are you not merely human?
+**3:4** For whenever someone says, "I am of Paul," and another, "I of Apollos," are you not human beings?
 
 **3:5** What then is Apollos? And what is Paul? Servants through whom you believed, even as the Lord gave to each one.
 
@@ -54,6 +54,6 @@
 ## Translator Notes
 
 - **3:1** — Paul uses sarkinos ("of flesh") here before shifting to the related adjective sarkikos ("fleshly") in verse 3.
-- **3:4** — The critical Greek text reads "merely human" (literally "human beings") rather than "fleshly," which appears in some later manuscripts under the influence of verse 3.
+- **3:4** — The critical Greek text reads "human beings" rather than "fleshly," which appears in some later manuscripts under the influence of verse 3.
 - **3:9** — "God's fellow workers" can mean either coworkers who belong to God or workers who labor in partnership with God.
 - **3:16** — "Temple" translates naos, the inner sanctuary where God's presence dwells, and "you" is plural throughout verses 16-17, referring to the church collectively.

@@ -31,7 +31,7 @@
 
 **6:13** and they were casting out many demons, and were anointing many sick people with oil and healing them.
 
-**6:14** And King Herod heard of it, for His name had become well known; and people were saying, "John the Baptizer has been raised from the dead, and because of this these powers are at work in Him."
+**6:14** And King Herod heard of it, for His name had become well known; and people were saying, "John the Baptizer has been raised from the dead, and because of this these powers are at work in him."
 
 **6:15** But others were saying, "He is Elijah." And others were saying, "A prophet, like one of the prophets."
 

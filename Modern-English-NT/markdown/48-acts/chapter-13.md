@@ -75,7 +75,7 @@
 
 **13:35** Therefore He also says in another place, 'You will not allow Your Holy One to see decay.'
 
-**13:36** For David, after serving the purpose of God in his own generation, fell asleep and was laid with his fathers and saw decay;
+**13:36** For David, after serving the purpose of God in his own generation, fell asleep and was added to his fathers and saw decay;
 
 **13:37** but the One whom God raised did not see decay.
 
@@ -83,7 +83,7 @@
 
 **13:39** in Him everyone who believes is justified.
 
-**13:40** Watch out, then, so that what was spoken in the prophets may not come upon you:
+**13:40** Watch out, then, so that what was spoken in the prophets may not come about:
 
 **13:41** 'Look, you scoffers, and be amazed, and perish; for I am doing a work in your days, a work that you will never believe even if someone recounts it to you in full.'"
 
@@ -107,11 +107,11 @@
 
 **13:51** But they shook off the dust of their feet against them and went to Iconium.
 
-**13:52** And the disciples were continually being filled with joy and with the Holy Spirit.
+**13:52** And the disciples were being filled with joy and with the Holy Spirit.
 
 ## Translator Notes
 
 - **13:18** — The Greek text reads ἐτροποφόρησεν ("put up with" or "endured their ways"); another well-attested variant reads ἐτροφοφόρησεν ("cared for" or "carried like a nurse," echoing Deut 1:31 LXX).
 - **13:20** — In this textual order, "in about four hundred and fifty years" concludes the preceding summary of Israel's history through the conquest of Canaan, rather than measuring the period of the judges that follows.
 - **13:33** — The Greek text reads τοῖς τέκνοις ἡμῶν ("for our children"); some manuscripts read τοῖς τέκνοις αὐτῶν ἡμῖν ("for us, their children").
-- **13:48** — The perfect passive participle τεταγμένοι ("had been appointed") reflects Luke's standard usage for external appointment, though some interpreters understand it in a middle sense ("were disposed" or "aligned themselves").
+- **13:48** — The perfect participle τεταγμένοι is taken here as passive ("had been appointed"); some interpreters understand it in a middle sense ("were disposed" or "aligned themselves").

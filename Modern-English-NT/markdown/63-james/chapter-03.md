@@ -15,7 +15,7 @@
 
 **3:5** In the same way, the tongue also is a small member, yet it boasts of great things. See how small a fire sets ablaze how great a forest!
 
-**3:6** And the tongue is a fire; as the world of unrighteousness, the tongue is placed among our members, staining the entire body and setting ablaze the wheel of existence, while itself being set ablaze by hell.
+**3:6** And the tongue is a fire; as the world of unrighteousness, the tongue is placed among our members, staining the entire body and setting ablaze the wheel of existence, while itself being set ablaze by Gehenna.
 
 **3:7** For every kind of wild beast and bird, of reptile and sea creature, is tamed and has been tamed by humankind,
 
@@ -43,6 +43,6 @@
 
 ## Translator Notes
 
-- **3:6** — "The wheel of existence" (ton trochon tes geneseos) is a vivid metaphor for the whole cycle of human life; "hell" translates Greek Gehenna.
-- **3:15** — "Unspiritual" translates psychike, literally "soulish" or "merely natural," describing wisdom operating on a purely human level apart from God's Spirit.
+- **3:6** — "The wheel of existence" (ton trochon tes geneseos) is literally "the wheel of origin (or birth)," a metaphor for the whole course of human life.
+- **3:15** — "Unspiritual" translates psychike, literally "soulish" or "natural."
 - **3:18** — The Greek dative tois poiousin eirenen can be understood either as "for those who make peace" (dative of advantage) or "by those who make peace" (dative of agency).

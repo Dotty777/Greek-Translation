@@ -89,9 +89,9 @@
 
 **7:42** But God turned away and gave them over to worship the host of heaven, just as it is written in the book of the prophets: 'Did you offer to Me slaughtered animals and sacrifices for forty years in the wilderness, house of Israel?
 
-**7:43** And you took up the tent of Moloch and the star of the god Rompha, the images that you made to bow down to them; and I will relocate you beyond Babylon.'
+**7:43** And you took up the tabernacle of Moloch and the star of the god Rompha, the images that you made to bow down to them; and I will relocate you beyond Babylon.'
 
-**7:44** Our fathers had the tent of testimony in the wilderness, just as the One who spoke to Moses directed him to make it according to the pattern that he had seen,
+**7:44** Our fathers had the tabernacle of testimony in the wilderness, just as the One who spoke to Moses directed him to make it according to the pattern that he had seen,
 
 **7:45** which our fathers also, having received it in turn, brought in with Joshua when taking possession of the nations that God drove out from before our fathers, until the days of David,
 
@@ -131,7 +131,7 @@
 - **7:16** — Stephen compresses two Old Testament accounts: Abraham's purchase of the burial cave at Machpelah from Ephron the Hittite (Gen 23) and Jacob's purchase of land at Shechem from the sons of Hamor, where Joseph's bones were buried (Gen 33:19; Josh 24:32).
 - **7:20** — The Greek phrase asteios to theo (literally 'beautiful to God') is a Semitic idiom denoting either pleasing in God's sight or extraordinarily beautiful.
 - **7:30** — The earliest witnesses read simply 'an angel,' while later manuscripts expand the phrase to 'an angel of the Lord' in harmonization with Exodus 3:2.
-- **7:38** — Early manuscripts (including P74, B, and C) read 'to you' (hymin), whereas later witnesses assimilate to 'to us' (hemin).
+- **7:38** — Early manuscripts (including P74 and B) read 'to you' (hymin), whereas later witnesses assimilate to 'to us' (hemin).
 - **7:43** — The Greek text reads 'Rompha' (with manuscript variants such as Rephan), reflecting the Septuagint of Amos 5:26; Stephen also replaces Amos 5:27's 'Damascus' with 'Babylon' in view of the Babylonian exile.
 - **7:45** — The Greek name Iesous here renders the Hebrew name Joshua, Moses' successor.
 - **7:46** — Early witnesses (including Sinaiticus*, B, and D) read 'for the house of Jacob' (oiko), while later manuscripts conform the wording to Psalm 132:5 by reading 'for the God of Jacob' (theo).

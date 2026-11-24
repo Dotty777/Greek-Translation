@@ -45,7 +45,7 @@
 
 **7:20** So then, by their fruits you will recognize them.
 
-**7:21** Not everyone who says to Me, 'Lord, Lord,' will enter the kingdom of the heavens, but the one who does the will of My Father who is in the heavens.
+**7:21** Not everyone who says to Me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of My Father who is in the heavens.
 
 **7:22** Many will say to Me on that day, 'Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons, and in Your name perform many mighty works?'
 
@@ -65,6 +65,6 @@
 
 ## Translator Notes
 
-- **7:6** — "What is holy" (τὸ ἅγιον) alludes to sacrificial meat set apart for God and is used metaphorically for sacred truth or teaching.
+- **7:6** — "What is holy" (τὸ ἅγιον) may allude to consecrated food, such as sacrificial meat.
 - **7:14** — The Greek text reads ὅτι ("for"), while some manuscripts read τί ("how narrow is the gate!"). Greek τεθλιμμένη ("constricted") literally means pressed or hemmed in.
 - **7:17** — Greek σαπρὸν ("diseased") literally denotes what is rotten, decayed, or unfit, contrasting with ἀγαθὸν ("good").

@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **5:1** — The Saints Greek Critical Text reads the hortatory subjunctive echomen ("let us have"), supported by the earliest manuscripts, rather than the indicative echomen ("we have").
+- **5:1** — The Saints Greek Critical Text reads the hortatory subjunctive echōmen ("let us have"), supported by the earliest manuscripts, rather than the indicative echomen ("we have").
 - **5:6** — The Greek text repeats eti ("still") before and after the participial phrase ("while we were still weak"), emphasizing human helplessness at the appointed time (kata kairon).
 - **5:12** — The phrase eph ho is widely taken as causal ("because"), though some interpret it as "on the condition that" or "in whom"; Paul breaks off his comparison here and resumes it in 5:18.
 - **5:18** — Both halves of the Greek comparison omit a main verb, concisely contrasting the universal result of Adam's trespass with that of Christ's act of righteousness.

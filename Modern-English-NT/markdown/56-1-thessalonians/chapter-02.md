@@ -35,7 +35,7 @@
 
 **2:15** who killed both the Lord Jesus and the prophets, and drove us out, and do not please God, and are opposed to all people,
 
-**2:16** hindering us from speaking to the Gentiles so that they may be saved, so as always to fill up their sins. But wrath has come upon them completely.
+**2:16** hindering us from speaking to the Gentiles so that they may be saved, so as always to fill up their sins. But the wrath has come upon them completely.
 
 **2:17** Now we, brothers, having been bereaved of you for a brief time, in presence, not in heart, were all the more eager to see your face with great desire.
 

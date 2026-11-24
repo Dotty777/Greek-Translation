@@ -13,7 +13,7 @@
 
 **20:4** Now accompanying him were Sopater son of Pyrrhus, of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and of Asia, Tychicus and Trophimus.
 
-**20:5** These men went ahead and were waiting for us in Troas.
+**20:5** These men came and were waiting for us in Troas.
 
 **20:6** But we sailed away from Philippi after the days of Unleavened Bread, and came to them at Troas within five days, where we stayed seven days.
 
@@ -83,8 +83,8 @@
 
 ## Translator Notes
 
-- **20:5** — The critical Greek text reads proselthontes (lit. 'having come forward/arrived'), while other manuscripts read proelthontes ('having gone ahead'); in context it conveys that they traveled ahead to wait at Troas.
+- **20:5** — The critical Greek text reads proselthontes (lit. 'having come forward/arrived'), while other manuscripts read proelthontes ('having gone ahead').
 - **20:22** — Or 'bound by the Spirit'; the Greek dative to pneumati can refer either to Paul's own spirit (cf. 19:21) or to the Holy Spirit.
-- **20:24** — The Greek phrasing blends two idioms ('consider my life of no account' and 'consider my life precious to myself') to emphasize Paul's complete devotion to his mission.
+- **20:24** — The Greek phrasing blends two idioms ('consider my life of no account' and 'consider my life precious to myself').
 - **20:28** — Some manuscripts read 'the church of the Lord' instead of 'the church of God.' The closing phrase dia tou haimatos tou idiou may be rendered either 'through His own blood' or 'through the blood of His Own [i.e., His Son].'
-- **20:35** — This saying of Jesus is not recorded in any of the four Gospels, preserving an independent oral tradition of His teaching.
+- **20:35** — This saying of Jesus is not recorded in any of the four Gospels.

@@ -43,9 +43,9 @@
 
 **15:19** in the power of signs and wonders, in the power of the Spirit of God, so that from Jerusalem and all around as far as Illyricum I have fully proclaimed the gospel of Christ,
 
-**15:20** and thus making it my ambition to proclaim the gospel not where Christ was already named, so that I might not build upon another's foundation,
+**15:20** and thus making it my ambition to proclaim the gospel not where Christ had been named, so that I might not build upon another's foundation,
 
-**15:21** but just as it is written, "Those who were never told about Him will see, and those who have not heard will understand."
+**15:21** but just as it is written, "Those who were not told about Him will see, and those who have not heard will understand."
 
 **15:22** For this reason also I have many times been hindered from coming to you.
 

@@ -33,7 +33,7 @@
 
 **20:14** Having said these things, she turned around and observed Jesus standing there, and she did not know that it was Jesus.
 
-**20:15** Jesus said to her, "Woman, why are you weeping? Whom are you looking for?" Supposing that He was the gardener, she said to Him, "Sir, if you have carried Him away, tell me where you have placed Him, and I will take Him away."
+**20:15** Jesus said to her, "Woman, why are you weeping? Whom are you looking for?" Supposing that He was the gardener, she said to Him, "Sir, if You have carried Him away, tell me where You have placed Him, and I will take Him away."
 
 **20:16** Jesus said to her, "Mary!" Turning around, she said to Him in Hebrew, "Rabboni!" (which means, "Teacher").
 

@@ -33,7 +33,7 @@
 
 **7:14** For the unbelieving husband has been sanctified through his wife, and the unbelieving wife has been sanctified through the brother; otherwise your children would be unclean, but now they are holy.
 
-**7:15** Yet if the unbeliever separates, let him separate. The brother or the sister is not bound in such cases; rather, God has called us to peace.
+**7:15** Yet if the unbeliever separates, let him separate. The brother or the sister is not bound in such cases; rather, God has called us in peace.
 
 **7:16** For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
 

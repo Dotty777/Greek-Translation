@@ -13,7 +13,7 @@
 
 **12:4** Now I say to you, My friends, do not be afraid of those who kill the body and after that have nothing further they can do.
 
-**12:5** But I will show you whom to fear: fear the One who, after killing, has authority to throw into hell; yes, I say to you, fear Him.
+**12:5** But I will show you whom to fear: fear the One who, after killing, has authority to throw into Gehenna; yes, I say to you, fear Him.
 
 **12:6** Are not five sparrows sold for two copper coins? Yet not one of them is forgotten before God.
 
@@ -63,7 +63,7 @@
 
 **12:29** And as for you, do not seek what you will eat and what you will drink, and do not live in anxious suspense,
 
-**12:30** for all the nations of the world eagerly seek these things, and your Father knows that you need these things.
+**12:30** for all the nations of the world eagerly seek these things, but your Father knows that you need these things.
 
 **12:31** Instead, seek His kingdom, and these things will be added to you.
 
@@ -77,7 +77,7 @@
 
 **12:36** and be like people waiting for their master to return from the wedding banquet, so that when he comes and knocks, they may immediately open to him.
 
-**12:37** Blessed are those servants whom the master will find staying awake when he comes. Truly I say to you that he will fasten his belt, have them recline at table, and come forward and serve them.
+**12:37** Blessed are those slaves whom the master will find staying awake when he comes. Truly I say to you that he will fasten his belt, have them recline at table, and come forward and serve them.
 
 **12:38** Whether he comes in the second watch or in the third watch and finds them so, blessed are they.
 
@@ -89,15 +89,15 @@
 
 **12:42** And the Lord said, "Who then is the faithful, sensible steward whom the master will put in charge of his household staff, to give them their ration of food at the proper time?
 
-**12:43** Blessed is that servant whom his master will find doing so when he comes.
+**12:43** Blessed is that slave whom his master will find doing so when he comes.
 
 **12:44** In truth I say to you that he will put him in charge of all his possessions.
 
-**12:45** But if that servant says in his heart, 'My master is delayed in coming,' and begins to beat the male servants and the female servants, and to eat and drink and get drunk,
+**12:45** But if that slave says in his heart, 'My master is delayed in coming,' and begins to beat the male servants and the female servants, and to eat and drink and get drunk,
 
-**12:46** the master of that servant will come on a day he does not expect and at an hour he does not know, and will cut him in two and assign his portion with the unfaithful.
+**12:46** the master of that slave will come on a day he does not expect and at an hour he does not know, and will cut him in two and assign his portion with the unfaithful.
 
-**12:47** And that servant who knew his master's will and did not get ready or act according to his will will be beaten with many blows;
+**12:47** And that slave who knew his master's will and did not get ready or act according to his will will be beaten with many blows;
 
 **12:48** but the one who did not know, yet did things deserving blows, will be beaten with few. From everyone to whom much was given, much will be required; and from the one to whom much was entrusted, even more will be asked.
 

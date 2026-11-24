@@ -9,7 +9,7 @@
 
 **5:2** And opening His mouth, He began teaching them, saying,
 
-**5:3** "Blessed are those who are poor in spirit, because the kingdom of the heavens belongs to them.
+**5:3** "Blessed are those who are poor in spirit, because the kingdom of heaven belongs to them.
 
 **5:4** Blessed are those who grieve, because they themselves will be comforted.
 
@@ -23,13 +23,13 @@
 
 **5:9** Blessed are the peacemakers, because they themselves will be called sons of God.
 
-**5:10** Blessed are those who have been persecuted for the sake of righteousness, because the kingdom of the heavens belongs to them.
+**5:10** Blessed are those who have been persecuted for the sake of righteousness, because the kingdom of heaven belongs to them.
 
 **5:11** Blessed are you whenever people insult you and persecute you and falsely speak every kind of evil against you on My account.
 
 **5:12** Rejoice and be overjoyed, because your reward is great in the heavens; for in the same way they persecuted the prophets who came before you.
 
-**5:13** You yourselves are the salt of the earth; yet if the salt becomes tasteless, with what will it be made salty again? It is no longer good for anything except to be thrown outside and trampled underfoot by people.
+**5:13** You yourselves are the salt of the earth; yet if the salt becomes tasteless, with what will it be made salty? It is no longer good for anything except to be thrown outside and trampled underfoot by people.
 
 **5:14** You yourselves are the light of the world. A city situated on top of a mountain cannot be hidden;
 
@@ -41,9 +41,9 @@
 
 **5:18** For truly I tell you, until heaven and earth pass away, not a single iota nor a single stroke of a letter will ever pass away from the Law until everything comes to pass.
 
-**5:19** Therefore, whoever sets aside one of the least of these commandments and teaches people accordingly will be called least in the kingdom of the heavens; yet whoever practices and teaches them, this person will be called great in the kingdom of the heavens.
+**5:19** Therefore, whoever sets aside one of the least of these commandments and teaches people accordingly will be called least in the kingdom of heaven; yet whoever practices and teaches them, this person will be called great in the kingdom of heaven.
 
-**5:20** For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will certainly not enter into the kingdom of the heavens.
+**5:20** For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will certainly not enter into the kingdom of heaven.
 
 **5:21** You have heard that it was told to those of ancient times, 'You must not murder, and whoever murders will be liable to judgment.'
 
@@ -55,7 +55,7 @@
 
 **5:25** Come to friendly terms with your legal opponent quickly while you are on the road with him, so that the opponent does not hand you over to the judge, and the judge to the officer, and you get thrown into prison.
 
-**5:26** Truly I tell you, you will certainly not come out from there until you have paid back the very last quadrans.
+**5:26** Truly I tell you, you will certainly not come out from there until you have paid back the last quadrans.
 
 **5:27** You have heard that it was said, 'You must not commit adultery.'
 
@@ -95,9 +95,9 @@
 
 **5:45** so that you may become sons of your Father who is in the heavens; because He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
 
-**5:46** For if you love those who love you, what reward do you have? Do not even the tax collectors do the very same thing?
+**5:46** For if you love those who love you, what reward do you have? Do not even the tax collectors do the same thing?
 
-**5:47** And if you greet only your brothers, what extraordinary thing are you doing? Do not even the Gentiles do the very same thing?
+**5:47** And if you greet only your brothers, what extraordinary thing are you doing? Do not even the Gentiles do the same thing?
 
 **5:48** Therefore, you yourselves must be complete, just as your heavenly Father is complete."
 

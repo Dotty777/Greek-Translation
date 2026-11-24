@@ -41,7 +41,7 @@
 
 **12:18** If possible, so far as it depends on you, live at peace with all people.
 
-**12:19** Do not avenge yourselves, beloved, but give place to wrath; for it stands written, "Vengeance belongs to Me; I will repay," says the Lord.
+**12:19** Do not avenge yourselves, beloved, but give place to wrath; for it is written, "Vengeance belongs to Me; I will repay," says the Lord.
 
 **12:20** Instead, "if your enemy is hungry, feed him; if he is thirsty, give him a drink; for by doing this you will heap coals of fire upon his head."
 
@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **12:1** — λογικὴν λατρείαν literally means "rational/reasonable cultic service" (often rendered "spiritual worship"); "rational service of worship" preserves both the philosophical sense of λογικός (engaging the mind, picked up in 12:2) and the sacrificial sense of λατρεία.
+- **12:1** — λογικὴν λατρείαν literally means "rational/reasonable cultic service" (also understood as "spiritual worship"); "rational service of worship" preserves both the philosophical sense of λογικός (engaging the mind, picked up in 12:2) and the sacrificial sense of λατρεία.
 - **12:2** — The Saints Greek Critical Text reads τοῦ νοός ("the mind") without the possessive pronoun "your." δοκιμάζειν means to test and discern with approval; τέλειον means "complete" or "perfect."
 - **12:3** — Paul uses a fourfold play on the root φρον- (ὑπερφρονεῖν, φρονεῖν, φρονεῖν, σωφρονεῖν), reflected by repeating "think" and closing with "sound judgment."
 - **12:8** — ἁπλότης means "singleness of mind, simplicity," which in contexts of giving carries the nuance of ungrudging generosity.

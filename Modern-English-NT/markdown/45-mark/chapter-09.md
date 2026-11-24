@@ -13,7 +13,7 @@
 
 **9:4** And Elijah appeared to them with Moses, and they were conversing with Jesus.
 
-**9:5** And Peter responded and said to Jesus, "Rabbi, it is good for us to be here; and let us make three shelters, one for You, and one for Moses, and one for Elijah."
+**9:5** And Peter responded and said to Jesus, "Rabbi, it is good for us to be here; and let us make three tents, one for You, and one for Moses, and one for Elijah."
 
 **9:6** For he did not know what to answer, because they had become terrified.
 
@@ -65,7 +65,7 @@
 
 **9:30** And going out from there, they were passing through Galilee, and He did not want anyone to know;
 
-**9:31** for He was teaching His disciples and saying to them, "The Son of Man is being delivered into the hands of men, and they will kill Him; and when He has been killed, after three days He will rise."
+**9:31** for He was teaching His disciples and saying to them, "The Son of Man is being handed over into the hands of men, and they will kill Him; and when He has been killed, after three days He will rise."
 
 **9:32** But they did not understand the statement, and they were afraid to question Him.
 
@@ -85,7 +85,7 @@
 
 **9:40** For anyone who is not against us is for us.
 
-**9:41** For whoever gives you a cup of water to drink on account of the name, because you belong to Christ, truly I tell you that he will by no means lose his reward.
+**9:41** For whoever gives you a cup of water to drink on account of the name, because you belong to Christ, truly I say to you that he will by no means lose his reward.
 
 **9:42** And whoever causes one of these little ones who believe in Me to stumble, it would be better for him if a donkey-turned millstone were hung around his neck and he were thrown into the sea.
 
@@ -93,7 +93,7 @@
 
 **9:45** And if your foot causes you to stumble, cut it off; it is better for you to enter into life lame than, having two feet, to be thrown into Gehenna.
 
-**9:47** And if your eye causes you to stumble, tear it out; it is better for you to enter into the kingdom of God with one eye than, having two eyes, to be thrown into Gehenna,
+**9:47** And if your eye causes you to stumble, throw it out; it is better for you to enter into the kingdom of God with one eye than, having two eyes, to be thrown into Gehenna,
 
 **9:48** where their worm does not perish, and the fire is not quenched.
 
@@ -111,8 +111,8 @@
 
 - **9:16** — The Greek text reads the reflexive pronoun 'αὑτούς' ('among yourselves' / 'with one another'); other editions read 'αὐτούς' ('with them', referring to the disciples).
 - **9:23** — The Greek places the definite article 'Τό' before 'Εἰ δύνῃ' ('The "If You can"!'), quoting and challenging the father's hesitant condition from verse 22.
-- **9:29** — The earliest manuscripts end the verse with 'by prayer'; later manuscripts add 'and fasting'.
+- **9:29** — Several early manuscripts (including Codex Vaticanus) end the verse with 'by prayer'; most others add 'and fasting'.
 - **9:43** — 'Gehenna' transliterates the Greek name for the Valley of Hinnom outside Jerusalem, used for the place of final fiery judgment. Verses 44 and 46, which repeat verse 48 in later manuscripts, are absent from the earliest witnesses.
-- **9:49** — This concise saying links fiery testing with the Old Testament practice of seasoning sacrifices with salt (Leviticus 2:13); later manuscripts expand it with 'and every sacrifice will be salted with salt'.
+- **9:49** — Later manuscripts add 'and every sacrifice will be salted with salt' (compare Leviticus 2:13).
 - **9:44 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts (compare 9:48).
 - **9:46 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts (compare 9:48).

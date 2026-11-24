@@ -25,7 +25,7 @@
 
 **10:10** By that will, we have been sanctified through the offering of Jesus Christ's body once for all.
 
-**10:11** And every priest stands day by day ministering and repeatedly offering the same sacrifices, which can never completely remove sins.
+**10:11** And every priest stands day by day ministering and repeatedly offering the same sacrifices, which can never take away sins.
 
 **10:12** He, however, after offering a single sacrifice for sins for all time, sat down at the right hand of God,
 

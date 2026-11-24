@@ -23,7 +23,7 @@
 
 **1:9** For God is my witness, whom I serve in my spirit in the gospel of His Son, how unceasingly I make mention of you
 
-**1:10** always in my prayers, requesting that somehow now at last I may succeed in the will of God to come to you.
+**1:10** always in my prayers, asking if somehow now at last I may succeed in the will of God to come to you.
 
 **1:11** For I long to see you, so that I may impart some spiritual gift to you in order that you may be established,
 
@@ -71,7 +71,7 @@
 
 ## Translator Notes
 
-- **1:4** — Greek horisthentos can mean 'designated,' 'appointed,' or 'declared.' The phrase 'Spirit of holiness' reflects a Semitic idiom, and 'by the resurrection of the dead' literally translates ex anastaseos nekron.
+- **1:4** — Greek horisthentos can mean 'designated,' 'appointed,' or 'declared.' The phrase 'Spirit of holiness' reflects a Semitic idiom and may refer to the Holy Spirit or to Christ's own spirit; 'by the resurrection of the dead' literally translates ex anastaseos nekron.
 - **1:17** — The phrase 'from faith to faith' (ek pisteos eis pistin) is variously understood as 'by faith from start to finish,' 'from God's faithfulness to human faith,' or 'from one believer's faith to another.' In the Habakkuk 2:4 quotation, 'by faith' can modify either 'the righteous one' or 'will live.'
 - **1:28** — Paul uses a Greek wordplay between edokimasan ('see fit' / 'approve') and adokimon ('depraved' / 'unfit' / 'disqualified').
 - **1:30** — Greek theostygeis can be read actively ('God-haters') or passively ('hated by God').

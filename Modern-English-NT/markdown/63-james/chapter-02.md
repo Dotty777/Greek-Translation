@@ -19,7 +19,7 @@
 
 **2:7** Do they not blaspheme the noble name that was invoked over you?
 
-**2:8** If, however, you are truly fulfilling the royal law according to the Scripture, "You shall love your neighbor as yourself," you are doing well.
+**2:8** If, however, you are fulfilling the royal law according to the Scripture, "You shall love your neighbor as yourself," you are doing well.
 
 **2:9** Yet if you show partiality, you commit sin, convicted by the law as transgressors.
 

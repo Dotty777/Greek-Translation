@@ -13,7 +13,7 @@
 
 **6:4** So if you have legal cases concerning this life, do you seat as judges those who are of no account in the church?
 
-**6:5** I speak to your shame. Is it really so that there is not one wise person among you who will be able to decide between his brothers,
+**6:5** I speak to your shame. Is it so that there is not one wise person among you who will be able to decide between his brothers,
 
 **6:6** but brother goes to law with brother, and that before unbelievers?
 
@@ -25,7 +25,7 @@
 
 **6:10** nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God.
 
-**6:11** And some of you were these very things; yet you were washed, yet you were sanctified, yet you were justified in the name of the Lord Jesus Christ and in the Spirit of our God.
+**6:11** And some of you were these things; yet you were washed, yet you were sanctified, yet you were justified in the name of the Lord Jesus Christ and in the Spirit of our God.
 
 **6:12** "All things are permitted for me," yet not all things are beneficial. "All things are permitted for me," yet I myself will not be mastered by anything.
 
@@ -43,11 +43,11 @@
 
 **6:19** Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? And you are not your own,
 
-**6:20** for you were purchased at a price. Glorify God, then, in your body.
+**6:20** for you were bought with a price. Glorify God, then, in your body.
 
 ## Translator Notes
 
 - **6:4** — Greek kathizete may be taken either as an indicative question ("do you seat...?") referring to pagan judges who hold no standing in the church, or as an ironic imperative referring to the least esteemed believers.
-- **6:9** — The two Greek terms malakoi ("effeminate men") and arsenokoitai ("men who lie with males") denote respectively the passive and active partners in male same-sex intercourse in the Greco-Roman world.
+- **6:9** — Greek malakoi (literally "soft ones") and arsenokoitai (a compound of "male" and "bed") are commonly understood as the passive and active partners in male same-sex intercourse, though their precise sense is debated.
 - **6:12** — Quotation marks here and in verse 13 do not appear in Greek manuscripts; they reflect the widespread view that Paul is quoting and qualifying Corinthian slogans.
-- **6:18** — Literally "Every sin," without adding "other"; some interpreters read the first clause as another Corinthian slogan Paul refutes, while others take it as Paul's own statement highlighting the unique bodily union of sexual immorality.
+- **6:18** — Literally "Every sin"; some interpreters read the first clause as another Corinthian slogan that Paul refutes, while others take it as Paul's own statement.

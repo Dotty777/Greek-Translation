@@ -103,7 +103,7 @@
 
 ## Translator Notes
 
-- **10:19** — The Greek text reads simply "men" without a numeral; later manuscripts supply "three" (or "two") by harmonizing with v. 7.
-- **10:20** — The Greek phrase translated "without hesitating at all" (meden diakrinomenos) can also mean "making no distinction," carrying a fitting double resonance in the context of Gentile inclusion (cf. 11:12).
+- **10:19** — The Greek text reads simply "men" without a numeral; other manuscripts read "three" or "two."
+- **10:20** — The Greek phrase μηδὲν διακρινόμενος (middle voice) means "without hesitating at all"; compare the active μηδὲν διακρίναντα, "making no distinction," in 11:12.
 - **10:30** — The idiomatic time expression "Four days ago to this very hour" indicates four days earlier at this same time of day (the ninth hour, about 3:00 p.m.); the critical text omits "fasting," which appears in later manuscripts.
 - **10:36** — Verses 36–38 preserve an abrupt spoken Greek construction in which the opening accusative ("The word that He sent...") is interrupted by the parenthetical statement "He is Lord of all" and resumed in v. 37 by "you yourselves know the event that took place."

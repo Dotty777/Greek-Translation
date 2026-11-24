@@ -11,7 +11,7 @@
 
 **9:3** For I could wish that I myself were accursed, cut off from Christ, for the sake of my brothers, my relatives according to the flesh,
 
-**9:4** who are Israelites, to whom belong the adoption as sons, the glory, the covenants, the giving of the law, the sacred service, and the promises;
+**9:4** who are Israelites, to whom belong the adoption, the glory, the covenants, the giving of the law, the sacred service, and the promises;
 
 **9:5** to whom belong the fathers, and from whom comes the Christ according to the flesh, who is over all, God blessed forever. Amen.
 
@@ -23,15 +23,15 @@
 
 **9:9** For this is a word of promise: "At this time I will come, and Sarah will have a son."
 
-**9:10** And not only this, but also Rebekah, having conceived by one man, our father Isaac--
+**9:10** And not only this, but also Rebekah, having conceived by one man, our father Isaac—
 
 **9:11** for when they were not yet born and had done nothing good or bad, so that God's purpose according to election might remain,
 
-**9:12** not from works but from Him who calls--it was said to her, "The older will serve the younger,"
+**9:12** not from works but from Him who calls—it was said to her, "The older will serve the younger,"
 
 **9:13** just as it is written: "Jacob I loved, yet Esau I hated."
 
-**9:14** What then shall we say? Is there unrighteousness with God? Let it never be!
+**9:14** What then shall we say? Is there unrighteousness with God? May it never happen!
 
 **9:15** For He says to Moses, "I will have mercy on whomever I have mercy, and I will show compassion to whomever I show compassion."
 
@@ -49,7 +49,7 @@
 
 **9:22** And what if God, desiring to display wrath and to make His power known, bore with much patience vessels of wrath fitted for destruction,
 
-**9:23** and in order to make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory--
+**9:23** and in order to make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory—
 
 **9:24** us whom He also called, not only from the Jews, but also from the Gentiles?
 

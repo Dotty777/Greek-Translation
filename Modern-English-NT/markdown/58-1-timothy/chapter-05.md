@@ -13,7 +13,7 @@
 
 **5:4** But if any widow has children or grandchildren, let them first learn to practice godliness toward their own household and to make repayment to their parents, for this is acceptable before God.
 
-**5:5** Now she who is truly a widow and has been left all alone has fixed her hope on God and continues in petitions and prayers night and day,
+**5:5** Now she who is truly a widow and has been left alone has fixed her hope on God and continues in petitions and prayers night and day,
 
 **5:6** whereas she who lives in self-indulgence is dead even while she lives.
 
@@ -31,7 +31,7 @@
 
 **5:13** At the same time they also learn to be idle, going around from house to house; and not only idle, but also gossips and busybodies, talking about things they ought not to.
 
-**5:14** Therefore I desire younger widows to marry, to bear children, to manage their households, and to give the adversary no opportunity for slander;
+**5:14** Therefore I desire younger women to marry, to bear children, to manage their households, and to give the adversary no opportunity for slander;
 
 **5:15** for some have already turned aside after Satan.
 

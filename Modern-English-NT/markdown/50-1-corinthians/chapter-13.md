@@ -34,5 +34,5 @@
 ## Translator Notes
 
 - **13:3** — The Greek text reads ἵνα καυχήσωμαι ('so that I may boast'), supported by early Alexandrian witnesses (P46, Sinaiticus, Vaticanus); other manuscripts read καυθήσωμαι ('so that I may be burned').
-- **13:10** — Greek τὸ τέλειον ('what is complete' or 'the perfect') contrasts directly with τὸ ἐκ μέρους ('what is in part') and is widely understood as the full maturity realized at Christ's return.
+- **13:10** — Greek τὸ τέλειον ('what is complete' or 'the perfect') contrasts directly with τὸ ἐκ μέρους ('what is in part').
 - **13:12** — Greek ἐν αἰνίγματι literally means 'in a riddle' (cf. Numbers 12:8 LXX), conveying an obscure or indistinct reflection as viewed in an ancient metal mirror.

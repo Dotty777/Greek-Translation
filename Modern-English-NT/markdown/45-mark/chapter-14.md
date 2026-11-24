@@ -47,7 +47,7 @@
 
 **14:21** For the Son of Man goes just as it has been written concerning Him, yet woe to that man through whom the Son of Man is handed over! It would have been good for him if that man had not been born."
 
-**14:22** And while they were eating, He took bread, and after blessing it, He broke it and gave it to them, and said, "Take; this is My body."
+**14:22** And while they were eating, He took bread, and after blessing, He broke it and gave it to them, and said, "Take; this is My body."
 
 **14:23** And taking a cup, after giving thanks, He gave it to them, and they all drank from it.
 
@@ -63,7 +63,7 @@
 
 **14:29** But Peter said to Him, "Even if all will stumble, yet not I."
 
-**14:30** And Jesus said to him, "Truly I say to you that today, on this very night, before a rooster crows twice, you yourself will deny Me three times."
+**14:30** And Jesus said to him, "Truly I say to you that today, this night, before a rooster crows twice, you yourself will deny Me three times."
 
 **14:31** But he kept speaking emphatically, "If I must die with You, I will by no means deny You." And all of them were saying the same thing as well.
 
@@ -99,7 +99,7 @@
 
 **14:47** But a certain one of those standing by drew his sword, struck the slave of the high priest, and cut off his ear.
 
-**14:48** And answering, Jesus said to them, "Have you come out as against a bandit with swords and clubs to arrest Me?
+**14:48** And answering, Jesus said to them, "Have you come out as against a robber with swords and clubs to arrest Me?
 
 **14:49** Day by day I was with you in the temple teaching, and you did not seize Me; yet this is so that the Scriptures may be fulfilled."
 

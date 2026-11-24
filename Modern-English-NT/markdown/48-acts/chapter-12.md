@@ -41,7 +41,7 @@
 
 **12:18** Now when day came, there was no small commotion among the soldiers as to what had become of Peter.
 
-**12:19** And when Herod had searched for him and did not find him, he examined the guards and ordered them to be led away to execution. Then he went down from Judea to Caesarea and stayed there.
+**12:19** And when Herod had searched for him and did not find him, he examined the guards and ordered them to be led away. Then he went down from Judea to Caesarea and stayed there.
 
 **12:20** Now he was bitterly angry with the people of Tyre and Sidon; and with one accord they came before him, and having won over Blastus, the one in charge of the king's bedchamber, they were asking for peace, because their country was supplied with food from the king's territory.
 

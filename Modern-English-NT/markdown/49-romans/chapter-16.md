@@ -64,4 +64,4 @@
 - **16:1** — Greek diakonos can be rendered "deacon" or "servant"; similarly, prostatis in verse 2 refers to a "patron" or "benefactor."
 - **16:7** — Greek episemoi en tois apostolois is debated and may mean either "prominent among the apostles" (as part of them) or "well known to the apostles."
 - **16:24** — This verse is enclosed in double brackets because it is absent from the earliest and most reliable manuscripts, appearing to be a later scribal addition.
-- **16:25** — The closing doxology (16:25-27) is positioned at different places in various ancient manuscripts (such as after 14:23 or 15:33), though the earliest witnesses place it at the end of the letter.
+- **16:25** — The closing doxology (16:25-27) is positioned at different places in ancient manuscripts (after 14:23, after 15:33, or at the end of the letter); this text prints it here and also, in double brackets, after 14:23.

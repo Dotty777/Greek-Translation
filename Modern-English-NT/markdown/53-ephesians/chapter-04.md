@@ -53,7 +53,7 @@
 
 **4:24** and put on the new self, which was created according to God in righteousness and holiness of the truth.
 
-**4:25** Therefore, having put off falsehood, let each one speak truth with his neighbor, because we are members of one another.
+**4:25** Therefore, having put off falsehood, speak truth, each one of you, with his neighbor, because we are members of one another.
 
 **4:26** Be angry, and do not sin; let the sun not set on your anger,
 
@@ -61,7 +61,7 @@
 
 **4:28** Let the one who steals steal no longer, but rather let him labor, working with his hands what is good, so that he may have something to share with the one who has need.
 
-**4:29** Let no corrupt word come out of your mouth, but only whatever is good for building up according to the need, so that it may give grace to those who hear.
+**4:29** Let no corrupt word come out of your mouth, but whatever is good for building up according to the need, so that it may give grace to those who hear.
 
 **4:30** And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.
 

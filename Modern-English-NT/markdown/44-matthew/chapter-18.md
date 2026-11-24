@@ -19,7 +19,7 @@
 
 **18:7** Woe to the world because of stumbling blocks! For it is necessary that stumbling blocks come, yet woe to the man through whom the stumbling block comes.
 
-**18:8** And if your hand or your foot causes you to stumble, cut it off and throw it away from you; it is better for you to enter into life maimed or crippled, than, having two hands or two feet, to be thrown into the eternal fire.
+**18:8** And if your hand or your foot causes you to stumble, cut it off and throw it away from you; it is better for you to enter into life maimed or lame, than, having two hands or two feet, to be thrown into the eternal fire.
 
 **18:9** And if your eye causes you to stumble, tear it out and throw it away from you; it is better for you to enter into life with one eye, than, having two eyes, to be thrown into the Gehenna of fire.
 
@@ -47,27 +47,27 @@
 
 **18:22** Jesus said to him, "I do not say to you up to seven times, but up to seventy times seven.
 
-**18:23** For this reason the kingdom of heaven may be compared to a king who wished to settle accounts with his servants.
+**18:23** For this reason the kingdom of heaven may be compared to a king who wished to settle accounts with his slaves.
 
 **18:24** And when he began to settle them, one who owed him ten thousand talents was brought to him.
 
 **18:25** Since he did not have the means to repay, the master ordered him to be sold, along with his wife and children and everything that he had, and payment to be made.
 
-**18:26** So the servant fell down and bowed before him, saying, 'Master, be patient with me, and I will repay you everything.'
+**18:26** So the slave fell down and bowed before him, saying, 'Master, be patient with me, and I will repay you everything.'
 
-**18:27** And moved with compassion, the master of that servant released him and forgave him the loan.
+**18:27** And moved with compassion, the master of that slave released him and forgave him the loan.
 
-**18:28** But going out, that servant found one of his fellow servants who owed him a hundred denarii; and seizing him, he began to choke him, saying, 'Pay back what you owe.'
+**18:28** But going out, that slave found one of his fellow slaves who owed him a hundred denarii; and seizing him, he began to choke him, saying, 'Pay back what you owe.'
 
-**18:29** So his fellow servant fell down and pleaded with him, saying, 'Be patient with me, and I will repay you.'
+**18:29** So his fellow slave fell down and pleaded with him, saying, 'Be patient with me, and I will repay you.'
 
 **18:30** Yet he was unwilling, and went away and threw him into prison until he should pay back what was owed.
 
-**18:31** So when his fellow servants saw what had happened, they were greatly grieved, and came and reported clearly to their master all that had happened.
+**18:31** So when his fellow slaves saw what had happened, they were greatly grieved, and came and reported clearly to their master all that had happened.
 
-**18:32** Then his master summoned him and said to him, 'You wicked servant, I forgave you all that debt because you pleaded with me;
+**18:32** Then his master summoned him and said to him, 'You wicked slave, I forgave you all that debt because you pleaded with me;
 
-**18:33** should you not also have had mercy on your fellow servant, just as I also had mercy on you?'
+**18:33** should you not also have had mercy on your fellow slave, just as I also had mercy on you?'
 
 **18:34** And being angry, his master handed him over to the torturers until he should repay all that was owed to him.
 
@@ -83,5 +83,5 @@
 - **18:10** — Verse 11 ("For the Son of Man came to save the lost") is absent from the earliest manuscripts and is omitted in this critical text.
 - **18:15** — The critical text omits "against you" (eis se), found in later manuscripts, leaving the brother's sin stated more generally.
 - **18:18** — The Greek future perfect periphrastic forms (estai dedemena and estai lelymena) express that what is bound or loosed on earth "will have been bound" or "will have been loosed" in heaven.
-- **18:22** — Greek hebdomēkontakis hepta literally reads "seventy times seven," though it can also be rendered "seventy-seven times" (echoing Gen 4:24 LXX); either way it signifies limitless forgiveness.
+- **18:22** — Greek hebdomēkontakis hepta literally reads "seventy times seven," though it can also be rendered "seventy-seven times" (echoing Gen 4:24 LXX).
 - **18:11 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

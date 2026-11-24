@@ -66,7 +66,7 @@
 ## Translator Notes
 
 - **12:1** — Greek euperistatos appears only here in the New Testament and may mean "closely clinging," "easily entangling," or "readily surrounding."
-- **12:2** — Greek anti here is most commonly rendered "for the sake of" the joy awaiting Him, though some take it as "instead of" the joy He relinquished.
+- **12:2** — Greek anti here may mean "for (the sake of)" the joy set before Him or "instead of" a joy He gave up.
 - **12:3** — The Greek text reads the plural reflexive eis heautous ("against themselves," indicating hostility that harms the sinners themselves); other manuscripts read the singular "against Himself."
 - **12:22** — Greek panegyrei ("festal gathering") may stand in apposition to "myriads of angels" here or be grouped with "assembly of the firstborn" in v. 23.
 - **12:28** — The Greek idiom echomen charin normally means "let us show gratitude," though some understand it as "let us hold fast to grace."

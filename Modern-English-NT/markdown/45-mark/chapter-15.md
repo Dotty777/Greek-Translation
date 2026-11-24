@@ -104,7 +104,7 @@
 ## Translator Notes
 
 - **15:25** — "The third hour" corresponds to roughly 9:00 a.m. in ancient daylight reckoning; likewise, the sixth and ninth hours in 15:33-34 correspond to about noon and 3:00 p.m.
-- **15:27** — The earliest and best Greek manuscripts omit verse 28 ("And the Scripture was fulfilled that says, 'He was numbered with the transgressors'"), which entered later manuscripts from Luke 22:37.
+- **15:27** — The earliest Greek manuscripts lack verse 28 (printed in double brackets in this text), which probably entered later manuscripts from Luke 22:37.
 - **15:34** — Jesus quotes Psalm 22:1 in Aramaic ("Eloi, Eloi, lema sabachthani?"), whose opening sounds resemble the name Elijah, explaining the bystanders' misunderstanding in verse 35.
-- **15:39** — The Greek phrase "huios theou" lacks the definite article before the verb and can be translated either "the Son of God" (aligning with Mark 1:1) or "a son of God" (reflecting a Roman centurion's vantage point).
+- **15:39** — The predicate huios theou has no article and stands before the verb, so it can be translated either 'the Son of God' or 'a son of God.'
 - **15:28 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

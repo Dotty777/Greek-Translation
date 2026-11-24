@@ -79,7 +79,7 @@
 
 **1:37** For no word from God will be impossible."
 
-**1:38** And Mary said, "Here is the servant of the Lord; may it happen to me according to your word." And the angel departed from her.
+**1:38** And Mary said, "Here is the slave of the Lord; may it happen to me according to your word." And the angel departed from her.
 
 **1:39** Now in these days Mary arose and went with haste into the hill country, to a city of Judah,
 
@@ -99,7 +99,7 @@
 
 **1:47** and my spirit has exulted in God my Savior,
 
-**1:48** because He has looked upon the humble condition of His servant; for look, from now on all generations will call me blessed.
+**1:48** because He has looked upon the humble condition of His slave; for look, from now on all generations will call me blessed.
 
 **1:49** For the Mighty One has done great things for me, and holy is His name,
 
@@ -167,9 +167,9 @@
 
 ## Translator Notes
 
-- **1:28** — Greek κεχαριτωμένη is a perfect passive participle meaning "one who has been shown favor" or "graced," emphasizing God's initiative in bestowing grace.
+- **1:28** — Greek κεχαριτωμένη is a perfect passive participle meaning "one who has been shown favor" or "graced."
 - **1:35** — Following the punctuation of the Greek text, ἅγιον ("holy") serves as the predicate of κληθήσεται ("will be called") with "the Son of God" in apposition; alternatively, τὸ γεννώμενον ἅγιον may be taken together as "the holy child to be born will be called the Son of God."
 - **1:37** — Greek ῥῆμα means "word" or "statement" (echoed in Mary's "your word" in v. 38), though in Septuagint idiom it can also mean "thing" or "matter"; παρὰ τοῦ θεοῦ literally denotes what comes "from God."
 - **1:45** — Greek ὅτι may introduce the content of Mary's belief ("that there will be a fulfillment") or give the reason for her blessedness ("for there will be a fulfillment").
 - **1:74** — Following the Greek text (ἐκ χειρὸς ἐχθρῶν), no possessive "our" appears before "enemies," whereas some manuscripts add ἡμῶν ("our").
-- **1:78** — Greek ἀνατολή denotes "dawn" or "sunrise" and also renders the messianic title "Branch" in the Septuagint (Zech 3:8; 6:12); the future tense ἐπισκέψεται ("will visit") is translated here rather than the aorist variant ἐπεσκέψατο ("has visited").
+- **1:78** — Greek ἀνατολή denotes "dawn" or "sunrise" and also renders "Branch" in the Septuagint (Zech 3:8; 6:12); the future tense ἐπισκέψεται ("will visit") is translated here rather than the aorist variant ἐπεσκέψατο ("has visited").

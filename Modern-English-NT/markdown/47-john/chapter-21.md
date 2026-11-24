@@ -19,7 +19,7 @@
 
 **21:7** Therefore that disciple whom Jesus loved said to Peter, "It is the Lord!" So when Simon Peter heard that it was the Lord, he tied his outer garment around himself, for he was naked, and threw himself into the sea.
 
-**21:8** But the other disciples came in the little boat, for they were not far from the land, only about two hundred cubits away, dragging the net of fish.
+**21:8** But the other disciples came in the little boat, for they were not far from the land, but about two hundred cubits away, dragging the net of fish.
 
 **21:9** So when they stepped out onto the land, they saw a charcoal fire in place, and fish lying on it, and bread.
 
@@ -60,4 +60,4 @@
 - **21:5** — Greek προσφάγιον denotes food eaten with bread, especially fish; the negative particle μή frames the question as expecting a negative answer.
 - **21:7** — In ancient usage, Greek γυμνός ("naked") often referred to someone stripped of his outer garment and wearing only an undergarment or loincloth while working.
 - **21:15** — Greek πλέον τούτων ("more than these") is syntactically ambiguous and may refer to the other disciples, to the fishing boats and catch, or to the other disciples' love for Jesus.
-- **21:17** — Across verses 15-17, the Greek alternates between ἀγαπάω and φιλέω ("love"), βόσκω ("feed") and ποιμαίνω ("shepherd"), ἀρνία ("lambs"), πρόβατα ("sheep"), and προβάτια ("little sheep"), as well as οἶδα and γινώσκω ("know"), illustrating John's characteristic stylistic variation.
+- **21:17** — Across verses 15-17, the Greek alternates between ἀγαπάω and φιλέω ("love"), βόσκω ("feed") and ποιμαίνω ("shepherd"), ἀρνία ("lambs"), πρόβατα ("sheep"), and προβάτια ("little sheep"), as well as οἶδα and γινώσκω ("know").

@@ -19,7 +19,7 @@
 
 **3:7** of which I became a servant according to the gift of the grace of God given to me according to the working of His power—
 
-**3:8** to me, less than the least of all saints, this grace was given—to proclaim to the Gentiles the unsearchable riches of Christ,
+**3:8** to me, less than the least of all saints, this grace was given—to proclaim to the Gentiles the good news of the unsearchable riches of Christ,
 
 **3:9** and to enlighten all concerning what is the administration of the mystery hidden from the ages in God, who created all things,
 

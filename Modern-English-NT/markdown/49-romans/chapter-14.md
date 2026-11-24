@@ -21,7 +21,7 @@
 
 **14:8** for whether we live, we live for the Lord, or whether we die, we die for the Lord. Therefore, whether we live or die, we belong to the Lord.
 
-**14:9** For to this end Christ died and came to life again, so that He might be Lord of both the dead and the living.
+**14:9** For to this end Christ died and came to life, so that He might be Lord of both the dead and the living.
 
 **14:10** But you, why do you judge your brother? Or you too, why do you despise your brother? For we will all stand before the judgment seat of God,
 

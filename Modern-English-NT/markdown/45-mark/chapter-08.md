@@ -65,7 +65,7 @@
 
 **8:30** And He sternly warned them to tell no one about Him.
 
-**8:31** And He began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes, and be killed, and after three days rise again.
+**8:31** And He began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes, and be killed, and after three days rise.
 
 **8:32** And He was speaking the word plainly. And taking Him aside, Peter began to rebuke Him.
 

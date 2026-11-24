@@ -17,7 +17,7 @@
 
 **12:6** Now I say to you that something greater than the temple is here.
 
-**12:7** But if you had known what it means, 'I want mercy and not sacrifice,' you would not have condemned the guiltless.
+**12:7** But if you had known what it means, 'I desire mercy and not sacrifice,' you would not have condemned the guiltless.
 
 **12:8** For the Son of Man is the Lord of the Sabbath."
 
@@ -33,7 +33,7 @@
 
 **12:14** But the Pharisees went out and took counsel against Him, as to how they might destroy Him.
 
-**12:15** Jesus, knowing this, withdrew from there. Many followed Him, and He healed them all,
+**12:15** But Jesus, knowing this, withdrew from there. Many followed Him, and He healed them all,
 
 **12:16** and He warned them strictly not to make Him known,
 
@@ -108,7 +108,7 @@
 ## Translator Notes
 
 - **12:4** — The Greek verb ephagon ("they ate") is plural in the earliest manuscripts, including David's companions, whereas later manuscripts harmonize it to the singular "he ate." "Loaves of presentation" literally renders tous artous tes protheseos, the consecrated bread set out in the sanctuary (1 Sam 21:1-6).
-- **12:6** — The Greek adjective meizon ("something greater") is neuter rather than masculine, pointing broadly to the greater reality of Jesus's messianic ministry and kingdom; the same neuter construction recurs with pleion in 12:41-42.
-- **12:20** — Matthew's quotation of Isaiah 42:3 renders the closing phrase as "to victory" (eis nikos), differing from the standard Hebrew ("in truth") and Septuagint wording to highlight the triumphant outcome of the Servant's justice.
+- **12:6** — The Greek adjective meizon ("something greater") is neuter rather than masculine; the same neuter construction recurs with pleion in 12:41-42.
+- **12:20** — Matthew's quotation of Isaiah 42:3 has "to victory" (eis nikos) in the closing phrase, where the Hebrew and the Septuagint have "in/to truth."
 - **12:40** — Greek ketos refers to a huge sea creature or sea monster, echoing the Septuagint rendering of the "great fish" in Jonah 2:1.
 - **12:47** — This verse is omitted by several important early manuscripts (such as original Sinaiticus and Vaticanus), likely through an accidental scribal skip between the identical endings lalesai ("to speak") in verses 46 and 47.

@@ -29,7 +29,7 @@
 
 **11:12** And from the days of John the Baptist until now, the kingdom of heaven suffers violence, and violent people seize it.
 
-**11:13** For all the prophets and the law prophesied until John;
+**11:13** For all the prophets and the Law prophesied until John;
 
 **11:14** and if you are willing to accept it, he himself is Elijah who is to come.
 
@@ -57,11 +57,11 @@
 
 **11:26** yes, Father, for so it was well-pleasing in Your sight.
 
-**11:27** All things were delivered to Me by My Father, and no one fully knows the Son except the Father, nor does anyone fully know the Father except the Son and the one to whom the Son chooses to reveal Him.
+**11:27** All things were delivered to Me by My Father, and no one fully knows the Son except the Father, nor does anyone fully know the Father except the Son and anyone to whom the Son chooses to reveal Him.
 
 **11:28** Come to Me, all who toil and are heavily burdened, and I will give you rest.
 
-**11:29** Take up My yoke upon you and learn from Me, because I am meek and humble of heart, and you will find rest for your souls;
+**11:29** Take up My yoke upon you and learn from Me, because I am gentle and humble of heart, and you will find rest for your souls;
 
 **11:30** for My yoke is kindly, and My load is light."
 
@@ -69,5 +69,5 @@
 
 - **11:12** — Greek βιάζεται is debated: taken as passive, the kingdom "suffers violence" from hostile opponents (βιασταί); taken as middle, the kingdom "advances forcefully" and ardent seekers lay hold of it.
 - **11:15** — The Saints Greek Critical Text retains ἀκούειν ("to hear"), which is omitted in some early manuscripts.
-- **11:19** — "Works" (ἔργων) forms an intentional link back to "the works of the Christ" in 11:2; some manuscripts, harmonizing with Luke 7:35, read "children" (τέκνων).
+- **11:19** — "Works" (ἔργων) is the same word as in "the works of the Christ" (11:2); some manuscripts, harmonizing with Luke 7:35, read "children" (τέκνων).
 - **11:30** — "Kindly" renders Greek χρηστός, meaning good, gentle, or easy to bear, as of a well-fitted yoke.

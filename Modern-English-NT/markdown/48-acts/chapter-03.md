@@ -60,6 +60,6 @@
 ## Translator Notes
 
 - **3:6** — Many later manuscripts add "Rise up and" before "walk," whereas the earliest witnesses read simply "walk."
-- **3:13** — Greek pais can mean "child" or "servant"; here and in 3:26, 4:27, and 4:30 it echoes the Servant of the Lord in Isaiah (cf. Isa 52:13).
+- **3:13** — Greek pais can mean "child" or "servant"; so also in 3:26, 4:27, and 4:30.
 - **3:15** — Greek archegos denotes an originator, founder, or pioneering leader; "Founder of life" conveys the sense of the one who originates and leads into life.
 - **3:22** — The critical Greek text reads "the Lord our God" (first-person plural), while some manuscripts harmonize with Deuteronomy 18:15 to read "your God."

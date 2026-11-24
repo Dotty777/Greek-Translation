@@ -11,7 +11,7 @@
 
 **7:3** Therefore His brothers said to Him, "Depart from here and go into Judea, so that Your disciples also will see Your works that You are doing.
 
-**7:4** For no one does anything in secret and seeks himself to be in public. If You do these things, reveal Yourself to the world."
+**7:4** For no one does anything in secret and himself seeks to be in public. If You do these things, reveal Yourself to the world."
 
 **7:5** For not even His brothers were believing in Him.
 

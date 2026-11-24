@@ -41,7 +41,7 @@
 
 **2:18** And John's disciples and the Pharisees were fasting. And they came and said to Him, "Why do the disciples of John and the disciples of the Pharisees fast, yet Your disciples do not fast?"
 
-**2:19** And Jesus said to them, "Can the sons of the bridal chamber fast while the bridegroom is with them? For as long as they have the bridegroom with them, they cannot fast.
+**2:19** And Jesus said to them, "Can the sons of the bridal chamber fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.
 
 **2:20** Yet days will come when the bridegroom is taken away from them, and then they will fast in that day.
 
@@ -55,7 +55,7 @@
 
 **2:25** And He said to them, "Have you never read what David did when he was in need and grew hungry, he and those who were with him,
 
-**2:26** how he entered the house of God in the time of Abiathar the high priest and ate the loaves of the Presence, which it is not lawful for anyone to eat except the priests, and gave some also to those who were with him?"
+**2:26** how he entered the house of God in the time of Abiathar the high priest and ate the loaves of presentation, which it is not lawful for anyone to eat except the priests, and gave some also to those who were with him?"
 
 **2:27** And He was saying to them, "The Sabbath came into being for the sake of man, and not man for the sake of the Sabbath;
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** In the beginning the Word existed, and the Word was with God, and the Word was God.
+**1:1** In the beginning was the Word, and the Word was with God, and the Word was God.
 
 **1:2** This One was with God in the beginning.
 
@@ -29,11 +29,11 @@
 
 **1:12** Yet to as many as received Him, He gave them authority to become children of God, to those believing in His name,
 
-**1:13** who were born not from bloodlines, nor from the desire of flesh, nor from the desire of a husband, but from God.
+**1:13** who were born not from bloodlines, nor from the will of flesh, nor from the will of a husband, but from God.
 
 **1:14** And the Word became flesh and dwelt among us, and we gazed upon His glory, glory as of an only-begotten from a father, full of grace and truth.
 
-**1:15** (John testifies concerning Him and has cried out, saying, "This was He of whom I said, 'The One coming after me has come ahead of me, because He existed before me.'")
+**1:15** (John testifies concerning Him and has cried out, saying, "This was He of whom I said, 'The One coming after me has come ahead of me, because He was before me.'")
 
 **1:16** Because out of His fullness all of us received, even grace in place of grace;
 
@@ -51,7 +51,7 @@
 
 **1:23** He said, "I am a voice of one crying out in the wilderness, 'Make straight the way of the Lord,' just as Isaiah the prophet said."
 
-**1:24** Now those who had been sent were from the Pharisees.
+**1:24** Now they had been sent from the Pharisees.
 
 **1:25** And they asked him and said to him, "Why then are you baptizing, if you are not the Christ, nor Elijah, nor the Prophet?"
 
@@ -63,7 +63,7 @@
 
 **1:29** On the next day he sees Jesus coming toward him and says, "Look, the Lamb of God who takes away the sin of the world!
 
-**1:30** This is He on behalf of whom I said, 'After me comes a man who has come ahead of me, because He existed before me.'
+**1:30** This is He on behalf of whom I said, 'After me comes a man who has come ahead of me, because He was before me.'
 
 **1:31** And I myself did not know Him, but so that He might be revealed to Israel, for this reason I came baptizing in water."
 
@@ -109,14 +109,14 @@
 
 ## Translator Notes
 
-- **1:1** — In the final clause (θεὸς ἦν ὁ λόγος), ὁ λόγος ("the Word") has the article and is the subject, while θεός ("God") is placed first without an article as a qualitative predicate. Rendered "the Word was God" to preserve both the subject-predicate order in English and the affirmation of the Word's full deity.
+- **1:1** — In the final clause (θεὸς ἦν ὁ λόγος), ὁ λόγος ("the Word") has the article and is the subject, while θεός ("God") is the predicate, placed first without the article. Rendered "the Word was God" to follow English subject-predicate order.
 - **1:3** — The Saints Greek Critical Text places a period after οὐδὲ ἕν ("not even one thing"), joining ὃ γέγονεν ("what has come into being") to the start of 1:4 rather than ending 1:3 with "that was made." The translation follows the Greek punctuation.
 - **1:5** — κατέλαβεν carries a deliberate double resonance in John: "overtake/overcome" (hostile darkness failing to extinguish the light) and "comprehend/grasp." "Overtake" keeps the primary spatial and conflict sense of the verb.
 - **1:9** — The participle ἐρχόμενον ("coming") is grammatically ambiguous: it can modify "the true light" (rendered here) or "every person" ("illuminates every person coming into the world").
 - **1:11** — The Greek shifts from neuter plural τὰ ἴδια ("His own things/domain") to masculine plural οἱ ἴδιοι ("His own people"). Both are reflected distinctly.
 - **1:13** — ἐξ αἱμάτων uses the plural "bloods" (rendered "bloodlines"), referring to physical descent, and ἀνδρός specifically means a male/husband rather than a generic human being.
-- **1:14** — ἐσκήνωσεν literally means "pitched a tent" or "tabernacled," recalling God's dwelling among Israel in the tabernacle. μονογενοῦς means "only-begotten" or "unique, one of a kind."
-- **1:16** — χάριν ἀντὶ χάριτος literally means "grace in place of grace" (one gift of grace succeeding or replacing another, often understood as grace upon grace or the grace of Christ superseding the grace of the law).
+- **1:14** — ἐσκήνωσεν literally means "pitched a tent" or "tabernacled" (cognate with σκηνή, "tent, tabernacle"). μονογενοῦς means "only-begotten" or "unique, one of a kind."
+- **1:16** — χάριν ἀντὶ χάριτος literally means "grace in place of grace" (ἀντί, "in place of, instead of"), often understood as one gift of grace succeeding another.
 - **1:18** — The Saints Greek Critical Text reads μονογενὴς θεός ("only-begotten God" or "the unique God"), rather than the later variant "only-begotten Son." εἰς τὸν κόλπον literally means "into the bosom/embrace," an idiom for closest intimacy, rendered "at the Father's side." ἐξηγήσατο ("explained, narrated, made known") has no explicit object in Greek; "Him" is supplied for English clarity.
 - **1:21** — John frequently uses the historical present (λέγει, "he says"; βλέπει, "he sees"; εὑρίσκει, "he finds") throughout 1:21–51. It is retained here to preserve the vividness of the Greek narrative.
 - **1:51** — Ἀμὴν ἀμήν (literally "Amen, amen") is rendered "Truly, truly." The "you" in "I tell you" and "you will see" is plural (ὑμῖν, ὄψεσθε), addressing all the disciples present.

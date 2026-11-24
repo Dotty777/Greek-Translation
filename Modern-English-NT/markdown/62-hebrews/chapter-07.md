@@ -13,7 +13,7 @@
 
 **7:4** Now consider how great this man was, to whom Abraham the patriarch gave a tenth from the choicest spoils.
 
-**7:5** And those of the sons of Levi who receive the priestly office have a commandment to collect a tenth from the people according to the Law, that is, from their brothers, even though they have come from the loins of Abraham.
+**7:5** And those of the sons of Levi who receive the priestly office have a commandment to collect a tenth from the people according to the law, that is, from their brothers, even though they have come from the loins of Abraham.
 
 **7:6** Yet the one whose genealogy is not from them received a tenth from Abraham and blessed the one who held the promises.
 
@@ -25,7 +25,7 @@
 
 **7:10** for he was still in the loins of his father when Melchizedek met him.
 
-**7:11** Now if perfection were through the Levitical priesthood (for on the basis of it the people received the Law), what further need would there be for another priest to arise according to the order of Melchizedek, and not be designated according to the order of Aaron?
+**7:11** Now if perfection were through the Levitical priesthood (for on the basis of it the people received the law), what further need would there be for another priest to arise according to the order of Melchizedek, and not be designated according to the order of Aaron?
 
 **7:12** For when the priesthood is changed, of necessity a change of law also takes place.
 
@@ -41,7 +41,7 @@
 
 **7:18** For on the one hand, a setting aside of a previous commandment takes place because of its weakness and uselessness
 
-**7:19** (for the Law made nothing perfect), and on the other hand, the bringing in of a better hope, through which we draw near to God.
+**7:19** (for the law made nothing perfect), and on the other hand, the bringing in of a better hope, through which we draw near to God.
 
 **7:20** And inasmuch as it was not without an oath (for they indeed became priests without an oath,
 
@@ -59,7 +59,7 @@
 
 **7:27** who does not have need daily, like those high priests, to offer up sacrifices first for His own sins and then for those of the people, for He did this once for all when He offered up Himself.
 
-**7:28** For the Law appoints men who have weakness as high priests, but the word of the oath, which came after the Law, appoints a Son who has been made perfect forever.
+**7:28** For the law appoints men who have weakness as high priests, but the word of the oath, which came after the law, appoints a Son who has been made perfect forever.
 
 ## Translator Notes
 

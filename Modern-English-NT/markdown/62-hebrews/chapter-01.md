@@ -13,7 +13,7 @@
 
 **1:4** having become so much superior to the angels, to the extent that He has inherited a more distinguished name than they.
 
-**1:5** For to which of the angels has He ever said, "You are My Son; I have fathered You today," and again, "I will be to Him a Father, and He will be to Me a Son"?
+**1:5** For to which of the angels has He ever said, "You are My Son; today I have fathered You," and again, "I will be to Him a Father, and He will be to Me a Son"?
 
 **1:6** And when He again brings the firstborn into the inhabited world, He says, "And let all the angels of God worship Him."
 

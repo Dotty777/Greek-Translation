@@ -9,7 +9,7 @@
 
 **6:2** So the Twelve summoned the multitude of the disciples and said, "It is not fitting for us to leave the word of God in order to serve tables.
 
-**6:3** Therefore, brothers, select from among you seven men of good reputation, full of the Spirit and of wisdom, whom we will appoint over this duty;
+**6:3** But, brothers, select from among you seven men of good reputation, full of the Spirit and of wisdom, whom we will appoint over this duty;
 
 **6:4** while we will devote ourselves continually to prayer and to the ministry of the word."
 

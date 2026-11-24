@@ -5,7 +5,7 @@
 
 ## Text
 
-**8:1** Now concerning things sacrificed to idols, we know that we all have knowledge. Knowledge inflates, but love builds up.
+**8:1** Now concerning things sacrificed to idols, we know that we all have knowledge. Knowledge puffs up, but love builds up.
 
 **8:2** If anyone supposes that he has come to know anything, he has not yet known as he ought to know;
 

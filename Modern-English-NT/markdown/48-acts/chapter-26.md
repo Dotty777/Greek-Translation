@@ -59,7 +59,7 @@
 
 **26:27** Do you believe the prophets, King Agrippa? I know that you believe."
 
-**26:28** And Agrippa said to Paul, "In a short time you are trying to persuade me to become a Christian."
+**26:28** And Agrippa said to Paul, "In a short time you are trying to persuade me to act as a Christian."
 
 **26:29** And Paul said, "I would pray to God that whether in a short time or in a long time, not only you, but also all who are listening to me today might become such as I also am, except for these chains."
 
@@ -73,5 +73,5 @@
 
 - **26:11** — The imperfect enagkazon ("I kept trying to force") is likely conative, describing repeated attempts to compel believers to blaspheme rather than necessarily succeeding.
 - **26:14** — Greek te Hebraidi dialekto ("in the Hebrew dialect") commonly refers to Aramaic, the Semitic language spoken in first-century Judea, consistent with the form Saoul ("Saul").
-- **26:23** — Greek ei (literally "whether") introduces debated propositions confirmed by Scripture, and pathetos literally means "subject to suffering" or "destined to suffer."
+- **26:23** — Greek ei (literally "whether") introduces the propositions at issue, and pathetos literally means "subject to suffering" or "destined to suffer."
 - **26:28** — Greek en oligo can mean "in a short time" or "with little effort." The critical text reads poiesai (literally "to make," perhaps "to act the Christian" or "to make [me] a Christian"), which later manuscripts smooth to genesthai ("to become").

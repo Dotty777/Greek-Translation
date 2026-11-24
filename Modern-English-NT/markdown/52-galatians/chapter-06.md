@@ -9,7 +9,7 @@
 
 **6:2** Bear one another's burdens, and in this way you will fulfill the law of Christ.
 
-**6:3** For if someone thinks himself to be something while being nothing, he deceives his own mind.
+**6:3** For if someone thinks himself to be something while being nothing, he deceives himself.
 
 **6:4** But let each person test his own work, and then he will have his ground for boasting in regard to himself alone and not in regard to the other.
 

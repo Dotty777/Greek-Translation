@@ -31,7 +31,7 @@
 
 **13:13** and He laid His hands on her; and immediately she was made straight, and she began glorifying God.
 
-**13:14** But the synagogue leader, indignant because Jesus had healed on the Sabbath, responded and was saying to the crowd, "There are six days in which it is necessary to work; so come on those days and be healed, and not on the Sabbath day."
+**13:14** But the synagogue ruler, indignant because Jesus had healed on the Sabbath, responded and was saying to the crowd, "There are six days in which it is necessary to work; so come on those days and be healed, and not on the Sabbath day."
 
 **13:15** But the Lord answered him and said, "Hypocrites! Does not each of you untie his ox or his donkey from the feeding trough on the Sabbath and lead it away to give it water?
 
@@ -80,5 +80,5 @@
 - **13:4** — "Offenders" translates Greek opheiletai (literally "debtors"), a Semitic idiom denoting moral guilt before God.
 - **13:9** — The Greek clause breaks off abruptly after "in the time to come" (aposiopesis), leaving an implied positive outcome such as "well and good."
 - **13:21** — "Three measures" renders Greek sata tria (three Hebrew seahs), a large volume of roughly 35 to 40 liters of flour.
-- **13:32** — Greek teleioumai can mean "I reach completion" (finishing His appointed course) or "I am brought to perfection" through suffering.
+- **13:32** — Greek teleioumai can mean "I reach completion" (middle) or "I am brought to completion, perfected" (passive).
 - **13:35** — The Greek text reads simply "your house is left to you," without the word "desolate" found in some later manuscripts and Matthew 23:38.

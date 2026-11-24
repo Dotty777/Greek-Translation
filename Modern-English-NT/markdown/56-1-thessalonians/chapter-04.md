@@ -31,7 +31,7 @@
 
 **4:13** Now we do not want you to be unaware, brothers, concerning those who are asleep, so that you may not grieve as the rest also do who have no hope.
 
-**4:14** For if we believe that Jesus died and rose again, in the same way God will also bring with Him those who have fallen asleep through Jesus.
+**4:14** For if we believe that Jesus died and rose, in the same way God will also bring with Him those who have fallen asleep through Jesus.
 
 **4:15** For this we tell you by a word of the Lord, that we who are living, who remain until the coming of the Lord, will by no means precede those who have fallen asleep.
 

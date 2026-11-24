@@ -109,13 +109,13 @@
 
 **4:52** Therefore he inquired from them the hour at which he had taken a turn for the better. So they told him, "Yesterday, at the seventh hour, the fever left him."
 
-**4:53** So the father recognized that it was at that very hour in which Jesus had said to him, "Your son is alive"; and he himself believed, along with his entire household.
+**4:53** So the father recognized that it was at that hour in which Jesus had said to him, "Your son is alive"; and he himself believed, along with his entire household.
 
 **4:54** Now this again was a second sign that Jesus performed after coming out of Judea into Galilee.
 
 ## Translator Notes
 
 - **4:9** — Greek συγχρῶνται literally means "use together with," which may refer specifically to sharing drinking vessels in addition to broader social dealings between Jews and Samaritans.
-- **4:26** — Greek Ἐγώ εἰμι is literally "I am," serving both as a predicate identification ("I am He") and as an echo of the divine self-designation in the Greek Old Testament (cf. Exod 3:14; Isa 43:10).
+- **4:26** — Greek Ἐγώ εἰμι is literally "I am"; "He" is supplied in English as the predicate implied by the context (the Messiah of v. 25).
 - **4:35** — In the Greek text, ἤδη ("Already") appears after the punctuation break at the end of v. 35 to open the sentence completed in v. 36, though some punctuation traditions attach it to v. 35 ("already white for harvest").
 - **4:48** — Both verbs ("see" and "believe") are second-person plural in Greek, showing that Jesus addresses not only the royal official individually but the wider Galilean audience as well.

@@ -7,7 +7,7 @@
 
 **14:1** Now it happened in Iconium that they entered together into the synagogue of the Jews and spoke in such a way that a great multitude of both Jews and Greeks believed.
 
-**14:2** But the Jews who disbelieved stirred up and embittered the minds of the Gentiles against the brothers.
+**14:2** But the Jews who disbelieved stirred up and embittered the souls of the Gentiles against the brothers.
 
 **14:3** Therefore they stayed for a considerable time, speaking boldly in the Lord, who was bearing witness to the word of His grace, granting signs and wonders to take place through their hands.
 

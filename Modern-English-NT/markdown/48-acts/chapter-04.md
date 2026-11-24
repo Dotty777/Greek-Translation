@@ -33,7 +33,7 @@
 
 **4:14** And seeing the man who had been healed standing with them, they had nothing to say in reply.
 
-**4:15** So having ordered them to leave the Council, they began conferring with one another,
+**4:15** So having ordered them to leave the Sanhedrin, they began conferring with one another,
 
 **4:16** saying, "What should we do with these men? For that a notable sign has taken place through them is evident to all who live in Jerusalem, and we cannot deny it.
 

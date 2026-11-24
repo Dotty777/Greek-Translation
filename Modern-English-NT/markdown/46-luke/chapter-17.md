@@ -23,7 +23,7 @@
 
 **17:9** He does not thank the slave because he did the things that were commanded, does he?
 
-**17:10** So you also, when you have done all the things commanded you, say, 'We are unworthy slaves; we have done what we were obligated to do.'"
+**17:10** So you also, when you have done all the things commanded you, say, 'We are worthless slaves; we have done what we were obligated to do.'"
 
 **17:11** And it happened while He was traveling to Jerusalem that He was passing between Samaria and Galilee.
 
@@ -63,13 +63,13 @@
 
 **17:29** but on the day Lot went out from Sodom, it rained fire and sulfur from heaven and destroyed all of them.
 
-**17:30** In the very same way it will be on the day the Son of Man is revealed.
+**17:30** In the same way it will be on the day the Son of Man is revealed.
 
 **17:31** On that day, let the one who is on the housetop, with his belongings in the house, not come down to take them away; and likewise let the one in the field not turn back to what is behind.
 
 **17:32** Remember Lot's wife.
 
-**17:33** Whoever seeks to preserve his life will lose it, and whoever loses it will keep it alive.
+**17:33** Whoever seeks to preserve his life will lose it, but whoever loses it will keep it alive.
 
 **17:34** I tell you, on that night there will be two in one bed; one will be taken and the other will be left.
 
@@ -83,9 +83,9 @@
 
 ## Translator Notes
 
-- **17:10** — "Unworthy" translates Greek achreioi, which literally means "useless" or "unprofitable," referring here to slaves who have earned no special merit beyond their required duty.
+- **17:10** — "Worthless" translates Greek achreioi, literally "useless" or "unprofitable."
 - **17:11** — The Greek phrase dia meson Samareias kai Galilaias can be understood either as "between Samaria and Galilee" (along their border) or "through the middle of Samaria and Galilee."
 - **17:21** — The Greek phrase entos hymon is debated and can mean either "in your midst" (among you) or "within you."
-- **17:35** — Verse 36 ("Two men will be in the field; one will be taken and the other will be left") is absent from the earliest and best Greek manuscripts and is omitted in the critical text.
+- **17:35** — Verse 36 is absent from the earliest Greek manuscripts; the critical text prints it within double brackets ⟦ ⟧.
 - **17:37** — The Greek word aetoi can mean either "vultures" or "eagles"; "vultures" fits the proverb's imagery of carrion birds gathering around a body (soma).
 - **17:36 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

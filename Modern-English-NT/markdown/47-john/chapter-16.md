@@ -74,6 +74,6 @@
 ## Translator Notes
 
 - **16:8** — Greek elegxei ("will convict") carries a forensic range of meaning that includes exposing guilt, proving wrong, and convicting.
-- **16:13** — The Greek text reads the future tense akousei ("will hear"), highlighting the Spirit's ongoing reception and declaration of what He receives.
+- **16:13** — The Greek text reads the future tense akousei ("will hear").
 - **16:23** — In this Greek text, "in My name" follows "He will give to you," connecting the phrase directly to the Father's giving rather than only to the disciples' asking.
 - **16:27** — The Greek text reads "from God" rather than "from the Father," matching the disciples' confession in verse 30.

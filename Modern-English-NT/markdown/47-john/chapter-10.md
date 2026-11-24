@@ -85,14 +85,14 @@
 
 **10:40** And He went away again across the Jordan to the place where John was at first baptizing, and He remained there.
 
-**10:41** And many came to Him and were saying, "John performed no sign, yet everything that John said about this Man was true."
+**10:41** And many came to Him and were saying, "John performed no sign, yet everything that John said about this man was true."
 
 **10:42** And many believed in Him there.
 
 ## Translator Notes
 
-- **10:8** — The phrase "before Me" is omitted in several early manuscripts, though strongly attested in P66, Vaticanus, and Alexandrinus; in context it points to self-appointed false shepherds rather than the Old Testament prophets.
+- **10:8** — The phrase "before Me" is omitted in several early manuscripts, though strongly attested in P66, Vaticanus, and Alexandrinus.
 - **10:22** — "The Feast of Dedication" (Greek ta enkainia) refers to Hanukkah, the winter festival commemorating the rededication of the Jerusalem temple in 164 BC under Judas Maccabeus.
 - **10:24** — "Keep us in suspense" translates the Greek idiom literally meaning "lift up our soul."
 - **10:29** — The critical Greek text uses neuter forms (ho ... meizon), literally "What My Father has given Me is greater than all," whereas another major textual tradition reads masculine forms ("My Father, who has given them to Me, is greater than all").
-- **10:30** — The Greek word for "one" (hen) is neuter rather than masculine, indicating unity of essence and action while preserving the distinction of persons between Father and Son.
+- **10:30** — The Greek word for "one" (hen) is neuter rather than masculine.

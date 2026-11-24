@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** Let every person submit to the governing authorities, for there is no authority except from God, and the ones that exist have been appointed by God.
+**13:1** Let every person submit to the governing authorities, for there is no authority except by God, and the ones that exist have been appointed by God.
 
 **13:2** Therefore, whoever resists authority has opposed the ordinance of God, and those who stand in opposition will receive judgment upon themselves.
 

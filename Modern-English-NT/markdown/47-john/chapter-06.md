@@ -11,7 +11,7 @@
 
 **6:3** And Jesus went up onto the mountain, and He was sitting there with His disciples.
 
-**6:4** Now the Passover, the festival of the Jews, was near.
+**6:4** Now the Passover, the feast of the Jews, was near.
 
 **6:5** So Jesus, lifting up His eyes and seeing that a large crowd was coming toward Him, said to Philip, "Where should we buy bread so that these people may eat?"
 
@@ -107,13 +107,13 @@
 
 **6:51** I am the living bread that descended from heaven. If anyone eats from this bread, he will live forever; and indeed the bread that I will give is My flesh, for the life of the world."
 
-**6:52** So the Jews were quarreling with one another, saying, "How is this man able to give us His flesh to eat?"
+**6:52** So the Jews were quarreling with one another, saying, "How is this man able to give us the flesh to eat?"
 
 **6:53** Therefore Jesus said to them, "Truly, truly, I tell you, unless you eat the flesh of the Son of Man and drink His blood, you do not have life in yourselves.
 
 **6:54** The one who eats My flesh and drinks My blood has eternal life, and I Myself will raise him up on the last day.
 
-**6:55** For My flesh is genuine food, and My blood is genuine drink.
+**6:55** For My flesh is true food, and My blood is true drink.
 
 **6:56** The one who eats My flesh and drinks My blood remains in Me, and I in him.
 
@@ -150,8 +150,8 @@
 ## Translator Notes
 
 - **6:19** — A stadion was a Greek unit of length of about 600 feet (185 meters), so twenty-five to thirty stadia was roughly 3 to 3.5 miles (4.5 to 5.5 kilometers).
-- **6:20** — Greek ego eimi, literally 'I am,' functions idiomatically as self-identification ('It is I') while also echoing the divine self-designation of Exodus 3:14 and Isaiah.
+- **6:20** — Greek ego eimi, literally 'I am,' functions idiomatically here as self-identification ('It is I').
 - **6:33** — The masculine participle ho katabainon agrees grammatically with masculine artos ('bread') and may be rendered either 'that which descends' or 'He who descends,' anticipating Jesus' self-identification in verse 35.
-- **6:34** — Greek Kyrie can mean either 'Lord' or respectful 'Sir,' reflecting the crowd's deference even as they still misunderstand the bread Jesus offers.
-- **6:54** — Greek trogo (vv. 54, 56-58) literally denotes chewing or eating and functions as the present-tense counterpart to aorist phago ('eat') in vv. 49-53, emphasizing real, ongoing participation.
+- **6:34** — Greek Kyrie can mean either 'Lord' or respectful 'Sir.'
+- **6:54** — Greek trogo (vv. 54, 56-58) literally denotes chewing or eating and functions as the present-tense counterpart to aorist phago ('eat') in vv. 49-53.
 - **6:62** — The Greek is an elliptical conditional question ('What if, then...'), leaving the implied result unstated for the listeners to weigh.

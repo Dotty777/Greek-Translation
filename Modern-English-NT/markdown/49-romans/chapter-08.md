@@ -51,9 +51,9 @@
 
 **8:23** And not only that, but we ourselves also, who have the firstfruits of the Spirit, even we ourselves groan within ourselves, eagerly awaiting adoption, the redemption of our body.
 
-**8:24** For in this hope we were saved; yet hope that is seen is not hope, for why does anyone hope for what he sees?
+**8:24** For in this hope we were saved; yet hope that is seen is not hope, for who hopes for what he sees?
 
-**8:25** But if we hope for what we do not see, we eagerly await it through perseverance.
+**8:25** But if we hope for what we do not see, we eagerly await it through endurance.
 
 **8:26** And in the same way the Spirit also comes alongside to help our weakness; for we do not know what we should pray for as we ought, but the Spirit Himself intercedes with unspoken groanings;
 
@@ -65,7 +65,7 @@
 
 **8:30** and those whom He predestined, these He also called; and those whom He called, these He also justified; and those whom He justified, these He also glorified.
 
-**8:31** What then will we say to these things? If God is for us, who is against us?
+**8:31** What then shall we say to these things? If God is for us, who is against us?
 
 **8:32** He who indeed did not spare His own Son, but handed Him over on behalf of us all, how will He not also with Him graciously give us all things?
 
@@ -75,7 +75,7 @@
 
 **8:35** Who will separate us from the love of Christ? Affliction, or distress, or persecution, or famine, or nakedness, or danger, or sword?
 
-**8:36** Just as it stands written, "For Your sake we are being put to death all day long; we were reckoned as sheep for slaughter."
+**8:36** Just as it is written, "For Your sake we are being put to death all day long; we were reckoned as sheep for slaughter."
 
 **8:37** Yet in all these things we triumph completely through Him who loved us.
 

@@ -11,7 +11,7 @@
 
 **4:3** To me, however, it is the smallest matter that I should be examined by you or by a human court; in fact, I do not even examine myself.
 
-**4:4** For I am aware of nothing against myself, yet I am not acquitted by this; the One who examines me is the Lord.
+**4:4** For I am aware of nothing against myself, yet I am not justified by this; the One who examines me is the Lord.
 
 **4:5** Therefore do not judge anything before the time, until the Lord comes, who will both illuminate the hidden things of darkness and reveal the counsels of the hearts; and then praise will come to each one from God.
 

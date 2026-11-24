@@ -15,7 +15,7 @@
 
 **24:5** For we have found this man to be a pest and one who stirs up dissensions among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes,
 
-**24:6** who even attempted to profane the temple, so we seized him.
+**24:6** who even attempted to profane the temple, and we seized him.
 
 **24:8** By examining him yourself, you will be able to learn from him concerning all these things of which we accuse him."
 
@@ -41,11 +41,11 @@
 
 **24:19** But some Jews from Asia—they ought to be present before you and bring charges if they have anything against me.
 
-**24:20** Or let these men themselves say what wrongdoing they found when I stood before the Council,
+**24:20** Or let these men themselves say what wrongdoing they found when I stood before the Sanhedrin,
 
 **24:21** other than this one statement that I cried out while standing among them, 'Concerning the resurrection of the dead I am on trial before you today.'"
 
-**24:22** Then Felix, having quite accurate knowledge of the matters concerning the Way, put them off, saying, "When Lysias the tribune comes down, I will decide your case."
+**24:22** Then Felix, having quite accurate knowledge of the matters concerning the Way, put them off, saying, "When Lysias the commander comes down, I will decide your case."
 
 **24:23** He gave orders to the centurion for him to be kept under guard, yet to have some freedom, and not to prevent any of his own people from serving him.
 
@@ -59,7 +59,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**24:7** *(after `24:6`)* ⟦But Lysias the tribune came by and with great force took him away out of our hands,⟧
+**24:7** *(after `24:6`)* ⟦But Lysias the commander came by and with great force took him away out of our hands,⟧
 
 ## Translator Notes
 

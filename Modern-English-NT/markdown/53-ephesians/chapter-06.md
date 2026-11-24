@@ -59,4 +59,4 @@
 - **6:15** — The Greek noun hetoimasia ("readiness") can denote either preparedness to share the gospel or a firm footing supplied by it.
 - **6:16** — The critical text reads en pasin ("in all circumstances"), whereas other manuscripts read epi pasin ("in addition to all" or "above all").
 - **6:20** — The Greek noun halysei ("in a chain") is singular, likely referring to the single coupling chain binding Paul to a guard.
-- **6:24** — The phrase en aphtharsia literally means "in incorruptibility" (or "imperishability"), conveying an undying, uncorrupted love for Christ; the earliest manuscripts omit "Amen."
+- **6:24** — The phrase en aphtharsia literally means "in incorruptibility" (or "imperishability"); the earliest manuscripts omit "Amen."

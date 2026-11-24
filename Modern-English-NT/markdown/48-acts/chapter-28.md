@@ -75,5 +75,5 @@
 - **28:7** — Literally "the first man of the island" (Greek "protos"), an official Roman-era title for the chief magistrate of Malta attested in local inscriptions.
 - **28:11** — Greek "Dioskurois" (the Dioscuri), the mythological twin sons of Zeus—Castor and Pollux—regarded in antiquity as patron deities of sailors.
 - **28:13** — The critical text reads "perielontes" ("having cast off" or "weighed anchor"); some manuscripts read "perielthontes" ("having sailed around" or "made a circuit").
-- **28:28** — Verse 29 ("And when he had said these things, the Jews departed, having a great dispute among themselves") is absent from the earliest and best manuscripts and is omitted in the critical text.
+- **28:28** — Verse 29 ("And when he had said these things, the Jews departed, having a great dispute among themselves") is absent from the earliest manuscripts; the Saints Greek Critical Text prints it in double brackets ⟦ ⟧.
 - **28:29 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

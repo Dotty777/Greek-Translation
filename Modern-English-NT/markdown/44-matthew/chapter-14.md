@@ -7,7 +7,7 @@
 
 **14:1** At that time Herod the tetrarch heard the report about Jesus,
 
-**14:2** and he said to his servants, "This is John the Baptist; he himself has been raised from the dead, and for this reason the miraculous powers are working in him."
+**14:2** and he said to his servants, "This is John the Baptist; he himself has been raised from the dead, and for this reason the powers are working in him."
 
 **14:3** For Herod had seized John, bound him, and put him away in prison on account of Herodias, the wife of his brother Philip,
 
@@ -81,6 +81,6 @@
 
 - **14:9** — The Greek text uses two finite verbs (was grieved ... commanded) without a conjunction linking them, rather than the participial construction found in some manuscripts. The plural 'oaths' likely emphasizes the solemnity or repeated nature of Herod's pledge.
 - **14:24** — The Greek text reads 'was already in the middle of the sea,' whereas several ancient manuscripts read 'was already many stadia away from the land.'
-- **14:27** — The phrase 'it is I' literally translates Greek 'ego eimi' ('I am'), which serves both as a normal self-identification and as an echo of God's self-revelation in the Greek Old Testament (e.g., Exodus 3:14; Isaiah 43:10).
+- **14:27** — Greek egō eimi, literally "I am," is used here as an ordinary self-identification, "it is I."
 - **14:29** — The Greek text reads the finite verb 'and came,' whereas some early manuscripts read the infinitive 'to come.'
 - **14:36** — 'Fringe' (Greek 'kraspedon') refers to the tassel attached to the corner of a Jewish outer garment in accordance with the Mosaic Law (Numbers 15:38-39; Deuteronomy 22:12).

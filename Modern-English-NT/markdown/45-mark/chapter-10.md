@@ -39,7 +39,7 @@
 
 **10:17** And as He was setting out onto the road, someone ran up, knelt before Him, and asked Him, "Good Teacher, what should I do so that I may inherit eternal life?"
 
-**10:18** And Jesus said to him, "Why do you call Me good? No one is good except One, God alone.
+**10:18** And Jesus said to him, "Why do you call Me good? No one is good except One, God.
 
 **10:19** You know the commandments: 'Do not murder, do not commit adultery, do not steal, do not bear false witness, do not defraud, honor your father and mother.'"
 
@@ -71,7 +71,7 @@
 
 **10:33** "Look, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and the scribes, and they will condemn Him to death and hand Him over to the Gentiles;
 
-**10:34** and they will mock Him and spit on Him and flog Him and kill Him, and after three days He will rise again."
+**10:34** and they will mock Him and spit on Him and flog Him and kill Him, and after three days He will rise."
 
 **10:35** And James and John, the sons of Zebedee, came up to Him, saying to Him, "Teacher, we want You to do for us whatever we ask of You."
 
@@ -114,5 +114,5 @@
 - **10:7** — Some later manuscripts add 'and be joined to his wife' (cf. Gen 2:24; Matt 19:5), which is absent from the earliest manuscripts followed in this text.
 - **10:24** — Some manuscripts expand this saying to read 'for those who trust in wealth to enter the kingdom of God,' whereas the earliest witnesses attest the shorter text translated here.
 - **10:26** — The Greek text reads 'to Him' (pros auton) rather than 'to one another' (pros heautous), which appears in some other manuscripts.
-- **10:45** — The Greek preposition anti ('in place of') conveys substitutionary exchange within the ransom (lytron) metaphor of paying a price to release captives or slaves.
-- **10:52** — The Greek verb sozo ('saved') carries a dual nuance of physical restoration ('made well / healed') and spiritual salvation, connecting Bartimaeus's sight with his following Jesus on the road.
+- **10:45** — The preposition anti basically means 'in place of' or 'in exchange for'; lytron denotes a price paid to release captives or slaves.
+- **10:52** — The verb sozo ('save') is also used of physical healing ('make well').

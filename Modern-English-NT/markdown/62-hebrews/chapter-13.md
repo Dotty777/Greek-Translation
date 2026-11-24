@@ -1,6 +1,6 @@
 # Hebrews 13 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (25 verses, 4 translator notes)  
+> **Status:** `draft: true` (25 verses, 3 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Hebrews`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -25,11 +25,11 @@
 
 **13:10** We have an altar from which those who serve the tabernacle have no authority to eat.
 
-**13:11** For the bodies of those animals whose blood is brought into the holy places by the high priest for sin are burned up outside the camp.
+**13:11** For the bodies of those animals whose blood is brought into the sanctuary by the high priest for sin are burned up outside the camp.
 
 **13:12** For this reason Jesus also, so that He might sanctify the people through His own blood, suffered outside the gate.
 
-**13:13** So then, let us go out to Him outside the camp, bearing His disgrace.
+**13:13** So then, let us go out to Him outside the camp, bearing His reproach.
 
 **13:14** For we do not have an enduring city here, but we are seeking the one to come.
 
@@ -58,6 +58,5 @@
 ## Translator Notes
 
 - **13:4** — The opening clauses are verbless in Greek and may be read either as an exhortation ("Let marriage be honored...") or as an indicative statement ("Marriage is honorable..."); similarly, "among all" (en pasin) can also be rendered "in every respect."
-- **13:10** — The meaning of "altar" here is debated, variously understood as Christ's sacrifice on the cross, Christ Himself, or the heavenly sanctuary, contrasted with the Levitical tabernacle service.
 - **13:21** — Some manuscripts read "working in you" (hymin) instead of "working in us" (hemin), and some omit "and ever" (ton aionon); the translation follows the critical text.
 - **13:24** — The phrase "those from Italy" (hoi apo tes Italias) may refer either to believers in Italy sending greetings outward or to Italian believers currently with the author sending greetings back to Italy.
