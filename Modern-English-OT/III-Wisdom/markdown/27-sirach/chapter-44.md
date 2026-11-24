@@ -25,11 +25,11 @@
 
 **44:10** But rather, these were men of mercy, whose righteous deeds were not forgotten.
 
-**44:11** With their offspring a good inheritance will endure, their descendants. In the covenants
+**44:11** With their seed a good inheritance will endure, their descendants. In the covenants
 
-**44:12** their offspring stood firm, and their children because of them.
+**44:12** their seed stood firm, and their children because of them.
 
-**44:13** Forever their offspring will remain, and their glory will not be blotted out.
+**44:13** Forever their seed will remain, and their glory will not be blotted out.
 
 **44:14** Their bodies were buried in peace, and their name lives for generations.
 
@@ -45,7 +45,7 @@
 
 **44:20** who kept the law of the Most High, and entered into a covenant with Him, and in his flesh he established a covenant, and in testing he was found faithful.
 
-**44:21** Therefore by an oath He established for him that nations would be blessed in his offspring, to multiply him like the dust of the earth, and like the stars to exalt his offspring, and to cause them to inherit from sea to sea and from the river to the end of the earth.
+**44:21** Therefore by an oath He established for him that nations would be blessed in his seed, to multiply him like the dust of the earth, and like the stars to exalt his seed, and to cause them to inherit from sea to sea and from the river to the end of the earth.
 
 **44:22** And in Isaac He likewise established, because of Abraham his father, the blessing of all people and the covenant,
 

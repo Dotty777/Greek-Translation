@@ -9,7 +9,7 @@
 
 **22:2** A lazy man is compared to a lump of dung; everyone who picks him up will shake off his hand.
 
-**22:3** A father's shame is in the birth of an undisciplined son, and a daughter is born to loss.
+**22:3** A father's shame is in the birth of an undisciplined child, and a daughter is born to loss.
 
 **22:4** A prudent daughter will inherit her husband, and she who brings shame is a grief to the one who fathered her.
 

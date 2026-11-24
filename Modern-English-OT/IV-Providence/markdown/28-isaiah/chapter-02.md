@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **2:2** — Where the Hebrew text has a single construct phrase ("the mountain of the house of the LORD"), the Septuagint divides it into two parallel subjects: "the mountain of the Lord" (which will be "clearly visible") and "the house of God" ("on the top of the mountains").
+- **2:2** — Where the Hebrew text has a single construct phrase ("the mountain of the house of the Lord"), the Septuagint divides it into two parallel subjects: "the mountain of the Lord" (which will be "clearly visible") and "the house of God" ("on the top of the mountains").
 - **2:6** — "He has forsaken" translates a third-person verb (unlike the second-person address in Hebrew), and "as from the beginning" interprets Hebrew miqqedem temporally rather than geographically ("from the east"); "foreigners" renders allophyloi, often used in the Septuagint for the Philistines.
 - **2:11** — "For the eyes of the Lord are high, while humanity is low" translates the Septuagint's contrast between God and humanity, diverging from the Hebrew text ("The haughty eyes of humanity will be brought low").
 - **2:20** — "To the worthless things" renders Greek tois mataiois (futile idols) where the Hebrew text has "to the moles/shrews"; Septuagint Isaiah 2 also ends at verse 21 without the additional verse found at 2:22 in the Hebrew text.

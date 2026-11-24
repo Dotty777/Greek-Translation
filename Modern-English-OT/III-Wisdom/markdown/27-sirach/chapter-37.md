@@ -63,7 +63,7 @@
 
 **37:29** Do not be insatiable in any luxury, and do not pour yourself out over foods.
 
-**37:30** For in many foods there will be pain, and insatiability will draw near to colic.
+**37:30** For in many foods there will be pain, and insatiability will draw near to bilious nausea.
 
 **37:31** Because of insatiability many have died, but the one who takes heed will add life.
 

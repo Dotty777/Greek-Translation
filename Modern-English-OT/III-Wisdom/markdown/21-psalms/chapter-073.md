@@ -15,7 +15,7 @@
 
 **73:5** as at the entrance above; as in a thicket of trees, with axes they cut down
 
-**73:6** its doors; together with hatchet and chisel they smashed it down.
+**73:6** its doors; together, with hatchet and chisel they smashed it down.
 
 **73:7** They burned Your sanctuary with fire; to the ground they profaned the dwelling place of Your name.
 

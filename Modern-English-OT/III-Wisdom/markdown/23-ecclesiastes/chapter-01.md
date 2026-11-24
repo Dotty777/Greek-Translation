@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **1:1** — "The Assembler" translates Greek Ekklesiastes ("one who convenes or addresses an assembly"), traditionally transliterated "Ecclesiastes" or rendered "the Preacher."
+- **1:1** — "The Assembler" translates Greek Ekklesiastes ("one who convenes or addresses an assembly").
 - **1:6** — In the Greek text, "rising there" opens v. 6 and continues describing the sun's circuit before turning to the wind; in v. 5, "draws" renders Greek helkei (compare MT "pants/hastens").
 - **1:14** — Greek proairesis pneumatos ("choice of spirit," also in 1:17; 2:11, 17, 26) reflects taking the Hebrew phrase as "desire/will of spirit" rather than "chasing after wind." Here and in 2:17; 3:10, 17, Greek syn with the accusative functions as a Hebraizing direct-object marker rather than the preposition "with."
 - **1:17** — Greek reads "parables and understanding" (parabolas kai epistemen) where the Hebrew MT reads "madness and folly"; likewise in v. 18 Greek reads "abundance of knowledge" (plethos gnoseos, vs. MT "much vexation").

@@ -55,7 +55,7 @@
 
 **6:26** With all your soul approach her, and with all your might keep her ways.
 
-**6:27** Search her out and seek her, and she will be made known to you; and when you have taken hold of her, do not let her go.
+**6:27** Search out and seek, and she will be made known to you; and when you have taken hold of her, do not let her go.
 
 **6:28** For in the end you will find her rest, and she will be turned into gladness for you.
 
@@ -71,7 +71,7 @@
 
 **6:34** Stand in the company of elders; and who is wise? Cling to him.
 
-**6:35** Be willing to listen to every godly discourse, and do not let proverbs of understanding escape you.
+**6:35** Be willing to listen to every divine discourse, and do not let proverbs of understanding escape you.
 
 **6:36** If you see a man of understanding, rise early to go to him, and let your foot wear out the steps of his doors.
 

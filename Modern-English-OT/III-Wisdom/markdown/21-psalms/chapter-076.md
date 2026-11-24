@@ -15,13 +15,13 @@
 
 **76:5** My enemies seized the watches beforehand; I was troubled and did not speak.
 
-**76:6** I considered ancient days, and everlasting years
+**76:6** I considered ancient days, and eternal years
 
 **76:7** I remembered, and I meditated; at night I was musing with my heart, and my spirit was searching.
 
 **76:8** Will the Lord reject forever, and will He no longer continue to be well pleased?
 
-**76:9** Or will He completely cut off mercy from generation to generation?
+**76:9** Or will He cut off mercy to the end, from generation to generation?
 
 **76:10** Or will God forget to have compassion, or will He hold back His compassions in His wrath? Interlude.
 

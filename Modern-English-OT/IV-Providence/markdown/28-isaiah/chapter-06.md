@@ -33,8 +33,8 @@
 
 ## Translator Notes
 
-- **6:1** — Greek reads "and the house was full of His glory" (cf. John 12:41), whereas the Hebrew Masoretic Text (MT) refers to the hem of His robe filling the temple.
+- **6:1** — Greek reads "and the house was full of His glory," whereas the Hebrew Masoretic Text (MT) refers to the hem of His robe filling the temple.
 - **6:3** — Greek Κύριος σαβαώθ (Kyrios Sabaoth) transliterates the Hebrew title "the Lord of hosts" rather than translating it, as also in 6:5, 7:7, and 8:18.
 - **6:4** — Greek reads "the lintel was lifted up," whereas the MT reads "the foundations of the thresholds shook."
-- **6:10** — Greek uses past and active indicatives ("has grown calloused ... they closed") where the MT has imperatives, a form echoed in Matthew 13:15 and Acts 28:27.
+- **6:10** — Greek uses past indicatives ("has grown calloused ... they closed") where the MT has imperatives.
 - **6:12** — Greek adds "after these things" and reads "those who are left will be multiplied on the land" (MT: "the forsaken places are many"), and 6:13 ends without the MT's "holy seed" clause.

@@ -37,7 +37,7 @@
 
 **1:16** Ayin. My eye has brought down water, for the one who comforts me is far removed from me, the one who restores my life; my sons have become desolate, for the enemy has prevailed.
 
-**1:17** Pe. Zion spread out her hands; there is no one who comforts her. The Lord gave a command concerning Jacob: all around him are those who afflict him; Jerusalem has become a menstruating woman in their midst.
+**1:17** Pe. Zion spread out her hands; there is no one who comforts her. The Lord gave a command to Jacob: all around him are those who afflict him; Jerusalem has become a menstruating woman in their midst.
 
 **1:18** Tsade. The Lord is righteous, for I embittered His mouth. Hear now, all you peoples, and see my pain: my virgins and my young men have gone into captivity.
 

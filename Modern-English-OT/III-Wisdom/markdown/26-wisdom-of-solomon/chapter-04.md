@@ -49,5 +49,5 @@
 
 - **4:6** — Greek reads literally "from lawless sleeps," a poetic euphemism for illicit sexual unions.
 - **4:12** — Greek uses vivid, rare imagery: "fascination" (baskania) denotes a bewitching spell, "roving" (rhembasmos) restless wandering, and "undermines" (metalleuei) literally means "mines under" (also sometimes taken as "alters" or "perverts").
-- **4:14** — The verb "hastened" (espeusen) has no explicit object in Greek; it may be taken intransitively of the righteous person ("he hastened") or, as in the Latin Vulgate, with the Lord as subject ("He hastened [to remove him]").
+- **4:14** — The verb "hastened" (espeusen) has no explicit object in Greek; it may be taken intransitively of the righteous person ("he hastened") or with the Lord as subject ("He hastened [to remove him]").
 - **4:15** — The Greek constructs this verse with participles and no finite main verb (an anacoluthon), rendered with finite verbs here for clarity.

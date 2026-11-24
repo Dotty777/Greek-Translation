@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **26:7** — The Greek uses a second-person imperative ('Take away') and reads 'lawlessness' rather than 'a proverb,' presenting a markedly different saying from the Hebrew Masoretic Text.
-- **26:11** — The second sentence ('There is a shame that brings sin, and there is a shame that is glory and grace') is a Septuagint addition shared verbatim with Sirach 4:21.
+- **26:11** — The second sentence ('There is a shame that brings sin, and there is a shame that is glory and grace') is a Septuagint addition nearly identical to Sirach 4:21.
 - **26:16** — The Greek reads en plesmone ('in fullness' or 'in satiety'), reflecting a different vocalization of the Hebrew consonants from the Masoretic Text's 'seven.'
 - **26:18** — The Greek reads hoi iomenoi ('those who heal') and logous ('words'), differing sharply from the Hebrew Masoretic Text's image of a madman throwing firebrands and arrows.
 - **26:26** — The Greek source text reads enkalyptei ('covers up') rather than the variant ekkalyptei ('uncovers'), portraying the deceitful person as trying to conceal his sins even though he is well-known in councils.

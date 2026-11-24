@@ -5,11 +5,11 @@
 
 ## Text
 
-**6:1** Where has your beloved gone, beautiful one among women? Where has your beloved looked? And we will seek him with you.
+**6:1** Where has your kinsman gone, beautiful one among women? Where has your kinsman looked? And we will seek him with you.
 
 **6:2** My brother has gone down into his garden, to bowls of spice, to shepherd in gardens and to gather lilies.
 
-**6:3** I belong to my beloved, and my beloved belongs to me, the one who shepherds among the lilies.
+**6:3** I belong to my kinsman, and my kinsman belongs to me, the one who shepherds among the lilies.
 
 **6:4** You are beautiful, my companion, like good pleasure, lovely as Jerusalem, astonishment like those drawn up in array.
 
@@ -31,7 +31,7 @@
 
 ## Translator Notes
 
-- **6:2** — Here the Greek text reads Adelphos mou ("My brother") rather than adelphidos mou ("my beloved"), which appears in 6:1 and 6:3.
+- **6:2** — Here the Greek text reads Adelphos mou ("My brother") rather than adelphidos ("kinsman"), which appears in 6:1 and 6:3.
 - **6:4** — The Septuagint translates the Hebrew city name Tirzah etymologically as eudokia ("good pleasure"), and renders the closing phrase literally as "astonishment like those drawn up in array" (repeated in 6:10).
 - **6:6** — The second sentence ("Like a scarlet cord are your lips, and your speech is lovely.") is present in the Septuagint here (matching 4:3), though absent from the Hebrew text.
 - **6:11** — The closing clause "there I will give my breasts to you" is a Septuagint addition in this verse, echoing 7:13 (Eng. 7:12).

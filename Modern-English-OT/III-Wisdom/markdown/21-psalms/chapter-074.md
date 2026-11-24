@@ -23,7 +23,7 @@
 
 **74:9** For a cup is in the hand of the Lord, of unmixed wine, full of mixture, and He poured from this into that; yet its dregs were not emptied out, and all the sinners of the earth will drink.
 
-**74:10** But I will rejoice forever; I will sing psalms to the God of Jacob;
+**74:10** But I will exult forever; I will sing psalms to the God of Jacob;
 
 **74:11** and I will break all the horns of the sinners, and the horns of the righteous one will be lifted up.
 

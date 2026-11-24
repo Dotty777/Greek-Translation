@@ -65,7 +65,7 @@
 
 **67:30** From Your temple at Jerusalem, to You kings will bring gifts.
 
-**67:31** Rebuke the wild beasts of the reed, the assembly of the bulls among the heifers of the peoples, so that those who have been tested with silver may not be shut out; scatter nations that desire wars.
+**67:31** Rebuke the wild beasts of the reed; the assembly of the bulls is among the heifers of the peoples, so that those who have been tested with silver may not be shut out; scatter nations that desire wars.
 
 **67:32** Envoys will come from Egypt; Ethiopia will hasten her hand to God.
 

@@ -13,7 +13,7 @@
 
 **75:4** there He shattered the powers of the bows, shield and sword and war; there He will break the horns. Interlude.
 
-**75:5** You shine wondrously from everlasting mountains.
+**75:5** You shine wondrously from eternal mountains.
 
 **75:6** All the senseless in heart were troubled; they slept their sleep, and all the men of wealth found nothing in their hands.
 

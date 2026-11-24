@@ -77,7 +77,7 @@
 
 **68:36** For God will save Zion, and the cities of Judea will be built, and they will dwell there and inherit it;
 
-**68:37** and the offspring of His servants will possess it, and those who love His name will settle in it.
+**68:37** and the seed of His servants will possess it, and those who love His name will settle in it.
 
 ## Translator Notes
 

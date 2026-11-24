@@ -13,7 +13,7 @@
 
 **24:4** The earth mourned, and the inhabited world was destroyed; the lofty ones of the earth mourned.
 
-**24:5** And the earth acted lawlessly because of those who inhabit it, because they transgressed the law and changed the ordinances, an everlasting covenant.
+**24:5** And the earth acted lawlessly because of those who inhabit it, because they transgressed the law and changed the ordinances, an eternal covenant.
 
 **24:6** Therefore a curse will devour the earth, because those who inhabit it sinned; therefore those who dwell on the earth will be poor, and few people will be left.
 

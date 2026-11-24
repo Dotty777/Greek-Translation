@@ -7,9 +7,9 @@
 
 **9:1** that the righteous and the wise and their deeds are in the hand of God; neither love nor hatred does man know; all things are before their face,
 
-**9:2** futility in all things. There is one event for the righteous and for the ungodly, for the good and for the bad, and for the clean and for the unclean, and for the one who sacrifices and for the one who does not sacrifice. As is the good man, so is the sinner; so is the one who swears, just as the one who fears the oath.
+**9:2** futility in all things. There is one fate for the righteous and for the ungodly, for the good and for the bad, and for the clean and for the unclean, and for the one who sacrifices and for the one who does not sacrifice. As is the good man, so is the sinner; so is the one who swears, just as the one who fears the oath.
 
-**9:3** This is an evil in everything done under the sun, that there is one event for all. And also the heart of the sons of man is filled with evil, and madness is in their heart during their life, and after them, to the dead.
+**9:3** This is an evil in everything done under the sun, that there is one fate for all. And also the heart of the sons of man is filled with evil, and madness is in their heart during their life, and after them, to the dead.
 
 **9:4** For who is there who shares with all the living? There is hope, for the living dog itself is better than the dead lion.
 
@@ -25,7 +25,7 @@
 
 **9:10** All that your hand finds to do, do according to your strength, for there is no work or reasoning or knowledge or wisdom in Hades, where you are going.
 
-**9:11** I turned and saw under the sun that the race is not to the swift, and war is not to the mighty, nor bread to the wise man, nor wealth to the discerning, nor favor to those who know; for time and chance will meet all of them.
+**9:11** I turned and saw under the sun that the race is not to the swift, and war is not to the mighty, and also bread is not to the wise man, nor wealth to the discerning, and also favor is not to those who know; for time and chance will meet all of them.
 
 **9:12** For indeed, man also does not know his time: like the fish that are caught in an evil net, and like birds that are caught in a trap, like them the sons of man are trapped at an evil time, when it falls upon them suddenly.
 

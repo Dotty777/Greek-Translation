@@ -1,6 +1,6 @@
 # Sirach 38 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (34 verses, 6 translator notes)  
+> **Status:** `draft: true` (34 verses, 7 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,7 +13,7 @@
 
 **38:4** The Lord created medicines from the earth, and a sensible man will not despise them.
 
-**38:5** Was not water made sweet by wood so that His power might be known?
+**38:5** Was not water made sweet by wood so that its power might be known?
 
 **38:6** And He Himself gave skill to people so that He might be glorified in His marvelous works.
 
@@ -69,12 +69,13 @@
 
 **38:32** Without them a city will not be inhabited, and people will neither sojourn nor walk about.
 
-**38:33** And in the assembly they will not rise to prominence, and they will not understand a covenant of judgment; they will not sit on a judge's seat, nor will they declare righteousness and judgment, and they will not be found among proverbs;
+**38:33** And in the assembly they will not rise to prominence, and they will not understand a covenant of judgment; they will not sit on a judge's seat, nor will they declare righteousness and judgment, and they will not be found among parables;
 
 **38:34** but they will preserve the creation of the age, and their prayer is in the work of a craft. Not so with the one who applies his soul and reflects on the law of the Most High,
 
 ## Translator Notes
 
+- **38:5** — Or 'His power'; Greek autou may refer to the wood or to the Lord (v. 4).
 - **38:7** — The Greek leaves the subject of "heals" unexpressed (implicitly the physician, or possibly the Lord from v. 6), with "his pain" referring to the sufferer's pain. In v. 8, ou me syntelese erga autou may also be taken intransitively as "His works will never come to an end."
 - **38:11** — Literally "as one who does not exist" (hos me hyparchon), perhaps understood as "as if near death" or "sparing nothing"; the extant Hebrew differs, reading "according to your means."
 - **38:19** — A notoriously difficult Greek line: apagoge literally means "carrying off" (calamity or bereavement), and parabainei means "passes by" (other manuscripts read paramenei, "remains"). "Against the heart" (kata kardias) conveys a burden or affliction to the heart.

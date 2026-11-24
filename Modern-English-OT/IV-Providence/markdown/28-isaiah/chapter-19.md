@@ -9,7 +9,7 @@
 
 **19:2** And Egyptians will be stirred up against Egyptians, and a man will fight against his brother and a man against his neighbor, city against city and district against district.
 
-**19:3** And the spirit of the Egyptians will be troubled within them, and I will scatter their counsel; and they will inquire of their gods and their images and those who call out from the ground and the ventriloquists.
+**19:3** And the spirit of the Egyptians will be troubled within them, and I will scatter their counsel; and they will inquire of their gods and their images and those who speak from the ground and the mediums.
 
 **19:4** And I will deliver Egypt into the hands of men, harsh masters, and harsh kings will rule over them. This is what the Lord Sabaoth says.
 

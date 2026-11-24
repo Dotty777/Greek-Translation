@@ -53,7 +53,7 @@
 
 **72:24** in Your counsel You guided me, and with glory You received me.
 
-**72:25** For what do I have in heaven? And besides You, what have I desired upon the earth?
+**72:25** For what do I have in heaven? And from You, what have I desired upon the earth?
 
 **72:26** My heart and my flesh have failed; God of my heart, and my portion is God forever.
 

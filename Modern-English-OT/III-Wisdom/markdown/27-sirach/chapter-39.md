@@ -21,7 +21,7 @@
 
 **39:8** He himself displays the instruction of his teaching, and he will boast in the law of the covenant of the Lord.
 
-**39:9** Many will praise his understanding; it will not be blotted out forever. His memorial will not depart, and his name will live for generations of generations.
+**39:9** Many will praise his understanding; forever it will not be blotted out. His memorial will not depart, and his name will live for generations of generations.
 
 **39:10** Nations will recount his wisdom, and the assembly will proclaim his praise.
 

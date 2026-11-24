@@ -60,5 +60,5 @@
 - **7:3** — Greek renders the symbolic name Shear-jashub ("A remnant will return") half in translation ("who is left") and half in transliteration ("Jashub," Greek Iasoub).
 - **7:4** — Greek ends with "for when the anger of My wrath comes, I will heal again" and begins 7:5 with "the son of Aram," diverging from the MT ("because of the fierce anger of Rezin and Aram").
 - **7:9** — Greek transliterates Samaria here as Somoron (unlike Samareias in 8:4) and renders the closing clause "neither will you by any means understand" (MT: "you will not be established").
-- **7:14** — Greek renders the noun with the definite article as ἡ παρθένος ("the virgin," cf. Matt 1:23) and uses second-person singular "you will call" (MT: "she will call").
+- **7:14** — Greek renders the noun with the definite article as ἡ παρθένος ("the virgin") and uses second-person singular "you will call" (MT: "she will call").
 - **7:25** — Greek turns the MT's warning ("you will not go there for fear of briars and thorns") into a promise that every plowed mountain will be plowed and fear will not come there.

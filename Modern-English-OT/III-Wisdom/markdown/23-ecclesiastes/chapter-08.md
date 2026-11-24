@@ -35,7 +35,7 @@
 
 **8:15** And I praised gladness, because there is no good for man under the sun except to eat and to drink and to be glad; and this will accompany him in his toil for the days of his life, as many as God has given him under the sun.
 
-**8:16** When I gave my heart to know wisdom and to see the busyness that has been done on the earth, for both by day and by night one does not see sleep with his eyes,
+**8:16** When I gave my heart to know wisdom and to see the preoccupation that has been done on the earth, for both by day and by night one does not see sleep with his eyes,
 
 **8:17** then I saw all the works of God, that man will not be able to find the work that has been done under the sun. However much man may toil to seek, he will not find; and even however much a wise man may say he knows, he will not be able to find. For all of this I put to my heart, and with my heart I saw all of this:
 

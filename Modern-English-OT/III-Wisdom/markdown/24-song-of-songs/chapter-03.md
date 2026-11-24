@@ -23,7 +23,7 @@
 
 **3:9** King Solomon made for himself a palanquin from the timbers of Lebanon.
 
-**3:10** He made its pillars of silver, and its backrest golden; its seat is purple, its interior is inlaid with stone, love from the daughters of Jerusalem.
+**3:10** He made its pillars of silver, and its backrest golden; its step is purple, its interior is inlaid with stone, love from the daughters of Jerusalem.
 
 **3:11** Go out and look upon King Solomon, in the crown with which his mother crowned him on the day of his wedding and on the day of the gladness of his heart.
 

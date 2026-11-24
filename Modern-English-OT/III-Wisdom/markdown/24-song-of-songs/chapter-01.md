@@ -17,7 +17,7 @@
 
 **1:6** Do not look at me because I am blackened, because the sun has looked sideways at me. The sons of my mother fought against me; they set me as a guard in vineyards; my own vineyard I did not guard.
 
-**1:7** Tell me, you whom my soul has loved, where you pasture, where you rest at noon, so that I never become like one veiled beside the herds of your comrades.
+**1:7** Tell me, you whom my soul has loved, where you pasture, where you rest at noon, so that I do not become like one veiled beside the herds of your comrades.
 
 **1:8** If you do not know yourself, beautiful one among women, go out yourself on the heels of the flocks, and pasture your young goats beside the tents of the shepherds.
 
@@ -35,7 +35,7 @@
 
 **1:15** Look, you are beautiful, my companion; look, you are beautiful; your eyes are doves.
 
-**1:16** Look, you are handsome, my kinsman, and indeed lovely; moreover, our couch is shaded;
+**1:16** Look, you are handsome, my kinsman, and indeed lovely; by our couch, shady;
 
 **1:17** the beams of our houses are cedars, our paneled ceilings are cypresses.
 

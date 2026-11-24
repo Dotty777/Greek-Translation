@@ -47,7 +47,7 @@
 
 **47:21** that sovereignty became split in two, and a disobedient kingdom ruled out of Ephraim.
 
-**47:22** But the Lord will never forsake His mercy, and nothing of His works will ever perish; nor will He ever blot out the descendants of His chosen one, and the seed of the one who loved Him He will never remove. And to Jacob He gave a remnant, and to David a root from himself.
+**47:22** But the Lord will never forsake His mercy, and nothing of His works will ever perish; nor will He ever blot out the descendants of His chosen one, and the seed of the one who loved Him He will never remove. And to Jacob He gave a remnant, and to David a root from him.
 
 **47:23** And Solomon rested with the fathers, and he left behind after him from his seed the folly of the people and one lacking in understanding, Rehoboam, who drove the people away by his counsel, and Jeroboam son of Nebat, who caused Israel to sin and gave to Ephraim a way of sin.
 

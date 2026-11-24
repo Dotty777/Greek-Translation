@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **5:7** — Greek reads eneplēsthēmen ("we were filled / had our fill"); some translators emend the text to eneplakēmen ("we were entangled").
+- **5:7** — Greek reads eneplēsthēmen ("we were filled / had our fill"); a conjectural emendation reads eneplakēmen ("we were entangled").
 - **5:14** — Greek reads pachnē ("frost"), matching the major uncial witnesses; other manuscripts or conjectures read achnē ("spray" or "chaff") or arachnē ("spiderweb").
 - **5:16** — Greek basileion can mean either "royal crown" (parallel here with "diadem") or "kingdom."
 - **5:23** — The Greek critical text reads nominative pasa ... anomia ("all lawlessness") as the subject rather than accusative pasan tēn gēn ("the whole earth") found in some other witnesses.

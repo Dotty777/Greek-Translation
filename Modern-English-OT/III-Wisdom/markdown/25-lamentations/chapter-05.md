@@ -19,7 +19,7 @@
 
 **5:7** Our fathers sinned, they are no more; we have borne their lawless deeds.
 
-**5:8** Slaves have ruled over us; there is no redeemer from their hand.
+**5:8** Servants have ruled over us; there is no redeemer from their hand.
 
 **5:9** With our lives we will bring in our bread because of the sword of the wilderness.
 

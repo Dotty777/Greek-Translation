@@ -9,7 +9,7 @@
 
 **1:2** For He is found by those who do not test Him, and He manifests Himself to those who do not distrust Him.
 
-**1:3** For crooked reasonings separate one from God, and His power, when tested, convicts the foolish.
+**1:3** For crooked reasonings separate one from God, and the power, when tested, convicts the foolish.
 
 **1:4** For wisdom will not enter into a soul that devises evil, nor will it dwell in a body indebted to sin.
 

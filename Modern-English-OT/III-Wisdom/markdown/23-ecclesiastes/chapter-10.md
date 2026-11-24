@@ -17,7 +17,7 @@
 
 **10:6** The fool was set in great heights, and the rich will sit in a low place.
 
-**10:7** I saw slaves on horses, and princes walking like slaves on the ground.
+**10:7** I saw servants on horses, and princes walking like servants on the ground.
 
 **10:8** The one who digs a pit will fall into it, and a snake will bite one who tears down a fence.
 

@@ -17,7 +17,7 @@
 
 **5:6** For in an abundance of dreams and futilities and many words—rather, as for you, fear God.
 
-**5:7** If you see oppression of a poor person and robbery of justice and righteousness in a province, do not be amazed at the matter; a high one is over a high one to watch, and high ones are over them;
+**5:7** If you see oppression of a poor person and robbery of justice and righteousness in a region, do not be amazed at the matter; a high one is over a high one to watch, and high ones are over them;
 
 **5:8** and the advantage of the land; over all is a king of the cultivated field.
 

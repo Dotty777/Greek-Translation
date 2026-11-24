@@ -23,7 +23,7 @@
 
 **49:9** for he also remembered the enemies in a rainstorm, and to do good to those who direct their ways straight.
 
-**49:10** And may the bones of the twelve prophets sprout again from their place. Now He comforted Jacob and redeemed them in faithfulness of hope.
+**49:10** And may the bones of the twelve prophets flourish again from their place. Now He comforted Jacob and redeemed them in faithfulness of hope.
 
 **49:11** How are we to magnify Zerubbabel? And he himself is like a signet ring on a right hand;
 

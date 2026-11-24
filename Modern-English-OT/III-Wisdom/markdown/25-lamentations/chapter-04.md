@@ -15,7 +15,7 @@
 
 **4:5** He. Those who ate the foods were devastated in the streets; those who were reared upon scarlet clothed themselves in dunghills.
 
-**4:6** Vav. And the iniquity of the daughter of my people became greater than the iniquities of Sodom, which was overthrown as in haste, and they did not weary their hands in her.
+**4:6** Waw. And the iniquity of the daughter of my people became greater than the iniquities of Sodom, which was overthrown as in haste, and they did not weary their hands in her.
 
 **4:7** Zayin. Her Nazirites were purer than snow, they shone more than milk, they were more fiery than stones, their fragment was of sapphire.
 
@@ -43,16 +43,16 @@
 
 **4:19** Qoph. Our time has drawn near, our days have been fulfilled, our time is here. Those who pursue us became swifter than eagles of the sky; upon the mountains they flew forth, in a wilderness they lay in wait for us.
 
-**4:20** Resh. The breath of our face, the anointed Lord, was captured in their destructions, of whom we said, "In His shadow we will live among the nations."
+**4:20** Resh. The breath of our face, the anointed Lord, was captured in their destructions, of whom we said, "In his shadow we will live among the nations."
 
 **4:21** Shin. Rejoice and be glad, daughter of Idumea, who dwells upon the earth; even to you the cup of the Lord will pass; you will become drunk and pour out.
 
-**4:22** Tav. Your iniquity has come to an end, daughter of Zion; He will no longer carry you into exile. He has visited your iniquities, daughter of Edom; He has uncovered your ungodly deeds.
+**4:22** Taw. Your iniquity has come to an end, daughter of Zion; He will no longer carry you into exile. He has visited your iniquities, daughter of Edom; He has uncovered your ungodly deeds.
 
 ## Translator Notes
 
 - **4:1** — Each verse of chapter 4 opens in the Greek text with a transliterated Hebrew acrostic letter name, rendered here using standard English spellings. The Greek reads "the good silver" (to argyrion to agathon) with future passive verbs, whereas the Hebrew Masoretic Text reads "fine gold."
 - **4:3** — The Greek places "their cubs" in the nominative and "the daughters of my people" in the accusative as the object of "nursed," differing from the Hebrew clause division. Greek strouthion literally means "sparrow," though it renders a Hebrew word for ostriches.
 - **4:18** — The Greek verse division places "We watched for a nation that does not save" at the start of 4:18 rather than in 4:17 (similarly shifting the opening of 4:19), and reads first-person "we hunted our little ones" where the Hebrew reads "they hunted our steps."
-- **4:20** — The Greek reads nominative christos Kyrios ("the anointed Lord") rather than the Hebrew genitive "the LORD's anointed," a reading widely interpreted Christologically by early Christian writers.
+- **4:20** — The Greek reads nominative christos Kyrios ("the anointed Lord") rather than the Hebrew genitive "the Lord's anointed."
 - **4:21** — The Greek uses the Hellenized name Idumea (Idoumaia) here while using Edom in 4:22, and reads "upon the earth" without naming Uz as in the Hebrew.

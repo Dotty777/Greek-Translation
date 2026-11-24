@@ -59,5 +59,5 @@
 
 - **13:2** — Greek repeats the feminine demonstrative pronoun (haute ... haute), both referring to the fragile clay pot (chytra) rather than the masculine cauldron (lebes).
 - **13:4** — Greek ergatai en soi (lit. 'will work in/with you') reflects a Hebrew idiom meaning to put someone to work or exploit their labor.
-- **13:8** — The Greek text reads 'in your gladness' (en euphrosyne sou), whereas the Hebrew text reads 'in your folly.'
-- **13:24** — The Greek text reads plural 'mouths' (stomasin) and 'a godly person' (eusebous), whereas the Hebrew and some witnesses read 'an ungodly person' (asebous).
+- **13:8** — The Greek text reads 'in your gladness' (en euphrosyne sou); some editions read 'in your folly' (en aphrosyne sou).
+- **13:24** — The Greek text reads plural 'mouths' (stomasin) and 'a godly person' (eusebous), whereas other Greek witnesses read 'an ungodly person' (asebous).

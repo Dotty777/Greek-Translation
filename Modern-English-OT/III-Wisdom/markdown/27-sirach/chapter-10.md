@@ -41,7 +41,7 @@
 
 **10:18** Arrogance was not created for human beings, nor furious anger for those born of women.
 
-**10:19** What kind of offspring is honorable? Human offspring. What kind of offspring is honorable? Those who fear the Lord. What kind of offspring is dishonorable? Human offspring. What kind of offspring is dishonorable? Those who transgress commandments.
+**10:19** What kind of seed is honorable? Human seed. What kind of seed is honorable? Those who fear the Lord. What kind of seed is dishonorable? Human seed. What kind of seed is dishonorable? Those who transgress commandments.
 
 **10:20** In the midst of brothers, their leader is honorable, and those who fear the Lord are honorable in His eyes.
 
@@ -51,9 +51,9 @@
 
 **10:24** A nobleman and a judge and a ruler will be glorified, and not one of them is greater than the one who fears the Lord.
 
-**10:25** Free people will serve a wise slave, and a man of knowledge will not grumble.
+**10:25** Free people will serve a wise household servant, and a man of knowledge will not grumble.
 
-**10:26** Do not pretend to be wise in doing your work, and do not glorify yourself in the time of your distress.
+**10:26** Do not show yourself wise in doing your work, and do not glorify yourself in the time of your distress.
 
 **10:27** Better is one who works in all things than one who walks about, or one who glorifies himself and lacks bread.
 
@@ -69,6 +69,6 @@
 
 - **10:7** — The Greek text given here reads plemmelesi adika ("it will commit unjust things"), a difficult variant alongside plemmeles he adikia ("injustice is offensive") found in some other editions.
 - **10:9** — The Greek literally uses the first-person singular erripsa ("I cast out"), either portraying God as speaker or reflecting a difficult Greek rendering of the Hebrew thought that a person's inward parts decay even in life.
-- **10:10** — The terse Greek clause makron arrostema, skoptei iatros literally reads "a long illness, a physician mocks" (or "scoffs at"), differing from the Hebrew manuscript tradition, which speaks of a slight illness baffling the physician.
+- **10:10** — The terse Greek clause makron arrostema, skoptei iatros literally reads "a long illness, a physician mocks" (or "scoffs at").
 - **10:20** — Verse 10:21 is absent from the main Greek text (appearing only in the expanded Greek tradition), so the verse numbering proceeds directly from 10:20 to 10:22.
 - **10:27** — This Greek text reads "works in all things" and "or one who glorifies himself," whereas some other witnesses add "and abounds" before "in all things" and read "and" before "glorifies himself."

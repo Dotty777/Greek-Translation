@@ -43,7 +43,7 @@
 - [Chapter 35](chapter-35.md) — 19 verses, 4 notes
 - [Chapter 36](chapter-36.md) — 25 verses, 5 notes
 - [Chapter 37](chapter-37.md) — 31 verses, 5 notes
-- [Chapter 38](chapter-38.md) — 34 verses, 6 notes
+- [Chapter 38](chapter-38.md) — 34 verses, 7 notes
 - [Chapter 39](chapter-39.md) — 35 verses, 5 notes
 - [Chapter 40](chapter-40.md) — 30 verses, 6 notes
 - [Chapter 41](chapter-41.md) — 23 verses, 4 notes, +1 additional

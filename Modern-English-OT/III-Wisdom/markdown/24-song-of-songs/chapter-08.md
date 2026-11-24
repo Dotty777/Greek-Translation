@@ -11,9 +11,9 @@
 
 **8:3** His left hand is under my head, and his right hand will embrace me.
 
-**8:4** I have put you under oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you do not rouse or awaken love until it wishes.
+**8:4** I have put you under oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you do not rouse and awaken love until it wishes.
 
-**8:5** Who is this coming up made white, leaning on her beloved? Under an apple tree I awakened you; there your mother was in labor with you; there she who bore you was in labor with you.
+**8:5** Who is this coming up made white, leaning on her kinsman? Under an apple tree I awakened you; there your mother was in labor with you; there she who bore you was in labor with you.
 
 **8:6** Place me like a seal upon your heart, like a seal upon your arm; for love is mighty like death, jealousy is harsh like Hades; its wings are wings of fire, its flames.
 
@@ -31,7 +31,7 @@
 
 **8:13** You who sit in the gardens, companions are paying attention to your voice; let me hear it.
 
-**8:14** Flee, my kinsman, and be like a gazelle or a fawn of the deer upon the mountains of spices.
+**8:14** Flee, my kinsman, and be like a gazelle or a fawn of the stags upon the mountains of spices.
 
 ## Translator Notes
 

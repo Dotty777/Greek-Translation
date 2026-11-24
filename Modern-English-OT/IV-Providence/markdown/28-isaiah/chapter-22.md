@@ -61,4 +61,4 @@
 - **22:6** — Greek renders the final clause as 'and a gathering of battle-array' (synagoge parataxeos), whereas the Hebrew MT reads 'and Kir uncovered the shield.'
 - **22:12** — Greek preserves the double divine title kyrios Kyrios sabaoth ('the Lord, the Lord Sabaoth'), corresponding to Hebrew Adonay YHWH sebaot.
 - **22:15** — The Greek spells the treasurer's name Somnas (accusative Σόμναν, corresponding to Σόβνας in 36:3 and Hebrew Shebna, modernized consistently to Shebna) and adds 'into the chamber' (eis to pastophorion).
-- **22:22** — Greek reads 'the glory of David' (ten doxan Dauid) where the Hebrew MT has 'the key of the house of David,' and reads 'no one opposing' instead of 'none will open.'
+- **22:22** — Greek reads 'the glory of David' (ten doxan Dauid) where the Hebrew MT has 'the key of the house of David,' and reads 'he will rule, and there will be no one who opposes' where the MT has 'he will open, and none will shut.'

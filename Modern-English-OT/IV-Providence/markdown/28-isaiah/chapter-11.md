@@ -39,8 +39,8 @@
 
 ## Translator Notes
 
-- **11:2** — Whereas the Hebrew repeats 'fear of the LORD' in both v. 2 and v. 3, the Septuagint renders the first occurrence as 'godliness' (εὐσεβείας) and the second as 'fear of God,' yielding seven distinct spiritual attributes.
+- **11:2** — Whereas the Hebrew repeats 'fear of the Lord' in both v. 2 and v. 3, the Septuagint renders the first occurrence as 'godliness' (εὐσεβείας) and the second as 'fear of God,' yielding seven distinct spiritual attributes.
 - **11:3** — Greek δόξα here carries its classical sense of 'appearance' or 'opinion' (rendering Hebrew 'what His eyes see'), and 'will fill Him' translates ἐμπλήσει αὐτόν where the Hebrew has 'His delight.'
-- **11:10** — The Septuagint reads 'who rises up to rule nations' and 'in Him nations will hope' (quoted in Rom 15:12), where the Hebrew has 'stands as a signal for the peoples' and 'the nations will seek Him.'
+- **11:10** — The Septuagint reads 'who rises up to rule nations' and 'in Him nations will hope,' where the Hebrew has 'stands as a signal for the peoples' and 'the nations will seek Him.'
 - **11:14** — 'Foreigners' translates Greek ἀλλοφύλων (the usual Septuagint term for the Philistines), and 'Idumea' is the Greek form of Edom; the Septuagint also reads 'in ships' and 'will plunder the sea' where the Hebrew has 'on the slope of the Philistines toward the west.'
 - **11:16** — The Septuagint reads 'in Egypt' where the Hebrew has 'from Assyria,' just as v. 11 differs in its list by including 'Babylonia,' 'from the rising of the sun,' and 'Arabia.'

@@ -11,7 +11,7 @@
 
 **64:3** Hear my prayer; to You all flesh will come.
 
-**64:4** Words of the lawless overpowered us, and You will atone for our impieties.
+**64:4** Words of the lawless overpowered us, and You will pardon our impieties.
 
 **64:5** Blessed is the one whom You have chosen and taken to Yourself; he will dwell in Your courts. We will be filled with the good things of Your house; holy is Your temple,
 

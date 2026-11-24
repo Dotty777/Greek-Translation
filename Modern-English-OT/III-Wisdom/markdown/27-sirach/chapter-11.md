@@ -13,7 +13,7 @@
 
 **11:4** Do not boast in the wearing of garments, and in a day of glory do not exalt yourself; for the works of the Lord are wonderful, and His works are hidden among people.
 
-**11:5** Many monarchs have sat on the ground, and the unsuspected one has worn a diadem.
+**11:5** Many monarchs have sat on the ground, but the unsuspected one has worn a diadem.
 
 **11:6** Many mighty men have been greatly dishonored, and renowned men have been delivered into the hands of companions.
 

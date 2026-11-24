@@ -27,17 +27,17 @@
 
 **14:11** Child, according to what you have, do good to yourself, and bring offerings to the Lord worthily.
 
-**14:12** Remember that death will not delay, and the decree of Hades has not been shown to you.
+**14:12** Remember that death will not delay, and the covenant of Hades has not been shown to you.
 
 **14:13** Before you die, do good to a friend, and according to your strength reach out and give to him.
 
-**14:14** Do not miss out on a good day, and may a portion of a good desire not pass you by.
+**14:14** Do not miss out on a good day, and do not let a portion of a good desire pass you by.
 
 **14:15** Will you not leave your labors to another, and your toils for division by lot?
 
 **14:16** Give and receive, and indulge your soul, because it is not possible in Hades to seek luxury.
 
-**14:17** All flesh grows old like a garment; for the decree from of old is, "You will surely die."
+**14:17** All flesh grows old like a garment; for the covenant from of old is, "You will surely die."
 
 **14:18** Like a flourishing leaf on a thick tree, some it sheds, and others it sprouts; so is a generation of flesh and blood: one dies, and another is born.
 

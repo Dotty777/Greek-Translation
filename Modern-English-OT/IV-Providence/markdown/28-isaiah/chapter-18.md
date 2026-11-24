@@ -17,7 +17,7 @@
 
 **18:6** and He will leave them together to the birds of the sky and the wild beasts of the earth; and the birds of the sky will be gathered together upon them, and all the wild beasts of the earth will come upon him."
 
-**18:7** At that time gifts will be brought up to the Lord Sabaoth from an afflicted and plucked people, and from a great people from now and for eternal time, a nation that hopes and is trampled, which is in a part of a river of its country, to the place where the name of the Lord Sabaoth is, Mount Zion.
+**18:7** At that time gifts will be brought up to the Lord Sabaoth from an afflicted and plucked people, and from a great people from now on and forever, a nation that hopes and is trampled, which is in a part of a river of its country, to the place where the name of the Lord Sabaoth is, Mount Zion.
 
 ## Translator Notes
 

@@ -44,4 +44,4 @@
 ## Translator Notes
 
 - **12:8** — The Greek text reads ekdikethesetai ("will be vindicated"), the reading of the major uncial manuscripts; some modern editors conjecture ekgnosthesetai ("will be known") to align with the Hebrew.
-- **12:11** — The Greek clause "it has not corroded to the end" (ouk eis telos katiosen) implies that wiping a bronze mirror never removes its tendency to corrode permanently; the enemy's malice is never finished for good.
+- **12:11** — Greek ouk eis telos katiosen means "it has not rusted completely" (or "for good"), continuing the image of corroding bronze from v. 10.

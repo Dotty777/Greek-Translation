@@ -27,7 +27,7 @@
 
 **16:11** Therefore my belly will resound like a harp over Moab, and my inward parts you renewed like a wall.
 
-**16:12** And it will result in your being ashamed, because Moab grew weary at the altars and will enter into its handmade shrines to pray, and they will by no means be able to rescue it.
+**16:12** And it will result in your being ashamed, because Moab grew weary at the altars and will enter into its handmade things to pray, and they will by no means be able to rescue it.
 
 **16:13** This is the word that the Lord spoke concerning Moab, when He spoke.
 

@@ -7,7 +7,7 @@
 
 **14:1** And the Lord will have mercy on Jacob, and will still choose Israel, and they will rest upon their land; and the proselyte will be joined to them, and will be joined to the house of Jacob,
 
-**14:2** and nations will take them and bring them into their place, and they will receive an inheritance, and they will be multiplied upon the land as male slaves and female slaves; and those who took them captive will be captives, and those who ruled over them will be ruled over.
+**14:2** and nations will take them and bring them into their place, and they will receive an inheritance, and they will be multiplied upon the land as male servants and female servants; and those who took them captive will be captives, and those who ruled over them will be ruled over.
 
 **14:3** And it will be in that day that the Lord will give you rest from your pain and your fury, your hard slavery with which you served them.
 
@@ -61,7 +61,7 @@
 
 **14:28** In the year in which King Ahaz died, this word came.
 
-**14:29** Do not be glad, all you foreigners, for the yoke of the one beating you has been shattered; for from the seed of a serpent will come forth offspring of asps, and their offspring will come forth as flying serpents.
+**14:29** May you not be glad, all you foreigners, for the yoke of the one beating you has been shattered; for from the seed of a serpent will come forth offspring of asps, and their offspring will come forth as flying serpents.
 
 **14:30** And the poor will be pastured through him, and poor people will rest in peace; but he will kill your seed with famine, and your remnant he will kill.
 

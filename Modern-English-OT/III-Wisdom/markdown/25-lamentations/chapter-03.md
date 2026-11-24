@@ -19,7 +19,7 @@
 
 **3:7** He built up against me, and I will not go out; He made my bronze heavy.
 
-**3:8** Gimel. Even though I will cry out and shout, He has blocked off my prayer.
+**3:8** Gimel. And indeed I will cry out and shout; He has blocked off my prayer.
 
 **3:9** Daleth. He walled up my ways; He blocked up my paths; He disrupted them.
 
@@ -27,7 +27,7 @@
 
 **3:11** He pursued one who had departed and stopped me; He made me desolate.
 
-**3:12** Heh. He bent His bow and set me up like a target for an arrow.
+**3:12** He. He bent His bow and set me up like a target for an arrow.
 
 **3:13** He brought the arrows of His quiver into my kidneys.
 

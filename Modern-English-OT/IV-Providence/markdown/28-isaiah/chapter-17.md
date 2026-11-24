@@ -9,7 +9,7 @@
 
 **17:2** abandoned forever, for a resting place of flocks and for rest, and there will be no one pursuing;
 
-**17:3** and there will no longer be a stronghold for Ephraim to take refuge, and no longer a kingdom in Damascus nor the remainder of the Syrians; for you are no better than the sons of Israel and their glory. Thus says the Lord of Sabaoth:
+**17:3** and there will no longer be a stronghold for Ephraim to take refuge, and no longer a kingdom in Damascus nor the remainder of the Syrians; for you are no better than the sons of Israel and their glory. Thus says the Lord Sabaoth:
 
 **17:4** "In that day there will be a failing of the glory of Jacob, and the rich parts of his glory will be shaken.
 

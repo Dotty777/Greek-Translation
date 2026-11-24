@@ -33,7 +33,7 @@
 
 **2:14** you, my dove, in the shelter of the rock, next to the outer wall, show me your appearance, and let me hear your voice, for your voice is sweet, and your appearance is lovely."
 
-**2:15** Catch for us little foxes that ruin vineyards, and our vineyards are in blossom.
+**2:15** Catch for us little foxes that ruin vineyards, and our vines are in blossom.
 
 **2:16** My kinsman is mine, and I am his, the one who pastures among the lilies,
 

@@ -21,7 +21,7 @@
 
 **63:8** and God will be exalted. Their blows became an arrow of infants,
 
-**63:9** and their tongues brought him to nothing. All who looked at them were troubled,
+**63:9** and their tongues despised him. All who looked at them were troubled,
 
 **63:10** and every person feared; and they declared the works of God, and understood His deeds.
 
@@ -29,8 +29,8 @@
 
 ## Translator Notes
 
-- **63:1** — Greek "For the end" (εἰς τὸ τέλος) is the standard Septuagint rendering of the Hebrew musical heading usually translated "For the choir director."
+- **63:1** — Greek "For the end" (εἰς τὸ τέλος) is the standard Septuagint rendering of the Hebrew heading lamnatseach ("to the leader").
 - **63:3** — Greek has the past indicative "You have sheltered me" (ἐσκέπασας), whereas the Hebrew MT has the imperative "Hide me."
 - **63:7** — Greek "searching out with a search" renders a Hebrew cognate expression for diligent searching, and "a person will draw near" (προσελεύσεται) reads the Hebrew noun for "inward part" as the verb "draw near."
 - **63:8** — Greek "God will be exalted" (ὑψωθήσεται) and "an arrow of infants" (βέλος νηπίων) diverge from the Hebrew MT, where God shoots an arrow at them suddenly.
-- **63:9** — Greek "brought him to nothing" (ἐξουθένησαν αὐτόν) retains a singular pronoun matching the Hebrew collective singular, referring either to each enemy or to their target.
+- **63:9** — Greek "despised him" (ἐξουθένησαν αὐτόν) retains a singular pronoun matching the Hebrew collective singular, referring either to each enemy or to their target.

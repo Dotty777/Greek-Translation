@@ -11,7 +11,7 @@
 
 **1:3** An ox knows its owner, and a donkey its master's feeding trough; but Israel does not know Me, and the people do not understand Me."
 
-**1:4** Woe, sinful nation, people full of sins, evil offspring, lawless sons! You have abandoned the Lord and provoked the Holy One of Israel to anger.
+**1:4** Woe, sinful nation, people full of sins, evil seed, lawless sons! You have abandoned the Lord and provoked the Holy One of Israel to anger.
 
 **1:5** Why should you still be struck while adding lawlessness? Every head is in pain, and every heart is in grief.
 
@@ -21,7 +21,7 @@
 
 **1:8** The daughter of Zion will be abandoned like a tent in a vineyard, and like a watchman's hut in a cucumber field, like a besieged city.
 
-**1:9** And if the Lord Sabaoth had not left us offspring, we would have become like Sodom, and we would have been made like Gomorrah.
+**1:9** And if the Lord Sabaoth had not left us seed, we would have become like Sodom, and we would have been made like Gomorrah.
 
 **1:10** Hear the word of the Lord, rulers of Sodom; pay attention to the law of God, people of Gomorrah.
 
@@ -51,7 +51,7 @@
 
 **1:23** Your rulers are disobedient, companions of thieves, loving gifts, pursuing repayment, not rendering justice for orphans, and not paying attention to the case of widows.
 
-**1:24** Therefore thus says the Lord, the Sovereign Sabaoth: "Woe to the mighty ones of Israel! For My wrath will not cease against the adversaries, and I will execute judgment on My enemies.
+**1:24** Therefore thus says the Lord, the Master Sabaoth: "Woe to the mighty ones of Israel! For My wrath will not cease against the adversaries, and I will execute judgment on My enemies.
 
 **1:25** And I will bring My hand upon you and refine you to purity; the disobedient I will destroy, and I will remove all lawless ones from you;
 
@@ -71,6 +71,6 @@
 
 - **1:1** — The Septuagint reads Judea (corresponding to Judah in the Hebrew text), repeats the clause "which he saw," and uses the preposition "against" (kata) rather than "concerning."
 - **1:6** — Unlike the Hebrew text ("there is no soundness in it; wounds and bruises..."), the Greek negates all three injury terms ("neither wound nor bruise nor festering blow"), emphasizing either the lack of ordinary treatable injuries or total devastation beneath the surface.
-- **1:9** — "Sabaoth" preserves the Septuagint transliteration of the Hebrew title meaning "hosts" or "armies," and "offspring" renders Greek sperma (literally "seed"), where the Hebrew text reads "survivor."
+- **1:9** — "Sabaoth" preserves the Septuagint transliteration of the Hebrew title meaning "hosts" or "armies," and "seed" renders Greek sperma, where the Hebrew text reads "survivor."
 - **1:18** — "I will make them white" renders the Septuagint first-person singular active verb (leukano) in both clauses, whereas the Hebrew text uses third-person plural ("they will be white" / "will be like wool").
 - **1:27** — "Her captivity will be saved, and with mercy" follows the Septuagint (he aichmalosia autes and eleemosynes), differing from the Hebrew text ("Zion will be redeemed with justice, and her repentant ones with righteousness").

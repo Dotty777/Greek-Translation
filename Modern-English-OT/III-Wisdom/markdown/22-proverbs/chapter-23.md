@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **23:5** — The Greek reads οὐδαμοῦ πεσεῖται ("it will fall nowhere," where some manuscripts read φανεῖται, "will appear") and refers to τοῦ προεστηκότος αὐτοῦ ("the one set over him"), which may denote a patron or master, or metaphorically God.
+- **23:5** — The Greek reads οὐδαμοῦ πεσεῖται ("it will fall nowhere," where some manuscripts read φανεῖται, "will appear") and refers to τοῦ προεστηκότος αὐτοῦ ("the one set over him"), which may denote a patron or master.
 - **23:22** — Verse 23:23 of the Hebrew text is not present in the Greek Septuagint tradition, so numbering proceeds directly from 23:22 to 23:24.
 - **23:27** — The Greek uses the classical image of a "perforated jar" (πίθος τετρημένος) and speaks of a "foreign house" (ἀλλότριος οἶκος) and "narrow foreign well" (φρέαρ στενὸν ἀλλότριον), differing markedly from the Hebrew.
 - **23:31** — The expression "more naked than a pestle" (γυμνότερος ὑπέρου) is an ancient Greek proverb describing total destitution.

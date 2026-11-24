@@ -53,7 +53,7 @@
 
 **5:24** Therefore just as stubble will be burned by a coal of fire, and will be burned up by an unleashed flame, their root will be like chaff, and their blossom will go up like dust; for they did not desire the law of the Lord Sabaoth, but provoked the oracle of the Holy One of Israel.
 
-**5:25** And the Lord Sabaoth became furious with anger against His people, and He laid His hand upon them and struck them; and the mountains were provoked, and their corpses became like dung in the middle of a road. And in all these things His fury has not turned away, but His hand is still high.
+**5:25** And the Lord Sabaoth became furious with anger against His people, and He laid His hand upon them and struck them; and the mountains were provoked, and their corpses became like dung in the middle of a road. And in all these things His fury has not turned away, but His hand is still uplifted.
 
 **5:26** Therefore He will lift up a signal among the nations far away and will whistle to them from the end of the earth, and look, swiftly, lightly they come.
 

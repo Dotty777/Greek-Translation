@@ -15,7 +15,7 @@
 
 **41:5** The children of sinners become abominable children, and those who frequent the dwellings of the ungodly;
 
-**41:6** the inheritance of the children of sinners will perish, and with their offspring reproach will remain continually.
+**41:6** the inheritance of the children of sinners will perish, and with their seed reproach will remain continually.
 
 **41:7** Children will blame an ungodly father, because on account of him they will be reproached.
 

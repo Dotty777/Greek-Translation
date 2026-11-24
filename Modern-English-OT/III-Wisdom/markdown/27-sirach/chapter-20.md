@@ -53,7 +53,7 @@
 
 **20:24** A lie is an evil blemish in a person; it will be continually in the mouth of the undisciplined.
 
-**20:25** A thief is preferable to one who continually persists in lying, yet both will inherit destruction.
+**20:25** A thief is preferable to one who persists in lying, yet both will inherit destruction.
 
 **20:26** The character of a lying person is dishonor, and his shame is with him continually.
 

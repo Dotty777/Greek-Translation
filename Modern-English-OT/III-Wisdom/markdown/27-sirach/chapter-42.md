@@ -7,7 +7,7 @@
 
 **42:1** Do not be ashamed about these things, and do not show partiality so as to sin:
 
-**42:2** about the law of the Most High and the covenant, and about judgment to acquit the ungodly,
+**42:2** about the law of the Most High and the covenant, and about judgment to justify the ungodly,
 
 **42:3** about an accounting with a partner and travelers, about the giving of an inheritance of companions,
 
@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **42:2** — Greek dikaiosai ton asebe literally means 'to acquit the ungodly'; in context it either connects back to 'do not show partiality so as to sin' (42:1) or refers to judging impartially even when the verdict favors an ungodly person in a particular dispute.
+- **42:2** — Greek dikaiosai ton asebe ('to justify the ungodly') is legal language for declaring someone in the right; in context it either connects back to 'do not show partiality so as to sin' (42:1) or refers to judging impartially even when the verdict favors an ungodly person in a particular dispute.
 - **42:5** — Greek adiaphorou (lit. 'indifferent' or 'an indifferent thing') is used in Sirach (cf. 7:18) for impartial dealing or monetary price/gain in trade, closely related to diaphoron ('price, profit').
 - **42:18** — The Greek text reads the first-person dienoethen ('I have reflected on'), a well-attested early manuscript reading alongside the third-person dienoethe ('He reflected on/understood') in other witnesses.
 - **42:21** — The Greek text reads kai heos estin ('and as long as He exists'), a manuscript reading corresponding to hos estin ('as He is') in other Greek witnesses.

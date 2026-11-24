@@ -17,7 +17,7 @@
 
 **7:6** Like the sound of thorns under the pot, so is the laughter of fools. Indeed, this also is futility.
 
-**7:7** For extortion drives a wise man mad and destroys the heart of his nobility.
+**7:7** For oppression drives a wise man mad and destroys the heart of his nobility.
 
 **7:8** The end of words is better than their beginning; one who is patient is better than one who is lofty in spirit.
 
@@ -47,7 +47,7 @@
 
 **7:21** Also, do not set your heart on all the words that the ungodly will speak, so that you may not hear your servant cursing you;
 
-**7:22** for very often he will treat you wickedly and in many ways he will afflict your heart, because in the same way you also cursed others.
+**7:22** for very often he will treat you wickedly and many times he will afflict your heart, because in the same way you also cursed others.
 
 **7:23** All these things I tested in wisdom. I said, "I will become wise," yet it was far removed from me.
 

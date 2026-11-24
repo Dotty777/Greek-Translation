@@ -11,7 +11,7 @@
 
 **7:3** Son, do not sow upon furrows of injustice, and you will never reap them sevenfold.
 
-**7:4** Do not seek authority from the Lord, nor a seat of honor from a king.
+**7:4** Do not seek leadership from the Lord, nor a seat of honor from a king.
 
 **7:5** Do not justify yourself before the Lord, and do not show yourself wise in the presence of a king.
 
@@ -39,7 +39,7 @@
 
 **7:17** Humble your soul greatly. Remember that wrath will not delay, for the punishment of an ungodly person is fire and worm.
 
-**7:18** Do not exchange a friend for money, nor a true brother for the gold of Souphir.
+**7:18** Do not exchange a friend for a matter of indifference, nor a true brother for the gold of Souphir.
 
 **7:19** Do not forfeit a wise and good wife, for her grace is above gold.
 
@@ -81,6 +81,6 @@
 
 - **7:12** — Greek literally reads "plow a lie," reflecting a Hebrew verb (charash) that can mean both "to plow" and "to devise" or "plot."
 - **7:17** — In this Greek text, "Remember that wrath will not delay" appears within v. 17 rather than at the end of v. 16 as in some editions; "fire and worm" preserves the Greek singular, echoing Isaiah 66:24.
-- **7:18** — "Money" renders Greek adiaphorou (literally "an indifferent thing"), an idiom used in Sirach for financial gain or price; "Souphir" is the Septuagint name corresponding to Hebrew Ophir, renowned for fine gold.
+- **7:18** — "A matter of indifference" renders adiaphorou (literally "an indifferent thing"); other witnesses read diaphorou ("money"). "Souphir" is the Septuagint name corresponding to Hebrew Ophir, renowned for fine gold.
 - **7:31** — This Greek text reads ap' arches ("from the beginning"), where some manuscripts read aparchen ("firstfruits") in this position; "the offering for guilt" renders the Septuagint Levitical phrase peri plemmelias.
 - **7:33** — The first clause is verbless in Greek (literally "grace of a gift before every living person"); "grace" (charis) here encompasses gracious kindness, including proper care and burial rites for the dead.

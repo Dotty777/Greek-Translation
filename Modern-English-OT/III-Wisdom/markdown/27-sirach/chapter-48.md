@@ -58,5 +58,5 @@
 ## Translator Notes
 
 - **48:11** — This Greek text reads 'adorned' (κεκοσμημένοι), whereas some witnesses read 'fallen asleep' (κεκοιμημένοι). 'Will surely live' renders a Hebraic emphatic idiom literally meaning 'will live with life.'
-- **48:17** — The Greek text reads the proper name 'Gog' (τὸν Γώγ), widely understood as an ancient scribal corruption for the spring 'Gihon' (cf. 2 Chr 32:30), whose waters Hezekiah channeled into Jerusalem.
+- **48:17** — The Greek text reads the proper name 'Gog' (τὸν Γώγ), whereas the Hebrew Ben Sira manuscript speaks of bringing water into the city (cf. 2 Chr 32:30); the name probably arose from an early textual corruption.
 - **48:18** — The Greek text places 'his hand' in the nominative case as subject ('his hand rose up'), whereas some manuscripts read the accusative ('he lifted up his hand').

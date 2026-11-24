@@ -27,7 +27,7 @@
 
 **23:11** A man of many oaths will be filled with lawlessness, and a whip will not depart from his house. If he offends, his sin is upon him, and if he disregards it, he has sinned doubly; and if he has sworn in vain, he will not be justified, for his house will be filled with calamities.
 
-**23:12** There is speech matched with death; may it not be found in the inheritance of Jacob. For all these things will depart from the godly, and they will not wallow in sins.
+**23:12** There is speech matched with death; let it not be found in the inheritance of Jacob. For all these things will depart from the godly, and they will not wallow in sins.
 
 **23:13** Do not accustom your mouth to foul crudeness, for there is a word of sin in it.
 

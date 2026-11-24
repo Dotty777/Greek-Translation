@@ -7,7 +7,7 @@
 
 **2:1** Aleph. How the Lord has darkened the daughter of Zion in His anger! He has cast down from heaven to earth the glory of Israel, and He has not remembered the footstool of His feet.
 
-**2:2** Beth. In the day of His anger the Lord engulfed without sparing all the beautiful things of Jacob; He tore down in His fury the strongholds of the daughter of Judah; He pressed to the ground and profaned her kings and her rulers.
+**2:2** Beth. In the day of His anger the Lord engulfed, not sparing; all the beautiful things of Jacob He tore down in His fury; the strongholds of the daughter of Judah He pressed to the ground; He profaned her kings and her rulers.
 
 **2:3** Gimel. He called together in the anger of His fury every horn of Israel; He turned back His right hand from the face of an enemy, and He kindled in Jacob a flame like fire, and it devoured everything all around.
 
