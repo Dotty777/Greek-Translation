@@ -87,7 +87,7 @@
 
 **20:41** And when the boy entered, David arose from the argab and fell on his face and bowed down to him three times; and each kissed his companion, and each wept with his companion to a great completion.
 
-**20:42** And Jonathan said, "Go in peace, and as both of us have sworn in the name of the Lord, saying, 'The Lord will be a witness between me and you, and among your offspring forever.'"
+**20:42** And Jonathan said, "Go in peace, and as both of us have sworn in the name of the Lord, saying, 'The Lord will be a witness between me and you, and among your seed forever.'"
 
 ## Additional Verses (Not in Saints Numbering)
 

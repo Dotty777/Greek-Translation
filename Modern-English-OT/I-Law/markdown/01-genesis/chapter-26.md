@@ -9,9 +9,9 @@
 
 **26:2** And the Lord appeared to him and said, "Do not go down to Egypt; rather, settle in the land that I tell you.
 
-**26:3** And sojourn in this land, and I will be with you and bless you; for to you and to your offspring I will give all this land, and I will establish My oath that I swore to Abraham your father.
+**26:3** And sojourn in this land, and I will be with you and bless you; for to you and to your seed I will give all this land, and I will establish My oath that I swore to Abraham your father.
 
-**26:4** And I will multiply your offspring like the stars of heaven, and I will give to your offspring all this land, and in your offspring all the nations of the earth will be blessed,
+**26:4** And I will multiply your seed like the stars of heaven, and I will give to your seed all this land, and in your seed all the nations of the earth will be blessed,
 
 **26:5** because Abraham your father obeyed My voice and kept My ordinances and My commandments and My statutes and My laws."
 
@@ -51,7 +51,7 @@
 
 **26:23** And he went up from there to the Well of the Oath.
 
-**26:24** And the Lord appeared to him in that night and said, "I am the God of Abraham your father. Do not be afraid, for I am with you, and I will bless you and multiply your offspring for the sake of Abraham your father."
+**26:24** And the Lord appeared to him in that night and said, "I am the God of Abraham your father. Do not be afraid, for I am with you, and I will bless you and multiply your seed for the sake of Abraham your father."
 
 **26:25** And he built an altar there and called upon the name of the Lord, and he pitched his tent there; and there the servants of Isaac dug a well.
 

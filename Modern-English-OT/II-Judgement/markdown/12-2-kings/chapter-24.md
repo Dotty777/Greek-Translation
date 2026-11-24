@@ -13,7 +13,7 @@
 
 **24:4** And also he shed innocent blood and filled Jerusalem with innocent blood, and the Lord was not willing to be appeased.
 
-**24:5** And the rest of the acts of Jehoiakim and all that he did—look, are these not written in the book of the records of the days of the kings of Judah?
+**24:5** And the rest of the matters of Jehoiakim and all that he did—look, are these not written in the book of the records of the days of the kings of Judah?
 
 **24:6** And Jehoiakim slept with his fathers, and Jehoiakim his son became king in his place.
 

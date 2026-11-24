@@ -43,7 +43,7 @@
 
 **2:19** And his mother made a little cloak for him, and she would bring it up to him from days to days when she went up with her husband to offer the sacrifice of the days.
 
-**2:20** And Eli blessed Elkanah and his wife, saying, "May the Lord repay you with offspring from this woman in place of the loan that you lent to the Lord." And the man went away to his place.
+**2:20** And Eli blessed Elkanah and his wife, saying, "May the Lord repay you with seed from this woman in place of the loan that you lent to the Lord." And the man went away to his place.
 
 **2:21** And the Lord visited Hannah, and she gave birth to three more sons and two daughters. And the boy Samuel grew up before the Lord.
 
@@ -65,7 +65,7 @@
 
 **2:30** Therefore thus has the Lord, the God of Israel, said: I said, 'Your house and the house of your father will walk before Me forever.' Yet now, says the Lord, far be it from Me! For on the contrary, those who honor Me I will honor, and the one who despises Me will be dishonored.
 
-**2:31** Look, days are coming when I will cut off your offspring and the offspring of the house of your father,
+**2:31** Look, days are coming when I will cut off your seed and the seed of the house of your father,
 
 **2:32** and there will not be an old man of yours in My house all the days.
 

@@ -19,7 +19,7 @@
 
 **10:7** And whenever you gather the congregation, you shall blow, and not with a signal.
 
-**10:8** And the sons of Aaron, the priests, shall blow the trumpets, and it will be for you a perpetual statute for your generations.
+**10:8** And the sons of Aaron, the priests, shall blow the trumpets, and it will be for you an eternal statute for your generations.
 
 **10:9** And if you go out to war in your land against the adversaries who oppose you, then you shall sound a signal with the trumpets, and you will be remembered before the Lord, and you will be saved from your enemies.
 

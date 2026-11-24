@@ -5,17 +5,17 @@
 
 ## Text
 
-**2:1** This is what the Lord says: "For the three impieties of Moab, and for the four, I will not turn away from it, because they burned up the bones of the king of Idumea into lime;
+**2:1** Thus says the Lord: "For the three impieties of Moab, and for the four, I will not turn away from it, because they burned up the bones of the king of Idumea into lime;
 
 **2:2** and I will send out fire upon Moab, and it will devour the foundations of its cities, and Moab will die in weakness, with a shout and with the sound of a trumpet;
 
 **2:3** and I will utterly destroy a judge from it, and I will kill all who belong to it with him," says the Lord.
 
-**2:4** This is what the Lord says: "For the three impieties of the sons of Judah, and for the four, I will not turn away from him, because they rejected the law of the Lord, and did not keep His ordinances, and their vain things which they made led them astray, after which their fathers followed;
+**2:4** Thus says the Lord: "For the three impieties of the sons of Judah, and for the four, I will not turn away from him, because they rejected the law of the Lord, and did not keep His ordinances, and their vain things which they made led them astray, after which their fathers followed;
 
 **2:5** and I will send out fire upon Judah, and it will devour the foundations of Jerusalem."
 
-**2:6** This is what the Lord says: "For the three impieties of Israel, and for the four, I will not turn away from him, because they sold a righteous man for silver, and a needy man for sandals,
+**2:6** Thus says the Lord: "For the three impieties of Israel, and for the four, I will not turn away from him, because they sold a righteous man for silver, and a needy man for sandals,
 
 **2:7** which tread upon the dust of the earth; and they struck the heads of the poor with their fists, and turned aside the way of the humble, and a son and his father went in to the same servant girl, so that they might profane the name of their God;
 

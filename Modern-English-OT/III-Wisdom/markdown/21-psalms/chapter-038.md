@@ -5,7 +5,7 @@
 
 ## Text
 
-**38:1** For the end, for Jeduthun; a song of David.
+**38:1** For the end, for Jeduthun; a song for David.
 
 **38:2** I said, "I will guard my ways so as not to sin with my tongue." I set a guard over my mouth while the sinner stood against me.
 

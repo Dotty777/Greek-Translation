@@ -5,7 +5,7 @@
 
 ## Text
 
-**42:1** A psalm of David. Judge me, God, and decide my case against an unholy nation; rescue me from an unjust and deceitful man.
+**42:1** A psalm for David. Judge me, God, and decide my case against an unholy nation; rescue me from an unjust and deceitful man.
 
 **42:2** For You are God, my strength; why have You rejected me? And why do I walk about downcast while my enemy oppresses me?
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**15:1** A pillar inscription of David. Guard me, Lord, for I have hoped in You.
+**15:1** A pillar inscription for David. Guard me, Lord, for I have hoped in You.
 
 **15:2** I said to the Lord, "You are my Lord."
 

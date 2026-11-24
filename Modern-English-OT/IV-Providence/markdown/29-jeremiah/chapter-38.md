@@ -73,7 +73,7 @@
 
 **38:34** And they will not teach each one his fellow citizen and each one his brother, saying, 'Know the Lord,' for all will know Me, from the least of them to the greatest of them, because I will be merciful toward their injustices, and their sins I will by no means remember anymore."
 
-**38:35** "If heaven is lifted up on high," says the Lord, "and if the foundation of the earth is brought low below, I also will not reject the family of Israel," says the Lord, "for all that they have done."
+**38:35** "If heaven is lifted up on high," says the Lord, "and if the foundation of the earth is brought low below, then I will not reject the family of Israel," says the Lord, "for all that they have done."
 
 **38:36** Thus said the Lord, who gave the sun for the light of the day, the moon and stars for the light of the night, and a cry in the sea, and its waves roared; the Lord Almighty is His name:
 
@@ -90,6 +90,6 @@
 - **38:2** — The Greek reads 'I found warmth in the wilderness with those who perished by the sword,' a distinctive Septuagint rendering differing from the Masoretic Text ('the people who survived the sword found grace').
 - **38:8** — The Greek reads 'at the feast of Passover' (en heorte phasek), a notable Septuagint reading where the Masoretic Text has 'among them the blind and the lame.'
 - **38:21** — The Greek reads 'Zion,' 'make retribution,' 'set your heart on the shoulders,' and 'mourning,' reflecting distinctive Septuagint renderings where the Masoretic Text speaks of setting up road markers and signposts toward the highway.
-- **38:35** — Verses 35-37 follow a different order from the Masoretic Text (31:37, 35, 36), and verse 35 uniquely affirms 'I also will not reject the family of Israel' rather than the conditional rejection found in the Masoretic Text.
+- **38:35** — Verses 35-37 follow a different order from the Masoretic Text (31:37, 35, 36), and verse 35 reads 'then I will not reject the family of Israel,' where the Masoretic Text's apodosis is positive ('I will reject').
 - **38:38** — The Greek names 'Hanamel' (Hanameel) where the Masoretic Text reads 'Hananel.'
 - **38:40** — The Greek retains two untranslated Hebrew geographical terms as 'Hasaremoth' (hasaremoth, corresponding to the fields/terraces) and 'Nachal Kidron' (nachal Kedron, 'wadi/brook of Kidron').

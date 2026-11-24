@@ -7,7 +7,7 @@
 
 **30:1** And the word of the Lord came to me, saying,
 
-**30:2** "Son of man, prophesy and say, 'This is what the Lord says: Alas, alas, the day,
+**30:2** "Son of man, prophesy and say, 'Thus says the Lord: Alas, alas, the day,
 
 **30:3** for a day is near, the day of the Lord; it will be the end of nations.
 

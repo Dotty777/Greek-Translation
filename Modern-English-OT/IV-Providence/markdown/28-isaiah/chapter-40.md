@@ -59,7 +59,7 @@
 
 **40:27** For do not say, Jacob, and why did you speak, Israel, "My way has been hidden from God, and my God has taken away justice and departed"?
 
-**40:28** And now, have you not known? Have you not heard? An everlasting God, the God who constructed the ends of the earth, will not hunger nor grow weary, nor is there any finding out of His understanding,
+**40:28** And now, have you not known? Have you not heard? An eternal God, the God who constructed the ends of the earth, will not hunger nor grow weary, nor is there any finding out of His understanding,
 
 **40:29** giving strength to those who hunger, and sorrow to those who are not suffering pain.
 

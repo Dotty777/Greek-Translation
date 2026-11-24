@@ -5,7 +5,7 @@
 
 ## Text
 
-**66:1** For the end, with hymns; a psalm of David.
+**66:1** For the end, with hymns; a psalm for David.
 
 **66:2** May God have compassion on us and bless us; may He cause His face to shine upon us—Interlude—
 

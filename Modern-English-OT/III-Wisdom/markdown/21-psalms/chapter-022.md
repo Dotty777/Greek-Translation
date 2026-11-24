@@ -5,7 +5,7 @@
 
 ## Text
 
-**22:1** A psalm of David. The Lord shepherds me, and nothing will be lacking to me.
+**22:1** A psalm for David. The Lord shepherds me, and nothing will be lacking to me.
 
 **22:2** In a place of green pasture, there He has made me encamp; beside water of rest He has nurtured me.
 

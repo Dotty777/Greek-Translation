@@ -5,9 +5,9 @@
 
 ## Text
 
-**41:1** And he brought me into the temple, in which he measured the vestibule, six cubits in width on one side,
+**41:1** And he brought me into the temple, in which he measured the porch, six cubits in width on one side,
 
-**41:2** and six cubits the breadth of the vestibule on the other side, and the breadth of the gateway was ten cubits, and the shoulders of the gateway were five cubits on one side and five cubits on the other side. And he measured its length, forty cubits, and the breadth, twenty cubits.
+**41:2** and six cubits the breadth of the porch on the other side, and the breadth of the gateway was ten cubits, and the shoulders of the gateway were five cubits on one side and five cubits on the other side. And he measured its length, forty cubits, and the breadth, twenty cubits.
 
 **41:3** And he went into the inner court, and he measured the jamb of the doorway, two cubits, and the doorway, six cubits, and the shoulders of the doorway, seven cubits on one side and seven cubits on the other side.
 
@@ -33,7 +33,7 @@
 
 **41:14** and the breadth in front of the house and the remaining spaces opposite, a hundred cubits.
 
-**41:15** And he measured the length of the partition in front of the remaining space of the parts behind that house, and the remaining spaces on one side and on the other, a hundred cubits in length. And the temple and the corners and the outer vestibule were paneled.
+**41:15** And he measured the length of the partition in front of the remaining space of the parts behind that house, and the remaining spaces on one side and on the other, a hundred cubits in length. And the temple and the corners and the outer porch were paneled.
 
 **41:16** And there were latticed windows, narrow openings all around for the three so as to look through; and the house and the adjacent parts were covered with wood all around, and the floor and from the floor up to the windows, and the windows opened out threefold to look through.
 
@@ -53,13 +53,13 @@
 
 **41:24** for the two swinging doors, there were two doors for the one, and two doors for the second door.
 
-**41:25** And there was carving on them, and on the doors of the temple were cherubim and palm trees according to the carving of the sanctuary, and sturdy timbers in front of the vestibule on the outside,
+**41:25** And there was carving on them, and on the doors of the temple were cherubim and palm trees according to the carving of the sanctuary, and sturdy timbers in front of the porch on the outside,
 
-**41:26** and hidden windows. And he measured on one side and on the other, to the roofings of the vestibule, and the side rooms of the house were yoked together.
+**41:26** and hidden windows. And he measured on one side and on the other, to the roofings of the porch, and the side rooms of the house were yoked together.
 
 ## Translator Notes
 
-- **41:1** — Greek uses the Hebrew architectural loanword ailam ("vestibule" or "porch") here and in vv. 2, 15, and 25-26, where the Hebrew of v. 1 refers to pilasters or jambs.
+- **41:1** — Greek uses the Hebrew architectural loanword ailam ("porch") here and in vv. 2, 15, and 25-26, where the Hebrew of v. 1 refers to pilasters or jambs.
 - **41:4** — The Greek reads "the length of the doors, forty cubits," whereas the Hebrew reads "its length, twenty cubits."
 - **41:6** — The Greek wording is difficult and diverges from the Hebrew, giving the count literally as "thirty, three times twice" and describing the wall interval as enabling "those taking hold" to see so as not to touch the house walls.
 - **41:8** — "Thrael" transliterates an obscure Greek term of uncertain meaning, likely arising from the underlying Hebrew text; in v. 7 the Greek also reads "from the cornices" (geison) rather than "from the middle ones."

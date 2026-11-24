@@ -17,7 +17,7 @@
 
 **49:6** and He said to me, "It is a great thing for you to be called My servant, to raise up the tribes of Jacob and to bring back the dispersion of Israel; look, I have given you as a covenant for a people, as a light for nations, so that you may be for salvation to the end of the earth."
 
-**49:7** Thus says the Lord, who redeems you, the God of Israel: "Sanctify the one who despises his own soul, the one who is abhorred by the nations, the servants of the rulers; kings will see him, and rulers will stand up and bow down to him for the sake of the Lord; because the Holy One of Israel is faithful, and I have chosen you."
+**49:7** Thus says the Lord, who rescues you, the God of Israel: "Sanctify the one who despises his own soul, the one who is abhorred by the nations, the servants of the rulers; kings will see him, and rulers will stand up and bow down to him for the sake of the Lord; because the Holy One of Israel is faithful, and I have chosen you."
 
 **49:8** Thus says the Lord: "In an acceptable time I listened to you, and on a day of salvation I helped you; and I formed you and gave you as a covenant for nations, to establish the land and to inherit desolate inheritances,
 
@@ -53,9 +53,9 @@
 
 **49:24** Will anyone take plunder from a giant? And if anyone takes captives unjustly, will he be saved?
 
-**49:25** Thus says the Lord: "If anyone takes a giant captive, he will take plunder; and one taking from a strong man will be saved; and I will judge your case, and I will redeem your sons;
+**49:25** Thus says the Lord: "If anyone takes a giant captive, he will take plunder; and one taking from a strong man will be saved; and I will judge your case, and I will rescue your sons;
 
-**49:26** and those who afflicted you will eat their own flesh, and they will drink their own blood like new wine and become drunk; and all flesh will perceive that I am the Lord, who redeems you and upholds the strength of Jacob."
+**49:26** and those who afflicted you will eat their own flesh, and they will drink their own blood like new wine and become drunk; and all flesh will perceive that I am the Lord, who rescues you and upholds the strength of Jacob."
 
 ## Translator Notes
 

@@ -39,7 +39,7 @@
 
 **30:17** A thousand will flee because of the voice of one, and because of the voice of five many will flee, until you are left like a mast on a mountain, and like one carrying a banner on a hill."
 
-**30:18** And again God will wait to have compassion on you, and because of this He will be exalted to have mercy on you, because the Lord your God is a judge; blessed are those who wait upon Him.
+**30:18** And again God will wait to have compassion on you, and because of this He will be exalted to have mercy on you, because the Lord your God is a judge; blessed are those who abide in Him.
 
 **30:19** Because a holy people will dwell in Zion; and Jerusalem wept with weeping, "Have mercy on me." He will have mercy on you; when He saw the voice of your cry, He listened to you.
 

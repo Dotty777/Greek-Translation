@@ -27,7 +27,7 @@
 
 **39:11** And I took the deed of purchase, the sealed one,
 
-**39:12** and I gave it to Baruch son of Neriah, son of Mahseiah, before the eyes of Hanamel, the son of my father's brother, and before the eyes of the men who were standing by and writing in the deed of purchase, and before the eyes of the Jews who were in the court of the guard.
+**39:12** and I gave it to Baruch son of Neriah, son of Maaseiah, before the eyes of Hanamel, the son of my father's brother, and before the eyes of the men who were standing by and writing in the deed of purchase, and before the eyes of the Jews who were in the court of the guard.
 
 **39:13** And I commanded Baruch before their eyes, saying,
 
@@ -91,7 +91,7 @@
 
 **39:43** And fields will again be bought in the land of which you say, 'It will be impassable, without people and livestock, and they have been handed over into the hands of the Chaldeans.'
 
-**39:44** And they will buy fields with silver, and you will write a deed and seal it, and call witnesses, in the land of Benjamin, and around Jerusalem, and in the cities of Judah, and in the cities of the hill country of the Shephelah, and in the cities of the Negev; for I will restore their captivities."
+**39:44** And they will buy fields with silver, and you will write a deed and seal it, and call witnesses, in the land of Benjamin, and around Jerusalem, and in the cities of Judah, and in the cities of the hill country of the Shephelah, and in the cities of the Negev; for I will restore their exiles."
 
 ## Translator Notes
 

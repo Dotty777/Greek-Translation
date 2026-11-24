@@ -45,7 +45,7 @@
 
 **44:20** And now, lord king, let my mercy fall before you; and why are you returning me to the house of Jonathan the scribe, and will I not die there?"
 
-**44:21** And the king gave orders, and they threw him into the prison house, and they were giving him one loaf of bread a day from outside where they bake, until the loaves ran out from the city; and Jeremiah remained in the court of the prison.
+**44:21** And the king gave orders, and they threw him into the prison house, and they were giving him one loaf of bread a day from outside where they bake, until the loaves ran out from the city; and Jeremiah remained in the court of the guard.
 
 ## Translator Notes
 

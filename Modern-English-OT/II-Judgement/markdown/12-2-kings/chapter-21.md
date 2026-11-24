@@ -37,7 +37,7 @@
 
 **21:16** And indeed, Manasseh shed very much innocent blood, until he filled Jerusalem from edge to edge, besides their sins by which he caused Judah to sin, to do what was evil in the eyes of the Lord.
 
-**21:17** And the rest of the acts of Manasseh, and all that he did, and his sin that he sinned, are these not written in the book of the records of the days of the kings of Judah?
+**21:17** And the rest of the matters of Manasseh, and all that he did, and his sin that he sinned, are these not written in the book of the records of the days of the kings of Judah?
 
 **21:18** And Manasseh slept with his fathers, and was buried in the garden of his house, in the garden of Uzza; and Amos his son reigned in his place.
 
@@ -53,7 +53,7 @@
 
 **21:24** And the people of the land struck down all those who had conspired against King Amos; and the people of the land made Josiah his son king in his place.
 
-**21:25** And the rest of the acts of Amos, all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
+**21:25** And the rest of the matters of Amos, all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
 
 **21:26** And they buried him in his tomb in the garden of Uzza; and Josiah his son reigned in his place.
 

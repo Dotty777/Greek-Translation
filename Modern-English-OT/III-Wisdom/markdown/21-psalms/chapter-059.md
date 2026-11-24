@@ -5,7 +5,7 @@
 
 ## Text
 
-**59:1** For the end: for those who will be changed, still for a pillar inscription of David, for instruction,
+**59:1** For the end: for those who will be changed, still for a pillar inscription for David, for instruction,
 
 **59:2** when he set fire to Mesopotamia of Syria and Syria of Sobal, and Joab returned and struck the Valley of Salt, twelve thousand.
 

@@ -35,7 +35,7 @@
 
 **21:15** so that you may slaughter victims; be sharpened so that you may come to a gleam, ready for paralysis; slaughter, despise, reject every tree.
 
-**21:16** And He gave it ready for His hand to hold; the sword has been sharpened; it is ready to be given into the hand of a slayer.'
+**21:16** And he gave it ready for his hand to hold; the sword has been sharpened; it is ready to be given into the hand of a slayer.'
 
 **21:17** Cry out and wail, son of man, for it has come among My people, it is among all the leaders of Israel; they will sojourn; upon a sword it has come among My people; therefore clap upon your hand.
 

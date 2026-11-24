@@ -19,7 +19,7 @@
 
 **41:7** "A craftsman has grown strong, and a smith striking with a hammer, beating at the same time." Sometimes he will say, "The joint is good"; he made them firm with nails; they will set them up, and they will not be moved.
 
-**41:8** But you, Israel, My servant Jacob whom I chose, offspring of Abraham whom I loved,
+**41:8** But you, Israel, My servant Jacob whom I chose, seed of Abraham whom I loved,
 
 **41:9** whom I took hold of from the ends of the earth, and from its watchtowers I called you and said to you, "You are My servant; I chose you and did not forsake you."
 

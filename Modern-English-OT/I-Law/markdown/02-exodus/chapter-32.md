@@ -27,7 +27,7 @@
 
 **32:12** Do not let the Egyptians speak, saying, 'With evil intent He brought them out to kill them in the mountains and to consume them from the earth.' Cease from the anger of Your fury, and be merciful concerning the wickedness of Your people,
 
-**32:13** remembering Abraham and Isaac and Jacob, Your household servants, to whom You swore by Yourself and spoke to them, saying, 'I will greatly multiply your offspring like the stars of heaven in multitude,' and all this land that You spoke of giving to them, and they will possess it forever."
+**32:13** remembering Abraham and Isaac and Jacob, Your household servants, to whom You swore by Yourself and spoke to them, saying, 'I will greatly multiply your seed like the stars of heaven in multitude,' and all this land that You spoke of giving to them, and they will possess it forever."
 
 **32:14** And the Lord was appeased so as to preserve His people.
 

@@ -13,13 +13,13 @@
 
 **5:4** And again you shall take some of these and throw them into the middle of the fire, and burn them up in fire; from it fire will go out. And you shall say to the whole house of Israel,
 
-**5:5** 'This is what the Lord says: This is Jerusalem; in the midst of the nations I have set her, and the countries around her.
+**5:5** 'Thus says the Lord: This is Jerusalem; in the midst of the nations I have set her, and the countries around her.
 
 **5:6** And you shall speak My ordinances to the lawless one from the nations, and My statutes from the countries around her, because they rejected My ordinances, and in My statutes they did not walk in them.
 
-**5:7** Therefore, this is what the Lord says: Because your impulse is from the nations around you, and you did not walk in My statutes, and you did not do My ordinances, nor have you even acted according to the ordinances of the nations around you,
+**5:7** Therefore, thus says the Lord: Because your impulse is from the nations around you, and you did not walk in My statutes, and you did not do My ordinances, nor have you even acted according to the ordinances of the nations around you,
 
-**5:8** therefore, this is what the Lord says: Look, I am against you, and I will execute judgment in your midst before the nations,
+**5:8** therefore, thus says the Lord: Look, I am against you, and I will execute judgment in your midst before the nations,
 
 **5:9** and I will do in you things that I have not done and the like of which I will not do again, according to all your abominations.
 

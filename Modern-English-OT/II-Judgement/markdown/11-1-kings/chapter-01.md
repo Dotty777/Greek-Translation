@@ -99,7 +99,7 @@
 
 **1:47** and the servants of the king went in to bless our lord King David, saying, 'May God make the name of Solomon better than your name, and make his throne greater than your throne.' And the king bowed in worship on the bed,
 
-**1:48** and moreover the king spoke thus: 'Blessed be the Lord, the God of Israel, who has given today one from my offspring sitting on my throne, and my eyes see it.'"
+**1:48** and moreover the king spoke thus: 'Blessed be the Lord, the God of Israel, who has given today one from my seed sitting on my throne, and my eyes see it.'"
 
 **1:49** And all the invited guests of Adonijah rose up, and went, each man his own way.
 

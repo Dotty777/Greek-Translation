@@ -9,7 +9,7 @@
 
 **29:2** "Son of man, set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt,
 
-**29:3** and say, 'This is what the Lord says: Look, I am against Pharaoh, the great dragon who sits in the midst of his rivers, who says, "Mine are the rivers, and I made them."
+**29:3** and say, 'Thus says the Lord: Look, I am against Pharaoh, the great dragon who sits in the midst of his rivers, who says, "Mine are the rivers, and I made them."
 
 **29:4** And I will put snares into your jaws, and I will make the fish of your river cling to your fins, and I will bring you up from the midst of your river,
 
@@ -19,7 +19,7 @@
 
 **29:7** Because they took hold of you with their hand, you were crushed; and when every hand clapped against them, and when they leaned upon you, you were shattered, and you broke every loin of theirs.
 
-**29:8** Therefore, this is what the Lord says: Look, I am bringing a sword upon you, and I will destroy people and beasts from you,
+**29:8** Therefore, thus says the Lord: Look, I am bringing a sword upon you, and I will destroy people and beasts from you,
 
 **29:9** and the land of Egypt will become destruction and a wasteland; and they will know that I am the Lord, because you say, "The rivers are mine, and I made them."
 
@@ -29,7 +29,7 @@
 
 **29:12** And I will make its land a destruction in the midst of a desolated land, and its cities will be in the midst of desolated cities for forty years. And I will scatter Egypt among the nations, and I will winnow them into the countries.
 
-**29:13** This is what the Lord says: After forty years I will gather the Egyptians from the nations where they were dispersed,
+**29:13** Thus says the Lord: After forty years I will gather the Egyptians from the nations where they were dispersed,
 
 **29:14** and I will turn back the captivity of the Egyptians, and I will settle them in the land of Pathros, in the land from which they were taken; and it will be a lowly dominion
 
@@ -41,9 +41,9 @@
 
 **29:18** "Son of man, Nebuchadnezzar king of Babylon subjected his army to great servitude against Tyre; every head was bald, and every shoulder was rubbed bare; yet no wages came to him or to his army against Tyre, nor for the servitude with which they served against it.
 
-**29:19** This is what the Lord, the Lord says: Look, I am giving the land of Egypt to Nebuchadnezzar king of Babylon, and he will plunder its plunder and despoil its spoils, and it will be wages for his army.
+**29:19** Thus says the Lord, the Lord: Look, I am giving the land of Egypt to Nebuchadnezzar king of Babylon, and he will plunder its plunder and despoil its spoils, and it will be wages for his army.
 
-**29:20** In return for his service with which he served against Tyre, I have given him the land of Egypt. This is what the Lord, the Lord says:
+**29:20** In return for his service with which he served against Tyre, I have given him the land of Egypt. Thus says the Lord, the Lord:
 
 **29:21** In that day a horn will spring up for all the house of Israel, and to you I will give an opened mouth in their midst, and they will know that I am the Lord."
 

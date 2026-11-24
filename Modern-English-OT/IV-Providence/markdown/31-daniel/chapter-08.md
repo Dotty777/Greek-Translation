@@ -5,7 +5,7 @@
 
 ## Text
 
-**8:1** In the third year of the reign of Belshazzar the king, a vision appeared to me—I, Daniel—after the one that appeared to me at the beginning.
+**8:1** In the third year of the reign of Baltasar the king, a vision appeared to me—I, Daniel—after the one that appeared to me at the beginning.
 
 **8:2** And I was in Susa the fortress, which is in the region of Elam, and I was by the Ubal.
 

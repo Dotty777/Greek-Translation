@@ -63,7 +63,7 @@
 
 **21:29** Woe to you, Moab! You have perished, people of Chemosh! Their sons were given over to escape safely, and their daughters as captives, to the king of the Amorites, Sihon.
 
-**21:30** And their offspring will perish, Heshbon as far as Dibon, and the women still further kindled fire upon Moab."
+**21:30** And their seed will perish, Heshbon as far as Dibon, and the women still further kindled fire upon Moab."
 
 **21:31** Now Israel settled in all the cities of the Amorites.
 

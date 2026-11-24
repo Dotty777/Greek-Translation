@@ -1,7 +1,7 @@
 # Saints Modern English — Complete New Testament (Greek)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Coverage:** **Complete 27 of 27 New Testament books** (260 chapters, 7,942 verses, 1,125 translator notes) — all three NT divisions (**V. Salvation**, **VI. Discipleship**, **VII. Glory**) finished.  
+> **Coverage:** **Complete 27 of 27 New Testament books** (260 chapters, 7,942 verses, 1,122 translator notes) — all three NT divisions (**V. Salvation**, **VI. Discipleship**, **VII. Glory**) finished.  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and full programmatic & scholarly audit (`0` hard failures, `0` soft archaisms).
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the complete **Saints Modern English** translation of th
 
 | # | Division | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---|---:|---:|---:|---|---|
-| 44 | V. Salvation | Matthew | 28 | 1,068 | 125 | [`markdown/44-matthew/`](markdown/44-matthew/README.md) | [`44-matthew.json`](json/44-matthew.json) |
+| 44 | V. Salvation | Matthew | 28 | 1,068 | 124 | [`markdown/44-matthew/`](markdown/44-matthew/README.md) | [`44-matthew.json`](json/44-matthew.json) |
 | 45 | V. Salvation | Mark | 16 | 673 | 72 | [`markdown/45-mark/`](markdown/45-mark/README.md) | [`45-mark.json`](json/45-mark.json) |
 | 46 | V. Salvation | Luke | 24 | 1,149 | 117 | [`markdown/46-luke/`](markdown/46-luke/README.md) | [`46-luke.json`](json/46-luke.json) |
 | 47 | V. Salvation | John | 21 | 878 | 102 | [`markdown/47-john/`](markdown/47-john/README.md) | [`47-john.json`](json/47-john.json) |
@@ -35,7 +35,7 @@ This directory contains the complete **Saints Modern English** translation of th
 | 59 | VI. Discipleship | 2 Timothy | 4 | 83 | 14 | [`markdown/59-2-timothy/`](markdown/59-2-timothy/README.md) | [`59-2-timothy.json`](json/59-2-timothy.json) |
 | 60 | VI. Discipleship | Titus | 3 | 46 | 9 | [`markdown/60-titus/`](markdown/60-titus/README.md) | [`60-titus.json`](json/60-titus.json) |
 | 61 | VI. Discipleship | Philemon | 1 | 25 | 4 | [`markdown/61-philemon/`](markdown/61-philemon/README.md) | [`61-philemon.json`](json/61-philemon.json) |
-| 62 | VI. Discipleship | Hebrews | 13 | 303 | 49 | [`markdown/62-hebrews/`](markdown/62-hebrews/README.md) | [`62-hebrews.json`](json/62-hebrews.json) |
+| 62 | VI. Discipleship | Hebrews | 13 | 303 | 48 | [`markdown/62-hebrews/`](markdown/62-hebrews/README.md) | [`62-hebrews.json`](json/62-hebrews.json) |
 | 63 | VI. Discipleship | James | 5 | 108 | 19 | [`markdown/63-james/`](markdown/63-james/README.md) | [`63-james.json`](json/63-james.json) |
 | 64 | VI. Discipleship | 1 Peter | 5 | 105 | 19 | [`markdown/64-1-peter/`](markdown/64-1-peter/README.md) | [`64-1-peter.json`](json/64-1-peter.json) |
 | 65 | VI. Discipleship | 2 Peter | 3 | 61 | 10 | [`markdown/65-2-peter/`](markdown/65-2-peter/README.md) | [`65-2-peter.json`](json/65-2-peter.json) |
@@ -43,4 +43,4 @@ This directory contains the complete **Saints Modern English** translation of th
 | 67 | VI. Discipleship | 2 John | 1 | 13 | 5 | [`markdown/67-2-john/`](markdown/67-2-john/README.md) | [`67-2-john.json`](json/67-2-john.json) |
 | 68 | VI. Discipleship | 3 John | 1 | 15 | 4 | [`markdown/68-3-john/`](markdown/68-3-john/README.md) | [`68-3-john.json`](json/68-3-john.json) |
 | 69 | VI. Discipleship | Jude | 1 | 25 | 4 | [`markdown/69-jude/`](markdown/69-jude/README.md) | [`69-jude.json`](json/69-jude.json) |
-| 70 | VII. Glory | Revelation | 22 | 405 | 114 | [`markdown/70-revelation/`](markdown/70-revelation/README.md) | [`70-revelation.json`](json/70-revelation.json) |
+| 70 | VII. Glory | Revelation | 22 | 405 | 113 | [`markdown/70-revelation/`](markdown/70-revelation/README.md) | [`70-revelation.json`](json/70-revelation.json) |

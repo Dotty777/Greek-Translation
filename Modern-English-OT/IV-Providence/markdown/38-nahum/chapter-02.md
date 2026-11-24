@@ -15,7 +15,7 @@
 
 **2:5** in the roads, and the chariots will be thrown into confusion and will become entangled in the broad squares; their appearance is like torches of fire and like lightning flashes darting about.
 
-**2:6** And their nobles will be remembered, and they will flee by day and grow weak in their march, and they will hurry to her walls and prepare their outposts.
+**2:6** And their nobles will remember, and they will flee by day and grow weak in their march, and they will hurry to her walls and prepare their outposts.
 
 **2:7** The gates of the cities were opened wide, and the palace collapsed,
 

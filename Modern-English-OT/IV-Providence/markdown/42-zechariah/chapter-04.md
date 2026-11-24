@@ -15,7 +15,7 @@
 
 **4:5** And the angel speaking in me answered and said to me, saying, "Do you not know what these are?" And I said, "No, sir."
 
-**4:6** And he answered and said to me, saying, "This is the word of the Lord to Zerubbabel, saying, 'Not by great power nor by strength, but only by My Spirit,' says the Lord Almighty.
+**4:6** And he answered and said to me, saying, "This is the word of the Lord to Zerubbabel, saying, 'Not by great power nor by strength, but rather by My Spirit,' says the Lord Almighty.
 
 **4:7** 'Who are you, great mountain before the face of Zerubbabel, to succeed? And I will bring out the stone of the inheritance, equality of grace, its grace.'"
 
@@ -37,5 +37,5 @@
 
 - **4:1** — Greek "speaking in me" (ho lalon en emoi) literally reflects the Hebrew idiom for speaking with someone; the verb exeren reads "raised/lifted me up" rather than "awakened me."
 - **4:7** — The Greek diverges sharply from the Masoretic Text, reading an infinitive "to succeed" (tou katorthosai), a first-person verb "I will bring out" (exoiso), "the stone of the inheritance" (tes kleronomias), and the appositional phrase "equality of grace, its grace" (isoteta charitos charita autes).
-- **4:10** — "The tin stone" (ton lithon ton kassiterinon) literally denotes a metal plummet or plumb weight; unlike the Masoretic Text, the Greek text omits "of the Lord" after "eyes."
+- **4:10** — "The tin stone" (ton lithon ton kassiterinon) corresponds to the Hebrew term for a plumb weight; unlike the Masoretic Text, the Greek text omits "of the Lord" after "eyes."
 - **4:14** — "Sons of richness" renders Greek huioi tes piotetos (literally "sons of fatness/richness"), referring to the rich oil of the olive tree.

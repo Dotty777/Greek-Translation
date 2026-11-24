@@ -23,7 +23,7 @@
 
 **2:9** They will seize the city, and upon the walls they will run, and upon the houses they will climb, and through windows they will enter like thieves.
 
-**2:10** Before its face the earth will be thrown into confusion and heaven will be shaken; the sun and the moon will grow dark, and the stars will dim their brightness.
+**2:10** Before its face the earth will be thrown into confusion and heaven will be shaken; the sun and the moon will grow dark, and the stars will withdraw their brightness.
 
 **2:11** And the Lord will utter His voice before His force, because His camp is exceedingly numerous, because strong are the works of His words; for great is the day of the Lord, great and exceedingly manifest, and who will be equal to it?
 
@@ -63,6 +63,6 @@
 
 - **2:6** — The Greek phrase "the scorch of a pot" (proskauma chytras) describes faces blackened with dread, interpreting a difficult Hebrew expression.
 - **2:17** — The Greek reads "in the midst of the platform [krepis] of the altar" with no conjunction before "altar," whereas the Hebrew Masoretic Text has "between the vestibule and the altar."
-- **2:20** — The "first sea" and "last sea" reflect the Greek rendering of the eastern (Dead) and western (Mediterranean) seas; the spelling bromos here serves as an orthographic variant of bromos ("stench").
+- **2:20** — The "first sea" and "last sea" render the Hebrew expressions for the eastern (Dead) and western (Mediterranean) seas; βρόμος (normally "noise, roar") here stands as an orthographic variant of βρῶμος ("stench").
 - **2:23** — The Greek renders the Hebrew phrase for the autumn rain (or teacher) as "food" (ta bromata), yielding "food for righteousness."
 - **2:25** — The Greek shifts within the verse from third person ("He will repay," antapodosei) to first person ("My great force that I sent"), whereas the Hebrew Masoretic Text uses first person throughout.

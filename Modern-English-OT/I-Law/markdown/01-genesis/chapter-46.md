@@ -15,9 +15,9 @@
 
 **46:5** Then Jacob rose up from the Well of the Oath, and the sons of Israel took up their father and the dependents and their wives onto the wagons that Joseph had sent to carry him.
 
-**46:6** And having taken their possessions and all the property that they had acquired from the land of Canaan, Jacob entered into Egypt, and all his offspring with him,
+**46:6** And having taken their possessions and all the property that they had acquired from the land of Canaan, Jacob entered into Egypt, and all his seed with him,
 
-**46:7** sons and the sons of his sons with him, daughters and daughters of his sons with him; and he brought all his offspring into Egypt.
+**46:7** sons and the sons of his sons with him, daughters and daughters of his sons with him; and he brought all his seed into Egypt.
 
 **46:8** Now these are the names of the sons of Israel who entered into Egypt, Jacob and his sons: the firstborn of Jacob was Reuben.
 

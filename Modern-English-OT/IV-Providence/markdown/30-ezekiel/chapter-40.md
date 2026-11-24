@@ -97,7 +97,7 @@
 
 **40:47** And he measured the court, a hundred cubits in length and a hundred cubits in breadth, on its four sides, and the altar was opposite the house.
 
-**40:48** And he brought me into the porch of the house. And he measured the jamb of the porch, five cubits in width on this side and five cubits on that side, and the breadth of the doorway was fourteen cubits, and the side walls of the door of the porch were three cubits on this side and three cubits on that side.
+**40:48** And he brought me into the porch of the house. And he measured the jamb of the porch, five cubits in width on this side and five cubits on that side, and the breadth of the doorway was fourteen cubits, and the shoulders of the door of the porch were three cubits on this side and three cubits on that side.
 
 **40:49** And the length of the porch was twenty cubits, and the breadth was twelve cubits; and by ten steps they went up to it, and there were pillars at the porch, one on this side and one on that side.
 

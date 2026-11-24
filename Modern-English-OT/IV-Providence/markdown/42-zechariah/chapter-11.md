@@ -37,12 +37,12 @@
 
 **11:16** For look, I am raising up a shepherd over the land; what is failing he will by no means attend to, and what is scattered he will by no means seek, and what is crushed he will by no means heal, and what is sound he will by no means guide; and he will devour the meat of the choice ones, and he will dislocate their anklebones.
 
-**11:17** Woe to those who shepherd vain things and have abandoned the sheep! A sword upon his arms and upon his right eye! His arm will be completely dried up, and his right eye will be completely blinded."
+**11:17** Ah, those who shepherd vain things and have abandoned the sheep! A sword upon his arms and upon his right eye! His arm will be completely dried up, and his right eye will be completely blinded."
 
 ## Translator Notes
 
 - **11:7** — The Greek reads the proper name 'into Canaan' (Chanaanitin, and 'the Canaanites' in 11:11) where the Hebrew has 'therefore, the afflicted of [the flock]'; Schoinisma ('Allotment') literally denotes a portion measured out with a cord, corresponding to Hebrew 'Union.'
 - **11:10** — The Saints Greek text reads third-person plural lempsontai ('they will take') before first-person aporripso ('I will cast away'), reflecting the broader alternation between future and past tenses in the Septuagint of 11:7-14.
-- **11:11** — The Greek uses the LXX-distinct proper name hoi Chananaiioi ('the Canaanites') as the subject and takes 'the sheep that are guarded for me' as the object, followed by dioti ('for').
+- **11:11** — The Greek uses the LXX-distinct proper name hoi Chananaioi ('the Canaanites') as the subject and takes 'the sheep that are guarded for me' as the object, followed by dioti ('for').
 - **11:13** — Greek choneuterion means 'smelting furnace' (where the Hebrew reads 'the potter'), and third-person singular edokimasthe ('it was tested') matches the metal-assaying imagery rather than Hebrew first-person 'I was valued.'
 - **11:14** — Greek kataschesin means 'possession' or 'allotted holding,' where the Hebrew Masoretic Text reads 'brotherhood.'

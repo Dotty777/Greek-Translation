@@ -5,7 +5,7 @@
 
 ## Text
 
-**8:1** For the end, concerning the winepresses; a psalm of David.
+**8:1** For the end, concerning the winepresses; a psalm for David.
 
 **8:2** Lord, our Lord, how wondrous is Your name in all the earth; for Your magnificence has been lifted up above the heavens.
 

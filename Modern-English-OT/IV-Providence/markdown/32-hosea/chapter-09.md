@@ -33,7 +33,7 @@
 
 **9:14** Give to them, Lord—what will You give them? A childless womb and dry breasts.
 
-**9:15** All their wicked deeds are in Gilgal, for there I hated them because of the wickedness of their practices; out of My house I will drive them; I will not continue to love them; all their rulers are disobedient.
+**9:15** All their wicked deeds are in Gilgal, for there I hated them because of the wickedness of their practices; out of My house I will drive them; I will by no means continue to love them; all their rulers are disobedient.
 
 **9:16** Ephraim has suffered pain; he has dried up in his roots; he will no longer bear fruit; for even if they give birth, I will kill the cherished ones of their womb.
 

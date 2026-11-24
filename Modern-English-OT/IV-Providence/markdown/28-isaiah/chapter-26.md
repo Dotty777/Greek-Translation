@@ -52,5 +52,5 @@
 - **26:3** — The Septuagint connects vv. 3-4 with the cognate phrase "with hope they have hoped" (elpidi elpisan), differing from the Masoretic Text's "steadfast of mind You keep in peace."
 - **26:13** — The Septuagint reads an imperative addressed to God, "Take possession of us, Lord," where the Masoretic Text reads "Other lords besides You have ruled over us."
 - **26:14** — The Septuagint renders the Hebrew "rephaim" (departed shades) as "physicians" (iatroi) and "all remembrance of them" as "every male of them" (pan arsen auton).
-- **26:17** — The Septuagint reads "to Your beloved" (to agapeto sou) where the Masoretic Text has "before You, O LORD."
+- **26:17** — The Septuagint reads "to Your beloved" (to agapeto sou) where the Masoretic Text has "before You, O Lord."
 - **26:19** — The Septuagint reads "those in the tombs" instead of the Masoretic Text's "my dead body," and translates the Hebrew "rephaim" as "the ungodly."

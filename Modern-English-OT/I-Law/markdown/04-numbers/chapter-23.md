@@ -23,7 +23,7 @@
 
 **23:9** For from the summit of mountains I will see him, and from hills I will observe him. Look, a people will dwell alone and will not be reckoned among the nations.
 
-**23:10** Who has precisely calculated the offspring of Jacob? And who will number the clans of Israel? May my soul die among the souls of the righteous, and may my offspring become like the offspring of these."
+**23:10** Who has precisely calculated the seed of Jacob? And who will number the clans of Israel? May my soul die among the souls of the righteous, and may my seed become like the seed of these."
 
 **23:11** And Balak said to Balaam, "What have you done to me? I have summoned you to curse my enemies, and look, you have blessed them with a blessing."
 

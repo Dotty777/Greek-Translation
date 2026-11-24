@@ -81,7 +81,7 @@
 
 ## Translator Notes
 
-- **2:7** — The Greek text begins with "the Lord our God" and reads the imperative "Consider how you passed through that great and fearsome wilderness," whereas the Hebrew MT has "the LORD your God" and "He knows your wandering through this great wilderness."
+- **2:7** — The Greek text begins with "the Lord our God" and reads the imperative "Consider how you passed through that great and fearsome wilderness," whereas the Hebrew MT has "the Lord your God" and "He knows your wandering through this great wilderness."
 - **2:8** — The Greek text reads "Ailon" (for MT "Elath") and "your brothers" (for MT "our brothers").
 - **2:9** — The Greek text reads "Seir" here and in 2:18, and "Aroer" in 2:29, where the Hebrew MT reads "Ar."
 - **2:20** — "Zochomein" is the Greek text's distinct name for the people called "Zamzummim" in the Hebrew MT.

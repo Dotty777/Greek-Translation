@@ -29,11 +29,11 @@
 
 **14:12** because if they fast, I will not listen to their supplication, and if they offer burnt offerings and sacrifices, I will not be pleased with them; for by sword and by famine and by death I will bring them to an end."
 
-**14:13** And I said, "O One who is, Lord, look, their prophets are prophesying and saying, 'You will not see a sword, nor will famine be among you, for I will give truth and peace upon the land and in this place.'"
+**14:13** And I said, "O One Who Is, Lord, look, their prophets are prophesying and saying, 'You will not see a sword, nor will famine be among you, for I will give truth and peace upon the land and in this place.'"
 
 **14:14** And the Lord said to me, "The prophets are prophesying false things in My name; I did not send them, and I did not command them, and I did not speak to them; for false visions and divinations and omens and the choices of their heart they themselves are prophesying to you.
 
-**14:15** Therefore, this is what the Lord says concerning the prophets who prophesy false things in My name, and I did not send them, who say, 'Sword and famine will not be in this land': By a diseased death they will die, and by famine the prophets will be brought to an end,
+**14:15** Therefore, thus says the Lord concerning the prophets who prophesy false things in My name, and I did not send them, who say, 'Sword and famine will not be in this land': By a diseased death they will die, and by famine the prophets will be brought to an end,
 
 **14:16** and the people to whom they are prophesying, and they will be thrown out in the streets of Jerusalem because of the sword and the famine, and there will be no one to bury them—and their wives and their sons and their daughters—and I will pour out upon them their evils.
 
@@ -54,5 +54,5 @@
 - **14:2** — Greek uses "Judea" (ἡ Ἰουδαία) here—distinct from "Judah" (Ἰούδας, as in 14:19)—and reads "her gates were emptied" (ἐκενώθησαν) rather than the Hebrew MT "languish."
 - **14:8** — Greek reads "like a native" (ὡς αὐτόχθων) rather than the Hebrew MT "like a traveler," contrasting sharply with "sojourner" (πάροικος); "Hope" renders ὑπομονή ("patient waiting, endurance, expectation").
 - **14:10** — Greek reads "God has not prospered in them" (ὁ θεὸς οὐκ εὐόδωσεν ἐν αὐτοῖς, rather than εὐδοκέω "be pleased with" as in 14:12) and omits the Hebrew MT's closing clause "and He will punish their sins."
-- **14:13** — Greek "O One who is, Lord" (Ὁ ὤν, Κύριε) echoes the divine title of Exodus 3:14 LXX, rendering the Hebrew exclamation "Alas, Lord GOD!"
+- **14:13** — Greek "O One Who Is, Lord" (Ὁ ὤν, Κύριε) echoes the divine title of Exodus 3:14 LXX, rendering the Hebrew exclamation "Alas, Lord God!"
 - **14:15** — Greek reads "By a diseased death they will die" (Ἐν θανάτῳ νοσερῷ ἀποθανοῦνται), whereas the Hebrew MT reads "By sword and famine those prophets will meet their end."

@@ -9,9 +9,9 @@
 
 **22:2** "Tell Aaron and his sons, and let them be careful regarding the holy things of the sons of Israel, whatever they themselves sanctify to Me, and they shall not profane My holy name; I am the Lord.
 
-**22:3** Tell them, 'Throughout your generations, any man from your offspring who approaches the holy things, whatever the sons of Israel sanctify to the Lord, while his uncleanness is upon him, that soul shall be utterly destroyed from Me; I am the Lord your God.
+**22:3** Tell them, 'Throughout your generations, any man from your seed who approaches the holy things, whatever the sons of Israel sanctify to the Lord, while his uncleanness is upon him, that soul shall be utterly destroyed from Me; I am the Lord your God.
 
-**22:4** And any man from the offspring of Aaron the priest who has leprosy or a discharge shall not eat of the holy things until he is cleansed; and whoever touches any uncleanness from a dead person, or a man from whom an emission of semen goes out,
+**22:4** And any man from the seed of Aaron the priest who has leprosy or a discharge shall not eat of the holy things until he is cleansed; and whoever touches any uncleanness from a dead person, or a man from whom an emission of semen goes out,
 
 **22:5** whoever touches any unclean creeping thing that will defile him, or a person by whom he will defile himself according to all his uncleanness,
 
@@ -29,7 +29,7 @@
 
 **22:12** And if a daughter of a man who is a priest marries a man who is an outsider, she shall not eat of the firstfruits of the sanctuary.
 
-**22:13** And if a daughter of a priest becomes a widow cast out, and she had no offspring, she shall return to her paternal house as in her youth; she may eat from the loaves of her father. And no outsider shall eat from them.
+**22:13** And if a daughter of a priest becomes a widow cast out, and she had no seed, she shall return to her paternal house as in her youth; she may eat from the loaves of her father. And no outsider shall eat from them.
 
 **22:14** And if a man eats holy things in ignorance, he shall add its fifth part to it and shall give the holy thing to the priest.
 

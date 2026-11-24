@@ -5,7 +5,7 @@
 
 ## Text
 
-**64:1** For the end; a psalm of David, a song.
+**64:1** For the end; a psalm for David, a song.
 
 **64:2** To You a hymn is fitting, God, in Zion, and to You a vow will be paid.
 

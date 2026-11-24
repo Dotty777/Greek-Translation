@@ -5,7 +5,7 @@
 
 ## Text
 
-**20:1** In those days Hezekiah became ill to the point of death. And Isaiah son of Amoz the prophet came in to him and said to him, "This is what the Lord says: Give orders to your house; you are dying and will not live."
+**20:1** In those days Hezekiah became ill to the point of death. And Isaiah son of Amoz the prophet came in to him and said to him, "Thus says the Lord: Give orders to your house; you are dying and will not live."
 
 **20:2** And Hezekiah turned toward the wall, and prayed to the Lord, saying,
 
@@ -43,7 +43,7 @@
 
 **20:19** And Hezekiah said to Isaiah, "Good is the word of the Lord that He has spoken."
 
-**20:20** And the rest of the acts of Hezekiah, and all his might, and all that he made, the spring and the aqueduct, and brought the water into the city, are these not written in the book of the records of the days of the kings of Judah?
+**20:20** And the rest of the matters of Hezekiah, and all his might, and all that he made, the spring and the aqueduct, and brought the water into the city, are these not written in the book of the records of the days of the kings of Judah?
 
 **20:21** And Hezekiah slept with his fathers, and Manasseh his son became king in his place.
 

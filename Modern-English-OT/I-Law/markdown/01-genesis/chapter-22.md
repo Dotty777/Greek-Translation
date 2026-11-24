@@ -37,9 +37,9 @@
 
 **22:16** saying, "By Myself I have sworn, says the Lord: because you have done this thing and have not spared your beloved son because of Me,
 
-**22:17** surely blessing I will bless you, and multiplying I will multiply your offspring like the stars of heaven and like the sand along the shore of the sea; and your offspring will inherit the cities of the adversaries.
+**22:17** surely blessing I will bless you, and multiplying I will multiply your seed like the stars of heaven and like the sand along the shore of the sea; and your seed will inherit the cities of the adversaries.
 
-**22:18** and in your offspring all the nations will be blessed, because you obeyed My voice."
+**22:18** and in your seed all the nations will be blessed, because you obeyed My voice."
 
 **22:19** So Abraham returned to his servants, and rising up, they went to the Well of the Oath; and Abraham lived at the Well of the Oath.
 

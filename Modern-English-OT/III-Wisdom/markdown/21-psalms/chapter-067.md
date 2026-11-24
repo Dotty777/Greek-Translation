@@ -5,7 +5,7 @@
 
 ## Text
 
-**67:1** For the end; of David, a psalm of a song.
+**67:1** For the end; for David, a psalm of a song.
 
 **67:2** Let God rise up, and let His enemies be scattered, and let those who hate Him flee from His presence.
 

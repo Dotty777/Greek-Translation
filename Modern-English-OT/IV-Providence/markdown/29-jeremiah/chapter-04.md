@@ -9,7 +9,7 @@
 
 **4:2** and swears, 'The Lord lives,' with truth, in judgment and in righteousness, then nations will bless in him, and in him they will praise God in Jerusalem."
 
-**4:3** For this is what the Lord says to the men of Judah and to those who dwell in Jerusalem: "Break up fallow fields for yourselves, and do not sow upon thorns.
+**4:3** For thus says the Lord to the men of Judah and to those who dwell in Jerusalem: "Break up fallow fields for yourselves, and do not sow upon thorns.
 
 **4:4** Be circumcised to your God, and circumcise your hardness of heart, men of Judah and those who dwell in Jerusalem, so that His wrath will not go out like fire and burn, and there will be no one to quench it, because of the evil of your practices."
 
@@ -23,7 +23,7 @@
 
 **4:9** "And it will be in that day," says the Lord, "the heart of the king will perish, and the heart of the rulers, and the priests will be appalled, and the prophets will be amazed."
 
-**4:10** And I said, "O Sovereign Lord, have You utterly deceived this people and Jerusalem, saying, 'There will be peace,' and look, the sword has reached even to their soul?"
+**4:10** And I said, "O Master, Lord, have You utterly deceived this people and Jerusalem, saying, 'There will be peace,' and look, the sword has reached even to their soul?"
 
 **4:11** At that time they will say to this people and to Jerusalem, "A spirit of error in the wilderness: the way of the daughter of My people is not for what is pure nor for what is holy.
 
@@ -57,7 +57,7 @@
 
 **4:26** I saw, and look, Carmel was desolate, and all the cities were burned with fire before the presence of the Lord, and before the anger of His wrath they were wiped out.
 
-**4:27** This is what the Lord says: "All the earth will be desolate, yet I will by no means make a complete end.
+**4:27** Thus says the Lord: "All the earth will be desolate, yet I will by no means make a complete end.
 
 **4:28** Because of these things let the earth mourn, and let the heaven above grow dark; because I have spoken and will not relent; I have set out and will not turn back from it."
 

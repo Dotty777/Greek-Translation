@@ -60,6 +60,6 @@
 ## Translator Notes
 
 - **28:2** — Greek theos without the article is rendered "a god" here and in vv. 6, 9 to match the contrast with "a man," though it can also be translated "God." In v. 3 Greek asks two rhetorical questions rather than making the declarative statements of the Hebrew MT.
-- **28:12** — Greek reads the double divine title kyrios Kyrios ("the Lord, the Lord," also v. 25) and addresses "the ruler of Tyre" (as in v. 2, where the MT has "king").
+- **28:12** — Greek reads the double divine title kyrios Kyrios ("the Lord, the Lord," also v. 25) and addresses "the ruler of Tyre" (as in v. 2), where the MT here has "king."
 - **28:13** — Greek lists all twelve gemstones of the high priest's breastpiece (cf. Exod 28:17-20) along with silver and gold, whereas the Hebrew MT lists nine stones.
 - **28:14** — Greek reads "with the cherub" (meta tou cheroub), distinguishing the ruler of Tyre from the cherub who leads him out in v. 16, whereas the Hebrew MT reads "you were an anointed guardian cherub." In v. 15 Greek reads "in your days" (MT "in your ways"), and in v. 18 "I profaned" (MT "you profaned").

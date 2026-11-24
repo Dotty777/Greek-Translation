@@ -9,13 +9,13 @@
 
 **44:2** thus says the Lord God who made you and who formed you from the womb: "You will yet be helped; do not be afraid, My servant Jacob, and beloved Israel whom I have chosen.
 
-**44:3** For I will give water in thirst to those who walk in a waterless land; I will put My Spirit upon your offspring, and My blessings upon your children,
+**44:3** For I will give water in thirst to those who walk in a waterless land; I will put My Spirit upon your seed, and My blessings upon your children,
 
 **44:4** and they will spring up like grass in the midst of water, and like a willow by flowing water.
 
-**44:5** This one will say, 'I belong to God,' and this one will cry out by the name of Jacob, and another will write on his hand, 'I belong to God,' and by the name of Israel he will cry out."
+**44:5** This one will say, 'I belong to God,' and this one will cry out by the name of Jacob, and another will write with his hand, 'I belong to God,' and by the name of Israel he will cry out."
 
-**44:6** Thus says the King of Israel and the One who rescued him, God of Sabaoth: "I am first, and I am after these things; besides Me there is no God.
+**44:6** Thus says the King of Israel and the One who rescued him, God Sabaoth: "I am first, and I am after these things; besides Me there is no God.
 
 **44:7** Who is like Me? Let him stand and call out and declare, and let him prepare for Me from the time I made humanity forever, and let them declare to you the things that are coming before they arrive.
 
@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **44:2** — Greek "beloved Israel" translates the Hebrew poetic name "Jeshurun," and the Greek places "You will yet be helped" at the start of the direct address.
-- **44:6** — Greek "God of Sabaoth" leaves Hebrew "Sabaoth" (hosts/armies) transliterated rather than translated, and reads "after these things" where the Hebrew Masoretic Text has "the last."
+- **44:6** — Greek "God Sabaoth" leaves Hebrew "Sabaoth" (hosts/armies) transliterated rather than translated, and reads "after these things" where the Hebrew Masoretic Text has "the last."
 - **44:11** — Greek "deaf ones from among people" likely arose from reading Hebrew harashim ("craftsmen") as hereshim ("deaf ones"), and "all from whom they came have dried up" differs from the Hebrew "all his associates will be put to shame."
 - **44:26** — The Greek text reads "the cities of Idumea" (Edom) where the Hebrew Masoretic Text reads "the cities of Judah."
 - **44:28** — Greek "tells Cyrus to be wise" (phronein) differs from the Hebrew Masoretic Text, which reads "says of Cyrus, 'He is My shepherd,'" and Greek "I will lay the foundation" is first-person active rather than passive.

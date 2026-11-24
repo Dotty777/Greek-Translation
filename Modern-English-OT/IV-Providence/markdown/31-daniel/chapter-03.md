@@ -47,7 +47,7 @@
 
 **3:21** Then those men were bound with their trousers and turbans and leggings, and were thrown into the middle of the burning furnace of fire,
 
-**3:22** because the king's word was urgent, and the furnace was heated exceedingly.
+**3:22** because the king's word prevailed, and the furnace was heated exceedingly.
 
 **3:23** And these three, Shadrach, Meshach, and Abednego, fell into the middle of the burning furnace, bound.
 
@@ -97,7 +97,7 @@
 
 **3:46** And the king's attendants who threw them in did not stop stoking the furnace with naphtha and pitch and tow and brushwood.
 
-**3:47** and the flame spread out above the furnace for forty-nine cubits,
+**3:47** And the flame spread out above the furnace for forty-nine cubits,
 
 **3:48** and passed through and burned up those of the Chaldeans whom it found around the furnace.
 
@@ -196,7 +196,7 @@
 - **3:1** — The Greek text opens with the date "In the eighteenth year" (absent in the Aramaic text) and reads the place name "Deira" (corresponding to Aramaic "Dura").
 - **3:15** — Greek "symphonia" (a musical instrument, probably a bagpipe or ensemble) appears in the Greek text here, whereas it is omitted in the parallel lists of vv. 5, 7, and 10.
 - **3:17** — The Greek reads "For there is a God, whom we serve, able to rescue us" (or "For God, whom we serve, is able"), without the conditional clause and possessive "our" found in the Aramaic text.
-- **3:24** — Verses 24–47 (continuing further in the chapter) form part of the Greek-only addition containing the Prayer of Azariah and the expanded narrative of the furnace.
+- **3:24** — Verses 24–90 are the Greek-only addition (the Prayer of Azariah, the expanded narrative of the furnace, and the Song of the Three); verse 91 corresponds to Aramaic 3:24.
 - **3:40** — The clause "and carry through completely after You" (Greek: kai ektelesai opisthen sou) is grammatically difficult and likely expresses wholehearted persistence in following God.
 - **3:61** — The Greek reads singular "all the host" (Greek: pasa he dynamis) without "of the Lord," followed by plural imperatives in the second half of the verse.
 - **3:72** — In this Greek versification (with vv. 67–70 omitted from the numbering), v. 72 combines three refrains ("light and darkness," "cold and heat," and "frost and snow").

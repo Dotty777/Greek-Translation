@@ -31,13 +31,13 @@
 
 **24:13** because you yourself were defiling yourself. And what if you are not cleansed any longer until I satisfy My wrath?
 
-**24:14** I, the Lord, have spoken, and it will come, and I will act; I will not hold back nor will I ever have mercy. According to your ways and according to your designs I will judge you, says the Lord. Therefore I will judge you according to your bloodshed, and according to your designs I will judge you, unclean one, renowned and great in provoking.'"
+**24:14** I, the Lord, have spoken, and it will come, and I will act; I will not hold back nor will I ever have mercy. According to your ways and according to your devices I will judge you, says the Lord. Therefore I will judge you according to your bloodshed, and according to your devices I will judge you, unclean one, renowned and great in provoking.'"
 
 **24:15** And the word of the Lord came to me, saying,
 
 **24:16** "Son of man, look, I am taking from you the desires of your eyes in battle; you shall by no means lament, nor shall you weep.
 
-**24:17** You will be a groaning of blood, of loins, of mourning; your hair will not be braided upon you, nor your sandals on your feet; you shall by no means be comforted by their lips, and you shall by no means eat the bread of men."
+**24:17** You will be a groaning of blood, of loins, of mourning; your hair will not be braided upon you, and your sandals on your feet; you shall by no means be comforted by their lips, and you shall by no means eat the bread of men."
 
 **24:18** And I spoke to the people in the morning just as He commanded me in the evening, and I did in the morning just as it was ordered to me.
 

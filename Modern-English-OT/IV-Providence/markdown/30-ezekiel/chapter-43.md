@@ -41,7 +41,7 @@
 
 **43:18** And He said to me, "Son of man, thus says the Lord God of Israel: These are the ordinances of the altar on the day of its making, to offer up burnt offerings on it and to pour blood against it.
 
-**43:19** And you shall give to the priests, the Levites, who are from the offspring of Zadok, who draw near to Me, says the Lord God, to minister to Me, a young bull from the herd for a sin offering.
+**43:19** And you shall give to the priests, the Levites, who are from the seed of Zadok, who draw near to Me, says the Lord God, to minister to Me, a young bull from the herd for a sin offering.
 
 **43:20** And they shall take from its blood and put it on the four horns of the altar and on the four corners of the propitiatory and on the base all around, and they shall make atonement for it.
 

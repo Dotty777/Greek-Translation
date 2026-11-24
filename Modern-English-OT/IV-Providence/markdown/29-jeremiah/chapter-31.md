@@ -27,7 +27,7 @@
 
 **31:11** Moab has rested from boyhood, and he was trusting in his glory; he has not poured from vessel to vessel, and he has not gone into exile. Therefore his taste has remained in him, and his scent has not failed.
 
-**31:12** "Therefore look, his days are coming," says the Lord, "and I will send to him those who tilt, and they will tilt him, and they will pulverize his vessels, and they will cut his horns to pieces,
+**31:12** "Therefore look, his days are coming," declares the Lord, "and I will send to him those who tilt, and they will tilt him, and they will pulverize his vessels, and they will cut his horns to pieces,
 
 **31:13** and Moab will be put to shame by Chemosh, just as the house of Israel was put to shame by Bethel, their hope, having trusted in them.
 
@@ -73,13 +73,13 @@
 
 **31:34** From the cry of Heshbon to Etam their cities gave their voice, from Zoar to Horonaim, and a message of Salasia; for even the water of Nimrim will become a burnt waste.
 
-**31:35** And I will destroy Moab," says the Lord, "as he goes up upon the altar and burns incense to his gods.
+**31:35** And I will destroy Moab," declares the Lord, "as he goes up upon the altar and burns incense to his gods.
 
 **31:36** Therefore the heart of Moab will hum like flutes; My heart will hum like a flute for shorn people; therefore what he acquired has perished from man.
 
 **31:37** They will be shaved on every head in every place, and every beard will be shaved, and all hands will beat in mourning, and on every waist there is sackcloth,
 
-**31:38** and on all the rooftops of Moab and in her squares—for I have shattered her," says the Lord, "like a vessel of which there is no need.
+**31:38** and on all the rooftops of Moab and in her squares—for I have shattered her," declares the Lord, "like a vessel of which there is no need.
 
 **31:39** How has she changed? How has Moab turned her back? She has been put to shame, and Moab has become an object of laughter and resentment to all those around her."
 

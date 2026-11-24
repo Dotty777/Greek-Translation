@@ -9,7 +9,7 @@
 
 **6:2** "Son of man, set your face firmly against the mountains of Israel and prophesy against them,
 
-**6:3** and you shall say, 'Mountains of Israel, hear the word of the Lord! This is what the Lord says to the mountains and to the hills and to the ravines and to the valleys: Look, I am bringing a sword upon you, and your high places will be utterly destroyed,
+**6:3** and you shall say, 'Mountains of Israel, hear the word of the Lord! Thus says the Lord to the mountains and to the hills and to the ravines and to the valleys: Look, I am bringing a sword upon you, and your high places will be utterly destroyed,
 
 **6:4** and your altars and your shrines will be broken, and I will cast down your wounded before your idols,
 
@@ -25,7 +25,7 @@
 
 **6:10** and they will know that I, the Lord, have spoken.'"
 
-**6:11** This is what the Lord says: "Clap with your hand and stamp with your foot and say, 'Aha, aha!' over all the abominations of the house of Israel; by sword and by death and by famine they will fall.
+**6:11** Thus says the Lord: "Clap with your hand and stamp with your foot and say, 'Aha, aha!' over all the abominations of the house of Israel; by sword and by death and by famine they will fall.
 
 **6:12** The one who is near will fall by sword, and the one who is far off will perish by death, and the one who is besieged will be brought to an end by famine, and I will bring My anger to an end upon them.
 

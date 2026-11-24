@@ -123,11 +123,11 @@
 
 **16:59** Thus says the Lord: And I will do to you just as you did, since you dishonored these things so as to transgress My covenant.
 
-**16:60** And I myself will remember My covenant with you in the days of your infancy, and I will establish for you an everlasting covenant.
+**16:60** And I Myself will remember My covenant with you in the days of your infancy, and I will establish for you an everlasting covenant.
 
 **16:61** And you will remember your way, and you will be utterly dishonored when you receive your sisters who are older than you together with those who are younger than you, and I will give them to you for building up and not from your covenant.
 
-**16:62** And I myself will establish My covenant with you, and you will know that I am the Lord;
+**16:62** And I Myself will establish My covenant with you, and you will know that I am the Lord;
 
 **16:63** so that you may remember and be ashamed, and it may no longer be yours to open your mouth because of your dishonor, when I make atonement for you according to all that you did, says the Lord."
 

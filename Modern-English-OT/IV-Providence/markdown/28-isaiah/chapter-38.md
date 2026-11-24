@@ -5,7 +5,7 @@
 
 ## Text
 
-**38:1** Now it happened at that time that Hezekiah became ill to the point of death; and Isaiah son of Amoz, the prophet, came to him and said to him, "This is what the Lord says: 'Give orders concerning your house, for you are dying and you will not live.'"
+**38:1** Now it happened at that time that Hezekiah became ill to the point of death; and Isaiah son of Amoz, the prophet, came to him and said to him, "Thus says the Lord: 'Give orders concerning your house, for you are dying and you will not live.'"
 
 **38:2** And Hezekiah turned his face toward the wall and prayed to the Lord,
 
@@ -13,9 +13,9 @@
 
 **38:4** And the word of the Lord came to Isaiah, saying,
 
-**38:5** "Go and say to Hezekiah, 'This is what the Lord, the God of David your father, says: I have heard your prayer and seen your tears; look, I am adding fifteen years to your time,
+**38:5** "Go and say to Hezekiah, 'Thus says the Lord, the God of David your father: I have heard your prayer and seen your tears; look, I am adding fifteen years to your time,
 
-**38:6** and from the hand of the king of the Assyrians I will rescue you and this city, and I will defend this city.
+**38:6** and from the hand of the king of the Assyrians I will rescue you and this city, and I will shield this city.
 
 **38:7** And this is the sign to you from the Lord that God will do this thing:
 

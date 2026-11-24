@@ -37,4 +37,4 @@
 - **4:3** — Greek Ῥομμάν ("Romman") is a Septuagint-distinct place name where the Masoretic Text has Harmon.
 - **4:5** — The Septuagint reads "they read a law outside and called for confessions," reflecting a different reading of the Hebrew consonants than the Masoretic Text's leavened thank offering and freewill offerings.
 - **4:10** — Greek "in fire ... in your anger" differs from the Masoretic Text ("the stench ... into your nostrils") through reading the Hebrew consonants as "fire" and translating the word for "nose/anger" in its sense "anger."
-- **4:13** — The Septuagint reads βροντήν ("thunder") where the Hebrew has "mountains," and τὸν χριστὸν αὐτοῦ ("His anointed," also readable as "His Christ") where the Masoretic Text has "what is his thought." Greek πνεῦμα can mean either "wind" or "spirit."
+- **4:13** — The Septuagint reads βροντήν ("thunder") where the Hebrew has "mountains," and τὸν χριστὸν αὐτοῦ ("His anointed") where the Masoretic Text has "what is his thought." Greek πνεῦμα can mean either "wind" or "spirit."

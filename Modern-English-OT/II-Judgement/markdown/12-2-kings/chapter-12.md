@@ -43,7 +43,7 @@
 
 **12:19** And Joash king of Judah took all the holy things that Jehoshaphat and Joram and Ahaziah, his fathers and kings of Judah, had consecrated, and his own holy things, and all the gold that was found in the treasuries of the house of the Lord and of the house of the king, and sent them to Hazael king of Syria; and he went up from Jerusalem.
 
-**12:20** And the rest of the matters of Joash, and all that he did, look, are these not written in the book of the words of the days of the kings of Judah?
+**12:20** And the rest of the matters of Joash, and all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
 
 **12:21** And his servants rose up and bound every conspiracy, and they struck Joash in the house of Maalo, Gaalla.
 

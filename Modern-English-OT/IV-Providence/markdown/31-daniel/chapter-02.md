@@ -55,7 +55,7 @@
 
 **2:25** Then Arioch in haste brought Daniel in before the king and said to him, "I have found a man from the sons of the captivity of Judea who will report the interpretation to the king."
 
-**2:26** And the king answered and said to Daniel, whose name was Belteshazzar, "Are you able to report to me the dream that I saw and its interpretation?"
+**2:26** And the king answered and said to Daniel, whose name was Baltasar, "Are you able to report to me the dream that I saw and its interpretation?"
 
 **2:27** And Daniel answered before the king and said, "The mystery which the king asks about is not for wise men, magicians, enchanters, or diviners to report to the king;
 
@@ -111,7 +111,7 @@
 - **2:10** — The Greek uses the historical present (λέγουσιν, "they say"). It is rendered with the English past for smooth narrative, here and in 2:27.
 - **2:14** — ἀρχιμάγειρος means literally "chief cook" (or chief butcher), a court title that came to mean the captain of the royal guard. The literal title is kept.
 - **2:20** — ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος, "from the age and until the age," is rendered "from age to age."
-- **2:26** — The Greek spells the name Βαλτασάρ (Baltasar). The standard English form Belteshazzar, Daniel's Babylonian name, is used.
+- **2:26** — Βαλτασάρ (Baltasar) is the Greek form of Daniel's Babylonian name (Hebrew/Aramaic Belteshazzar); this Greek text uses the same form for King Belshazzar (5:1; 7:1; 8:1).
 - **2:27** — γαζαρηνῶν ("Gazarenes") transliterates the Aramaic word for "diviners" or "determiners of fate." It is rendered by its meaning.
 - **2:37** — Verses 37–38 form one sentence in the Greek, with no main verb for "You, King, king of kings"; the structure is kept.
 - **2:44** — ἡ βασιλεία αὐτοῦ uses a masculine pronoun, which cannot refer to the feminine βασιλεία, so it is taken as "His (God's) kingdom." λικμάω means "winnow, scatter like chaff."

@@ -33,7 +33,7 @@
 
 **4:14** Sounds resounded in the valley of judgment, for the day of the Lord is near in the valley of judgment.
 
-**4:15** The sun and the moon will grow dark, and the stars will withdraw their radiance.
+**4:15** The sun and the moon will grow dark, and the stars will withdraw their brightness.
 
 **4:16** And the Lord will cry out from Zion, and from Jerusalem He will utter His voice, and heaven and earth will be shaken; but the Lord will spare His people and will strengthen the sons of Israel.
 

@@ -7,7 +7,7 @@
 
 **46:1** Thus says the Lord God: "The gate in the inner court that faces east shall be shut during the six working days; on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.
 
-**46:2** And the ruler shall enter by the way of the vestibule of the inner gate and stand at the doorway of the gate, and the priests shall prepare his burnt offerings and his deliverance offerings.
+**46:2** And the ruler shall enter by the way of the porch of the inner gate and stand at the doorway of the gate, and the priests shall prepare his burnt offerings and his deliverance offerings.
 
 **46:3** And he shall worship at the doorway of the gate and go out, and the gate shall not be shut until evening; and the people of the land shall worship at the doorway of that gate both on the Sabbaths and at the new moons before the Lord.
 
@@ -19,7 +19,7 @@
 
 **46:7** and a cake for the ram and a cake for the calf shall be a grain offering, and for the lambs as much as his hand is able, and a hin of oil for the cake.
 
-**46:8** And when the ruler enters, he shall enter by the way of the vestibule of the gate, and by the way of the gate he shall go out.
+**46:8** And when the ruler enters, he shall enter by the way of the porch of the gate, and by the way of the gate he shall go out.
 
 **46:9** And whenever the people of the land enter before the Lord at the feasts, the one who enters by the way of the gate facing north to worship shall go out by the way of the gate toward the south, and the one who enters by the way of the gate toward the south shall go out by the way of the gate toward the north; he shall not return by the gate into which he has entered, but shall go out straight opposite it.
 
@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **46:2** — The Greek transliterates Hebrew ulam ("vestibule") as ailam (also v. 8) and specifies "the inner gate" where the Hebrew MT reads "from outside."
+- **46:2** — The Greek transliterates Hebrew ulam ("porch") as ailam (also v. 8) and specifies "the inner gate" where the Hebrew MT reads "from outside."
 - **46:12** — The Greek joins "freewill offering" and "burnt offering of deliverance" without "or" and uses active verbs so that the ruler himself opens the gate and shuts "the doors."
 - **46:19** — The Greek has a singular "chamber of the holy things of the priests" and "a place set apart" (where the Hebrew MT has plural chambers and "at the far western end").
 - **46:20** — The Greek renders the guilt offering as "the offerings for ignorance" and uses the adverbial phrase to parapan with the negation ("so as not to carry them out at all").

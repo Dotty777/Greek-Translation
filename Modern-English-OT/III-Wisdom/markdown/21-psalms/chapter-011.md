@@ -5,7 +5,7 @@
 
 ## Text
 
-**11:1** For the end, concerning the eighth. A psalm of David.
+**11:1** For the end, concerning the eighth. A psalm for David.
 
 **11:2** Save me, Lord, for the devout one has vanished, for truths have diminished from among the sons of men.
 

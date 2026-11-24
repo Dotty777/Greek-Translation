@@ -10,7 +10,7 @@
 - [Chapter 2](chapter-02.md) — 49 verses, 11 notes
 - [Chapter 3](chapter-03.md) — 93 verses, 9 notes
 - [Chapter 4](chapter-04.md) — 29 verses, 5 notes, +8 additional
-- [Chapter 5](chapter-05.md) — 21 verses, 5 notes, +9 additional
+- [Chapter 5](chapter-05.md) — 21 verses, 4 notes, +9 additional
 - [Chapter 6](chapter-06.md) — 28 verses, 4 notes, +1 additional
 - [Chapter 7](chapter-07.md) — 28 verses, 5 notes
 - [Chapter 8](chapter-08.md) — 27 verses, 5 notes

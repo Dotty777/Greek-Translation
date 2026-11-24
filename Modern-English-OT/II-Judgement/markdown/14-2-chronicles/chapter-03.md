@@ -29,7 +29,7 @@
 
 **3:13** And the wings of the cherubim were spread out twenty cubits, and they were standing on their feet, and their faces were toward the house.
 
-**3:14** And he made the veil of blue and purple and crimson and fine linen, and he wove cherubim into it.
+**3:14** And he made the curtain of blue and purple and crimson and fine linen, and he wove cherubim into it.
 
 **3:15** And he made in front of the wall two pillars, thirty-five cubits in height, and their capitals were five cubits.
 

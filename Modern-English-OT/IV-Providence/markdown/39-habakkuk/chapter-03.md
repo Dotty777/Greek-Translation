@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **3:2** — The Septuagint reads "in the midst of two living creatures You will be known" (vocalizing the Hebrew consonants as shenayim chayyim rather than MT "in the midst of years revive it"), a famous reading widely discussed in early Christian interpretation.
+- **3:2** — The Septuagint reads "in the midst of two living creatures You will be known" (vocalizing the Hebrew consonants as shenayim chayyim rather than MT "in the midst of years revive it").
 - **3:3** — "Interlude" translates Greek diapsalma, a musical pause corresponding to Hebrew selah (also in 3:9 and 3:13).
 - **3:4** — The Greek reads "He established a mighty love of His strength" where the Hebrew Masoretic Text reads "there is the hiding place of His power."
 - **3:5** — The Greek vocalizes the Hebrew consonants as davar ("a word," Greek logos) rather than MT dever ("pestilence").

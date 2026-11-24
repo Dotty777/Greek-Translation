@@ -51,6 +51,6 @@
 
 - **14:5** — The Greek reads "will be blocked up" (phrachthesetai / enphrachthesetai) where the Hebrew MT has "you will flee," uses the LXX-distinct place name "Iasod" (Hebrew "Azal"), and closes with "with Him" (Hebrew "with you").
 - **14:8** — The Greek reads "in spring" (en eari) where the Hebrew MT has "in winter," and renders the eastern and western seas literally as "the first sea" and "the last sea."
-- **14:10** — The Greek begins with the participle "encircling" continuing from 14:9, reads the Hebrew verb for "be lifted up" as the place name "Ramah," and reads "Hanamel" (Anamel) where the Hebrew MT has "Hananel."
+- **14:10** — The Greek begins with the participle "encircling" continuing from 14:9, reads the Hebrew verb for "be lifted up" as the place name "Ramah," and reads "Hanamel" (Anameel) where the Hebrew MT has "Hananel."
 - **14:17** — Instead of the Hebrew MT's "upon them there will be no rain," the Greek reads "these also will be added to those" (linking them with the afflicted nations) and likewise omits any mention of rain in 14:18.
 - **14:20** — The Greek reads "what is on the bridle of the horse" where the Hebrew MT has "the bells of the horses," and treats "holy to the Lord Almighty" as a predicate adjective parallel to 14:21.

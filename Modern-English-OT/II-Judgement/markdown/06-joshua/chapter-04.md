@@ -58,4 +58,4 @@
 - **4:3** — Greek reads "ready stones" (hetoimous) rather than specifying the standing-place of the priests, and includes the unusual phrase "along with you and them" (hama hymin kai autois).
 - **4:11** — Greek reads "and the stones" (kai hoi lithoi) in front of them, where the Hebrew Masoretic Text reads "and the priests."
 - **4:18** — "yesterday and the day before" renders the Greek idiom echthes kai triten hemeran (literally "yesterday and the third day"), meaning previously.
-- **4:24** — Greek reads "the power of the Lord" (he dynamis) and "in every work" (en panti ergo), where the Hebrew Masoretic Text has "the hand of the LORD" and "all the days."
+- **4:24** — Greek reads "the power of the Lord" (he dynamis) and "in every work" (en panti ergo), where the Hebrew Masoretic Text has "the hand of the Lord" and "all the days."

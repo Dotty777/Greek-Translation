@@ -5,7 +5,7 @@
 
 ## Text
 
-**62:1** A psalm of David, when he was in the wilderness of Idumea.
+**62:1** A psalm for David, when he was in the wilderness of Idumea.
 
 **62:2** God, my God, to You I rise early; my soul has thirsted for You, how many times my flesh for You, in a desolate and untrodden and waterless land,
 

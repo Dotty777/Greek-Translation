@@ -7,21 +7,21 @@
 
 **1:1** In the second year under Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying, "Speak to Zerubbabel son of Shealtiel, from the tribe of Judah, and to Joshua son of Jehozadak, the high priest, saying,
 
-**1:2** 'This is what the Lord Almighty says: This people says, "The time has not come to build the house of the Lord."'"
+**1:2** 'Thus says the Lord Almighty: This people says, "The time has not come to build the house of the Lord."'"
 
 **1:3** And the word of the Lord came by the hand of Haggai the prophet, saying,
 
 **1:4** "Is it time for you to live in your paneled houses, while your house lies desolate?"
 
-**1:5** And now this is what the Lord Almighty says: "Direct your hearts, then, to your ways.
+**1:5** And now thus says the Lord Almighty: "Direct your hearts, then, to your ways.
 
 **1:6** You sowed much and brought in little; you ate, yet not to fullness; you drank, yet not to drunkenness; you put on clothes, yet you were not warmed by them; and the one who gathers wages gathered them into a pierced pouch."
 
-**1:7** This is what the Lord Almighty says: "Set your hearts on your ways.
+**1:7** Thus says the Lord Almighty: "Set your hearts on your ways.
 
 **1:8** Go up to the mountain and cut timber and build the house, and I will take pleasure in it and be glorified," said the Lord.
 
-**1:9** "You looked for much, and it became little; and it was brought into the house, and I blew it away." Therefore this is what the Lord Almighty says: "Because My house is desolate, while you rush, each to his own house,
+**1:9** "You looked for much, and it became little; and it was brought into the house, and I blew it away." Therefore thus says the Lord Almighty: "Because My house is desolate, while you rush, each to his own house,
 
 **1:10** therefore heaven will hold back dew, and the earth will withhold its produce.
 

@@ -35,7 +35,7 @@
 
 **22:15** And Balak again sent officials, more numerous and more honorable than these.
 
-**22:16** And they came to Balaam and said to him, "This is what Balak son of Zippor says: 'I urge you, do not hesitate to come to me,
+**22:16** And they came to Balaam and said to him, "Thus says Balak son of Zippor: 'I urge you, do not hesitate to come to me,
 
 **22:17** for I will honor you with great honor, and whatever you say I will do for you; and come, pronounce a curse on this people for me.'"
 

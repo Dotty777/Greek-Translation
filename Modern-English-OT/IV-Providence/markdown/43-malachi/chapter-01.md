@@ -11,7 +11,7 @@
 
 **1:3** but Esau I hated, and I appointed his borders for desolation and his inheritance for gifts of the wilderness."
 
-**1:4** Because one will say, "Idumea has been overthrown, and let us return and rebuild the desolate places," this is what the Lord Almighty says: "They will build, and I will overthrow; and they will be called borders of lawlessness, and a people against whom the Lord stands arrayed forever.
+**1:4** Because one will say, "Idumea has been overthrown, and let us return and rebuild the desolate places," thus says the Lord Almighty: "They will build, and I will overthrow; and they will be called borders of lawlessness, and a people against whom the Lord stands arrayed forever.
 
 **1:5** And your eyes will see, and you yourselves will say, 'The Lord has been magnified above the borders of Israel.'"
 
@@ -21,7 +21,7 @@
 
 **1:8** For if you offer a blind animal for a sacrifice, is it not evil? And if you offer a lame or sick one, is it not evil? Offer it now to your governor: will he accept you? Will he show you favor?" says the Lord Almighty.
 
-**1:9** "And now, entreat the face of your God and plead with Him! By your hands these things have happened; will I show favor to any of you?" says the Lord Almighty.
+**1:9** "And now, appease the face of your God and plead with Him! By your hands these things have happened; will I show favor to any of you?" says the Lord Almighty.
 
 **1:10** "Because even among you doors will be shut, and My altar will not be kindled in vain. I have no pleasure in you," says the Lord Almighty, "and I will not accept a sacrifice from your hands.
 

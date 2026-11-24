@@ -11,7 +11,7 @@
 
 **28:3** And may my God bless you and make you grow and multiply you, and you will become assemblies of nations;
 
-**28:4** and may He give you the blessing of Abraham your father, to you and to your offspring after you, to inherit the land of your sojourning, which God has given to Abraham."
+**28:4** and may He give you the blessing of Abraham your father, to you and to your seed after you, to inherit the land of your sojourning, which God has given to Abraham."
 
 **28:5** So Isaac sent Jacob away, and he went to Mesopotamia, to Laban the son of Bethuel the Syrian, the brother of Rebekah, the mother of Jacob and Esau.
 
@@ -29,9 +29,9 @@
 
 **28:12** And he dreamed, and look, a ladder was fixed on the earth, whose top reached into heaven; and the angels of God were ascending and descending on it.
 
-**28:13** And the Lord stood firmly upon it and said, "I am the God of Abraham your father and the God of Isaac. Do not be afraid: the land on which you are sleeping, to you I will give it and to your offspring.
+**28:13** And the Lord stood firmly upon it and said, "I am the God of Abraham your father and the God of Isaac. Do not be afraid: the land on which you are sleeping, to you I will give it and to your seed.
 
-**28:14** And your offspring will be like the sand of the sea, and will spread out toward the sea and toward the south and toward the north and toward the east; and in you all the tribes of the earth will be blessed, and in your offspring.
+**28:14** And your seed will be like the sand of the sea, and will spread out toward the sea and toward the south and toward the north and toward the east; and in you all the tribes of the earth will be blessed, and in your seed.
 
 **28:15** And look, I am with you, guarding you along the entire way wherever you may go, and I will bring you back to this land; for I will by no means forsake you until I have done all that I have spoken to you."
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** For the end, concerning the hidden things of the son; a psalm of David.
+**9:1** For the end, concerning the hidden things of the son; a psalm for David.
 
 **9:2** I will give thanks to You, Lord, with my whole heart; I will recount all Your wonders;
 

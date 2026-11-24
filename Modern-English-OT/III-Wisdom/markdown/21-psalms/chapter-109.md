@@ -5,7 +5,7 @@
 
 ## Text
 
-**109:1** A psalm of David. The Lord said to my Lord, "Sit at My right hand until I set Your enemies as a footstool for Your feet."
+**109:1** A psalm for David. The Lord said to my Lord, "Sit at My right hand until I set Your enemies as a footstool for Your feet."
 
 **109:2** The Lord will send forth a rod of power from Zion; and rule in the midst of Your enemies.
 

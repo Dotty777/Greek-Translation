@@ -19,7 +19,7 @@
 
 **1:7** Turn and set out yourselves, and go into the hill country of the Amorites and to all the neighbors of Arabah, into hill country and plain, and toward the south, and the coastland, the land of the Canaanites, and Anti-Lebanon, as far as the great river Euphrates.
 
-**1:8** See, He has delivered the land before you; go in and inherit the land that I swore to your fathers, to Abraham, Isaac, and Jacob, to give to them and to their offspring after them."
+**1:8** See, He has delivered the land before you; go in and inherit the land that I swore to your fathers, to Abraham, Isaac, and Jacob, to give to them and to their seed after them."
 
 **1:9** And I spoke to you at that time, saying, "I will not be able to bear you alone.
 

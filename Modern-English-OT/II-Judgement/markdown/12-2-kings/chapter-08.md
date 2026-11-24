@@ -49,7 +49,7 @@
 
 **8:22** And Edom revolted from under the hand of Judah until this day. Then Senna revolted at that time.
 
-**8:23** And the rest of the matters of Joram and all that he did, look, are these not written in the book of the words of the days of the kings of Judah?
+**8:23** And the rest of the matters of Joram and all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
 
 **8:24** And Joram slept with his fathers, and he was buried with his fathers in the city of David his father. And Ahaziah his son became king in his place.
 

@@ -15,7 +15,7 @@
 
 **15:5** And the Lord touched the king, and he was leprous until the day of his death, and he reigned in the house of Aphphusoth; and Jonathan the king's son was over the house, judging the people of the land.
 
-**15:6** And the rest of the acts of Azariah and all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
+**15:6** And the rest of the matters of Azariah and all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
 
 **15:7** And Azariah slept with his fathers, and they buried him with his fathers in the city of David; and Jonathan his son became king in his place.
 
@@ -25,7 +25,7 @@
 
 **15:10** And Shallum son of Jabesh conspired against him, and they struck him down at Keblaam and put him to death; and he became king in his place.
 
-**15:11** And the rest of the acts of Zechariah, look, they are written in the book of the records of the days of the kings of Israel.
+**15:11** And the rest of the matters of Zechariah, look, they are written in the book of the records of the days of the kings of Israel.
 
 **15:12** The word of the Lord that He spoke to Jehu, saying, "Fourth-generation sons will sit for you on the throne of Israel"; and it happened so.
 
@@ -33,7 +33,7 @@
 
 **15:14** And Menahem son of Gadi went up from Tirzah and came to Samaria, and he struck down Shallum son of Jabesh in Samaria and put him to death.
 
-**15:15** And the rest of the acts of Shallum and his conspiracy that he formed, look, they are written in the book of the records of the days of the kings of Israel.
+**15:15** And the rest of the matters of Shallum and his conspiracy that he formed, look, they are written in the book of the records of the days of the kings of Israel.
 
 **15:16** Then Menahem also struck down Tirzah and everything in it and its borders from Tirzah, because they did not open to him; and he struck it down, and he ripped open the pregnant women.
 
@@ -45,7 +45,7 @@
 
 **15:20** And Menahem levied the silver upon Israel, upon everyone mighty in strength, to give to the king of the Assyrians, fifty shekels for each man; and the king of the Assyrians turned back and did not remain there in the land.
 
-**15:21** And the rest of the acts of Menahem and all that he did, look, are these not written in the book of the records of the days of the kings of Israel?
+**15:21** And the rest of the matters of Menahem and all that he did, look, are these not written in the book of the records of the days of the kings of Israel?
 
 **15:22** And Menahem slept with his fathers, and Pekahiah his son became king in his place.
 
@@ -55,7 +55,7 @@
 
 **15:25** And Pekah son of Remaliah, his officer, conspired against him and struck him down in Samaria in front of the king's house, with Argob and with him Arieh; and with him were fifty men from the four hundred; and he put him to death and became king in his place.
 
-**15:26** And the rest of the acts of Pekahiah and all that he did, look, they are written in the book of the records of the days of the kings of Israel.
+**15:26** And the rest of the matters of Pekahiah and all that he did, look, they are written in the book of the records of the days of the kings of Israel.
 
 **15:27** In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah reigned over Israel in Samaria twenty years.
 
@@ -65,7 +65,7 @@
 
 **15:30** And Hoshea son of Elah formed a conspiracy against Pekah son of Remaliah, and he struck him down and put him to death, and he became king in his place in the twentieth year of Jotham son of Ahaz.
 
-**15:31** And the rest of the acts of Pekah and all that he did, look, they are written in the book of the records of the days of the kings of Israel.
+**15:31** And the rest of the matters of Pekah and all that he did, look, they are written in the book of the records of the days of the kings of Israel.
 
 **15:32** In the second year of Pekah son of Remaliah, king of Israel, Jonathan son of Azariah king of Judah became king.
 
@@ -75,7 +75,7 @@
 
 **15:35** However, he did not remove the high places; the people were still sacrificing and burning incense on the high places. He himself built the upper gate of the house of the Lord.
 
-**15:36** And the rest of the acts of Jotham and all that he did, are these not written in the book of the records of the days of the kings of Judah?
+**15:36** And the rest of the matters of Jotham and all that he did, are these not written in the book of the records of the days of the kings of Judah?
 
 **15:37** In those days the Lord began to send out Rezin king of Syria and Pekah son of Remaliah.
 

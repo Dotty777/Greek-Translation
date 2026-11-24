@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:1** In the third year of Belshazzar king of the Chaldeans, Daniel saw a dream and the visions of his head upon his bed, and he wrote down his dream.
+**7:1** In the third year of Baltasar king of the Chaldeans, Daniel saw a dream and the visions of his head upon his bed, and he wrote down his dream.
 
 **7:2** I, Daniel, was watching, and look, the four winds of heaven were striking against the great sea.
 
@@ -31,7 +31,7 @@
 
 **7:13** I was watching in a vision of the night, and look, with the clouds of heaven one like a son of man was coming, and reached the Ancient of Days, and was brought to Him.
 
-**7:14** And to Him was given dominion and honor and kingdom, and all the peoples, tribes, and languages serve Him; His authority is an eternal authority that will not pass away, and His kingdom will not be destroyed.
+**7:14** And to him was given dominion and honor and kingdom, and all the peoples, tribes, and languages serve him; his authority is an eternal authority that will not pass away, and his kingdom will not be destroyed.
 
 **7:15** My spirit shuddered within my frame, I, Daniel, and the visions of my head were troubling me.
 
@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **7:1** — The Greek text dates this vision to the "third" year of Belshazzar "king of the Chaldeans," whereas the Aramaic tradition reads the "first" year of Belshazzar "king of Babylon" and includes "the sum of the matters" before he wrote the dream.
+- **7:1** — The Greek text dates this vision to the "third" year of Baltasar "king of the Chaldeans," whereas the Aramaic reads the "first" year of Belshazzar "king of Babylon" and adds a reference to "the sum of the matters."
 - **7:17** — The Greek identifies the four beasts as "four kingdoms" (rather than "four kings" as in the Aramaic) and includes the closing clause "which will be taken away" (αἳ ἀρθήσονται).
 - **7:20** — Unlike the Aramaic ("before which three fell"), the Greek omits the number "three" and uses the active participle ἐκτινάξαντος ("shook off") with the partitive genitive τῶν πρώτων ("some of the first ones").
 - **7:24** — Where the Aramaic reads "he will be different from the former ones," the Greek text has ὃς ὑπεροίσει κακοῖς πάντας τοὺς ἔμπροσθεν ("who will surpass in evils all those before him").

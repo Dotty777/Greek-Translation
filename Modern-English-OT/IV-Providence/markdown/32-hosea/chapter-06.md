@@ -11,7 +11,7 @@
 
 **6:3** and we will live before Him, and we will know. We will pursue knowing the Lord; like a ready dawn we will find Him, and He will come to us like early and late rain to the earth."
 
-**6:4** What shall I do to you, Ephraim? What shall I do to you, Judah? For your mercy is like a morning cloud and like early dew that goes away.
+**6:4** What shall I do to you, Ephraim? What shall I do to you, Judah? But your mercy is like a morning cloud and like early dew that goes away.
 
 **6:5** Therefore I cut down your prophets; I killed them by the word of My mouth, and My judgment will go forth as light.
 

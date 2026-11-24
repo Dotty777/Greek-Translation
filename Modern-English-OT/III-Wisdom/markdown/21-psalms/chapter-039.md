@@ -5,7 +5,7 @@
 
 ## Text
 
-**39:1** For the end; a psalm of David.
+**39:1** For the end; a psalm for David.
 
 **39:2** Waiting, I waited for the Lord, and He gave attention to me and heard my supplication;
 

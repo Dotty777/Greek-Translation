@@ -7,7 +7,7 @@
 
 **10:1** Ask rain from the Lord in season, early and late; the Lord has made manifestations, and He will give them winter rain, to each one vegetation in the field.
 
-**10:2** For those who utter oracles spoke troubles, and the diviners false visions, and the dreams were speaking false things; they comforted in vain. Therefore they were dried up like sheep and were afflicted, because there was no healing.
+**10:2** For those who utter oracles spoke troubles, and the diviners false visions, and they were speaking false dreams; they comforted in vain. Therefore they were dried up like sheep and were afflicted, because there was no healing.
 
 **10:3** "Against the shepherds My wrath was provoked, and I will call the lambs to account; and the Lord God Almighty will visit His flock, the house of Judah, and will station them as His stately horse in war.
 

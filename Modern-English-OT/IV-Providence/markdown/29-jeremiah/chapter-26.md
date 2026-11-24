@@ -53,7 +53,7 @@
 
 **26:25** Look, I am taking vengeance on Amon her son, upon Pharaoh and upon those who trust in him.
 
-**26:27** But you, do not fear, My servant Jacob, nor be terrified, Israel; for look, I am saving you from far away, and your offspring from their captivity; and Jacob will return and be at rest and sleep, and there will be no one troubling him.
+**26:27** But you, do not fear, My servant Jacob, nor be terrified, Israel; for look, I am saving you from far away, and your seed from their captivity; and Jacob will return and be at rest and sleep, and there will be no one troubling him.
 
 **26:28** Do not fear, My servant Jacob, says the Lord, for I am with you; the fearless and delicate one has been delivered up; for I will make a complete end among all to whom I drove you out there, but as for you, I will by no means cause you to fail; and I will discipline you with judgment, and I will not acquit you as innocent.
 

@@ -41,7 +41,7 @@
 
 **42:18** You deaf, hear, and you blind, look up to see!
 
-**42:19** And who is blind except My servants, and deaf except those who rule over them? And the slaves of God were blinded.
+**42:19** And who is blind except My servants, and deaf except those who rule over them? And the servants of God were blinded.
 
 **42:20** You saw many times, and did not take heed; your ears were open, and you did not hear.
 
@@ -49,7 +49,7 @@
 
 **42:22** And I saw, and the people became plundered and pillaged; for the snare is in the inner rooms everywhere, and in houses alike, where they hid them, they became plunder; and there was no one rescuing the spoil, and there was no one saying, "Give back!"
 
-**42:23** Who among you will give ear to these things? Listen closely to the things to come
+**42:23** Who among you will give ear to these things? Listen to the things to come
 
 **42:24** upon those to whom He gave Jacob and Israel for pillaging, to those who plundered him. Was it not God, against whom they sinned, and they were not willing to walk in His ways nor to listen to His law?
 
@@ -60,5 +60,5 @@
 - **42:1** — The Septuagint explicitly identifies the servant and chosen one as "Jacob" and "Israel," whereas the Hebrew Masoretic Text leaves them unnamed; accordingly, third-person pronouns in vv. 1-4 refer to Jacob/Israel.
 - **42:6** — The Greek source text ends v. 6 at "a covenant of a race" (εἰς διαθήκην γένους) without the phrase "a light to the nations" found in the Hebrew Masoretic Text and some Greek manuscripts.
 - **42:10** — The phrase ἡ ἀρχὴ αὐτοῦ literally means "its beginning" (referring to the new hymn) or "His dominion," where the Hebrew Masoretic Text reads "His praise."
-- **42:19** — The Greek differs substantially from the Hebrew Masoretic Text, speaking of "My servants" (plural), "those who rule over them" (rather than "My messenger"), and "the slaves of God were blinded."
+- **42:19** — The Greek differs substantially from the Hebrew Masoretic Text, speaking of "My servants" (plural), "those who rule over them" (rather than "My messenger"), and "the servants of God were blinded."
 - **42:24** — The Greek text begins with the dative relative pronoun οἷς ("upon those to whom"), connecting syntactically with "the things to come" in v. 23, whereas other Greek manuscripts and the Hebrew Masoretic Text read "Who gave...?"

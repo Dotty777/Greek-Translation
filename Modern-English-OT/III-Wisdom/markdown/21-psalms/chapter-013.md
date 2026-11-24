@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** For the end; a psalm of David. A fool said in his heart, "There is no God." They acted corruptly and became abominable in practices; there is no one doing goodness, there is not even one.
+**13:1** For the end; a psalm for David. A fool said in his heart, "There is no God." They acted corruptly and became abominable in practices; there is no one doing goodness, there is not even one.
 
 **13:2** The Lord looked down from heaven upon the sons of men, to see whether there is anyone who understands or seeks out God.
 

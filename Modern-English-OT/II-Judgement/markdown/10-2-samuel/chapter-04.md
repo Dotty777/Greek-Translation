@@ -19,7 +19,7 @@
 
 **4:7** and they went into the house, and Mephibosheth was sleeping on his bed in his bedroom; and they struck him and put him to death, and removed his head, and took his head and went away by the road toward the west all night.
 
-**4:8** And they brought the head of Mephibosheth to David in Hebron, and said to the king, "Here is the head of Mephibosheth son of Saul your enemy, who was seeking your life; and the Lord has given to the lord king vengeance on his enemies as on this day, from Saul your enemy and from his offspring."
+**4:8** And they brought the head of Mephibosheth to David in Hebron, and said to the king, "Here is the head of Mephibosheth son of Saul your enemy, who was seeking your life; and the Lord has given to the lord king vengeance on his enemies as on this day, from Saul your enemy and from his seed."
 
 **4:9** And David answered Rechab and Baanah his brother, sons of Rimmon the Beerothite, and said to them, "As the Lord lives, who redeemed my life from all distress, the one who reported to me that Saul was dead,
 

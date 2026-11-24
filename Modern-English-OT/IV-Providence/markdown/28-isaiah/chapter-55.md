@@ -36,4 +36,4 @@
 - **55:1** — The Greek has genitive οἴνου ("of wine") alongside accusative στέαρ ("fat," reading the Hebrew consonants ḥlb as "fat" rather than "milk").
 - **55:3** — The phrase τὰ ὅσια Δαυὶδ τὰ πιστά (literally "the faithful holy things of David") translates Hebrew "faithful mercies of David" and is quoted in this Septuagint form in Acts 13:34.
 - **55:11** — The Septuagint reads "and I will prosper your ways and My commands," differing from the Masoretic Text ("and it will succeed in the thing for which I sent it").
-- **55:13** — Greek στοιβή (thorny burnet/thornbush) and κόνυζα (fleabane) identify specific Mediterranean plants, and "the Lord" (Κύριος) is the grammatical subject of "will be" rather than "for the LORD" as in Hebrew.
+- **55:13** — Greek στοιβή (thorny burnet/thornbush) and κόνυζα (fleabane) identify specific Mediterranean plants, and "the Lord" (Κύριος) is the grammatical subject of "will be" rather than "for the Lord" as in Hebrew.

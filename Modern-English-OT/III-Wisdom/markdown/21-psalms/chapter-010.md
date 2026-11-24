@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** For the end. A psalm of David. In the Lord I have put my trust; how will you say to my soul, "Flee away to the mountains like a sparrow"?
+**10:1** For the end. A psalm for David. In the Lord I have put my trust; how will you say to my soul, "Flee away to the mountains like a sparrow"?
 
 **10:2** For look, the sinners have bent a bow; they have prepared arrows in a quiver to shoot down the upright in heart in moonless darkness.
 

@@ -11,7 +11,7 @@
 
 **34:3** and the wilderness, and the surrounding region of Jericho, the city of palm trees, as far as Zoar.
 
-**34:4** And the Lord said to Moses, "This is the land which I swore to Abraham and Isaac and Jacob, saying, 'To your offspring I will give it'; and I have shown it to your eyes, and you will not enter there."
+**34:4** And the Lord said to Moses, "This is the land which I swore to Abraham and Isaac and Jacob, saying, 'To your seed I will give it'; and I have shown it to your eyes, and you will not enter there."
 
 **34:5** And Moses, the servant of the Lord, died in the land of Moab by the word of the Lord.
 

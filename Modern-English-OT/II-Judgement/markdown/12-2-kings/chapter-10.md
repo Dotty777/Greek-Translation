@@ -71,7 +71,7 @@
 
 **10:33** from the Jordan toward the rising of the sun, all Gilead, of the Gadite and of Reuben and of Manasseh, from Aroer, which is on the bank of the torrent Arnon, both Gilead and Bashan.
 
-**10:34** Now the rest of the matters of Jehu, and all that he did, and all his might, and the conspiracies that he formed, are these not written in the book of the words of the days of the kings of Israel?
+**10:34** Now the rest of the matters of Jehu, and all that he did, and all his might, and the conspiracies that he formed, are these not written in the book of the records of the days of the kings of Israel?
 
 **10:35** And Jehu slept with his fathers, and they buried him in Samaria; and Jehoahaz his son reigned in his place.
 

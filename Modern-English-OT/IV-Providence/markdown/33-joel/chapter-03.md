@@ -7,7 +7,7 @@
 
 **3:1** And it will be after these things that I will pour out from My Spirit upon all flesh, and your sons and your daughters will prophesy, and your old men will dream dreams, and your young men will see visions;
 
-**3:2** and even upon My male slaves and upon the female slaves in those days I will pour out from My Spirit;
+**3:2** and upon My male servants and upon the female servants in those days I will pour out from My Spirit;
 
 **3:3** and I will give wonders in heaven, and upon the earth blood and fire and vapor of smoke;
 
@@ -17,6 +17,6 @@
 
 ## Translator Notes
 
-- **3:2** — The Greek includes "My" with "male slaves" (tous doulous mou) but not with "female slaves" (tas doulas); the Hebrew Masoretic Text omits "My" on both, whereas Acts 2:18 includes it on both.
+- **3:2** — The Greek includes "My" with "male servants" (tous doulous mou) but not with "female servants" (tas doulas); the Hebrew Masoretic Text omits "My" on both, whereas Acts 2:18 includes it on both.
 - **3:3** — The Greek renders the Hebrew "columns of smoke" as "vapor of smoke" (atmida kapnou).
 - **3:5** — The Greek reads euangelizomenoi ("those to whom good news is proclaimed," or in the middle voice "those proclaiming good news"), where the Hebrew Masoretic Text has "among the survivors."

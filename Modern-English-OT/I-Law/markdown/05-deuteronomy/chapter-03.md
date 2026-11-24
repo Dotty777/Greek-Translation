@@ -9,7 +9,7 @@
 
 **3:2** And the Lord said to me, "Do not fear him, because I have handed him and all his people and all his land over into your hands; and you will do to him just as you did to Sihon king of the Amorites, who lived in Heshbon."
 
-**3:3** And the Lord our God handed him over into our hands, even Og king of Bashan and all his people; and we struck him until we left no offspring of his.
+**3:3** And the Lord our God handed him over into our hands, even Og king of Bashan and all his people; and we struck him until we left no seed of his.
 
 **3:4** And we captured all his cities at that time; there was not a city that we did not take from them: sixty cities, all the adjoining region of Argob of King Og in Bashan,
 

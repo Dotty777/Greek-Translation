@@ -47,7 +47,7 @@
 
 **23:21** and you revisited the lawlessness of your youth, the things that you were doing in Egypt in your lodging, where the breasts of your youth were.
 
-**23:22** Therefore, Oholibah, this is what the Lord says: 'Look, I am rousing your lovers against you, from whom your soul turned away, and I will bring them against you from all around:
+**23:22** Therefore, Oholibah, thus says the Lord: 'Look, I am rousing your lovers against you, from whom your soul turned away, and I will bring them against you from all around:
 
 **23:23** the sons of Babylon and all the Chaldeans, Phakouk, Soue, and Hychoue, and all the sons of the Assyrians with them—choice young men, governors and commanders, all of them threefold and renowned, riding on horses.
 
@@ -67,13 +67,13 @@
 
 **23:31** You walked in the way of your sister, and I will put her cup into your hands.'
 
-**23:32** This is what the Lord says: 'You will drink the cup of your sister, the deep and wide and overflowing one, to bring drunkenness to completion,
+**23:32** Thus says the Lord: 'You will drink the cup of your sister, the deep and wide and overflowing one, to bring drunkenness to completion,
 
 **23:33** and you will be filled with exhaustion; and the cup of ruin is the cup of your sister, and you will drink it,
 
 **23:34** and I will turn away her festivals and her new moons; because I have spoken,' says the Lord.
 
-**23:35** Therefore, this is what the Lord says: 'Because you have forgotten Me and cast Me behind your body, you too, bear your impiety and your prostitution.'"
+**23:35** Therefore, thus says the Lord: 'Because you have forgotten Me and cast Me behind your body, you too, bear your impiety and your prostitution.'"
 
 **23:36** And the Lord said to me, "Son of man, will you not judge Oholah and Oholibah? And declare to them their lawless deeds,
 
@@ -95,7 +95,7 @@
 
 **23:45** And righteous men—they themselves will indeed punish them with the punishment of an adulteress and with the punishment of blood, because they are adulteresses, and blood is on their hands.
 
-**23:46** This is what the Lord, the Lord says: 'Bring up a crowd against them, and put turmoil and plunder among them,
+**23:46** Thus says the Lord, the Lord: 'Bring up a crowd against them, and put turmoil and plunder among them,
 
 **23:47** and stone them with the stones of crowds, and pierce them through with their swords; they will kill their sons and their daughters, and they will burn down their houses.
 

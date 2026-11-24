@@ -17,7 +17,7 @@
 
 **1:6** And there were among them, from the sons of Judah, Daniel, Hananiah, Mishael, and Azariah.
 
-**1:7** And the chief eunuch gave names to them: to Daniel, Belteshazzar; and to Hananiah, Shadrach; and to Mishael, Meshach; and to Azariah, Abednego.
+**1:7** And the chief eunuch gave names to them: to Daniel, Baltasar; and to Hananiah, Shadrach; and to Mishael, Meshach; and to Azariah, Abednego.
 
 **1:8** And Daniel set it upon his heart that he would not be defiled by the king's table and by the wine of his drinking, and he entreated the chief eunuch that he would not be defiled.
 
@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **1:2** — The Greek uses the genitive "of the house of his god" (οἴκου τοῦ θεοῦ αὐτοῦ) without a preposition after "the land of Shinar," linking the temple with the land rather than marking a second destination as in the Hebrew MT ("to the house of his god").
-- **1:3** — Preserves trailing comma continuing into v. 4.
+- **1:3** — φορθομμείν transliterates the Hebrew partemim ("nobles," a Persian loanword); it is rendered by its meaning.
 - **1:5** — Here and in verses 8, 13, and 15, the Greek consistently reads "the king's table" (τράπεζα) where the Hebrew MT has "the king's choice food" (pat-bag); verses 13 and 15 literally read "eat the king's table."
 - **1:11** — The Greek treats the Hebrew title hammelsar ("the steward" or "the overseer") as the personal name "Amelsad" (Ἀμελσάδ; spelled Ἁμελσάδ in v. 16).
 - **1:12** — The Greek renders the Hebrew term for vegetable or pulse fare literally as "seeds" (σπερμάτων; also σπέρματα in v. 16), denoting plant foods grown from seed.

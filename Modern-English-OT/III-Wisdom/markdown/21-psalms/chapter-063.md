@@ -5,7 +5,7 @@
 
 ## Text
 
-**63:1** For the end; a psalm of David.
+**63:1** For the end; a psalm for David.
 
 **63:2** Hear, God, my prayer when I plead to You; from fear of an enemy rescue my soul.
 

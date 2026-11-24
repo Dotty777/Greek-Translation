@@ -25,7 +25,7 @@
 
 **7:10** And Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, "Amos is forming conspiracies against you in the midst of the house of Israel; the land will not be able to bear all his words.
 
-**7:11** For this is what Amos says: 'By the sword Jeroboam will die, and Israel will be led captive from its land.'"
+**7:11** For thus says Amos: 'By the sword Jeroboam will die, and Israel will be led captive from its land.'"
 
 **7:12** And Amaziah said to Amos, "Seer, go, depart into the land of Judah, and live out your life there, and there you will prophesy;
 
@@ -37,11 +37,11 @@
 
 **7:16** And now, hear the word of the Lord: You say, 'Do not prophesy against Israel, and you must never stir up a crowd against the house of Jacob.'
 
-**7:17** Therefore this is what the Lord says: 'Your wife will become a prostitute in the city, and your sons and your daughters will fall by the sword, and your land will be measured out with a cord, and you yourself will die in an unclean land, and Israel will be led captive from its land.'" Thus the Lord, the Lord showed me,
+**7:17** Therefore thus says the Lord: 'Your wife will become a prostitute in the city, and your sons and your daughters will fall by the sword, and your land will be measured out with a cord, and you yourself will die in an unclean land, and Israel will be led captive from its land.'" Thus the Lord, the Lord showed me,
 
 ## Translator Notes
 
-- **7:1** — The Greek reads 'Gog the King' for the leading wingless locust, diverging sharply from the Hebrew Masoretic Text's 'the king's mowings' and introducing an eschatological figure.
+- **7:1** — The Greek reads 'Gog the King' for the leading wingless locust, diverging sharply from the Hebrew Masoretic Text's 'the king's mowings.'
 - **7:3** — Here (and again in 7:6) the Greek has an imperative plea from Amos, 'relent, Lord, concerning this,' whereas the Hebrew Masoretic Text reads a narrative statement that the Lord relented.
 - **7:7** — Greek 'adamas' ('adamant', the hardest metal or stone) corresponds to the rare Hebrew term usually rendered 'plumb line' or 'tin.'
 - **7:9** — The Greek translates the Hebrew name Isaac literally as 'laughter' ('altars of laughter') and renders 'sanctuaries' as 'rites' ('teletai').

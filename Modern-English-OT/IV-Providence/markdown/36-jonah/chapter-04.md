@@ -7,9 +7,9 @@
 
 **4:1** And Jonah was grieved with great grief, and he was agitated.
 
-**4:2** And he prayed to the Lord and said, "Oh, Lord, were not these my words while I was still in my land? For this reason I acted beforehand to flee to Tarshish, because I knew that You are merciful and compassionate, slow to anger and abundant in mercy, and relenting over calamities.
+**4:2** And he prayed to the Lord and said, "Oh, Lord, were not these my words while I was still in my land? For this reason I acted beforehand to flee to Tarshish, because I knew that You are merciful and compassionate, slow to anger and abundant in mercy, and relenting over evils.
 
-**4:3** And now, Sovereign Lord, take my life from me, because it is better for me to die than for me to live."
+**4:3** And now, Master Lord, take my life from me, because it is better for me to die than for me to live."
 
 **4:4** And the Lord said to Jonah, "Are you deeply grieved?"
 
@@ -25,7 +25,7 @@
 
 **4:10** And the Lord said, "You had pity on the gourd, for which you did not toil and which you did not nurture, which came into being overnight and overnight perished.
 
-**4:11** And shall I not have pity on Nineveh, the great city, in which more than one hundred twenty thousand people dwell, who do not know their right hand or their left hand, and many animals?"
+**4:11** But shall I not have pity on Nineveh, the great city, in which more than one hundred twenty thousand people dwell, who do not know their right hand or their left hand, and many animals?"
 
 ## Translator Notes
 

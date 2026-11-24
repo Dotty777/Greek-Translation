@@ -11,11 +11,11 @@
 
 **36:3** therefore prophesy and say, "This is what the Lord, the Lord says: Because you have been dishonored and hated by those around you, so that you became a possession for the remaining nations, and you came up as talk on the tongue and as a reproach to the nations,
 
-**36:4** therefore, mountains of Israel, hear the word of the Lord: This is what the Lord says to the mountains and to the hills and to the ravines and to the torrents and to the desolated and ruined places and to the forsaken cities, and they have become a plunder and a trampling for the remaining nations all around:
+**36:4** therefore, mountains of Israel, hear the word of the Lord: Thus says the Lord to the mountains and to the hills and to the ravines and to the torrents and to the desolated and ruined places and to the forsaken cities, and they have become a plunder and a trampling for the remaining nations all around:
 
 **36:5** therefore, this is what the Lord, the Lord says: Surely in the fire of My wrath I have spoken against the rest of the nations and against all Idumea, because they gave My land to themselves for a possession with gladness, dishonoring souls so as to lay waste in plunder."
 
-**36:6** Therefore prophesy concerning the land of Israel, and say to the mountains and to the hills and to the ravines and to the valleys, "This is what the Lord says: Look, I have spoken in My jealousy and in My wrath, because you have borne the reproaches of nations.
+**36:6** Therefore prophesy concerning the land of Israel, and say to the mountains and to the hills and to the ravines and to the valleys, "Thus says the Lord: Look, I have spoken in My jealousy and in My wrath, because you have borne the reproaches of nations.
 
 **36:7** Therefore I will lift up My hand against the nations that are all around you; they themselves will receive their dishonor.
 
@@ -29,7 +29,7 @@
 
 **36:12** And I will bring forth people upon you, My people Israel, and they will inherit you, and you will be a possession for them; and you will by no means be bereaved of them any longer."
 
-**36:13** This is what the Lord, the Lord says: "Because they said to you, 'You are one who devours people, and you have become bereaved by your nation,'
+**36:13** Thus says the Lord, the Lord: "Because they said to you, 'You are one who devours people, and you have become bereaved by your nation,'
 
 **36:14** therefore you will no longer eat people, and you will no longer bereave your nation," says the Lord, the Lord.
 
@@ -47,7 +47,7 @@
 
 **36:21** And I spared them for the sake of My holy name, which the house of Israel profaned among the nations where they went.
 
-**36:22** Therefore say to the house of Israel, 'This is what the Lord says: It is not for you that I am acting, house of Israel, but rather for the sake of My holy name, which you profaned among the nations where you went.
+**36:22** Therefore say to the house of Israel, 'Thus says the Lord: It is not for you that I am acting, house of Israel, but rather for the sake of My holy name, which you profaned among the nations where you went.
 
 **36:23** And I will sanctify My great name that was profaned among the nations, which you profaned in their midst; and the nations will know that I am the Lord, when I am sanctified in you before their eyes.
 
@@ -69,7 +69,7 @@
 
 **36:32** It is not because of you that I am acting, says the Lord, the Lord; it is known to you. Be ashamed and humiliated because of your ways, house of Israel.'"
 
-**36:33** This is what Adonai the Lord says: "On the day when I cleanse you from all your lawless deeds, I will also settle the cities, and desolate places will be built;
+**36:33** Thus says Adonai the Lord: "On the day when I cleanse you from all your lawless deeds, I will also settle the cities, and desolate places will be built;
 
 **36:34** and the ruined land will be worked, whereas it had become ruined before the eyes of everyone passing by.
 
@@ -77,7 +77,7 @@
 
 **36:36** And the nations, as many as are left around you, will know that I, the Lord, have built the torn-down places and planted the ruined places; I, the Lord, have spoken, and I will do it."
 
-**36:37** This is what Adonai the Lord says: "Yet for this I will be sought by the house of Israel, to do it for them: I will multiply them with people like sheep,
+**36:37** Thus says Adonai the Lord: "Yet for this I will be sought by the house of Israel, to do it for them: I will multiply them with people like sheep,
 
 **36:38** like holy sheep, like the sheep of Jerusalem at her feasts; so the desolate cities will be full of flocks of people, and they will know that I am the Lord."
 

@@ -9,13 +9,13 @@
 
 **44:2** And the Lord said to me, "This gate shall be shut; it shall not be opened, and no one shall pass through it, because the Lord, the God of Israel, will enter through it, and it shall be shut.
 
-**44:3** For the ruler, he shall sit in it to eat bread before the Lord; he shall enter by the way of the ailam of the gate, and by its way he shall go out."
+**44:3** For the ruler, he shall sit in it to eat bread before the Lord; he shall enter by the way of the porch of the gate, and by its way he shall go out."
 
 **44:4** And he brought me in by the way of the gate toward the north, in front of the house; and I looked, and look, the house of the Lord was full of glory, and I fell on my face.
 
 **44:5** And the Lord said to me, "Son of man, set it in your heart, and see with your eyes, and hear with your ears all that I speak with you concerning all the ordinances of the house of the Lord and concerning all its statutes; and you shall set your heart on the entrance of the house, according to all its exits in all the holy places.
 
-**44:6** And you shall say to the rebellious house, to the house of Israel, 'Thus says the Lord God: Let it be enough for you from all your lawless deeds, house of Israel,
+**44:6** And you shall say to the provoking house, to the house of Israel, 'Thus says the Lord God: Let it be enough for you from all your lawless deeds, house of Israel,
 
 **44:7** in your bringing in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in My sanctuary; and they were profaning it when you presented loaves, flesh, and blood, and you were transgressing My covenant in all your lawless deeds,
 
@@ -47,7 +47,7 @@
 
 **44:21** And no priest shall drink wine when they enter into the inner court.
 
-**44:22** And they shall not take for themselves as a wife a widow or a divorced woman, but only a virgin from the offspring of Israel; yet a widow, if she is from a priest, they may take.
+**44:22** And they shall not take for themselves as a wife a widow or a divorced woman, but only a virgin from the seed of Israel; yet a widow, if she is from a priest, they may take.
 
 **44:23** And they shall teach My people the difference between the holy and the profane, and they shall make known to them the difference between the clean and the unclean.
 
@@ -70,7 +70,7 @@
 ## Translator Notes
 
 - **44:2** — The Greek uses the future tense "will enter" (εἰσελεύσεται), whereas the Hebrew Masoretic Text has the past tense "has entered."
-- **44:3** — "Ailam" (αἰλάμ) is a Greek transliteration of the Hebrew architectural term for the porch or vestibule of the gate.
+- **44:3** — "Porch" renders αἰλάμ (ailam), a Greek transliteration of the Hebrew architectural term for the porch of the gate.
 - **44:14** — The Greek uses the third-person plural "they shall bring them down" (κατάξουσιν), whereas the Masoretic Text has the first-person singular "I will appoint them."
 - **44:20** — The Greek reads "strip bare their hair" and "surely cover their heads" (καλύπτοντες καλύψουσιν), differing from the Masoretic Text's command to trim the hair; similarly in v. 18 the Greek reads "by force" (βίᾳ) where the Hebrew refers to sweat.
 - **44:25** — "The soul of a person" (ψυχὴν ἀνθρώπου) is a Septuagint idiom denoting a human corpse, corresponding to "a dead person" in the Hebrew.

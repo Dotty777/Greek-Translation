@@ -45,7 +45,7 @@
 
 **31:20** For I will bring them into the good land that I swore to their fathers, to give them a land flowing with milk and honey; and they will eat and, having been filled, they will be satiated, and they will turn to foreign gods and provoke Me and break My covenant.
 
-**31:21** And this song will stand in opposition, testifying face to face; for it will by no means be forgotten from the mouth of their offspring. For I know their wickedness, all that they are doing here today before I bring them into the good land that I swore to their fathers."
+**31:21** And this song will stand in opposition, testifying face to face; for it will by no means be forgotten from the mouth of their seed. For I know their wickedness, all that they are doing here today before I bring them into the good land that I swore to their fathers."
 
 **31:22** And Moses wrote this song on that day, and taught it to the sons of Israel.
 

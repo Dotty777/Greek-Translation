@@ -9,7 +9,7 @@
 
 **1:2** The Lord is a jealous God, taking vengeance with fury; the Lord takes vengeance on His adversaries, and He Himself removes His enemies.
 
-**1:3** The Lord is slow to anger, and great is His strength, and the Lord will not acquit the innocent; His way is in complete destruction and in a tempest, and clouds are the dust of His feet,
+**1:3** The Lord is slow to anger, and great is His strength, and the Lord will not acquit as innocent; His way is in complete destruction and in a tempest, and clouds are the dust of His feet,
 
 **1:4** threatening the sea and drying it up, and making all the rivers desolate. Bashan and Carmel diminished, and the blossoms of Lebanon failed.
 
@@ -27,7 +27,7 @@
 
 **1:11** Out of you will come forth a scheme against the Lord, devising evil, contrary things.
 
-**1:12** This is what the Lord, who rules over many waters, says: "Even so they will be separated, and the report of you will no longer be heard.
+**1:12** Thus says the Lord, who rules over many waters: "Even so they will be separated, and the report of you will no longer be heard.
 
 **1:13** And now I will shatter his rod from off you, and I will tear the bonds apart."
 
@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **1:3** — The Greek literally reads "will not acquit the innocent," reflecting the Hebrew emphatic construction ("will by no means acquit") read with the adjective "innocent." Likewise, "in complete destruction" translates Greek συντελείᾳ, connecting Hebrew suphah ("whirlwind") with the root suph ("come to an end").
+- **1:3** — Greek ἀθῷον οὐκ ἀθῳώσει (literally "as innocent He will not acquit") reproduces the Hebrew emphatic construction ("will by no means acquit"). Likewise, "in complete destruction" translates Greek συντελείᾳ, connecting Hebrew suphah ("whirlwind") with the root suph ("come to an end").
 - **1:6** — The Greek reads "melts dominions" (τήκει ἀρχάς), whereas the Hebrew Masoretic Text reads "is poured out like fire."
 - **1:7** — The Greek reads "to those who wait for Him" and "those who revere Him," where the Hebrew Masoretic Text has "a stronghold" and "those who take refuge in Him."
 - **1:12** — The Greek "who rules over many waters" (κατάρχων ὑδάτων πολλῶν) differs from the Hebrew Masoretic Text ("Though they are at full strength and likewise many") through a different division and vocalization of the Hebrew consonants.

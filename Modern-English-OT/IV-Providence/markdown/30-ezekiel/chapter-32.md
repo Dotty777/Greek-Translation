@@ -27,7 +27,7 @@
 
 **32:11** For thus says the Lord: The sword of the king of Babylon shall come upon you
 
-**32:12** with swords of giants, and I will cast down your strength; all of them are scourges from the nations, and they shall destroy the arrogance of Egypt, and all her strength shall be shattered.
+**32:12** with swords of giants, and I will cast down your strength; all of them are pestilent ones from the nations, and they shall destroy the arrogance of Egypt, and all her strength shall be shattered.
 
 **32:13** And I will destroy all her livestock from much water, and the foot of man shall no longer trouble it, and the tread of livestock shall not trample it.
 

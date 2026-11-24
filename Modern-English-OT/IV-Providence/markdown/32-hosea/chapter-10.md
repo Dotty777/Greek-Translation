@@ -31,7 +31,7 @@
 
 **10:13** Why did you pass over ungodliness in silence, and harvest its injustices, and eat false fruit? Because you hoped in your sins, in the abundance of your strength,
 
-**10:14** destruction will indeed rise up among your people, and all your fortified places will be gone. Just as the ruler Shalman from the house of Jeroboam, in days of war they dashed mother to the ground upon children,
+**10:14** and destruction will rise up among your people, and all your fortified places will be gone. Just as the ruler Shalman from the house of Jeroboam, in days of war they dashed mother to the ground upon children,
 
 **10:15** so I will do to you, house of Israel, because of the injustice of your evils.
 

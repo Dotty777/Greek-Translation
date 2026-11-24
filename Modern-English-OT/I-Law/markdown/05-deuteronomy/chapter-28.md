@@ -95,7 +95,7 @@
 
 **28:45** And all these curses will come upon you and pursue you and overtake you, until He exterminates you and until He destroys you, because you did not heed the voice of the Lord your God, to keep His commandments and the statutes that He commanded you.
 
-**28:46** And there will be signs and wonders in you, in your descendants forever,
+**28:46** And there will be signs and wonders in you, in your seed forever,
 
 **28:47** because you did not serve the Lord your God with gladness and a good mind on account of the abundance of all things.
 
@@ -121,7 +121,7 @@
 
 **28:58** If you do not listen to do all the words of this law that are written in this book, to fear this honored, wondrous name, the Lord your God,
 
-**28:59** then the Lord will make extraordinary your plagues and the plagues of your descendants, great and wondrous plagues, and malignant and lasting diseases.
+**28:59** then the Lord will make extraordinary your plagues and the plagues of your seed, great and wondrous plagues, and malignant and lasting diseases.
 
 **28:60** And He will bring back all the malignant suffering of Egypt, which you dreaded before them, and they will cling to you.
 

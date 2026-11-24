@@ -7,7 +7,7 @@
 
 **50:1** Thus says the Lord: "What is the certificate of your mother's divorce, with which I sent her away? Or to what debtor did I sell you? Look, because of your sins you were sold, and because of your lawless deeds I sent your mother away.
 
-**50:2** Why is it that I came, and there was no one? I called, and there was no one who heeded? Is My hand not strong enough to redeem? Or am I not strong enough to rescue? Look, by My rebuke I will lay waste the sea, and I will make rivers desolate, and their fish will dry up because there is no water, and they will die in thirst.
+**50:2** Why is it that I came, and there was no one? I called, and there was no one who heeded? Is My hand not strong enough to deliver? Or am I not strong enough to rescue? Look, by My rebuke I will lay waste the sea, and I will make rivers desolate, and their fish will dry up because there is no water, and they will die in thirst.
 
 **50:3** I will clothe heaven with darkness, and I will make its covering like sackcloth."
 

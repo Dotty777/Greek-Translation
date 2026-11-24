@@ -19,7 +19,7 @@
 
 **35:7** And I will make Mount Seir a desolation and a waste, and I will destroy from it people and livestock,
 
-**35:8** and I will fill hills and your ravines with those struck down, and in all your plains those fatally wounded by the sword will fall in you.
+**35:8** and I will fill hills and your ravines with the wounded, and in all your plains those wounded by the sword will fall in you.
 
 **35:9** I will make you an everlasting desolation, and your cities will never again be inhabited, and you will know that I am the Lord.
 

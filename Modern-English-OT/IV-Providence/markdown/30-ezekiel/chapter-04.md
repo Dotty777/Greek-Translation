@@ -29,7 +29,7 @@
 
 **4:12** And you shall eat them as a barley ash-cake; you shall bake them in dung of human excrement before their eyes,
 
-**4:13** and you shall say, 'This is what the Lord God of Israel says: In this way the sons of Israel will eat unclean things among the nations.'"
+**4:13** and you shall say, 'Thus says the Lord God of Israel: In this way the sons of Israel will eat unclean things among the nations.'"
 
 **4:14** And I said, "By no means, Lord God of Israel! Surely my soul has not been defiled with uncleanness, and I have not eaten anything torn by wild beasts or anything that died of itself from my birth until now, nor has any stale meat entered my mouth."
 

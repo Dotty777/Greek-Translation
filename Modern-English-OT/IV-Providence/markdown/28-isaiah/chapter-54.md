@@ -42,7 +42,7 @@
 ## Translator Notes
 
 - **54:9** — The Greek reads "From the water in the time of Noah" (ἀπὸ τοῦ ὕδατος) rather than "Like the waters of Noah," and inserts the dative τῇ γῇ ("to the earth") before the oath about the mountains (54:9-10).
-- **54:10** — The Greek closes with εἶπεν γάρ Ἵλεώς σοι, Κύριε ("for he said, 'Merciful to you, Lord'"), with vocative Κύριε (contrast nominative Κύριος in some witnesses) rendering Hebrew "says the LORD who has compassion on you."
+- **54:10** — The Greek closes with εἶπεν γάρ Ἵλεώς σοι, Κύριε ("for he said, 'Merciful to you, Lord'"), with vocative Κύριε (contrast nominative Κύριος in some witnesses) rendering Hebrew "says the Lord who has compassion on you."
 - **54:15** — Greek προσήλυτοι προσελεύσονταί ("proselytes will come") introduces a wordplay on proselytes joining Zion through God (δι᾽ ἐμοῦ), differing substantially from the Hebrew warning against attackers.
 - **54:16** — The Greek makes Zion itself the object of ἔκτισά σε ("I created you") rather than the smith, and negates the closing purpose clause ("not for destruction, to ruin").
 - **54:17** — In "those guilty against you will be in it" (οἱ δὲ ἔνοχοί σου ἔσονται ἐν αὐτῇ), the feminine pronoun αὐτῇ ("it") refers back to κρίσιν ("judgment").

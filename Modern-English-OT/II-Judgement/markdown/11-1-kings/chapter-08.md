@@ -11,7 +11,7 @@
 
 **8:3** And the priests lifted up the ark
 
-**8:4** and the tent of the testimony and the holy vessels that were in the tent of the testimony.
+**8:4** and the tent of testimony and the holy vessels that were in the tent of testimony.
 
 **8:5** And the king and all Israel were before the ark, sacrificing sheep and oxen without number.
 

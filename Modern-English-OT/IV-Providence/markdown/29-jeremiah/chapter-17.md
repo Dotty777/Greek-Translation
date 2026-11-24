@@ -21,7 +21,7 @@
 
 **17:12** An exalted throne of glory is our sanctuary.
 
-**17:13** Endurance of Israel, Lord, let all who forsake You be put to shame; let those who have departed be written on the earth, because they have forsaken the spring of life, the Lord.
+**17:13** Hope of Israel, Lord, let all who forsake You be put to shame; let those who have departed be written on the earth, because they have forsaken the spring of life, the Lord.
 
 **17:14** Heal me, Lord, and I will be healed; save me, and I will be saved, because You are my boast.
 
@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **17:5** — Verses 17:1-4 are absent from the Old Greek (Septuagint) text of Jeremiah, which begins the chapter here without the Hebrew MT's "Thus says the LORD."
+- **17:5** — Verses 17:1-4 are absent from the Old Greek (Septuagint) text of Jeremiah, which begins the chapter here without the Hebrew MT's "Thus says the Lord."
 - **17:9** — Greek reads "deep" (batheia) rather than "deceitful," and translates the Hebrew word for "incurable" as anthropos ("a man"), followed by the masculine pronoun "him."
 - **17:16** — As in 17:9, Greek renders the Hebrew term for "woeful/incurable" as anthropou ("the day of man"), and reads "I did not grow weary following behind You" rather than the Hebrew MT's shepherd imagery.
 - **17:26** — Greek transliterates Hebrew minhah ("grain offering") as manna and includes an additional offering term (thymiamata, "incenses").

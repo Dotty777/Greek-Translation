@@ -54,5 +54,5 @@
 - **11:6** — Greek reads "Read aloud" and "outside Jerusalem" where MT has "Proclaim" and "in the streets of Jerusalem," omits MT 11:7, and retains only the brief clause in 11:8.
 - **11:13** — Greek places the feminine article before Baal (also in 11:17), a Septuagint convention reflecting the oral substitution of the feminine noun "shame" (Hebrew bosheth) for the deity's name.
 - **11:16** — Greek reads "at the sound of its circumcision," deriving the Hebrew word for "tumult" from the root meaning "to circumcise," and adds "great is the affliction upon you."
-- **11:19** — Greek reads "let us cast wood into his bread," taking the Hebrew term for "its fruit" as "his bread," a wording widely cited in early Christian interpretation.
+- **11:19** — Greek reads "let us cast wood into his bread" where the Hebrew MT reads "let us destroy the tree with its fruit" (literally "its bread").
 - **11:21** — Greek reads first-person "my life" (in Jeremiah's voice) where MT has second-person "your life," and omits the renewed messenger formula at the opening of MT 11:22.

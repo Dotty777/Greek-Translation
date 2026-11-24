@@ -33,7 +33,7 @@
 
 **2:14** Yet you said, 'For what reason?' Because the Lord testified between you and the wife of your youth, whom you abandoned; and she is your companion and the wife of your covenant.
 
-**2:15** And did He not make what is good, and a remnant of His Spirit? And you said, 'What else but offspring does God seek?' So guard yourselves in your spirit, and do not abandon the wife of your youth.
+**2:15** And did He not make what is good, and a remnant of His Spirit? And you said, 'What else but seed does God seek?' So guard yourselves in your spirit, and do not abandon the wife of your youth.
 
 **2:16** But if you hate her and send her away," says the Lord God of Israel, "then ungodliness will cover over your thoughts," says the Lord Almighty. "So guard yourselves in your spirit, and by no means abandon her,
 
@@ -44,4 +44,4 @@
 - **2:3** — Instead of Hebrew 'rebuke your offspring,' the Greek reads 'separating the shoulder from you' and uses enystron ('offal,' specifically the fourth stomach or maw of a sacrificial animal), echoing the priestly portions in Deuteronomy 18:3. The closing verb is also first-person singular ('I will take you to the same place').
 - **2:11** — The Greek opens with a passive verb ('Judah has been abandoned,' vs. Hebrew 'Judah has been faithless') and reads 'foreign gods' without the Hebrew phrase 'daughter of a foreign god.' In 2:12, 'until he is even humbled' likewise diverges from the Hebrew idiom 'awake and answering.'
 - **2:15** — A notoriously difficult verse; the Greek text translated here reads 'make what is good' (kalon epoiesen, where some Greek witnesses read 'another' and the Hebrew has 'one') and introduces the following question with 'And you said.'
-- **2:16** — The Greek frames the opening as a conditional ('if you hate her and send her away,' contrasting with the common translation of the Hebrew as 'I hate divorce') and reads 'ungodliness will cover over your thoughts' instead of Hebrew 'violence on his garment.'
+- **2:16** — The Greek frames the opening as a conditional ('if you hate her and send her away'), where the Hebrew has a difficult clause about hating and sending away, and reads 'ungodliness will cover over your thoughts' instead of Hebrew 'violence on his garment.'

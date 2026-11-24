@@ -41,7 +41,7 @@
 
 **18:18** and the flesh shall be yours; and the breast of the laid-on offering, and as with the right shoulder, it shall be yours.
 
-**18:19** Every contribution of the holy things, whatever the sons of Israel set aside for the Lord, I have given to you and to your sons and to your daughters with you, as an eternal statute; it is a covenant of eternal salt before the Lord for you and for your offspring after you."
+**18:19** Every contribution of the holy things, whatever the sons of Israel set aside for the Lord, I have given to you and to your sons and to your daughters with you, as an eternal statute; it is a covenant of eternal salt before the Lord for you and for your seed after you."
 
 **18:20** And the Lord spoke to Aaron, "In their land you shall not inherit, and there shall be no portion for you among them, because I am your portion and your inheritance in the midst of the sons of Israel.
 

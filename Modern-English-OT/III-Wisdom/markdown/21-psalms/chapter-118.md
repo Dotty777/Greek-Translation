@@ -91,7 +91,7 @@
 
 **118:43** And do not utterly take away a word of truth from my mouth, because I have set my hope on Your judgments.
 
-**118:44** And I will keep Your law continually, forever and to the age of the age.
+**118:44** And I will keep Your law continually, forever, and forever and ever.
 
 **118:45** And I was walking in a wide place, because I have sought out Your commandments.
 

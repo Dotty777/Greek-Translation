@@ -15,21 +15,21 @@
 
 **1:5** and I will shatter the bars of Damascus, and I will utterly destroy the inhabitants from the plain of On, and I will cut down a tribe from the men of Haran, and the chosen people of Syria will be taken captive," says the Lord.
 
-**1:6** This is what the Lord says: "For the three impieties of Gaza, and for the four, I will not turn away from them, because they took captive the captives of Solomon, to shut them up into Idumea;
+**1:6** Thus says the Lord: "For the three impieties of Gaza, and for the four, I will not turn away from them, because they took captive the captives of Solomon, to shut them up into Idumea;
 
 **1:7** and I will send out fire upon the walls of Gaza, and it will devour its foundations.
 
 **1:8** And I will utterly destroy the inhabitants from Ashdod, and a tribe will be removed from Ashkelon, and I will bring My hand upon Ekron, and the rest of the foreigners will perish," says the Lord.
 
-**1:9** This is what the Lord says: "For the three impieties of Tyre, and for the four, I will not turn away from it, because they shut up the captives of Solomon into Idumea, and did not remember a covenant of brothers;
+**1:9** Thus says the Lord: "For the three impieties of Tyre, and for the four, I will not turn away from it, because they shut up the captives of Solomon into Idumea, and did not remember a covenant of brothers;
 
 **1:10** and I will send out fire upon the walls of Tyre, and it will devour its foundations."
 
-**1:11** This is what the Lord says: "For the three impieties of Idumea, and for the four, I will not turn away from them, because they pursued his brother with a sword, and he ravaged a mother upon the earth, and he seized his horror for a testimony, and he kept his onslaught for victory;
+**1:11** Thus says the Lord: "For the three impieties of Idumea, and for the four, I will not turn away from them, because they pursued his brother with a sword, and he ravaged a mother upon the earth, and he seized his horror for a testimony, and he kept his onslaught for victory;
 
 **1:12** and I will send out fire into Teman, and it will devour the foundations of its walls."
 
-**1:13** This is what the Lord says: "For the three impieties of the sons of Ammon, and for the four, I will not turn away from him, because they ripped open the pregnant women of the Gileadites, so that they might enlarge their own borders;
+**1:13** Thus says the Lord: "For the three impieties of the sons of Ammon, and for the four, I will not turn away from him, because they ripped open the pregnant women of the Gileadites, so that they might enlarge their own borders;
 
 **1:14** and I will kindle fire upon the walls of Rabbah, and it will devour its foundations with a shout in the day of war, and it will be shaken in the days of its end;
 

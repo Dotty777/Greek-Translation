@@ -7,9 +7,9 @@
 
 **12:1** And the word of the Lord came to me, saying,
 
-**12:2** "Son of man, you dwell in the midst of their injustices, those who have eyes to see and do not see, and have ears to hear and do not hear, because it is a rebellious house.
+**12:2** "Son of man, you dwell in the midst of their injustices, those who have eyes to see and do not see, and have ears to hear and do not hear, because it is a provoking house.
 
-**12:3** And you, son of man, make for yourself baggage for captivity by day before them, and you will be taken captive from your place to another place before them, so that they may know that it is a rebellious house.
+**12:3** And you, son of man, make for yourself baggage for captivity by day before them, and you will be taken captive from your place to another place before them, so that they may know that it is a provoking house.
 
 **12:4** And you will bring out your baggage, baggage for captivity, by day before their eyes; and you yourself will go out in the evening as a captive goes out
 
@@ -21,7 +21,7 @@
 
 **12:8** And the word of the Lord came to me, saying,
 
-**12:9** "Son of man, did not the house of Israel, the rebellious house, say to you, 'What are you doing?'
+**12:9** "Son of man, did not the house of Israel, the provoking house, say to you, 'What are you doing?'
 
 **12:10** Say to them, 'Thus says the Lord, the Lord: The prince and the leader in Jerusalem, and to all the house of Israel who are in their midst.'
 
@@ -53,11 +53,11 @@
 
 **12:24** For there will no longer be any false vision or one who divines flattering things in the midst of the sons of Israel.
 
-**12:25** Because I, the Lord, will speak My words; I will speak and I will do it, and I will no longer delay; for in your days, rebellious house, I will speak a word and I will do it, says the Lord.'"
+**12:25** Because I, the Lord, will speak My words; I will speak and I will do it, and I will no longer delay; for in your days, provoking house, I will speak a word and I will do it, says the Lord.'"
 
 **12:26** And the word of the Lord came to me, saying,
 
-**12:27** "Son of man, look, the rebellious house of Israel keep saying, 'The vision that this man sees is for many days, and for distant times this man prophesies.'
+**12:27** "Son of man, look, the provoking house of Israel keep saying, 'The vision that this man sees is for many days, and for distant times this man prophesies.'
 
 **12:28** Therefore say to them, 'Thus says the Lord: None of My words that I speak will be delayed any longer; I will speak and I will do it, says the Lord.'"
 

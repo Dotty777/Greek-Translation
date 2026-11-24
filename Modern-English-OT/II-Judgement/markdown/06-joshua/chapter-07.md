@@ -29,7 +29,7 @@
 
 **7:12** The sons of Israel will by no means be able to stand firm before their enemies; they will turn their necks before their enemies, because they have become a devoted thing; I will no longer continue to be with you unless you remove the devoted thing from among yourselves.
 
-**7:13** Rise up, consecrate the people, and tell them to consecrate themselves for tomorrow. This is what the Lord God of Israel says: 'The devoted thing is among you; you will not be able to stand up before your enemies until you remove the devoted thing from among you.
+**7:13** Rise up, consecrate the people, and tell them to consecrate themselves for tomorrow. Thus says the Lord God of Israel: 'The devoted thing is among you; you will not be able to stand up before your enemies until you remove the devoted thing from among you.
 
 **7:14** And you shall all be gathered in the morning by tribes, and it shall be that the tribe which the Lord points out, you shall bring forward by clans; and the clan which the Lord points out, you shall bring forward by household; and the household which the Lord points out, you shall bring forward man by man.
 

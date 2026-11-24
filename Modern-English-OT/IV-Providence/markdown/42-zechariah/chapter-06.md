@@ -25,9 +25,9 @@
 
 **6:10** "Take the things from the captivity, from the rulers and from its useful ones and from those who have known it, and you yourself will enter on that day into the house of Josiah son of Zephaniah, who has come from Babylon,
 
-**6:11** and you will take silver and gold and make crowns, and you will place them upon the head of Joshua son of Jehozadak, the great priest,
+**6:11** and you will take silver and gold and make crowns, and you will place them upon the head of Joshua son of Jehozadak, the high priest,
 
-**6:12** and you will say to him, 'This is what the Lord Almighty says: Here is a man; Rising is his name, and from beneath him he will rise up, and he will build the house of the Lord;
+**6:12** and you will say to him, 'Thus says the Lord Almighty: Here is a man; Rising is his name, and from beneath him he will rise up, and he will build the house of the Lord;
 
 **6:13** and he himself will receive excellence, and he will sit and rule upon his throne, and the priest will be on his right, and peaceful counsel will be between both of them.'
 

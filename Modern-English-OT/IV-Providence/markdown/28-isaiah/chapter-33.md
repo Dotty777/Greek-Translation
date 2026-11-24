@@ -7,7 +7,7 @@
 
 **33:1** Woe to those who bring misery upon you, yet no one makes you miserable; and the one who breaks faith with you does not break faith; those who break faith will be captured and handed over, and like a moth on a garment, so they will be defeated.
 
-**33:2** Lord, have mercy on us, for in You we have trusted; the offspring of the disobedient has come to destruction, but our salvation is in a time of distress.
+**33:2** Lord, have mercy on us, for in You we have trusted; the seed of the disobedient has come to destruction, but our salvation is in a time of distress.
 
 **33:3** Because of the sound of fear, peoples were dismayed at the fear of You, and the nations were scattered.
 

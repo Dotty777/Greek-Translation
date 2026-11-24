@@ -17,7 +17,7 @@
 
 **32:20** and all his people, and all the mixed peoples, and all the kings of the foreigners, Ashkelon, and Gaza, and Ekron, and the remnant of Ashdod,
 
-**32:21** and Edom, and the Moabite land, and the sons of Ammon,
+**32:21** and Idumea, and the Moabite land, and the sons of Ammon,
 
 **32:22** and the kings of Tyre, and the kings of Sidon, and the kings who are on the other side of the sea,
 
@@ -47,9 +47,9 @@
 
 **32:35** and flight will perish from the shepherds, and deliverance from the rams of the sheep.
 
-**32:36** A sound of the cry of the shepherds, and wailing of the sheep and of the rams, for the Lord has destroyed their pastures,
+**32:36** A sound of the cry of the shepherds, and wailing of the sheep and of the rams, for the Lord has destroyed their flocks,
 
-**32:37** and the remnants of peace will cease from before the wrath of My anger.
+**32:37** and the remnants of peace will cease from before the wrath of My fury.
 
 **32:38** He has left His lair like a lion, for their land has become an untrodden waste from before the great sword."
 

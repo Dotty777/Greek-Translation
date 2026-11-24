@@ -19,7 +19,7 @@
 
 **6:7** Then the administrators and the satraps presented themselves to the king and said to him, "King Darius, live forever!
 
-**6:8** All the commanders and satraps, high officials and district governors over your kingdom have consulted together to establish a royal statute and to enforce an injunction, that whoever asks a petition from any god or man for thirty days except from you, O king, will be thrown into the den of lions.
+**6:8** All the commanders and satraps, chief magistrates and district governors over your kingdom have consulted together to establish a royal statute and to enforce an injunction, that whoever asks a petition from any god or man for thirty days except from you, O king, will be thrown into the den of lions.
 
 **6:9** Now therefore, O king, establish the injunction and issue a written document, so that the decree of the Persians and Medes may not be altered."
 
@@ -68,6 +68,6 @@
 ## Translator Notes
 
 - **6:4** — Unlike the Aramaic tradition ("planned to appoint"), the Greek text uses the indicative κατέστησεν ("appointed"), stating that the king actually appointed Daniel over his whole kingdom.
-- **6:15** — The Greek text moves directly from the king's distress and effort to rescue Daniel in 6:15 to his command in 6:17, omitting the phrase "until sunset" and verse 16 (the conspirators' second appeal in the Aramaic tradition).
+- **6:15** — This Greek text lacks the Aramaic phrase "until the going down of the sun."
 - **6:19** — The final sentence ("And God shut the mouths of the lions, and they did not trouble Daniel") stands in the Greek text here but is absent from the Aramaic tradition.
 - **6:21** — The Greek reads "from the mouth of the lions" (ἐκ στόματος τῶν λεόντων), whereas the Aramaic has simply "from the lions."

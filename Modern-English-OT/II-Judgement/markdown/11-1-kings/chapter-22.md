@@ -81,7 +81,7 @@
 
 **22:38** And they washed off the blood at the spring of Samaria, and the pigs and the dogs licked up the blood, and the prostitutes washed themselves in the blood, according to the word of the Lord which He spoke.
 
-**22:39** And the rest of the affairs of Ahab, and all that he did, and an ivory house which he built, and all the cities which he made, look, these are written in the book of the records of the days of the kings of Israel.
+**22:39** And the rest of the matters of Ahab, and all that he did, and an ivory house which he built, and all the cities which he made, look, these are written in the book of the records of the days of the kings of Israel.
 
 **22:40** And Ahab slept with his fathers, and Ahaziah his son reigned in his place.
 
@@ -95,7 +95,7 @@
 
 **22:45** And Jehoshaphat made peace with the king of Israel.
 
-**22:46** And the rest of the affairs of Jehoshaphat, and his mighty deeds, all that he did, look, are these not written in the book of the records of Jehoshaphat?
+**22:46** And the rest of the matters of Jehoshaphat, and his mighty deeds, all that he did, look, are these not written in the book of the records of Jehoshaphat?
 
 **22:51** And he slept with his fathers, and was buried in the city of David his father; and Joram his son reigned in his place.
 

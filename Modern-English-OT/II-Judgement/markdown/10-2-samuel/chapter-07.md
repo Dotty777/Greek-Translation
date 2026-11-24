@@ -27,7 +27,7 @@
 
 **7:11** from the days when I appointed judges over My people Israel. And I will give you rest from all your enemies, and the Lord will declare to you that you will build a house for Him.
 
-**7:12** And it will be, when your days are fulfilled and you sleep with your fathers, that I will raise up your offspring after you, who will come from your own body, and I will prepare his kingdom.
+**7:12** And it will be, when your days are fulfilled and you sleep with your fathers, that I will raise up your seed after you, who will come from your own body, and I will prepare his kingdom.
 
 **7:13** He will build Me a house for My name, and I will establish his throne forever.
 

@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **16:1** — The Septuagint omits the introductory formula found in the Hebrew MT ("The word of the LORD came to me, saying") and opens directly with the Lord's command.
+- **16:1** — The Septuagint omits the introductory formula found in the Hebrew MT ("The word of the Lord came to me, saying") and opens directly with the Lord's command.
 - **16:4** — Greek renders the Hebrew term for "dung" as paradeigma ("an example") and places the wild beasts and birds before the sword and famine.
 - **16:12** — Greek ton areston ("the pleasing things") corresponds to "stubbornness" in the Hebrew MT.
 - **16:13** — In the Septuagint the "other gods" are the subject of the final clause ("who will not give you mercy"), whereas the Hebrew MT has the Lord declaring that He will show no favor.

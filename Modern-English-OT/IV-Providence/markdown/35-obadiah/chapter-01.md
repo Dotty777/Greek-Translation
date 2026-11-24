@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** The vision of Obadiah. This is what the Lord God says to Idumea—I have heard a report from the Lord, and He has sent out a siege to the nations: "Rise up, and let us rise up against her for war!"
+**1:1** The vision of Obadiah. Thus says the Lord God to Idumea—I have heard a report from the Lord, and He has sent out a siege to the nations: "Rise up, and let us rise up against her for war!"
 
 **1:2** "Look, I have made you very small among the nations; you are greatly dishonored.
 

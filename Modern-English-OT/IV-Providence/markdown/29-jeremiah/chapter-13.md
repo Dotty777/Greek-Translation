@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** This is what the Lord says: "Go and acquire for yourself a linen loincloth, and put it around your waist, and it shall not pass through water."
+**13:1** Thus says the Lord: "Go and acquire for yourself a linen loincloth, and put it around your waist, and it shall not pass through water."
 
 **13:2** And I acquired the loincloth according to the word of the Lord, and put it around my waist.
 
@@ -21,7 +21,7 @@
 
 **13:8** And the word of the Lord came to me, saying:
 
-**13:9** "This is what the Lord says: In this way I will ruin the arrogance of Judah and the arrogance of Jerusalem,
+**13:9** "Thus says the Lord: In this way I will ruin the arrogance of Judah and the arrogance of Jerusalem,
 
 **13:10** this great arrogance—those who are unwilling to obey My words and who have gone after foreign gods to serve them and to bow down to them; and they will be like this loincloth, which will not be used for anything.
 
@@ -29,7 +29,7 @@
 
 **13:12** And you will say to this people, 'Every wineskin will be filled with wine.' And it will happen, if they say to you, 'Do we not surely know that every wineskin will be filled with wine?'
 
-**13:13** then you will say to them, 'This is what the Lord says: Look, I am filling those who dwell in this land, and their kings, the sons of David who sit on their throne, and the priests, and the prophets, and Judah, and all those who dwell in Jerusalem, with drunkenness,
+**13:13** then you will say to them, 'Thus says the Lord: Look, I am filling those who dwell in this land, and their kings, the sons of David who sit on their throne, and the priests, and the prophets, and Judah, and all those who dwell in Jerusalem, with drunkenness,
 
 **13:14** and I will scatter them, a man and his brother, and their fathers and their sons together. I will not yearn, says the Lord, and I will not spare and I will not have compassion from their ruin.'"
 

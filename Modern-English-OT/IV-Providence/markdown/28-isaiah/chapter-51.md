@@ -19,7 +19,7 @@
 
 **51:7** Listen to Me, you who know justice, a people in whose heart is My law: do not fear the reproach of men, and do not be defeated by their contempt.
 
-**51:8** For just as a garment will be eaten by time, and just as wool will be eaten by a moth, yet My righteousness will be forever, and My salvation for generations of generations.
+**51:8** For like a garment it will be eaten by time, and like wool it will be eaten by a moth, but My righteousness will be forever, and My salvation for generations of generations.
 
 **51:9** Awake, awake, Jerusalem, and put on the strength of your arm; awake as in the beginning of a day, as a generation of eternity.
 

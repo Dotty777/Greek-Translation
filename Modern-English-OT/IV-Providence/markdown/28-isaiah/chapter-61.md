@@ -5,7 +5,7 @@
 
 ## Text
 
-**61:1** The Spirit of the Lord is upon Me, because He anointed Me; He has sent Me to announce good news to the poor, to heal those crushed in heart, to proclaim release to captives and recovery of sight to the blind,
+**61:1** The Spirit of the Lord is upon me, because He anointed me; He has sent me to announce good news to the poor, to heal those crushed in heart, to proclaim release to captives and recovery of sight to the blind,
 
 **61:2** to declare an acceptable year of the Lord and a day of retribution, to comfort all who mourn,
 
@@ -29,7 +29,7 @@
 
 ## Translator Notes
 
-- **61:1** — The speaker is the Anointed One (Messiah), whose pronouns are capitalized accordingly (compare Luke 4:18-19); LXX has "recovery of sight to the blind" where MT reads "opening of the prison to those who are bound."
+- **61:1** — LXX has "recovery of sight to the blind" (the form quoted in Luke 4:18-19) where MT reads "opening of the prison to those who are bound."
 - **61:3** — LXX renders MT's "oaks of righteousness" as "generations of righteousness" and reads "to those who mourn" (dative) rather than "instead of mourning."
 - **61:7** — LXX differs markedly from MT ("instead of your shame you will have a double portion"), reading "Thus they will inherit the land a second time."
 - **61:10** — The opening clause ("and with gladness they will be glad in the Lord") continues the third-person plural description of 61:9 in LXX before shifting to the first-person speaker.

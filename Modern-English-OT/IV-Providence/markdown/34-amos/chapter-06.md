@@ -27,11 +27,11 @@
 
 **6:11** For look, the Lord commands, and He will strike the great house with fractures and the small house with cracks.
 
-**6:12** Will horses race on rocks? Will they keep silent among mares? Yet you turned justice into fury, and the fruit of righteousness into bitterness,
+**6:12** Will horses race on rocks? Will they keep silent among mares? For you turned justice into fury, and the fruit of righteousness into bitterness,
 
 **6:13** you who rejoice over nothing, who say, "Did we not gain horns by our strength?"
 
-**6:14** For look, I am raising up a nation against you, house of Israel, says the Lord of hosts, and they will oppress you so that you cannot enter Hamath, and as far as the torrent of the west.
+**6:14** For look, I am raising up a nation against you, house of Israel, says the Lord of powers, and they will oppress you so that you cannot enter Hamath, and as far as the torrent of the west.
 
 ## Translator Notes
 

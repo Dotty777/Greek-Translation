@@ -7,7 +7,7 @@
 
 **12:1** Ephraim surrounded Me with falsehood, and the house of Israel and Judah with ungodliness. Now God has known them, and they will be called a holy people of God.
 
-**12:2** But Ephraim is an evil spirit; he pursued scorching heat all day long. He multiplied empty and futile things, and he made a covenant with the Assyrians, and he traded oil to Egypt.
+**12:2** But Ephraim is an evil wind; he pursued scorching heat all day long. He multiplied empty and futile things, and he made a covenant with the Assyrians, and he traded oil to Egypt.
 
 **12:3** And the Lord has a judgment against Judah, to punish Jacob according to his ways, and according to his practices He will repay him.
 

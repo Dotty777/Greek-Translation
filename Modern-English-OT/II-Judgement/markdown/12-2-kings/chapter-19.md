@@ -9,13 +9,13 @@
 
 **19:2** And he sent Eliakim the steward and Shebna the scribe and the elders of the priests, clothed in sackcloth, to Isaiah the prophet, the son of Amoz.
 
-**19:3** And he said to him, "This is what Hezekiah says: This day is a day of distress and rebuke and provocation, for children have come to birth pangs, and there is no strength in the one giving birth.
+**19:3** And he said to him, "Thus says Hezekiah: This day is a day of distress and rebuke and provocation, for children have come to birth pangs, and there is no strength in the one giving birth.
 
 **19:4** Perhaps the Lord your God will hear all the words of Rabshakeh, whom the king of the Assyrians, his master, sent to reproach the living God and to blaspheme with the words that the Lord your God has heard; so take up a prayer for the remnant that is found."
 
 **19:5** And the servants of King Hezekiah came to Isaiah.
 
-**19:6** And Isaiah said to them, "This is what you will say to your master: 'This is what the Lord says: Do not be afraid of the words that you have heard, with which the lads of the king of the Assyrians have blasphemed.
+**19:6** And Isaiah said to them, "This is what you will say to your master: 'Thus says the Lord: Do not be afraid of the words that you have heard, with which the lads of the king of the Assyrians have blasphemed.
 
 **19:7** Look, I am putting a spirit in him, and he will hear a report and return to his own land; and I will strike him down by the sword in his own land.'"
 
@@ -67,7 +67,7 @@
 
 **19:31** For out of Jerusalem a remnant will go forth, and a survivor from Mount Zion. The zeal of the Lord of powers will do this.
 
-**19:32** Not so! This is what the Lord says concerning the king of the Assyrians: He will not enter this city, and he will not shoot an arrow there, and a shield will not go before him, and he will by no means pour out a siege mound against it.
+**19:32** Not so! Thus says the Lord concerning the king of the Assyrians: He will not enter this city, and he will not shoot an arrow there, and a shield will not go before him, and he will by no means pour out a siege mound against it.
 
 **19:33** By the way that he came, by it he will return, and he will not enter this city, says the Lord.
 

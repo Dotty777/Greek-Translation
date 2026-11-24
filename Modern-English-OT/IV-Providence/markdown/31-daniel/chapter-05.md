@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes, 9 additional)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 9 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,7 +33,7 @@
 
 **5:16** And I have heard about you, that you are able to interpret judgments; now therefore, if you are able to read the writing and make known its interpretation to me, you will be clothed in purple, and the gold collar will be on your neck, and you will rule as third in my kingdom."
 
-**5:17** And Daniel said before the king, "Let your gifts be yours, and give the reward of your house to another; yet I will read the writing and make known its interpretation to you. And this is the writing that has been inscribed: 'Mane, Thekel, Phares.'
+**5:17** And Daniel said before the king, "Let your gifts be yours, and give the reward of your house to another; yet I will read the writing and make known its interpretation to you.
 
 **5:23** And against the Lord God of heaven you exalted yourself, and you brought the vessels of His house before you, and you and your nobles and your concubines and your wives drank wine from them; and you praised the gods of gold and silver and bronze and iron and wood and stone, which do not see and which do not hear and do not know, but the God in whose hand is your breath and all your ways, Him you did not glorify.
 
@@ -57,11 +57,11 @@
 
 **5:19** *(after `5:17`)* and because of the greatness that He gave him, all the peoples, tribes, and languages were trembling and fearing before him; whom he wished, he put to death, and whom he wished, he struck, and whom he wished, he exalted, and whom he wished, he humbled.
 
-**5:20** *(after `5:17`)* And when his heart was lifted up and his spirit grew hardened to act arrogantly, he was brought down from the throne of the kingdom, and the honor was taken away from him,
+**5:20** *(after `5:17`)* And when his heart was lifted up and his spirit was strengthened to act arrogantly, he was brought down from the throne of the kingdom, and the honor was taken away from him,
 
-**5:21** *(after `5:17`)* and he was driven away from human beings, and his heart was given to be with the wild beasts, and his dwelling was with wild donkeys, and they fed him grass like an ox, and his body was drenched with the dew of heaven, until he knew that the Most High God rules over the kingdom of human beings, and to whomever He chooses, He will give it.
+**5:21** *(after `5:17`)* and he was driven away from human beings, and his heart was given to be with the wild beasts, and his dwelling was with wild donkeys, and they fed him grass like an ox, and his body was drenched with the dew of heaven, until he knew that the Most High God rules over the kingdom of human beings, and to whomever He sees fit, He will give it.
 
-**5:22** *(after `5:17`)* And you therefore, his son Baltasar, have not humbled your heart before God; did you not know all these things?
+**5:22** *(after `5:17`)* And you therefore, his son Baltasar, have not humbled your heart before God; you did not know all these things.
 
 **5:24** *(after `5:23`)* Therefore from His presence the knuckle of a hand was sent, and it inscribed this writing.
 
@@ -72,8 +72,7 @@
 - **5:1** — Greek uses Baltasar for King Belshazzar (the same spelling as Daniel's Babylonian name in 4:18-19 and 5:12) and concludes the verse with the verbless clause "before the thousand was the wine."
 - **5:7** — Greek γαζαρηνούς (gazarenoi, also in 5:11) transliterates Aramaic gazerin ("diviners" or "astrologers").
 - **5:11** — Greek γρηγόρησις ("watchfulness" or "alertness") reflects a reading related to wakefulness where the Aramaic MT has "illumination/insight."
-- **5:17** — Greek reads three inscribed words ("Mane, Thekel, Phares") rather than the Aramaic MT's four ("Mene, Mene, Tekel, Upharsin"); verses 5:14-15, 5:18-22, and 5:24-25 of the MT are absent from this Greek text.
 - **5:27** — Greek ὑστεροῦσα is feminine singular ("it [your kingdom] ... found lacking"), whereas the Aramaic MT addresses the king directly in the second person ("you have been weighed ... and found deficient").
-- **5:22 *(additional)*** — The Greek reads the rhetorical question 'did you not know all these things?' (ou panta tauta egnos) where the Aramaic reads 'even though you knew all this.'
+- **5:22 *(additional)*** — This Greek text punctuates οὐ πάντα ταῦτα ἔγνως as a statement, "you did not know all these things"; the Aramaic reads "even though you knew all this."
 - **5:24 *(additional)*** — Greek astragalos cheiros literally means 'the knuckle [or wrist/palm joint] of a hand,' matching 'knuckles of the hand' in 5:5.
-- **5:25 *(additional)*** — This verse has no separate place in the Saints.Bible numbering, so it is shown with the other additional verses after 5:23.
+- **5:25 *(additional)*** — This verse has no separate place in the Saints.Bible numbering, so it is shown with the other additional verses after 5:23. The Greek has three inscribed words (Mane, Thekel, Phares), where the Aramaic has four (Mene, Mene, Tekel, Upharsin).

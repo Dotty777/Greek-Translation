@@ -5,7 +5,7 @@
 
 ## Text
 
-**21:1** For the end; concerning the morning aid. A psalm of David.
+**21:1** For the end; concerning the morning aid. A psalm for David.
 
 **21:2** God, my God, attend to me; why have You abandoned me? Far from my salvation are the words of my transgressions.
 

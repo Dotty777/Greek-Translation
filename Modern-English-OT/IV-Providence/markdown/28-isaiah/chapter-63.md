@@ -7,7 +7,7 @@
 
 **63:1** Who is this coming from Edom, with redness of garments from Bozrah? So splendid in a robe, with force, with strength? I declare righteousness and judgment of salvation.
 
-**63:2** Why are Your garments red, and Your clothing as from a treader of a winepress?
+**63:2** Why are Your garments red, and Your clothing as from a trodden winepress?
 
 **63:3** I am full of a trampled winepress, and of the nations there is no man with Me; and I trampled them in My wrath, and I crushed them like earth, and I brought down their blood.
 
@@ -27,7 +27,7 @@
 
 **63:11** And he remembered days of old: Where is the One who brought up from the sea the shepherd of the sheep? Where is the One who put the Holy Spirit within them?
 
-**63:12** Who led Moses by the right hand, the arm of His glory? He overpowered water before him, to make for Himself an everlasting name.
+**63:12** The One who led Moses by the right hand, the arm of His glory? He overpowered water before him, to make for Himself an everlasting name.
 
 **63:13** He led them through the deep like a horse through a wilderness, and they did not grow weary,
 
@@ -46,7 +46,7 @@
 ## Translator Notes
 
 - **63:1** — Greek "Bosor" is the standard LXX rendering of Bozrah; LXX reads "redness of garments," "with force," and "judgment of salvation" where MT has "crimsoned garments," "marching," and "mighty to save."
-- **63:3** — LXX reads "full of a trampled [winepress]" (masculine singular adjective referring back to the winepress of 63:2) where MT has "I have trodden the winepress alone."
+- **63:3** — LXX reads "full of a trampled [winepress]" (a feminine singular participle, καταπεπατημένης, agreeing with the winepress, ληνός, of 63:2) where MT has "I have trodden the winepress alone."
 - **63:9** — LXX reads "Not an envoy nor an angel [or 'messenger'], but He Himself saved them" where MT has "In all their affliction He was afflicted, and the angel of His presence saved them."
 - **63:18** — LXX reads "so that we may inherit a little [or 'for a little while'] of Your holy mountain" and omits the second half of the verse found in MT.
 - **63:19** — In LXX, the second half of 63:19 corresponds to MT 64:1a and breaks mid-sentence ("and they will melt") before continuing into 64:1.

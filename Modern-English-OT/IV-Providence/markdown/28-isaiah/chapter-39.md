@@ -26,4 +26,4 @@
 - **39:1** — The Greek text adds "and envoys" (καὶ πρέσβεις) to the items sent by Merodach-baladan, king of Babylonia.
 - **39:2** — "Nechotha" transliterates the Greek νεχωθά, which leaves the Hebrew term (nĕkōt, "treasure house" or "spicery") untranslated; the verse also omits the concluding phrase "or in all his realm" found in the Hebrew text.
 - **39:5** — "Sabaoth" retains the Greek transliteration σαβαώθ of the Hebrew divine title meaning "of hosts" or "of armies" (compare Rom 9:29; Jas 5:4).
-- **39:6** — In the Greek text, "and God said" (εἶπεν δὲ ὁ θεὸς) links forward via ὅτι directly to the prophecy in verse 7, whereas in the Hebrew text "says the LORD" closes verse 6.
+- **39:6** — In the Greek text, "and God said" (εἶπεν δὲ ὁ θεὸς) links forward via ὅτι directly to the prophecy in verse 7, whereas in the Hebrew text "says the Lord" closes verse 6.

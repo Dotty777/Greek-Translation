@@ -67,11 +67,11 @@
 
 **19:31** Then the older one said to the younger one, "Our father is old, and there is no one on the earth who will come in to us as is fitting for all the earth.
 
-**19:32** Come, therefore, let us give our father wine to drink and let us lie with him, and let us raise up offspring from our father."
+**19:32** Come, therefore, let us give our father wine to drink and let us lie with him, and let us raise up seed from our father."
 
 **19:33** So they gave their father wine to drink on that night, and the older one went in and lay with her father during that night; and he did not know when she lay down or when she rose up.
 
-**19:34** And it happened on the next day that the older one said to the younger one, "Look, yesterday I lay with our father; let us give him wine to drink this night also, and go in and lie with him, and let us raise up offspring from our father."
+**19:34** And it happened on the next day that the older one said to the younger one, "Look, yesterday I lay with our father; let us give him wine to drink this night also, and go in and lie with him, and let us raise up seed from our father."
 
 **19:35** So on that night also they gave their father wine to drink, and the younger one went in and lay with her father; and he did not know when she lay down or when she rose up.
 

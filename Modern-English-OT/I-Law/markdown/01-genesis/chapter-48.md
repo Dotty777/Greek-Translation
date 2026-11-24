@@ -11,7 +11,7 @@
 
 **48:3** And Jacob said to Joseph, "My God appeared to me at Luz in the land of Canaan and blessed me,
 
-**48:4** and He said to me, 'Look, I will cause you to grow and multiply you, and I will make you into assemblies of nations, and I will give this land to you and to your offspring after you for an everlasting possession.'
+**48:4** and He said to me, 'Look, I will cause you to grow and multiply you, and I will make you into assemblies of nations, and I will give this land to you and to your seed after you for an everlasting possession.'
 
 **48:5** Now therefore, your two sons who were born to you in Egypt before I came to Egypt to you are mine; Ephraim and Manasseh will be mine, just like Reuben and Simeon.
 
@@ -25,7 +25,7 @@
 
 **48:10** Now the eyes of Israel had grown dim from old age, and he was not able to see. And he brought them near to him, and he kissed them and embraced them.
 
-**48:11** And Israel said to Joseph, "Look, I have not been deprived of your face, and look, God has shown me your offspring as well."
+**48:11** And Israel said to Joseph, "Look, I have not been deprived of your face, and look, God has shown me your seed as well."
 
 **48:12** And Joseph brought them out from his knees, and they bowed down to him with their faces to the ground.
 

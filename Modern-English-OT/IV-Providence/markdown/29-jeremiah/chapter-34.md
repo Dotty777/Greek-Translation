@@ -9,7 +9,7 @@
 
 **34:3** and you shall send them to the king of Idumea, and to the king of Moab, and to the king of the sons of Ammon, and to the king of Tyre, and to the king of Sidon, by the hands of their messengers who are coming to meet them in Jerusalem, to Zedekiah king of Judah.
 
-**34:4** And you shall command them to say to their masters, 'Thus says the Lord, the God of Israel: Thus you shall say to your masters:
+**34:4** And you shall command them to say to their masters, 'Thus says the Lord God of Israel: Thus you shall say to your masters:
 
 **34:5** I made the earth by My great strength and by My uplifted arm, and I will give it to whoever seems right in My eyes.
 
@@ -43,6 +43,6 @@
 
 - **34:2** — Greek kloios denotes a wooden or iron neck collar (rendering the Hebrew term for yoke-bars). Verses 1, 7, 13, 17, and 21 are absent from the Septuagint text of this chapter (MT Jer 27).
 - **34:3** — Greek reads "Idumea," the Hellenistic name for Edom, and includes the phrase "to meet them," which has no direct equivalent in MT 27:3.
-- **34:5** — Greek epicheiron ("arm") is unique in the Septuagint, rendering the Hebrew "outstretched arm." In v. 6, the Greek omits the title "My servant" for Nebuchadnezzar (cf. MT 27:6).
+- **34:5** — Greek epicheiron ("arm," also in 31:25) here renders the Hebrew "outstretched arm." In v. 6, the Greek omits the title "My servant" for Nebuchadnezzar (cf. MT 27:6).
 - **34:11** — Greek reads masculine "for him" (auto), referring to the king of Babylon, whereas MT 27:11 has feminine "till it," referring to the land.
-- **34:18** — Greek reads "let them meet with Me" (apantesatosan moi), continuing the Lord's first-person voice from v. 16 rather than the third-person "entreat the LORD of hosts" in MT 27:18. In v. 15, the Greek pairs "unjustly" (ep' adiko) with "false things" (pseude).
+- **34:18** — Greek reads "let them meet with Me" (apantesatosan moi), continuing the Lord's first-person voice from v. 16 rather than the third-person "entreat the Lord of hosts" in MT 27:18. In v. 15, the Greek pairs "unjustly" (ep' adiko) with "false things" (pseude).

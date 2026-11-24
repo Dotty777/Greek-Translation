@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:1** A psalm of David, which he sang to the Lord concerning the words of Chusi son of Jemini.
+**7:1** A psalm for David, which he sang to the Lord concerning the words of Chusi son of Jemini.
 
 **7:2** Lord, my God, in You I have hoped; save me from all who pursue me and rescue me,
 

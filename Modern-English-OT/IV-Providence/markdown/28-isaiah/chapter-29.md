@@ -5,7 +5,7 @@
 
 ## Text
 
-**29:1** Woe, Ariel, city against which David fought! Gather produce year upon year; eat, for you will eat with Moab.
+**29:1** Woe, Ariel, city against which David fought! Gather produce year upon year; you will eat, for you will eat with Moab.
 
 **29:2** For I will afflict Ariel, and her strength and wealth will be Mine.
 
@@ -19,7 +19,7 @@
 
 **29:7** And like one dreaming in sleep at night will be the wealth of all the nations as many as campaigned against Jerusalem, and all those campaigning against Jerusalem, and all those gathered against her, and those who afflict her.
 
-**29:8** And like those who in sleep drink and eat, and when they wake up, the dream is vain; and just as the thirsty one dreams as if drinking, and having woken up, he is still thirsty, and his soul has hoped for nothing, so will be the wealth of all the nations as many as campaigned against Mount Zion.
+**29:8** And like those who in sleep drink and eat, and when they wake up, the dream is vain; and just as the thirsty one dreams as if drinking, and having woken up, he is still thirsty, and his soul has hoped in vain, so will be the wealth of all the nations as many as campaigned against Mount Zion.
 
 **29:9** Grow faint and be beside yourselves; be intoxicated, not from strong drink nor from wine;
 
@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **29:1** — Unlike the MT ("let the feasts go around"), the LXX concludes v. 1 with "eat, for you will eat with Moab," and in v. 2 replaces "mourning and lamentation" with "her strength and wealth."
+- **29:1** — Unlike the MT ("let the feasts go around"), the LXX concludes v. 1 with "you will eat, for you will eat with Moab," and in v. 2 replaces "mourning and lamentation" with "her strength and wealth."
 - **29:13** — The LXX differs slightly from NT citations (Matt 15:8–9; Mark 7:6–7) by including "draws near to Me with its mouth" and coordinating "commandments of men and teachings"; in v. 14 it reads "remove" (μεταθεῖναι) where the MT has "deal wonderfully" and "I will hide" (κρύψω) where 1 Cor 1:19 has "I will set aside."
 - **29:17** — The LXX treats Χερμέλ (Carmel) as a proper mountain name ("Mount Carmel" and "Carmel") rather than a common noun ("fruitful field").
 - **29:21** — The Greek uses a double accusative construction ("make all who reprove in the gates a stumbling block"), diverging from the MT's "lay a snare for him who reproves in the gate."

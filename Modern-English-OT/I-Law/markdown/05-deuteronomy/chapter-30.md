@@ -15,7 +15,7 @@
 
 **30:5** And your God will bring you in from there into the land which your fathers inherited, and you will inherit it; and He will do good to you, and He will make you more numerous than your fathers.
 
-**30:6** And the Lord will thoroughly cleanse your heart and the heart of your descendants, to love the Lord your God with all your heart and with all your soul, so that you may live.
+**30:6** And the Lord will thoroughly cleanse your heart and the heart of your seed, to love the Lord your God with all your heart and with all your soul, so that you may live.
 
 **30:7** And the Lord your God will put these curses upon your enemies and upon those who hate you, who persecuted you.
 
@@ -41,7 +41,7 @@
 
 **30:18** I declare to you today that you will certainly perish, and you will by no means live many days upon the land into which you are crossing the Jordan to inherit it.
 
-**30:19** I call both heaven and earth to witness against you today: I have set life and death before you, the blessing and the curse. Choose life, so that you and your descendants may live,
+**30:19** I call both heaven and earth to witness against you today: I have set life and death before you, the blessing and the curse. Choose life, so that you and your seed may live,
 
 **30:20** to love the Lord your God, to listen to His voice, and to hold fast to Him; for this is your life and the length of your days, that you may dwell upon the land which the Lord swore to your fathers, Abraham and Isaac and Jacob, to give to them."
 

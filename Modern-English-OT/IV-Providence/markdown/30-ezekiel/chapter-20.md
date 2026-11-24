@@ -13,7 +13,7 @@
 
 **20:4** nor will I avenge them with vengeance.' Son of man, testify to them concerning the lawless deeds of their fathers,
 
-**20:5** and you will say to them, 'Thus says the Lord: From the day I chose the house of Israel, I was made known to the offspring of the house of Jacob, and I was known to them in the land of Egypt, and I took hold of them with My hand, saying, "I am the Lord your God."
+**20:5** and you will say to them, 'Thus says the Lord: From the day I chose the house of Israel, I was made known to the seed of the house of Jacob, and I was known to them in the land of Egypt, and I took hold of them with My hand, saying, "I am the Lord your God."
 
 **20:6** On that day I took hold of them with My hand to bring them out of the land of Egypt into the land that I prepared for them, a land flowing with milk and honey; it is a honeycomb beyond all the earth.
 
@@ -35,7 +35,7 @@
 
 **20:15** I also lifted up My hand against them in the wilderness not to bring them at all into the land that I gave them, a land flowing with milk and honey; it is a honeycomb beyond all the earth—
 
-**20:16** because they rejected My decrees, and they did not walk in My ordinances, and they were profaning My Sabbaths, and they were walking after the designs of their heart.
+**20:16** because they rejected My decrees, and they did not walk in My ordinances, and they were profaning My Sabbaths, and they were walking after the devices of their heart.
 
 **20:17** Yet My eye spared them so as not to wipe them out, and I did not bring them to a complete end in the wilderness.
 
@@ -45,13 +45,13 @@
 
 **20:20** and sanctify My Sabbaths, and let them be a sign between Me and you, to know that I am the Lord your God."
 
-**20:21** And their children also embittered Me; they did not walk in My ordinances, and they did not keep My decrees to do them, which, if a person does them, he will live by them, and they were profaning My Sabbaths. And I said I would pour out My wrath upon them in the wilderness to bring My anger to completion upon them.
+**20:21** And their children also provoked Me; they did not walk in My ordinances, and they did not keep My decrees to do them, which, if a person does them, he will live by them, and they were profaning My Sabbaths. And I said I would pour out My wrath upon them in the wilderness to bring My anger to completion upon them.
 
 **20:22** And I acted so that My name might not be profaned at all in the sight of the nations, and I brought them out before their eyes.
 
 **20:23** And I lifted up My hand against them in the wilderness to scatter them among the nations, to disperse them in the countries,
 
-**20:24** because they did not do My decrees, and they rejected My ordinances, and they were profaning My Sabbaths, and their eyes were after the designs of their fathers.
+**20:24** because they did not do My decrees, and they rejected My ordinances, and they were profaning My Sabbaths, and their eyes were after the devices of their fathers.
 
 **20:25** I also gave them ordinances that were not good and decrees by which they will not live.
 
@@ -65,7 +65,7 @@
 
 **20:30** Therefore say to the house of Israel, 'Thus says the Lord: Are you defiling yourselves in the lawless deeds of your fathers, and are you prostituting yourselves after their abominations?
 
-**20:31** And in the firstfruits of your gifts, in the separated offerings by which you defile yourselves with all your designs until this present day? And should I answer you, house of Israel? As I live, says the Lord, I will certainly not answer you, nor will this come up upon your spirit.
+**20:31** And in the firstfruits of your gifts, in the separated offerings by which you defile yourselves with all your devices until this present day? And should I answer you, house of Israel? As I live, says the Lord, I will certainly not answer you, nor will this come up upon your spirit.
 
 **20:32** And it will not be as you say, "We will be like the nations and like the tribes of the earth, to worship wood and stones."
 
@@ -103,4 +103,4 @@
 - **20:6** — Greek kerion ("honeycomb") is a distinctive Septuagint reading (also in v. 15) where the Hebrew Masoretic Text reads "glory/ornament," and Greek hetoimasa reads "prepared" rather than "searched out."
 - **20:26** — The Greek uses a future verb ("I will defile") and makes God the subject of diaporeuesthai ("when I pass through everything that opens a womb"), differing from the Hebrew Masoretic Text's past tense and causal reference to passing firstborn through fire, and omits the closing recognition clause.
 - **20:29** — Habana (Greek habana/Habana) is a Septuagint transliteration of the Hebrew habbamah ("the high place"), kept here as an LXX-distinct proper name.
-- **20:38** — Greek kyrios Kyrios ("the Lord, the Lord") is a doubled divine title (recurring in vv. 39 and 40) rendering Hebrew Adonai YHWH.
+- **20:38** — Greek kyrios Kyrios ("the Lord, the Lord") is a doubled divine title, recurring in vv. 39 and 40; the Hebrew MT has Adonai YHWH in vv. 39-40 but only YHWH here.

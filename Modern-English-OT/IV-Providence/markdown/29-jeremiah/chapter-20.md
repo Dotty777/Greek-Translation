@@ -31,11 +31,11 @@
 
 **20:13** Sing to the Lord, praise Him, for He has delivered the soul of a poor person from the hand of evildoers.
 
-**20:14** Cursed be the day on which I was born. Let the day on which my mother gave birth to me not be blessed;
+**20:14** Cursed be the day on which I was born. Let the day on which my mother gave birth to me not be desired;
 
 **20:15** cursed be the man who brought good news to my father, saying, "A male child has been born to you," rejoicing.
 
-**20:16** Let that man be like the cities that the Lord overthrew in wrath and did not relent; let him hear an outcry in the morning and a battle cry at noon,
+**20:16** Let that man be like the cities that the Lord overthrew in fury and did not relent; let him hear an outcry in the morning and a battle cry at noon,
 
 **20:17** because he did not kill me in the womb, and my mother would have become my grave for me, and her womb of eternal conception.
 

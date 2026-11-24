@@ -31,13 +31,13 @@
 
 **12:13** And the blood shall be for you as a sign on the houses where you are; and I will see the blood and will shelter you, and there shall not be among you a plague of destruction when I strike in the land of Egypt.
 
-**12:14** And this day shall be to you a memorial, and you shall celebrate it as a feast to the Lord throughout all your generations; as a perpetual statute you shall celebrate it.
+**12:14** And this day shall be to you a memorial, and you shall celebrate it as a feast to the Lord throughout all your generations; as an eternal statute you shall celebrate it.
 
 **12:15** Seven days you shall eat unleavened bread, and from the first day you shall remove leaven from your houses; everyone who eats leaven, that soul shall be utterly destroyed from Israel, from the first day until the seventh day.
 
 **12:16** And the first day shall be called holy, and the seventh day shall be a holy convocation to you; you shall do no servile work on them, except whatever shall be done for every soul, that alone shall be done by you.
 
-**12:17** And you shall keep this commandment, for on this day I will bring out your host from the land of Egypt; and you shall observe this day throughout your generations as a perpetual statute.
+**12:17** And you shall keep this commandment, for on this day I will bring out your host from the land of Egypt; and you shall observe this day throughout your generations as an eternal statute.
 
 **12:18** Beginning on the fourteenth day of the first month, from evening, you shall eat unleavened bread until the twenty-first day of the month, until evening.
 

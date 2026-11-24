@@ -5,7 +5,7 @@
 
 ## Text
 
-**108:1** For the end; a psalm of David. God, do not pass over my praise in silence,
+**108:1** For the end; a psalm for David. God, do not pass over my praise in silence,
 
 **108:2** for the mouth of a sinner and the mouth of a deceitful man were opened against me; they spoke against me with a deceitful tongue,
 

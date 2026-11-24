@@ -5,7 +5,7 @@
 
 ## Text
 
-**12:1** The oracle of the word of the Lord concerning Israel. The Lord, who stretches out heaven, and lays the foundation of the earth, and forms the spirit of man within him, says:
+**12:1** An oracle of the word of the Lord concerning Israel. The Lord, who stretches out heaven, and lays the foundation of the earth, and forms the spirit of man within him, says:
 
 **12:2** "Look, I am making Jerusalem like shaken doorways for all the peoples all around, and in Judea there will be a siege against Jerusalem.
 

@@ -15,7 +15,7 @@
 
 **9:5** And the Lord, the Lord God Almighty, the One who touches the earth and shakes it, and all who dwell in it will mourn; and its destruction will rise like a river, and it will go down like the river of Egypt;
 
-**9:6** the One who builds His ascent into heaven, and founds His promise upon the earth, the One who calls for the water of the sea and pours it out upon the face of the earth; the Lord Almighty is His name.
+**9:6** the One who builds His ascent into heaven, and founds His promise upon the earth, the One who summons the water of the sea and pours it out upon the face of the earth; the Lord Almighty is His name.
 
 **9:7** "Are you not like the sons of the Ethiopians to Me, sons of Israel?" says the Lord. "Did I not bring Israel up from the land of Egypt, and the foreigners from Cappadocia, and the Syrians from a pit?"
 
@@ -29,7 +29,7 @@
 
 **9:12** so that the remnant of mankind may seek, and all the nations upon whom My name has been called," says the Lord who does these things.
 
-**9:13** "Look, days are coming," says the Lord, "when the harvest will overtake the vintage, and the grape will ripen at sowing time, and the mountains will drip sweet wine, and all the hills will be thickly wooded;
+**9:13** "Look, days are coming," says the Lord, "when the harvest will overtake the vintage, and the grape will ripen at sowing time, and the mountains will drip sweetness, and all the hills will be thickly wooded;
 
 **9:14** and I will bring back the captivity of My people Israel, and they will build the destroyed cities and dwell in them, and they will plant a vineyard and drink their wine, and they will plant gardens and eat their fruits;
 

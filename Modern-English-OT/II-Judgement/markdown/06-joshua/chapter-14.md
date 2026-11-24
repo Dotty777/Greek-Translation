@@ -38,6 +38,6 @@
 ## Translator Notes
 
 - **14:2** — The Greek reads "by the hand of Joshua" where the Hebrew has "by the hand of Moses," and in verse 3 omits the Hebrew clause explaining Moses's earlier grant to the two and a half tribes beyond the Jordan.
-- **14:7** — The Greek reads "the servant of God" and "according to his mind" (third person) where the Hebrew reads "the servant of the LORD" and "as it was in my heart" (first person).
-- **14:14** — The Greek reads "followed the command of the Lord" where the Hebrew has "wholly followed the LORD," and in verse 13 includes the addition "the son of Kenaz."
+- **14:7** — The Greek reads "the servant of God" and "according to his mind" (third person) where the Hebrew reads "the servant of the Lord" and "as it was in my heart" (first person).
+- **14:14** — The Greek reads "followed the command of the Lord" where the Hebrew has "wholly followed the Lord," and in verse 13 includes the addition "the son of Kenaz."
 - **14:15** — The Greek reads "the city of Argob; this was the mother city of the Anakim" (Greek metropolis) where the Hebrew reads "Kiriath-arba (Arba was the greatest man among the Anakim)."

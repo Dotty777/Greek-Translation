@@ -11,7 +11,7 @@
 
 **12:3** And those who understand will shine like the brilliance of the expanse, and some from among the many righteous, like the stars forever and beyond.
 
-**12:4** And you, Daniel, close up the rest and seal the book until the time of the end, until many are taught and knowledge is multiplied.
+**12:4** And you, Daniel, close up the rest and seal the book until the time of the end, until many are taught and knowledge is multiplied."
 
 **12:5** And I, Daniel, saw, and look, two others were standing, one on this side of the bank of the river and one on that side of the bank of the river.
 
@@ -25,7 +25,7 @@
 
 **12:10** until many are chosen and made white and refined, and lawless ones act lawlessly; and lawless ones will not understand, and the discerning will understand.
 
-**12:11** And from the time of the removal of the continual offering, an abomination of desolation will be given, one thousand two hundred ninety days.
+**12:11** And from the time of the alteration of the continual offering, an abomination of desolation will be given, one thousand two hundred ninety days.
 
 **12:12** Blessed is the one who endures and arrives at one thousand three hundred thirty-five days.
 

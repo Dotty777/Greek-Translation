@@ -41,7 +41,7 @@
 
 **13:18** and you shall say, 'Thus says the Lord: Woe to the women who sew pillows under every elbow of a hand and who make veils upon every head of every stature, in order to pervert souls. The souls of My people were perverted, and they were preserving souls alive,
 
-**13:19** and they were profaning Me among My people for a handful of barley and for pieces of bread, to put to death souls that should not die and to preserve alive souls that should not live, by your uttering to a people who listen to vain utterances.
+**13:19** and they were profaning Me among My people for a handful of barley and for pieces of bread, to put to death souls that should not die and to preserve alive souls that should not live, by your uttering vain utterances to a people who listen.
 
 **13:20** Therefore thus says the Lord, the Lord: Look, I am against your pillows, upon which you round up souls there, and I will tear them from your arms, and I will send away the souls, whose souls you twist away, into dispersion,
 

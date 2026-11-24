@@ -41,7 +41,7 @@
 
 **16:18** And the foundation of the seat he built in the house of the Lord, and the outer entrance of the king he turned to the house of the Lord because of the king of the Assyrians.
 
-**16:19** And the rest of the acts of Ahaz, all that he did, are these not written in the book of the records of the days of the kings of Judah?
+**16:19** And the rest of the matters of Ahaz, all that he did, are these not written in the book of the records of the days of the kings of Judah?
 
 **16:20** And Ahaz slept with his fathers, and was buried in the city of David; and Hezekiah his son became king in his place.
 

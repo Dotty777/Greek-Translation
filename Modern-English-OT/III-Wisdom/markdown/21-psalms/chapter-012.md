@@ -5,7 +5,7 @@
 
 ## Text
 
-**12:1** For the end. A psalm of David. How long, Lord, will You forget me to the end? How long will You turn Your face away from me?
+**12:1** For the end. A psalm for David. How long, Lord, will You forget me to the end? How long will You turn Your face away from me?
 
 **12:2** How long will I place counsels in my soul, sorrows in my heart by day? How long will my enemy be exalted over me?
 

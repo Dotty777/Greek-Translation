@@ -23,7 +23,7 @@
 
 **48:9** The firstfruit which they shall set apart to the Lord shall be twenty-five thousand in length and twenty-five thousand in width.
 
-**48:10** To these shall belong the firstfruit of the holy places, to the priests: toward the north twenty-five thousand, and toward the sea ten thousand, and toward the south twenty-five thousand; and the mountain of the holy places shall be in the midst of it;
+**48:10** Of these shall be the firstfruit of the holy places for the priests: toward the north twenty-five thousand, and toward the sea ten thousand, and toward the south twenty-five thousand; and the mountain of the holy places shall be in the midst of it;
 
 **48:11** for the consecrated priests, the sons of Zadok, who keep the charges of the house, who did not go astray in the straying of the sons of Israel, in the way that the Levites went astray.
 
@@ -45,9 +45,9 @@
 
 **48:20** The entire firstfruit shall be twenty-five thousand by twenty-five thousand; as a square you shall set apart there the beginning of the holy place, from the possession of the city.
 
-**48:21** And the remainder shall belong to the leader, on this side and on that side, from the firstfruits of the holy place and to the possession of the city, along twenty-five thousand in length as far as the borders toward the east, and toward the sea along twenty-five thousand as far as the borders toward the sea, adjacent to the portions of the leader; and the firstfruit of the holy places and the sanctuary of the house shall be in the midst of it.
+**48:21** And the remainder shall belong to the ruler, on this side and on that side, from the firstfruits of the holy place and to the possession of the city, along twenty-five thousand in length as far as the borders toward the east, and toward the sea along twenty-five thousand as far as the borders toward the sea, adjacent to the portions of the ruler; and the firstfruit of the holy places and the sanctuary of the house shall be in the midst of it.
 
-**48:22** And from the Levites, from the possession of the city, it shall be in the midst of the leaders, between the borders of Judah and the borders of Benjamin; it shall belong to the leaders.
+**48:22** And from the Levites, from the possession of the city, it shall be in the midst of the rulers, between the borders of Judah and the borders of Benjamin; it shall belong to the rulers.
 
 **48:23** And as for the remainder of the tribes, from the east side as far as the side toward the sea: Benjamin, one.
 

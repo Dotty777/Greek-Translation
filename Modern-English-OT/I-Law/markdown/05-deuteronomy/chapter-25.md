@@ -13,7 +13,7 @@
 
 **25:4** You must not muzzle a threshing ox.
 
-**25:5** Now if brothers live together, and one of them dies, and he had no offspring, the wife of the deceased man must not belong outside to a man who is not a close relative; her husband's brother will go in to her and take her as a wife for himself and live with her.
+**25:5** Now if brothers live together, and one of them dies, and he had no seed, the wife of the deceased man must not belong outside to a man who is not a close relative; her husband's brother will go in to her and take her as a wife for himself and live with her.
 
 **25:6** And it will be that the child whom she bears will be established by the name of the deceased, and his name will not be blotted out from Israel.
 

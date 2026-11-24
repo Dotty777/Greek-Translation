@@ -13,7 +13,7 @@
 
 **37:4** And He said to me, "Prophesy to these bones, and you will say to them, 'Dry bones, hear the word of the Lord:
 
-**37:5** This is what the Lord says to these bones: Look, I am bringing a spirit of life into you,
+**37:5** Thus says the Lord to these bones: Look, I am bringing a spirit of life into you,
 
 **37:6** and I will place sinews upon you, and I will bring flesh up upon you, and I will stretch skin over you, and I will put My Spirit into you, and you will live; and you will know that I am the Lord.'"
 
@@ -21,13 +21,13 @@
 
 **37:8** And I looked, and see, sinews and flesh were growing upon them, and skin was coming up over them on top, and there was no spirit in them.
 
-**37:9** And He said to me, "Prophesy to the spirit; prophesy, son of man, and say to the spirit, 'This is what the Lord says: Come from the four winds and breathe into these dead ones, and let them live.'"
+**37:9** And He said to me, "Prophesy to the spirit; prophesy, son of man, and say to the spirit, 'Thus says the Lord: Come from the four winds and breathe into these dead ones, and let them live.'"
 
 **37:10** And I prophesied just as He commanded me; and the spirit entered into them and they lived, and they stood upon their feet, a very great assembly.
 
 **37:11** And the Lord spoke to me, saying, "Son of man, these bones are all the house of Israel, and they say, 'Our bones have become dry, our hope has perished, we are lost.'
 
-**37:12** Therefore prophesy and say, 'This is what the Lord says: Look, I am opening your tombs, and I will bring you up out of your tombs, and I will bring you into the land of Israel,
+**37:12** Therefore prophesy and say, 'Thus says the Lord: Look, I am opening your tombs, and I will bring you up out of your tombs, and I will bring you into the land of Israel,
 
 **37:13** and you will know that I am the Lord, when I open your graves to bring My people up out of the graves.
 
@@ -41,7 +41,7 @@
 
 **37:18** And it will happen when the sons of your people say to you, 'Will you not tell us what these things mean to you?'
 
-**37:19** then you will say to them, 'This is what the Lord says: Look, I will take the tribe of Joseph, which is by the hand of Ephraim, and the tribes of Israel that are joined to him, and I will place them upon the tribe of Judah, and they will become one rod in the hand of Judah.'
+**37:19** then you will say to them, 'Thus says the Lord: Look, I will take the tribe of Joseph, which is by the hand of Ephraim, and the tribes of Israel that are joined to him, and I will place them upon the tribe of Judah, and they will become one rod in the hand of Judah.'
 
 **37:20** And the rods on which you wrote will be in your hand before them,
 

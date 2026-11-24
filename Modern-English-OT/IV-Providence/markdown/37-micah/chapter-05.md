@@ -5,7 +5,7 @@
 
 ## Text
 
-**5:1** And you, Bethlehem, house of Ephrathah, are very small to be among the thousands of Judah, from whom He will go out for Me to be a ruler of Israel, and His goings out are from the beginning, from days of eternity.
+**5:1** And you, Bethlehem, house of Ephrathah, are very small to be among the thousands of Judah, from whom He will go out for Me to be a ruler of Israel, and His goings out are from the beginning, from days of old.
 
 **5:2** Therefore He will give them up until the time of her who is giving birth; she will give birth, and the rest of their brothers will return to the sons of Israel.
 

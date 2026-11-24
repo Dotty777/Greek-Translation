@@ -7,11 +7,11 @@
 
 **20:1** And the Lord spoke to Moses, saying, "You shall also speak to the sons of Israel:
 
-**20:2** 'If anyone from the sons of Israel or from those who have become resident aliens in Israel gives any of his offspring to a ruler, he shall surely be put to death; the nation that is upon the land shall stone him with stones.
+**20:2** 'If anyone from the sons of Israel or from those who have become resident aliens in Israel gives any of his seed to a ruler, he shall surely be put to death; the nation that is upon the land shall stone him with stones.
 
-**20:3** And I will set My face against that man and I will destroy him from his people, because he gave of his offspring to a ruler, so as to defile My holy places and profane the name of those consecrated to Me.
+**20:3** And I will set My face against that man and I will destroy him from his people, because he gave of his seed to a ruler, so as to defile My holy places and profane the name of those consecrated to Me.
 
-**20:4** And if the natives of the land completely look away with their eyes from that man when he gives of his offspring to a ruler, so as not to kill him,
+**20:4** And if the natives of the land completely look away with their eyes from that man when he gives of his seed to a ruler, so as not to kill him,
 
 **20:5** then I will set My face against that man and his relatives, and I will destroy him and all who agree with him, so that he commits prostitution toward the rulers, from their people.
 

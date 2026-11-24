@@ -63,13 +63,13 @@
 
 **37:29** and your rage with which you raged and your bitterness has come up to Me, and I will put a muzzle in your nose and a bridle on your lips, and I will turn you back by the way on which you came.
 
-**37:30** And this will be the sign for you: eat this year what you have sown, and in the second year what is left, and in the third year sow and reap, and plant vineyards and eat their fruit.
+**37:30** And this will be the sign for you: eat this year what you have sown, and in the second year what is left, and in the third year sow and reap, and plant vineyards, and you will eat their fruit.
 
 **37:31** And those who are left will be in Judea; they will put forth root downward and produce seed upward.
 
 **37:32** For out of Jerusalem will be those who are left, and those who are saved out of Mount Zion; the zeal of the Lord Sabaoth will do these things."
 
-**37:33** Therefore thus says the Lord concerning the king of the Assyrians: "He will by no means enter this city, nor shoot an arrow against it, nor bring a shield against it, nor surround it with a siege rampart;
+**37:33** Therefore thus says the Lord concerning the king of the Assyrians: "He will by no means enter this city, nor shoot an arrow against it, nor bring a shield against it, nor surround it with a palisade;
 
 **37:34** but by the way on which he came, by it he will turn back, and into this city he will by no means enter," thus says the Lord.
 

@@ -17,7 +17,7 @@
 
 **17:6** and I was in a tent and in a covering wherever I walked among all Israel. Did I ever speak to one tribe of Israel to shepherd My people, saying, "Why have you not built for Me a cedar house?"'
 
-**17:7** And now thus you will say to My servant David, 'This is what the Lord Almighty says: I took you from the sheepfold, from behind the flocks, to be ruler over My people Israel,
+**17:7** And now thus you will say to My servant David, 'Thus says the Lord Almighty: I took you from the sheepfold, from behind the flocks, to be ruler over My people Israel,
 
 **17:8** and I was with you wherever you went, and I utterly destroyed all your enemies from before you, and I made for you a name like the name of the great ones who are on the earth.
 
@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **17:6** — The Greek reads "one tribe of Israel" (where the Hebrew has "any of the judges of Israel") and omits "whom I commanded" before "to shepherd My people."
-- **17:10** — The Greek reads "I will increase you, and the Lord will build you," whereas the Hebrew reads "I declare to you that the LORD will build a house for you."
+- **17:10** — The Greek reads "I will increase you, and the Lord will build you," whereas the Hebrew reads "I declare to you that the Lord will build a house for you."
 - **17:11** — "from your body" translates Greek ek tes koilias sou (literally "from your belly"), whereas the Hebrew has "from your sons."
 - **17:16** — The Greek reads "that You have loved me forever," differing from the Hebrew "that You have brought me thus far."
 - **17:17** — "as a vision of a man, and You have exalted me" renders the Greek reading of a difficult Hebrew clause; similarly in 17:23-24 the Greek omits two clauses present in the Hebrew and transitions directly into "as they say."

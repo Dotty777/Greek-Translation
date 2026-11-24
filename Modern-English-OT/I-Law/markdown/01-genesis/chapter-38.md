@@ -19,9 +19,9 @@
 
 **38:7** Now Er, the firstborn of Judah, was wicked before the Lord, and God killed him.
 
-**38:8** Then Judah said to Onan, "Go in to your brother's wife and marry her as brother-in-law, and raise up offspring for your brother."
+**38:8** Then Judah said to Onan, "Go in to your brother's wife and marry her as brother-in-law, and raise up seed for your brother."
 
-**38:9** And Onan, knowing that the offspring would not be his, it happened that whenever he went in to his brother's wife, he poured it out on the ground so as not to give offspring to his brother.
+**38:9** And Onan, knowing that the seed would not be his, it happened that whenever he went in to his brother's wife, he poured it out on the ground so as not to give seed to his brother.
 
 **38:10** And the thing appeared wicked before God that he did this, and He put this one to death also.
 

@@ -49,7 +49,7 @@
 
 **9:22** And he gave me understanding, and spoke with me and said, "Daniel, now I have come out to instruct you in understanding.
 
-**9:23** At the beginning of your supplication a word went out, and I have come to tell you, because you are a man greatly desired; so consider the message and understand the vision.
+**9:23** At the beginning of your supplication a word went out, and I have come to tell you, because you are a man of delight; so consider the message and understand the vision.
 
 **9:24** Seventy weeks have been determined upon your people and upon the holy city, for sin to be ended, and to seal up sins and to blot out the iniquities, and to make atonement for iniquity, and to bring in eternal righteousness, and to seal up vision and prophet, and to anoint a holy of holies.
 
@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **9:8** — The Greek preserves an opening confession ("In You, Lord, is our righteousness") that is absent from the Hebrew Masoretic Text.
-- **9:24** — The Greek contains seven infinitive purpose clauses (adding "and to blot out the iniquities") rather than six as in Hebrew, and reads singular "prophet" (προφήτην) rather than "prophecy."
+- **9:24** — The Greek contains seven infinitive purpose clauses (adding "and to blot out the iniquities") rather than six as in Hebrew.
 - **9:25** — Notable Greek readings here include "to answer" (τοῦ ἀποκριθῆναι, vs. Hebrew "to restore"), "an anointed one, a ruler" (χριστοῦ ἡγουμένου), and "the times will be emptied out" (ἐκκενωθήσονται οἱ καιροί, vs. Hebrew "in troubled times").
 - **9:26** — The Greek reads neuter "anointing" (χρίσμα, corresponding to Hebrew "anointed one"), "there is no judgment in it" (vs. Hebrew "and have nothing"), "with (σύν) the ruler who is coming" (reading Hebrew as "with" rather than "people of"), and "ruins by decree" (τάξει ἀφανισμοί).
 - **9:27** — In Greek, "one week" (ἑβδομὰς μία) stands in the nominative as the grammatical subject of "will confirm" (or as an adverbial time phrase), "My sacrifice" includes the first-person pronoun μου ("My"), and "upon the temple" (ἐπὶ τὸ ἱερόν) corresponds to Hebrew "upon the wing of abominations."

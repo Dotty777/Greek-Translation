@@ -5,7 +5,7 @@
 
 ## Text
 
-**61:1** For the end, for Jeduthun; a psalm of David.
+**61:1** For the end, for Jeduthun; a psalm for David.
 
 **61:2** Will not my soul be subject to God? For from Him is my salvation.
 

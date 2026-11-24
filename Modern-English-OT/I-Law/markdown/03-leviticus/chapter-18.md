@@ -45,7 +45,7 @@
 
 **18:20** And you shall not give intercourse of your seed to your neighbor's wife, to be thoroughly defiled with her.
 
-**18:21** And you shall not give any of your offspring to serve a ruler, and you shall not profane the holy name; I am the Lord.
+**18:21** And you shall not give any of your seed to serve a ruler, and you shall not profane the holy name; I am the Lord.
 
 **18:22** And with a male you shall not lie as in intercourse with a woman; for it is an abomination.
 

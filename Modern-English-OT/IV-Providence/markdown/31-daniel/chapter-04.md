@@ -23,7 +23,7 @@
 
 **4:16** His heart will be altered away from humans, and a beast's heart will be given to him, and seven times will change over him.
 
-**4:17** By the decree of a watcher is the word, and a saying of holy ones is the demand, so that the living may know that the Most High is Lord of the kingdom of humans, and to whomever He sees fit He will give it, and He will set up over it the most despised of humans."
+**4:17** By the decree of a watcher is the word, and a saying of holy ones is the demand, so that the living may know that the Most High is Lord of the kingdom of humans, and to whomever He sees fit He will give it, and He will set up over it one despised by humans."
 
 **4:18** This is the dream that I, King Nebuchadnezzar, saw; and you, Baltasar, tell the interpretation, because all the wise men of my kingdom are not able to explain its interpretation to me; but you, Daniel, are able, because a holy spirit of God is in you.
 
@@ -57,11 +57,11 @@
 
 **4:33** In that very hour the word was fulfilled upon Nebuchadnezzar, and he was driven away from humans, and he ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew long like lions' and his nails like birds'.
 
-**4:34** And after the end of the days, I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and glorified Him who lives forever, because His authority is an everlasting authority and His kingdom is from generation to generation.
+**4:34** And after the end of the days, I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and glorified Him who lives forever, because His authority is an eternal authority and His kingdom is from generation to generation.
 
-**4:36** At that very time my understanding returned to me, and I came into the honor of my kingdom; and my appearance returned to me, and my rulers and my nobles sought me out, and I was firmly established over my kingdom, and surpassing greatness was added to me.
+**4:36** At that very time my understanding returned to me, and I came into the honor of my kingdom; and my appearance returned to me, and my potentates and my nobles sought me out, and I was firmly established over my kingdom, and surpassing greatness was added to me.
 
-**4:37** Now therefore, I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because all His works are true and His paths are justice, and all those who walk in pride He is able to humble.
+**4:37** Now therefore, I, Nebuchadnezzar, praise and highly exalt and glorify the King of heaven, because all His works are true and His paths are justice, and all those who walk in pride He is able to humble.
 
 ## Additional Verses (Not in Saints Numbering)
 
@@ -69,7 +69,7 @@
 
 **4:2** *(after `3:97`)* The signs and the wonders that the Most High God did with me, it has seemed good before me to declare to you.
 
-**4:3** *(after `3:97`)* How great and mighty they are! His kingdom is an everlasting kingdom; His authority is from generation to generation.
+**4:3** *(after `3:97`)* How great and mighty they are! His kingdom is an eternal kingdom; His authority is from generation to generation.
 
 **4:6** *(after `4:5`)* And a decree was issued by me to bring in before me all the wise men of Babylon, so that they might make known to me the interpretation of the dream.
 
@@ -79,7 +79,7 @@
 
 **4:9** *(after `4:5`)* "Baltasar, chief of the enchanters, of whom I know that a holy spirit of God is in you and no mystery is beyond your ability, hear the vision of the dream that I saw, and tell me its interpretation."
 
-**4:35** *(after `4:34`)* And all those who dwell on the earth were accounted as nothing; and He acts according to His will in the power of heaven and in the habitation of the earth, and there is no one who can resist His hand and say to Him, "What have You done?"
+**4:35** *(after `4:34`)* And all those who dwell on the earth were accounted as nothing; and He acts according to His will in the host of heaven and in the habitation of the earth, and there is no one who can resist His hand and say to Him, "What have You done?"
 
 ## Translator Notes
 

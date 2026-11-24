@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **ALL 43/43 OT books COMPLETE** (1,031 chapters, 26,192 verses, 5,009 translator notes; combined with Complete 27/27 NT = **70 of 70 complete Greek books**).  
+> **Current Coverage:** **ALL 43/43 OT books COMPLETE** (1,031 chapters, 26,208 verses, 5,013 translator notes; combined with Complete 27/27 NT = **70 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -10,27 +10,27 @@ This directory contains the **Saints Modern English** translation of the Greek O
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms, own-source Greek fidelity (`κύριος` → `the Lord`), and original wording.
 - **Saints.Bible versification:** Chapter and verse keys match `Saints-Greek-Critical-Text` and the Saints.Bible Parallel Reader (including LXX Psalm numbering 1–151 and Sirach Prologue `0:0`).
-- **Prologue & additional critical-text verses (`unplaced`):** Includes the **Sirach Prologue** (`III-Wisdom/markdown/27-sirach/chapter-01.md`, `## Prologue`) and all **32 OT `no-site-verse` items** across Exodus, Numbers, 1 Samuel, 2 Kings, 1 Chronicles, Psalms, Sirach, Ezekiel, and Theodotion Daniel (`33` total OT `unplaced` items in book `json/*.json` and chapter Markdown).
+- **Prologue & additional critical-text verses (`unplaced`):** Includes the **Sirach Prologue** (`III-Wisdom/markdown/27-sirach/chapter-01.md`, `## Prologue`) and all **39 OT `no-site-verse` items** across Exodus, Numbers, 1 Samuel, 1–2 Kings, 1 Chronicles, Psalms, Wisdom, Sirach, Jeremiah, Ezekiel, and Theodotion Daniel (`40` total OT `unplaced` items in book `json/*.json` and chapter Markdown).
 - **Related directories:** Complete 27/27 NT in [`../Modern-English-NT/`](../Modern-English-NT/README.md); original reviewed pilot & projected layers in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Divisions
 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
-| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,791 | 916 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,411 | 1,686 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,691 | 1,232 | [`III-Wisdom/`](III-Wisdom/README.md) |
-| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,299 | 1,175 | [`IV-Providence/`](IV-Providence/README.md) |
+| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,797 | 919 | [`I-Law/`](I-Law/README.md) |
+| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,412 | 1,689 | [`II-Judgement/`](II-Judgement/README.md) |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,698 | 1,231 | [`III-Wisdom/`](III-Wisdom/README.md) |
+| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,301 | 1,174 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 1 | Genesis | 50 | 1,530 | 237 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
-| 2 | Exodus | 40 | 1,161 | 173 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
-| 3 | Leviticus | 27 | 857 | 133 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
-| 4 | Numbers | 36 | 1,285 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
-| 5 | Deuteronomy | 34 | 958 | 167 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
+| 1 | Genesis | 50 | 1,531 | 238 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
+| 2 | Exodus | 40 | 1,162 | 174 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
+| 3 | Leviticus | 27 | 859 | 134 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
+| 4 | Numbers | 36 | 1,287 | 207 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
+| 5 | Deuteronomy | 34 | 958 | 166 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
 ## Division II. Judgement (15 / 15 Complete)
 
@@ -44,37 +44,37 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 11 | 1 Kings | 22 | 754 | 117 | [`II-Judgement/markdown/11-1-kings/`](II-Judgement/markdown/11-1-kings/README.md) | [`11-1-kings.json`](II-Judgement/json/11-1-kings.json) |
 | 12 | 2 Kings | 25 | 718 | 132 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 929 | 152 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
-| 14 | 2 Chronicles | 36 | 820 | 181 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
-| 15 | Ezra | 10 | 280 | 55 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
-| 16 | Nehemiah | 13 | 387 | 70 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
+| 14 | 2 Chronicles | 36 | 820 | 182 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
+| 15 | Ezra | 10 | 280 | 56 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
+| 16 | Nehemiah | 13 | 388 | 70 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
 | 17 | Esther | 10 | 164 | 39 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
 | 18 | 1 Maccabees | 16 | 924 | 122 | [`II-Judgement/markdown/18-1-maccabees/`](II-Judgement/markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](II-Judgement/json/18-1-maccabees.json) |
-| 19 | 2 Maccabees | 15 | 555 | 74 | [`II-Judgement/markdown/19-2-maccabees/`](II-Judgement/markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](II-Judgement/json/19-2-maccabees.json) |
+| 19 | 2 Maccabees | 15 | 555 | 75 | [`II-Judgement/markdown/19-2-maccabees/`](II-Judgement/markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](II-Judgement/json/19-2-maccabees.json) |
 | 20 | Job | 42 | 1,068 | 195 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
 
 ## Division III. Wisdom (7 / 7 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 21 | Psalms | 151 | 2,532 | 653 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
-| 22 | Proverbs | 31 | 887 | 146 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
+| 21 | Psalms | 151 | 2,533 | 654 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
+| 22 | Proverbs | 31 | 889 | 146 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
 | 23 | Ecclesiastes | 12 | 222 | 53 | [`III-Wisdom/markdown/23-ecclesiastes/`](III-Wisdom/markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](III-Wisdom/json/23-ecclesiastes.json) |
 | 24 | Song of Songs | 8 | 117 | 38 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |
 | 25 | Lamentations | 5 | 150 | 28 | [`III-Wisdom/markdown/25-lamentations/`](III-Wisdom/markdown/25-lamentations/README.md) | [`25-lamentations.json`](III-Wisdom/json/25-lamentations.json) |
-| 26 | Wisdom of Solomon | 19 | 434 | 82 | [`III-Wisdom/markdown/26-wisdom-of-solomon/`](III-Wisdom/markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](III-Wisdom/json/26-wisdom-of-solomon.json) |
-| 27 | Sirach | 51 | 1,349 | 232 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
+| 26 | Wisdom of Solomon | 19 | 435 | 80 | [`III-Wisdom/markdown/26-wisdom-of-solomon/`](III-Wisdom/markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](III-Wisdom/json/26-wisdom-of-solomon.json) |
+| 27 | Sirach | 51 | 1,352 | 232 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
 
 ## Division IV. Providence (16 / 16 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
 | 28 | Isaiah | 66 | 1,289 | 309 | [`IV-Providence/markdown/28-isaiah/`](IV-Providence/markdown/28-isaiah/README.md) | [`28-isaiah.json`](IV-Providence/json/28-isaiah.json) |
-| 29 | Jeremiah | 52 | 1,294 | 251 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
+| 29 | Jeremiah | 52 | 1,295 | 251 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
 | 30 | Ezekiel | 48 | 1,265 | 229 | [`IV-Providence/markdown/30-ezekiel/`](IV-Providence/markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](IV-Providence/json/30-ezekiel.json) |
-| 31 | Daniel | 12 | 402 | 69 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
+| 31 | Daniel | 12 | 402 | 68 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
 | 32 | Hosea | 14 | 197 | 65 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |
 | 33 | Joel | 4 | 73 | 18 | [`IV-Providence/markdown/33-joel/`](IV-Providence/markdown/33-joel/README.md) | [`33-joel.json`](IV-Providence/json/33-joel.json) |
-| 34 | Amos | 9 | 145 | 44 | [`IV-Providence/markdown/34-amos/`](IV-Providence/markdown/34-amos/README.md) | [`34-amos.json`](IV-Providence/json/34-amos.json) |
+| 34 | Amos | 9 | 146 | 44 | [`IV-Providence/markdown/34-amos/`](IV-Providence/markdown/34-amos/README.md) | [`34-amos.json`](IV-Providence/json/34-amos.json) |
 | 35 | Obadiah | 1 | 21 | 5 | [`IV-Providence/markdown/35-obadiah/`](IV-Providence/markdown/35-obadiah/README.md) | [`35-obadiah.json`](IV-Providence/json/35-obadiah.json) |
 | 36 | Jonah | 4 | 48 | 18 | [`IV-Providence/markdown/36-jonah/`](IV-Providence/markdown/36-jonah/README.md) | [`36-jonah.json`](IV-Providence/json/36-jonah.json) |
 | 37 | Micah | 7 | 105 | 32 | [`IV-Providence/markdown/37-micah/`](IV-Providence/markdown/37-micah/README.md) | [`37-micah.json`](IV-Providence/json/37-micah.json) |

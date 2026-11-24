@@ -47,7 +47,7 @@
 
 **66:21** And from them I will take priests and Levites, said the Lord.
 
-**66:22** For just as the new heaven and the new earth that I am making remain before Me, says the Lord, so your offspring and your name will stand.
+**66:22** For just as the new heaven and the new earth that I am making remain before Me, says the Lord, so your seed and your name will stand.
 
 **66:23** And it will be that month after month and Sabbath after Sabbath, all flesh will come to worship before Me in Jerusalem, said the Lord.
 
@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **66:3** — The Septuagint introduces the verse with 'the lawless one' (ho anomos) and reads 'like one who kills a dog,' whereas the Hebrew Masoretic Text begins 'He who slaughters an ox is like one who strikes down a man.'
-- **66:5** — The Greek renders this as an imperative ('Say, our brothers, to those who hate you...') followed by a purpose clause, whereas the Hebrew Masoretic Text reports the enemies' speech ('Your brothers who hate you... say, \"May the Lord be glorified\"').
+- **66:5** — The Greek renders this as an imperative ('Say, our brothers, to those who hate you...') followed by a purpose clause, whereas the Hebrew Masoretic Text reports the enemies' speech ('Your brothers who hate you... say, "May the Lord be glorified"').
 - **66:9** — The Septuagint reads 'I gave this expectation, and you did not remember Me,' differing markedly from the Hebrew Masoretic Text ('Shall I bring to the point of birth and not cause to bring forth?').
 - **66:19** — The Septuagint lists Put (Phoud), Meshech (Mosoch), and Greece (Hellas) where the Hebrew Masoretic Text has 'Pul,' 'who draw the bow,' and 'Javan.'
 - **66:20** — Where the Hebrew Masoretic Text reads 'on dromedaries' and 'in a clean vessel,' the Septuagint reads 'in covered wagons of mules with sunshades' and 'to Me with psalms.'

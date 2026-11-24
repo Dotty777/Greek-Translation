@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** A psalm of David, when he was fleeing from the presence of Absalom his son.
+**3:1** A psalm for David, when he was fleeing from the presence of Absalom his son.
 
 **3:2** Lord, why have those who afflict me multiplied? Many are rising up against me;
 

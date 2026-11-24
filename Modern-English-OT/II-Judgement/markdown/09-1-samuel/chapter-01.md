@@ -25,7 +25,7 @@
 
 **1:10** And she was deeply distressed in soul, and she prayed to the Lord, speaking, and wept.
 
-**1:11** And she vowed a vow to the Lord, saying, "Adonai, Lord, Eloe Sabaoth, if You will indeed look upon the humiliation of Your maidservant, and remember me, and give to Your maidservant male offspring, then I will give him before You as one given until the day of his death; and he will not drink wine or strong drink, and no iron will come up upon his head."
+**1:11** And she vowed a vow to the Lord, saying, "Adonai, Lord, Eloe Sabaoth, if You will indeed look upon the humiliation of Your maidservant, and remember me, and give to Your maidservant male seed, then I will give him before You as one given until the day of his death; and he will not drink wine or strong drink, and no iron will come up upon his head."
 
 **1:12** And it came about, as she continued praying long before the Lord, that Eli the priest watched her mouth.
 

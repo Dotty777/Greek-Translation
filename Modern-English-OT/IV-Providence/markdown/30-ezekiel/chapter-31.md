@@ -23,7 +23,7 @@
 
 **31:9** because of the multitude of its branches, and the trees of the paradise of the delight of God envied it.
 
-**31:10** Therefore, this is what the Lord says: Because you became great in stature and put your top into the midst of clouds, and I saw when it was exalted,
+**31:10** Therefore, thus says the Lord: Because you became great in stature and put your top into the midst of clouds, and I saw when it was exalted,
 
 **31:11** I handed it over into the hands of a ruler of nations, and he carried out its destruction,
 

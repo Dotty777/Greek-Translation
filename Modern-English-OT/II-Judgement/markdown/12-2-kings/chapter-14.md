@@ -33,13 +33,13 @@
 
 **14:14** And he took the gold and the silver and all the vessels found in the house of the Lord and in the treasuries of the king's house, and the sons of the comminglings, and he returned to Samaria.
 
-**14:15** And the rest of the acts of Joash, all that he did in his might, what he fought against Amaziah king of Judah, are these not written in the book of the records of the days of the kings of Israel?
+**14:15** And the rest of the matters of Joash, all that he did in his might, what he fought against Amaziah king of Judah, are these not written in the book of the records of the days of the kings of Israel?
 
 **14:16** And Joash slept with his fathers, and he was buried in Samaria with the kings of Israel; and Jeroboam his son became king in his place.
 
 **14:17** And Amaziah son of Joash, king of Judah, lived fifteen years after the death of Joash son of Jehoahaz, king of Israel.
 
-**14:18** And the rest of the acts of Amaziah and all that he did, are these not written in the book of the records of the days of the kings of Judah?
+**14:18** And the rest of the matters of Amaziah and all that he did, are these not written in the book of the records of the days of the kings of Judah?
 
 **14:19** And they formed a conspiracy against him in Jerusalem, and he fled to Lachish; and he sent after him to Lachish and put him to death there.
 
@@ -59,7 +59,7 @@
 
 **14:27** And the Lord did not speak to blot out the seed of Israel from under heaven, and He saved them from the hand of Jeroboam son of Joash.
 
-**14:28** And the rest of the acts of Jeroboam and all that he did, and his mighty deeds, how he fought and how he restored Damascus and Hamath to Judah in Israel, are these not written in the book of the records of the days of the kings of Israel?
+**14:28** And the rest of the matters of Jeroboam and all that he did, and his mighty deeds, how he fought and how he restored Damascus and Hamath to Judah in Israel, are these not written in the book of the records of the days of the kings of Israel?
 
 **14:29** And Jeroboam slept with his fathers, with the kings of Israel, and Azariah son of Amaziah became king in place of his father.
 

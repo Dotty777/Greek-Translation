@@ -63,7 +63,7 @@
 
 **22:29** Land, land, hear the word of the Lord:
 
-**22:30** "Write this man down as an outcast man, because no one from his offspring will flourish sitting on the throne of David, ruling any longer in Judah."
+**22:30** "Write this man down as an outcast man, because no one from his seed will flourish sitting on the throne of David, ruling any longer in Judah."
 
 ## Translator Notes
 

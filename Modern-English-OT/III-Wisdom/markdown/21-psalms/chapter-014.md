@@ -5,7 +5,7 @@
 
 ## Text
 
-**14:1** A psalm of David. Lord, who will sojourn in Your tent? And who will dwell on Your holy mountain?
+**14:1** A psalm for David. Lord, who will sojourn in Your tent? And who will dwell on Your holy mountain?
 
 **14:2** One who walks without blemish and works righteousness, speaking truth in his heart;
 

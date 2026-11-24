@@ -9,7 +9,7 @@
 
 **24:2** And Joshua said to all the people, "This is what the Lord, the God of Israel, says: 'Beyond the river your fathers lived from the beginning, Terah the father of Abraham and the father of Nahor, and they served other gods.
 
-**24:3** And I took your father Abraham from beyond the river, and I led him through all the land; and I multiplied his offspring and gave him Isaac,
+**24:3** And I took your father Abraham from beyond the river, and I led him through all the land; and I multiplied his seed and gave him Isaac,
 
 **24:4** and to Isaac, Jacob and Esau; I gave to Esau Mount Seir for him to inherit. And Jacob and his sons went down to Egypt, and there they became a great and numerous and mighty nation; and the Egyptians afflicted them.'
 

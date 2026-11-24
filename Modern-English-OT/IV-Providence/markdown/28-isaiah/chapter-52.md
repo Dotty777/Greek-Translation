@@ -9,11 +9,11 @@
 
 **52:2** Shake off the dust and rise up, sit down, Jerusalem; loose the bond of your neck, captive daughter of Zion.
 
-**52:3** For this is what the Lord says: "You were sold for nothing, and not with silver will you be redeemed."
+**52:3** For thus says the Lord: "You were sold for nothing, and not with silver will you be redeemed."
 
 **52:4** Thus says the Lord, the Lord: "To Egypt My people went down at first to sojourn there, and to the Assyrians they were led by force;
 
-**52:5** and now why are you here?" This is what the Lord says: "Because My people was taken for nothing, marvel and wail." This is what the Lord says: "Because of you My name is continually blasphemed among the nations.
+**52:5** and now why are you here?" Thus says the Lord: "Because My people was taken for nothing, marvel and wail." Thus says the Lord: "Because of you My name is continually blasphemed among the nations.
 
 **52:6** Therefore My people will know My name in that day, that I Myself am the One who speaks; I am present like a season upon the mountains,
 

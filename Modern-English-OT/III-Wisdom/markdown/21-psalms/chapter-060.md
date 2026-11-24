@@ -5,7 +5,7 @@
 
 ## Text
 
-**60:1** For the end, with hymns; of David.
+**60:1** For the end, with hymns; for David.
 
 **60:2** Hear my supplication; attend to my prayer.
 

@@ -29,7 +29,7 @@
 
 **11:12** and he will take the multitude, and his heart will be lifted up, and he will cast down tens of thousands, yet he will not prevail.
 
-**11:13** And the king of the north will return and bring a great multitude beyond the former, and at the end of the times of years he will come with supplies, with a great army and with many possessions.
+**11:13** And the king of the north will return and bring a great multitude beyond the former, and at the end of the times of years he will come in an invasion, with a great army and with many possessions.
 
 **11:14** And in those times many will rise up against the king of the south, and the sons of the remnant of your people will lift themselves up to establish a vision, and they will grow weak.
 
@@ -61,7 +61,7 @@
 
 **11:28** And he will return to his own land with many possessions, and his heart will be against the holy covenant; and he will act, and he will return to his own land.
 
-**11:29** At the appointed time he will return and come into the south, and it will not be like the first and the last.
+**11:29** At the time he will return and come into the south, and it will not be like the first and the last.
 
 **11:30** And the Kittim who go out will come against him, and he will be humbled; and he will return and become enraged against the holy covenant, and he will act and return, and he will pay attention to those who forsake the holy covenant.
 
@@ -93,7 +93,7 @@
 
 **11:44** And reports and urgencies will trouble him from the east and from the north, and he will come with great fury to destroy many.
 
-**11:45** And he will pitch his tent Ephadano between the seas, at the holy mountain of Sabaein; and he will come to his portion, and there is no one who delivers him."
+**11:45** And he will pitch his tent Ephadano between the seas, at the holy mountain of Sabaein; and he will come to his portion, and there is no one who delivers him.
 
 ## Translator Notes
 

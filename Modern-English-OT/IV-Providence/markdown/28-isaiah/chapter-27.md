@@ -33,7 +33,7 @@
 
 ## Translator Notes
 
-- **27:3** — The LXX diverges sharply from the Hebrew MT, reading "I am a fortified city, a city being besieged" where the MT has "I, the LORD, am its keeper."
+- **27:3** — The LXX diverges sharply from the Hebrew MT, reading "I am a fortified city, a city being besieged" where the MT has "I, the Lord, am its keeper."
 - **27:4** — The concluding verb (κατακέκαυμαι, "I have been burned up") is punctuated and framed in the LXX as the opening cry of the city's inhabitants, continuing directly into v. 5.
 - **27:8** — The second-person pronoun (σύ, "you") is syntactically ambiguous in Greek; in this context it most naturally addresses the hostile adversary who plotted to kill Israel, though some understand it as addressing God regarding His fierce wind or spirit (cf. MT).
 - **27:12** — The LXX reads "fence in" (συμφράξει) instead of the MT's "beat out" or "thresh," and names the border city "Rhinocorura" (Ῥινοκορούρων, modern El-Arish) where the MT has "the Brook of Egypt."

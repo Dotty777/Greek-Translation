@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:1** When I heal Israel, then the iniquity of Ephraim and the wickedness of Samaria will be revealed, because they practiced falsehoods; and a thief will come in to him, a robber plundering on his road,
+**7:1** when I heal Israel. And the iniquity of Ephraim and the wickedness of Samaria will be revealed, because they practiced falsehoods; and a thief will come in to him, a robber plundering on his road,
 
 **7:2** so that they may sing together like those singing in their heart. I have remembered all their wicked deeds; now their designs have surrounded them; they have come before My face.
 

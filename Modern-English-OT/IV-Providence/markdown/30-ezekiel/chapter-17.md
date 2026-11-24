@@ -27,7 +27,7 @@
 
 **17:11** And the word of the Lord came to me, saying,
 
-**17:12** "Son of man, say now to the rebellious house, 'Do you not know what these things were?' Say, 'When the king of Babylon comes against Jerusalem, he will take its king and its rulers and will lead them to himself into Babylon.
+**17:12** "Son of man, say now to the provoking house, 'Do you not know what these things were?' Say, 'When the king of Babylon comes against Jerusalem, he will take its king and its rulers and will lead them to himself into Babylon.
 
 **17:13** And he will take from the seed of the kingdom, and will make a covenant with him and bring him under a curse, and he will take the leaders of the land,
 

@@ -47,7 +47,7 @@
 
 **24:21** And now, look, I know that you will certainly reign as king, and the kingdom of Israel will stand in your hands.
 
-**24:22** And now swear to me by the Lord that you will not destroy my offspring after me, and will not wipe out my name from the house of my father."
+**24:22** And now swear to me by the Lord that you will not destroy my seed after me, and will not wipe out my name from the house of my father."
 
 **24:23** And David swore to Saul. And Saul went away to his place, and David and his men went up to the narrow pass of Messara.
 

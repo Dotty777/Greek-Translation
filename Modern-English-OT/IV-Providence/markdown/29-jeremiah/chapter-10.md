@@ -25,7 +25,7 @@
 
 **10:14** Every person has been made foolish, without knowledge; every goldsmith has been put to shame over his carved images, for he cast falsehoods; there is no breath in them.
 
-**10:15** They are vain, works of mockery; in the time of their punishment they will perish.
+**10:15** They are vain, works of mockery; in the time of their visitation they will perish.
 
 **10:16** Such is not the portion of Jacob, for the One who formed all things, He is his inheritance; the Lord is His name.
 

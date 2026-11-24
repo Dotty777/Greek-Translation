@@ -5,7 +5,7 @@
 
 ## Text
 
-**2:1** This was the vision of the likeness of the glory of the Lord. And I saw, and I fell upon my face, and I heard the voice of One speaking, and He said to me, "Son of man, stand upon your feet, and I will speak to you."
+**2:1** This was the vision of the likeness of the glory of the Lord. And I saw, and I fell upon my face, and I heard a voice of One speaking, and He said to me, "Son of man, stand upon your feet, and I will speak to you."
 
 **2:2** And the Spirit came upon me, and took me up and lifted me up and stood me upon my feet; and I heard Him speaking to me,
 

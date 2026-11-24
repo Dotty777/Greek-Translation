@@ -55,7 +55,7 @@
 
 **45:25** And if the officials hear that I have spoken to you, and they come to you and say to you, 'Tell us, what did the king speak to you? Do not hide it from us, and we will certainly not put you to death; and what did the king speak to you?'
 
-**45:26** then you will say to them, 'I am casting my plea for mercy before the eyes of the king, so that he will not send me back to the house of Jonathan to die there.'"
+**45:26** then you will say to them, 'I am casting my mercy before the eyes of the king, so that he will not send me back to the house of Jonathan to die there.'"
 
 **45:27** And all the officials came to Jeremiah and questioned him; and he told them according to all these words that the king had commanded him; and they fell silent, because the word of the Lord was not heard.
 

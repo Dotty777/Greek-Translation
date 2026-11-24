@@ -31,7 +31,7 @@
 
 **12:13** Sow wheat, and reap thorns; their lots will not profit them. Be ashamed because of your boasting, because of reproach before the Lord.
 
-**12:14** For this is what the Lord says concerning all the wicked neighbors who touch My inheritance which I apportioned to My people Israel: "Look, I am tearing them away from their land, and I will cast Judah out from their midst.
+**12:14** For thus says the Lord concerning all the wicked neighbors who touch My inheritance which I apportioned to My people Israel: "Look, I am tearing them away from their land, and I will cast Judah out from their midst.
 
 **12:15** And it will happen, after I have cast them out, I will turn back and have mercy on them, and I will settle them, each one into his inheritance and each one into his land.
 

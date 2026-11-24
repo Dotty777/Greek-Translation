@@ -21,7 +21,7 @@
 
 **2:8** I have heard the reproaches of Moab and the buffetings of the sons of Ammon, with which they reproached My people and magnified themselves against My borders.
 
-**2:9** Therefore, as I live, says the Lord of hosts, the God of Israel, surely Moab will be like Sodom, and the sons of Ammon like Gomorrah, and Damascus abandoned like a heap of a threshing floor and made desolate forever; and the remnant of My people will plunder them, and the remnant of My nation will inherit them.
+**2:9** Therefore, as I live, says the Lord of powers, the God of Israel, surely Moab will be like Sodom, and the sons of Ammon like Gomorrah, and Damascus abandoned like a heap of a threshing floor and made desolate forever; and the remnant of My people will plunder them, and the remnant of My nation will inherit them.
 
 **2:10** This is for them in return for their arrogance, because they reproached and magnified themselves against the Lord Almighty.
 

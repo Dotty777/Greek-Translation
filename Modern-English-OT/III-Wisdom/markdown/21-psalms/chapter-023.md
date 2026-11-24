@@ -5,7 +5,7 @@
 
 ## Text
 
-**23:1** A psalm of David; for the first day of the week. To the Lord belong the earth and its fullness, the inhabited world and all who dwell in it.
+**23:1** A psalm for David; for the first day of the week. To the Lord belong the earth and its fullness, the inhabited world and all who dwell in it.
 
 **23:2** He Himself founded it upon the seas, and prepared it upon the rivers.
 

@@ -31,7 +31,7 @@
 
 **45:13** I raised him up as king with righteousness, and all his ways are straight; this one will build My city, and he will bring back the captivity of My people, not with ransom nor with gifts," said the Lord Sabaoth.
 
-**45:14** Thus says the Lord Sabaoth: "Egypt has labored, and the merchandise of the Ethiopians, and the Sabeans, tall men, will cross over to you, and they will be slaves to you, and they will follow behind you bound in manacles; and they will cross over to you and bow down to you, and in you they will pray: 'God is in you, and there is no God besides You.
+**45:14** Thus says the Lord Sabaoth: "Egypt has labored, and the merchandise of the Ethiopians, and the Sabeans, tall men, will cross over to you, and they will be servants to you, and they will follow behind you bound in manacles; and they will cross over to you and bow down to you, and in you they will pray: 'God is in you, and there is no God besides You.
 
 **45:15** For You are God, and we did not know, the God of Israel.'
 
@@ -58,7 +58,7 @@
 ## Translator Notes
 
 - **45:4** — In the Greek Septuagint, God tells Cyrus "I will call you by My name" (τῷ ὀνόματί μου) and "accept you," differing from the Hebrew Masoretic Text ("call you by your name" and "give you a title of honor").
-- **45:7** — The plural κακά ("evils") contrasts with "peace" (εἰρήνην) and denotes calamities, adversity, or disaster rather than moral wickedness.
+- **45:7** — The plural κακά ("evils") is set in contrast with "peace" (εἰρήνην); in such a pairing it can denote calamities or adversity.
 - **45:9** — The Greek opens with the distinct Septuagint reading "What better thing have I fashioned like potter's clay?" and includes the plowman question (cf. Isaiah 28:24) as well as the closing question echoed in Romans 9:20.
 - **45:14** — "Sabaoth" (σαβαώθ) is the Septuagint transliteration of Hebrew tseva'ot ("of hosts/armies"), and "Ethiopians" (Αἰθιόπων) renders Hebrew Cush. In the nations' prayer, "besides You" shifts from addressing Zion ("in you") to addressing God directly (continued in 45:15).
 - **45:23** — The clause "εἰ μὴ ἐξελεύσεται..." reflects the Septuagint's Hebraistic oath formula after "I swear" (ὀμνύω), expressing positive certainty ("that... will surely go out"); the Greek also explicitly specifies "by God" (τὸν θεόν) at the end of the verse.

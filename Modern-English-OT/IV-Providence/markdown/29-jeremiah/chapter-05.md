@@ -70,6 +70,6 @@
 ## Translator Notes
 
 - **5:6** — The Greek reads "a wolf as far as the houses" (ἕως τῶν οἰκιῶν), whereas the Hebrew Masoretic Text reads "a wolf of the deserts" (or "of the evenings").
-- **5:10** — The Greek commands to "leave behind her supports, for they belong to the Lord," contrasting sharply with the Hebrew Masoretic Text ("strip away her branches, for they are not the LORD's").
+- **5:10** — The Greek commands to "leave behind her supports, for they belong to the Lord," contrasting sharply with the Hebrew Masoretic Text ("strip away her branches, for they are not the Lord's").
 - **5:11** — In the Greek syntax, "the house of Israel" is the subject of the verb in 5:11 while "the house of Judah" serves as the singular subject of "lied" (ἐψεύσατο) at the beginning of 5:12.
 - **5:31** — The Greek reads "the priests clapped with their hands" (ἐπεκρότησαν ταῖς χερσὶν αὐτῶν), picturing approval of the prophets, whereas the Hebrew Masoretic Text reads "the priests rule at their direction."

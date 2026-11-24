@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** In the third year of Cyrus king of the Persians, a word was revealed to Daniel, whose name was called Belteshazzar; and the word is true, and great power and understanding were given to him in the vision.
+**10:1** In the third year of Cyrus king of the Persians, a word was revealed to Daniel, whose name was called Baltasar; and the word is true, and great power and understanding were given to him in the vision.
 
 **10:2** In those days I, Daniel, was mourning for three weeks of days.
 
@@ -13,7 +13,7 @@
 
 **10:4** On the twenty-fourth day of the first month, I was beside the great river, that is, Tigris Hiddekel.
 
-**10:5** And I lifted up my eyes and looked, and look, one man clothed in baddin, and his waist was girded with gold of Uphaz,
+**10:5** And I lifted up my eyes and looked, and look, one man clothed in linen, and his waist was girded with gold of Uphaz,
 
 **10:6** and his body was like tharsis, and his face was like the appearance of lightning, and his eyes were like torches of fire, and his arms and legs were like the appearance of gleaming bronze, and the sound of his words was like the sound of a multitude.
 
@@ -51,6 +51,6 @@
 
 - **10:1** — Greek reads Baltasar (the Septuagint/Theodotion form used for both Belteshazzar and Belshazzar), and renders "great power and understanding were given to him" where the Hebrew Masoretic Text reads "a great conflict."
 - **10:4** — Greek uniquely combines both river names, Tigris and Hiddekel (Eddekel), whereas the Hebrew Masoretic Text mentions only Hiddekel.
-- **10:5** — "baddin" is an untranslated Greek transliteration of Hebrew baddim, meaning linen garments.
+- **10:5** — βαδδείν (also in 12:6-7) transliterates Hebrew baddim, "linen garments"; it is rendered by its meaning.
 - **10:6** — "tharsis" is an untranslated Greek transliteration of Hebrew tarshish, referring to a golden gemstone such as chrysolite or beryl.
 - **10:13** — Greek has active "I left him [Michael] there with the prince of the kingdom of the Persians" and omits "chief" before "princes" (contrasting with MT "I was left there beside the kings of Persia"); similarly in v. 20, Greek reads "I was going in" rather than "going out."

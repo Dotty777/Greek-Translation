@@ -9,9 +9,9 @@
 
 **57:2** his burial will be in peace; he has been taken away from the midst.
 
-**57:3** But you, come near here, lawless sons, offspring of adulterers and a prostitute;
+**57:3** But you, come near here, lawless sons, seed of adulterers and a prostitute;
 
-**57:4** in whom did you delight? And against whom did you open your mouth? And against whom did you let loose your tongue? Are you not children of destruction, lawless offspring?
+**57:4** in whom did you delight? And against whom did you open your mouth? And against whom did you let loose your tongue? Are you not children of destruction, lawless seed?
 
 **57:5** Those who entreat the idols under leafy trees, slaughtering their children in the valleys in the midst of the rocks.
 

@@ -11,7 +11,7 @@
 
 **5:3** Therefore, this is what the Lord, the Lord says: "The city from which a thousand went out will have a hundred left, and the one from which a hundred went out will have ten left for the house of Israel."
 
-**5:4** For this is what the Lord says to the house of Israel: "Seek Me, and you will live;
+**5:4** For thus says the Lord to the house of Israel: "Seek Me, and you will live;
 
 **5:5** and do not seek Bethel, and do not enter Gilgal, and do not cross over to the Well of the Oath, because Gilgal will surely be taken captive, and Bethel will be as though it does not exist."
 
@@ -33,7 +33,7 @@
 
 **5:14** Seek good and not evil, so that you may live, and thus the Lord God Almighty will be with you; just as you said,
 
-**5:15** "We have hated evil things and loved good things," so restore justice in the gates, so that the Lord God Almighty may have mercy on the remnant of Joseph.
+**5:15** "We have hated evil things and loved good things," and restore justice in the gates, so that the Lord God Almighty may have mercy on the remnant of Joseph.
 
 **5:16** Therefore thus says the Lord God Almighty: "In all the squares there will be wailing, and in all the streets it will be said, 'Woe, woe!' A farmer will be called to mourning and wailing, and to those who know lamentation,
 

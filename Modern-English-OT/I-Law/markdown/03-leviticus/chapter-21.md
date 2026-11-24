@@ -33,7 +33,7 @@
 
 **21:14** but a widow, and one cast out, and one profaned, and a prostitute—these he shall not take; rather, he shall take a virgin from his own people as a wife;
 
-**21:15** and he shall not profane his offspring among his people; I am the Lord who sanctifies him.'"
+**21:15** and he shall not profane his seed among his people; I am the Lord who sanctifies him.'"
 
 **21:16** And the Lord spoke to Moses, saying,
 
@@ -45,7 +45,7 @@
 
 **21:20** or hunchbacked, or having a white spot in the eye, or bleary in the eyes, or a man who has a malignant scab or a scaly eruption, or one with only one testicle—
 
-**21:21** no one from the offspring of Aaron the priest who has a blemish in him shall come near to offer the sacrifices to your God; because a blemish is in him, he shall not approach to offer the gifts of God.
+**21:21** no one from the seed of Aaron the priest who has a blemish in him shall come near to offer the sacrifices to your God; because a blemish is in him, he shall not approach to offer the gifts of God.
 
 **21:22** He may eat the gifts of God, the most holy things and from the holy things;
 

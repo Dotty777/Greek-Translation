@@ -29,7 +29,7 @@
 
 **37:14** All your friends have forgotten you; they will by no means inquire; for I struck you with the blow of an enemy, a severe discipline; because of all your injustice, your sins have multiplied.
 
-**37:16** Therefore all who eat you will be eaten, and all your enemies will eat all their own flesh; because of the multitude of your injustices your sins were multiplied; they did these things to you; and those who plunder you will become plunder, and all who pillage you I will give over to pillage.
+**37:16** Therefore all who eat you will be eaten, and all your enemies will eat all their flesh; because of the multitude of your injustices your sins were multiplied; they did these things to you; and those who plunder you will become plunder, and all who pillage you I will give over to pillage.
 
 **37:17** For I will bring up your healing; from a painful wound I will heal you, declares the Lord; because you were called Scattered: 'She is your prey, because there is no one seeking her.'"
 
@@ -49,6 +49,6 @@
 
 - **37:6** — The Greek includes the difficult clause "and concerning fear in which they will hold loins and deliverance" (absent from MT), reads "because" (dioti) rather than "why," and renders the pallor of the faces literally as "jaundice" (ikteron).
 - **37:12** — The Greek reads "I have raised up a fracture" (Anestesa syntrimma), where the Hebrew MT has "Your hurt is incurable." Verses 10-11, 15, and 22 are absent from the Greek text of this chapter (MT ch. 30).
-- **37:16** — Instead of the MT's "every one of them shall go into captivity," the Greek reads "all your enemies will eat all their own flesh," and includes the clause on multiplied sins (with plural "they did these things to you") within v. 16 rather than v. 15.
+- **37:16** — Instead of the MT's "every one of them shall go into captivity," the Greek reads "all your enemies will eat all their flesh," and includes the clause on multiplied sins (with plural "they did these things to you") within v. 16 rather than v. 15.
 - **37:17** — The Greek reads "She is your prey" (thereuma hymon estin), reflecting a different reading of the Hebrew consonants where the MT has "It is Zion."
 - **37:18** — The Greek reads "his captivity" (MT: "his dwellings") and "the people" (ho laos; MT: "the palace"), and in v. 20 reads "their testimonies" (MT: "his congregation").

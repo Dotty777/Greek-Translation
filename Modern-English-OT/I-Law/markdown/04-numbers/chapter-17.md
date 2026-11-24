@@ -13,7 +13,7 @@
 
 **17:4** And Eleazar, son of Aaron the priest, took the bronze censers that those who were burned up had offered, and they placed them as a covering for the altar,
 
-**17:5** a memorial to the sons of Israel, so that no outsider who is not from the offspring of Aaron may approach to put incense before the Lord, and he will not become like Korah and his faction; just as the Lord spoke to him by the hand of Moses.
+**17:5** a memorial to the sons of Israel, so that no outsider who is not from the seed of Aaron may approach to put incense before the Lord, and he will not become like Korah and his faction; just as the Lord spoke to him by the hand of Moses.
 
 **17:6** And the sons of Israel grumbled the next day against Moses and Aaron, saying, "You have killed the people of the Lord."
 

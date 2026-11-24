@@ -19,7 +19,7 @@
 
 **3:7** And those who see dreams will be put to shame, and the diviners will be mocked, and all of them will speak against them, for there will be no one who listens to them."
 
-**3:8** Unless I fill up strength by the Spirit of the Lord and with justice and might, to declare to Jacob his acts of ungodliness and to Israel his sins.
+**3:8** Unless I fill up strength by the Spirit of the Lord and of justice and might, to declare to Jacob his acts of ungodliness and to Israel his sins.
 
 **3:9** Listen now to these things, leaders of the house of Jacob and remnant of the house of Israel, who detest justice and distort all upright things,
 

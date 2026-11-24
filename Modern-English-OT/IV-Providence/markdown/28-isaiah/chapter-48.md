@@ -37,13 +37,13 @@
 
 **48:16** Draw near to Me and hear these things; from the beginning I have not spoken in secret; when it came to be, I was there, and now the Lord, the Lord, has sent Me and His Spirit.
 
-**48:17** Thus says the Lord, the Redeemer, the Holy One of Israel: "I am your God; I have shown you how to find the way in which you will walk.
+**48:17** Thus says the Lord, the Deliverer, the Holy One of Israel: "I am your God; I have shown you how to find the way in which you will walk.
 
 **48:18** And if you had listened to My commandments, your peace would have been like a river, and your righteousness like a wave of the sea;
 
 **48:19** and your seed would have been like the sand, and the offspring of your womb like the dust of the earth; nor even now will you ever be utterly destroyed, nor will your name perish before Me."
 
-**48:20** Go out from Babylon, fleeing from the Chaldeans; declare a voice of gladness, and let this be heard; declare it to the end of the earth; say, "The Lord has redeemed His servant Jacob!"
+**48:20** Go out from Babylon, fleeing from the Chaldeans; declare a voice of gladness, and let this be heard; declare it to the end of the earth; say, "The Lord has rescued His servant Jacob!"
 
 **48:21** And if they thirst, through a desert He will lead water for them; from a rock He will bring it out for them; a rock will be split and water will flow, and My people will drink.
 
@@ -54,5 +54,5 @@
 - **48:2** — "Sabaoth" transliterates the Septuagint's indeclinable Greek sabaōth (from Hebrew "hosts/armies"), which Greek Isaiah frequently retains untranslated rather than rendering it as "hosts" or "Almighty."
 - **48:6** — In vv. 6-7 the Septuagint reads "and you did not say, 'Now it is happening...'" rather than the Hebrew Masoretic Text's "hidden things you did not know. Now they are created."
 - **48:9** — The Septuagint differs markedly from the Hebrew Masoretic Text here, reading "I will show you My wrath, and I will bring My glorious deeds upon you" instead of deferring anger, and similarly in v. 10 reading "I have sold you" and "furnace of poverty" rather than refining in affliction.
-- **48:14** — In contrast to the Hebrew Masoretic Text ("the LORD loves him; he shall perform His purpose on Babylon, and His arm against the Chaldeans"), the Septuagint renders the clause in the first person addressed to Israel: "Loving you, I carried out your will against Babylon, to remove the seed of the Chaldeans."
+- **48:14** — In contrast to the Hebrew Masoretic Text ("the Lord loves him; he shall perform His purpose on Babylon, and His arm against the Chaldeans"), the Septuagint renders the clause in the first person addressed to Israel: "Loving you, I carried out your will against Babylon, to remove the seed of the Chaldeans."
 - **48:16** — The doubled divine title translates Greek kyrios Kyrios, the Septuagint rendering of Hebrew Adonai YHWH (also in 50:5, 7). Commentators debate whether the same divine speaker continues ("sent Me") or whether the prophet or Servant begins speaking at "and now."

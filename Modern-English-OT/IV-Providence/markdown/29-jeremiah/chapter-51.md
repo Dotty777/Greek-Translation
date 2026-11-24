@@ -57,7 +57,7 @@
 
 **51:26** Therefore, hear the word of the Lord, all Judah who reside in the land of Egypt: "Look, I have sworn by My great name," said the Lord, "that My name will no longer be in the mouth of anyone of Judah to say, 'The Lord lives,' in all the land of Egypt.
 
-**51:27** For I am keeping watch over them to harm them and not to do them good; and all Judah who dwell in the land of Egypt will perish by sword and by famine until they come to an end.
+**51:27** For I am keeping watch over them to harm them and not to do them good; and all Judah who dwell in the land of Egypt will perish by sword and by famine, if they come to an end.
 
 **51:28** And those saved from the sword will return to the land of Judah, few in number; and the remnant of Judah who settled in the land of Egypt to dwell there will know whose word will stand.
 
@@ -73,11 +73,11 @@
 
 **51:34** say to him, "Thus said the Lord: 'Look, those whom I built, I am tearing down; and those whom I planted, I am uprooting.
 
-**51:35** And will you seek great things for yourself? Do not seek them; for look, I am bringing evils upon all flesh,' says the Lord, 'and I will give your life as a windfall in every place where you may walk.'"
+**51:35** And will you seek great things for yourself? Do not seek them; for look, I am bringing evils upon all flesh,' says the Lord, 'and I will give your life as a find in every place where you may walk.'"
 
 ## Translator Notes
 
 - **51:6** — Greek reads "in the gates of Judah and outside Jerusalem" (similarly "outside Jerusalem" in 51:9, 17, 21), where the Hebrew Masoretic Text reads "in the cities of Judah and in the streets of Jerusalem."
 - **51:21** — The Greek text reads the first-person plural "that we burned" (ethumiasamen), shifting immediately to "you and your fathers"; the Hebrew Masoretic Text reads second-person plural throughout.
-- **51:27** — Greek literally reads "if they come to an end" (ean ekliposin), widely understood as a shortened or corrupt form of heos an ekliposin ("until they come to an end").
+- **51:27** — Greek reads ean ekliposin ("if they come to an end"); the phrase is often taken as equivalent to heos an ekliposin ("until they come to an end"), the sense of the Hebrew text.
 - **51:33** — Greek reads "I lay down in groanings" (ekoimethen, "lay down/slept"), whereas the Hebrew Masoretic Text reads "I am weary with my groaning."

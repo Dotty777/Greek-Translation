@@ -7,7 +7,7 @@
 
 **49:1** And all the commanders of the force, and Johanan, and Azariah son of Maaseiah, and all the people from the least even to the greatest came near
 
-**49:2** to Jeremiah the prophet and said to him, "Please let our plea for mercy fall before your face, and pray to the Lord your God for this remnant, for we have been left few out of many, just as your eyes see.
+**49:2** to Jeremiah the prophet and said to him, "Please let our mercy fall before your face, and pray to the Lord your God for this remnant, for we have been left few out of many, just as your eyes see.
 
 **49:3** And let the Lord your God tell us the way in which we should go and the thing that we should do."
 

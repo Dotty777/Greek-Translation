@@ -25,11 +25,11 @@
 
 **3:10** And she did not know what will be before her," says the Lord, "those who store up injustice and misery in their regions."
 
-**3:11** Therefore, this is what the Lord God says: "Tyre, your land will be laid waste all around, and he will bring down your strength from you, and your regions will be plundered."
+**3:11** Therefore, thus says the Lord God: "Tyre, your land will be laid waste all around, and he will bring down your strength from you, and your regions will be plundered."
 
-**3:12** This is what the Lord says: "Just as when the shepherd snatches from the mouth of the lion two legs or a lobe of an ear, so the sons of Israel who dwell in Samaria will be snatched out opposite the tribe, and priests in Damascus."
+**3:12** Thus says the Lord: "Just as when the shepherd snatches from the mouth of the lion two legs or a lobe of an ear, so the sons of Israel who dwell in Samaria will be snatched out opposite the tribe, and priests in Damascus."
 
-**3:13** "Hear and testify against the house of Jacob," says the Lord God, the Almighty,
+**3:13** "Hear and testify against the house of Jacob," says the Lord God Almighty,
 
 **3:14** "for on the day when I execute vengeance for the impieties of Israel upon him, I will also execute vengeance upon the altars of Bethel, and the horns of the altar will be torn down and will fall to the ground;
 

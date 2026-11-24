@@ -33,7 +33,7 @@
 
 **10:14** Look, to the Lord your God belong heaven and the heaven of heaven, the earth and all things that are in it.
 
-**10:15** Yet the Lord selected your fathers, to love them, and He chose their offspring after them—you—above all the nations, as on this day.
+**10:15** Yet the Lord selected your fathers, to love them, and He chose their seed after them—you—above all the nations, as on this day.
 
 **10:16** And you shall circumcise the hardness of your heart, and you shall not stiffen your neck.
 

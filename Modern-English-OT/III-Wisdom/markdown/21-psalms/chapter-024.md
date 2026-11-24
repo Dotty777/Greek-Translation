@@ -5,7 +5,7 @@
 
 ## Text
 
-**24:1** A psalm of David. To You, Lord, I have lifted up my soul,
+**24:1** A psalm for David. To You, Lord, I have lifted up my soul,
 
 **24:2** my God. In You I have trusted; may I not be put to shame, nor let my enemies laugh at me.
 

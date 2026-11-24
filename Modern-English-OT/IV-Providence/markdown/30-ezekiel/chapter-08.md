@@ -9,7 +9,7 @@
 
 **8:2** and I looked, and look, a likeness of a man: from His waist and downward was fire, and from His waist upward was like the appearance of amber.
 
-**8:3** And He stretched out a likeness of a hand and took me up by the crown of my head, and a spirit lifted me up between the earth and heaven and brought me to Jerusalem in a vision of God, to the entrance of the gate facing north, where the pillar of the acquirer was.
+**8:3** And He stretched out a likeness of a hand and took me up by the crown of my head, and the Spirit lifted me up between the earth and heaven and brought me to Jerusalem in a vision of God, to the entrance of the gate facing north, where the pillar of the acquirer was.
 
 **8:4** And look, there was the glory of the Lord God of Israel, according to the vision that I saw in the plain.
 

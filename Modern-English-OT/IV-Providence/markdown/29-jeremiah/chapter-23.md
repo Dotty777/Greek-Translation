@@ -5,7 +5,7 @@
 
 ## Text
 
-**23:1** Woe to the shepherds who destroy and scatter the sheep of their pasture!
+**23:1** Ah, shepherds who destroy and scatter the sheep of their pasture!
 
 **23:2** Therefore, thus says the Lord against those who shepherd My people: "You have scattered My sheep and driven them out and have not attended to them; look, I am bringing punishment upon you according to your evil practices.
 
@@ -83,7 +83,7 @@
 
 ## Translator Notes
 
-- **23:6** — Greek reads "which the Lord will call him: Josedek," treating the Hebrew title ("the LORD is our righteousness") as a proper name, and closes the verse with the superscription "Concerning the prophets" (literally "Among the prophets"), which introduces verse 9 in the Hebrew Masoretic Text.
+- **23:6** — Greek reads "which the Lord will call him: Josedek," treating the Hebrew title ("the Lord is our righteousness") as a proper name, and closes the verse with the superscription "Concerning the prophets" (literally "Among the prophets"), which introduces verse 9 in the Hebrew Masoretic Text.
 - **23:10** — Greek reads "their forest" (drymos), likely an early scribal shift from dromos ("course"), and omits the negation in the final clause ("and their strength likewise," versus Hebrew "and their might is not right").
 - **23:31** — Greek reads "and slumber their slumber," interpreting the Hebrew verb ("utter an oracle") from the root meaning "to slumber."
 - **23:33** — Greek lemma means "burden" or "what is taken up" (used for a prophetic oracle), preparing for the wordplay on lambano ("taking you up") in verse 39; Greek also reads "You are the burden" where the Hebrew Masoretic Text reads "What burden?"

@@ -25,7 +25,7 @@
 
 **2:10** On the twenty-fourth day of the ninth month, in the second year under Darius, the word of the Lord came to Haggai the prophet, saying,
 
-**2:11** "This is what the Lord Almighty says: Ask the priests for a ruling of the law, saying,
+**2:11** "Thus says the Lord Almighty: Ask the priests about the law, saying,
 
 **2:12** 'If a man takes holy meat in the corner of his garment, and the corner of his garment touches bread or stew or wine or oil or any food, will it become holy?'" And the priests answered and said, "No."
 

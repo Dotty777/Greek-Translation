@@ -51,7 +51,7 @@
 
 **14:23** they will certainly not see the land that I swore to their fathers. Rather, their children who are with Me here, all who do not know good or evil, every inexperienced youth—to these I will give the land; but all who provoked Me will not see it.
 
-**14:24** But as for My servant Caleb, because there was a different spirit in him and he followed closely after Me, I will bring him into the land that he entered, and his offspring will inherit it.
+**14:24** But as for My servant Caleb, because there was a different spirit in him and he followed closely after Me, I will bring him into the land that he entered, and his seed will inherit it.
 
 **14:25** Now Amalek and the Canaanite dwell in the valley. Tomorrow turn back and set out into the wilderness by the way of the Red Sea."
 

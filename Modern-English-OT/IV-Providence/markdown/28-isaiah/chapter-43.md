@@ -13,7 +13,7 @@
 
 **43:4** Since you became precious in My sight, you have been glorified, and I have loved you; and I will give people for you and rulers for your head.
 
-**43:5** Do not be afraid, because I am with you; from the east I will bring your offspring, and from the west I will gather you.
+**43:5** Do not be afraid, because I am with you; from the east I will bring your seed, and from the west I will gather you.
 
 **43:6** I will say to the north, 'Bring them,' and to the southwest, 'Do not hold back; bring My sons from a land far away, and My daughters from the ends of the earth,
 
@@ -45,7 +45,7 @@
 
 **43:20** The wild beasts of the field will bless Me, sirens and daughters of ostriches, because I gave water in the wilderness and rivers in the waterless land, to give drink to My chosen race,
 
-**43:21** My people whom I acquired for Myself to recount My praises.
+**43:21** My people whom I acquired for Myself to recount My excellences.
 
 **43:22** It was not now that I called you, Jacob, nor did I make you grow weary, Israel;
 

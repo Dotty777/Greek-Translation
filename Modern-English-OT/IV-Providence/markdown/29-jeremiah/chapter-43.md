@@ -23,11 +23,11 @@
 
 **43:9** And it happened in the eighth year of King Jehoiakim, in the ninth month, that all the people in Jerusalem and the house of Judah convened a fast before the Lord.
 
-**43:10** And Baruch was reading from the book the words of Jeremiah in the house of the Lord, in the chamber of Gemariah son of Shaphan the scribe, in the upper court, at the entrance of the new gate of the house of the Lord, and in the ears of all the people.
+**43:10** And Baruch was reading from the book the words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, at the entrance of the new gate of the house of the Lord, and in the ears of all the people.
 
 **43:11** And Micaiah son of Gemariah son of Shaphan heard all the words of the Lord from the book.
 
-**43:12** And he went down to the king's house, to the chamber of the scribe, and look, all the officials were sitting there: Elishama the scribe, and Delaiah son of Shelemiah, and Jonathan son of Achbor, and Gemariah son of Shaphan, and Zedekiah son of Hananiah, and all the officials.
+**43:12** And he went down to the king's house, to the house of the scribe, and look, all the officials were sitting there: Elishama the scribe, and Delaiah son of Shelemiah, and Jonathan son of Achbor, and Gemariah son of Shaphan, and Zedekiah son of Hananiah, and all the officials.
 
 **43:13** And Micaiah declared to them all the words that he heard while Baruch was reading in the ears of the people.
 
@@ -43,9 +43,9 @@
 
 **43:19** And they said to Baruch, "Go, hide yourself, you and Jeremiah; let no one know where you are."
 
-**43:20** And they went in to the king into the court, and they gave the scroll to be kept in the chamber of Elisha, and they declared to the king all the words.
+**43:20** And they went in to the king into the court, and they gave the scroll to be kept in the house of Elisha, and they declared to the king all the words.
 
-**43:21** And the king sent Jehudi to take the scroll. And he took it from the chamber of Elisha, and Jehudi read in the ears of the king and in the ears of all the officials who were standing around the king.
+**43:21** And the king sent Jehudi to take the scroll. And he took it from the house of Elisha, and Jehudi read in the ears of the king and in the ears of all the officials who were standing around the king.
 
 **43:22** And the king was sitting in the winter house, and a brazier of fire was before him.
 

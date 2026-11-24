@@ -11,7 +11,7 @@
 
 **33:3** My heart is pure in words, and the understanding of my lips will perceive pure things.
 
-**33:4** It is the divine Spirit that made me, and the breath of the Almighty that teaches me.
+**33:4** It is the divine spirit that made me, and the breath of the Almighty that teaches me.
 
 **33:5** If you are able, give me an answer to these things; hold firm, stand opposite me, and I opposite you.
 

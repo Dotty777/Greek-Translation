@@ -17,7 +17,7 @@
 
 **40:6** Look, I am bringing up for it recovery and healing, and I will reveal to them, and I will heal it, both peace and faithfulness;
 
-**40:7** and I will restore the captivity of Judah and the captivity of Israel, and I will build them up just as before,
+**40:7** and I will restore the exiles of Judah and the exiles of Israel, and I will build them up just as before,
 
 **40:8** and I will cleanse them from all their iniquities by which they sinned against Me, and I will by no means remember their sins by which they sinned against Me and departed from Me.
 
@@ -25,9 +25,9 @@
 
 **40:10** Thus says the Lord: Again there will be heard in this place of which you say, 'It is desolate, without people and livestock,' in the cities of Judah and outside Jerusalem, which have been made desolate because there is no person and no livestock,
 
-**40:11** the voice of gladness and the voice of joy, the voice of a bridegroom and the voice of a bride, the voice of those saying, 'Give thanks to the Lord Almighty, for the Lord is good, for His mercy is forever,' and they will bring gifts into the house of the Lord; for I will restore all the captivity of that land as before, says the Lord.
+**40:11** the voice of gladness and the voice of joy, the voice of a bridegroom and the voice of a bride, the voice of those saying, 'Give thanks to the Lord Almighty, for the Lord is good, for His mercy is forever,' and they will bring gifts into the house of the Lord; for I will restore all the exiles of that land as before, says the Lord.
 
-**40:12** Thus says the Lord of hosts: In this place, which is desolate because there is no person and no livestock, in all its cities there will be resting places of shepherds making sheep lie down;
+**40:12** Thus says the Lord of powers: In this place, which is desolate because there is no person and no livestock, in all its cities there will be resting places of shepherds making sheep lie down;
 
 **40:13** in the cities of the hill country, and in the cities of the Shephelah, and in the cities of the Negev, and in the land of Benjamin, and in those around Jerusalem, and in the cities of Judah, sheep will again pass by the hand of one who counts, says the Lord."
 

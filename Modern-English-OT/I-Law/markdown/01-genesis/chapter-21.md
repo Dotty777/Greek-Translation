@@ -27,9 +27,9 @@
 
 **21:11** And the matter appeared very harsh before Abraham concerning his son Ishmael.
 
-**21:12** But God said to Abraham, "Do not let the matter be harsh before you concerning the child and concerning the maidservant; whatever Sarah says to you, listen to her voice, because in Isaac offspring will be called for you.
+**21:12** But God said to Abraham, "Do not let the matter be harsh before you concerning the child and concerning the maidservant; whatever Sarah says to you, listen to her voice, because in Isaac seed will be called for you.
 
-**21:13** And as for the son of this maidservant also, I will make him into a great nation, because he is your offspring."
+**21:13** And as for the son of this maidservant also, I will make him into a great nation, because he is your seed."
 
 **21:14** So Abraham rose in the morning, and took loaves of bread and a skin of water and gave them to Hagar, and placed them on her shoulder along with the child, and sent her away. And departing, she wandered in the wilderness near the Well of the Oath.
 
@@ -49,7 +49,7 @@
 
 **21:22** Now it happened at that time that Abimelech, along with Ahuzzath his bridal attendant and Phicol the commander of his army, spoke to Abraham, saying, "God is with you in everything that you do.
 
-**21:23** Now therefore, swear to me by God that you will not wrong me, nor my offspring, nor my name; but according to the righteousness that I have done with you, you will do with me, and to the land in which you have lived as a foreigner."
+**21:23** Now therefore, swear to me by God that you will not wrong me, nor my seed, nor my name; but according to the righteousness that I have done with you, you will do with me, and to the land in which you have lived as a foreigner."
 
 **21:24** And Abraham said, "I will swear."
 
