@@ -37,7 +37,7 @@
 
 **18:16** But Jesus called them to Himself, saying, "Allow the little children to come to Me and do not hinder them, for to such as these belongs the kingdom of God.
 
-**18:17** Truly I tell you, whoever does not receive the kingdom of God like a little child will by no means enter into it."
+**18:17** Truly I say to you, whoever does not receive the kingdom of God like a little child will by no means enter into it."
 
 **18:18** And a certain ruler questioned Him, saying, "Good Teacher, by doing what will I inherit eternal life?"
 
@@ -61,7 +61,7 @@
 
 **18:28** And Peter said, "Look, we have left everything and followed You."
 
-**18:29** And He said to them, "Truly I tell you that there is no one who has left house or wife or brothers or parents or children for the sake of the kingdom of God,
+**18:29** And He said to them, "Truly I say to you that there is no one who has left house or wife or brothers or parents or children for the sake of the kingdom of God,
 
 **18:30** who will not receive many times as much in this time, and in the coming age eternal life."
 

@@ -35,7 +35,7 @@
 
 **20:15** And throwing him out of the vineyard, they killed him. What therefore will the owner of the vineyard do to them?
 
-**20:16** He will come and destroy these farmers, and will give the vineyard to others." And when they heard this, they said, "May it never be!"
+**20:16** He will come and destroy these farmers, and will give the vineyard to others." And when they heard this, they said, "May it never happen!"
 
 **20:17** But looking intently at them, He said, "What then is this that is written: 'The stone that the builders rejected, this became the chief cornerstone'?
 

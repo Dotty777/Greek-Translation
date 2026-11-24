@@ -83,7 +83,7 @@
 
 **18:39** but you have a custom that I release one person to you at the Passover. Do you wish, then, that I release to you the King of the Jews?"
 
-**18:40** Then they cried out again, saying, "Not this man, but Barabbas!" Now Barabbas was a bandit.
+**18:40** Then they cried out again, saying, "Not this man, but Barabbas!" Now Barabbas was a robber.
 
 ## Translator Notes
 

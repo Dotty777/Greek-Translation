@@ -35,7 +35,7 @@
 
 **2:15** Having disarmed the rulers and the authorities, He made an open display of them, triumphing over them in Him.
 
-**2:16** Therefore let no one judge you in food and in drink, or with regard to a festival or a new moon or Sabbaths,
+**2:16** Therefore let no one judge you in food and in drink, or with regard to a feast or a new moon or Sabbaths,
 
 **2:17** which are a shadow of the things to come, but the substance belongs to Christ.
 

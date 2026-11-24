@@ -9,7 +9,7 @@
 
 **7:2** And I saw another angel ascending from the rising of the sun, having the seal of the living God; and he cried out with a loud voice to the four angels to whom it was given to harm the earth and the sea,
 
-**7:3** saying, "Do not harm the earth, nor the sea, nor the trees, until we have sealed the servants of our God on their foreheads."
+**7:3** saying, "Do not harm the earth, nor the sea, nor the trees, until we have sealed the slaves of our God on their foreheads."
 
 **7:4** And I heard the number of those who were sealed: one hundred forty-four thousand, sealed from every tribe of the sons of Israel:
 
@@ -31,7 +31,7 @@
 
 **7:13** And one of the elders responded, saying to me, "These who are clothed in the white robes—who are they, and where did they come from?"
 
-**7:14** And I said to him, "My lord, you know." And he said to me, "These are the ones coming out of the great tribulation, and they have washed their robes and made them white in the blood of the Lamb.
+**7:14** And I said to him, "My lord, you know." And he said to me, "These are the ones coming out of the great affliction, and they have washed their robes and made them white in the blood of the Lamb.
 
 **7:15** For this reason they are before the throne of God, and they serve Him day and night in His temple; and He who sits on the throne will spread His tent over them.
 
@@ -44,5 +44,5 @@
 - **7:5** — This list of tribes in 7:5-8 is unique in Scripture: Judah is placed first, Levi and Joseph are counted alongside Manasseh, and Dan is omitted. In the Greek text, the participle "sealed" appears only on the first entry (Judah) and the last entry (Benjamin).
 - **7:9** — The Greek exhibits characteristic Johannine syntax, shifting from the nominative participle "standing" to the accusative "clothed," and moving from singular "every nation" to plural "tribes and peoples and languages."
 - **7:14** — "My lord" (kyrie mou) is a respectful address to the elder rather than a divine title. The present participle "coming out" (hoi erchomenoi) can carry either an ongoing sense or a general identifying sense ("those who come out").
-- **7:15** — "Will spread His tent over them" renders skenosei ep' autous, literally "will tabernacle (or pitch a tent) over them," recalling God's sheltering presence with Israel in the wilderness.
+- **7:15** — "Will spread His tent over them" renders skenosei ep' autous, literally "will tabernacle (or pitch a tent) over them."
 - **7:17** — The Greek fronts "of life" for emphasis in "springs of the waters of life" (zoes pegas hydaton), using the plural "waters." The phrase "in the center of the throne" (ana meson tou thronou) places the Lamb within the throne's immediate space, echoing 5:6.

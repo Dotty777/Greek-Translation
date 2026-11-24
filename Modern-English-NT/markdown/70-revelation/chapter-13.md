@@ -7,15 +7,15 @@
 
 **13:1** And I saw a beast rising out of the sea, having ten horns and seven heads, and on its horns ten diadems, and on its heads a name of blasphemy.
 
-**13:2** And the beast that I saw was like a leopard, and its feet were like those of a bear, and its mouth was like a lion's mouth. And the dragon gave to it its power and its throne and great authority.
+**13:2** And the beast that I saw was like a leopard, and its feet were like those of a bear, and its mouth was like a lion's mouth. And the dragon gave to it his power and his throne and great authority.
 
 **13:3** And one of its heads appeared as though slaughtered to death, and its fatal wound was healed. And the whole earth marveled after the beast,
 
-**13:4** and they worshiped the dragon because it gave the authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who is able to wage war with it?"
+**13:4** and they worshiped the dragon because he gave the authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who is able to wage war with it?"
 
 **13:5** And a mouth speaking great things and blasphemies was given to it, and authority was given to it to act for forty-two months.
 
-**13:6** And it opened its mouth in blasphemies against God, to blaspheme His name and His dwelling, those who dwell in heaven.
+**13:6** And it opened its mouth in blasphemies against God, to blaspheme His name and His tabernacle, those who dwell in heaven.
 
 **13:7** And it was given to it to make war with the saints and to conquer them, and authority was given to it over every tribe and people and language and nation.
 

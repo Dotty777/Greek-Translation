@@ -11,7 +11,7 @@
 
 **4:3** For the time that has passed is sufficient to have carried out the purpose of the Gentiles, having walked in debauchery, passions, drunkenness, revelries, drinking bouts, and lawless idolatries.
 
-**4:4** In this regard, they are surprised that you do not run together with them into the same flood of reckless dissipation, slandering you;
+**4:4** In this regard, they are surprised that you do not run together with them into the same flood of reckless dissipation, and they speak abusively;
 
 **4:5** they will give an account to Him who stands ready to judge the living and the dead.
 

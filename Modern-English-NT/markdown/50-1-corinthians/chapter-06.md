@@ -33,7 +33,7 @@
 
 **6:14** And God both raised the Lord and will raise us up through His power.
 
-**6:15** Do you not know that your bodies are members of Christ? Should I then take the members of Christ and make them members of a prostitute? By no means!
+**6:15** Do you not know that your bodies are members of Christ? Should I then take the members of Christ and make them members of a prostitute? May it never happen!
 
 **6:16** Or do you not know that the one who unites himself to a prostitute is one body with her? For "The two," He says, "will become one flesh."
 

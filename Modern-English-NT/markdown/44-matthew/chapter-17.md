@@ -43,7 +43,7 @@
 
 **17:19** Then the disciples approached Jesus privately and said, "Why were we not able to cast it out?"
 
-**17:20** And He told them, "Because of your little faith. For truly I tell you, if you have faith like a mustard seed, you will say to this mountain, 'Move from here to over there,' and it will move, and nothing will be impossible for you."
+**17:20** And He told them, "Because of your little faith. For truly I say to you, if you have faith like a mustard seed, you will say to this mountain, 'Move from here to over there,' and it will move, and nothing will be impossible for you."
 
 **17:22** Now while they were gathering together in Galilee, Jesus said to them, "The Son of Man is about to be handed over into the hands of men,
 
@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **17:15** — Greek seleniazetai literally means "is moonstruck," the ancient term for epilepsy or recurring seizures.
-- **17:20** — Greek oligopistian means "little faith" rather than "unbelief." Verse 21 ("But this kind does not go out except by prayer and fasting") is absent from the earliest manuscripts and is omitted in this critical text.
+- **17:20** — Greek oligopistian means "little faith" rather than "unbelief." Verse 21 ("But this kind does not go out except by prayer and fasting") is absent from the earliest manuscripts; the Saints Greek Critical Text prints it within double brackets ⟦ ⟧ (shown as an additional verse).
 - **17:24** — Greek ta didrachma ("the two-drachma") refers to the annual half-shekel temple tax paid by adult Jewish males (Exod 30:13).
 - **17:27** — A stater was a silver coin worth four drachmas, the exact sum required to pay the two-drachma temple tax for both Jesus and Peter.
 - **17:21 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

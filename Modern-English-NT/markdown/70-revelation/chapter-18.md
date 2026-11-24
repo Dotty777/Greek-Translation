@@ -9,7 +9,7 @@
 
 **18:2** And he cried out with a mighty voice, saying, "Fallen, fallen is Babylon the great! And she has become a dwelling place of demons, a prison for every unclean spirit, and a prison for every unclean and hated bird,
 
-**18:3** because from the wine of the passion of her sexual immorality all the nations have fallen, and the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the power of her luxury."
+**18:3** because from the wine of the fury of her sexual immorality all the nations have fallen, and the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the power of her luxury."
 
 **18:4** And I heard another voice out of heaven, saying, "Come out of her, My people, so that you do not participate in her sins and so that you do not receive any of her plagues;
 

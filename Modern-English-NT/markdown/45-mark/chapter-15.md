@@ -15,7 +15,7 @@
 
 **15:5** Yet Jesus answered nothing further, so that Pilate was amazed.
 
-**15:6** Now at the festival he used to release to them one prisoner, whomever they requested.
+**15:6** Now at the feast he used to release to them one prisoner, whomever they requested.
 
 **15:7** And the man called Barabbas had been bound with the insurrectionists who had committed murder in the insurrection.
 

@@ -79,7 +79,7 @@
 
 **27:37** And they placed above His head the written charge against Him: "This is Jesus, the King of the Jews."
 
-**27:38** Then two bandits were crucified with Him, one on the right and one on the left.
+**27:38** Then two robbers were crucified with Him, one on the right and one on the left.
 
 **27:39** And those passing by were reviling Him, shaking their heads
 
@@ -91,7 +91,7 @@
 
 **27:43** He has trusted in God; let Him deliver Him now, if He delights in Him; for He said, 'I am the Son of God.'"
 
-**27:44** In the same way, the bandits who had been crucified with Him were also reproaching Him.
+**27:44** In the same way, the robbers who had been crucified with Him were also reproaching Him.
 
 **27:45** Now from the sixth hour, darkness came over all the land until the ninth hour.
 

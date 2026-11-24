@@ -49,8 +49,8 @@
 
 ## Translator Notes
 
-- **19:6** — The verb ἐβασίλευσεν ("has begun to reign") is an ingressive aorist, highlighting the decisive inauguration of God's universal reign rather than merely an ongoing state.
+- **19:6** — The verb ἐβασίλευσεν ("has begun to reign") is taken as an ingressive aorist.
 - **19:10** — The phrase τὴν μαρτυρίαν Ἰησοῦ ("the testimony of Jesus") is grammatically open to being read either as the testimony borne by Jesus (subjective genitive) or the testimony about Jesus (objective genitive).
 - **19:13** — The source text reads βεβαμμένον ("dipped"), a notable textual variant where some manuscripts read a form of "sprinkled," likely under the influence of Isaiah 63:3.
-- **19:15** — The verb ποιμανεῖ ("will shepherd") echoes Psalm 2:9 in the Septuagint, where shepherding with an iron rod represents stern, decisive authority over hostile nations.
+- **19:15** — The verb ποιμανεῖ ("will shepherd") echoes Psalm 2:9 in the Septuagint.
 - **19:20** — The Greek participle τῆς καιομένης ("that burns") appears in the feminine genitive rather than accusative, a grammatical irregularity typical of Revelation that links the burning directly to the lake of fire.

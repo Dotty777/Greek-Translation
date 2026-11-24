@@ -7,7 +7,7 @@
 
 **14:1** Now it was two days until the Passover and the Unleavened Bread. And the chief priests and the scribes were seeking how they might seize Him by deceit and kill Him.
 
-**14:2** For they were saying, "Not during the festival, or else there will be an uproar of the people."
+**14:2** For they were saying, "Not during the feast, or else there will be an uproar of the people."
 
 **14:3** And while He was in Bethany, in the house of Simon the leper, as He was reclining at table, a woman came with an alabaster jar of very costly perfume of genuine nard. After breaking the alabaster jar, she poured it over His head.
 

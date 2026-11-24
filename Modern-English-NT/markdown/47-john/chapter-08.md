@@ -71,7 +71,7 @@
 
 **8:33** They answered Him, "We are offspring of Abraham and have never been enslaved to anyone. How do You say, 'You will become free'?"
 
-**8:34** Jesus replied to them, "Truly, truly, I tell you that everyone who commits sin is a slave of sin.
+**8:34** Jesus replied to them, "Truly, truly, I say to you that everyone who commits sin is a slave of sin.
 
 **8:35** Now the slave does not remain in the house forever; the son remains forever.
 
@@ -105,7 +105,7 @@
 
 **8:50** I, however, do not seek My glory; there is One who seeks and judges.
 
-**8:51** Truly, truly, I tell you, if anyone keeps My word, he will never see death."
+**8:51** Truly, truly, I say to you, if anyone keeps My word, he will never see death."
 
 **8:52** The Jews said to Him, "Now we know that You have a demon. Abraham died, and the prophets as well, yet You say, 'If anyone keeps My word, he will never taste death.'
 
@@ -119,7 +119,7 @@
 
 **8:57** Therefore the Jews said to Him, "You are not yet fifty years old, and You have seen Abraham?"
 
-**8:58** Jesus said to them, "Truly, truly, I tell you, before Abraham came into being, I am."
+**8:58** Jesus said to them, "Truly, truly, I say to you, before Abraham came into being, I am."
 
 **8:59** So they picked up stones to throw at Him, yet Jesus concealed Himself and went out from the temple.
 

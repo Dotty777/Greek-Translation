@@ -13,7 +13,7 @@
 
 **15:4** and that He was buried, and that He has been raised on the third day according to the Scriptures,
 
-**15:5** and that He appeared to Cephas, then to the Twelve.
+**15:5** and that He appeared to Cephas, then to the twelve.
 
 **15:6** After that He appeared to more than five hundred brothers at a single time, most of whom remain until now, though some have fallen asleep.
 

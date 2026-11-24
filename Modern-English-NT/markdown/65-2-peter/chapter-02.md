@@ -27,7 +27,7 @@
 
 **2:11** whereas angels, though greater in strength and power, do not bring a reviling judgment against them before the Lord.
 
-**2:12** But these people, like unreasoning animals, born by nature for capture and destruction, reviling things of which they are ignorant, will also be destroyed in their own destruction,
+**2:12** But these people, like unreasoning animals, born by nature for capture and destruction, reviling things of which they are ignorant, will also be destroyed in their destruction,
 
 **2:13** suffering wrong as the wages of wrongdoing. They consider it pleasure to revel in the daytime; they are stains and blemishes, reveling in their deceptions while feasting with you,
 

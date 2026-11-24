@@ -46,5 +46,5 @@
 - **17:3** — Greek en pneumati lacks the definite article ("in spirit" or "in the Spirit"), as in 1:10 and 4:2. The participles gemonta ("full of") and echon ("having") display Revelation's characteristic irregularity in gender and case when modifying the neuter noun therion ("beast").
 - **17:5** — Greek mysterion ("a mystery") is punctuated here in apposition to "a name," reflecting the lowercase reading of the critical text; alternatively, it may be taken as the first word of the inscribed title itself ("Mystery, Babylon the Great...").
 - **17:8** — The critical text reads the infinitive hypagein ("is about... to go") rather than the finite verb hypagei ("goes"). Greek parestai literally means "will be present" (or "will appear"), standing in direct contrast to "is not."
-- **17:9** — The clause "and they are seven kings" appears at the end of verse 9 in the Greek text (placed in verse 10 in some translations) and can also be rendered "and there are seven kings."
+- **17:9** — The clause "and they are seven kings" stands at the end of verse 9 in the Greek text and can also be rendered "and there are seven kings."
 - **17:14** — The final clause ("and those with Him...") has no explicit Greek verb; it may be read as an independent descriptive clause ("are called and chosen and faithful") or as a second subject sharing in the Lamb's victory.

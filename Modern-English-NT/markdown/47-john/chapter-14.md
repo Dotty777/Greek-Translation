@@ -27,7 +27,7 @@
 
 **14:11** Believe Me that I am in the Father and the Father is in Me; otherwise, believe because of the works themselves.
 
-**14:12** Truly, truly, I tell you, the one who believes in Me, he also will do the works that I do; and he will do greater things than these, because I am going to the Father.
+**14:12** Truly, truly, I say to you, the one who believes in Me, he also will do the works that I do; and he will do greater things than these, because I am going to the Father.
 
 **14:13** And whatever you ask in My name, this I will do, so that the Father may be glorified in the Son.
 

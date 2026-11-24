@@ -39,7 +39,7 @@
 
 **5:18** For this reason, therefore, the Jews were seeking all the more to kill Him, because He was not only breaking the Sabbath, but was also calling God His own Father, making Himself equal to God.
 
-**5:19** So Jesus answered and said to them, "Truly, truly, I tell you, the Son can do nothing from Himself, unless He sees the Father doing something; for whatever He does, these things the Son also does in the same way.
+**5:19** So Jesus answered and said to them, "Truly, truly, I say to you, the Son can do nothing from Himself, unless He sees the Father doing something; for whatever He does, these things the Son also does in the same way.
 
 **5:20** For the Father loves the Son and shows Him all the things that He Himself does; and He will show Him greater works than these, so that you may marvel.
 
@@ -49,9 +49,9 @@
 
 **5:23** so that all may honor the Son just as they honor the Father. The one who does not honor the Son does not honor the Father who sent Him.
 
-**5:24** Truly, truly, I tell you, the one who hears My word and believes Him who sent Me has eternal life, and does not come into judgment, but has crossed over out of death into life.
+**5:24** Truly, truly, I say to you, the one who hears My word and believes Him who sent Me has eternal life, and does not come into judgment, but has crossed over out of death into life.
 
-**5:25** Truly, truly, I tell you, an hour is coming and is now here, when the dead will hear the voice of the Son of God, and those who have heard will live.
+**5:25** Truly, truly, I say to you, an hour is coming and is now here, when the dead will hear the voice of the Son of God, and those who have heard will live.
 
 **5:26** For just as the Father has life in Himself, so He also gave the Son to have life in Himself,
 

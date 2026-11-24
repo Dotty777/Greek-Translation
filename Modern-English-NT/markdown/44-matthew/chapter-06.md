@@ -5,15 +5,15 @@
 
 ## Text
 
-**6:1** "Now take care not to practice your righteousness before people in order to be seen by them; otherwise you have no reward with your Father who is in the heavens.
+**6:1** "Now take care not to practice your righteousness before people in order to be seen by them; otherwise you have no reward with your Father who is in heaven.
 
-**6:2** Therefore, when you do an act of charity, do not sound a trumpet before you, just as the hypocrites do in the synagogues and in the streets, so that they may be honored by people. Truly I tell you, they have received their reward in full.
+**6:2** Therefore, when you do an act of charity, do not sound a trumpet before you, just as the hypocrites do in the synagogues and in the streets, so that they may be honored by people. Truly I say to you, they have received their reward in full.
 
 **6:3** But when you do an act of charity, do not let your left hand know what your right hand is doing,
 
 **6:4** so that your act of charity may be in secret; and your Father who sees in secret will repay you.
 
-**6:5** And when you pray, you must not be like the hypocrites; for they love to stand and pray in the synagogues and on the corners of the wide streets, so that they may be seen by people. Truly I tell you, they have received their reward in full.
+**6:5** And when you pray, you must not be like the hypocrites; for they love to stand and pray in the synagogues and on the corners of the wide streets, so that they may be seen by people. Truly I say to you, they have received their reward in full.
 
 **6:6** But you, when you pray, go into your inner room, shut your door, and pray to your Father who is in secret; and your Father who sees in secret will repay you.
 
@@ -21,7 +21,7 @@
 
 **6:8** Therefore, do not be like them, for your Father knows what you need before you ask Him.
 
-**6:9** You, then, pray in this way: 'Our Father who is in the heavens, may Your name be held holy,
+**6:9** You, then, pray in this way: 'Our Father who is in heaven, may Your name be held holy,
 
 **6:10** may Your kingdom come, may Your will be done, as in heaven, so also on earth.
 
@@ -35,7 +35,7 @@
 
 **6:15** But if you do not forgive people, neither will your Father forgive your transgressions.
 
-**6:16** Now when you fast, do not become gloomy like the hypocrites, for they disfigure their faces so that they may be seen by people to be fasting. Truly I tell you, they have received their reward in full.
+**6:16** Now when you fast, do not become gloomy like the hypocrites, for they disfigure their faces so that they may be seen by people to be fasting. Truly I say to you, they have received their reward in full.
 
 **6:17** But you, when you fast, anoint your head and wash your face,
 

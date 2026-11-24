@@ -7,7 +7,7 @@
 
 **1:1** Jude, a slave of Jesus Christ and brother of James, to those who are called, loved in God the Father and kept for Jesus Christ:
 
-**1:2** May mercy, peace, and love be multiplied for you.
+**1:2** May mercy, peace, and love be multiplied to you.
 
 **1:3** Beloved, while making every effort to write to you concerning our shared salvation, I had an urgent need to write to you, exhorting you to contend earnestly for the faith handed down once for all to the saints.
 
@@ -15,7 +15,7 @@
 
 **1:5** Now I want to remind you, even though you know all things once for all, that Jesus, having saved a people out of the land of Egypt, afterward destroyed those who did not believe,
 
-**1:6** and angels who did not keep their own sphere of authority, but left their own dwelling, He has kept under deep gloom in eternal bonds for the judgment of the great day;
+**1:6** and angels who did not keep their own sphere of authority, but left their own dwelling, He has kept under gloom in eternal bonds for the judgment of the great day;
 
 **1:7** just as Sodom and Gomorrah and the cities around them, in a similar way to these having given themselves over to sexual immorality and gone after different flesh, are set forth as an example, undergoing the punishment of eternal fire.
 
@@ -27,7 +27,7 @@
 
 **1:11** Woe to them! For they went in the way of Cain, and for pay they rushed headlong into the error of Balaam, and in the rebellion of Korah they perished.
 
-**1:12** These are the hidden reefs in your love feasts as they feast with you, shepherding themselves without fear; waterless clouds swept along by winds; late-autumn trees without fruit, twice dead, uprooted;
+**1:12** These are the hidden reefs in your love feasts as they feast together, shepherding themselves without fear; waterless clouds swept along by winds; late-autumn trees without fruit, twice dead, uprooted;
 
 **1:13** wild waves of the sea, foaming up their own disgraces; wandering stars, for whom the gloom of darkness has been kept forever.
 
@@ -35,13 +35,13 @@
 
 **1:15** to execute judgment against all and to convict all the ungodly concerning all their deeds of ungodliness that they committed in an ungodly way, and concerning all the harsh things that ungodly sinners spoke against Him."
 
-**1:16** These are grumblers, malcontents, walking according to their own desires; and their mouth speaks boastful things, flattering people for the sake of advantage.
+**1:16** These are grumblers, malcontents, walking according to their desires; and their mouth speaks boastful things, flattering people for the sake of advantage.
 
 **1:17** But you, beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ,
 
 **1:18** how they were saying to you, "In the last time there will be mockers, walking according to their own desires for ungodliness."
 
-**1:19** These are the ones who cause divisions, merely natural people, not having the Spirit.
+**1:19** These are the ones who cause divisions, natural people, not having the Spirit.
 
 **1:20** But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,
 
@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **1:5** — The earliest and strongest manuscripts read "Jesus" (Ἰησοῦς) as the one who saved Israel out of Egypt, whereas other manuscripts read "the Lord" (κύριος) or "God" (θεός).
+- **1:5** — This text reads "Jesus" (Ἰησοῦς) as the one who saved a people out of Egypt; other manuscripts read "the Lord" (κύριος) or "God" (θεός).
 - **1:8** — "Glorious ones" translates the plural Greek noun δόξας (literally "glories"), denoting exalted angelic beings, as illustrated by the example in verse 9.
 - **1:12** — Greek σπιλάδες primarily means "hidden reefs" (matching the sea imagery in verse 13), though some interpreters take it as "stains" or "blemishes" by association with σπίλος.
 - **1:22** — Verses 22-23 have complex manuscript variation between two-clause and three-clause forms; this translation follows the three-clause critical text reading ἐλεᾶτε ("show mercy") in verse 22 rather than ἐλέγχετε ("reprove").

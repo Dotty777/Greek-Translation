@@ -27,7 +27,7 @@
 
 **5:11** Blessed are you whenever people insult you and persecute you and falsely speak every kind of evil against you on My account.
 
-**5:12** Rejoice and be overjoyed, because your reward is great in the heavens; for in the same way they persecuted the prophets who came before you.
+**5:12** Rejoice and be overjoyed, because your reward is great in heaven; for in the same way they persecuted the prophets who came before you.
 
 **5:13** You yourselves are the salt of the earth; yet if the salt becomes tasteless, with what will it be made salty? It is no longer good for anything except to be thrown outside and trampled underfoot by people.
 
@@ -35,11 +35,11 @@
 
 **5:15** neither do people light a lamp and place it beneath a measuring basket, but rather on the lampstand, and it shines for everyone who is in the house.
 
-**5:16** In the same way, let your light shine before people, so that they may see your good deeds and give glory to your Father who is in the heavens.
+**5:16** In the same way, let your light shine before people, so that they may see your good deeds and give glory to your Father who is in heaven.
 
 **5:17** Do not suppose that I came to annul the Law or the Prophets; I did not come to annul, but to fulfill.
 
-**5:18** For truly I tell you, until heaven and earth pass away, not a single iota nor a single stroke of a letter will ever pass away from the Law until everything comes to pass.
+**5:18** For truly I say to you, until heaven and earth pass away, not a single iota nor a single stroke of a letter will ever pass away from the Law until everything comes to pass.
 
 **5:19** Therefore, whoever sets aside one of the least of these commandments and teaches people accordingly will be called least in the kingdom of heaven; yet whoever practices and teaches them, this person will be called great in the kingdom of heaven.
 
@@ -55,7 +55,7 @@
 
 **5:25** Come to friendly terms with your legal opponent quickly while you are on the road with him, so that the opponent does not hand you over to the judge, and the judge to the officer, and you get thrown into prison.
 
-**5:26** Truly I tell you, you will certainly not come out from there until you have paid back the last quadrans.
+**5:26** Truly I say to you, you will certainly not come out from there until you have paid back the last quadrans.
 
 **5:27** You have heard that it was said, 'You must not commit adultery.'
 
@@ -93,7 +93,7 @@
 
 **5:44** Yet I tell you: love your enemies and pray on behalf of those who persecute you,
 
-**5:45** so that you may become sons of your Father who is in the heavens; because He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
+**5:45** so that you may become sons of your Father who is in heaven; because He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
 
 **5:46** For if you love those who love you, what reward do you have? Do not even the tax collectors do the same thing?
 

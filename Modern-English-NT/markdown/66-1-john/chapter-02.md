@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **2:2** — The Greek noun hilasmos ("propitiation," matching 4:10) refers to an atoning sacrifice that turns away divine wrath and removes sin; it is also variously rendered "atoning sacrifice" or "expiation."
+- **2:2** — Greek hilasmos (also in 4:10) denotes a means of atonement for sin; whether it stresses turning away wrath (propitiation) or removing sin (expiation) is debated.
 - **2:14** — The shift from present "I am writing" in vv. 12-13 to aorist "I wrote" in v. 14 is often understood either as an epistolary aorist written from the readers' standpoint or as looking back to the preceding section.
 - **2:20** — The Greek text reads "you all know" (oidate pantes), while many later manuscripts read "you know all things" (oidate panta).
 - **2:27** — The verb menete is identical in form for the imperative ("remain in Him") and the indicative ("you remain in Him"); the imperative matches the clear command in v. 28.

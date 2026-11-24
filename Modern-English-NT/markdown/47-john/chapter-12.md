@@ -9,11 +9,11 @@
 
 **12:2** So they made a dinner for Him there, and Martha was serving, while Lazarus was one of those reclining at table with Him.
 
-**12:3** Then Mary, taking a pound of very costly ointment of genuine nard, anointed the feet of Jesus and wiped His feet with her hair; and the house was filled with the fragrance of the ointment.
+**12:3** Then Mary, taking a pound of very costly perfume of genuine nard, anointed the feet of Jesus and wiped His feet with her hair; and the house was filled with the fragrance of the perfume.
 
 **12:4** But Judas Iscariot, one of His disciples, the one who was about to betray Him, said,
 
-**12:5** "Why was this ointment not sold for three hundred denarii and given to the poor?"
+**12:5** "Why was this perfume not sold for three hundred denarii and given to the poor?"
 
 **12:6** Now he said this, not because he cared about the poor, but because he was a thief, and since he held the money box, he used to take what was put into it.
 
@@ -51,7 +51,7 @@
 
 **12:23** And Jesus answered them, saying, "The hour has come for the Son of Man to be glorified.
 
-**12:24** Truly, truly, I tell you, unless the grain of wheat falls into the earth and dies, it remains by itself alone; but if it dies, it bears much fruit.
+**12:24** Truly, truly, I say to you, unless the grain of wheat falls into the earth and dies, it remains by itself alone; but if it dies, it bears much fruit.
 
 **12:25** The one who loves his life loses it, and the one who hates his life in this world will keep it for eternal life.
 

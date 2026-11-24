@@ -7,7 +7,7 @@
 
 **6:1** Now in these days, as the disciples were increasing in number, a complaint arose from the Hellenists against the Hebrews because their widows were being overlooked in the daily distribution.
 
-**6:2** So the Twelve summoned the multitude of the disciples and said, "It is not fitting for us to leave the word of God in order to serve tables.
+**6:2** So the twelve summoned the multitude of the disciples and said, "It is not fitting for us to leave the word of God in order to serve tables.
 
 **6:3** But, brothers, select from among you seven men of good reputation, full of the Spirit and of wisdom, whom we will appoint over this duty;
 

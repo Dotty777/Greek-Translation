@@ -7,7 +7,7 @@
 
 **24:1** And leaving the temple, Jesus was going on His way, and His disciples approached to show Him the buildings of the temple.
 
-**24:2** But He answered and said to them, "Do you not see all these things? Truly I tell you, by no means will a stone be left here upon a stone that will not be torn down."
+**24:2** But He answered and said to them, "Do you not see all these things? Truly I say to you, by no means will a stone be left here upon a stone that will not be torn down."
 
 **24:3** Now while He was sitting on the Mount of Olives, the disciples approached Him privately, saying, "Tell us, when will these things be, and what will be the sign of Your coming and of the close of the age?"
 
@@ -71,7 +71,7 @@
 
 **24:33** In the same way, you also, when you see all these things, know that He is near, at the doors.
 
-**24:34** Truly I tell you, this generation will by no means pass away until all these things take place.
+**24:34** Truly I say to you, this generation will by no means pass away until all these things take place.
 
 **24:35** Heaven and earth will pass away, yet My words will by no means pass away.
 
@@ -97,7 +97,7 @@
 
 **24:46** Blessed is that slave whom his master, when he arrives, will find doing so.
 
-**24:47** Truly I tell you, he will put him in charge of all his possessions.
+**24:47** Truly I say to you, he will put him in charge of all his possessions.
 
 **24:48** But if that wicked slave says in his heart, 'My master is taking a long time,'
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** Beloved, this is already the second letter I am writing to you, in both of which I am awakening your sincere mind through a reminder,
+**3:1** Beloved, this is already the second letter I am writing to you, in both of which I am stirring up your sincere mind by way of reminder,
 
 **3:2** that you should remember the words spoken beforehand by the holy prophets and the commandment of the Lord and Savior given through your apostles,
 

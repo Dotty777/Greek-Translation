@@ -7,7 +7,7 @@
 
 **5:1** Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the One who gave birth also loves the one born of Him.
 
-**5:2** In this way we know that we love God's children: whenever we love God and keep His commandments.
+**5:2** By this we know that we love God's children: whenever we love God and keep His commandments.
 
 **5:3** For the love of God is this: that we keep His commandments, and His commandments are not burdensome,
 
@@ -52,5 +52,5 @@
 - **5:6** — The phrase 'water and blood' is widely understood to refer to Jesus' baptism and sacrificial death on the cross.
 - **5:7** — The earliest and best Greek manuscripts omit the later Latin expansion known as the Comma Johanneum (which mentions three heavenly witnesses: the Father, the Word, and the Holy Spirit).
 - **5:16** — The 'sin leading to death' is often understood as willful, persistent apostasy or rejection of Christ; the implied subject of 'will give' is commonly taken to be God, though some understand the praying believer as God's instrument.
-- **5:18** — The shift from the perfect participle ('everyone who has been born of God') to the aorist participle ('the One who was born of God') with the object 'him' (auton) in the earliest manuscripts points to Christ guarding the believer; later manuscripts read 'keeps himself' (heauton).
-- **5:20** — Grammatically, 'This One' (houtos) can refer either to the nearest antecedent, Jesus Christ, or back to 'the True One' (God the Father); many interpreters see an intentional affirmation of Christ's full deity.
+- **5:18** — The shift from the perfect participle ('everyone who has been born of God') to the aorist participle ('the One who was born of God') with the object 'him' (auton), as this text reads, is commonly taken to refer to Christ guarding the believer; other manuscripts read 'keeps himself' (heauton).
+- **5:20** — Grammatically, 'This One' (houtos) can refer either to the nearest antecedent, Jesus Christ, or back to 'the True One' (God the Father).

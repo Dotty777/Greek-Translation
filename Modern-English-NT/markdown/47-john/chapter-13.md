@@ -35,7 +35,7 @@
 
 **13:15** For I have given you an example, so that just as I did for you, you also should do.
 
-**13:16** Truly, truly, I tell you, a slave is not greater than his master, nor is a messenger greater than the one who sent him.
+**13:16** Truly, truly, I say to you, a slave is not greater than his master, nor is a messenger greater than the one who sent him.
 
 **13:17** If you know these things, blessed are you if you do them.
 
@@ -43,9 +43,9 @@
 
 **13:19** From now on I am telling you before it happens, so that when it happens you may believe that I am.
 
-**13:20** Truly, truly, I tell you, whoever receives anyone I send receives Me, and the one who receives Me receives the One who sent Me."
+**13:20** Truly, truly, I say to you, whoever receives anyone I send receives Me, and the one who receives Me receives the One who sent Me."
 
-**13:21** Having said these things, Jesus was troubled in spirit, and He testified and said, "Truly, truly, I tell you that one of you will betray Me."
+**13:21** Having said these things, Jesus was troubled in spirit, and He testified and said, "Truly, truly, I say to you that one of you will betray Me."
 
 **13:22** The disciples were looking at one another, perplexed as to whom He was speaking about.
 
@@ -61,7 +61,7 @@
 
 **13:28** Now no one of those reclining at table understood why He said this to him.
 
-**13:29** For some were supposing, since Judas kept the money box, that Jesus was saying to him, "Buy what we need for the festival," or that he should give something to the poor.
+**13:29** For some were supposing, since Judas kept the money box, that Jesus was saying to him, "Buy what we need for the feast," or that he should give something to the poor.
 
 **13:30** So after taking the morsel, he went out immediately. And it was night.
 
@@ -79,7 +79,7 @@
 
 **13:37** Peter said to Him, "Lord, why can I not follow You right now? I will lay down my life for You."
 
-**13:38** Jesus answered, "Will you lay down your life for Me? Truly, truly, I tell you, a rooster will not crow until you have denied Me three times."
+**13:38** Jesus answered, "Will you lay down your life for Me? Truly, truly, I say to you, a rooster will not crow until you have denied Me three times."
 
 ## Translator Notes
 

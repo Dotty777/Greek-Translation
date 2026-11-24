@@ -9,7 +9,7 @@
 
 **18:2** And calling a little child to Himself, He set the child in the midst of them
 
-**18:3** and said, "Truly I tell you, unless you turn around and become like little children, you will by no means enter the kingdom of heaven.
+**18:3** and said, "Truly I say to you, unless you turn around and become like little children, you will by no means enter the kingdom of heaven.
 
 **18:4** Whoever therefore will humble himself like this little child, he is the greatest in the kingdom of heaven.
 
@@ -27,7 +27,7 @@
 
 **18:12** What do you think? If any man comes to have a hundred sheep, and one of them strays away, will he not leave the ninety-nine on the mountains and go search for the one that is straying?
 
-**18:13** And if it happens that he finds it, truly I tell you that he rejoices over it more than over the ninety-nine that have not strayed.
+**18:13** And if it happens that he finds it, truly I say to you that he rejoices over it more than over the ninety-nine that have not strayed.
 
 **18:14** So it is not the will of your Father who is in heaven that one of these little ones should perish.
 
@@ -37,9 +37,9 @@
 
 **18:17** And if he refuses to listen to them, tell it to the church; and if he also refuses to listen to the church, let him be to you like the Gentile and the tax collector.
 
-**18:18** Truly I tell you, whatever you bind on earth will have been bound in heaven, and whatever you loose on earth will have been loosed in heaven.
+**18:18** Truly I say to you, whatever you bind on earth will have been bound in heaven, and whatever you loose on earth will have been loosed in heaven.
 
-**18:19** Again, truly I tell you that if two of you agree on earth concerning anything that they may ask, it will be done for them by My Father who is in heaven.
+**18:19** Again, truly I say to you that if two of you agree on earth concerning anything that they may ask, it will be done for them by My Father who is in heaven.
 
 **18:20** For where two or three have been gathered together in My name, there I am in the midst of them."
 
@@ -80,7 +80,7 @@
 ## Translator Notes
 
 - **18:9** — Greek geennan tou pyros ("Gehenna of fire") refers to the Valley of Hinnom south of Jerusalem, used as a term for the place of final punishment.
-- **18:10** — Verse 11 ("For the Son of Man came to save the lost") is absent from the earliest manuscripts and is omitted in this critical text.
+- **18:10** — Verse 11 ("For the Son of Man came to save the lost") is absent from the earliest manuscripts; the Saints Greek Critical Text prints it within double brackets ⟦ ⟧ (shown as an additional verse).
 - **18:15** — The critical text omits "against you" (eis se), found in later manuscripts, leaving the brother's sin stated more generally.
 - **18:18** — The Greek future perfect periphrastic forms (estai dedemena and estai lelymena) express that what is bound or loosed on earth "will have been bound" or "will have been loosed" in heaven.
 - **18:22** — Greek hebdomēkontakis hepta literally reads "seventy times seven," though it can also be rendered "seventy-seven times" (echoing Gen 4:24 LXX).

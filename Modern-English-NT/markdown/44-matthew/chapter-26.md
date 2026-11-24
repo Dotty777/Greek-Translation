@@ -13,7 +13,7 @@
 
 **26:4** and they took counsel together so that they might seize Jesus by deceit and kill Him.
 
-**26:5** But they were saying, "Not during the festival, so that an uproar may not occur among the people."
+**26:5** But they were saying, "Not during the feast, so that an uproar may not occur among the people."
 
 **26:6** Now when Jesus was in Bethany, in the house of Simon the leper,
 

@@ -45,7 +45,7 @@
 
 **21:20** And when the disciples saw this, they were amazed, saying, "How did the fig tree wither instantly?"
 
-**21:21** And Jesus answered and said to them, "Truly I tell you, if you have faith and do not doubt, you will not only do what was done to the fig tree, but even if you say to this mountain, 'Be lifted up and thrown into the sea,' it will happen.
+**21:21** And Jesus answered and said to them, "Truly I say to you, if you have faith and do not doubt, you will not only do what was done to the fig tree, but even if you say to this mountain, 'Be lifted up and thrown into the sea,' it will happen.
 
 **21:22** And everything that you ask in prayer, believing, you will receive."
 
@@ -65,7 +65,7 @@
 
 **21:30** And approaching the other, he said the same thing; and he answered and said, 'I will, sir,' and he did not go.
 
-**21:31** Which of the two did the will of the father?" They said, "The first." Jesus said to them, "Truly I tell you that the tax collectors and the prostitutes are going ahead of you into the kingdom of God.
+**21:31** Which of the two did the will of the father?" They said, "The first." Jesus said to them, "Truly I say to you that the tax collectors and the prostitutes are going ahead of you into the kingdom of God.
 
 **21:32** For John came to you in the way of righteousness, and you did not believe him, whereas the tax collectors and the prostitutes believed him; and you, when you saw this, did not change your minds afterward so as to believe him.
 

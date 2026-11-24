@@ -105,7 +105,7 @@
 
 **1:50** Jesus answered and said to him, "Because I told you that I saw you under the fig tree, do you believe? You will see greater things than these."
 
-**1:51** And He says to him, "Truly, truly, I tell you, you will see heaven opened and the angels of God ascending and descending upon the Son of Man."
+**1:51** And He says to him, "Truly, truly, I say to you, you will see heaven opened and the angels of God ascending and descending upon the Son of Man."
 
 ## Translator Notes
 

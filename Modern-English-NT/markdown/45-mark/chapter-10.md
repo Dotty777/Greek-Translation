@@ -67,7 +67,7 @@
 
 **10:31** But many who are first will be last, and the last will be first."
 
-**10:32** Now they were on the road going up to Jerusalem, and Jesus was walking ahead of them; and they were amazed, while those who followed were afraid. And taking the Twelve aside again, He began to tell them the things that were about to happen to Him,
+**10:32** Now they were on the road going up to Jerusalem, and Jesus was walking ahead of them; and they were amazed, while those who followed were afraid. And taking the twelve aside again, He began to tell them the things that were about to happen to Him,
 
 **10:33** "Look, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and the scribes, and they will condemn Him to death and hand Him over to the Gentiles;
 

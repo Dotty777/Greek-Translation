@@ -7,7 +7,7 @@
 
 **11:1** Now a certain man was ill, Lazarus from Bethany, of the village of Mary and Martha her sister.
 
-**11:2** And it was Mary who anointed the Lord with ointment and wiped His feet with her hair, whose brother Lazarus was ill.
+**11:2** And it was Mary who anointed the Lord with perfume and wiped His feet with her hair, whose brother Lazarus was ill.
 
 **11:3** So the sisters sent to Him, saying, "Lord, look, the one You love is ill."
 

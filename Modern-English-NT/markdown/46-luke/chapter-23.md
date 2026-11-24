@@ -117,7 +117,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**23:17** *(after `23:16`)* ⟦Now he was obligated to release one to them at each festival.⟧
+**23:17** *(after `23:16`)* ⟦Now he was obligated to release one to them at each feast.⟧
 
 ## Translator Notes
 

@@ -25,7 +25,7 @@
 
 **11:10** Blessed is the coming kingdom of our father David! Hosanna in the highest!"
 
-**11:11** And He entered Jerusalem, into the temple; and after looking around at everything, since the hour was already late, He went out to Bethany with the Twelve.
+**11:11** And He entered Jerusalem, into the temple; and after looking around at everything, since the hour was already late, He went out to Bethany with the twelve.
 
 **11:12** And on the next day, when they had come out from Bethany, He became hungry.
 

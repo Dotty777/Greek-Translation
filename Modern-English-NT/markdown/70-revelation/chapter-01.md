@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** The revelation of Jesus Christ, which God gave to Him to show His servants the things that must happen soon; and He signified it by sending it through His angel to His servant John,
+**1:1** The revelation of Jesus Christ, which God gave to Him to show His slaves the things that must happen soon; and He signified it by sending it through His angel to His slave John,
 
 **1:2** who testified to the word of God and the testimony of Jesus Christ—everything he saw.
 
@@ -47,8 +47,8 @@
 
 ## Translator Notes
 
-- **1:4** — The Greek deliberately places the divine title "the One who is and who was and who is coming" in the nominative case after the preposition "from" (which normally takes the genitive), treating it as an indeclinable divine name echoing Exodus 3:14. "The seven spirits" is variously understood as the sevenfold fullness of the Holy Spirit (cf. Isaiah 11:2) or seven heavenly spirits before God's throne.
+- **1:4** — The Greek places the title "the One who is and who was and who is coming" in the nominative case after the preposition "from" (which normally takes the genitive), treating it as indeclinable. "The seven spirits" is variously understood as the sevenfold fullness of the Holy Spirit (cf. Isaiah 11:2) or seven heavenly spirits before God's throne.
 - **1:5** — The Greek text reads lysanti ("freed" or "released"), attested by the earliest manuscripts, whereas later manuscripts read lousanti ("washed"), a variant arising from their identical pronunciation in Koine Greek.
-- **1:10** — "The Lord's day" (he kyriake hemera) is the sole occurrence of this phrase in the New Testament and is widely understood as Sunday, the weekly commemoration of Christ's resurrection, though some interpreters view it as a reference to the eschatological Day of the Lord.
+- **1:10** — "The Lord's day" (he kyriake hemera) uses the adjective kyriakos ("belonging to the Lord"); the phrase occurs only here in the New Testament.
 - **1:15** — The rare Greek term chalkolibanon ("fine bronze"), found only here and in 2:18, refers to a gleaming copper or brass alloy whose exact composition is uncertain. The following participle pepyromenes ("fired") appears in the feminine genitive singular, creating a notable grammatical mismatch with the masculine plural "feet" and neuter dative "bronze."
 - **1:20** — The Greek word angeloi can mean either "angels" or "messengers." Interpreters debate whether the angels of the seven churches are heavenly beings representing each congregation, human leaders or envoys, or symbolic personifications of the churches themselves.

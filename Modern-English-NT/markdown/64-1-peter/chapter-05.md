@@ -13,7 +13,7 @@
 
 **5:4** And when the Chief Shepherd is manifested, you will receive the unfading crown of glory.
 
-**5:5** Likewise, you younger ones, submit to the elders. And all of you, clothe yourselves in humility toward one another, because "God resists the proud, but gives grace to the humble."
+**5:5** Likewise, you younger ones, be subject to the elders. And all of you, clothe yourselves in humility toward one another, because "God resists the proud, but gives grace to the humble."
 
 **5:6** Therefore, humble yourselves under God's mighty hand, so that He may exalt you in due time,
 

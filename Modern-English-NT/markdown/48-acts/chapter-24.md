@@ -63,6 +63,6 @@
 
 ## Translator Notes
 
-- **24:6** — The earliest manuscripts omit the material traditionally numbered as verse 7 (along with portions of verses 6 and 8) describing Lysias intervening by force; in the shorter text, "from him" in 24:8 refers directly to Paul.
+- **24:6** — The earliest manuscripts lack the material traditionally numbered as verse 7 (with portions of verses 6 and 8) describing Lysias intervening by force; the Saints Greek Critical Text prints verse 7 within double brackets ⟦ ⟧ (shown as an additional verse). In the shorter text, "from him" in 24:8 refers directly to Paul.
 - **24:19** — The Greek syntax breaks off abruptly (anacoluthon) after introducing "some Jews from Asia," shifting directly to the relative clause stating what they ought to have done.
 - **24:7 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

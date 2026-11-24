@@ -45,7 +45,7 @@
 
 **3:20** Now a mediator is not of one, yet God is one.
 
-**3:21** Is the law then against the promises of God? May it never be! For if a law had been given that was able to impart life, then righteousness would indeed have been from the law.
+**3:21** Is the law then against the promises of God? May it never happen! For if a law had been given that was able to impart life, then righteousness would indeed have been from the law.
 
 **3:22** Instead, the Scripture confined everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.
 

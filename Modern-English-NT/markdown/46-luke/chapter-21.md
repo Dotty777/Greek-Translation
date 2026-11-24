@@ -67,7 +67,7 @@
 
 **21:31** So also you, when you see these things taking place, know that the kingdom of God is near.
 
-**21:32** Truly I tell you that this generation will by no means pass away until all things take place.
+**21:32** Truly I say to you that this generation will by no means pass away until all things take place.
 
 **21:33** Heaven and earth will pass away, but My words will by no means pass away.
 

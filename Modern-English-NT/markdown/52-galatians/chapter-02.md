@@ -37,7 +37,7 @@
 
 **2:16** yet knowing that a person is not justified by works of the law except through faith in Jesus Christ, we too believed in Christ Jesus, so that we might be justified by faith in Christ and not by works of the law, because by works of the law no flesh will be justified.
 
-**2:17** But if, while seeking to be justified in Christ, we ourselves were also found to be sinners, is Christ then a servant of sin? May it never be!
+**2:17** But if, while seeking to be justified in Christ, we ourselves were also found to be sinners, is Christ then a servant of sin? May it never happen!
 
 **2:18** For if I rebuild the very things that I tore down, I demonstrate myself to be a transgressor.
 

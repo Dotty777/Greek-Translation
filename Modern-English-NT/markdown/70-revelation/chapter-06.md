@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **6:1** — The summons "Come!" (Greek erchou) here and in verses 3, 5, and 7 is addressed to the emerging horsemen rather than to John; later manuscripts add "and see," which is absent from the earliest witnesses.
+- **6:1** — The critical text has only "Come!" (Greek erchou) here and in verses 3, 5, and 7; later manuscripts add "and see," which is absent from the earliest witnesses.
 - **6:6** — "Quart" translates Greek choinix (about one liter, a single day's grain ration), and a denarius was a typical day's wage for a laborer, depicting extreme famine prices.
 - **6:8** — "Pale green" (Greek chloros) describes a sickly greenish-yellow pallor. "Pestilence" translates Greek thanatos (literally "death"), reflecting the Septuagint rendering of Hebrew deber ("plague" or "pestilence," as in Ezekiel 14:21).
 - **6:11** — "Should be completed" renders the Greek passive verb plerothosin, referring to the full number of fellow martyrs being reached without an explicit noun for "number" in the text.

@@ -25,7 +25,7 @@
 
 **7:10** Or if he also asks for a fish—will he hand him a snake?
 
-**7:11** If you, then, being evil, know how to give good gifts to your children, how much more will your Father who is in the heavens give good things to those who ask Him!
+**7:11** If you, then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask Him!
 
 **7:12** Therefore, everything that you want people to do for you, do in the same way for them also; for this is the Law and the Prophets.
 
@@ -45,7 +45,7 @@
 
 **7:20** So then, by their fruits you will recognize them.
 
-**7:21** Not everyone who says to Me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of My Father who is in the heavens.
+**7:21** Not everyone who says to Me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of My Father who is in heaven.
 
 **7:22** Many will say to Me on that day, 'Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons, and in Your name perform many mighty works?'
 

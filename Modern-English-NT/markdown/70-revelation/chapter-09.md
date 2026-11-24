@@ -52,6 +52,6 @@
 - **9:11** — Abaddon is a Hebrew name meaning "Destruction" (used in the Old Testament for the realm of the dead), and Apollyon is a Greek name meaning "Destroyer."
 - **9:13** — The Greek text here reads simply "the horns" without the numeral "four" found in some later manuscripts.
 - **9:14** — The Greek exhibits notable grammatical irregularities typical of Revelation, using a masculine participle ("saying") after the feminine noun "voice" and a nominative phrase ("the one holding the trumpet") in apposition to the dative "sixth angel."
-- **9:15** — A single Greek definite article governs "hour and day and month and year," pointing to one exact, divinely appointed moment rather than a span of time.
+- **9:15** — A single Greek definite article governs "hour and day and month and year," pointing to one exact moment rather than a span of time.
 - **9:16** — Literally "two myriads of myriads" (20,000 times 10,000, equaling 200,000,000).
 - **9:21** — The Greek word pharmakon (plural) literally denotes drugs or magical potions and is used here for sorcery and occult practices.

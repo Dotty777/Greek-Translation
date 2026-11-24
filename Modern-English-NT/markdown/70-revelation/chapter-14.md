@@ -15,7 +15,7 @@
 
 **14:5** and in their mouth no falsehood was found, for they are blameless.
 
-**14:6** And I saw another angel flying in midheaven, having an eternal gospel to proclaim to those who dwell on the earth, and to every nation and tribe and tongue and people,
+**14:6** And I saw another angel flying in midheaven, having an eternal gospel to proclaim to those who dwell on the earth, and to every nation and tribe and language and people,
 
 **14:7** saying in a loud voice, "Fear God and give Him glory, because the hour of His judgment has come; and worship the One who made heaven and earth and sea and springs of waters."
 
@@ -49,7 +49,7 @@
 
 - **14:3** — The Greek text here reads "a new song" directly, without the comparative particle "as/like" (ὡς) present in some manuscripts.
 - **14:8** — The Greek noun θυμός ("fury") carries the sense of both intense passion and fierce anger, forming a deliberate wordplay with "the wine of the fury of God" in 14:10.
-- **14:10** — "Mixed undiluted" preserves the deliberate Greek oxymoron κεκερασμένου ἀκράτου: because ancient wine was ordinarily mixed with water, wine mixed at full strength signifies unmitigated divine judgment.
+- **14:10** — "Mixed undiluted" preserves the Greek oxymoron κεκερασμένου ἀκράτου; ancient wine was ordinarily mixed with water.
 - **14:12** — The Greek genitive phrase τὴν πίστιν Ἰησοῦ ("the faith of Jesus") is grammatically ambiguous and may denote either faith placed in Jesus (objective genitive) or the faithfulness belonging to Jesus (subjective genitive).
 - **14:19** — The Greek text pairs the feminine noun ληνόν ("winepress") with the masculine adjective τὸν μέγαν ("the great"), a grammatical irregularity characteristic of Revelation's style.
-- **14:20** — One thousand six hundred stadia equals roughly 184 miles (about 296 kilometers), while the number itself (4 × 4 × 100) also functions symbolically to suggest complete extent.
+- **14:20** — One thousand six hundred stadia equals roughly 184 miles (about 296 kilometers).

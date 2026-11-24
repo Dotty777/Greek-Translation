@@ -19,7 +19,7 @@
 
 **5:7** Clean out the old leaven, so that you may be a new batch of dough, just as you are unleavened. For indeed our Passover, Christ, has been sacrificed.
 
-**5:8** So then let us observe the festival, not with old leaven nor with the leaven of malice and evil, but with the unleavened bread of sincerity and truth.
+**5:8** So then let us observe the feast, not with old leaven nor with the leaven of malice and evil, but with the unleavened bread of sincerity and truth.
 
 **5:9** I wrote to you in the letter not to associate with sexually immoral people,
 

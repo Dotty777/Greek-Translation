@@ -55,7 +55,7 @@
 
 **6:25** And having found Him on the other side of the sea, they said to Him, "Rabbi, when did You arrive here?"
 
-**6:26** Jesus answered them and said, "Truly, truly, I tell you, you are seeking Me not because you saw signs, but because you ate from the loaves and were satisfied.
+**6:26** Jesus answered them and said, "Truly, truly, I say to you, you are seeking Me not because you saw signs, but because you ate from the loaves and were satisfied.
 
 **6:27** Do not work for the food that perishes, but for the food that endures to eternal life, which the Son of Man will give you; for God the Father has placed His seal on Him."
 
@@ -67,7 +67,7 @@
 
 **6:31** Our fathers ate the manna in the wilderness, just as it stands written, 'He gave them bread from heaven to eat.'"
 
-**6:32** Therefore Jesus said to them, "Truly, truly, I tell you, it is not Moses who has given you the bread from heaven, but My Father is giving you the true bread from heaven.
+**6:32** Therefore Jesus said to them, "Truly, truly, I say to you, it is not Moses who has given you the bread from heaven, but My Father is giving you the true bread from heaven.
 
 **6:33** For the bread of God is that which descends from heaven and gives life to the world."
 
@@ -97,7 +97,7 @@
 
 **6:46** Not that anyone has seen the Father except the One who is from God; this One has seen the Father.
 
-**6:47** Truly, truly, I tell you, the one who believes has eternal life.
+**6:47** Truly, truly, I say to you, the one who believes has eternal life.
 
 **6:48** I am the bread of life.
 
@@ -109,7 +109,7 @@
 
 **6:52** So the Jews were quarreling with one another, saying, "How is this man able to give us the flesh to eat?"
 
-**6:53** Therefore Jesus said to them, "Truly, truly, I tell you, unless you eat the flesh of the Son of Man and drink His blood, you do not have life in yourselves.
+**6:53** Therefore Jesus said to them, "Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you do not have life in yourselves.
 
 **6:54** The one who eats My flesh and drinks My blood has eternal life, and I Myself will raise him up on the last day.
 
@@ -137,15 +137,15 @@
 
 **6:66** Because of this, many of His disciples went back and were no longer walking with Him.
 
-**6:67** Therefore Jesus said to the Twelve, "You do not also want to leave, do you?"
+**6:67** Therefore Jesus said to the twelve, "You do not also want to leave, do you?"
 
 **6:68** Simon Peter answered Him, "Lord, to whom will we go? You have words of eternal life,
 
 **6:69** and we ourselves have believed and come to know that You are the Holy One of God."
 
-**6:70** Jesus answered them, "Did I Myself not choose you, the Twelve? Yet one from among you is a devil."
+**6:70** Jesus answered them, "Did I Myself not choose you, the twelve? Yet one from among you is a devil."
 
-**6:71** Now He was speaking of Judas, son of Simon Iscariot, for he was about to betray Him—one of the Twelve.
+**6:71** Now He was speaking of Judas, son of Simon Iscariot, for he was about to betray Him—one of the twelve.
 
 ## Translator Notes
 

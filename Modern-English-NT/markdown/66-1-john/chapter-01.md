@@ -27,5 +27,5 @@
 
 ## Translator Notes
 
-- **1:1** — The neuter relative pronoun "What" (Greek ho) and the phrase "the Word of life" embrace both the gospel message proclaimed by the eyewitnesses and the personal Christ who embodies life.
+- **1:1** — The neuter relative "What" (Greek ho) refers broadly to what was heard, seen, and touched; "the Word of life" (tou logou tes zoes) may denote the proclaimed message of life, Christ as the Word, or both.
 - **1:4** — The Greek text reads "our joy" (hemon), whereas some manuscripts read "your joy" (hymon).

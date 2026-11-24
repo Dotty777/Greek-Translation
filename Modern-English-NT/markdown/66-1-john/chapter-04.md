@@ -51,5 +51,5 @@
 
 - **4:3** — Early Greek manuscripts read simply 'does not confess Jesus'; later manuscripts expand this to match v. 2, while a few Latin and patristic witnesses read 'annuls' or 'dissolves' Jesus.
 - **4:9** — The Greek adjective monogenes ("only-begotten," matching John 1:14, 18; 3:16, 18) denotes a unique, one-of-a-kind son; "among us" translates en hemin (lit. "in us").
-- **4:10** — The Greek hilasmos ('propitiation') refers to an atoning sacrifice that removes sin and turns away divine wrath.
-- **4:19** — The earliest Greek manuscripts read simply 'We love' without a direct object; later manuscripts add 'Him'.
+- **4:10** — On hilasmos ("propitiation"), see the note at 2:2.
+- **4:19** — This text reads simply 'We love' without a direct object; other manuscripts add 'Him' or 'God'.

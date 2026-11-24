@@ -7,9 +7,9 @@
 
 **21:1** And I saw a new heaven and a new earth, for the first heaven and the first earth passed away, and the sea exists no longer.
 
-**21:2** And I saw the holy city, New Jerusalem, descending out of heaven from God, prepared like a bride adorned for her husband.
+**21:2** And I saw the holy city, new Jerusalem, descending out of heaven from God, prepared like a bride adorned for her husband.
 
-**21:3** And I heard a loud voice from the throne saying, "Look, the dwelling of God is with people, and He will dwell with them, and they will be His peoples, and God Himself will be with them,
+**21:3** And I heard a loud voice from the throne saying, "Look, the tabernacle of God is with people, and He will dwell with them, and they will be His peoples, and God Himself will be with them,
 
 **21:4** and He will wipe away every tear from their eyes, and death will exist no longer; neither mourning nor crying nor pain will exist any longer. The first things have passed away."
 

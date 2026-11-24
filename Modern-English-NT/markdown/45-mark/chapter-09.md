@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** And He was saying to them, "Truly I tell you that there are some of those standing here who will by no means taste death until they see the kingdom of God having come in power."
+**9:1** And He was saying to them, "Truly I say to you that there are some of those standing here who will by no means taste death until they see the kingdom of God having come in power."
 
 **9:2** And after six days, Jesus took Peter and James and John with Him and led them up onto a high mountain privately by themselves; and He was transfigured before them,
 

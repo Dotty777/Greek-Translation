@@ -13,7 +13,7 @@
 
 **4:4** And around the throne were twenty-four thrones, and on the thrones were twenty-four elders sitting, clothed in white garments, and on their heads were golden crowns.
 
-**4:5** And from the throne proceed flashes of lightning and voices and peals of thunder; and seven torches of fire are burning before the throne, which are the seven Spirits of God,
+**4:5** And from the throne proceed flashes of lightning and sounds and peals of thunder; and seven torches of fire are burning before the throne, which are the seven spirits of God,
 
 **4:6** and before the throne is something like a sea of glass, like crystal. And in the center of the throne and around the throne are four living creatures, full of eyes in front and behind;
 
@@ -33,4 +33,4 @@
 - **4:2** — Greek ἐν πνεύματι lacks the article (literally "in spirit") and refers either to being moved by the Holy Spirit or to entering a visionary spiritual state (cf. 1:10).
 - **4:6** — The phrase "in the center of the throne and around the throne" (ἐν μέσῳ τοῦ θρόνου καὶ κύκλῳ τοῦ θρόνου) is spatially difficult, likely describing the four creatures positioned around the middle of each side of the throne.
 - **4:9** — In 4:9-10 the Greek pairs ὅταν ("whenever") with future indicative verbs ("will fall down... will worship... will cast"), a characteristic idiom in Revelation expressing repeated, ongoing action.
-- **4:11** — Greek ἦσαν καὶ ἐκτίσθησαν ("they existed and were created") has a notable textual history (some manuscripts read "they are" or "they did not exist"); the order likely expresses that all things have their being and were brought into creation solely by God's will.
+- **4:11** — Greek ἦσαν καὶ ἐκτίσθησαν ("they existed and were created") has a notable textual history; some manuscripts read "they are" or "they did not exist."

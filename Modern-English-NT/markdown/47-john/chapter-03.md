@@ -9,11 +9,11 @@
 
 **3:2** This man came to Him by night and said to Him, "Rabbi, we know that You have come from God as a teacher; for no one is able to perform these signs that You perform unless God is with him."
 
-**3:3** Jesus answered and said to him, "Truly, truly, I tell you, unless someone is born from above, he cannot see the kingdom of God."
+**3:3** Jesus answered and said to him, "Truly, truly, I say to you, unless someone is born from above, he cannot see the kingdom of God."
 
 **3:4** Nicodemus said to Him, "How can a man be born when he is old? He cannot enter into his mother's womb a second time and be born, can he?"
 
-**3:5** Jesus answered, "Truly, truly, I tell you, unless someone is born of water and Spirit, he cannot enter into the kingdom of God.
+**3:5** Jesus answered, "Truly, truly, I say to you, unless someone is born of water and Spirit, he cannot enter into the kingdom of God.
 
 **3:6** What has been born of the flesh is flesh, and what has been born of the Spirit is spirit.
 
@@ -25,7 +25,7 @@
 
 **3:10** Jesus answered and said to him, "Are you the teacher of Israel, and you do not understand these things?
 
-**3:11** Truly, truly, I tell you that we speak what we know and testify to what we have seen, yet you do not accept our testimony.
+**3:11** Truly, truly, I say to you that we speak what we know and testify to what we have seen, yet you do not accept our testimony.
 
 **3:12** If I told you earthly things and you do not believe, how will you believe if I tell you heavenly things?
 

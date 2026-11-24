@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** "Truly, truly, I tell you, the one who does not enter through the door into the fold of the sheep, but climbs up from another place, that one is a thief and a bandit.
+**10:1** "Truly, truly, I say to you, the one who does not enter through the door into the fold of the sheep, but climbs up from another place, that one is a thief and a robber.
 
 **10:2** But the one who enters through the door is a shepherd of the sheep.
 
@@ -17,9 +17,9 @@
 
 **10:6** This figure of speech Jesus spoke to them, yet they did not understand what the things were that He was speaking to them.
 
-**10:7** Therefore Jesus said to them again, "Truly, truly, I tell you, I am the door of the sheep.
+**10:7** Therefore Jesus said to them again, "Truly, truly, I say to you, I am the door of the sheep.
 
-**10:8** All who came before Me are thieves and bandits, but the sheep did not listen to them.
+**10:8** All who came before Me are thieves and robbers, but the sheep did not listen to them.
 
 **10:9** I am the door; if anyone enters through Me, he will be saved, and will go in and go out and find pasture.
 

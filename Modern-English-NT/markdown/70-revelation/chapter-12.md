@@ -45,6 +45,6 @@
 
 - **12:5** — The phrase "a son, a male" (υἱόν, ἄρρενα) reflects a Semitic idiom emphasizing the child's identity, while "shepherd" (ποιμαίνειν) directly echoes the Septuagint of Psalm 2:9.
 - **12:7** — The Greek combines a nominative subject with a genitive articular infinitive (ὁ Μιχαὴλ καὶ οἱ ἄγγελοι αὐτοῦ τοῦ πολεμῆσαι), a Semitic construction conveying that Michael and his angels fought against the dragon.
-- **12:11** — The preposition διά with the accusative strictly expresses cause ("because of"), though many translations render it instrumentally ("by") in this context.
+- **12:11** — The preposition διά with the accusative strictly expresses cause ("because of").
 - **12:14** — "A time and times and half a time" echoes Daniel 7:25 and 12:7 (three and a half years), corresponding to the 1,260 days mentioned in 12:6.
 - **12:18** — The Saints Greek Critical Text reads third-person ἐστάθη ("he stood," referring to the dragon), whereas some later manuscripts read first-person ἐστάθην ("I stood," referring to John) and attach the clause to 13:1.

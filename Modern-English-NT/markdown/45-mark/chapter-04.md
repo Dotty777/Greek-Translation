@@ -23,7 +23,7 @@
 
 **4:9** And He was saying, "The one who has ears to hear, let him hear."
 
-**4:10** And when He was alone, those around Him, together with the Twelve, were asking Him about the parables.
+**4:10** And when He was alone, those around Him, together with the twelve, were asking Him about the parables.
 
 **4:11** And He was saying to them, "To you the mystery of the kingdom of God has been given, but to those outside, all things come in parables,
 

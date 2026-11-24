@@ -17,7 +17,7 @@
 
 **10:6** and swore by Him who lives forever and ever, who created heaven and what is in it, and the earth and what is in it, and the sea and what is in it, that there will no longer be delay,
 
-**10:7** but in the days of the voice of the seventh angel, when he is about to blow the trumpet, then the mystery of God will be completed, just as He announced the good news to His own servants the prophets.
+**10:7** but in the days of the voice of the seventh angel, when he is about to sound the trumpet, then the mystery of God will be completed, just as He announced the good news to His own slaves the prophets.
 
 **10:8** And the voice that I heard from heaven was speaking with me again and saying, "Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the earth."
 
