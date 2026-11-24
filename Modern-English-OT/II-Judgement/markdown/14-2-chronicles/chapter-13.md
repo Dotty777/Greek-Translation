@@ -21,11 +21,11 @@
 
 **13:8** And now you yourselves speak of withstanding the kingdom of the Lord through the hand of the sons of David; and you are a great multitude, and with you are golden calves that Jeroboam made for you as gods.
 
-**13:9** Or did you not drive out the priests of the Lord, the sons of Aaron, and the Levites, and make for yourselves priests from the people of the whole land? Whoever came forward to fill his hands with calves from the cattle and with seven rams became a priest to that which is not God.
+**13:9** Or did you not drive out the priests of the Lord, the sons of Aaron, and the Levites, and make for yourselves priests from the people of the whole land? Whoever came forward to fill his hands with calves from the cattle and with seven rams became a priest to that which is not a god.
 
 **13:10** And we have not abandoned the Lord our God, and His priests, the sons of Aaron, minister to the Lord, and the Levites in their divisions;
 
-**13:11** they offer up in smoke to the Lord a burnt offering morning and evening, and compound incense, and arrangements of bread on the pure table, and the golden lampstand and the lamps for burning to light in the evening; for we ourselves keep the charges of the Lord, the God of our fathers, and you have abandoned Him.
+**13:11** they offer up in smoke to the Lord a burnt offering morning and evening, and compound incense, and presentations of bread on the pure table, and the golden lampstand and the lamps for burning to light in the evening; for we ourselves keep the charges of the Lord, the God of our fathers, and you have abandoned Him.
 
 **13:12** And look, with us at the head is the Lord, and His priests, and the signal trumpets to sound the signal over us. Sons of Israel, you will fight against the Lord, the God of our fathers, for it will not go well for you."
 

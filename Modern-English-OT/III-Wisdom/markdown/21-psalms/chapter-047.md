@@ -33,7 +33,7 @@
 
 **47:14** Set your hearts on her strength, and divide up her citadels, so that you may recount it to another generation.
 
-**47:15** For this is our God forever and to the age of the age.
+**47:15** For this is our God forever, and forever and ever.
 
 ## Translator Notes
 
@@ -41,4 +41,4 @@
 - **47:9** — Greek 'diapsalma' ('Interlude') indicates a musical pause or interlude corresponding to Hebrew 'selah'; 'the Lord of powers' literally renders Greek 'Kyriou ton dynameon.'
 - **47:10** — The Greek text here reads 'Your people' (laou sou), whereas some Greek witnesses and the Hebrew Masoretic Text read 'Your temple.'
 - **47:12** — The Greek reads 'Judea' (Ioudaias) where the Hebrew Masoretic Text reads 'Judah.'
-- **47:15** — The Greek text ends at 'to the age of the age,' without the concluding clause ('He will guide us...') present in some witnesses and the Hebrew Masoretic Text.
+- **47:15** — The Greek text ends at 'forever and ever,' without the concluding clause present in some Greek witnesses ('He will shepherd us forever') and in the Hebrew Masoretic Text ('He will guide us...').

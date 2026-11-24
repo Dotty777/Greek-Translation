@@ -9,7 +9,7 @@
 
 **40:2** "Will anyone turn aside judgment with the Sufficient One? And will one who reproves God answer it?"
 
-**40:3** Then Job, responding, said to the Lord,
+**40:3** Then Job answered and said to the Lord,
 
 **40:4** "Why do I still contend in judgment, being admonished and reproving the Lord, hearing such things when I am nothing? And what answer will I give to these things? I will put my hand over my mouth.
 
@@ -59,7 +59,7 @@
 
 **40:27** And will it speak to you with a plea, softly with supplication?
 
-**40:28** Will it make a covenant with you? And will you take it as a perpetual slave?
+**40:28** Will it make a covenant with you? And will you take it as a perpetual servant?
 
 **40:29** And will you play with it like a bird, or will you tie it like a sparrow for a child?
 

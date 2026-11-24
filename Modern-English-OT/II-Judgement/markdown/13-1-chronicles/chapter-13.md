@@ -19,7 +19,7 @@
 
 **13:7** And they put the ark of God on a new cart from the house of Amminadab; and Uzza and his brothers were driving the cart.
 
-**13:8** And David and all Israel were playing before God with all might, and with psalm-singers and with lyres and with harps, with tambourines and with cymbals and with trumpets.
+**13:8** And David and all Israel were playing before God with all might, and with singers and with lyres and with harps, with tambourines and with cymbals and with trumpets.
 
 **13:9** And they came as far as the threshing floor; and Uzza stretched out his hand to take hold of the ark, and the calf turned it aside.
 

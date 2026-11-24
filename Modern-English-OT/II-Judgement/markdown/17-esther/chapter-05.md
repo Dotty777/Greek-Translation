@@ -11,7 +11,7 @@
 
 **5:3** And the king said, "What do you want, Esther? And what is your petition? Up to half of my kingdom, and it will be yours."
 
-**5:4** And Esther said, "Today is my special day; if therefore it pleases the king, let both him and Haman come to the banquet that I will prepare today."
+**5:4** And Esther said, "Today is my special day; if therefore it seems good to the king, let both him and Haman come to the banquet that I will prepare today."
 
 **5:5** And the king said, "Hurry Haman, so that we may carry out Esther's word." And both of them came to the banquet that Esther had mentioned.
 
@@ -38,4 +38,4 @@
 - **5:1** — Verses 5:1-2 preserve the expanded Septuagint account of Esther's audience before the king (traditionally called Addition D). "Our decree is a general one" (Greek koinon, literally "common" or "public") means that the law applies to ordinary subjects rather than to the queen.
 - **5:4** — "Today is my special day" (Greek episemos, "notable" or "festive") is unique to the Septuagint and has no counterpart in the Hebrew Masoretic Text.
 - **5:10** — "Zosara" is the Septuagint name of Haman's wife, corresponding to Zeresh in the Hebrew Masoretic Text.
-- **5:14** — Greek xylon literally means "wood," "beam," or "pole" (used for hanging or impaling), traditionally rendered "gallows."
+- **5:14** — Greek xylon literally means "wood," "beam," or "pole" (used for hanging or impaling).

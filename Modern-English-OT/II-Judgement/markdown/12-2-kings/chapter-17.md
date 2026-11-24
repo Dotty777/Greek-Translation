@@ -23,7 +23,7 @@
 
 **17:9** and as many of the sons of Israel as clothed themselves with words that were not so against the Lord their God; and of which they built for themselves high places in all their cities, from a tower of watchmen to a fortified city.
 
-**17:10** And they set up for themselves pillars and sacred groves on every high hill and under every leafy tree.
+**17:10** And they set up for themselves pillars and groves on every high hill and under every leafy tree.
 
 **17:11** And they burned incense there at all the high places, just as the nations the Lord deported from before them, and they made partners and carved, to provoke the Lord to anger.
 
@@ -35,15 +35,15 @@
 
 **17:15** and His testimonies, all that He testified to them; and they walked after worthless things and became worthless, and after the nations around them, concerning which He commanded them not to do like them.
 
-**17:16** They forsook the commandments of the Lord their God, and made for themselves a cast image, two heifers, and made sacred groves, and bowed down to all the host of heaven, and served Baal.
+**17:16** They forsook the commandments of the Lord their God, and made for themselves a cast image, two heifers, and made groves, and bowed down to all the host of heaven, and served Baal.
 
-**17:17** And they led their sons and their daughters through fire, practiced divinations and read omens; and they sold themselves to do what was evil in the eyes of the Lord, to provoke Him to anger.
+**17:17** And they led their sons and their daughters through fire, practiced divinations and read omens; and they were sold to do what was evil in the eyes of the Lord, to provoke Him to anger.
 
 **17:18** And the Lord was very angry with Israel, and removed them from His presence; and none was left except the tribe of Judah all alone.
 
 **17:19** And indeed Judah did not keep the commandments of God, and they walked in the statutes of Israel that they had made. And they rejected the
 
-**17:20** Lord in all the offspring of Israel. And He shook them and gave them into the hand of those who plundered them, until He cast them away from His presence.
+**17:20** Lord in all the seed of Israel. And He shook them and gave them into the hand of those who plundered them, until He cast them away from His presence.
 
 **17:21** For Israel was apart from the house of David, and they made Jeroboam son of Nebat king; and Jeroboam drove Israel away from following the Lord and caused them to sin a great sin.
 
@@ -90,7 +90,7 @@
 ## Translator Notes
 
 - **17:4** — "Segor" is the distinct Septuagint name corresponding to "So" in the Hebrew text; "tribute" here and in v. 3 translates the Greek Semitic loanwords manaa and manach, and "wrongdoing" renders Greek adikian (vs. Hebrew "conspiracy").
-- **17:6** — The Greek reads plural "rivers of Gozar" (vs. Hebrew "river of Gozan") and "the mountains of the Medes" (Ore Medon, reflecting Hebrew "mountains" rather than "cities").
+- **17:6** — The Greek reads plural "rivers of Gozar" (vs. Hebrew "river of Gozan") and "the mountains of the Medes" (Ore Medon), where the Hebrew Masoretic Text has "cities of the Medes."
 - **17:11** — The Greek reads "made partners and carved" (koinonous kai echaraxan), whereas the Hebrew text has "did wicked things."
 - **17:19** — The Greek splits "they rejected the Lord" across vv. 19-20, making the people the subject (followed in v. 20 by "He shook them"), whereas the Hebrew reads "the Lord rejected all the offspring of Israel and afflicted them."
 - **17:30** — In vv. 30-31 the Greek preserves distinctive names—Rochchoth-bainithei, Ergel, Asimath, the Hivites (Huaioi), and Eblazer—and treats Sepharun as a third deity made by the Hivites rather than as the people who burned their children.

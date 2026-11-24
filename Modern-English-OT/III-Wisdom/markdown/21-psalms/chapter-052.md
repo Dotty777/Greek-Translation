@@ -24,4 +24,4 @@
 - **52:1** — Greek "maeleth" transliterates the obscure Hebrew musical term "Mahalath," whose exact meaning is uncertain.
 - **52:5** — Greek "brosei artou" ("as a meal of bread," lit. "with an eating of bread") renders the Hebrew idiom "as they eat bread"; "My people" reflects God's voice following verse 3.
 - **52:6** — Greek "anthropareskon" ("people-pleasers"; cf. Eph 6:6; Col 3:22) differs sharply from the Hebrew MT ("the one who encamps against you"), and "kateischynthesan" ("they were put to shame") is third-person passive rather than second-person active.
-- **52:7** — Greek "tis dosei" ("Who will give...?") literally renders the Hebrew wish idiom "mi yitten" ("Oh, that...!"), and "aichmalosian" specifically means "captivity" (where many renderings of the Hebrew read "fortunes").
+- **52:7** — Greek "tis dosei" ("Who will give...?") literally renders the Hebrew wish idiom "mi yitten" ("Oh, that...!"), and "aichmalosian" specifically means "captivity."

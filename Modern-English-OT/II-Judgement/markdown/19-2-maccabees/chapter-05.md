@@ -37,13 +37,13 @@
 
 **5:16** and taking the sacred vessels with his polluted hands, and sweeping away with his profane hands the things set up by many kings for the advancement and glory and honor of the place.
 
-**5:17** And Antiochus was lifted up in his mind, not perceiving that because of the sins of those who inhabited the city the Sovereign had been angry for a brief time, and therefore a disregard had occurred concerning the place.
+**5:17** And Antiochus was lifted up in his mind, not perceiving that because of the sins of those who inhabited the city the Master had been angry for a brief time, and therefore a disregard had occurred concerning the place.
 
-**5:18** For if it had not happened that they were entangled in many sins, just as it was with Heliodorus who was sent by Seleucus the king for the inspection of the treasury, this man, upon advancing, would immediately have been scourged and turned back from his audacity.
+**5:18** For if it had not happened that they were entangled in many sins, just as it was with Heliodorus who was sent by Seleucus the king for the inspection of the treasury, this man, upon advancing, would immediately have been flogged and turned back from his audacity.
 
 **5:19** However, the Lord did not choose the nation because of the place, but the place because of the nation.
 
-**5:20** Therefore the place itself also, having shared in the misfortunes that befell the nation, afterward shared in the benefits; and that which was overtaken in the wrath of the Almighty was restored again with all glory in the reconciliation of the great Sovereign.
+**5:20** Therefore the place itself also, having shared in the misfortunes that befell the nation, afterward shared in the benefits; and that which was overtaken in the wrath of the Almighty was restored again with all glory in the reconciliation of the great Master.
 
 **5:21** So Antiochus, having carried off eighteen hundred talents from the temple, hurriedly departed to Antioch, thinking in his arrogance that he could make the land navigable and the sea passable on foot, because of the loftiness of his heart.
 

@@ -1,11 +1,11 @@
 # Ezra 7 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ezra`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**7:1** And after the events, in the reign of Artaxerxes, king of the Persians, Ezra went up, the son of Seraiah, the son of Azariah, the son of Hilkiah,
+**7:1** And after the events, in the reign of Artaxerxes, king of the Persians, Ezra went up, the son of Seraiah, the son of Zerahiah, the son of Hilkiah,
 
 **7:2** the son of Shallum, the son of Zadok, the son of Ahitub,
 
@@ -63,6 +63,7 @@
 
 ## Translator Notes
 
+- **7:1** — The Greek reads Zareiou (Zerahiah) where the Hebrew Masoretic Text has Azariah.
 - **7:3** — The Greek genealogy reads the distinct name "Samariah" (Samareia) here, where the Hebrew Masoretic Text has "Amariah."
 - **7:4** — The Greek genealogy reads the distinct name "Saouia" here, where the Hebrew Masoretic Text has "Uzzi."
 - **7:9** — The Greek omits the clause concerning Ezra's departure from Babylon on the first day of the first month (found in the Hebrew Masoretic Text) and uses plural "they came" here and in 7:8.

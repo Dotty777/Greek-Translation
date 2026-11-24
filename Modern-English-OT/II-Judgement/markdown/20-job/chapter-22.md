@@ -5,7 +5,7 @@
 
 ## Text
 
-**22:1** Then Eliphaz the Temanite replied and said:
+**22:1** Then Eliphaz the Temanite answered and said:
 
 **22:2** "Is it not the Lord who teaches understanding and knowledge?
 
@@ -15,7 +15,7 @@
 
 **22:5** Is not your wickedness great, and are not your sins innumerable?
 
-**22:6** For you kept taking pledges from your brothers for nothing, and you took away the clothing of the naked.
+**22:6** And you kept taking pledges from your brothers for nothing, and you took away the clothing of the naked.
 
 **22:7** You did not even give the thirsty water to drink, but you deprived the hungry of a morsel.
 

@@ -102,5 +102,5 @@
 - **18:10** — The Greek reads "he burned down the kingdom and its regions" where the Hebrew MT reads "he made the kingdom or nation swear"; similarly in v. 5 the Greek reads "from the tents" (vs. MT "of the animals").
 - **18:19** — Here and in v. 25 the Greek replaces the name Baal with "shame" ("prophets of shame"), and renders Asherah as "the groves" (singular "the grove" in v. 22); in v. 29 the Greek adds Elijah's command to "the prophets of the abominations" to step aside.
 - **18:21** — Literally "limp on both knee-joints," a vivid Greek idiom (vs. Hebrew MT "between two opinions/branches"); similarly in v. 27 the Greek renders Elijah's taunt as "occupied in conversation" and "transacting business."
-- **18:32** — Literally "a sea" (also in vv. 35 and 38), the Greek term for the water trench or basin around the altar, echoing the bronze "sea" of Solomon's temple.
+- **18:32** — Literally "a sea" (also in vv. 35 and 38), the Greek term for the water trench or basin around the altar.
 - **18:45** — The Greek reads "wept" (vs. Hebrew MT "rode") and "to Israel" here and in v. 46 (where the Hebrew MT has "to Jezreel"); in v. 44 the Greek likewise reads "the footprint of a man, bringing up water" (vs. MT "a man's palm, rising from the sea").

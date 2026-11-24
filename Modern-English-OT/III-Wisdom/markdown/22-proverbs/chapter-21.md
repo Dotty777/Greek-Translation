@@ -23,7 +23,7 @@
 
 **21:10** The soul of an ungodly person will not be shown mercy by any human being.
 
-**21:11** When an undisciplined person is punished, the evil person becomes more shrewd, and when a wise person understands, he will receive knowledge.
+**21:11** When an unrestrained person is punished, the evil person becomes more shrewd, and when a wise person understands, he will receive knowledge.
 
 **21:12** A righteous person understands the hearts of the ungodly and despises the ungodly in evil things.
 
@@ -71,4 +71,4 @@
 - **21:9** — The Septuagint reads "in whitewashed rooms with unrighteousness" where the Hebrew Masoretic Text reads "with a quarrelsome woman."
 - **21:16** — Greek giganton ("giants") is the standard Septuagint rendering of Hebrew Rephaim ("shades" or "the dead").
 - **21:18** — Greek perikatharma ("expiation") literally denotes a ritual cleansing or expiatory offering, used here to render Hebrew "ransom."
-- **21:30** — The Septuagint reads "courage" and "for the ungodly," diverging notably from the Masoretic Text ("understanding" and "against the LORD").
+- **21:30** — The Septuagint reads "courage" and "for the ungodly," diverging notably from the Masoretic Text ("understanding" and "against the Lord").

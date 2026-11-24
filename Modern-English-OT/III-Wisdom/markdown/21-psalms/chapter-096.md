@@ -5,7 +5,7 @@
 
 ## Text
 
-**96:1** Of David, when his land is being established. The Lord has become king; the earth will exult; let many islands be glad.
+**96:1** For David, when his land is being established. The Lord has become king; the earth will exult; let many islands be glad.
 
 **96:2** Cloud and thick darkness are around Him; righteousness and judgment are the firm foundation of His throne.
 
@@ -31,7 +31,7 @@
 
 ## Translator Notes
 
-- **96:1** — The Greek superscription ("Of David, when his land is being established") has no counterpart in Hebrew Psalm 97. Here and in 95:10, the aorist ἐβασίλευσεν carries an ingressive sense ("has become king").
+- **96:1** — The Greek superscription ("For David, when his land is being established") has no counterpart in Hebrew Psalm 97. Here and in 95:10, the aorist ἐβασίλευσεν carries an ingressive sense ("has become king").
 - **96:7** — Greek reads "all His angels" (πάντες οἱ ἄγγελοι αὐτοῦ), corresponding to Hebrew "all gods," a wording echoed in Hebrews 1:6.
 - **96:8** — Greek uses the regional name "Judea" (Ἰουδαίας) rather than the tribal or kingdom name "Judah."
 - **96:11** — Greek reads "has dawned" (ἀνέτειλεν), reflecting a different understanding of the Hebrew verb usually translated "is sown."

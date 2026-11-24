@@ -13,7 +13,7 @@
 
 **14:4** And he removed from all the cities of Judah the altars and the idols, and he was at peace.
 
-**14:5** Fortified cities were in the land of Judah, because the land was at peace; and he had no war in those years, because the Lord gave him rest.
+**14:5** Walled cities were in the land of Judah, because the land was at peace; and he had no war in those years, because the Lord gave him rest.
 
 **14:6** And he said to Judah, "Let us build these cities, and let us make walls and towers and gates and bars; we will have dominion before the land, because just as we sought the Lord our God, He sought us out, and gave us rest all around and granted us success."
 
@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **14:5** — The Greek text lacks a verb before 'fortified cities in the land of Judah' (where the Hebrew and some other witnesses read 'and he built fortified cities'), leaving a verbless clause following verse 4.
+- **14:5** — The Greek text lacks a verb before 'walled cities in the land of Judah' (where the Hebrew and some other witnesses read 'and he built fortified cities'), leaving a verbless clause following verse 4.
 - **14:6** — The Greek reads 'we will have dominion before the land' and 'He sought us out,' differing from the Hebrew ('the land is still before us; we have sought him'), and keeps 'and granted us success' inside Asa's speech.
 - **14:8** — The Greek gives Zerah's force simply as 'thousands' (rather than a million, as in the Hebrew; compare also 'two hundred and fifty thousand' in v. 7 vs. 280,000 in Hebrew) and spells the destination 'Marisel,' distinct from 'Mareshah' in v. 9 (where the Greek also reads 'to the north of Mareshah' rather than 'Zephathah at Mareshah').
 - **14:12** — The Greek reads 'Gedor' (also in v. 13) where the Hebrew text has 'Gerar.'

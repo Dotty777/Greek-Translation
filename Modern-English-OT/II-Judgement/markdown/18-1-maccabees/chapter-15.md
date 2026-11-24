@@ -7,7 +7,7 @@
 
 **15:1** And Antiochus, son of King Demetrius, sent letters from the islands of the sea to Simon, priest and ethnarch of the Jews, and to the whole nation.
 
-**15:2** And their contents were in this manner: "King Antiochus to Simon, high priest and ethnarch, and to the nation of the Jews, greetings.
+**15:2** And their contents were in this manner: "King Antiochus to Simon, great priest and ethnarch, and to the nation of the Jews, greetings.
 
 **15:3** Since certain pestilent men have seized control of the kingdom of our fathers, I plan to lay claim to the kingdom so that I may restore it as it was before; and I have recruited a multitude of mercenary forces and prepared warships,
 
@@ -69,7 +69,7 @@
 
 **15:32** And Athenobius, a friend of the king, came to Jerusalem, and he saw the glory of Simon, and a sideboard with gold vessels and silver vessels, and a large retinue; and he was amazed, and he reported to them the words of the king.
 
-**15:33** And Simon answered and said to him, "We have neither taken foreign land nor held what belongs to others, but the inheritance of our fathers; yet it was wrongfully seized by our enemies for a certain time.
+**15:33** And Simon answered and said to him, "We have neither taken foreign land nor held what belongs to others, but the inheritance of our fathers; yet it was wrongfully seized by our enemies at a certain time.
 
 **15:34** But we, having the opportunity, hold fast to our inheritance and that of our fathers.
 

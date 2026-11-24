@@ -15,7 +15,7 @@
 
 **32:5** He loves compassion and justice; the earth is full of the mercy of the Lord.
 
-**32:6** By the word of the Lord the heavens were made firm, and by the breath of His mouth all their host.
+**32:6** By the word of the Lord the heavens were made firm, and by the breath of His mouth all their power.
 
 **32:7** He gathers the waters of the sea as in a wineskin; He puts the deeps in storehouses.
 

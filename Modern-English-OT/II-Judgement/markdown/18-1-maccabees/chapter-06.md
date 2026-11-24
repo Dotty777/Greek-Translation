@@ -39,7 +39,7 @@
 
 **6:17** And Lysias learned that the king was dead, and he appointed Antiochus his son, whom he had raised while young, to reign in his place, and he called his name Eupator.
 
-**6:18** And those from the citadel were hemming Israel in around the sanctuary, continually seeking evil, and they were a support for the Gentiles.
+**6:18** And those from the citadel were hemming Israel in around the sanctuary, continually seeking evil, and they were a support for the nations.
 
 **6:19** And Judas resolved to destroy them, and he assembled all the people to besiege them
 
@@ -91,7 +91,7 @@
 
 **6:43** And Eleazar Sauaran saw one of the beasts armored with royal breastplates, and it towered above all the beasts, and it appeared that the king was on it.
 
-**6:44** And he gave himself to save his people and to acquire for himself an everlasting name.
+**6:44** And he gave himself to save his people and to acquire for himself an eternal name.
 
 **6:45** And he ran at it boldly into the middle of the phalanx, and he killed to the right and to the left, and they parted from him this way and that.
 
@@ -109,7 +109,7 @@
 
 **6:52** And they also built siege engines against their siege engines, and they fought for many days.
 
-**6:53** But there was no food in the sanctuary, because it was the seventh year, and those who had been rescued into Judea from the Gentiles had eaten up the remainder of the supplies;
+**6:53** But there was no food in the sanctuary, because it was the seventh year, and those who had been rescued into Judea from the nations had eaten up the remainder of the supplies;
 
 **6:54** and few men were left in the sanctuary, because the famine prevailed over them; and they scattered, each to his own place.
 
@@ -135,7 +135,7 @@
 
 - **6:1** — The Greek reads "in Elymais" (en Elymais), referring to the region in Persia; other manuscripts omit the preposition and identify Elymais itself as the city.
 - **6:2** — Greek kalymmata chrysa literally means "golden coverings," often understood in this military context as golden shields or protective armor.
-- **6:20** — This Greek text connects the date directly to the preceding verse; other manuscripts insert "and they gathered together and besieged it" before "in the one hundred fiftieth year."
+- **6:20** — This Greek text connects the date directly to the preceding verse; other manuscripts insert "and they gathered together and besieged them" before "in the one hundred fiftieth year."
 - **6:21** — The Greek reads "from it, from the blockade" (ex autou ek tou synkleismou); other manuscripts read "some of them went out from the blockade."
 - **6:28** — Greek tous epi ton henion ("those in charge of the reins") is a military idiom referring to cavalry or chariot commanders.
 - **6:37** — The Greek reads "thirty-two men" per elephant (a well-known textual crux, sometimes thought to reflect a different underlying Hebrew term or number); "its Indian" refers to the elephant's Indian driver.

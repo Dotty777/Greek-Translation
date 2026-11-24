@@ -7,7 +7,7 @@
 
 **18:1** And Jehoshaphat still had wealth and much glory, and he allied himself by marriage with the house of Ahab.
 
-**18:2** And at the end of some years he went down to Ahab in Samaria, and Ahab slaughtered many sheep and calves for him and for the people who were with him, and he coaxed him to go up with him to Ramoth of Gilead.
+**18:2** And at the end of some years he went down to Ahab in Samaria, and Ahab slaughtered many sheep and calves for him and for the people who were with him, and he showed him affection so that he would go up with him to Ramoth of Gilead.
 
 **18:3** And Ahab king of Israel said to Jehoshaphat king of Judah, "Will you go with me to Ramoth of Gilead?" And he said to him, "As I am, so also are you; as my people, so also your people, with you in war."
 
@@ -78,7 +78,7 @@
 - **18:7** — Greek reads "Jemaa" (Iemaas here and Iemaa in v. 8) where MT has Imlah.
 - **18:10** — Greek reads "Canaan" (Chanaan, also in v. 23) where MT has Chenaanah.
 - **18:18** — Greek opens Micaiah's speech with "Not so!" (reading the Hebrew consonants as lo ken) where MT has "Therefore" (laken).
-- **18:23** — The Greek text lacks a verb and repeats "spirit" (pneuma) three times in an apparent textual conflation (contrast MT "Which way did the Spirit of the LORD go from me to speak to you?").
+- **18:23** — The Greek text lacks a verb and repeats "spirit" (pneuma) three times in an apparent textual conflation (contrast MT "Which way did the Spirit of the Lord go from me to speak to you?").
 - **18:25** — Greek reads "Emer" where MT has Amon, and adds "the ruler" before "son of the king"; in v. 24 Greek also reads third-person singular "he will enter" where MT has second-person "when you go."
 - **18:29** — Greek reads the imperative "Disguise me" and "my clothing," whereas MT has "I will disguise myself" and "your robes."
 - **18:33** — Greek reads "with sure aim" (eustochos) where MT has "at random," and "the lung" (tou pneumonos) where MT has "the joints/scale-armor."

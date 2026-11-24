@@ -53,5 +53,5 @@
 
 - **17:6** — The genitive phrase 'that unseen sight' is syntactically debated: it can be taken as causal with 'terrified' ('terrified by that unseen sight') or as comparative with 'worse' ('worse than that unseen sight').
 - **17:11** — The Greek text reads idios ... martyrei ('testifies on its own') and proseilephen ('has added/taken on'), where some witnesses or critics read idio martyri ('condemned by its own witness') and proeilephen ('has anticipated/forecast').
-- **17:13** — This compressed philosophical sentence is notoriously difficult: 'expectation' (prosdokia) likely refers to expectation of aid from v. 11, and 'the cause' may be construed either as comparative ('greater than the cause') or as objective with 'ignorance' ('ignorance of the cause').
+- **17:13** — This compressed philosophical sentence is notoriously difficult: 'expectation' (prosdokia) likely refers to expectation of aid from v. 12, and 'the cause' may be construed either as comparative ('greater than the cause') or as objective with 'ignorance' ('ignorance of the cause').
 - **17:21 *(additional)*** — The verb form epetato is best understood as a shortened spelling or haplography for epetetato ('was stretched/spread over,' from epiteino), governing the dative 'over those alone.' This verse has no separate place in the Saints.Bible numbering, so it is shown after 17:20.

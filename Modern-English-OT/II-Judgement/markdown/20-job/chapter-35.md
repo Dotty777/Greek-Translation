@@ -17,7 +17,7 @@
 
 **35:7** And since, then, you are righteous, what will you give to Him, or what will He receive from your hand?
 
-**35:8** Your impiety is for a man like yourself, and your righteousness is for a son of man.
+**35:8** Your ungodliness is for a man like yourself, and your righteousness is for a son of man.
 
 **35:9** Because of a multitude, those who are oppressed will cry out; they will shout because of the arm of many.
 

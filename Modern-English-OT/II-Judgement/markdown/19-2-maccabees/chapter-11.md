@@ -57,7 +57,7 @@
 
 **11:26** You will do well, therefore, to send to them and give them pledges, so that knowing our policy they may both be of good cheer and gladly carry on in attending to their own affairs."
 
-**11:27** And the king's letter to the nation was as follows: "King Antiochus to the senate of the Jews and to the other Jews, greetings.
+**11:27** And the king's letter to the nation was as follows: "King Antiochus to the council of elders of the Jews and to the other Jews, greetings.
 
 **11:28** Be well; it would be as we wish; and we ourselves also are in good health.
 

@@ -25,4 +25,4 @@
 - **10:2** — The Greek reads "in a quiver" (eis pharetran), differing from the Hebrew Masoretic Text, which reads "on the bowstring."
 - **10:3** — The Septuagint reads "what You established, they have torn down" (ha katērtisō katheilon), addressing God directly, whereas the Hebrew Masoretic Text reads "if the foundations are destroyed."
 - **10:5** — In the Greek text, "the one who loves unrighteousness" is the subject who "hates his own soul" (tēn heautou psychēn), whereas in the Hebrew Masoretic Text God's soul hates the wicked and the lover of violence.
-- **10:7** — In the Greek grammar, "His face" (to prosōpon autou) is unmistakably the nominative subject and "uprightness" (euthytēta) the accusative object, whereas many translations of the Hebrew make the upright the subject who see God's face.
+- **10:7** — In the Greek, "uprightness" (euthytēta) is accusative, so "His face" (to prosōpon autou) is the subject; the Hebrew is commonly read with the upright as those who see His face.

@@ -61,7 +61,7 @@
 
 **18:28** And Rabshakeh stood and cried out loudly in Judean, and spoke and said, "Hear the words of the great king of the Assyrians.
 
-**18:29** Thus says the king: 'Do not let Hezekiah mislead you with words, for he will by no means be able to deliver you from his hand,
+**18:29** Thus says the king: 'Do not let Hezekiah elate you with words, for he will by no means be able to deliver you from his hand,
 
 **18:30** and do not let Hezekiah make you hope in the Lord, saying, "The Lord will surely deliver; this city will by no means be given into the hand of the king of the Assyrians."'
 

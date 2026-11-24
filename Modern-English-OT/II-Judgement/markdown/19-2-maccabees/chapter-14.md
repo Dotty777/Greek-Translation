@@ -31,9 +31,9 @@
 
 **14:13** giving written orders to put Judas himself to death, to scatter those with him, and to establish Alcimus as high priest of the greatest temple.
 
-**14:14** And the Gentiles in Judea who had fled from Judas joined Nicanor in droves, thinking that the misfortunes and calamities of the Jews would be their own prosperity.
+**14:14** And the nations in Judea who had fled from Judas joined Nicanor in droves, thinking that the misfortunes and calamities of the Jews would be their own prosperity.
 
-**14:15** Now when they heard of the advance of Nicanor and the assault of the Gentiles, sprinkling earth upon themselves, they implored Him who established His people forever and always with a manifestation comes to the aid of His own portion.
+**14:15** Now when they heard of the advance of Nicanor and the assault of the nations, sprinkling earth upon themselves, they implored Him who established His people forever and who always comes to the aid of His own portion with a manifestation.
 
 **14:16** And when the leader gave the order, immediately setting out from there, he engaged them at the village of Lessau.
 

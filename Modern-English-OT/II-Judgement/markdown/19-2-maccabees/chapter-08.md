@@ -31,7 +31,7 @@
 
 **8:13** those who were cowardly and distrusted the justice of God fled and removed themselves from the place,
 
-**8:14** while the others sold everything that remained, and at the same time begged the Lord to rescue those who had been sold by the impious Nicanor before they even met him,
+**8:14** while the others sold everything that remained, and at the same time begged the Lord to rescue those who had been sold by the impious Nicanor before they met him,
 
 **8:15** and if not for their own sake, yet for the sake of the covenants with their fathers, and because of the calling of His revered and majestic name upon them.
 

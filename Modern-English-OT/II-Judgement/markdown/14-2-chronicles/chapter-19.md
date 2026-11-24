@@ -29,7 +29,7 @@
 
 ## Translator Notes
 
-- **19:2** — Greek reads passive "one hated by the Lord" where MT has active "those who hate the LORD," and places "King Jehoshaphat" as a direct vocative opening Jehu's speech.
+- **19:2** — Greek reads passive "one hated by the Lord" where MT has active "those who hate the Lord," and places "King Jehoshaphat" as a direct vocative opening Jehu's speech.
 - **19:6** — Greek has nominative plural "the matters of judgment" (logoi tes kriseos) as the subject ("with you are the matters of judgment"), whereas MT reads "He is with you in the matter of judgment."
 - **19:8** — Greek reads "to judge those who dwell in Jerusalem," reading the Hebrew consonants as "inhabitants" rather than MT's "and they returned to Jerusalem."
 - **19:10** — The Greek syntax is compressed and broken, reading "every man" alongside "the case," "our brothers" (MT "your brothers"), and a single "blood" without "in their cities."

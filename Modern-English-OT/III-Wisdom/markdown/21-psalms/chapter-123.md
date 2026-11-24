@@ -26,4 +26,4 @@
 - **123:1** — Greek en hēmin literally means "among us" (or "in us"), distinct from the Hebrew idiom "for us / on our side."
 - **123:4** — In vv. 4-5, Greek makes "our soul" the grammatical subject ("our soul would have passed through") rather than the waters sweeping over the soul, and uses singular "the water" (to hydōr). The aorist indicatives continue the contrary-to-fact apodosis introduced with an in v. 3.
 - **123:5** — Greek anypostaton literally means "not to be withstood" or "offering no footing," hence "overwhelming."
-- **123:7** — Greek uses the passive of rhyomai ("was rescued ... were rescued"), emphasizing divine deliverance rather than an active escape, and pairs "hunters" (thēreuontōn) with "prey" (thēran) in v. 6.
+- **123:7** — Greek uses the passive of rhyomai ("was rescued ... were rescued") where the Hebrew reads "escaped," and pairs "hunters" (thēreuontōn) with "prey" (thēran) in v. 6.

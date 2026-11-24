@@ -9,17 +9,17 @@
 
 **6:2** And he found the records written concerning Mordecai, how he had reported to the king concerning the two eunuchs of the king, when they were keeping guard and sought to lay hands on Artaxerxes.
 
-**6:3** And the king said, "What honor or favor have we done for Mordecai?" And the servants of the king said, "You have done nothing for him."
+**6:3** And the king said, "What honor or favor have we done for Mordecai?" And the attendants of the king said, "You have done nothing for him."
 
 **6:4** Now while the king was inquiring about Mordecai's goodwill, look, Haman was in the courtyard. And the king said, "Who is in the courtyard?" Now Haman had come in to tell the king to hang Mordecai on the pole that he had prepared.
 
-**6:5** And the servants of the king said, "Look, Haman is standing in the courtyard." And the king said, "Call him."
+**6:5** And the attendants of the king said, "Look, Haman is standing in the courtyard." And the king said, "Call him."
 
 **6:6** And the king said to Haman, "What should I do for the man whom I wish to honor?" And Haman said within himself, "Whom does the king wish to honor except me?"
 
 **6:7** And he said to the king, "For a man whom the king wishes to honor,
 
-**6:8** let the king's attendants bring a fine linen robe that the king wears, and a horse on which the king rides,
+**6:8** let the king's servants bring a fine linen robe that the king wears, and a horse on which the king rides,
 
 **6:9** and let him give them to one of the illustrious friends of the king, and let him clothe the man whom the king loves, and mount him on the horse, and let him proclaim through the square of the city, saying, 'Thus it will be for every man whom the king honors.'"
 

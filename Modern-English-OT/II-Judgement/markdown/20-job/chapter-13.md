@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** Look, my eye has seen these things, and my ear has heard them.
+**13:1** "Look, my eye has seen these things, and my ear has heard them.
 
 **13:2** And I know as much as you also understand, and I am no less intelligent than you.
 
@@ -59,7 +59,7 @@
 
 **13:27** And You put my foot in a restraint, and You watched all my deeds, and You came to the roots of my feet,
 
-**13:28** which wears out like a wineskin, or like a moth-eaten garment.
+**13:28** which wears out like a wineskin, or like a moth-eaten garment."
 
 ## Translator Notes
 

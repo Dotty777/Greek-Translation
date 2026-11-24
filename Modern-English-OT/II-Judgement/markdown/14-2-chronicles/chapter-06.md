@@ -49,7 +49,7 @@
 
 **6:22** If a man sins against his neighbor and lays a curse on him to put him under a curse, and he comes and invokes the curse in front of the altar in this house,
 
-**6:23** then You will listen from heaven and act, and judge Your servants, to repay the lawless one and return his ways upon his head, to vindicate the righteous one, to repay him according to his righteousness.
+**6:23** then You will listen from heaven and act, and judge Your servants, to repay the lawless one and return his ways upon his head, to justify the righteous one, to repay him according to his righteousness.
 
 **6:24** And if Your people Israel are defeated in front of the enemy if they sin against You, and they turn back and confess to Your name and pray and make supplication before You in this house,
 

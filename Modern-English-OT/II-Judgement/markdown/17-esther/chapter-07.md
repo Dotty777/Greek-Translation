@@ -7,7 +7,7 @@
 
 **7:1** Now the king and Haman went in to drink with the queen.
 
-**7:2** And the king said to Esther on the second day during the drinking banquet, "What is it, Queen Esther, and what is your request, and what is your petition? And let it be yours, up to half of my kingdom."
+**7:2** And the king said to Esther on the second day during the drinking feast, "What is it, Queen Esther, and what is your request, and what is your petition? And let it be yours, up to half of my kingdom."
 
 **7:3** And answering, she said, "If I have found favor before the king, let my life be given at my request, and my word at my petition.
 

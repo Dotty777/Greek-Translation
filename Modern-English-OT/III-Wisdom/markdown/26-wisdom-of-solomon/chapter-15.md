@@ -46,6 +46,6 @@
 ## Translator Notes
 
 - **15:4** — Greek skiagraphon ('painters') literally refers to 'shadow-painters,' artists who used shading and perspective to create lifelike illusions.
-- **15:5** — Following the Greek manuscript reading oneidos ('reproach') rather than the conjectural emendation orexin ('desire,' reflected in the Vulgate). The abrupt shift from plural 'the foolish' to the singular verb pothei ('one longs for') is a known syntactic difficulty in the Greek text.
+- **15:5** — Following the Greek reading oneidos ('reproach'); other witnesses read orexin ('desire'). The abrupt shift from plural 'the foolish' to the singular verb pothei ('one longs for') is a known syntactic difficulty in the Greek text.
 - **15:9** — Greek kamnein ('fall ill') can mean 'grow weary,' 'fail in strength,' or 'fall ill,' pointing here to the potter's approaching frailty and mortality.
 - **15:17** — The Greek connecting relative hon (lit. 'of which') is syntactically compressed, functioning here in a causal or contrastive sense ('since he himself lived, whereas they never did').

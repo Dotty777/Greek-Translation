@@ -9,7 +9,7 @@
 
 **34:2** Take hold of weapon and shield, and rise up to my help.
 
-**34:3** Pour out a sword and close off the way against those who pursue me; say to my soul, "I am your salvation."
+**34:3** Pour out a sword and close in against those who pursue me; say to my soul, "I am your salvation."
 
 **34:4** May those who seek my soul be shamed and disgraced; may those who devise evil against me be turned backward and utterly shamed.
 
@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **34:3** — The Greek literally reads "Pour out a sword" (ἔκχεον ῥομφαίαν) and "close off" (σύνκλεισον), reflecting the Septuagint's distinct rendering of the Hebrew weaponry and blocking imagery.
+- **34:3** — The Greek literally reads "Pour out a sword" (ἔκχεον ῥομφαίαν) and "close in" (σύνκλεισον), reflecting the Septuagint's distinct rendering of the Hebrew weaponry and blocking imagery.
 - **34:7** — The Greek reads "the destruction of their snare" (διαφθορὰν παγίδος αὐτῶν) and "reproached" (ὠνείδισαν), differing from the Hebrew imagery of a hidden pit dug for the psalmist.
 - **34:13** — The Greek reads "when they were troubling me" (ἐν τῷ αὐτοὺς παρενοχλεῖν μοι) rather than "when they were sick," and uses a future verb ("will return," ἀποστραφήσεται) in the final clause.
 - **34:20** — The Greek reads "to me they were speaking peaceful things" (ἐμοὶ μὲν εἰρηνικὰ ἐλάλουν) and "in anger" (ἐπ᾽ ὀργῇ), contrasting with the Hebrew negative ("they do not speak peace") and "quiet ones of the land."

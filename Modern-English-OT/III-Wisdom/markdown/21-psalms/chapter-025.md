@@ -19,7 +19,7 @@
 
 **25:7** to hear a voice of praise and to recount all Your wondrous works.
 
-**25:8** Lord, I have loved the beauty of Your house and the place of the tabernacle of Your glory.
+**25:8** Lord, I have loved the beauty of Your house and the place of the tent of Your glory.
 
 **25:9** Do not destroy my soul together with the ungodly, or my life with men of blood,
 

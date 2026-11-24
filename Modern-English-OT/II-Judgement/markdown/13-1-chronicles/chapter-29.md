@@ -63,7 +63,7 @@
 
 **29:29** Now the rest of the deeds of King David, the former and the latter, are written in the accounts of Samuel the seer and in the accounts of Nathan the prophet and in the accounts of Gad the seer,
 
-**29:30** concerning all his kingdom and his might, which came upon him and upon Israel and upon all the kingdoms of the earth. Solomon the son of David grew strong over his kingdom, and the Lord his God was with him and exalted him to the heights.
+**29:30** concerning all his kingdom and his might, which came upon him and upon Israel and upon all the kingdoms of the earth. Solomon the son of David grew strong over his kingdom, and the Lord his God was with him and made him grow to the heights.
 
 ## Translator Notes
 

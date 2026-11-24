@@ -51,7 +51,7 @@
 
 **21:23** I will recount Your name to my brothers; in the midst of the assembly I will sing hymns to You.
 
-**21:24** You who fear the Lord, praise Him; all the offspring of Jacob, glorify Him; let all the offspring of Israel fear Him.
+**21:24** You who fear the Lord, praise Him; all the seed of Jacob, glorify Him; let all the seed of Israel fear Him.
 
 **21:25** For He did not treat with contempt nor loathe the petition of the poor, nor did He turn His face away from me; and when I cried out to Him, He heard me.
 
@@ -65,7 +65,7 @@
 
 **21:30** All the fat ones of the earth ate and worshiped; all who go down into the earth will fall prostrate before Him, and my soul lives for Him.
 
-**21:31** And my offspring will serve Him; the coming generation will be declared to the Lord,
+**21:31** And my seed will serve Him; the coming generation will be declared to the Lord,
 
 **21:32** and they will declare His righteousness to a people that will be born, whom the Lord made.
 

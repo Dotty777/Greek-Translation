@@ -9,7 +9,7 @@
 
 **11:2** From the nations concerning which the Lord had forbidden the sons of Israel, "You shall not go in to them, and they shall not go in to you, so that they do not turn your hearts aside after their idols," to them Solomon clung in love.
 
-**11:4** And it happened in the time of Solomon's old age that his heart was not whole with the Lord his God, as was the heart of David his father; and the foreign wives turned his heart aside after their gods.
+**11:4** And it happened in the time of Solomon's old age that his heart was not complete with the Lord his God, as was the heart of David his father; and the foreign wives turned his heart aside after their gods.
 
 **11:5** Then Solomon built a high place for Chemosh, the idol of Moab, and for their king, the idol of the sons of Ammon,
 
@@ -21,7 +21,7 @@
 
 **11:9** And the Lord became angry with Solomon, because he turned his heart aside from the Lord, the God of Israel, who had appeared to him twice
 
-**11:10** and had commanded him concerning this matter not at all to walk after other gods, and to take care to do what the Lord God had commanded him; nor was his heart whole with the Lord, according to the heart of David his father.
+**11:10** and had commanded him concerning this matter not at all to walk after other gods, and to take care to do what the Lord God had commanded him; nor was his heart complete with the Lord, according to the heart of David his father.
 
 **11:11** And the Lord said to Solomon, "Because these things have happened with you and you have not kept My commandments and My statutes which I commanded you, I will surely tear your kingdom from your hand and give it to your servant.
 
@@ -45,9 +45,9 @@
 
 **11:21** And Hader heard in Egypt that David had slept with his fathers, and that Joab the commander of the army was dead; and Hader said to Pharaoh, "Send me away, and I will return to my land."
 
-**11:22** And Pharaoh said to Hader, "What do you lack with me, that look, you seek to depart to your land?" And Hader said to him, "Yet you must surely send me away." And Hader returned to his land.
+**11:22** And Pharaoh said to Hader, "What do you lack with me, and look, you seek to depart to your land?" And Hader said to him, "Yet you must surely send me away." And Hader returned to his land.
 
-**11:25** This was the evil that Hader did: he abhorred Israel, and he reigned in Edom.
+**11:25** This was the evil that Hader did: he was indignant with Israel, and he reigned in Edom.
 
 **11:26** And Jeroboam son of Nebat, the Ephrathite from Sareira, the son of a widow woman, was the servant of Solomon.
 
@@ -71,7 +71,7 @@
 
 **11:36** but to his son I will give the two tribes, so that there may be a position for My servant David all the days before Me in Jerusalem, the city that I have chosen for Myself to place My name there.
 
-**11:37** And I will take you, and you shall reign over all that your soul desires, and you shall be king over Israel.
+**11:37** And I will take you, and you shall reign over what your soul desires, and you shall be king over Israel.
 
 **11:38** And it will be, if you keep everything that I command you, and walk in My ways, and do what is right in My sight by keeping My commandments and My statutes, just as David My servant did, then I will be with you and build for you a faithful house, just as I built for David.'"
 

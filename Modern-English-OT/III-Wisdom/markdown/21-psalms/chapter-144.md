@@ -23,7 +23,7 @@
 
 **144:9** Good is the Lord to those who endure, and His compassions are over all His works.
 
-**144:10** Let all Your works give thanks to You, Lord, and let Your holy ones bless You.
+**144:10** Let all Your works give thanks to You, Lord, and let Your devout ones bless You.
 
 **144:11** They will tell of the glory of Your kingdom, and they will speak of Your might,
 
@@ -52,4 +52,4 @@
 - **144:6** — The Greek text shifts from third-person plural ("they will tell") to first-person singular ("I will recount it") and includes a third clause ("and they will speak of Your might") attested in major Septuagint witnesses.
 - **144:9** — The Greek text reads τοῖς ὑπομένουσιν ("to those who endure" or "to those who wait patiently"), whereas the Masoretic Text and some Septuagint manuscripts read "to all".
 - **144:13** — The second sentence ("Faithful is the Lord in His words, and holy in all His works") preserves the nun line of this acrostic psalm, present in the Septuagint, Dead Sea Scrolls, and Syriac though absent from the Masoretic Text.
-- **144:16** — The Greek uses the plural "Your hands" and places εὐδοκίας ("goodwill" or "favor") in the genitive, expressing that God fills every living creature with His goodwill rather than satisfying their desire as in the Masoretic Text.
+- **144:16** — The Greek uses the plural "Your hands" where the Masoretic Text has the singular, and the genitive εὐδοκίας ("goodwill," "favor," or "good pleasure") expresses what every living creature is filled with.

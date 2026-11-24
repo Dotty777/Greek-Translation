@@ -27,7 +27,7 @@
 
 **12:11** And it came about, whenever the king entered the house of the Lord, that the guards and the runners and those returning to meet the runners would go in.
 
-**12:12** And when he felt shame, the anger of the Lord turned away from him, and not to complete destruction; for indeed in Judah there were good words.
+**12:12** And when he felt shame, the anger of the Lord turned away from him, and not to complete destruction; for indeed in Judah there were good things.
 
 **12:13** And Rehoboam grew strong in Jerusalem and reigned; and Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city that the Lord chose to name His name there out of all the tribes of the sons of Israel; and the name of his mother was Naamah the Ammonite.
 

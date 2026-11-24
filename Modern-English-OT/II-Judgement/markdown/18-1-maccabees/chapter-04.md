@@ -17,7 +17,7 @@
 
 **4:6** And at daybreak Judas appeared in the plain with three thousand men; however, they did not have armor and sword as they wished.
 
-**4:7** And they saw an army of Gentiles, strong and clad in armor, and cavalry encircling it, and these were trained in war.
+**4:7** And they saw an army of nations, strong and clad in armor, and cavalry encircling it, and these were trained in war.
 
 **4:8** And Judas said to the men who were with him, "Do not fear their multitude, and do not be terrified of their onslaught.
 
@@ -31,7 +31,7 @@
 
 **4:13** and they came out from the camp to battle; and those with Judas sounded the trumpets.
 
-**4:14** And they joined battle, and the Gentiles were crushed and fled into the plain.
+**4:14** And they joined battle, and the nations were crushed and fled into the plain.
 
 **4:15** And all those in the rear fell by the sword; and they pursued them as far as Gazara and as far as the plains of Judea and Ashdod and Jamnia, and about three thousand men of them fell.
 
@@ -65,7 +65,7 @@
 
 **4:30** And he saw that the army was strong, and he prayed and said, "Blessed are You, Savior of Israel, who crushed the onslaught of the mighty warrior by the hand of Your servant David, and You handed over the army of the foreigners into the hands of Jonathan son of Saul and his armor-bearer.
 
-**4:31** Deliver this army into the hands of Your people Israel, and let them be put to shame over their force and their cavalry.
+**4:31** Shut up this army in the hands of Your people Israel, and let them be put to shame over their force and their cavalry.
 
 **4:32** Give them cowardice, and melt the audacity of their strength, and let them be shaken by their destruction.
 
@@ -93,7 +93,7 @@
 
 **4:44** And they took counsel concerning the altar of burnt offering that had been profaned, what they should do with it.
 
-**4:45** And a good plan occurred to them, to tear it down, so that it would never become a reproach to them, because the Gentiles had defiled it; and they tore down the altar.
+**4:45** And a good plan occurred to them, to tear it down, so that it would never become a reproach to them, because the nations had defiled it; and they tore down the altar.
 
 **4:46** And they stored the stones on the mountain of the house in a suitable place, until a prophet should come to give an answer concerning them.
 
@@ -111,7 +111,7 @@
 
 **4:53** And they offered sacrifice according to the law upon the new altar of burnt offerings that they had made.
 
-**4:54** At the season, on the day on which the Gentiles had profaned it, on that day it was dedicated with songs and lyres and harps and with cymbals.
+**4:54** At the season, on the day on which the nations had profaned it, on that day it was dedicated with songs and lyres and harps and with cymbals.
 
 **4:55** And all the people fell on their faces, and worshiped, and blessed Heaven, the One who had given them success.
 
@@ -119,11 +119,11 @@
 
 **4:57** And they adorned the front of the temple with golden crowns and small shields, and he renewed the gates and the chambers, and they fitted them with doors.
 
-**4:58** And there was very great gladness among the people, and the reproach of the Gentiles was turned away.
+**4:58** And there was very great gladness among the people, and the reproach of the nations was turned away.
 
 **4:59** And Judas and his brothers and all the assembly of Israel decreed that the days of dedication of the altar should be observed in their seasons year by year for eight days, from the twenty-fifth day of the month of Chislev, with gladness and joy.
 
-**4:60** And at that time they built up Mount Zion with high walls and strong towers all around, so that the Gentiles would never come and trample them down as they had done before.
+**4:60** And at that time they built up Mount Zion with high walls and strong towers all around, so that the nations would never come and trample them down as they had done before.
 
 **4:61** And they stationed a force there to guard it, and they fortified it to guard Beth-zur, so that the people might have a stronghold facing Idumea.
 

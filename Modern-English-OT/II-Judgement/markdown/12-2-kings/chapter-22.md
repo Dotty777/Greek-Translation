@@ -29,7 +29,7 @@
 
 **22:12** And the king commanded Hilkiah the priest, and Ahikam son of Shaphan, and Achbor son of Micaiah, and Shaphan the scribe, and Asaiah, servant of the king, saying,
 
-**22:13** "Go and inquire of the Lord on my behalf, and on behalf of all the people, and on behalf of all Judah, and concerning the words of this book that has been found; for great is the wrath of the Lord that has been poured out upon us, because our fathers did not listen to the words of the book, to do according to all that is written against us."
+**22:13** "Come and inquire of the Lord on my behalf, and on behalf of all the people, and on behalf of all Judah, and concerning the words of this book that has been found; for great is the wrath of the Lord that has been poured out upon us, because our fathers did not listen to the words of the book, to do according to all that is written against us."
 
 **22:14** And Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah went to Huldah the prophetess, mother of Shallum son of Tikvah, son of Harhas, the keeper of the wardrobe; and she lived in Jerusalem in the Masena; and they spoke to her.
 
@@ -41,14 +41,14 @@
 
 **22:18** And to the king of Judah, who sent you to inquire of the Lord, thus you shall say to him: 'Thus says the Lord, the God of Israel: As for the words that you have heard,
 
-**22:19** because your heart was softened and you humbled yourself before the face of the Lord when you heard all that I spoke against this place and against those who dwell in it, to become a desolation and a curse, and you tore your garments and wept before Me; indeed, I also have heard, says the Lord.
+**22:19** because your heart was softened and you were ashamed before the face of the Lord when you heard all that I spoke against this place and against those who dwell in it, to become a desolation and a curse, and you tore your garments and wept before Me; indeed, I also have heard, says the Lord.
 
 **22:20** Not so; look, I am adding you to your fathers, and you will be gathered into your tomb in peace, and it will not be seen by your eyes among all the calamities that I Myself am bringing upon this place.'"
 
 ## Translator Notes
 
 - **22:1** — The Greek text reads "Jedeia," "Edeina," and "Basuroth," where the Hebrew text reads "Jedidah," "Adaiah," and "Bozkath."
-- **22:3** — The Greek adds "in the eighth month," names Shaphan's father "Eliah" (Greek Eliou; Hebrew: "Azaliah"), and calls Shaphan "the scribe of the house of the Lord" (Hebrew: "the scribe, to the house of the LORD").
+- **22:3** — The Greek adds "in the eighth month," names Shaphan's father "Eliah" (Greek Eliou; Hebrew: "Azaliah"), and calls Shaphan "the scribe of the house of the Lord" (Hebrew: "the scribe, to the house of the Lord").
 - **22:5** — In v. 4 the Greek reads "seal the silver" (Hebrew: "sum up the silver"), and here shifts from Josiah's command to narrative ("And he gave it"). "Breach" renders Greek "to bedek" (also v. 6), a direct transliteration of the Hebrew term for structural damage.
 - **22:14** — The Greek describes Huldah as the "mother" of Shallum (Hebrew: "wife") and transliterates her Jerusalem district as "the Masena" (Hebrew: "the Second Quarter"). The Greek manuscript here also spells Ahikam and Shaphan as "Acheikath" and "Saphphath."
 - **22:20** — As in 21:12, Greek "Not so" renders Hebrew "therefore," and "adding you" reflects Greek prostithemi (Hebrew: "gathering you"). The verse ends with a passive construction ("it will not be seen") and emphatic "ego eimi epago" ("I Myself am bringing"), a hallmark of the kaige recension.

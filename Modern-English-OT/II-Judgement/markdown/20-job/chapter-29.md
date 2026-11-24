@@ -13,7 +13,7 @@
 
 **29:4** when I was pressing heavily upon the ways, when God kept watch over my house;
 
-**29:5** when I was exceedingly wooded, and my children were around me;
+**29:5** when I was exceedingly wooded, and my servants were around me;
 
 **29:6** when my ways flowed with butter, and my mountains flowed with milk;
 
@@ -51,7 +51,7 @@
 
 **29:23** Just as thirsty earth waits for the rain, so did these for my speech.
 
-**29:24** If I smile at them, they will by no means believe it; and the light of my face did not fall away.
+**29:24** If I laugh at them, they will by no means believe it; and the light of my face did not fall away.
 
 **29:25** I chose their way and sat as chief, and I encamped like a king among light-armed troops, just as one comforting those who suffer."
 

@@ -21,7 +21,7 @@
 
 **12:11** and Joiada fathered Jonathan, and Jonathan fathered Jaddua.
 
-**12:12** And in the days of Joiakim, his brothers the priests and the leaders of the ancestral houses were: for Seraiah, Meraiah; for Jeremiah;
+**12:12** And in the days of Joiakim, his brothers the priests and the leaders of the ancestral families were: for Seraiah, Meraiah; for Jeremiah;
 
 **12:13** for Ezra, Meshullam; for Amariah, Johanan;
 
@@ -41,9 +41,9 @@
 
 **12:21** for Hilkiah, Hashabiah; for Isdeiu, Nethanel.
 
-**12:22** The Levites in the days of Eliashib, Joiada, Joa, Johanan, and Jaddua were recorded as leaders of ancestral houses, and the priests, in the reign of Darius the Persian.
+**12:22** The Levites in the days of Eliashib, Joiada, Joa, Johanan, and Jaddua were recorded as leaders of ancestral families, and the priests, in the reign of Darius the Persian.
 
-**12:23** The sons of Levi, leaders of the ancestral houses, were recorded in the book of the records of the days, even until the days of Johanan son of Eliashib.
+**12:23** The sons of Levi, leaders of the ancestral families, were recorded in the book of the records of the days, even until the days of Johanan son of Eliashib.
 
 **12:24** And the leaders of the Levites: Habiah, Sherebiah, and Jeshua, and the sons of Kadmiel, and their brothers opposite them, to sing hymns, to praise, by the command of David the man of God, division opposite division,
 

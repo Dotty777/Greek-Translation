@@ -25,7 +25,7 @@
 
 **29:10** Because of these things, it is now upon the heart to make my covenant, a covenant of the Lord, the God of Israel; and He has turned away the wrath of His fury from us.
 
-**29:11** And now do not be negligent, for He has chosen you to stand before Him to minister, and to be ministering and burning incense to Him."
+**29:11** And now do not cease, for He has chosen you to stand before Him to minister, and to be ministering and burning incense to Him."
 
 **29:12** And the Levites stood up: Mahath the son of Masi and Joel the son of Zechariah from the sons of Kohath; and from the sons of Merari, Kish the son of Abdi and Zechariah the son of Helle; and from the sons of Gershon, from Zimmah and Jodan, these were sons of Joah;
 

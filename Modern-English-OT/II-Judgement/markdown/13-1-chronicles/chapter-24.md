@@ -70,7 +70,7 @@
 ## Translator Notes
 
 - **24:4** — The Greek text inserts 'Aaron' before 'Ithamar' and omits the number 'eight' for Ithamar's paternal houses, while in v. 6 it reads 'one by one' (reflecting Hebrew 'one' rather than Masoretic 'taken').
-- **24:14** — The Greek text omits the fifteenth course of the Hebrew list (Bilgah), shifting the remaining courses so that the list ends at twenty-three rather than twenty-four (v. 18); across vv. 7-18 it also preserves distinctive Greek name forms (Jarim, Anaidiah, Hareb, Benjamin, Ischaniah, Eliabiei, Hocchoppha, Gelba, Hezin, Aphese, Achim, Adallai, and Maasai).
+- **24:14** — The Greek text omits the fourteenth course of the Hebrew list (Jeshebeab; Gelba corresponds to Bilgah), shifting the remaining courses so that the list ends at twenty-three rather than twenty-four (v. 18); across vv. 7-18 it also preserves distinctive Greek name forms (Jarim, Anaidiah, Hareb, Benjamin, Ischaniah, Eliabiei, Hocchoppha, Gelba, Hezin, Aphese, Achim, Adallai, and Maasai).
 - **24:21** — The Greek text omits the name of Rehabiah's son (Isshiah in the Hebrew Masoretic Text), reading simply 'for Rehabiah, the chief,' and similarly in v. 20 omits 'for the sons of Shubael' and reads Jobael.
 - **24:28** — The Greek text adds 'and Ithamar' and 'and Eleazar died' (neither in the Hebrew Masoretic Text), and across vv. 22-30 preserves distinctive Greek name forms: Inath (v. 22), Jedimu, Amadiah, Jase, and Jokom (v. 23, omitting Hebron), Uzziah (vv. 26-27), Isoam and Abai (v. 27), and Elah and Arimoth (v. 30).
 - **24:31** — The Greek text omits 'David' after 'the king,' uses singular 'chief,' and renders the Hebrew 'ancestral houses of the head' as 'the patriarchs of Araab,' followed by 'just as his younger brothers.'

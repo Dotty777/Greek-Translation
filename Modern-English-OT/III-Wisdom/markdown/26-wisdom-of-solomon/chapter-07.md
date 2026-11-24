@@ -69,6 +69,6 @@
 
 - **7:2** — "Ten-month period" reflects the ancient reckoning of human gestation by ten lunar months; "congealed in blood" echoes ancient embryological imagery (cf. Job 10:10).
 - **7:3** — Greek homoiopathē (lit. "of like nature/experiences") applied to the earth either points to the earth's shared nature with earthborn humanity (7:1) or acts as a transferred epithet for the common mortal lot of all born onto it.
-- **7:12** — Following the critical Greek reading genesin ("origin" or "source"); some later witnesses and versions read genetin ("mother" or "begetter").
+- **7:12** — Following the critical Greek reading genesin ("origin" or "source"); other witnesses and versions read genetin ("mother" or "begetter").
 - **7:20** — Greek pneumatōn can mean either "winds" (fitting the natural-philosophy catalog) or "spirits" (reflecting Hellenistic Jewish traditions of Solomon's knowledge over spiritual forces).
 - **7:26** — Greek apaugasma can denote either active "radiance/effulgence" shining forth from light or passive "reflection" (cf. Hebrews 1:3).

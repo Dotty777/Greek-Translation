@@ -5,7 +5,7 @@
 
 ## Text
 
-**97:1** A psalm of David. Sing a new song to the Lord, for the Lord has done wondrous things; His right hand and His holy arm have brought Him salvation.
+**97:1** A psalm for David. Sing a new song to the Lord, for the Lord has done wondrous things; His right hand and His holy arm have brought Him salvation.
 
 **97:2** The Lord has made His salvation known before the nations; He has revealed His righteousness.
 
@@ -25,7 +25,7 @@
 
 ## Translator Notes
 
-- **97:1** — The Greek superscription adds "of David" (τῷ Δαυίδ), whereas Hebrew Psalm 98 reads only "A psalm." The dative αὐτῷ ("Him") indicates that His right hand and holy arm achieved salvation on His behalf.
+- **97:1** — The Greek superscription adds "for David" (τῷ Δαυίδ), whereas Hebrew Psalm 98 reads only "A psalm." The dative αὐτῷ ("Him") indicates that His right hand and holy arm achieved salvation on His behalf.
 - **97:2** — The Greek punctuation joins "before the nations" (ἐναντίον τῶν ἐθνῶν) with the first clause ("made His salvation known") rather than with the second ("revealed His righteousness").
 - **97:3** — Greek specifies "His mercy to Jacob" alongside "His truth to the house of Israel," whereas the Hebrew mentions only the house of Israel.
 - **97:6** — The Greek critical text reads the dative Κυρίῳ ("to the Lord") after the genitive τοῦ βασιλέως ("before the King"), pairing it with the verb "shout joyfully" as in verse 4.

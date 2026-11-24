@@ -29,7 +29,7 @@
 
 **8:12** And all the people went away to eat and to drink and to send portions and to celebrate with great gladness, because they understood the words that he had made known to them.
 
-**8:13** And on the second day the leaders of the fathers' houses gathered together with all the people, the priests, and the Levites to Ezra the scribe, to give attention to all the words of the law.
+**8:13** And on the second day the leaders of the ancestral families gathered together with all the people, the priests, and the Levites to Ezra the scribe, to give attention to all the words of the law.
 
 **8:14** And they found written in the law which the Lord had commanded Moses, that the sons of Israel should live in booths at the feast in the seventh month,
 

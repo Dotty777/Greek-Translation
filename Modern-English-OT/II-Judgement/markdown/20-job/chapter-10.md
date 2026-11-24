@@ -9,7 +9,7 @@
 
 **10:2** and I will say to the Lord, 'Do not teach me to act ungodly; and why have You judged me this way?
 
-**10:3** Or is it good to You if I act unjustly, that I should renounce the works of Your hands, while You have paid attention to the counsel of the ungodly?
+**10:3** Or is it good to You if I act unjustly, that You have renounced the works of Your hands, while You have paid attention to the counsel of the ungodly?
 
 **10:4** Or as a mortal sees, do You observe? Or just as a human being sees, will You look?
 
@@ -53,6 +53,6 @@
 
 - **10:1** — The Greek opens with a participial phrase ("being weary in my soul") punctuated as an independent clause, which in some Greek editions is linked either to 9:35 or to the following participle "groaning."
 - **10:2** — The Septuagint reads "Do not teach me to act ungodly" rather than the Masoretic Hebrew "Do not condemn me."
-- **10:3** — Both "if I act unjustly" and "that I should renounce" are first-person singular in the Greek, unlike the second-person verbs of the Hebrew Masoretic Text.
+- **10:3** — Greek "if I act unjustly" (adikeso) is first person, unlike the Hebrew; apeipo is read as second-person aorist middle ("You have renounced"), parallel to prosesches ("You have paid attention").
 - **10:17** — Greek peirateria refers primarily to "raiding bands" (marauders) and can also carry the sense of "trials" or "ordeals"; etasis denotes a judicial examination or scrutiny.
 - **10:18** — The Greek uses simple aorist indicatives ("and I did not die, and no eye saw me, and I became" in 10:18-19) following "Why...?" to express the unrealized outcome Job wished had happened at birth.

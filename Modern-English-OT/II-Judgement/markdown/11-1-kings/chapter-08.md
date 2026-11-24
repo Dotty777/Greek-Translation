@@ -7,7 +7,7 @@
 
 **8:1** And it happened, when Solomon finished building the house of the Lord and his own house after twenty years, then King Solomon assembled all the elders of Israel in Zion to bring the ark of the covenant of the Lord out of the city of David, which is Zion,
 
-**8:2** in the month of Ethanim.
+**8:2** in the month of Athamein.
 
 **8:3** And the priests lifted up the ark
 
@@ -81,7 +81,7 @@
 
 **8:40** so that they may fear You all the days that they live upon the land which You gave to our fathers.
 
-**8:41** And also concerning the foreigner who is not from Your people,
+**8:41** And concerning the foreigner who is not from Your people,
 
 **8:42** when they come and pray toward this place,
 

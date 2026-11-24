@@ -43,7 +43,7 @@
 
 **2:19** And Mattathias answered and said with a loud voice, "Even if all the nations that are in the house of the king's kingdom obey him, so that each one departs from the worship of his fathers, and have chosen his commands,
 
-**2:20** yet I and my sons and my brothers will walk in the covenant of our fathers.
+**2:20** yet I and my sons and my brothers—let us walk in the covenant of our fathers.
 
 **2:21** Far be it from us to forsake law and ordinances.
 
@@ -155,6 +155,6 @@
 - **2:26** — Salom preserves the Septuagint form Salom (also in LXX Numbers 25:14), corresponding to Hebrew Salu.
 - **2:51** — The Greek text here reads doxan aionion ("eternal glory"), as in Codex Alexandrinus, whereas other Greek manuscripts read onoma aionion ("an eternal name").
 - **2:54** — The Greek text here reads hierosynes hagias ("a holy priesthood"), whereas other Greek manuscripts read hierosynes aionias ("an everlasting priesthood").
-- **2:58** — The Greek text includes hos ("as it were, into heaven"), echoing Septuagint 2 Kings 2:11, whereas some manuscripts omit it.
+- **2:58** — The Greek text reads hos ("as it were, into heaven"), echoing Septuagint 2 Kings 2:11, whereas other witnesses read heos ("up into heaven").
 - **2:63** — The Greek text here omits aurion ("tomorrow"), which appears in other witnesses ("and tomorrow he will not be found").
 - **2:66** — The Greek text here has the second-person plural verb polemesete ("you will fight"), addressing Mattathias's sons together, whereas other manuscripts read the third-person singular polemesei ("he will fight"), referring to Judas.

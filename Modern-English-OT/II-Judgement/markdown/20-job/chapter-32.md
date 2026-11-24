@@ -15,7 +15,7 @@
 
 **32:5** And Elihu saw that there was no answer in the mouth of the three men, and he became furious in his anger.
 
-**32:6** Then Elihu the son of Barachel the Buzite responded and said, "I am younger in time, while you are older; therefore I kept silent, fearing to declare to you my own knowledge.
+**32:6** Then Elihu the son of Barachel the Buzite answered and said, "I am younger in time, while you are older; therefore I kept silent, fearing to declare to you my own knowledge.
 
 **32:7** And I said, 'It is not time that speaks, and in many years they do not know wisdom;
 
@@ -37,7 +37,7 @@
 
 **32:16** I waited, for I did not speak, because they stood still; they did not answer."
 
-**32:17** Then Elihu responds and says:
+**32:17** Then Elihu answered and said:
 
 **32:18** "I will speak again, for I am full of words; for the spirit of my belly is destroying me;
 

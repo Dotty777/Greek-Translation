@@ -19,11 +19,11 @@
 
 **34:7** What man is like Job, drinking mockery like water,
 
-**34:8** not having sinned nor acted impiously, or having shared a way with those who do lawless deeds, to walk with the impious?
+**34:8** not having sinned nor acted ungodly, or having shared a way with those who do lawless deeds, to walk with the ungodly?
 
 **34:9** For do not say, 'There will be no visitation of a man,' when there is visitation for him from the Lord.
 
-**34:10** Therefore, you of understanding heart, hear me: Far be it from me to act impiously before the Lord, and before the Almighty to disturb what is right;
+**34:10** Therefore, you of understanding heart, hear me: Far be it from me to act ungodly before the Lord, and before the Almighty to disturb what is right;
 
 **34:11** but He repays a person according to what each of them does, and in the path of a man He will find him.
 
@@ -39,7 +39,7 @@
 
 **34:17** You, look at the One who hates lawless deeds and the One who destroys the wicked, who is eternally righteous.
 
-**34:18** Impious is the one who says to a king, 'You act lawlessly'; 'Most impious one,' to rulers,
+**34:18** Ungodly is the one who says to a king, 'You act lawlessly'; 'Most ungodly one,' to rulers,
 
 **34:19** who is not ashamed before the face of an honored man, nor knows how to grant honor to the great, so that their faces might be admired.
 
@@ -55,7 +55,7 @@
 
 **34:25** the One who knows their works; and He will overturn the night, and it will be brought low.
 
-**34:26** And He extinguished the impious, and they are visible before Him,
+**34:26** And He extinguished the ungodly, and they are visible before Him,
 
 **34:27** because they turned aside from the law of God, and they did not acknowledge His ordinances,
 
@@ -81,8 +81,8 @@
 
 ## Translator Notes
 
-- **34:6** — The Greek verb "has dealt falsely" (epseusato) is third-person singular referring to the Lord (unlike the first-person Hebrew), and "arrow" (belos) translates the Greek literally rather than "wound."
-- **34:8** — The Greek distinctively prefixes "not having sinned nor acted impiously" before "or having shared a way," softening Elihu's accusation against Job compared with the Hebrew text.
-- **34:10** — In the Greek text, Elihu declares "Far be it from me" to act impiously before the Lord, whereas the Hebrew reads "Far be it from God" to do wickedness.
+- **34:6** — The Greek verb "has dealt falsely" (epseusato) is third-person singular referring to the Lord (unlike the first-person Hebrew), and "arrow" renders belos literally.
+- **34:8** — The Greek distinctively prefixes "not having sinned nor acted ungodly" before "or having shared a way," softening Elihu's accusation against Job compared with the Hebrew text.
+- **34:10** — In the Greek text, Elihu declares "Far be it from me" to act ungodly before the Lord, whereas the Hebrew reads "Far be it from God" to do wickedness.
 - **34:23** — The Greek clause is elliptical (literally, "for He will not place upon a man any longer," without an expressed object) and lacks the second half of the verse present in the Hebrew.
 - **34:30** — The Greek renders the participle positively as "making a hypocritical man king" (rather than negatively as in the Hebrew) and reads "because of the perversity of the people" (dyskolias).

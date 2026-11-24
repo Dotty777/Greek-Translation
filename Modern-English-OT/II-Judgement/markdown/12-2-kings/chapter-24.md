@@ -9,7 +9,7 @@
 
 **24:2** And he sent against him the raiders of the Chaldeans and the raiders of Syria and the raiders of Moab and the raiders of the sons of Ammon, and sent them out into the land of Judah to prevail, according to the word of the Lord that He spoke by the hand of His servants the prophets.
 
-**24:3** However, it was because of the wrath of the Lord against Judah, to remove it from His presence for the sins of Manasseh, according to all that he had done.
+**24:3** However, it was because of the wrath of the Lord against Judah, to remove it from the presence for the sins of Manasseh, according to all that he had done.
 
 **24:4** And also he shed innocent blood and filled Jerusalem with innocent blood, and the Lord was not willing to be appeased.
 

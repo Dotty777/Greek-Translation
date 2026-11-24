@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **134:1** — Unlike the Hebrew Masoretic Text ("servants of the LORD"), the Greek places "the Lord" in the accusative as the direct object of "praise" and leaves "servants" as a vocative.
+- **134:1** — Unlike the Hebrew Masoretic Text ("servants of the Lord"), the Greek places "the Lord" in the accusative as the direct object of "praise" and leaves "servants" as a vocative.
 - **134:12** — The Greek reads "Israel His servant" (matching 135:22), whereas the Hebrew Masoretic Text reads "Israel his people."
 - **134:14** — Our Greek text reads "has compassion on" (oikteirei) rather than "will judge" (krinei, as in other Septuagint witnesses and the Hebrew). The passive "will be comforted" (paraklethesetai) is a Septuagint idiom conveying relenting or being moved to pity.
 - **134:21** — The Greek psalm ends without a concluding "Hallelujah," which instead stands at the opening of Psalm 135 (MT 136).

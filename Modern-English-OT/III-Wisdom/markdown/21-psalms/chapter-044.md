@@ -45,6 +45,6 @@
 
 - **44:1** — The Greek superscription reads 'for the end' (εἰς τὸ τέλος) and 'concerning those who will be changed' (ὑπὲρ τῶν ἀλλοιωθησομένων), corresponding to the Hebrew musical headings 'for the choirmaster' and 'according to Lilies'.
 - **44:5** — The Greek imperative ἔντεινον literally means 'stretch tight' or 'press on' (often used of bending a bow), reflecting the Septuagint's reading of the Hebrew consonantal text rather than 'in your majesty'.
-- **44:7** — The Greek directly addresses the royal figure with the vocative ὁ θεός ('God'), beginning a two-verse stanza (vv. 7-8) quoted of Christ in Hebrews 1:8-9; pronouns in vv. 7-8 are accordingly capitalized.
+- **44:7** — The nominative ὁ θεός is read here as a vocative ('God') addressing the royal figure; pronouns in vv. 7-8 are therefore capitalized. Verses 7-8 are quoted in Hebrews 1:8-9.
 - **44:9** — Greek στακτή ('stacte') refers to a fragrant oil or resin of myrrh, where the Hebrew Masoretic Text reads 'aloes'.
 - **44:14** — The Greek text reads the proper name Ἑσεβών ('Heshbon', attested in major uncials such as Sinaiticus and Alexandrinus), where other Greek witnesses read ἔσωθεν ('within', matching the Hebrew). In v. 16, Greek ναός literally means 'temple' rather than 'palace'.

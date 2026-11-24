@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:1** And when Solomon finished praying, fire came down from heaven and consumed the whole burnt offerings and the sacrifices, and the glory of the Lord filled the house.
+**7:1** And when Solomon finished praying, fire came down from heaven and consumed the burnt offerings and the sacrifices, and the glory of the Lord filled the house.
 
 **7:2** And the priests were not able to enter the house of the Lord at that time, because the glory of the Lord filled the house.
 
@@ -17,13 +17,13 @@
 
 **7:6** and the priests were standing at their posts, and the Levites with instruments of the songs of the Lord belonging to King David, to give thanks before the Lord, for His mercy is forever, with the hymns of David by their hand; and the priests were blowing the trumpets before them, and all Israel was standing.
 
-**7:7** And Solomon consecrated the middle of the courtyard that was in the house of the Lord; for he offered there the whole burnt offerings and the fat portions of the peace offerings, because the bronze altar that Solomon had made was not sufficient to receive the whole burnt offerings and the grain offerings and the fat portions.
+**7:7** And Solomon consecrated the middle of the courtyard that was in the house of the Lord; for he offered there the burnt offerings and the fat portions of the peace offerings, because the bronze altar that Solomon had made was not sufficient to receive the burnt offerings and the grain offerings and the fat portions.
 
 **7:8** And Solomon held the festival at that time for seven days, and all Israel with him, a very great assembly, from the entrance of Hamath to the brook of Egypt.
 
 **7:9** And on the eighth day he held a closing assembly, for he held the dedication of the altar for seven days as a festival,
 
-**7:10** and on the twenty-third day of the seventh month he sent the people away to their tents, rejoicing and with a glad heart for the good things that the Lord had done for David and for Solomon and for Israel His people.
+**7:10** and on the twenty-third day of the seventh month he sent the people away to their tents, rejoicing and with a good heart for the good things that the Lord had done for David and for Solomon and for Israel His people.
 
 **7:11** And Solomon finished the house of the Lord and the house of the king, and everything that Solomon formed in his soul to do in the house of the Lord and in his own house succeeded.
 
@@ -31,7 +31,7 @@
 
 **7:13** If I shut up heaven and there is no rain, and if I command the locust to devour the trees, and if I send death among My people,
 
-**7:14** and if My people, upon whom My name has been called, are humbled and pray and seek My face, and turn away from their evil ways, then I will listen from heaven and pardon their sins and heal their land.
+**7:14** and if My people, upon whom My name has been called, feel shame and pray and seek My face, and turn away from their evil ways, then I will listen from heaven and pardon their sins and heal their land.
 
 **7:15** Now My eyes will be open and My ears attentive to the prayer of this place.
 

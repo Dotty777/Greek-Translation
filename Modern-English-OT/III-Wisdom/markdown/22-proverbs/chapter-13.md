@@ -31,7 +31,7 @@
 
 **13:14** The law of a wise person is a spring of life, but the senseless person will die by a snare.
 
-**13:15** Good understanding gives favor, and to know law belongs to a good mind, but the ways of those who despise are in ruin.
+**13:15** Good understanding gives favor, and to know the law belongs to a good mind, but the ways of those who despise are in ruin.
 
 **13:16** Every shrewd person acts with knowledge, but the fool spreads out his own wickedness.
 

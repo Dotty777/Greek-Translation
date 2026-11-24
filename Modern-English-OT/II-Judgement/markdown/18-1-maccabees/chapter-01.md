@@ -140,7 +140,7 @@
 - **1:11** — The Greek text uniquely combines the singular "a lawless son" with plural verbs ("they persuaded ... saying") and reads "separated by them" (hyp' auton), where other witnesses read plural "lawless sons" and "separated from them" (ap' auton).
 - **1:13** — The Greek text uses the plural "they gave" (referring to the royal court), whereas other witnesses read singular "he gave"; a similar shift to plural verbs occurs in 1:24 ("they committed ... spoke").
 - **1:29** — "Two full years" translates the literal Hebraic expression "two years of days" (dyo ete hemeron).
-- **1:48** — The Greek text reads the verb "to profane" (bebelosai) rather than the adjective "profane" (bebelo) found in other witnesses; similarly 1:47 reads "idols" (eidola) rather than "idol shrines" (eidolia).
+- **1:48** — The Greek text reads the verb "to profane" (bebelosai) rather than the noun "profanation" (bebelosei) found in other witnesses; similarly 1:47 reads "idols" (eidola) rather than "idol shrines" (eidolia).
 - **1:54** — The Greek text reads "the forty-fifth year," omitting "one hundredth" found in other manuscripts that date the event to the one hundred and forty-fifth year of the Seleucid era (167 BC).
 - **1:55** — The Greek text reads "windows" (thyridon) rather than "doors" (thyron) found in other witnesses.
 - **1:59** — The Greek uses two distinct words for altar here, referring to the newly erected pagan altar (bomos) placed on top of the temple's sacrificial altar (thysiasterion).

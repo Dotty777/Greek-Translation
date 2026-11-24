@@ -41,7 +41,7 @@
 
 **1:18** As we are about to observe on the twenty-fifth of Chislev the purification of the temple, we thought it necessary to inform you, so that you yourselves also may observe the festival of Booths and of the fire, when Nehemiah, who at that time built the temple and the altar, offered sacrifices.
 
-**1:19** For indeed, when our fathers were being led away into Persia, the devout priests secretly took some of the fire of the altar and hid it in a hollow having the form of a waterless cistern, in which they secured it so that the place was unknown to all.
+**1:19** For indeed, when our fathers were being led away into Persia, the devout priests secretly took some of the fire of the altar and hid it in the hollow of a cistern that was waterless, in which they secured it so that the place was unknown to all.
 
 **1:20** And after many years had passed, when it seemed good to God, Nehemiah, having been sent by the king of Persia, sent the descendants of the priests who had hidden it for the fire.
 

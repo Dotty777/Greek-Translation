@@ -23,7 +23,7 @@
 
 **6:9** For all of them are frightening us, saying, "Their hands will grow weak from this work, and it will not be done." And now I strengthened my hands.
 
-**6:10** And I entered the house of Shemaiah son of Delaiah, son of Meitael, and he was shut in; and he said, "Let us gather into the house of God, in the midst of it, and let us shut its doors, because they are coming by night to kill you."
+**6:10** And I entered the house of Shimei son of Delaiah, son of Meitael, and he was shut in; and he said, "Let us gather into the house of God, in the midst of it, and let us shut its doors, because they are coming by night to kill you."
 
 **6:11** And I said, "Who is the man who will enter into the house and live?"
 
@@ -47,7 +47,7 @@
 
 - **6:1** — Greek reads "and no breath was left in them" (pnoe), differing from the Hebrew Masoretic Text ("no breach was left in it").
 - **6:9** — Greek reads a first-person past indicative "I strengthened my hands" (ekrataiosa) rather than the imperative prayer "strengthen my hands" found in the Hebrew text.
-- **6:10** — Greek "Meitael" is a distinctive Septuagint form of the name corresponding to Hebrew "Mehetabel."
+- **6:10** — Greek Semeei ("Shimei") and "Meitael" are distinctive Septuagint forms corresponding to Hebrew "Shemaiah" and "Mehetabel."
 - **6:13** — Continuing from 6:12, Greek reads "hired a crowd against me" (ochlon) instead of "hired him; for this reason he was hired" as in the Hebrew text.
 - **6:14** — Greek spells Sanballat as "Anaballat," has singular "his deeds," makes Noadiah masculine ("the prophet"), and refers to "the rest of the priests" instead of "the rest of the prophets."
 - **6:15** — Greek "Edud" is a distinctive Septuagint form of the month name corresponding to Hebrew "Elul."

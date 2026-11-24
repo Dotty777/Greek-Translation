@@ -53,7 +53,7 @@
 
 **32:24** In those days Hezekiah became sick to the point of death, and he prayed to the Lord, and He heard him and gave him a sign.
 
-**32:25** And Hezekiah did not repay according to the benefit that He gave him, but his heart was lifted up; and wrath came upon him and upon Judah and Jerusalem.
+**32:25** And Hezekiah did not repay according to the recompense that He gave him, but his heart was lifted up; and wrath came upon him and upon Judah and Jerusalem.
 
 **32:26** And Hezekiah humbled himself from the loftiness of his heart, along with those dwelling in Jerusalem, and the wrath of God did not come upon them in the days of Hezekiah.
 

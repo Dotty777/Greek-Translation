@@ -27,7 +27,7 @@
 
 **36:11** Zedekiah was twenty-one years old when he began to reign, and he reigned eleven years in Jerusalem.
 
-**36:12** And he did what was evil in the sight of the Lord his God; he did not humble himself before Jeremiah the prophet and from the mouth of the Lord,
+**36:12** And he did what was evil in the sight of the Lord his God; he did not feel shame before Jeremiah the prophet and from the mouth of the Lord,
 
 **36:13** by setting aside the matters with King Nebuchadnezzar that he had made him swear by God; and he stiffened his neck and fortified his heart so as not to return to the Lord, the God of Israel.
 

@@ -57,7 +57,7 @@
 
 **11:26** And the king did for him just as those before him had done for him, and he exalted him before all his friends.
 
-**11:27** And he confirmed the high priesthood to him, and whatever other honors he had previously, and he made him chief of the first friends.
+**11:27** And he confirmed the high priesthood to him, and whatever other honors he had previously, and he made him chief of the First Friends.
 
 **11:28** And Jonathan requested the king to make Judea and the three districts and Samaria free from tribute, and they promised him three hundred talents.
 
@@ -103,7 +103,7 @@
 
 **11:49** And the people of the city saw that the Jews had gained control of the city as they wished, and they grew weak in their minds, and they cried out to the king with pleading, saying,
 
-**11:50** "Give us pledges of peace, and let the Jews stop fighting against us and the city."
+**11:50** "Give us the right hand, and let the Jews stop fighting against us and the city."
 
 **11:51** And they threw down their weapons and made peace; and the Jews were honored before the king and in the sight of all those in his kingdom, and they returned to Jerusalem having much plunder.
 
@@ -127,7 +127,7 @@
 
 **11:61** And he departed from there to Gaza, and the people of Gaza shut him out; and he laid siege around it, and burned its surrounding towns with fire, and plundered them.
 
-**11:62** And the people of Gaza appealed to Jonathan, and he gave them pledges of peace; and he took the sons of their rulers as hostages and sent them away to Jerusalem, and he passed through the country as far as Damascus.
+**11:62** And the people of Gaza appealed to Jonathan, and he gave them the right hand; and he took the sons of their rulers as hostages and sent them away to Jerusalem, and he passed through the country as far as Damascus.
 
 **11:63** And Jonathan heard that the commanders of Demetrius had arrived at Kedesh, which is in Galilee, with a large force, wanting to remove him from office.
 
@@ -135,7 +135,7 @@
 
 **11:65** And Simon encamped at Beth-zur, and he fought against it many days and shut it in.
 
-**11:66** And they asked him that they might receive pledges of peace, and he gave them to them; and he expelled them from there, and seized the city, and placed a garrison over it.
+**11:66** And they asked him that they might receive the right hand, and he gave it to them; and he expelled them from there, and seized the city, and placed a garrison over it.
 
 **11:67** And Jonathan and his army encamped by the water of Gennesar, and they rose early in the morning and went to the plain of Nasor;
 

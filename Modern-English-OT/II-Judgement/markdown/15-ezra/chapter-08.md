@@ -53,7 +53,7 @@
 
 **8:24** And I set apart twelve from the leaders of the priests, Seraiah, Hashabiah, and with them twelve from their brothers.
 
-**8:25** And I weighed out to them the silver and the gold and the vessels of the offering of the house of our God, which the king and his counselors and his leaders and all Israel who were present had offered up.
+**8:25** And I weighed out to them the silver and the gold and the vessels of the firstfruits of the house of our God, which the king and his counselors and his leaders and all Israel who were present had offered up.
 
 **8:26** And I weighed out into their hands six hundred and fifty talents of silver, and one hundred silver vessels, and one hundred talents of gold,
 

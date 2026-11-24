@@ -9,7 +9,7 @@
 
 **81:2** How long will you judge with injustice and show partiality to sinners? Interlude.
 
-**81:3** Do justice for the orphan and the poor; vindicate the lowly and the needy.
+**81:3** Do justice for the orphan and the poor; justify the lowly and the needy.
 
 **81:4** Rescue the needy and the poor; deliver them from the hand of a sinner.
 

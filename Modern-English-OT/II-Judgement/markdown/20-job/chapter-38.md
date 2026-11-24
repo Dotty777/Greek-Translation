@@ -9,7 +9,7 @@
 
 **38:2** "Who is this who hides counsel from Me, and holds back words in his heart, and thinks he hides them from Me?
 
-**38:3** Gird your waist like a man; I will ask, and you answer Me.
+**38:3** Gird your loins like a man; I will ask, and you answer Me.
 
 **38:4** Where were you when I founded the earth? And declare to Me, if you know understanding.
 
@@ -93,4 +93,4 @@
 - **38:7** — The Greek reads "all My angels" (pantes angeloi mou) where the Hebrew has "all the sons of God," and links the praise to the moment when the stars came into being.
 - **38:14** — Unlike the Hebrew image of clay changed under a seal, the Greek depicts forming a living creature from clay and placing him on the earth able to speak, shifting from neuter zoon to masculine auton.
 - **38:32** — "Mazuroth" transliterates the Hebrew astronomical term Mazzaroth, while "Hesperus" (the evening star) renders Greek Hesperon (matching 9:9; where Hebrew has the Bear), and "by its hair" literally renders epi komes autou.
-- **38:36** — The Greek refers to women's wisdom of weaving and knowledge of embroidery, diverging markedly from the obscure Hebrew terms often translated "inward parts" and "mind" (or "ibis" and "rooster").
+- **38:36** — The Greek refers to women's wisdom of weaving and knowledge of embroidery, diverging markedly from the obscure Hebrew terms, variously understood as "inward parts" and "mind" or as "ibis" and "rooster."

@@ -53,7 +53,7 @@
 
 **23:24** These were the sons of Levi according to their paternal houses, chiefs of their paternal families according to their enrollment, according to the number of their names, head by head, doing the works of the service of the house of the Lord, from twenty years old and upward.
 
-**23:25** For David said, "The Lord God of Israel has given rest to His people, and dwells in Jerusalem forever."
+**23:25** For David said, "The Lord God of Israel has given rest to His people, and has settled in Jerusalem forever."
 
 **23:26** And the Levites were not carrying the tent and all its vessels for its service;
 
@@ -67,7 +67,7 @@
 
 **23:31** and over all the burnt offerings offered up to the Lord on the Sabbaths, and on the new moons, and at the feasts, according to number, according to the ordinance upon them, continually to the Lord.
 
-**23:32** And they shall keep the charges of the tent of the testimony and the charges of the sons of Aaron their brothers, to serve in the house of the Lord.
+**23:32** And they shall keep the charges of the tent of testimony and the charges of the sons of Aaron their brothers, to serve in the house of the Lord.
 
 ## Translator Notes
 

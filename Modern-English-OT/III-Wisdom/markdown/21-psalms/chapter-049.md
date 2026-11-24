@@ -19,7 +19,7 @@
 
 **49:7** "Hear, My people, and I will speak to you; Israel, and I testify to you: I am God, your God.
 
-**49:8** Not because of your sacrifices will I rebuke you, and your burnt offerings are continually before Me.
+**49:8** Not because of your sacrifices will I rebuke you, and your whole burnt offerings are continually before Me.
 
 **49:9** I will not accept calves from your house, nor male goats from your flocks.
 

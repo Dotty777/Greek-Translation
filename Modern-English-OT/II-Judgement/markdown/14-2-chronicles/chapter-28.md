@@ -64,6 +64,6 @@
 - **28:3** — Gaibenthom is the Greek transliteration of Hebrew Ge Ben-hinnom ("Valley of the Son of Hinnom"). The Greek also reads "and the abominations" (kai ta bdelygmata), likely an inner-Greek shift from "according to the abominations" (kata ta bdelygmata).
 - **28:5** — The Greek reads plural "kings" of Syria and Israel (without mentioning Damascus) and has a reflexive pronoun in the final clause ("struck himself with a great blow").
 - **28:6** — The Greek reads "sent" (apesteilen) rather than "killed" (apekteinen), an early Greek scribal variation.
-- **28:10** — The Greek closing question literally asks whether it is not for them "with yourselves to bear witness to the Lord our God," diverging from the Hebrew text's reference to "guilts against the LORD your God."
+- **28:10** — The Greek closing question literally asks whether it is not for them "with yourselves to bear witness to the Lord our God," diverging from the Hebrew text's reference to "guilts against the Lord your God."
 - **28:12** — The Greek names Udeia, Zechariah, Amasiah, and Choad differ from the Hebrew text's Azariah, Berechiah, Amasa, and Hadlai.
 - **28:18** — "The foreigners" translates hoi allophyloi, the standard Septuagint designation for the Philistines; the Greek also has the distinct town names Galero and Galezo (corresponding to Gederoth and Gimzo) and omits Timnah.

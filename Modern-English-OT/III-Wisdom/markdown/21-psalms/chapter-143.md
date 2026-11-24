@@ -41,4 +41,4 @@
 - **143:3** — The Greek passive verb ἐγνώσθης ("You were made known to him") differs from the active reading of the Masoretic Text ("that You take knowledge of him").
 - **143:10** — Following the Greek punctuation, "From an evil sword" begins the plea completed by "deliver me" in 143:11, rather than modifying "redeems David His servant" as in the Masoretic Text.
 - **143:12** — Throughout verses 12-14 the Septuagint uses third-person pronouns ("whose sons... their daughters..."), describing the material prosperity of the foreigners rather than praying for "our" sons as in the Masoretic Text; it also reads "temple" (ναοῦ) rather than "palace".
-- **143:15** — The Greek begins with a finite verb, ἐμακάρισαν ("They called blessed"), contrasting popular admiration of material prosperity with the psalmist's declaration that the people whose God is the Lord are truly blessed.
+- **143:15** — The Greek begins with a finite verb, ἐμακάρισαν ("They called blessed"), where the Hebrew reads "Blessed is the people."

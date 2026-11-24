@@ -5,7 +5,7 @@
 
 ## Text
 
-**95:1** When the house is being built after the captivity; a song of David. Sing a new song to the Lord; sing to the Lord, all the earth.
+**95:1** When the house is being built after the captivity; a song for David. Sing a new song to the Lord; sing to the Lord, all the earth.
 
 **95:2** Sing to the Lord, bless His name; proclaim the good news of His salvation from day to day.
 

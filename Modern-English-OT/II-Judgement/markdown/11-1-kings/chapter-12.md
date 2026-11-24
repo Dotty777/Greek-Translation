@@ -9,7 +9,7 @@
 
 **12:3** And the people spoke to King Rehoboam, saying,
 
-**12:4** "Your father made our yoke heavy; and now, lighten the harsh service of your father and his heavy yoke that he laid on us, and we will serve you."
+**12:4** "Your father made our yoke heavy; and now you lighten the harsh service of your father and his heavy yoke that he laid on us, and we will serve you."
 
 **12:5** And he said to them, "Go away for three days, and return to me." And they went away.
 

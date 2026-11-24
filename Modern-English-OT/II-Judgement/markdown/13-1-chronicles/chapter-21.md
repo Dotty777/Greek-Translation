@@ -61,7 +61,7 @@
 
 **21:28** At that time, when David saw that He had answered him at the threshing floor of Ornan the Jebusite, he sacrificed there.
 
-**21:29** Now the tabernacle of the Lord, which Moses had made in the wilderness, and the altar of burnt offerings were at that time in Bamoth in Gibeon.
+**21:29** Now the tent of the Lord, which Moses had made in the wilderness, and the altar of burnt offerings were at that time in Bamoth in Gibeon.
 
 **21:30** And David was not able to go before it to seek God, because he did not hasten from before the sword of the angel of the Lord.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**100:1** A psalm of David. Mercy and justice I will sing to You, Lord;
+**100:1** A psalm for David. Mercy and justice I will sing to You, Lord;
 
 **100:2** I will sing praise and understand in a blameless song. When will You come to me? I walked in the innocence of my heart, in the midst of my house.
 

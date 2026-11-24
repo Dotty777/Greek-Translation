@@ -35,7 +35,7 @@
 
 **31:15** Just as I myself came into being in the womb, have they not also come into being? And we have come into being in the same womb.
 
-**31:16** And the helpless did not fail to obtain whatever need they ever had, and I did not cause the eye of a widow to waste away;
+**31:16** And the powerless did not fail to obtain whatever need they ever had, and I did not cause the eye of a widow to waste away;
 
 **31:17** and if I ate my morsel alone and did not share with an orphan;
 
@@ -43,7 +43,7 @@
 
 **31:19** and if I overlooked a naked person perishing and did not clothe him;
 
-**31:20** and if the helpless did not bless me, and their shoulders were warmed from the fleece of my lambs;
+**31:20** and if the powerless did not bless me, and their shoulders were warmed from the fleece of my lambs;
 
 **31:21** if I lifted a hand against an orphan, trusting that much help is at hand for me,
 
@@ -71,7 +71,7 @@
 
 **31:33** and if, having sinned unintentionally, I hid my sin,
 
-**31:34** for I did not shrink from a throng of a multitude so as not to confess before them; and if I allowed a helpless person to go out my door with an empty bosom;
+**31:34** for I did not shrink from a throng of a multitude so as not to confess before them; and if I allowed a powerless person to go out my door with an empty bosom;
 
 **31:35** who would grant someone to hear me? And if I had not feared the hand of the Lord, a written bond that I had against someone,
 

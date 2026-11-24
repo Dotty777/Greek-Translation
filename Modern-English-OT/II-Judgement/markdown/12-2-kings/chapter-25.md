@@ -69,8 +69,8 @@
 
 ## Translator Notes
 
-- **25:6** — The Greek renders the place name as Ierdeblatha here (and Deblatha in v. 20), contrasting with Riblah in v. 21; similarly, Araboth of Jericho in v. 5 transliterates the Hebrew word for plains.
-- **25:8** — Greek archimageiros literally means chief cook (rendering the Hebrew title for the captain of the guard), and standing before the king of Babylon replaces the Hebrew servant of the king of Babylon. Verse 10 (the demolition of Jerusalem's walls) is absent in this Greek text after v. 9.
+- **25:6** — The Greek renders the place name as Ierdeblatha here (and Deblatha in v. 20), contrasting with Rheblatha (rendered Riblah) in v. 21; similarly, Araboth of Jericho in v. 5 transliterates the Hebrew word for plains.
+- **25:8** — Greek archimageiros literally means chief cook (rendering the Hebrew title for the captain of the guard), and standing before the king of Babylon replaces the Hebrew servant of the king of Babylon.
 - **25:17** — Several Hebrew architectural and occupational terms in vv. 12-17 are transliterated rather than translated in the Greek: tabein (v. 12, plowmen), mechonoth (vv. 13, 16, stands), iamein (v. 14, shovels), chothar (v. 17, capital), and sakacharthai and gabacha (v. 17, latticework). Similarly, v. 11 reads support (for Hebrew multitude), and v. 18 reads son of the second rank (for Hebrew second priest).
 - **25:23** — Several names here and in v. 25 differ from the Hebrew Masoretic Text: Jonah son of Kareth (for Johanan son of Kareah), the Nepphathite (for the Netophathite), Ozonias son of the Achathite (for Jaazaniah son of the Maacathite), and Manael in v. 25 (for Ishmael, also omitting the number ten). In v. 24, Greek parodon (passage) reflects a variant Hebrew reading rather than servants.
 - **25:27** — The Greek reads Ioakim (Jehoiakim) twice here, whereas the Hebrew Masoretic Text reads Jehoiachin; the Greek also adds from the house of the king in v. 30.

@@ -21,7 +21,7 @@
 
 **15:8** And when he heard these words and the prophecy of Adad the prophet, he grew strong and cast out the abominations from all the land of Judah and Benjamin and from the cities that he had seized in Mount Ephraim, and he renewed the altar of the Lord that was in front of the temple of the Lord.
 
-**15:9** And he assembled Judah and Benjamin and the proselytes who were residing with him from Ephraim and from Manasseh and from Simeon, because many of Israel joined themselves to him when they saw that the Lord his God was with him.
+**15:9** And he assembled Judah and Benjamin and the resident aliens who were residing with him from Ephraim and from Manasseh and from Simeon, because many of Israel joined themselves to him when they saw that the Lord his God was with him.
 
 **15:10** And they were gathered to Jerusalem in the third month, in the fifteenth year of the reign of Asa.
 

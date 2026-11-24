@@ -59,7 +59,7 @@
 
 **34:27** and your heart was contrite, and you humbled yourself before My face when you heard My words against this place and against those who live in it, and you humbled yourself before Me and tore your garments and wept in My presence, and I also have heard, says the Lord.
 
-**34:28** Look, I am gathering you to your fathers, and you will be gathered to your tombs in peace, and your eyes will not look upon all the evils that I am bringing upon this place and upon those who live in it.'" And they brought back word to the king.
+**34:28** Look, I am adding you to your fathers, and you will be added to your tombs in peace, and your eyes will not look upon all the evils that I am bringing upon this place and upon those who live in it.'" And they brought back word to the king.
 
 **34:29** And the king sent and gathered the elders of Judah and Jerusalem.
 

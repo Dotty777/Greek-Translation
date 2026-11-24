@@ -11,7 +11,7 @@
 
 **18:3** When an ungodly person comes into a depth of evils, he shows contempt, and dishonor and reproach come upon him.
 
-**18:4** A word in a man's heart is deep water, and a river springs up, and a fountain of life.
+**18:4** A word in a man's heart is deep water, and a river springs up, and a spring of life.
 
 **18:5** To show partiality to an ungodly person is not good, nor is it godly to turn aside justice in judgment.
 

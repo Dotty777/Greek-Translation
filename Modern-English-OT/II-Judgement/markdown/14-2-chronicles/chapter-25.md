@@ -19,7 +19,7 @@
 
 **25:7** And a man of God came to him, saying, "King, the army of Israel shall not go with you, because the Lord is not with Israel, all the sons of Ephraim.
 
-**25:8** For if you think you will prevail with these, then the Lord will rout you before the enemies, because it belongs to the Lord both to give strength and to rout."
+**25:8** For if you think you will prevail with these, then the Lord will rout you before the enemies, because it is from the Lord both to be strong and to rout."
 
 **25:9** And Amaziah said to the man of God, "And what shall I do about the one hundred talents that I gave to the army of Israel?" And the man of God said, "The Lord is able to give you far more than these."
 
@@ -57,7 +57,7 @@
 
 **25:26** And the rest of the acts of Amaziah, the first and the last, look, are they not written in the book of Judah and Israel?
 
-**25:27** And at the time when Amaziah turned away from the Lord, they laid a plot against him, and he fled from Jerusalem to Lachish; and they sent after him to Lachish and put him to death there.
+**25:27** And at the time when Amaziah turned away from the Lord, they laid a plot against him, and he fled from Jerusalem to Lachish; and he sent after him to Lachish and put him to death there.
 
 **25:28** And they carried him up on the horses, and buried him with his fathers in the city of David.
 

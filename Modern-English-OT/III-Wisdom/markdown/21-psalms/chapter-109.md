@@ -21,6 +21,6 @@
 
 ## Translator Notes
 
-- **109:3** — The Septuagint differs markedly from the Hebrew here, reading "with You is dominion [Greek arche, also 'beginning'] ... from the womb before the morning star I brought You forth," a prominent Christological passage in early Christian tradition.
+- **109:3** — The Septuagint differs markedly from the Hebrew here, reading "with You is dominion [Greek arche, also 'beginning'] ... from the womb before the morning star I brought You forth."
 - **109:5** — Greek synethlasen ("shattered") is aorist indicative, contrasting with the future tenses in v. 6 and depicting the Lord's victory as already accomplished.
 - **109:6** — Greek plerosei ptoma literally reads "He will fill [with] corpse/downfall" using a singular noun, taken either collectively ("fill them with corpses") or as "bring downfall to full measure."

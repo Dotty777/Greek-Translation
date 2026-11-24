@@ -29,7 +29,7 @@
 
 **24:12** Who is the man who fears the Lord? He will instruct him in the way that he chose.
 
-**24:13** His soul will abide in good things, and his offspring will inherit the land.
+**24:13** His soul will abide in good things, and his seed will inherit the land.
 
 **24:14** The Lord is a stronghold for those who fear Him, and the name of the Lord belongs to those who fear Him, and His covenant is to be made known to them.
 

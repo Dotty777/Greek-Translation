@@ -37,5 +37,5 @@
 
 - **20:4** — Greek ek lithou timiou ("of precious stone") renders the same Hebrew term translated "fine gold" in the Masoretic Text (compare 18:11).
 - **20:9** — The Greek uses two optative wishes, first passive (heuretheie, "may ... be found by") and then active (heuroi, "may ... find"), where the Hebrew Masoretic Text uses active verbs.
-- **20:10** — Unlike the Hebrew Masoretic Text (which shifts to third person, "the LORD in His wrath will swallow them up"), the Septuagint addresses the Lord directly in the vocative ("Lord, in Your anger You will throw them into confusion"), showing that 20:9-14 are addressed to God.
+- **20:10** — Unlike the Hebrew Masoretic Text (which shifts to the third person, "the Lord in His wrath will swallow them up"), the Septuagint addresses the Lord directly in the vocative ("Lord, in Your anger You will throw them into confusion").
 - **20:13** — "Make them a back" literally renders the Greek idiom for putting enemies to flight; in the second clause, Greek en tois periloipois sou ("in Your remnants") and hetoimaseis ("You will prepare") differ from the Hebrew Masoretic Text ("with Your bowstrings You will aim").

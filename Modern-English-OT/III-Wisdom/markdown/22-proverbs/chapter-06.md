@@ -9,7 +9,7 @@
 
 **6:2** For his own lips are a strong snare to a man, and he is caught by the lips of his own mouth.
 
-**6:3** Do, son, what I command you, and save yourself; for you have come into the hands of evil men because of your friend. Go without growing faint, and also spur on your friend for whom you became guarantor.
+**6:3** Do, son, what I command you, and save yourself; for you have come into the hands of evil men because of your friend. Do not grow faint, and also spur on your friend for whom you became guarantor.
 
 **6:4** Do not give sleep to your eyes, nor slumber with your eyelids,
 
@@ -37,7 +37,7 @@
 
 **6:16** because he rejoices in all things that God hates, and he is crushed because of impurity of soul:
 
-**6:17** the eye of an insolent man, an unjust tongue, hands shedding the blood of a just man,
+**6:17** the eye of an insolent man, an unjust tongue, hands shedding the blood of a righteous man,
 
 **6:18** and a heart devising evil thoughts, and feet hurrying to do evil.
 
@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **6:3** — Here and in 6:6, the Greek form isthi represents a manuscript spelling of ithi ('Go!'), rather than the imperative of 'be' (compare 5:20).
+- **6:3** — Greek isthi here is the imperative of 'be' with a participle (literally 'be not growing faint'); in 6:6 the same form stands for ithi ('Go').
 - **6:8** — The Greek text contains an extended comparison to the bee (from 'Or go to the bee' to the end of the verse) not found in MT, as well as an additional couplet on diligence in 6:11.
 - **6:16** — Instead of MT's numerical saying ('six things... seven'), the Greek connects this verse directly to the wicked man of 6:12-15 ('because he rejoices in all things that God hates, and he is crushed because of impurity of soul').
 - **6:22** — After the plural 'laws' and 'ordinances' of 6:20-21, the Greek shifts abruptly to a feminine singular pronoun (auten, here 'it'), echoing the Hebrew singular antecedent and anticipating 'commandment' in 6:23; in 6:23, 'and a light' could alternatively be construed as the predicate of 'the way of life.'

@@ -31,7 +31,7 @@
 
 **17:13** And Elijah said to her, "Take courage, go in and do according to your word. Only make for me from it a small baked cake first, and you will bring it out to me, and for yourself and your children you will make some afterward,
 
-**17:14** for this is what the Lord says: 'The jar of flour will not fail and the flask of oil will not diminish until the day that the Lord gives rain upon the land.'"
+**17:14** for thus says the Lord: 'The jar of flour will not fail and the flask of oil will not diminish until the day that the Lord gives rain upon the land.'"
 
 **17:15** And the woman went and did so; and she and he and her children ate.
 

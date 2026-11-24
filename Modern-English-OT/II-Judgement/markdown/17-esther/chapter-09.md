@@ -55,7 +55,7 @@
 
 **9:26** Therefore these days were called Phrourai because of the lots, because in their language they are called Phrourai, because of the words of this letter, and all that they had suffered because of these things, and all that had happened to them,
 
-**9:27** and he established it; and the Jews accepted it upon themselves and upon their offspring and upon those joined to them, and they will certainly not act otherwise. And these days are a memorial observed generation after generation, and in every city, family, and province.
+**9:27** and he established it; and the Jews accepted it upon themselves and upon their seed and upon those joined to them, and they will certainly not act otherwise. And these days are a memorial observed generation after generation, and in every city, family, and province.
 
 **9:28** And these days of Phrourai will be observed for all time, and their memorial will never fail from the generations.
 

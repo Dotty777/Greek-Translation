@@ -33,7 +33,7 @@
 
 **9:14** that the holy city, which he had been hurrying to come and make level with the ground and build into a common burial ground, he would declare free;
 
-**9:15** and as for the Jews, since he had resolved not even to consider them worthy of burial, to destroy them along with their infants for wild beasts as food for birds, he would make all of them equal to Athenians;
+**9:15** and as for the Jews, whom he had resolved not even to consider worthy of burial, but to destroy along with their infants for wild beasts as food for birds, he would make all of them equal to Athenians;
 
 **9:16** and the holy temple which he had formerly plundered he would adorn with the finest votive offerings, and he would restore all the sacred vessels many times over, and he would supply from his own revenues the expenses required for the sacrifices;
 

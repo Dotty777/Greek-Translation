@@ -43,7 +43,7 @@
 
 **20:19** And Hezekiah said to Isaiah, "Good is the word of the Lord that He has spoken."
 
-**20:20** And the rest of the acts of Hezekiah, and all his might, and all that he made, the pool and the aqueduct, and brought the water into the city, are these not written in the book of the acts of the days of the kings of Judah?
+**20:20** And the rest of the acts of Hezekiah, and all his might, and all that he made, the spring and the aqueduct, and brought the water into the city, are these not written in the book of the records of the days of the kings of Judah?
 
 **20:21** And Hezekiah slept with his fathers, and Manasseh his son became king in his place.
 

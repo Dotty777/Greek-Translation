@@ -1,11 +1,11 @@
 # 2 Chronicles 3 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (16 verses, 5 translator notes)  
+> **Status:** `draft: true` (16 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**3:1** And Solomon began to build the house of the Lord in Jerusalem on Mount Moriah, where the Lord had appeared to David his father, in the place that David had prepared, on the threshing floor of Ornan the Jebusite.
+**3:1** And Solomon began to build the house of the Lord in Jerusalem on Mount Hamoria, where the Lord had appeared to David his father, in the place that David had prepared, on the threshing floor of Ornan the Jebusite.
 
 **3:2** And building began in the second month, in the fourth year of his reign.
 
@@ -39,6 +39,7 @@
 
 ## Translator Notes
 
+- **3:1** — Greek reads Hamoria (Hamoreia), corresponding to Hebrew ha-Moriah ("the Moriah") with the article taken as part of the name.
 - **3:8** — Greek reads "for cherubim, for six hundred talents," a doublet arising from reading Hebrew kikkarim ("talents") both as kerubim ("cherubim") and as "talents."
 - **3:11** — Verse 3:12 of the Hebrew text, which describes the wings of the second cherub, is absent from the Greek text here.
 - **3:15** — Greek reads "in front of the wall" (tou toichou) rather than "in front of the house" (tou oikou), likely through an inner-Greek scribal error.

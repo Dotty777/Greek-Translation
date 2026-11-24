@@ -9,7 +9,7 @@
 
 **27:2** "As God lives, who has judged me in this way, and the Almighty, who has made my soul bitter,
 
-**27:3** surely, while my breath is still in me and the divine Spirit remains in my nostrils,
+**27:3** surely, while my breath is still in me and the divine spirit remains in my nostrils,
 
 **27:4** my lips will not speak lawless things, nor will my soul meditate on unjust things.
 
@@ -29,7 +29,7 @@
 
 **27:12** Look, you all know that you heap empty things upon empty things.
 
-**27:13** This is the portion of an ungodly man from the Lord, and the possession of tyrants will come from the Almighty upon them.
+**27:13** This is the portion of an ungodly man from the Lord, and the possession of mighty ones will come from the Almighty upon them.
 
 **27:14** And if their sons become many, they will be for slaughter; and even if they grow to manhood, they will beg;
 

@@ -147,7 +147,7 @@
 - **5:8** — The Greek text reads "Jaze" (Iazen), where other witnesses read "Jazer" (Iazer); "its daughters" is a biblical idiom for dependent surrounding towns.
 - **5:15** — The Greek shifts abruptly from third-person "against them" (ep' autous) to first-person "us" (hemas) within the messengers' report, where some witnesses smooth the first pronoun to "against us."
 - **5:16** — The Greek text reads singular "by him" (hup' autou, apparently referring back to Timothy in v. 11 or to a collective enemy), while other witnesses read plural "by them" (hup' auton).
-- **5:22** — The Greek text reads "the cities of Ptolemais" (ton poleon Ptolemaidos), whereas other witnesses read "the gates of Ptolemais" (ton pulon Ptolemaidos).
+- **5:22** — The Greek text reads "the cities of Ptolemais" (ton poleon Ptolemaidos), whereas other witnesses read "the gate of Ptolemais" (tes pyles Ptolemaidos).
 - **5:26** — The Greek forms "Alama" (Alamois) and "Makeb" (Makeb) correspond to "Alema" and "Maked" (Maked) in other witnesses; Bozrah (Bossora) and Bosor (Bossor) are two distinct Transjordanian towns.
 - **5:35** — The Greek text reads "Maapha" (Maapha), whereas other witnesses read "Maspha" or "Malle."
 - **5:36** — The Greek text reads "Chasphoth" (Chasphoth) and "Maked" (Maked), variant forms of "Casphor" and "Makeb" in v. 26.

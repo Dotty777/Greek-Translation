@@ -15,11 +15,11 @@
 
 **21:5** Looking at me, you will be astonished, placing a hand on your cheek.
 
-**21:6** For even if I remember, I am agitated, and pains grip my flesh.
+**21:6** For if I remember, I am agitated, and pains grip my flesh.
 
-**21:7** Why do the ungodly live, and have they grown old even in wealth?
+**21:7** Why do the ungodly live, and why have they grown old even in wealth?
 
-**21:8** Their offspring is according to their desire, and their children are before their eyes.
+**21:8** Their seed is according to their desire, and their children are before their eyes.
 
 **21:9** Their houses prosper, and fear is nowhere, and a scourge from the Lord is not upon them.
 

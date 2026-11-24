@@ -11,7 +11,7 @@
 
 **1:3** Who among you is from all His people? And his God will be with him, and he will go up to Jerusalem.
 
-**1:4** And as for everyone who remains from all the places where he resides, the men of his place will assist him with silver and gold and goods and livestock, along with the freewill offering for the house of the God who is in Jerusalem."
+**1:4** And as for everyone who remains from all the places where he resides, the men of his place will receive him with silver and gold and goods and livestock, along with the freewill offering for the house of the God who is in Jerusalem."
 
 **1:5** And the leaders of the ancestral houses of Judah and Benjamin, and the priests, and the Levites rose up, all those whose spirit God roused to go up to build the house that is in Jerusalem.
 

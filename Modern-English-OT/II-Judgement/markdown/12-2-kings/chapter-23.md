@@ -11,7 +11,7 @@
 
 **23:3** And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord, to keep His commandments and His testimonies and His statutes with all the heart and with all the soul, to establish the words of this covenant, the things written in this book; and all the people stood in the covenant.
 
-**23:4** And the king commanded Hilkiah the high priest and the priests of the second order and those guarding the threshold to bring out of the temple of the Lord all the vessels that had been made for Baal and for the grove and for all the host of heaven; and he burned them outside Jerusalem in Salemoth of Kidron, and took their dust to Bethel.
+**23:4** And the king commanded Hilkiah the great priest and the priests of the second order and those guarding the threshold to bring out of the temple of the Lord all the vessels that had been made for Baal and for the grove and for all the host of heaven; and he burned them outside Jerusalem in Salemoth of Kidron, and took their dust to Bethel.
 
 **23:5** And he burned the chomarim whom they had given to the king of Judah, and they were burning incense on the high places and in the cities of Judah and in the places around Jerusalem, and those burning incense to Baal and to the sun and to the moon and to the mazuroth and to all the host of heaven.
 

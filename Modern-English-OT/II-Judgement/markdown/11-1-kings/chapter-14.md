@@ -21,11 +21,11 @@
 
 **14:28** And it happened, whenever the king went into the house of the Lord, that the runners would carry them and would deposit them into the chamber of the runners.
 
-**14:29** And the rest of the words of Rehoboam and all that he did, look, are these not written in the book of the words of the days for the kings of Judah?
+**14:29** And the rest of the matters of Rehoboam and all that he did, look, are these not written in the book of the records of the days of the kings of Judah?
 
 **14:30** And there was war between Rehoboam and Jeroboam all the days.
 
-**14:31** And Rehoboam slept with his fathers, and he was buried with his fathers in the city of David; and Abijah his son reigned in his place.
+**14:31** And Rehoboam slept with his fathers, and he was buried with his fathers in the city of David; and Abiu his son reigned in his place.
 
 ## Translator Notes
 

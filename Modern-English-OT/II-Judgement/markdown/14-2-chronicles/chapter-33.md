@@ -31,7 +31,7 @@
 
 **33:13** and he prayed to Him, and He heard him, and He heard his cry, and He brought him back to Jerusalem to his kingdom; and Manasseh knew that the Lord Himself is God.
 
-**33:14** And after these things he built a wall outside the city of David on the west toward Gihon in the torrent valley, and as one goes out through the surrounding gate, and up to Ophel itself, and he raised it very high; and he stationed commanders of the army in all the walled cities in Judah.
+**33:14** And after these things he built a wall outside the city of David on the west toward Gihon in the torrent valley, and as one goes out through the surrounding gate, and up to Opla itself, and he raised it very high; and he stationed commanders of the army in all the walled cities in Judah.
 
 **33:15** And he removed the foreign gods and the carved image from the house of the Lord, and all the altars that he had built on the mountain of the house of the Lord and in Jerusalem and outside the city.
 

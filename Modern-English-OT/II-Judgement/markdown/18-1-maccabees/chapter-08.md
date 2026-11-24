@@ -15,7 +15,7 @@
 
 **8:5** and Philip, and Perseus king of the Kittim, and those who had risen up against them, they crushed in war and gained control over them;
 
-**8:6** and Antiochus the Great, king of Asia, who went against them to war having one hundred and twenty elephants, and cavalry, and chariots, and a very great force, was crushed by them;
+**8:6** and Antiochus, the great king of Asia, who went against them to war having one hundred and twenty elephants, and cavalry, and chariots, and a very great force, was crushed by them;
 
 **8:7** and they took him alive, and established for them that both he and those who would reign after him should pay a great tribute, and give hostages and a settlement,
 

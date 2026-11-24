@@ -21,7 +21,7 @@
 
 **1:8** Hear, son, the discipline of your father, and do not reject the ordinances of your mother;
 
-**1:9** for you will receive a wreath of graces on your head, and a golden collar around your neck.
+**1:9** for you will receive a crown of graces on your head, and a golden collar around your neck.
 
 **1:10** Son, do not let ungodly men lead you astray, nor consent
 
@@ -73,6 +73,6 @@
 
 - **1:3** — Greek στροφὰς λόγων ("turns of words") refers to intricate, subtle, or artfully turned expressions.
 - **1:7** — The Greek text reads "fear of God" rather than "fear of the Lord" and contains an expanded double couplet echoing Psalm 110:10 LXX (111:10 MT).
-- **1:17** — Verse 1:16 is absent in the Septuagint tradition, which proceeds directly from 1:15 to 1:17 and reads ἀδίκως ("unjustly") rather than "in vain."
+- **1:17** — Verse 1:16 is absent from this Greek text, which proceeds directly from 1:15 to 1:17; the Greek reads ἀδίκως ("unjustly") where the Hebrew reads "in vain."
 - **1:22** — The Septuagint diverges markedly from the Hebrew here, opening with a conditional promise for the innocent ("As long as...") rather than a rebuke of the simple.
 - **1:32** — Greek νηπίους ("infants") can also mean "the naive," and ἐξετασμός ("scrutiny") denotes judicial examination or inquiry.

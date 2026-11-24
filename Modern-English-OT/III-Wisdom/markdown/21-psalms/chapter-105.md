@@ -57,7 +57,7 @@
 
 **105:26** And He lifted up His hand against them, to cast them down in the wilderness,
 
-**105:27** and to cast down their offspring among the nations and to scatter them in the lands.
+**105:27** and to cast down their seed among the nations and to scatter them in the lands.
 
 **105:28** And they were initiated to Baal-peor, and they ate sacrifices of the dead.
 

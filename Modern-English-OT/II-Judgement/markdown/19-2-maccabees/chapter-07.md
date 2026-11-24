@@ -21,7 +21,7 @@
 
 **7:8** But answering in the ancestral language, he replied, "No." Therefore also
 
-**7:9** this one received the torture in turn, like the first. And when he was at his last breath, he said, "You indeed, accursed wretch, release us from this present life, but the King of the world will raise us up, since we have died for His laws, to an eternal renewal of life."
+**7:9** this one received the torture in turn, like the first. And when he was at his last breath, he said, "You indeed, accursed wretch, release us from this present life, but the King of the world will raise us up, who have died for His laws, to an eternal renewal of life."
 
 **7:10** And after him the third was mocked, and when asked for his tongue he quickly put it out, and courageously stretched out his hands;
 
@@ -37,7 +37,7 @@
 
 **7:16** But looking at him, he said, "Having authority among men, you do what you wish, mortal though you are; yet do not suppose that our race has been abandoned by God.
 
-**7:17** But wait patiently, and watch His majestic power, how He will torture you and your offspring."
+**7:17** But wait patiently, and watch His majestic power, how He will torture you and your seed."
 
 **7:18** And after him they brought the sixth, and when he was about to die, he said, "Do not be deceived any further, for we suffer these things because of ourselves, having sinned against our own God; things worthy of astonishment have happened;
 

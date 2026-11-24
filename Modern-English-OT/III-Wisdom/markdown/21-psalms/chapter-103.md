@@ -5,9 +5,9 @@
 
 ## Text
 
-**103:1** Of David. Bless the Lord, my soul. Lord, Lord, my God, how exceedingly You have been magnified! You clothed Yourself with thanksgiving and splendor,
+**103:1** For David. Bless the Lord, my soul. Lord, Lord, my God, how exceedingly You have been magnified! You clothed Yourself with thanksgiving and splendor,
 
-**103:2** wrapping Yourself in light like a garment, stretching out heaven like a curtain;
+**103:2** wrapping Yourself in light like a garment, stretching out heaven like a skin;
 
 **103:3** the One who roofs His upper chambers with waters, the One who makes clouds His ascent, the One who walks on wings of winds;
 

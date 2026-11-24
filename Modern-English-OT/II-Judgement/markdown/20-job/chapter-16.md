@@ -15,7 +15,7 @@
 
 **16:5** And may there be strength in my mouth, and I will not spare the movement of my lips.
 
-**16:6** For if I speak, I will not feel pain in the wound; and even if I keep silent, how much less will I be wounded?
+**16:6** For if I speak, I will not feel pain in the wound; and even if I keep silent, in what way will I be wounded less?
 
 **16:7** But now He has made me exhausted, foolish, rotten, and You seized me.
 

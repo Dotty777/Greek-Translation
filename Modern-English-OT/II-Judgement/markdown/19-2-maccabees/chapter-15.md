@@ -1,6 +1,6 @@
 # 2 Maccabees 15 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (39 verses, 5 translator notes)  
+> **Status:** `draft: true` (39 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,7 +67,7 @@
 
 **15:31** And when he arrived there and had called together his countrymen and stationed the priests before the altar, he sent for those from the citadel.
 
-**15:32** And having displayed the head of the vile Nicanor and the arm of the blasphemer, which he had stretched out against the holy house of the Almighty as he boasted arrogantly,
+**15:32** And having received the head of the vile Nicanor and the arm of the blasphemer, which he had stretched out against the holy house of the Almighty as he boasted arrogantly,
 
 **15:33** and having cut out the tongue of the impious Nicanor, he ordered it in pieces for the birds, and the wages of his folly to be hung opposite the sanctuary.
 
@@ -88,5 +88,6 @@
 - **15:6** — The Greek text here reads asphaleias ('security') and tropon ('manner'), whereas other witnesses read alazoneias ('arrogance') and tropaion ('trophy/monument').
 - **15:17** — The Greek text reads me strateuesthai ('not to carry on a campaign') and enpheresthai ('to rush in'), where other witnesses read me stratopedeuesthai ('not to encamp') and epipheresthai ('to attack').
 - **15:27** — The Greek text reads epimeleia ('care'), whereas other witnesses read epiphaneia ('manifestation').
+- **15:32** — The Greek text reads epidexamenos ('having received'), where other witnesses read epideixas ('having displayed').
 - **15:33** — The Greek text omits an explicit verb before 'for the birds' (where other witnesses add dosein, 'would give') and reads meta meros ('in pieces') for kata meros. The term 'wages' (epicheira, linked to cheir, 'hand/arm') plays on Nicanor's severed arm.
 - **15:36** — The Greek text reads kyriake ('the Lord's') for the language naming the month Adar, whereas other witnesses read Syriake ('Syrian,' i.e., Aramaic).

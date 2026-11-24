@@ -33,7 +33,7 @@
 
 **10:14** She went down with him into the pit, and in chains she did not leave him, until she brought him the scepter of a kingdom and authority over those who tyrannized him; she also showed those who had found fault with him to be liars, and gave him eternal glory.
 
-**10:15** She rescued a devout people and blameless offspring from a nation of oppressors.
+**10:15** She rescued a devout people and a blameless seed from a nation of oppressors.
 
 **10:16** She entered into the soul of a servant of the Lord, and withstood fearsome kings with wonders and signs.
 

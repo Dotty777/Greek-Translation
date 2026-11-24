@@ -31,13 +31,13 @@
 
 **6:13** For indeed, that those who act impiously are not left alone for a long time, but immediately meet with penalties, is a sign of great kindness.
 
-**6:14** For unlike with the other nations, where the Sovereign waits patiently to punish them until they have reached the full measure of their sins, He did not decide for it to be so with us,
+**6:14** For unlike with the other nations, where the Master waits patiently to punish them until they have reached the full measure of their sins, He did not decide for it to be so with us,
 
 **6:15** so that He would not later take vengeance on us when our sins have reached their end.
 
 **6:16** Therefore He never withdraws His mercy from us; and though He disciplines with calamity, He does not forsake His own people.
 
-**6:17** However, let these things be said by us by way of reminder; and after a few words we must proceed to the narrative.
+**6:17** However, let these things be said by us by way of reminder; and we must proceed briefly to the narrative.
 
 **6:18** Eleazar, one of the foremost scribes, a man already advanced in age and most noble in the appearance of his face, was being forced to open his mouth wide and eat pork.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**27:1** Of David. To You, Lord, I have cried out; my God, do not keep silent toward me, so that You never keep silent toward me and I become like those who go down into a pit.
+**27:1** Of David. To You, Lord, I have cried out; my God, do not keep silent toward me, lest You keep silent toward me and I become like those who go down into a pit.
 
 **27:2** Hear the voice of my plea when I plead to You, when I lift my hands toward Your holy temple.
 

@@ -15,7 +15,7 @@
 
 **24:5** And he gathered the priests and the Levites and said to them, "Go out to the cities of Judah and collect from all Israel money to strengthen the house of the Lord year by year, and hasten to speak." And the Levites did not believe.
 
-**24:6** And King Joash called Jehoiada the leader and said to him, "Why have you not inquired concerning the Levites, to bring in from Judah and Jerusalem what was decreed by Moses the man of God, because he assembled Israel to the tent of the testimony?"
+**24:6** And King Joash called Jehoiada the leader and said to him, "Why have you not inquired concerning the Levites, to bring in from Judah and Jerusalem what was decreed by Moses the man of God, because he assembled Israel to the tent of testimony?"
 
 **24:7** For Athaliah was the lawless one, and her sons tore down the house of God, and indeed they used the sacred things of the house of the Lord for the Baals.
 
@@ -39,7 +39,7 @@
 
 **24:17** And it came about after the death of Jehoiada that the leaders of Judah came in and bowed down to the king; then the king listened to them.
 
-**24:18** And they forsook the Lord, the God of their fathers, and served the Astartes and the idols; and wrath came upon Judah and Jerusalem on that day.
+**24:18** And they forsook the Lord, the God of their fathers, and served the Astartes and the idols; and wrath came upon Judah and Jerusalem on this day.
 
 **24:19** And He sent prophets to them to turn them back to the Lord, and they did not listen; and they testified against them, and they did not obey.
 
@@ -63,7 +63,7 @@
 
 - **24:1** — The Greek text gives the queen mother's name as "Abiah," whereas the Hebrew MT reads "Zibiah."
 - **24:5** — The Greek text reads "hasten to speak" (MT "hasten the matter") and "the Levites did not believe" (episteusan, likely an inner-Greek variant for espeusan, "did not hasten," matching MT).
-- **24:18** — The Greek text reads "the Astartes" (MT "the Asherim") and "on that day" (MT "for this guilt of theirs").
+- **24:18** — The Greek text reads "the Astartes" (MT "the Asherim") and "on this day" (MT "for this guilt of theirs").
 - **24:20** — The Greek text names the priest's son "Azariah," whereas the Hebrew MT reads "Zechariah."
 - **24:26** — The Greek text gives the conspirators' names and patronymics as "Zabel the son of Sama the Ammonite" and "Zozabed the son of Somaioth the Moabite," using masculine forms throughout (MT "Zabad the son of Shimeath the Ammonitess" and "Jehozabad the son of Shimrith the Moabitess").
 - **24:27** — Continuing the sentence from verse 26, the Greek text reads "and all his sons, and the five came to him" (apparently reading Hebrew hammas'a, "the oracle/burden," as a word for "five") and omits the MT clause about rebuilding the house of God.

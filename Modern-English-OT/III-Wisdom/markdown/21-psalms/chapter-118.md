@@ -227,7 +227,7 @@
 
 **118:111** I have inherited Your testimonies forever, because they are the exultation of my heart.
 
-**118:112** I have inclined my heart to do Your statutes forever, for the recompense of all.
+**118:112** I have inclined my heart to do Your statutes forever, continually, as a recompense.
 
 **118:113** Lawless ones I have hated, and Your law I have loved.
 

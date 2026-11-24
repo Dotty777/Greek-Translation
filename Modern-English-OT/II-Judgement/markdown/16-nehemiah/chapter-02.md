@@ -43,7 +43,7 @@
 
 **2:19** And Sanballat the Horonite, and Tobiah the Ammonite servant, and Geshem the Arab heard, and they mocked us, and came upon us and said, "What is this thing that you are doing? Or are you rebelling against the king?"
 
-**2:20** And I returned word to them and said to them, "The God of heaven, He will grant us success, and we are His pure servants, and let us build; but for you there is no portion, nor right, nor memorial in Jerusalem."
+**2:20** And I returned word to them and said to them, "The God of heaven, He will grant us success, and we are His pure servants, and let us build; but for you there is no portion, nor righteousness, nor memorial in Jerusalem."
 
 ## Translator Notes
 

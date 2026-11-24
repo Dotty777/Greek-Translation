@@ -5,7 +5,7 @@
 
 ## Text
 
-**14:1** For a mortal born of a woman is short-lived and full of wrath,
+**14:1** "For a mortal born of a woman is short-lived and full of wrath,
 
 **14:2** or like a flower that has blossomed, he falls away; and he flees like a shadow and will never remain.
 
@@ -47,7 +47,7 @@
 
 **14:21** And when his sons become many, he does not know, and if they become few, he does not understand;
 
-**14:22** only his flesh feels pain, and his soul mourns.
+**14:22** only his flesh feels pain, and his soul mourns."
 
 ## Translator Notes
 

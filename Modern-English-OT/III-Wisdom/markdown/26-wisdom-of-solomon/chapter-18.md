@@ -25,7 +25,7 @@
 
 **18:10** But the discordant cry of the enemies echoed back, and a pitiable cry was carried abroad for the children being lamented.
 
-**18:11** And with like penalty a slave was punished together with a master, and a commoner suffered the same things as a king;
+**18:11** And with like penalty a servant was punished together with a master, and a commoner suffered the same things as a king;
 
 **18:12** and all of them together, under one name of death, had innumerable dead; for the living were not even sufficient to bury them, since in a single moment their most honored offspring was destroyed.
 

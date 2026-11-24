@@ -65,7 +65,7 @@
 
 **17:30** For by You I will be delivered from a raiding band, and by my God I will scale a wall.
 
-**17:31** My God, His way is blameless; the oracles of the Lord are refined by fire; He is a protector of all who hope in Him.
+**17:31** My God, His way is blameless; the utterances of the Lord are refined by fire; He is a protector of all who hope in Him.
 
 **17:32** For who is God besides the Lord? And who is God besides our God?
 

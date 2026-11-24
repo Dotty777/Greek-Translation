@@ -53,7 +53,7 @@
 
 **30:24** If only I were able to lay hands on myself, or at least having asked another, and he will do this for me.
 
-**30:25** Yet I wept over every helpless person, and I groaned when I saw a man in distresses.
+**30:25** Yet I wept over every powerless person, and I groaned when I saw a man in distresses.
 
 **30:26** And while I was waiting for good things, look, days of evil things met me instead.
 

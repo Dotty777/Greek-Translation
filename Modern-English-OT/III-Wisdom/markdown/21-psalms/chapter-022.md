@@ -5,7 +5,7 @@
 
 ## Text
 
-**22:1** A Psalm of David. The Lord shepherds me, and nothing will be lacking to me.
+**22:1** A psalm of David. The Lord shepherds me, and nothing will be lacking to me.
 
 **22:2** In a place of green pasture, there He has made me encamp; beside water of rest He has nurtured me.
 
@@ -19,7 +19,7 @@
 
 ## Translator Notes
 
-- **22:1** — This is Psalm 23 in Hebrew and most English Bibles; the Greek (Septuagint) numbers it Psalm 22. ποιμαίνει ("shepherds") is a present-tense verb, and οὐδέν με ὑστερήσει has "nothing" as its subject, "nothing will be lacking to me."
+- **22:1** — This is Psalm 23 in the Hebrew numbering; the Greek (Septuagint) numbers it Psalm 22. ποιμαίνει ("shepherds") is a present-tense verb, and οὐδέν με ὑστερήσει has "nothing" as its subject, "nothing will be lacking to me."
 - **22:2** — κατεσκήνωσεν means "made to encamp, settled (as in a tent)." ἐξέθρεψεν means "nurtured, reared," which is the Greek's own picture in place of "leads."
 - **22:3** — ἐπέστρεψεν means "turned back, brought back," and it is rendered literally. The Greek verbs here are aorists, rendered with the English perfect.
 - **22:4** — κακά is plural, "evils." παρεκάλεσαν (aorist) is rendered "have comforted."

@@ -5,7 +5,7 @@
 
 ## Text
 
-**85:1** A prayer of David. Incline Your ear, Lord, and hear me, for I am poor and needy.
+**85:1** A prayer for David. Incline Your ear, Lord, and hear me, for I am poor and needy.
 
 **85:2** Guard my soul, for I am devout; save Your servant, my God, who hopes in You.
 

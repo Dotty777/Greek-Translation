@@ -97,7 +97,7 @@
 
 **7:46** And people came out from all the villages of Judea all around and outflanked them, and these turned back toward those; and they all fell by the sword, and not even one of them was left.
 
-**7:47** And they took the spoils and the plunder, and they cut off Nicanor's head and his right hand, which he had stretched out arrogantly, and brought them and displayed them beside Jerusalem.
+**7:47** And they took the spoils and the plunder, and they cut off Nicanor's head and his right hand, which he had stretched out arrogantly, and brought them and stretched them out beside Jerusalem.
 
 **7:48** And the people rejoiced greatly, and they observed that day as a great day of gladness.
 

@@ -52,4 +52,4 @@
 - **8:4** — Greek mystis ("initiate") borrows from Hellenistic mystery terminology to portray wisdom as one initiated into the inner secrets of God's knowledge.
 - **8:7** — The four virtues listed here—self-control (sōphrosynē), understanding/prudence (phronēsis), righteousness/justice (dikaiosynē), and courage (andreia)—are the classical Greek cardinal virtues.
 - **8:20** — Scholars debate whether "being good, I entered an undefiled body" reflects a Hellenistic/Platonic view of the preexistence of the soul or is a rhetorical self-correction locating personal identity in the soul rather than the body.
-- **8:21** — Greek enkratēs appears without an explicit object and can mean either "in possession [of wisdom]" (fitting 8:18 and 9:4, 17) or "self-controlled/continent" (as rendered in the Latin Vulgate).
+- **8:21** — Greek enkratēs appears without an explicit object and can mean either "in possession [of wisdom]" (fitting 8:18 and 9:4, 17) or "self-controlled/continent."

@@ -55,9 +55,9 @@
 
 **14:25** Now when the people heard these words, they said, "What thanks shall we repay to Simon and to his sons?
 
-**14:26** For he and his brothers and the house of his father stood firm, and they fought off the enemies of Israel from them and established freedom for it."
+**14:26** For he and his brothers and the house of his father stood firm, and they fought off the enemies of Israel from them." And they established freedom for it,
 
-**14:27** And they inscribed it on bronze tablets and placed them on a pillar on Mount Zion. And this is the copy of the writing: "On the eighteenth of Elul, in the one hundred and seventy-second year, and this is the third year under Simon the high priest,
+**14:27** and he inscribed it on bronze tablets, and they placed them on a pillar on Mount Zion. And this is the copy of the writing: "On the eighteenth of Elul, in the one hundred and seventy-second year, and this is the third year under Simon the high priest,
 
 **14:28** in Saramel, in a great assembly of the priests and people and rulers of the nation and the elders of the country, it was made known to us:
 
@@ -75,7 +75,7 @@
 
 **14:35** And the people saw the faithfulness of Simon and the glory which he purposed to bring about for his nation, and they appointed him their leader and high priest, because he had done all these things, and because of the righteousness and the faithfulness which he kept toward his nation; and he sought in every way to exalt his people.
 
-**14:36** And in his days things prospered in his hands, so that the Gentiles were removed from their country, and also those in the city of David, those in Jerusalem, who had made for themselves a citadel from which they went out and defiled all around the sanctuary and inflicted a great blow upon purity.
+**14:36** And in his days things prospered in his hands, so that the nations were removed from their country, and also those in the city of David, those in Jerusalem, who had made for themselves a citadel from which they went out and defiled all around the sanctuary and inflicted a great blow upon purity.
 
 **14:37** And he settled Jewish men in it and fortified it for the security of the country and of the city, and he heightened the walls of Jerusalem.
 

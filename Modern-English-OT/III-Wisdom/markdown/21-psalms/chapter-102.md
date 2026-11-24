@@ -5,7 +5,7 @@
 
 ## Text
 
-**102:1** Of David. Bless the Lord, my soul, and everything within me, His holy name.
+**102:1** For David. Bless the Lord, my soul, and everything within me, His holy name.
 
 **102:2** Bless the Lord, my soul, and do not forget all His praises;
 

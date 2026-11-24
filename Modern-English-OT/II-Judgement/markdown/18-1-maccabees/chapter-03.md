@@ -23,7 +23,7 @@
 
 **3:9** And he became renowned to the end of the earth, and he gathered together those who were perishing.
 
-**3:10** And Apollonius gathered Gentiles, and from Samaria a great force, to fight against Israel.
+**3:10** And Apollonius gathered nations, and from Samaria a great force, to fight against Israel.
 
 **3:11** And Judas learned of it, and went out to meet him, and struck him and killed him; and many fell wounded, and the rest fled.
 
@@ -85,7 +85,7 @@
 
 **3:40** And they departed with all their force and came and encamped near Emmaus in the plain country.
 
-**3:41** And the merchants of the country heard of their fame, and took a very great amount of silver and gold, and servants, and came into the camp to take the sons of Israel as slaves; and forces of Syria and of the land of the foreigners joined them.
+**3:41** And the merchants of the country heard of their fame, and took a very great amount of silver and gold, and servants, and came into the camp to take the sons of Israel as servants; and forces of Syria and of the land of the foreigners joined them.
 
 **3:42** And Judas and his brothers saw that evils had multiplied and that the forces would encamp within their borders; and they learned of the words of the kingdom that he had commanded to do to the people for destruction and complete ruin.
 
@@ -93,13 +93,13 @@
 
 **3:44** And the congregation was assembled to be ready for battle, and to pray and ask for mercy and compassion.
 
-**3:45** And Jerusalem was uninhabited like a wilderness; there was not one of her children going in or going out; and the sanctuary was trampled down, and sons of foreigners were in the citadel, a lodging place among the Gentiles; and delight was taken away from Jacob, and flute and lyre ceased.
+**3:45** And Jerusalem was uninhabited like a wilderness; there was not one of her offspring going in or going out; and the sanctuary was trampled down, and sons of foreigners were in the citadel, a lodging place among the nations; and delight was taken away from Jacob, and flute and lyre ceased.
 
 **3:46** And they gathered together and came to Mizpah, opposite Jerusalem, because formerly there was a place of prayer in Mizpah for Israel.
 
 **3:47** And they fasted on that day, and put on sackcloth and put ashes on their heads, and tore their garments.
 
-**3:48** And they spread open the book of the law concerning the things about which the Gentiles were consulting the likenesses of their idols.
+**3:48** And they spread open the book of the law concerning the things about which the nations were consulting the likenesses of their idols.
 
 **3:49** And they brought the garments of the priesthood and the firstfruits and the tithes, and they raised up the Nazirites who had completed the days.
 
@@ -107,7 +107,7 @@
 
 **3:51** And Your sanctuary has been trampled down and profaned, and Your priests are in mourning and humiliation.
 
-**3:52** And look, the Gentiles have gathered together against us to destroy us; You know what they plot against us.
+**3:52** And look, the nations have gathered together against us to destroy us; You know what they plot against us.
 
 **3:53** How will we be able to stand before their face, unless You help us?"
 
@@ -119,7 +119,7 @@
 
 **3:57** And the army departed, and they encamped to the south of Emmaus.
 
-**3:58** And Judas said, "Arm yourselves and be valiant men, and be ready for the morning to fight against these Gentiles who have assembled against us to destroy us and our sanctuary.
+**3:58** And Judas said, "Arm yourselves and be valiant men, and be ready for the morning to fight against these nations who have assembled against us to destroy us and our sanctuary.
 
 **3:59** For it is better for us to die in battle than to look upon the evils of our nation and of the sanctuary.
 
@@ -135,4 +135,4 @@
 - **3:35** — The Greek text reads 'to cast out' and singular 'its memory'; some manuscripts read 'to wipe out' and 'their memory.'
 - **3:41** — The Greek text reads 'servants' (or 'slaves'), whereas some ancient versions read 'fetters.' 'Foreigners' translates Greek allophyloi, the standard Septuagint term used for the Philistines (contrast 'Philistines' for Phylistieim in 3:24).
 - **3:43** — Some manuscripts add 'and let us fight for our people' before 'and of the sanctuary.'
-- **3:48** — This clause is debated; the Greek literally indicates that they spread open the book of the law concerning the matters about which the Gentiles consulted the likenesses of their idols.
+- **3:48** — This clause is debated; the Greek literally indicates that they spread open the book of the law concerning the matters about which the nations consulted the likenesses of their idols.

@@ -5,7 +5,7 @@
 
 ## Text
 
-**23:1** Then Job replied and said:
+**23:1** Then Job answered and said:
 
 **23:2** "Indeed, I know that reproof is out of my hand, and His hand has become heavy upon my groaning.
 

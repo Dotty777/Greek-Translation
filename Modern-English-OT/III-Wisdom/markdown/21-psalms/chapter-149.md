@@ -11,7 +11,7 @@
 
 **149:3** Let them praise His name with dancing; with tambourine and harp let them make music to Him.
 
-**149:4** For the Lord takes pleasure in His people, and He will exalt the humble with salvation.
+**149:4** For the Lord takes pleasure in His people, and He will exalt the meek with salvation.
 
 **149:5** The devout will boast in glory, and they will exult on their beds.
 

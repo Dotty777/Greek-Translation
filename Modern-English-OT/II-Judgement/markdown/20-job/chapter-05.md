@@ -53,7 +53,7 @@
 
 **5:24** Then you will know that your house will be at peace, and the dwelling of your tent will certainly not fail.
 
-**5:25** And you will know that your offspring is numerous, and your children will be like all the vegetation of the field.
+**5:25** And you will know that your seed is numerous, and your children will be like all the vegetation of the field.
 
 **5:26** And you will come to the grave like ripe grain reaped in season, or like a heap on a threshing floor gathered in at the right time.
 

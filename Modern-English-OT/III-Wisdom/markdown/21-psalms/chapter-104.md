@@ -15,7 +15,7 @@
 
 **104:5** Remember His marvels that He did, His wonders and the judgments of His mouth,
 
-**104:6** offspring of Abraham, His servants, sons of Jacob, His chosen ones.
+**104:6** seed of Abraham, His servants, sons of Jacob, His chosen ones.
 
 **104:7** He Himself is the Lord our God; in all the earth are His judgments.
 
@@ -23,7 +23,7 @@
 
 **104:9** which He covenanted with Abraham, and His oath to Isaac,
 
-**104:10** and He established it for Jacob as a decree, and for Israel an everlasting covenant,
+**104:10** and He established it for Jacob as a decree, and for Israel an eternal covenant,
 
 **104:11** saying, "To you I will give the land of Canaan, the measured portion of your inheritance,"
 
@@ -57,7 +57,7 @@
 
 **104:26** He sent Moses His servant, Aaron whom He chose.
 
-**104:27** He placed in them the words of His signs and wonders in the land of Ham.
+**104:27** He placed for them the words of His signs and wonders in the land of Ham.
 
 **104:28** He sent darkness and it grew dark, and they rebelled against His words.
 

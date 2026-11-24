@@ -39,7 +39,7 @@
 
 **16:21** They call the wise and discerning worthless, but those who are sweet in speech will hear more.
 
-**16:22** Insight is a fountain of life to those who possess it, but the discipline of fools is evil.
+**16:22** Insight is a spring of life to those who possess it, but the discipline of fools is evil.
 
 **16:23** The heart of a wise person will understand the things from his own mouth, and on his lips it will bear good judgment.
 

@@ -9,7 +9,7 @@
 
 **12:2** And to the Spartans and to other places he sent letters to the same effect.
 
-**12:3** And they went to Rome, and they went into the senate house and said, "Jonathan the high priest and the nation of the Jews sent us to renew the friendship and the alliance for them as before."
+**12:3** And they went to Rome, and they went into the council chamber and said, "Jonathan the high priest and the nation of the Jews sent us to renew the friendship and the alliance for them as before."
 
 **12:4** And they gave them letters to those in each place, so that they might escort them to the land of Judah in peace.
 
@@ -115,6 +115,6 @@
 
 - **12:20** — The Greek text spells the Spartan king's name 'Ares' here (referring to Areus I, called 'Areus' in 12:7) and styles Onias 'great priest,' reflecting the Hebrew title for the high priest.
 - **12:26** — The Greek text reads singular 'his camp' (referring to Demetrius's army), where some manuscripts read plural 'their camp.'
-- **12:28** — The Greek text ends with the lighting of the campfires, leaving the enemy's nighttime withdrawal implicit until 12:29-30; some later witnesses explicitly add 'and they departed.'
+- **12:28** — The Greek text ends with the lighting of the campfires, leaving the enemy's nighttime withdrawal implicit until 12:29-30; other witnesses add 'and they departed.'
 - **12:37** — 'The brook on the east' refers to the Kidron Valley east of Jerusalem; 'Chaphenatha' is an otherwise unattested name for a section of the wall or adjacent quarter.
 - **12:45** — The Greek text reads 'the many forces,' where some other witnesses read 'the remaining forces.'

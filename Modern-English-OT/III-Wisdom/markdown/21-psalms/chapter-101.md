@@ -61,7 +61,7 @@
 
 **101:28** but You are the same, and Your years will not fail.
 
-**101:29** The sons of Your servants will settle, and their offspring will be guided straight forever."
+**101:29** The sons of Your servants will settle, and their seed will be guided straight forever."
 
 ## Translator Notes
 

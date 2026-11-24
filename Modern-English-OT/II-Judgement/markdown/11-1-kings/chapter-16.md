@@ -79,4 +79,4 @@
 - **16:15** — Greek states that Zimri reigned "seven years" in Tirzah while Israel's camp was at "Gibeon" (Hebrew: "seven days" and "Gibbethon").
 - **16:16** — From 16:16 through 16:29, this Greek text consistently reads "Zimri" where the Hebrew distinguishes "Omri" from Zimri; in 16:18 it also reads "into a cave" and "the king burned," and in 16:22 adds "and Joram his brother."
 - **16:28** — Greek places the entire summary of Jehoshaphat's reign here (corresponding to Hebrew 1 Kings 22:41-50), dating it to Zimri's eleventh year, naming his mother "Gabuza" (Hebrew: Azubah), reading "Syria" (Hebrew: Edom) and "Sophir" (Hebrew: Ophir), and transliterating the Hebrew word for "deputy" as "nasib."
-- **16:33** — Greek reads "grove" (Hebrew: Asherah) and "to provoke his own soul to anger, so as to be utterly destroyed," where the Hebrew reads "to provoke the LORD, the God of Israel, to anger."
+- **16:33** — Greek reads "grove" (Hebrew: Asherah) and "to provoke his own soul to anger, so as to be utterly destroyed," where the Hebrew reads "to provoke the Lord, the God of Israel, to anger."

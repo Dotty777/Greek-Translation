@@ -53,7 +53,7 @@
 
 **39:24** and in anger it will make the ground vanish; and it will by no means believe until a trumpet sounds.
 
-**39:25** And when a trumpet sounds, it says, 'Aha!' And from a distance it scents war with a leap and a shout.
+**39:25** And when a trumpet sounds, it says, 'Well done!' And from a distance it scents war with a leap and a shout.
 
 **39:26** And by your knowledge does a hawk stand, having spread out its wings motionless, looking down on what lies to the south?
 

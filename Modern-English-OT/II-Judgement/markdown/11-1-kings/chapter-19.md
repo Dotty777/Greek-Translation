@@ -51,6 +51,6 @@
 
 - **19:2** — The Greek opens Jezebel's oath with the distinctive clause 'If you are Elijah and I am Jezebel' (absent in the Hebrew Masoretic Text) and uses singular 'God' with a positive oath statement introduced by hoti ('that').
 - **19:4** — 'broom bush' renders the Greek transliteration rathmen (from Hebrew rotem, a desert broom shrub), whereas v. 5 uses the general Greek noun phyton ('plant'); in v. 3 the Greek also reads 'was afraid' (ephobethe) rather than Hebrew 'saw.'
-- **19:11** — This Greek text reads en to pneumati Kyriou ('in the wind of the Lord') without the negation 'not' that appears in the following clauses and in the Hebrew text ('the LORD was not in the wind').
+- **19:11** — This Greek text reads en to pneumati Kyriou ('in the wind of the Lord') without the negation 'not' that appears in the following clauses and in the Hebrew text ('the Lord was not in the wind').
 - **19:16** — The Greek reads 'the son of Jehu, son of Nimshi' rather than Hebrew 'Jehu son of Nimshi,' and in v. 18 likewise has second-person 'you will leave' (kataleipseis) rather than first-person 'I will leave.'
 - **19:20** — The Greek omits 'and my mother' and renders Elijah's reply as a statement, Anastrephe, hoti pepoieka soi ('Return, for I have done it to you'), without the interrogative 'what' of the Hebrew text.

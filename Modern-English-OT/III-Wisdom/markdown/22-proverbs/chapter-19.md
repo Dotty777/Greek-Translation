@@ -19,7 +19,7 @@
 
 **19:9** A false witness will not remain unpunished, and whoever kindles wickedness will perish by it.
 
-**19:10** Luxury is not fitting for a fool, nor if a household servant begins to rule with insolence.
+**19:10** Luxury is not beneficial for a fool, nor if a household servant begins to rule with insolence.
 
 **19:11** A merciful man is patient, and his boast comes upon lawbreakers.
 

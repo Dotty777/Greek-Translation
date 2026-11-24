@@ -7,7 +7,7 @@
 
 **111:1** Hallelujah. Blessed is the man who fears the Lord; in His commandments he delights greatly.
 
-**111:2** His offspring will be powerful on the earth; the generation of the upright will be blessed.
+**111:2** His seed will be powerful on the earth; the generation of the upright will be blessed.
 
 **111:3** Glory and wealth are in his house, and his righteousness remains forever and ever.
 

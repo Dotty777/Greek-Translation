@@ -23,7 +23,7 @@
 
 **22:9** Look, a son is being born to you; he will be a man of rest, and I will give him rest from all the enemies around, for Solomon is his name, and I will give peace and quiet upon Israel in his days.
 
-**22:10** He will build a house for My name, and he will be to Me as a son, and I to him as a father, and I will establish the throne of his kingdom in Israel forever.'
+**22:10** He will build a house for My name, and he will be to Me as a son, and I to him as a father, and I will set upright the throne of his kingdom in Israel forever.'
 
 **22:11** And now, son, the Lord will be with you, and He will grant success, and you will build a house for the Lord your God, as He spoke concerning you.
 

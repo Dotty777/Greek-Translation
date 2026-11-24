@@ -23,7 +23,7 @@
 
 **28:9** The voice of the Lord strengthening deer, and He will lay bare forests; and in His temple everyone says, "Glory."
 
-**28:10** The Lord will inhabit the flood; and the Lord will sit as king forever.
+**28:10** The Lord will settle the flood; and the Lord will sit as king forever.
 
 **28:11** The Lord will give strength to His people; the Lord will bless His people in peace.
 
@@ -32,4 +32,4 @@
 - **28:1** — The Greek superscription adds "of the closing festival of the tent" (referring to the concluding assembly of the Feast of Tabernacles), and the verse preserves a double rendering with both "sons of God" and "young rams" (lit. "sons of rams").
 - **28:6** — The Greek reads "grind them fine" (contrasting with Hebrew "make them skip"), "the beloved one" (contrasting with Hebrew "Sirion"), and "a young unicorn" (lit. "a son of one-horned animals," the Septuagint rendering of Hebrew re'em, wild ox).
 - **28:9** — Greek katartizomenou means "strengthening," "making fit," or "perfecting," whereas the Hebrew reads "causes to calve."
-- **28:10** — Greek katoikiei is a future verb meaning "will inhabit" or "will settle," contrasting with the Hebrew past tense "sat enthroned."
+- **28:10** — Greek katoikiei is the future of katoikizō ("settle," "cause to be inhabited," as in 4:9), contrasting with the Hebrew past tense "sat enthroned."

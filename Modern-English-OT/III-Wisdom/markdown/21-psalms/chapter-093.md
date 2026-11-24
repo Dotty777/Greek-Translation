@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **93:1** — The Septuagint superscription assigns this psalm to Wednesday ("the fourth day of the week"), and ἐκδικήσεων is plural ("acts of vengeance"). Greek ἐπαρρησιάσατο ("acted boldly" or "spoke openly") is an aorist indicative rather than the Hebrew imperative "shine forth."
+- **93:1** — The Septuagint superscription assigns this psalm to Wednesday ("the fourth day of the week"), and ἐκδικήσεων is plural ("acts of vengeance"). Greek ἐπαρρησιάσατο ("acted boldly" or "spoke openly") is an aorist indicative, where the Hebrew is usually rendered as an imperative ("shine forth").
 - **93:15** — The Greek reverses the Hebrew subject and object so that righteousness returns to judgment, and closes with διάψαλμα ("Interlude"), a liturgical/musical pause corresponding to Hebrew Selah that is absent here in the MT.
 - **93:17** — Greek τῷ ᾅδῃ ("in Hades") differs from the Hebrew MT reading "in silence."
 - **93:19** — Greek ἠγάπησαν ("loved") is the reading of major Septuagint witnesses, diverging from the Hebrew "delighted/cheered" and later Greek manuscripts that read "gladdened."
