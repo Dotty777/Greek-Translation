@@ -31,5 +31,5 @@
 - [Chapter 23](chapter-23.md) — 44 verses, 5 notes
 - [Chapter 24](chapter-24.md) — 23 verses, 4 notes
 - [Chapter 25](chapter-25.md) — 55 verses, 5 notes
-- [Chapter 26](chapter-26.md) — 46 verses, 5 notes
+- [Chapter 26](chapter-26.md) — 46 verses, 6 notes
 - [Chapter 27](chapter-27.md) — 34 verses, 5 notes

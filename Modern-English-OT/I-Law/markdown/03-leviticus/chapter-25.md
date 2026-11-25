@@ -113,7 +113,7 @@
 
 **25:54** And if he is not redeemed after these things, he shall go out in the year of release, he and his children with him.
 
-**25:55** For to Me the sons of Israel are household servants; these are My servants whom I brought out of the land of Egypt.
+**25:55** For to Me the sons of Israel are household servants; these are My servants whom I brought out of the land of Egypt.'"
 
 ## Translator Notes
 

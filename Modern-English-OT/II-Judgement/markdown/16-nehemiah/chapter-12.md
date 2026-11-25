@@ -15,7 +15,7 @@
 
 **12:8** And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, Machaniah; he and his brothers were over the hands
 
-**12:9** For the divisions.
+**12:9** for the divisions.
 
 **12:10** And Jeshua fathered Joiakim, and Joiakim fathered Eliashib, and Eliashib, Joiada,
 
