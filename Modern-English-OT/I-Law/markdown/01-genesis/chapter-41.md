@@ -1,6 +1,6 @@
 # Genesis 41 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (57 verses, 5 translator notes)  
+> **Status:** `draft: true` (57 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -122,6 +122,7 @@
 ## Translator Notes
 
 - **41:16** — The Greek literally reads "Apart from God, the welfare of Pharaoh will not be answered," differing from the Hebrew text ("It is not in me; God will give Pharaoh a favorable answer").
+- **41:38** — Greek pneuma theou ("spirit of God," without the article) can be understood either as a divinely given spirit or as "the Spirit of God" (compare Gen 1:2).
 - **41:45** — The Greek preserves distinct forms for the Egyptian names: "Psonthomphanech" (Hebrew "Zaphenath-paneah"), "Petrephe" (Πετρεφῆ, rendered with standard English "Potiphera" as in 46:20; most Greek witnesses read "Petephres"), and "Heliopolis" ("City of the Sun," rendering Hebrew "On").
 - **41:48** — This Greek text contains the name "On" after "around it," likely an early gloss identifying the city or an uncial misreading of a relative pronoun.
 - **41:52** — This Greek text reads "exalted" (Greek hypsosen) rather than the more common Septuagint reading "increased/made fruitful" (euxesen), forming a direct contrast with "humiliation."

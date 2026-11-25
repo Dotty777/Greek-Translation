@@ -1,6 +1,6 @@
 # Proverbs 24 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -78,5 +78,6 @@
 - **24:5** — The Greek reads "a large farm" (γεωργίου μεγάλου), differing from the Hebrew phrasing about increasing strength.
 - **24:9** — The Greek syntax of 24:9-10 is difficult, with "impurity" (ἀκαθαρσία) in the nominative as the subject of the passive verb ἐμμολυνθήσεται ("will be stained into") alongside "a pestilent man" (ἀνδρὶ λοιμῷ).
 - **24:22** — The Greek contains an extended section on royal speech and wrath not found in the Hebrew; in "A son who guards a word will be free from destruction," the genitive "destruction" (ἀπωλείας) is governed by "free from" (ἐκτός), not by "son."
+- **24:23** — The Saints Greek Critical Text arranges Proverbs 24-31 in standard chapter sequence (24:23-34, 25-29, 30, 31) rather than the rearranged Septuagint order found in Codex Vaticanus and Rahlfs (which places 30:1-14 after 24:22 and 30:15-31:9 after 24:34 before chapters 25-29).
 - **24:27** — The Greek reads "walk behind me" (πορεύου κατόπισθέν μου), reflecting a different reading from the Hebrew "and afterward."
 - **24:31** — The masculine pronouns ("him," "he," "his") can refer either to the foolish person of 24:30 under the extended vineyard metaphor or to the vineyard itself; χορτομανήσει vividly means "run wild with weeds."

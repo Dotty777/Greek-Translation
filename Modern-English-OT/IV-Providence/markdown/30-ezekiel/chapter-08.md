@@ -44,7 +44,7 @@
 ## Translator Notes
 
 - **8:1** — The Septuagint dates this vision to the "fifth month," whereas the Hebrew Masoretic Text reads the "sixth month."
-- **8:3** — The Greek "pillar of the acquirer" reflects a different reading or vocalization of the Hebrew behind the Masoretic Text's "image of jealousy."
+- **8:3** — The Greek "pillar of the acquirer" reflects a different reading or vocalization of the Hebrew behind the Masoretic Text's "image of jealousy." Also, Greek πνεῦμα ("the Spirit") is anarthrous and can alternatively be rendered "a spirit" or "a wind."
 - **8:5** — The Greek omits the Hebrew's mention of the "image of jealousy" here and reads "facing east" where the Hebrew reads "of the altar."
 - **8:11** — The Greek gives the name "Jeconiah" (Iechonias), whereas the Hebrew Masoretic Text reads "Jaazaniah."
 - **8:16** — The Greek reads "about twenty men" rather than the Hebrew's "about twenty-five men," and renders "porticoes" with the plural transliteration ton ailam.

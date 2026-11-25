@@ -1,6 +1,6 @@
 # Exodus 10 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 4 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -37,7 +37,7 @@
 
 **10:16** And Pharaoh hurried to summon Moses and Aaron, saying, "I have sinned before the Lord your God and against you.
 
-**10:17** Therefore accept my sin now once more, and pray to the Lord your God, and let Him remove this death from me."
+**10:17** Therefore pardon my sin now once more, and pray to the Lord your God, and let Him remove this death from me."
 
 **10:18** And Moses went out from Pharaoh and prayed to God.
 
@@ -68,4 +68,5 @@
 - **10:7** — The Greek reads "Or do you want to know that Egypt is destroyed?" (without the "not yet" of the Hebrew Masoretic Text) and uses σκῶλον (lit. "thorn, stake, stumbling block") for "snare."
 - **10:10** — Greek ἀποσκευή ("baggage, household train, dependents") is the Septuagint's standard rendering for the non-combatant family members and little ones accompanying the men (so also in 10:24).
 - **10:13** — The Septuagint reads "a south wind" (ἄνεμον νότον) rather than the Hebrew "east wind," and has no explicit subject "the Lord" before "brought."
+- **10:17** — Greek prosdexasthe literally means "accept" or "receive," used idiomatically in the Septuagint with "sin" in the sense of "pardon" or "forgive" (compare Gen 50:17).
 - **10:22** — The Greek intensifies the plague with an asyndetic triad—"darkness, gloom, tempest" (σκότος γνόφος θύελλα)—and in 10:23 specifies "from his bed" (κοίτης) where the Hebrew has "from his place."

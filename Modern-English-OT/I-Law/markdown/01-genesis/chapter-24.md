@@ -141,7 +141,7 @@
 
 ## Translator Notes
 
-- **24:7** — The Greek text reads "the God of heaven and the God of the earth" and "to you I will give this land and to your offspring," where the Hebrew Masoretic Text omits "and the God of the earth" and "to you."
+- **24:7** — The Greek text reads "the God of heaven and the God of the earth" and "To you I will give this land and to your seed," where the Hebrew Masoretic Text omits "and the God of the earth" and "to you."
 - **24:22** — The Greek reads plural "gold earrings, each a drachma in weight," whereas the Hebrew has a single gold nose-ring weighing half a shekel.
 - **24:24** — The Greek phrasing "whom she bore to him, Nahor" uses an appositional dative (αὐτῷ Ναχώρ) identifying Nahor as the father to whom Milcah bore Bethuel.
 - **24:26** — The Greek participle εὐδοκήσας ("being pleased") differs from the Hebrew "bowed his head."

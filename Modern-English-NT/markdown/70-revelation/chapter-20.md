@@ -39,6 +39,6 @@
 
 - **20:4** — The plural subject of "sat" is unspecified in Greek (echoing Daniel 7:9, 22), and "judgment" (krima) may denote either authority to judge or a favorable verdict granted to the saints. The aorist "came to life" (ezesan, literally "lived") is ingressive here and in v. 5, indicating a return to life, though interpreters debate whether it refers to bodily resurrection or spiritual vindication.
 - **20:5** — A few manuscripts (including Codex Sinaiticus) omit the first sentence, likely due to scribal eye-skip between the repeated phrases "thousand years" in vv. 4 and 5, whereas the predominant manuscript tradition preserves it.
-- **20:9** — Some later manuscripts add "from God" before "from heaven," but the earliest and most reliable Greek witnesses read simply "from heaven."
+- **20:9** — Some later manuscripts add "from God" before or after "from heaven," while Codex Alexandrinus (A) and modern critical editions read simply "from heaven."
 - **20:12** — "Books" (biblia) and "book" (biblion; also biblos in v. 15) may alternatively be rendered "scrolls" and "scroll." Some later manuscripts read "before God" rather than "before the throne."
 - **20:14** — The final explanatory phrase "the lake of fire" is strongly supported by the earliest Greek witnesses, though it is omitted in many later manuscripts.

@@ -49,5 +49,5 @@
 
 - **32:2** — The Septuagint diverges markedly from the Hebrew text here, speaking of the man hiding his words and appearing in Zion like a glorious rushing river rather than leaders serving as a shelter from wind and storm.
 - **32:14** — Where the Hebrew text mentions "hill and watchtower," the Septuagint reads "the villages" (hai kōmai), and portrays abandoned houses leaving behind a city's wealth.
-- **32:15** — Greek transliterates Hebrew karmel as "Chermel" in 32:15 (making Chermel the subject that becomes a wilderness), while rendering the same term as "Carmel" in 32:16.
+- **32:15** — Greek transliterates Hebrew karmel as "Chermel" in 32:15 (making Chermel the subject that becomes a wilderness), while rendering the same term as "Carmel" in 32:16. Greek πνεῦμα ἀφ᾽ ὑψηλοῦ ("a spirit from on high") is anarthrous and can also be understood as "the Spirit from on high."
 - **32:19** — Unlike the Hebrew forecast of destructive hail, the Septuagint promises safety ("if the hail comes down, it will not come upon you") and confidence for those residing in the forests.

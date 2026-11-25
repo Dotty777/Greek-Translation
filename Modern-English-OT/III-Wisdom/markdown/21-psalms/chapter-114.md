@@ -1,6 +1,6 @@
 # Psalm 114 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (9 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (9 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -22,10 +22,6 @@
 **114:8** for He delivered my soul from death, my eyes from tears, and my feet from slipping.
 
 **114:9** I will be well-pleasing before the Lord in the land of the living.
-
-## Additional Verses (Not in Saints Numbering)
-
-**114:26** *(after `114:9`)* Hallelujah.
 
 ## Translator Notes
 

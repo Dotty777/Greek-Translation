@@ -1,6 +1,6 @@
 # Exodus 39 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (22 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,11 +31,11 @@
 
 **39:13** and the blue and purple and scarlet that were left over they made into ministering garments for Aaron, so as to minister in them in the sanctuary.
 
-**39:14** And they brought the garments to Moses, and the tent and its utensils and the bases and its bars and the pillars,
+**39:14** And they brought the garments to Moses, and the tent and its utensils and the bases and its bars and the pillars, and the ark of the covenant and its carrying poles,
 
-**39:15** and you shall enclose the tent, and you shall sanctify all that belongs to it all around. And you shall anoint the altar of fire offerings and all its utensils,
+**39:15** and the altar and all its utensils,
 
-**39:16** and the altar and all its utensils, and the anointing oil and the compounded incense, and the pure lampstand
+**39:16** and the anointing oil and the compounded incense, and the pure lampstand
 
 **39:17** and its lamps, the lamps for burning, and the oil for the light,
 
@@ -59,5 +59,4 @@
 - **39:2** — Greek renders the half-shekel weight (Hebrew beka) with the Hellenistic measure 'one drachma.'
 - **39:4** — Greek repeats 'one hundred' before both the capitals of the tent and the capitals of the curtain; verse 5 then gives the total of one hundred capitals for one hundred talents.
 - **39:7** — The Septuagint records seventy talents and one thousand five hundred shekels of bronze, where the Hebrew Masoretic Text reads two thousand four hundred shekels.
-- **39:15** — The Saints Greek Critical Text adopts at this point wording that its witnesses number as Exodus 40:8 (verse confidence 8%); it is translated here as it stands. Compare 40:8.
 - **39:21 *(additional)*** — Translated from the Saints Greek Critical Text; this verse has no separate place in the Saints.Bible numbering, so it is shown after 39:20.

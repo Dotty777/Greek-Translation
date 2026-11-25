@@ -1,6 +1,6 @@
 # 1 Chronicles 6 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (66 verses, 10 translator notes)  
+> **Status:** `draft: true` (66 verses, 11 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -9,7 +9,7 @@
 
 **6:2** And these are the names of the sons of Gershon: Libni and Shimei.
 
-**6:3** And the sons of Kohath: Amram and Izhar, Hebron and Uzziel.
+**6:3** The sons of Kohath: Amram and Izhar, Hebron and Uzziel.
 
 **6:4** The sons of Merari: Mahli and Mushi. And these are the families of Levi according to their families.
 
@@ -19,13 +19,13 @@
 
 **6:7** The sons of Kohath: Amminadab his son, Korah his son, Haresi his son,
 
-**6:8** Elkanah his son, Zophai his son, Kainath his son,
+**6:8** Elkanah, and Abiathar his son, Aseri his son,
 
 **6:9** Kohath his son, Uriel his son, Uzziah his son, Shaul his son.
 
 **6:10** And the sons of Elkanah: Amasai and Alimoth,
 
-**6:11** Elkanah, and Abiathar his son, Aseri his son,
+**6:11** Elkanah his son, Zophai his son, Kainath his son,
 
 **6:12** Eliab his son, Idaer his son, Elkanah his son.
 
@@ -75,7 +75,7 @@
 
 **6:35** And these are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
 
-**6:36** Bukki his son, Uzzi his son, Seraiah his son,
+**6:36** Bukki his son, Uzzi his son, Zerahiah his son,
 
 **6:37** Mariel his son, Amariah his son, Ahitub his son,
 
@@ -89,7 +89,7 @@
 
 **6:42** And to the sons of Aaron they gave the cities of refuge: Hebron, and Libnah and its pasturelands, and Selna and its pasturelands, and Eshtemoa and its pasturelands,
 
-**6:43** and Eglam and its pasturelands, and Gethoron and its pasturelands;
+**6:43** and Jeththar and its pasturelands, and Debir and its pasturelands,
 
 **6:44** and Ashan and its pasturelands, and Attan and its pasturelands, and Beth-shemesh;
 
@@ -111,7 +111,7 @@
 
 **6:53** and Ikaam and its pasturelands, and Beth-horon and its pasturelands,
 
-**6:54** and Esebaon and its pasturelands, and Gezer and its pasturelands.
+**6:54** and Eglam and its pasturelands, and Gethoron and its pasturelands;
 
 **6:55** And from the half-tribe of Manasseh: Amar and its pasturelands, according to family, for the remaining sons of Kohath.
 
@@ -119,7 +119,7 @@
 
 **6:57** and from the tribe of Issachar: Kedesh and its pasturelands, and Deberi and its pasturelands, and Dabor and its pasturelands,
 
-**6:58** and Jeththar and its pasturelands, and Debir and its pasturelands;
+**6:58** and Ramoth, and Enan and its pasturelands.
 
 **6:59** and from the tribe of Asher: Maasa and its pasturelands, and Abaran and its pasturelands,
 
@@ -142,10 +142,11 @@
 - **6:6** — In the Gershonite and Kohathite lines (vv. 6-13), the Greek preserves several distinct names compared to the Masoretic Text (MT 6:21-28): Joab, Adi, and Jaara (v. 6; MT Joah, Iddo, Zerah); Haresi (v. 7; MT Assir); Zophai and Kainath (v. 8; MT Ebiasaph, Assir); Kohath (v. 9; MT Tahath); Alimoth (v. 10; MT Ahimoth); Abiathar and Aseri (v. 11; MT Zophai, Nahath); Idaer (v. 12; MT Jeroham); and Sani (v. 13; MT Vashni).
 - **6:14** — The Greek text omits 'Merari: Mahli' at the start of the verse (cf. MT 6:29), leaving 'Sons:' followed immediately by 'Libni his son.'
 - **6:16** — Literally 'over the hands of the singers,' rendering a Hebrew idiom for overseeing musical service. In v. 17 the Greek also preserves distinct readings: 'the tabernacle of the house of testimony' (MT 'tabernacle of the tent of meeting') and 'with instruments' (MT 'with singing').
-- **6:19** — In the genealogies of Heman and Asaph (vv. 19-26), the Greek has Jeroboam and Tohu (v. 19; MT Jeroham, Toah; cf. 1 Sam 1:1), Amathiu (v. 20; MT Amasai), Abiasar (v. 22; MT Ebiasaph), and Aziah (v. 26; MT Adaiah).
+- **6:19** — In the genealogies of Heman and Asaph (vv. 19-28), the adopted Greek critical text (Codex Vaticanus/Swete) reads Eaal and Theie in v. 19 (Sixtine/Brenton: Jeroboam and Tohu; MT: Jeroham and Toah), Amathiu (v. 20; MT Amasai), Abiasar (v. 22; MT Ebiasaph), Maasai (v. 25; MT Baaseiah), Aziah (v. 26; MT Adaiah), and Echa (v. 28; MT Jahath).
 - **6:31** — The Greek omits Hilkiah and Amzi between Amaziah and Bani (cf. MT 6:46).
-- **6:36** — In the priestly line (vv. 36-38), the Greek reads Seraiah (v. 36; MT Zerahiah), Mariel (v. 37; MT Meraioth), and Ahisama (v. 38; MT Ahimaaz).
-- **6:42** — Among the Aaronite cities (vv. 42-45), the Greek preserves distinct names and an extra city compared to the Masoretic Text (MT 6:57-60): Selna (v. 42; MT Jattir), Eglam and Gethoron (v. 43; MT Hilen and Debir), Attan (v. 44; absent in MT, cf. Josh 21:16 Juttah), and Anchoch (v. 45; MT Anathoth).
+- **6:32** — The adopted Greek critical text (following Codex Vaticanus/Swete) reads 'υἱοῦ Μοολεὶ Μοσεὶ' without repeating 'υἱοῦ' ('son of') before Mushi; other Greek witnesses and the Hebrew text supply 'son of' before Mushi.
+- **6:36** — In the priestly line (vv. 36-38), the adopted Greek critical text (Codex Vaticanus/Swete) reads Bokai (v. 36; conventional Bukki) and Zerahiah (Zaraia, v. 36; Sixtine/Brenton reads Seraiah), Mariel (v. 37; MT Meraioth) and Aliareia (v. 37; Sixtine/Brenton and MT: Amariah), and Ahisama (v. 38; MT Ahimaaz).
+- **6:42** — Among the Aaronite cities (vv. 42-45), the Greek preserves distinct names and an extra city compared to the Masoretic Text (MT 6:57-60): Selna (v. 42; MT Jattir), Jeththar and Debir (v. 43; MT Hilen and Debir), Attan (v. 44; absent in MT, cf. Josh 21:16 Juttah), and Anchoch (v. 45; MT Anathoth).
 - **6:48** — The Greek reads 'the tribe of Dan' where the Masoretic Text has 'the tribe of Gad' (MT 6:63; cf. v. 65). Similarly, v. 50 omits 'the tribe of the sons of Benjamin' (cf. MT 6:65).
-- **6:54** — In the Kohathite and Gershonite city lists (vv. 53-61), the Greek omits Bileam (v. 55) and differs from the Masoretic Text (MT 6:68-76) in several names: Ikaam (v. 53; MT Jokmeam), Esebaon and Gezer (v. 54; MT Aijalon and Gath-rimmon), Amar (v. 55; MT Aner), Aseroth (v. 56; MT Ashtaroth), Deberi and Dabor (v. 57; MT Daberath), Jeththar and Debir (v. 58; MT Ramoth and Anem), Maasa and Abaran (v. 59; MT Mashal and Abdon), and Hammoth (v. 61; MT Hammon).
+- **6:54** — In the Kohathite and Gershonite city lists (vv. 53-61), the Greek omits Bileam (v. 55) and differs from the Masoretic Text (MT 6:68-76) in several names: Ikaam (v. 53; MT Jokmeam), Eglam and Gethoron (v. 54; MT Aijalon and Gath-rimmon), Amar (v. 55; MT Aner), Aseroth (v. 56; MT Ashtaroth), Deberi and Dabor (v. 57; MT Daberath), Enan (v. 58; MT Anem), Maasa and Abaran (v. 59; MT Mashal and Abdon), and Hammoth (v. 61; MT Hammon).
 - **6:63** — The Greek reads 'and Jericho toward the west of the Jordan' (MT 6:78 'at Jericho, east of the Jordan') and omits Jahzah. In the Merarite list (vv. 62-66), the Greek also reads Thachchia (v. 62; MT Tabor), Kadamos and Maephla (v. 64; MT Kedemoth and Mephaath), Rammon-gilead and Maanaith (v. 65; MT Ramoth in Gilead and Mahanaim), and Gezer (v. 66; MT Jazer).

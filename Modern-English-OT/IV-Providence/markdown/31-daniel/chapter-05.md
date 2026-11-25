@@ -73,6 +73,6 @@
 - **5:7** — Greek γαζαρηνούς (gazarenoi, also in 5:11) transliterates Aramaic gazerin ("diviners" or "astrologers").
 - **5:11** — Greek γρηγόρησις ("watchfulness" or "alertness") reflects a reading related to wakefulness where the Aramaic MT has "illumination/insight."
 - **5:27** — Greek ὑστεροῦσα is feminine singular ("it [your kingdom] ... found lacking"), whereas the Aramaic MT addresses the king directly in the second person ("you have been weighed ... and found deficient").
-- **5:22 *(additional)*** — This Greek text punctuates οὐ πάντα ταῦτα ἔγνως as a statement, "you did not know all these things"; the Aramaic reads "even though you knew all this."
+- **5:22 *(additional)*** — The adopted Greek critical text (following Swete) places a raised dot rather than a question mark after ou panta tauta egnos (rendered here as a statement, "you did not know all these things"); however, Sixtine/Brenton and the Orthodox LXX punctuate the clause as a rhetorical question expecting an affirmative answer ("did you not know all these things?", matching Aramaic "even though you knew all this").
 - **5:24 *(additional)*** — Greek astragalos cheiros literally means 'the knuckle [or wrist/palm joint] of a hand,' matching 'knuckles of the hand' in 5:5.
 - **5:25 *(additional)*** — This verse has no separate place in the Saints.Bible numbering, so it is shown with the other additional verses after 5:23. The Greek has three inscribed words (Mane, Thekel, Phares), where the Aramaic has four (Mene, Mene, Tekel, Upharsin).

@@ -112,7 +112,7 @@
 - **9:16** — The Greek text reads the reflexive pronoun 'αὑτούς' ('among yourselves' / 'with one another'); other editions read 'αὐτούς' ('with them', referring to the disciples).
 - **9:23** — The Greek places the definite article 'Τό' before 'Εἰ δύνῃ' ('The "If You can"!'), quoting and challenging the father's hesitant condition from verse 22.
 - **9:29** — Several early manuscripts (including Codex Vaticanus) end the verse with 'by prayer'; most others add 'and fasting'.
-- **9:43** — 'Gehenna' transliterates the Greek name for the Valley of Hinnom outside Jerusalem, used for the place of final fiery judgment. Verses 44 and 46, which repeat verse 48 in later manuscripts, are absent from the earliest witnesses.
+- **9:43** — 'Gehenna' transliterates the Greek name for the Valley of Hinnom outside Jerusalem, used for the place of final fiery judgment. Verses 44 and 46, which repeat verse 48 in later manuscripts, are absent from the earliest Greek witnesses; the Saints Greek Critical Text prints them within double brackets ⟦ ⟧ (shown as additional verses).
 - **9:49** — Later manuscripts add 'and every sacrifice will be salted with salt' (compare Leviticus 2:13).
 - **9:44 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts (compare 9:48).
 - **9:46 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts (compare 9:48).

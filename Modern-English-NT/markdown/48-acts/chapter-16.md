@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **16:7** — The earliest and best manuscripts read 'the Spirit of Jesus,' whereas some later witnesses omit 'of Jesus' to read simply 'the Spirit.'
+- **16:7** — The earliest Greek manuscripts read 'the Spirit of Jesus,' whereas some later witnesses omit 'of Jesus' to read simply 'the Spirit.'
 - **16:10** — The shift from third person ('they') to first person plural ('we') marks the first of the 'we' sections in Acts.
 - **16:12** — The Greek phrase translated 'a leading city of the district of Macedonia' is grammatically and textually debated; the attested text supports 'leading city' (or 'first city'), while some interpreters emend it to 'a city of the first district of Macedonia.'
 - **16:16** — Literally 'a spirit, a Python,' referring to a spirit of prophecy or divination associated in the Greco-Roman world with Apollo's oracle at Delphi.

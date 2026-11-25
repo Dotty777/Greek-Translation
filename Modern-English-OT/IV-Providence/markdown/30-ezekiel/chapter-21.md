@@ -51,13 +51,13 @@
 
 **21:23** And the word of the Lord came to me, saying,
 
-**21:24** "And you, son of man, mark out for yourself two roads for the sword of the king of Babylon to enter; out of one country the two will go forth. And a hand is at the head of a road to a city; at the head of the road you shall mark it out for a sword to enter against Rabbah of the sons of Ammon, and against Judea, and against Jerusalem in its midst,
+**21:24** "And you, son of man, mark out for yourself two roads for the sword of the king of Babylon to enter; out of one country the two will go forth. And a hand is at the head of a road to a city; at the head of the road you shall mark it out
 
 **21:25** for a sword to enter against Rabbah of the sons of Ammon, and against Judea, and against Jerusalem, in its midst.
 
-**21:26** For the king of Babylon will stand at the ancient road, at the head of the two roads, to practice divination: to shake a rod, and to inquire by the carved images, and to inspect the liver on his right.
+**21:26** For the king of Babylon will stand at the ancient road, at the head of the two roads, to practice divination: to shake a rod, and to inquire by the carved images, and to inspect the liver
 
-**21:27** The divination came against Jerusalem: to throw up a palisade, to open the mouth with a shout, to lift up the voice with an outcry, to throw up a palisade against her gates, and to cast up a mound, and to build siege batteries.
+**21:27** on his right. The divination came against Jerusalem: to throw up a palisade, to open the mouth with a shout, to lift up the voice with an outcry, to throw up a palisade against her gates, and to cast up a mound, and to build siege batteries.
 
 **21:28** And he is to them like one practicing divination before them, and he is calling to mind his injustices to be remembered.
 
@@ -85,4 +85,4 @@
 - **21:3** — The Greek doubles the divine title (κύριος Κύριος, "the Lord, the Lord") to represent Hebrew Adonai YHWH. Greek ἀπηλιώτου literally means "east" (also in 21:9), where Hebrew MT reads "south."
 - **21:8** — LXX reads "the unrighteous and the lawless" (ἄδικον καὶ ἄνομον, also in 21:9) rather than MT's "the righteous and the wicked." Greek uses ἐγχειρίδιον ("dagger") in vv. 8-10 before switching to ῥομφαία ("sword") in vv. 14-33.
 - **21:18** — Verses 17-20 preserve notably difficult LXX readings, including "they will sojourn" and "clap upon your hand" (vs. MT "thigh") in v. 17, "it has been justified; and should a tribe be rejected?" in v. 18, and the negation "so that the heart may not be broken" in v. 20.
-- **21:25** — The Greek source repeats the final clause of v. 24 here. In v. 26, LXX reads "ancient road" and singular "rod" (vs. MT "arrows"), and in vv. 31-32 reads indicative verbs ("you have taken off... put on") and "injustice" (vs. MT "ruin").
+- **21:25** — In v. 26, LXX reads "ancient road" and singular "rod" (vs. MT "arrows"), and in vv. 31-32 reads indicative verbs ("you have taken off... put on") and "injustice" (vs. MT "ruin").

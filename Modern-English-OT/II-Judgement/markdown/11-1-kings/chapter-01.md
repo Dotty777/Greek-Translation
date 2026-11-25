@@ -116,5 +116,5 @@
 - **1:8** — Greek reads Resei (corresponding to Hebrew Rei) and 'mighty sons of David' (where the Hebrew text and some Greek witnesses read 'the mighty men who belonged to David').
 - **1:9** — Greek reads 'by Aithe of Zoheleth, which was next to Rogel' (where the Hebrew and some Greek witnesses read 'by the stone of Zoheleth, which is beside En-rogel'), and 'the prominent men of Judah' rather than 'all the men of Judah'.
 - **1:40** — Greek reads 'dancing in dances' (reflecting the Hebrew root for dancing), whereas the Masoretic Hebrew reads 'playing on flutes'.
-- **1:48** — Greek explicitly includes 'from my offspring' before 'sitting on my throne,' a phrase not present in the Masoretic Hebrew text.
+- **1:48** — Greek explicitly includes 'from my seed' before 'sitting on my throne,' a phrase not present in the Masoretic Hebrew text.
 - **1:52** — Greek uses a Hebraistic oath conditional ('if') to express an emphatic negative ('not one of his hairs will fall'), and reads passive 'he will be put to death' where the Hebrew has 'he shall die'.

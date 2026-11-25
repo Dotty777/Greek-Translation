@@ -1,6 +1,6 @@
 # Psalm 109 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (7 verses, 3 translator notes)  
+> **Status:** `draft: true` (7 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,6 +21,7 @@
 
 ## Translator Notes
 
+- **109:1** — Greek uses kyrios twice ("the Lord said to my lord/Lord"); capitalizing "my Lord" and the pronouns in vv. 1-7 follows traditional messianic reading, as Greek manuscripts make no case distinction between a human royal lord and a divine Lord.
 - **109:3** — The Septuagint differs markedly from the Hebrew here, reading "with You is dominion [Greek arche, also 'beginning'] ... from the womb before the morning star I brought You forth."
 - **109:5** — Greek synethlasen ("shattered") is aorist indicative, contrasting with the future tenses in v. 6 and depicting the Lord's victory as already accomplished.
 - **109:6** — Greek plerosei ptoma literally reads "He will fill [with] corpse/downfall" using a singular noun, taken either collectively ("fill them with corpses") or as "bring downfall to full measure."

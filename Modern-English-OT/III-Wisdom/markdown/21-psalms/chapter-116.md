@@ -1,6 +1,6 @@
 # Psalm 116 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (2 verses, 2 translator notes, 1 additional)  
+> **Status:** `draft: true` (2 verses, 2 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -8,10 +8,6 @@
 **116:1** Hallelujah. Praise the Lord, all the nations; let all the peoples praise Him,
 
 **116:2** for His mercy has been made strong over us, and the truth of the Lord remains forever.
-
-## Additional Verses (Not in Saints Numbering)
-
-**116:10** *(after `116:2`)* Hallelujah.
 
 ## Translator Notes
 

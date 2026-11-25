@@ -1,6 +1,6 @@
 # Jeremiah 26 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,7 @@
 
 ## Translator Notes
 
+- **26:2** — Jeremiah 26:2-28 in the Septuagint corresponds to Jeremiah 46:2-28 in the Hebrew Bible (there is no verse 26:1 in the Greek text; Septuagint Jeremiah places the Oracles Against the Nations in chapters 25:14-31, corresponding to Hebrew chapters 46-51).
 - **26:14** — Greek σμίλαξ ("bindweed" or "yew") is a Septuagint rendering distinct from the Hebrew "your surroundings."
 - **26:15** — The Septuagint explicitly names Apis (ὁ Ἆπις), the sacred bull deity of Memphis, whereas the Hebrew reads "your mighty ones" (or "your mighty one").
 - **26:16** — Greek μαχαίρας Ἑλληνικῆς ("the Greek sword") reflects the Septuagint reading of the Hebrew term for "oppressing" (hayyonah) as "Greece" (Yavan), a rendering repeated in 27:16.

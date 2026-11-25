@@ -1,6 +1,6 @@
 # Ezekiel 2 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (10 verses, 4 translator notes)  
+> **Status:** `draft: true` (10 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -28,6 +28,7 @@
 ## Translator Notes
 
 - **2:1** — In the Septuagint versification, the opening sentence ("This was the vision... One speaking") begins chapter 2 rather than concluding 1:28 as in the Hebrew text.
+- **2:2** — Greek πνεῦμα here is anarthrous (without the definite article) and can be rendered either "the Spirit" (capitalized) or "a spirit" / "wind"; similarly, αὐτοῦ ("Him") can refer either to the Lord speaking or to the spirit/voice.
 - **2:3** — Greek "parapikraino" ("provoke," literally "embitter") renders the Hebrew root for rebellion throughout chapters 2-3.
 - **2:5** — Greek reads "are terrified" (also in 2:7), whereas the Hebrew text reads "refuse" or "forbear."
 - **2:6** — Greek translates the Hebrew nouns for "briers and thorns" as verbs, reading "they will rage and band together against you all around."

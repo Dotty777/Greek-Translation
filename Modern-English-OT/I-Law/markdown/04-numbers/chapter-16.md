@@ -1,6 +1,6 @@
 # Numbers 16 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (35 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,10 +74,6 @@
 **16:34** And all Israel who were around them fled from their cry, for they were saying, "The earth might swallow us up."
 
 **16:35** And fire went out from the Lord and devoured the two hundred and fifty men who were offering the incense.
-
-## Additional Verses (Not in Saints Numbering)
-
-**16:44** *(after `16:35`)* And the Lord spoke to Moses and Aaron, saying,
 
 ## Translator Notes
 

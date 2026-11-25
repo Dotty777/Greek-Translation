@@ -37,6 +37,6 @@
 
 - **12:2** — Greek prothyra saleuomena means 'shaken doorways' (reading Hebrew saph as 'threshold/porch' rather than 'cup'), and the Greek specifies 'in Judea there will be a siege.'
 - **12:3** — The Septuagint reads 'a trampled stone' and active/middle empaizon empaixetai ('will surely mock'), where the Hebrew reads 'a heavy stone; all who lift it will severely injure themselves.'
-- **12:10** — Greek anth' hon katorchesanto literally means 'because they danced in mockery/triumph,' where the Hebrew Masoretic Text (and John 19:37) reads 'whom they pierced.'
+- **12:10** — Greek anth' hon katorchesanto literally means 'because they danced in mockery/triumph,' where the Hebrew Masoretic Text (and John 19:37) reads 'whom they pierced.' Capitalizing third-person auton ('for Him') after first-person 'to Me' reflects traditional messianic/divine identification; Greek makes no case distinction.
 - **12:11** — The Septuagint renders Hebrew 'Hadad-rimmon in the plain of Megiddo' as 'a pomegranate grove being cut down in a plain.'
 - **12:13** — The Greek reads the LXX-distinct proper name Symeon ('Simeon'), where the Hebrew Masoretic Text has 'Shimei.'

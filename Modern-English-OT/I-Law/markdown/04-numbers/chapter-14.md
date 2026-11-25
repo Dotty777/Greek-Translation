@@ -1,6 +1,6 @@
 # Numbers 14 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (45 verses, 5 translator notes)  
+> **Status:** `draft: true` (45 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,7 +39,7 @@
 
 **14:17** And now, let Your strength be exalted, Lord, just as You spoke, saying,
 
-**14:18** 'The Lord is slow to anger and abundant in mercy and true, taking away lawless deeds and injustices and sins; yet He will by no means cleanse the guilty, repaying sins of fathers upon children to the third and fourth generation.'
+**14:18** 'The Lord is slow to anger and abundant in mercy and true, taking away lawless deeds and injustices and sins; yet He will by no means clear the guilty, repaying sins of fathers upon children to the third and fourth generation.'
 
 **14:19** Forgive the sin of this people according to Your great mercy, just as You have been gracious to them from Egypt until now."
 
@@ -98,6 +98,7 @@
 ## Translator Notes
 
 - **14:9** — The Greek reads "the opportunity" (ὁ καιρός, also "season" or "favorable time"), whereas the Hebrew Masoretic Text reads "their shadow" (i.e., protection).
+- **14:18** — Greek katharismo ou kathariei literally reads "with cleansing He will not cleanse," a forensic idiom for "will by no means clear/acquit" (compare Exod 20:7; 34:7; Deut 5:11).
 - **14:23** — The Greek includes the extended promise granting the land to the children who do not yet know good or evil (paralleling Deuteronomy 1:39), a clause absent from the Hebrew Masoretic Text here.
 - **14:27** — The Greek reads "about you" (περὶ ὑμῶν, addressed to Moses and Aaron), whereas the Hebrew Masoretic Text reads "against Me."
 - **14:33** — The Greek middle/passive participle νεμόμενοι ("pasturing" or "grazing") portrays the next generation subsisting in the wilderness like a flock, where the Hebrew has "shepherds."

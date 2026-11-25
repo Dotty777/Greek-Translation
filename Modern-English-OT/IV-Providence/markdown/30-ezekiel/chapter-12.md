@@ -19,7 +19,7 @@
 
 **12:7** And I did so, according to all that He commanded me, and I brought out baggage for captivity by day, and in the evening I dug through the wall for myself and went out concealed; I was lifted up on shoulders before them.
 
-**12:8** And the word of the Lord came to me, saying,
+**12:8** And the word of the Lord came to me in the morning, saying,
 
 **12:9** "Son of man, did not the house of Israel, the provoking house, say to you, 'What are you doing?'
 

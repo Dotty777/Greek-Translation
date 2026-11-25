@@ -1,6 +1,6 @@
 # 1 Samuel 13 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (22 verses, 6 translator notes)  
+> **Status:** `draft: true` (22 verses, 7 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,7 +27,7 @@
 
 **13:12** and I said, 'Now the foreigners will come down against me at Gilgal, and I have not implored the face of the Lord.' And I forced myself and offered up the burnt offering."
 
-**13:13** And Samuel said to Saul, "You have acted foolishly, because you have not kept my command which the Lord commanded you; for now the Lord had established your kingdom forever over Israel.
+**13:13** And Samuel said to Saul, "You have acted foolishly, because you have not kept my command which the Lord commanded you; for now the Lord would have established your kingdom forever over Israel.
 
 **13:14** And now your kingdom will not stand; and the Lord will seek for Himself a man according to His heart, and the Lord will command him to be ruler over His people, because you have not kept what the Lord commanded you."
 
@@ -53,6 +53,7 @@
 
 - **13:3** — Greek treats Hebrew netsiv ("garrison" or "prefect") as a proper name, "Nasib," translates Geba as "the hill," and reads "The servants have rebelled" where the Hebrew Masoretic Text reads "Let the Hebrews hear." The Greek text omits verse 1, the difficult chronological formula in the Hebrew.
 - **13:5** — Greek reads the distinct place name "Beth-horon to the rear," where the Hebrew Masoretic Text reads "east of Beth-aven."
+- **13:13** — Greek uses the aorist indicative hetoimasen ("prepared/established") without a conditional particle, understood counterfactually in context with v. 14 ("And now your kingdom will not stand").
 - **13:15** — The Septuagint preserves a longer text here ("on his way; and the remainder of the people... arrived from Gilgal") that is absent from the shorter Hebrew Masoretic Text.
 - **13:18** — Greek reads "Geba" where the Hebrew has "the border," transliterates Hebrew gei ("valley") as the proper name "Gai," and has the distinct name "Samin" where the Hebrew reads "Zeboim."
 - **13:21** — This difficult verse diverges sharply from the Hebrew Masoretic Text (which refers to a pim weight): Greek speaks of "the vintage... ready for reaping," "three shekels per tooth," and the same "setting" (hypostasis).

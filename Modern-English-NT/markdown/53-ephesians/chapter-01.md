@@ -1,6 +1,6 @@
 # Ephesians 1 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ephesians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -57,4 +57,5 @@
 - **1:10** — The verb translated "to sum up" (anakephalaiōsasthai) literally means "to bring together under one head" or "to unite."
 - **1:11** — The passive verb eklērōthēmen ("were allotted an inheritance") may also be rendered "were appointed as God's heritage."
 - **1:15** — Following the earliest Greek manuscripts, this text omits "love" (agapēn), repeating only the article ("that [faith] toward all the saints").
+- **1:17** — Greek anarthrous πνεῦμα ("a spirit") may refer either to a spiritual disposition granted by God or directly to the Holy Spirit ("the Spirit of wisdom and revelation").
 - **1:23** — The participle plēroumenou is middle or passive in form; it is usually taken in an active/middle sense ("who fills all things in all"), though some render it passively ("who is filled").

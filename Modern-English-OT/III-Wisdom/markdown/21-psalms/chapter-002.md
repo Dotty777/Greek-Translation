@@ -1,6 +1,6 @@
 # Psalm 2 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (12 verses, 4 translator notes)  
+> **Status:** `draft: true` (12 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,5 +33,6 @@
 
 - **2:2** — Greek diapsalma ("Interlude") is a musical term indicating a pause or instrumental interlude, corresponding to the Hebrew term Selah (also in 3:3, 3:5).
 - **2:6** — The Greek verb is passive ("was established by Him"), making the anointed ruler the speaker rather than God as in the Hebrew text; this Greek witness also omits the word "king" found in some manuscripts.
+- **2:7** — Pronouns and "Son" for the speaker (here and in vv. 8-9) are capitalized following traditional messianic reading; in Greek script no uppercase/lowercase distinction exists, and the same speaker is introduced as "His anointed" (2:2) and "king" (2:6).
 - **2:9** — Greek poimaneis means "you will shepherd" (echoed in Revelation 2:27; 12:5; 19:15), reflecting a different vocalization of the Hebrew consonants than the traditional Hebrew "you will break."
 - **2:12** — Greek draxasthe paideias ("Take hold of instruction") and "from the righteous way" follow the Septuagint wording, differing from the traditional Hebrew ("Kiss the son" and "in the way").

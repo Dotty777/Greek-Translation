@@ -33,5 +33,5 @@
 
 - **3:1** — The Greek opens with third-person future "And he will say" (Kai erei) where the Hebrew MT has "And I said," and reads "remnant" (hoi kataloipoi) here and in 3:9 where MT has "rulers."
 - **3:7** — The Greek expands "seers" to "those who see dreams," reads "will speak against them" where Hebrew MT has "will cover their mustache," and reads "no one who listens to them" where MT has "no answer from God."
-- **3:8** — The Greek opens with the conditional "Unless" (ean me) and the active verb "I fill up strength" (empleso ischyn), contrasting elliptically with the false prophets of verses 6-7 (Hebrew MT: "On the other hand, I am filled with power").
+- **3:8** — The Greek opens with the conditional "Unless" (ean me) and the active verb "I fill up strength" (empleso ischyn), contrasting elliptically with the false prophets of verses 6-7 (Hebrew MT: "On the other hand, I am filled with power"). The genitives "of justice and might" (krimatos kai dynasteias) may depend either on anarthrous pneumati ("a spirit / the Spirit of the Lord and of justice and might") or directly on "fill up" as genitives of content ("with justice and might").
 - **3:12** — The Greek reads "fruit-watcher's hut" (oporophylakion, as in 1:6) where the Hebrew MT has "heaps of ruins," and "a forest grove" (alsos drymou) where MT has "high places of a forest."

@@ -1,6 +1,6 @@
 # Deuteronomy 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (33 verses, 3 translator notes)  
+> **Status:** `draft: true` (33 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,5 +74,6 @@
 ## Translator Notes
 
 - **5:14** — The Greek text includes the creation rationale ("for in six days the Lord made both heaven and earth, and the sea, and all that is in them"), paralleling Exodus 20:11, whereas the Hebrew Masoretic Text omits this clause here.
+- **5:17** — In the Greek manuscript tradition of Deuteronomy 5:17-18, some witnesses (including Codex Vaticanus/Swete) place adultery (v. 17) before murder (v. 18), while the Sixtine/Brenton order adopted here places murder (v. 17) before adultery (v. 18) and theft (v. 19); compare the distinct Septuagint order in Exodus 20:13-15 (adultery, theft, murder).
 - **5:29** — "Who will grant" translates the literal Greek idiom τίς δώσει, reflecting a Hebrew expression of earnest wish ("Oh that...").
 - **5:33** — "So that He may give you rest" translates the Greek καταπαύσῃ σε, whereas the Hebrew Masoretic Text reads "so that you may live."

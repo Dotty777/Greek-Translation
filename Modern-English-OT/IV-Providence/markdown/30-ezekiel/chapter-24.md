@@ -37,7 +37,7 @@
 
 **24:16** "Son of man, look, I am taking from you the desires of your eyes in battle; you shall by no means lament, nor shall you weep.
 
-**24:17** You will be a groaning of blood, of loins, of mourning; your hair will not be braided upon you, and your sandals on your feet; you shall by no means be comforted by their lips, and you shall by no means eat the bread of men."
+**24:17** You will be a groaning of blood, of loins, of mourning; your hair will not be braided upon you, and your sandals will be on your feet; you shall by no means be comforted by their lips, and you shall by no means eat the bread of men."
 
 **24:18** And I spoke to the people in the morning just as He commanded me in the evening, and I did in the morning just as it was ordered to me.
 
@@ -63,6 +63,6 @@
 
 - **24:9** — The Greek reads "the people" (ton laon), likely an early scribal shift from "the firebrand" (ton dalon), whereas the Hebrew MT reads "the pile."
 - **24:12** — The Greek reads "will be put to shame" (kataischynthesetai), reflecting a different reading of the Hebrew consonants rendered "in the fire" in the MT.
-- **24:17** — The Greek ("a groaning of blood, of loins, of mourning you will be; your hair will not be braided upon you... nor be comforted by their lips") diverges markedly from the Hebrew MT ("groan silently; make no mourning for the dead; bind on your turban... do not cover your mustache").
+- **24:17** — The Greek ("a groaning of blood, of loins, of mourning you will be; your hair will not be braided upon you... nor be comforted by their lips") diverges markedly from the Hebrew MT ("groan silently; make no mourning for the dead; bind on your turban... do not cover your mustache"). Greek omits a repeated verb before "and your sandals on your feet," which in context (compare v. 23) stands outside the preceding negation.
 - **24:18** — The Greek omits the report of Ezekiel's wife's death found in the Hebrew MT ("and in the evening my wife died"), reading instead "just as He commanded me in the evening."
 - **24:24** — The Greek reads second-person plural "you have done" (epoiesate), where the Hebrew MT has third-person singular "he has done."

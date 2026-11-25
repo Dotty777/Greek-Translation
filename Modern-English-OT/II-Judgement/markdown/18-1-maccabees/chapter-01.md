@@ -1,6 +1,6 @@
 # 1 Maccabees 1 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (64 verses, 10 translator notes)  
+> **Status:** `draft: true` (64 verses, 11 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -125,7 +125,7 @@
 
 **1:60** And according to the decree they put to death the women who had circumcised their children,
 
-**1:61** and they hung the infants from their necks, and their households, and those who had circumcised them.
+**1:61** and they hung the infants from their necks, and they put to death their households and those who had circumcised them.
 
 **1:62** And many in Israel were hanged. And they were fortified within themselves not to eat unclean things,
 
@@ -144,4 +144,5 @@
 - **1:54** — The Greek text reads "the forty-fifth year," omitting "one hundredth" found in other manuscripts that date the event to the one hundred and forty-fifth year of the Seleucid era (167 BC).
 - **1:55** — The Greek text reads "windows" (thyridon) rather than "doors" (thyron) found in other witnesses.
 - **1:59** — The Greek uses two distinct words for altar here, referring to the newly erected pagan altar (bomos) placed on top of the temple's sacrificial altar (thysiasterion).
+- **1:61** — Greek links "their households and those who had circumcised them" in the accusative without repeating a verb; in context they are additional victims of the execution ("put to death") stated in 1:60.
 - **1:62** — The Greek text reads "were hanged" (ekremasthesan), whereas other manuscripts read "stood firm" (ekrataiothesan).

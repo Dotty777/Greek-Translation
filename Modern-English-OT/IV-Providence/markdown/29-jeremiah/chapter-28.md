@@ -1,6 +1,6 @@
 # Jeremiah 28 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (60 verses, 8 translator notes)  
+> **Status:** `draft: true` (60 verses, 9 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -113,7 +113,7 @@
 
 **28:58** Thus says the Lord: "The wall of Babylon was made broad; it will surely be razed, and her high gates will be burned; and peoples will not labor in vain, and nations will fail in the beginning."
 
-**28:59** The word that the Lord commanded Jeremiah the prophet to speak to Seraiah son of Neriah, son of Mahseiah, when he went from Zedekiah king of Judah to Babylon, in the fourth year of his reign; and Seraiah was ruler of gifts.
+**28:59** The word that the Lord commanded Jeremiah the prophet to speak to Seraiah son of Neriah, son of Maaseiah, when he went from Zedekiah king of Judah to Babylon, in the fourth year of his reign; and Seraiah was ruler of gifts.
 
 **28:60** And Jeremiah wrote all the evils that will come upon Babylon in a book, all these words that are written against Babylon.
 
@@ -127,6 +127,7 @@
 
 ## Translator Notes
 
+- **28:1** — Jeremiah 28 in the Septuagint corresponds to Jeremiah 51 in the Hebrew Bible.
 - **28:5** — The Greek plural ton hagion ("the holy things" or "the holy ones") differs from the Hebrew Masoretic Text's singular "the Holy One of Israel" (Jer 51:5 MT).
 - **28:16** — The Greek opening clause ("At a voice He set a roar of water") reflects a literal rendering of the Hebrew thunder idiom, and the closing clause reads phos ("light") where the Hebrew Masoretic Text (Jer 51:16) has "wind."
 - **28:20** — Where the Hebrew Masoretic Text (Jer 51:20) reads "You are My war-club," the Greek uses the verb diaskorpizeis ("You scatter") and repeats en soi ("in you," which can also be read instrumentally as "by you"), aligning with "from you" (v. 20) and "your commanders" (v. 23).

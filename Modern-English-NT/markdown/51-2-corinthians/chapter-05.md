@@ -1,6 +1,6 @@
 # 2 Corinthians 5 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Corinthians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -53,4 +53,5 @@
 - **5:7** — Greek "eidos" denotes visible appearance or outward form, here contrasted with faith.
 - **5:10** — Some manuscripts read "worthless" (phaulon) instead of "evil" (kakon).
 - **5:17** — The verbless Greek clause "kaine ktisis" may be understood either cosmically ("there is a new creation") or individually ("that person is a new creature"); later manuscripts add "all things" (ta panta) to the final clause.
+- **5:19** — The Greek word order leaves open two grammatical construals: periphrastic ("in Christ, God was reconciling the world to Himself") or predicative ("God was in Christ, reconciling the world to Himself").
 - **5:21** — Greek "hamartia" ("sin") here may carry the sense of "sin offering" (as often in the Septuagint).

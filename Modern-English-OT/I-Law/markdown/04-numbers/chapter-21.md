@@ -1,6 +1,6 @@
 # Numbers 21 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (35 verses, 7 translator notes)  
+> **Status:** `draft: true` (35 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,13 +39,13 @@
 
 **21:17** Then Israel sang this song over the well: "Strike up the song to it:
 
-**21:18** A well—princes dug it, kings of nations hewed it out, in their kingdom, when they ruled over them." And from the well to Manthanain;
+**21:18** A well—princes dug it, kings of nations hewed it out, in their kingdom, when they ruled over them."
 
-**21:19** and from Manthanain to Manael; and from Manael to Bamoth; and from Bamoth to Ianen, which is in the plain of Moab, from the top of the hewn rock, which looks toward the face of the wilderness.
+**21:19** And from the well to Manthanain; and from Manthanain to Manael; and from Manael to Bamoth; and from Bamoth to Ianen, which is in the plain of Moab, from the top of the hewn rock, which looks toward the face of the wilderness.
 
 **21:20** And Moses sent envoys to Sihon king of the Amorites with words of peace, saying,
 
-**21:21** And Moses sent envoys to Sihon king of the Amorites with words of peace, saying, "We will pass through your land; we will travel along the road; we will not turn aside either into a field or into a vineyard,
+**21:21** "We will pass through your land; we will travel along the road; we will not turn aside either into a field or into a vineyard,
 
 **21:22** we will not drink water from your well; we will travel by the royal road until we pass through your borders."
 
@@ -81,6 +81,5 @@
 - **21:11** — Greek "Chalgai on the far side" (Chalgai ek tou peran) is a distinct Septuagint form corresponding to Hebrew Iye-abarim.
 - **21:14** — In this citation of the singular "War of the Lord" (Hebrew "Wars of the Lord"), the Greek reads the verb "He set ablaze" with the distinct place name Zoob, where the Hebrew has the obscure phrase "Waheb in Suphah."
 - **21:19** — This verse gives the whole itinerary and preserves the distinct Greek forms Manthanain (Hebrew Mattanah), Manael (Hebrew Nahaliel), and Ianen (a proper name where the Hebrew has 'the valley'), and reads 'the hewn rock' (τοῦ λελαξευμένου) where the Hebrew has Pisgah.
-- **21:20** — The Saints Greek Critical Text has this clause here and again at the opening of verse 21; both are translated as they stand.
 - **21:24** — The Septuagint reads the place name "Jazer" where the Hebrew reads "strong" ("for the border of the sons of Ammon was strong").
-- **21:30** — The Greek diverges markedly from the Hebrew ("we have shot at them... to Nophah, which reaches to Medeba"), reading "their offspring will perish" and "the women still further kindled fire upon Moab."
+- **21:30** — The Greek diverges markedly from the Hebrew ("we have shot at them... to Nophah, which reaches to Medeba"), reading "their seed will perish" and "the women still further kindled fire upon Moab."

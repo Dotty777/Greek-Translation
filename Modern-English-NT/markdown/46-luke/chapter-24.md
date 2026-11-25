@@ -63,7 +63,7 @@
 
 **24:29** And they strongly urged Him, saying, "Stay with us, because it is toward evening and the day has already declined." And He went in to stay with them.
 
-**24:30** And it happened, while He reclined with them, that taking the bread He blessed it, and having broken it, He began giving it to them;
+**24:30** And it happened, while He reclined with them, that taking the bread He said a blessing, and having broken it, He began giving it to them;
 
 **24:31** and their eyes were opened, and they recognized Him; and He vanished from them.
 

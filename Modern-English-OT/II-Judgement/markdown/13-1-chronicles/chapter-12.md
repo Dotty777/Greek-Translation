@@ -11,11 +11,11 @@
 
 **12:3** the chief, Ahiezer, and Joa the son of Ama the Gibeathite, and Joel and Jophalet, sons of Azmaveth, and Berechiah, and Jehul the Anathothite,
 
-**12:4** and Shemaiah the Gibeonite, a mighty man among the thirty and over the thirty, Jeremiah, and Jezel, and Johanan, and Joazabab the Gederathite,
+**12:4** and Shemaiah the Gibeonite, a mighty man among the thirty and over the thirty,
 
 **12:6** Azai, and Arimoth, and Badaiah, and Shemariah, and Shephatiah the Haruphite,
 
-**12:7** Elkanah, and Jesuni, and Azarel, and Jozara, and Sobokam, and the Korahites,
+**12:7** Elkanah, and Jesuni, and Azarel, and Jozara, Kaina, and Sobokam, and the Korahites,
 
 **12:8** and Elia and Zebadiah, sons of Raham, and those of Gedor.
 
@@ -87,7 +87,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**12:5** *(after `12:4`)* Jeremiah, and Jeziel, and Johanan, and Joazabath the Gederathite,
+**12:5** *(after `12:4`)* Jeremiah, and Jezel, and Johanan, and Joazabab the Gederathite,
 
 ## Translator Notes
 
@@ -96,4 +96,4 @@
 - **12:19** — Greek reads "Go, and your people" (taking the Hebrew consonants as an imperative and "your people"), where the Hebrew has "Yours we are... and with you."
 - **12:22** — Greek ton geddour ("the geddur") is an untranslated transliteration (with a d/r shift) of the Hebrew word for "the raiding band."
 - **12:34** — Greek reads "not empty-handed" (Hebrew: "not with a double heart"); in 12:36, Greek reads "twenty-eight thousand eight hundred" (Hebrew: 28,600).
-- **12:5 *(additional)*** — Parallels the closing list of names merged into 12:4 in the site numbering (with minor Greek spelling variants Jeziel and Joazabath).
+- **12:5 *(additional)*** — This verse has no separate slot in the Saints.Bible parallel numbering (where Hebrew 12:4 merges these names into 12:4), so it is displayed here after 12:4.

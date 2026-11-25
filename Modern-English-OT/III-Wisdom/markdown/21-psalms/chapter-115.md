@@ -27,6 +27,6 @@
 
 - **115:2** — Greek ekstasis denotes being beside oneself in astonishment, bewilderment, or dismay, rendering the Hebrew term for 'alarm' or 'haste.' The Greek also uses the singular 'every person' (pas anthropos), echoed in Romans 3:4.
 - **115:3** — The Greek text reads 'for what' (peri hon) without the word 'all' found in some other Greek witnesses and the Hebrew MT. The repeated verb antapodidomi ('repay' or 'give in return') reflects the Hebrew verb for dealing generously or recompensing.
-- **115:4** — Verse 115:5 (corresponding to Hebrew Ps 116:14) is absent from this Greek textual tradition, as in early uncial manuscripts such as Vaticanus and Sinaiticus; the parallel vow statement appears in verse 9.
+- **115:4** — Verse 115:5 (corresponding to Hebrew Ps 116:14) is absent from this Greek textual tradition (Swete prints Codex Sinaiticus [א] here because Codex Vaticanus [B] is lacunose across Psalms 105:27-137:6, whereas the Sixtine/Brenton and Orthodox LXX editions include the longer wording repeating verse 9); the parallel vow statement appears in verse 9.
 - **115:7** — Greek dierrhexas literally means 'You have torn apart' or 'broken,' a stronger verb than the Hebrew MT's 'loosed.'
 - **115:8** — This Greek text preserves the shorter reading ending with 'a sacrifice of praise,' omitting the additional clause 'and I will call on the name of the Lord' found in the Hebrew MT (Ps 116:17) and some later Greek witnesses.

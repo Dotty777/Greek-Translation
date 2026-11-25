@@ -9,7 +9,7 @@
 
 **16:2** And the first went away and poured out his bowl onto the earth, and a harmful and malignant sore came upon the people who had the mark of the beast and who worshiped its image.
 
-**16:3** And the second poured out his bowl into the sea, and it became blood like that of a dead person, and every living soul died, everything in the sea.
+**16:3** And the second poured out his bowl into the sea, and it became blood like that of a dead person, and every soul of life died, everything in the sea.
 
 **16:4** And the third poured out his bowl into the rivers and the springs of the waters, and they became blood.
 
@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **16:3** — The Greek places the neuter plural phrase "the things in the sea" (ta en te thalasse) in apposition to the feminine singular "every living soul" (pasa psyche zosa), a characteristic grammatical irregularity in Revelation.
+- **16:3** — The Greek text reads πᾶσα ψυχὴ ζωῆς ("every soul of life," a Semitic genitive of quality meaning "every living creature"; other manuscripts read ψυχὴ ζῶσα, "living soul") and places the neuter plural phrase "the things in the sea" (τὰ ἐν τῇ θαλάσσῃ) in apposition to it, a characteristic grammatical irregularity in Revelation.
 - **16:5** — The title "the One who is and who was" lacks the third element "and who is coming" found in 1:4, 1:8, and 4:8.
 - **16:7** — Literally "the altar saying"; the altar is personified as affirming God's righteous judgment (cf. Rev 6:9-10; 9:13).
 - **16:16** — The Greek verb "gathered" (synegagen) is singular, regularly agreeing with the neuter plural subject "spirits" (vv. 13-14; cf. ekporeuetai in v. 14), though some interpreters take God as the implied subject. "Armageddon" (Harmagedon) is widely understood as a Greek transliteration of Hebrew Har Megiddo ("Mount Megiddo").

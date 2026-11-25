@@ -15,7 +15,7 @@
 - [Chapter 7](chapter-07.md) — 29 verses, 4 notes
 - [Chapter 8](chapter-08.md) — 28 verses, 4 notes
 - [Chapter 9](chapter-09.md) — 35 verses, 4 notes
-- [Chapter 10](chapter-10.md) — 29 verses, 4 notes
+- [Chapter 10](chapter-10.md) — 29 verses, 5 notes
 - [Chapter 11](chapter-11.md) — 10 verses, 4 notes
 - [Chapter 12](chapter-12.md) — 51 verses, 5 notes
 - [Chapter 13](chapter-13.md) — 22 verses, 5 notes
@@ -44,5 +44,5 @@
 - [Chapter 36](chapter-36.md) — 38 verses, 5 notes
 - [Chapter 37](chapter-37.md) — 21 verses, 4 notes
 - [Chapter 38](chapter-38.md) — 27 verses, 4 notes
-- [Chapter 39](chapter-39.md) — 22 verses, 5 notes, +1 additional
+- [Chapter 39](chapter-39.md) — 22 verses, 4 notes, +1 additional
 - [Chapter 40](chapter-40.md) — 32 verses, 5 notes

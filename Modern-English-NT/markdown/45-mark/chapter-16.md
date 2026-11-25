@@ -47,6 +47,6 @@
 
 ## Translator Notes
 
-- **16:8** — The earliest and most reliable manuscripts (including Codex Sinaiticus and Codex Vaticanus) end the Gospel of Mark here at verse 8, leaving open whether this abrupt ending was intentional or whether an original ending was lost.
+- **16:8** — The earliest Greek manuscripts (including Codex Sinaiticus and Codex Vaticanus) end the Gospel of Mark here at verse 8, leaving open whether this abrupt ending was intentional or whether an original ending was lost.
 - **16:9** — Verses 9-20 (marked with double brackets) comprise the traditional "Longer Ending" of Mark; this section is absent from the earliest Greek manuscripts and exhibits vocabulary and style distinct from the rest of the Gospel.
 - **16:18** — Some manuscripts include minor variants in this passage (such as adding "in their hands" with "pick up serpents"), reflecting early textual variation within the Longer Ending.

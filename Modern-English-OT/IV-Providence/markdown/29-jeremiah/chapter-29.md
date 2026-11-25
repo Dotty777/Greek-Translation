@@ -21,6 +21,6 @@
 
 ## Translator Notes
 
-- **29:1** — Greek allophyloi ("foreigners") is the Septuagint's standard designation for the Philistines. In 29:4, the Greek speaks directly of wiping out Tyre and Sidon and "those who remain of the islands" (without Hebrew "Caphtor").
+- **29:1** — Jeremiah 29 in the Septuagint corresponds to Jeremiah 47 in the Hebrew Bible. Greek allophyloi ("foreigners") is the Septuagint's standard designation for the Philistines. In 29:4, the Greek speaks directly of wiping out Tyre and Sidon and "those who remain of the islands" (without Hebrew "Caphtor").
 - **29:5** — The Greek reads Enakeim ("Anakim") where the Hebrew text has "their valley," and aperiphē ("has been cast away") where the Hebrew has "is silenced/destroyed."
 - **29:6** — The Greek joins "How long will you slash" directly to the address to the sword of the Lord, and ends with eparthēti ("be lifted up" or "removed") where the Hebrew reads "be still."

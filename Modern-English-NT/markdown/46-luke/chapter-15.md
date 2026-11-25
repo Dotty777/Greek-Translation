@@ -73,4 +73,4 @@
 
 - **15:7** — The Greek omits an explicit comparative ("more"), using a Semitic idiom in which "joy ... than" carries the sense "more joy ... than."
 - **15:8** — A drachma was a Greek silver coin roughly equivalent to a Roman denarius, about a day's wage for a common laborer.
-- **15:21** — Some ancient manuscripts add "make me like one of your hired workers" at the end of the verse, likely assimilated from verse 19; the shorter text is better attested.
+- **15:21** — Some early manuscripts (including Codex Vaticanus [B], Codex Sinaiticus [א], and Codex Bezae [D]) add "make me like one of your hired workers" at the end of the verse, matching verse 19; the adopted shorter text is attested by 𝔓75, Codex Alexandrinus (A), the Byzantine tradition, and modern critical editions.

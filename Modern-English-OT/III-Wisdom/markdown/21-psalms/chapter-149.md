@@ -1,6 +1,6 @@
 # Psalm 149 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (9 verses, 3 translator notes, 1 additional)  
+> **Status:** `draft: true` (9 verses, 3 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -22,10 +22,6 @@
 **149:8** to bind their kings with fetters and their honored ones with iron manacles,
 
 **149:9** to carry out on them a written judgment. This is glory for all His devout ones.
-
-## Additional Verses (Not in Saints Numbering)
-
-**149:14** *(after `149:9`)* Hallelujah.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Psalm 150 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (6 verses, 3 translator notes, 1 additional)  
+> **Status:** `draft: true` (6 verses, 3 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -16,10 +16,6 @@
 **150:5** Praise Him with clear-sounding cymbals; praise Him with cymbals of jubilation.
 
 **150:6** Let every breath praise the Lord. Hallelujah.
-
-## Additional Verses (Not in Saints Numbering)
-
-**150:9** *(after `150:6`)* Hallelujah.
 
 ## Translator Notes
 

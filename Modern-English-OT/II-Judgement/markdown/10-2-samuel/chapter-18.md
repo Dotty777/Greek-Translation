@@ -1,6 +1,6 @@
 # 2 Samuel 18 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,7 +27,7 @@
 
 **18:11** And Joab said to the man reporting it, "And look, you have seen him! Why did you not strike him to the ground? And I would have given you ten pieces of silver and one belt."
 
-**18:12** But the man said to Joab, "Though I am weighing out a thousand shekels of silver into my hands, I will by no means lay my hand on the king's son; for in our ears the king commanded you and Abishai and Ittai, saying, 'Guard for me the young man Absalom,
+**18:12** But the man said to Joab, "Even if I were weighing out a thousand shekels of silver into my hands, I would by no means lay my hand on the king's son; for in our ears the king commanded you and Abishai and Ittai, saying, 'Guard for me the young man Absalom,
 
 **18:13** so as not to do wrong against his life.' And no matter will be hidden from the king, and you yourself will stand in opposition."
 
@@ -71,6 +71,7 @@
 
 ## Translator Notes
 
+- **18:12** — Greek states the hypothetical condition paratactically without a conditional particle (literally "And I am weighing out a thousand shekels of silver into my hands, I will by no means lay my hand...").
 - **18:14** — The Greek preserves a doublet in Joab's opening remark ("This I will begin; I will not wait like this before you") and uses a plural verb ("they thrust") following singular "Joab took," whereas the Hebrew Masoretic Text has a singular verb ("he thrust").
 - **18:18** — The Greek contains an expanded doublet ("in which he was taken and erected it to take") absent from the Hebrew Masoretic Text, reports Absalom's reason in indirect speech, and renders the monument's name literally as "Hand of Absalom."
 - **18:21** — "Cushi" transliterates the Greek proper name Chousei, rendering the Hebrew gentilic "the Cushite" as a personal name; at the end of the verse the Greek also reads "went out" where the Hebrew has "ran."

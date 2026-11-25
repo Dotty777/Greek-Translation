@@ -5,7 +5,7 @@
 
 ## Text
 
-**132:1** A song of the steps. Look now, what is good or what is pleasant, except for brothers to dwell together?
+**132:1** A song of the steps. For David. Look now, what is good or what is pleasant, except for brothers to dwell together?
 
 **132:2** It is like fragrant oil upon the head, coming down upon the beard, the beard of Aaron, coming down upon the border of his garment;
 

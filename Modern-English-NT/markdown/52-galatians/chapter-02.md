@@ -1,6 +1,6 @@
 # Galatians 2 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Galatians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -52,4 +52,5 @@
 - **2:4** — Paul's sentence breaks off grammatically across verses 4-5, reflecting his forceful refusal to concede to the false brothers regarding Titus's circumcision.
 - **2:14** — Because the Greek text lacks quotation marks, interpreters debate whether Paul's spoken rebuke of Cephas concludes at verse 14 or extends through verse 21.
 - **2:16** — The Greek phrases rendered 'faith in Jesus Christ' and 'faith in Christ' (pistis Christou) are debated and may mean either faith directed toward Christ (objective genitive) or the faithfulness of Christ (subjective genitive).
-- **2:19** — Following the critical Greek versification, 'I have been crucified with Christ' closes verse 19 rather than beginning verse 20 as in some traditional English translations.
+- **2:19** — Following the critical Greek versification, 'I have been crucified with Christ' closes verse 19 rather than beginning verse 20 as in some other versifications.
+- **2:20** — The Greek genitive construction ἐν πίστει ... τῇ τοῦ υἱοῦ τοῦ θεοῦ can be taken either objectively as "by faith in the Son of God" or subjectively as "by the faithfulness of the Son of God" (compare 2:16).

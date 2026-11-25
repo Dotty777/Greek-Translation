@@ -5,7 +5,7 @@
 
 ## Text
 
-**130:1** A song of the steps. Lord, my heart was not lifted up, nor were my eyes raised high; nor did I walk in great things nor in wondrous things beyond me,
+**130:1** A song of the steps. For David. Lord, my heart was not lifted up, nor were my eyes raised high; nor did I walk in great things nor in wondrous things beyond me,
 
 **130:2** but rather I was humble-minded. And I lifted up my soul, like the weaned child upon its mother, until You repay upon my soul.
 

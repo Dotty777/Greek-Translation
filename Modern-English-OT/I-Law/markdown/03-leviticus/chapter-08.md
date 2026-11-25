@@ -1,6 +1,6 @@
 # Leviticus 8 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (36 verses, 6 translator notes)  
+> **Status:** `draft: true` (36 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,9 +41,9 @@
 
 **8:18** And Moses brought forward the ram for a whole burnt offering, and Aaron and his sons laid their hands on the head of the ram. And Moses slaughtered the ram, and Moses poured the blood upon the altar all around.
 
-**8:19** And he cut up the ram into pieces, and Moses offered up the head and the pieces and the fat.
+**8:19** And he cut up the ram into pieces, and Moses offered up the head and the pieces and the fat. And he washed the belly and the feet with water,
 
-**8:20** And he washed the belly and the feet with water, and Moses offered up the whole ram on the altar; a whole burnt offering that is for an aroma of sweet fragrance, it is a fire offering to the Lord, just as the Lord commanded Moses.
+**8:20** and Moses offered up the whole ram on the altar; a whole burnt offering that is for an aroma of sweet fragrance, it is a fire offering to the Lord, just as the Lord commanded Moses.
 
 **8:21** And Moses brought forward the second ram, a ram of consecration; and Aaron and his sons laid their hands on the head of the ram.
 
@@ -59,11 +59,11 @@
 
 **8:27** And Moses took them from their hands, and Moses offered them up on the altar, upon the whole burnt offering of consecration, which is an aroma of sweet fragrance; it is a fire offering to the Lord.
 
-**8:28** And taking the breast, Moses set it apart as a placed offering before the Lord from the ram of consecration; and it became a portion for Moses, just as the Lord commanded Moses. And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron and his garments and his sons.
+**8:28** And taking the breast, Moses set it apart as a placed offering before the Lord from the ram of consecration; and it became a portion for Moses, just as the Lord commanded Moses.
 
 **8:29** And Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron, and his garments, and his sons, and the garments of his sons with him.
 
-**8:30** and the garments of his sons with him.
+**8:30** And he sanctified Aaron, and his garments, and his sons, and the garments of his sons with him.
 
 **8:31** And Moses said to Aaron and his sons, "Boil the flesh in the courtyard of the tent of testimony in a holy place, and there you shall eat it and the loaves in the basket of consecration, just as it has been ordered to me, saying, 'Aaron and his sons shall eat these.'
 
@@ -83,5 +83,3 @@
 - **8:8** — The Greek renders the Hebrew priestly vestments as ἐπωμίς ("shoulder-piece," for ephod), λόγιον ("oracle," for breastpiece), and τὴν δήλωσιν καὶ τὴν ἀλήθειαν ("the manifestation and the truth," for Urim and Thummim).
 - **8:11** — In the Septuagint order, the anointing of the tent and its contents follows the sprinkling and anointing of the altar and basin at the end of verse 11 rather than appearing in verse 10 as in the Hebrew text.
 - **8:18** — In this Greek text, verse 18 incorporates the material traditionally numbered as verse 19 ("And Moses slaughtered the ram, and Moses poured the blood upon the altar all around").
-- **8:29** — The Saints Greek Critical Text gives the sprinkling of oil and blood twice: at the end of verse 28 and again in full in verse 29. προσέῤῥνεν is a spelling of προσέρρανεν ('sprinkled').
-- **8:30** — This verse in the Saints Greek Critical Text repeats only the closing phrase of verse 29 ('and the garments of his sons with him') and lacks the closing sanctification clause found in the Hebrew text.

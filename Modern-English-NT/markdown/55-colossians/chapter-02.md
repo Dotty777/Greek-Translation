@@ -1,6 +1,6 @@
 # Colossians 2 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Colossians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -54,6 +54,7 @@
 ## Translator Notes
 
 - **2:8** — The Greek stoicheia ("elementary principles") can refer either to foundational teachings and religious rudiments or to elemental spiritual powers governing the cosmos (likewise in 2:20).
+- **2:12** — Greek τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ can be read either objectively ("through faith in the working of God") or subjectively ("through faith produced by the working of God").
 - **2:14** — The Greek cheirographon refers to a handwritten certificate of debt, used metaphorically for the binding record of obligation standing against humanity.
 - **2:15** — The final phrase "in Him" (referring to Christ) can also be rendered "by it" (referring to the cross in v. 14).
 - **2:18** — The phrase "entering into the things he has seen" (ha heoraken embateuon) is difficult and may refer to initiation into visionary experiences or delving into claimed visions; some later manuscripts insert a negative ("things he has not seen").

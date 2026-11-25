@@ -5,11 +5,11 @@
 
 ## Text
 
-**41:1** "Have you not even marveled at the things being said? And do you not even fear because it has been prepared for Me?
+**41:1** "Have you not even marveled at the things being said?
 
-**41:2** Do you not fear, because it has been prepared for Me? For who is the one who has stood against Me?
+**41:2** Do you not even fear because it has been prepared for Me? For who is the one who has stood against Me?
 
-**41:3** For who is the one who has stood against Me? Or who will stand against Me and endure? If all that is under heaven is Mine,
+**41:3** Or who will stand against Me and endure? If all that is under heaven is Mine,
 
 **41:4** I will not be silent because of it, and concerning a word of power, it will have mercy on its equal.
 
@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **41:1** — In this Greek text, the closing question of 41:1 is echoed in 41:2, and the closing question of 41:2 is repeated at the start of 41:3, reflecting overlapping Septuagint textual traditions; "prepared for Me" may also be understood as "prepared by Me."
+- **41:2** — Greek "prepared for Me" (ἡτοίμασταί μοι) may also be understood as "prepared by Me."
 - **41:4** — The second clause contains two accusatives in Greek (logon dynameos and ton ison autou) and is syntactically difficult; "concerning a word of power" renders the first phrase as an accusative of respect.
 - **41:18** — The nouns "spear and breastplate" stand abruptly in the accusative case (dory kai thoraka) at the end of the clause, listing additional weapons that fail against the dragon.
 - **41:21** — Greek sphyra here denotes hammers or mallets (a rare neuter plural form), and seismou pyrphorou literally means "shaking of a fire-bearer" (or "a fire-bearing earthquake").

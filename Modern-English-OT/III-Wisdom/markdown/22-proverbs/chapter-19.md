@@ -1,6 +1,6 @@
 # Proverbs 19 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,7 @@
 
 ## Translator Notes
 
+- **19:3** — Verses 19:1-2 of the Hebrew numbering are absent from the Septuagint, so this chapter opens at verse 3; nothing has been omitted from the Greek text.
 - **19:6** — The Septuagint reads 'every evil person becomes a reproach to a man' (apparently reading Hebrew ra', 'evil,' rather than rea', 'friend'), where the Masoretic Text has 'everyone is a friend to a giver of gifts.'
 - **19:7** — The Septuagint includes two additional proverbial couplets in this verse ('Good insight...' and 'The one who does much evil...') that do not appear in the Hebrew Masoretic Text.
 - **19:11** — The Greek 'his boast comes upon lawbreakers' reflects a literal rendering of the Hebrew idiom 'his glory is to pass over transgression.'
