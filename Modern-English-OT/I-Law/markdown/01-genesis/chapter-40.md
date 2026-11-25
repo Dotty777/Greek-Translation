@@ -13,7 +13,7 @@
 
 **40:4** And the chief warden entrusted them to Joseph, and he attended to them; and they were in custody for some days.
 
-**40:5** And both of them saw a dream, each one a dream in one night, a vision of his dream--the chief cupbearer and the chief baker who belonged to the king of Egypt, who were in the prison.
+**40:5** And both of them saw a dream, each one a dream in one night, a vision of his dream—the chief cupbearer and the chief baker who belonged to the king of Egypt, who were in the prison.
 
 **40:6** Now Joseph came in to them in the morning, and he saw them, and they were troubled.
 
@@ -43,7 +43,7 @@
 
 **40:19** Within three days more, Pharaoh will remove your head from you and hang you on a tree, and the birds of the sky will eat your flesh from you."
 
-**40:20** Now it came about on the third day--it was Pharaoh's birthday--that he made a banquet for all his servants; and he remembered the office of the chief cupbearer and the office of the chief baker in the midst of his servants.
+**40:20** Now it came about on the third day—it was Pharaoh's birthday—that he made a banquet for all his servants; and he remembered the office of the chief cupbearer and the office of the chief baker in the midst of his servants.
 
 **40:21** And he restored the chief cupbearer to his office, and he gave the cup into the hand of Pharaoh;
 

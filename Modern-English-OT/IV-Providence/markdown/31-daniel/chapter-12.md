@@ -5,7 +5,7 @@
 
 ## Text
 
-**12:1** And at that time Michael, the great prince, the one who stands over the sons of your people, will arise; and there will be a time of affliction, affliction such as has not occurred since a nation has existed on the earth until that time. At that time your people will be saved, everyone who is written in the book.
+**12:1** "And at that time Michael, the great prince, the one who stands over the sons of your people, will arise; and there will be a time of affliction, affliction such as has not occurred since a nation has existed on the earth until that time. At that time your people will be saved, everyone who is written in the book.
 
 **12:2** And many of those sleeping in the dust of the earth will be awakened, these to eternal life, and those to reproach and to eternal shame.
 

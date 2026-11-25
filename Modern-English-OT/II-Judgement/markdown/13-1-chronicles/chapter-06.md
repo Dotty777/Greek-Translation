@@ -113,13 +113,13 @@
 
 **6:54** and Eglam and its pasturelands, and Gethoron and its pasturelands;
 
-**6:55** And from the half-tribe of Manasseh: Amar and its pasturelands, according to family, for the remaining sons of Kohath.
+**6:55** and from the half-tribe of Manasseh: Amar and its pasturelands, according to family, for the remaining sons of Kohath.
 
 **6:56** To the sons of Gershon, from the families of the half-tribe of Manasseh: Golan from Bashan and its outskirts, and Aseroth and its pasturelands;
 
 **6:57** and from the tribe of Issachar: Kedesh and its pasturelands, and Deberi and its pasturelands, and Dabor and its pasturelands,
 
-**6:58** and Ramoth, and Enan and its pasturelands.
+**6:58** and Ramoth, and Enan and its pasturelands;
 
 **6:59** and from the tribe of Asher: Maasa and its pasturelands, and Abaran and its pasturelands,
 

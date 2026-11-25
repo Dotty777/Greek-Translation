@@ -71,7 +71,7 @@
 
 **38:33** And in the assembly they will not rise to prominence, and they will not understand a covenant of judgment; they will not sit on a judge's seat, nor will they declare righteousness and judgment, and they will not be found among parables;
 
-**38:34** but they will preserve the creation of the age, and their prayer is in the work of a craft. Not so with the one who applies his soul and reflects on the law of the Most High,
+**38:34** but they will preserve the creation of the age, and their prayer is in the work of a craft. Not so with the one who applies his soul and reflects on the law of the Most High:
 
 ## Translator Notes
 

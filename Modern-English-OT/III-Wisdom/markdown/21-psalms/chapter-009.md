@@ -17,7 +17,7 @@
 
 **9:6** You rebuked nations, and the ungodly one perished; You blotted out their name forever and ever.
 
-**9:7** The swords of the enemy have failed completely, and You tore down cities; their memory perished with a sound;
+**9:7** The swords of the enemy have failed completely, and You tore down cities; their memory perished with a sound.
 
 **9:8** And the Lord remains forever; He has prepared His throne in judgment.
 

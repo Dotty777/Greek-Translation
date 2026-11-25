@@ -33,7 +33,7 @@
 
 **52:17** And the Chaldeans broke in pieces the bronze pillars that were in the house of the Lord, and the stands, and the bronze sea that was in the house of the Lord, and they took their bronze and carried it away to Babylon.
 
-**52:18** and the rim, and the bowls, and the meat forks, and all the bronze vessels with which they ministered,
+**52:18** And the rim, and the bowls, and the meat forks, and all the bronze vessels with which they ministered,
 
 **52:19** and the sapphoth, and the masmaroth, and the pouring vessels, and the lampstands, and the censers, and the ladles—whatever was gold as gold and whatever was silver as silver—the chief cook took.
 

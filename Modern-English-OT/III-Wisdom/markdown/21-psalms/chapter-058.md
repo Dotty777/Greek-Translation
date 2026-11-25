@@ -33,7 +33,7 @@
 
 **58:14** destructions, in wrath of destruction, and they will certainly not exist; and they will know that the God of Jacob rules over the ends of the earth. Interlude.
 
-**58:15** They will return toward evening and go hungry like a dog, and they will go around a city;
+**58:15** They will return toward evening and go hungry like a dog, and they will go around a city.
 
 **58:16** They will be scattered to eat, and if they are satisfied, they will also grumble.
 

@@ -7,7 +7,7 @@
 
 **16:1** And Korah, son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram, sons of Eliab, and On, son of Peleth, son of Reuben, spoke;
 
-**16:2** and they rose up before Moses, along with two hundred and fifty men of the sons of Israel, leaders of the congregation, summoned to the council, and renowned men;
+**16:2** and they rose up before Moses, along with two hundred and fifty men of the sons of Israel, leaders of the congregation, summoned to the council, and renowned men.
 
 **16:3** They banded together behind Moses and Aaron and said, "Let it be enough for you, because all the congregation, all of them, are holy, and the Lord is among them; and why do you rise up against the congregation of the Lord?"
 

@@ -31,7 +31,7 @@
 
 **6:17** And the temple was forty cubits in front of the dabir, in the middle of the house on the inside,
 
-**6:19** To place there the ark of the covenant of the Lord.
+**6:19** to place there the ark of the covenant of the Lord.
 
 **6:20** Twenty cubits in length, and twenty cubits in width, and twenty cubits was its height.
 
