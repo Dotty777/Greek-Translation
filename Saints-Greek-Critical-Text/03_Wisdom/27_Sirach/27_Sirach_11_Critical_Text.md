@@ -1,6 +1,6 @@
 # Sirach 11 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:55Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:35Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 5:1 kept in its own chapter (stronger match to its own reference verse)
@@ -47,6 +47,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 5:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 5:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 5:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:5 kept in its own chapter (stronger match to its own reference verse)
@@ -97,6 +99,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 7:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 7:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 7:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 7:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 7:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 7:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 7:19 kept in its own chapter (stronger match to its own reference verse)
@@ -237,6 +240,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 14:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 14:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 14:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 14:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 14:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 14:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 14:14 kept in its own chapter (stronger match to its own reference verse)
@@ -308,6 +312,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 17:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 17:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 17:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 17:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 17:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 17:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 17:13 kept in its own chapter (stronger match to its own reference verse)
@@ -342,6 +347,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 5:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 5:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 5:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:5 kept in its own chapter (stronger match to its own reference verse)
@@ -532,6 +539,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 14:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 14:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 14:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 14:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 14:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 14:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 14:14 kept in its own chapter (stronger match to its own reference verse)
@@ -603,6 +611,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 17:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 17:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 17:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 17:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 17:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 17:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 17:13 kept in its own chapter (stronger match to its own reference verse)
@@ -637,6 +646,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 5:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 5:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 5:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:5 kept in its own chapter (stronger match to its own reference verse)
@@ -827,6 +838,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 14:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 14:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 14:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 14:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 14:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 14:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 14:14 kept in its own chapter (stronger match to its own reference verse)
@@ -898,6 +910,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 17:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 17:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 17:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 17:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 17:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 17:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 17:13 kept in its own chapter (stronger match to its own reference verse)
@@ -932,6 +945,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 5:13 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 5:14 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 5:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 6:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 6:3 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 6:4 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 6:5 kept in its own chapter (stronger match to its own reference verse)
@@ -982,6 +997,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 7:13 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 7:14 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 7:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 7:16 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 7:17 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 7:18 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 7:19 kept in its own chapter (stronger match to its own reference verse)
@@ -1121,6 +1137,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 14:8 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 14:9 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 14:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 14:11 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 14:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 14:13 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 14:14 kept in its own chapter (stronger match to its own reference verse)
@@ -1170,6 +1187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 16:11 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:14 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:17 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:18 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:19 kept in its own chapter (stronger match to its own reference verse)
@@ -1178,6 +1196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 16:22 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:23 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 16:25 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:26 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:27 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 16:28 kept in its own chapter (stronger match to its own reference verse)
@@ -1189,6 +1208,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 17:6 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 17:7 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 17:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 17:10 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 17:11 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 17:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 17:13 kept in its own chapter (stronger match to its own reference verse)
@@ -1275,7 +1295,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πολλοὶ` over `Πολλοὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐφόρεσεν` over `ἐφόρεσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `διάδημα·` over `διάδημα.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐφόρεσεν / ἐφόρεσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:6
 - **Apparatus:** `ἑταίρων` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἑτέρων** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -1297,16 +1316,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `χρεία` over `χρεία,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἔριζε,` over `ἔριζε.` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:10
 - *Disregarded Surface Variant:* kept `τέκνον,` over `Τέκνον,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πληθύνῃς,` over `πληθυνῇς,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `ἀθῳωθήσῃ·` over `ἀθωωθήσῃ·` (Sixtine/Brenton) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
 
 ### Sirach 11:11
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔητιν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `Ἔστι` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'ἔστιν' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:12
 - *Disregarded Surface Variant:* kept `ἔστιν` over `Ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -1315,7 +1333,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `περισσεύει·` over `περισσεύει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀγαθά,` over `ἀγαθὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αὐτοῦ.`, `αὐτοῦ·` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ἀντιλήμψεως, / ἀντιλήψεως,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Nasal spelling (λημψ- / ληψ-)*
 
 ### Sirach 11:13
@@ -1323,23 +1340,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀνύψωσεν` over `ἀνύψωσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `πολλοί.` over `πολλοί` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀνύψωσεν / ἀνύψωσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:14
 - *Disregarded Surface Variant:* kept `ἀγαθὰ` over `Ἀγαθὰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πτωχεία` over `πταχεία` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἐστίν.` over `ἐστί.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστίν. / ἐστί.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:17
 - *Disregarded Surface Variant:* kept `εὐσεβέσιν,` over `εὐσεβέσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `εὐοδωθήσεται` over `εὐοδααοθήσεται` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εὐσεβέσιν, / εὐσεβέσι,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:18
 - *Disregarded Surface Variant:* kept `ἔστιν` over `Ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτοῦ·` over `αὐτοῦ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:19
 - **Apparatus:** `φάγομαι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **φάγωμαι** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -1350,7 +1363,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Εὗρον` over `εὗρον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οἶδεν` over `οἶδε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἑτέροις` over `ἑτέροις,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `οἶδεν / οἶδε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:20
 - *Disregarded Surface Variant:* kept `στῆθι` over `Στῆθι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -1370,7 +1382,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Τίς` over `τίς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστίν` over `ἐστί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `χρεία,` over `χρεία;` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστίν / ἐστί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:24
 - *Disregarded Surface Variant:* kept `μὴ` over `Μὴ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -1378,7 +1389,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Αὐτάρκη` over `αὐτάρκη` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μοί` over `μοι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν,` over `ἐστὶ,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν, / ἐστι,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Sirach 11:25
 - *Disregarded Surface Variant:* kept `ἐν` over `Ἐν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -1412,7 +1422,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Sirach 11:33
 - *Disregarded Surface Variant:* kept `πρόσεχε` over `Πρόσεχε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μή ποτε` over `μὴ ποτε`, `μήποτε` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `μή ποτε / μήποτε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `μή ποτε / μήποτε`, `μή ποτε / μήποτε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Sirach 11:34
 - *Disregarded Surface Variant:* kept `ἐνοίκισον` over `Ἐνοίκισον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -1512,7 +1522,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Swete (B/A/א)`: τέκνον, μὴ περὶ πολλὰ ἔστωσαν αἱ πράξεις σου· ἐὰν πληθύνῃς, οὐκ ἀθῳωθήσῃ· καὶ ἐὰν διώκῃς, οὐ μὴ καταλάβῃς, καὶ οὐ μὴ ἐκφύγῃς διαδράς.
   - `Sixtine/Brenton`: Τέκνον, μὴ περὶ πολλὰ ἔστωσαν αἱ πράξεις σου· ἐὰν πληθυνῇς, οὐκ ἀθωωθήσῃ· καὶ ἐὰν διώκῃς, οὐ μὴ καταλάβῃς, καὶ οὐ μὴ ἐκφύγῃς διαδράς.
   - `LXX-Orthodox (Οʹ)`: Τέκνον, μὴ περὶ πολλὰ ἔστωσαν αἱ πράξεις σου· ἐὰν πληθυνῇς, οὐκ ἀθωωθήσῃ· καὶ ἐὰν διώκῃς, οὐ μὴ καταλάβῃς, καὶ οὐ μὴ ἐκφύγῃς διαδράς.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἔστιν κοπιῶν καὶ πονῶν καὶ σπεύδων, καὶ τόσῳ μᾶλλον ὑστερεῖται.

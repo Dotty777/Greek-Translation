@@ -1,6 +1,6 @@
 # Psalms 90 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:30Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:30Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 89:1 kept in its own chapter (stronger match to its own reference verse)
@@ -83,6 +83,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 89:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 89:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 89:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 91:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 91:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 91:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 91:4 kept in its own chapter (stronger match to its own reference verse)
@@ -100,6 +101,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 91:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: verse 16 also carried the anchor's 91:1 (a different chapter); trimmed to its own part
 - Swete (B/A/א): verse 91:15 runs into its neighbour across the anchor's division between 91:15 and 91:16; re-divided there
+- Swete (B/A/א): 89:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 89:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 89:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 89:4 kept in its own chapter (stronger match to its own reference verse)
@@ -116,6 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 89:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 89:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 89:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 91:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 91:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 91:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 91:4 kept in its own chapter (stronger match to its own reference verse)
@@ -131,7 +134,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 91:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 91:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 91:16 kept in its own chapter (stronger match to its own reference verse)
-- Swete (B/A/א): 90:17 folded into verse 1 (the reference prints these words there)
 - Swete (B/A/א): verse 16 also carried the anchor's 91:1 (a different chapter); trimmed to its own part
 - LXX-Orthodox (Οʹ): verse 91:15 runs into its neighbour across the anchor's division between 91:15 and 91:16; re-divided there
 - LXX-Orthodox (Οʹ): 89:1 kept in its own chapter (stronger match to its own reference verse)
@@ -268,8 +270,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐπὶ` over `Ἐπὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀροῦσίν` over `ἀροῦσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `σε,` over `σε.` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀροῦσίν / ἀροῦσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `μή ποτε / μήποτε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `μή ποτε / μήποτε`, `μή ποτε / μήποτε`, `μή ποτε / μηποτε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Psalms 90:13
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `Ἐπʼ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -280,10 +281,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἤλπισεν,` over `ἤλπισε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτόν,` over `αὐτὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἤλπισεν, / ἤλπισε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 90:15
-- **Apparatus:** `ἐπικαλέσεται` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **κεκράξεται πρός** LXX-Orthodox (Οʹ)
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **πρὸς** Sixtine/Brenton *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.

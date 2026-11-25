@@ -7,7 +7,7 @@
   "usfm_code": "DAN",
   "chapter": 12,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:12:54Z",
+  "updated_at": "2026-11-25T00:07:43Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -43,6 +43,7 @@
     "Swete-Amicarelli: 11:29 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 11:30 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 11:31 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 11:32 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 11:33 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 11:34 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 11:35 kept in its own chapter (stronger match to its own reference verse)",
@@ -87,6 +88,7 @@
     "1st1K-LXX: 11:29 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 11:30 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 11:31 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 11:32 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 11:33 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 11:34 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 11:35 kept in its own chapter (stronger match to its own reference verse)",
@@ -131,6 +133,7 @@
     "Swete (B/A/א): 11:29 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:30 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:31 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 11:32 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:33 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:34 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:35 kept in its own chapter (stronger match to its own reference verse)",
@@ -144,6 +147,16 @@
     "Swete (B/A/א): 11:43 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:44 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 11:45 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:2 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:3 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:9 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:11 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:19 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:20 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:28 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:29 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:36 kept in its own chapter (stronger match to its own reference verse)",
+    "OG-Daniel: 11:38 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 11:1 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 11:2 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 11:3 kept in its own chapter (stronger match to its own reference verse)",
@@ -222,6 +235,13 @@
   ],
   "apparatus_witnesses": [
     {
+      "siglum": "OG-Daniel",
+      "title": "Old Greek (Septuagint) Daniel — Swete / First1KGreek (tlg056)",
+      "tier": 1,
+      "license": "CC BY-SA 4.0",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "LXX-Orthodox (Οʹ)",
       "title": "Orthodox Ecclesiastical Septuagint (Η Παλαιά Διαθήκη κατά τους Εβδομήκοντα)",
       "tier": 3,
@@ -241,14 +261,138 @@
         "1st1K-LXX": "Καὶ ἐν τῷ καιρῷ ἐκείνῳ ἀναστήσεται Μιχαὴλ ὁ ἄρχων ὁ μέγας, ὁ ἑστηκὼς ἐπὶ τοὺς υἱοὺς τοῦ λαοῦ σου· καὶ ἔσται καιρὸς θλίψεως, θλίψις οἵα οὐ γέγονεν ἀφʼ ἧς γεγένηται ἔθνος ἐν τῇ γῇ ἕως τοῦ καιροῦ ἐκείνου· ἐν τῷ καιρῷ ἐκείνῳ σωθήσεται ὁ λαός σου πᾶς ὁ γεγραμμένος ἐν τῇ βίβλῳ.",
         "Swete (B/A/א)": "Καὶ ἐν τῷ καιρῷ ἐκείνῳ ἀναστήσεται Μιχαὴλ ὁ ἄρχων ὁ μέγας, ὁ ἑστηκὼς ἐπὶ τοὺς υἱοὺς τοῦ λαοῦ σου· καὶ ἔσται καιρὸς θλίψεως, θλίψις οἵα οὐ γέγονεν ἀφʼ ἧς γεγένηται ἔθνος ἐν τῇ γῇ ἕως τοῦ καιροῦ ἐκείνου· ἐν τῷ καιρῷ ἐκείνῳ σωθήσεται ὁ λαός σου πᾶς ὁ γεγραμμένος ἐν τῇ βίβλῳ.",
         "Sixtine/Brenton": "Καὶ ἐν τῷ καιρῷ ἐκείνῳ ἀναστήσεται Μιχαὴλ ὁ ἄρχων ὁ μέγας, ὁ ἑστηκὼς ἐπὶ τοὺς υἱοὺς τοῦ λαοῦ σου· καὶ ἔσται καιρὸς θλίψεως, θλίψις οἵα οὐ γέγονεν ἀφʼ οὗ γεγένηται ἔθνος ἐν τῇ γῇ, ἕως τοῦ καιροῦ ἐκείνου· ἐν τῷ καιρῷ ἐκείνῳ σωθήσεται ὁ λαός σου πᾶς ὁ γεγραμμένος ἐν τῇ βίβλῳ.",
+        "OG-Daniel": "Καὶ κατὰ τὴν χώραν ἐκείνην παρελεύσεται Μιχαὴλ ὁ ἅγγελος ὁ μέγας, ὁ ἑστηκὼς ἐπὶ τοὺς υἱοὺς τοῦ λαοῦ σου· ἐκείνη ἡ ἡμέρα θλίψεως, οἵα οὐκ ἐγενήθη ἀφʼ οὗ ἐγενήθησαν ἕως τῆς ἡμέρας ἐκείνης· καὶ ἐν ἐκείνῃ τῇ ἡμέρᾳ ὑψωθήσεται πᾶς ὁ λαὸς ὃς ἂν εὺρεθῇ ἐγγεγραμμένος ἐν τῷ βιβλίῳ.",
         "LXX-Orthodox (Οʹ)": "ΚΑΙ ἐν τῷ καιρῷ ἐκείνῳ ἀναστήσεται Μιχαὴλ ὁ ἄρχων ὁ μέγας, ὁ ἑστηκὼς ἐπὶ τοὺς υἱοὺς τοῦ λαοῦ σου· καὶ ἔσται καιρὸς θλίψεως, θλῖψις οἵα οὐ γέγονεν ἀφ' οὗ γεγένηται ἔθνος ἐν τῇ γῇ ἕως τοῦ καιροῦ ἐκείνου· καὶ ἐν τῷ καιρῷ ἐκείνῳ σωθήσεται ὁ λαός σου, πᾶς ὁ γεγραμμένος ἐν τῇ βίβλῳ·"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἐν τῷ καιρῷ ἐκείνῳ ἀναστήσεται",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "κατὰ τὴν χώραν ἐκείνην παρελεύσεται",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 5,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εν τω καιρω εκεινω αναστησεται",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἄρχων",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἅγγελος",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αρχων",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐκείνη ἡ ἡμέρα θλίψεως, οἵα οὐκ ἐγενήθη ἀφʼ οὗ ἐγενήθησαν ἕως τῆς ἡμέρας ἐκείνης·",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἔσται καιρὸς θλίψεως, θλίψις οἵα οὐ γέγονεν ἀφ᾽ ἧς γεγένηται ἔθνος",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ἔσται καιρὸς θλίψεως, θλῖψις οἵα οὐ γέγονεν ἀφ' οὗ γεγένηται ἔθνος",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 20,
+          "word_count": 11,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εσται καιροσ θλιψεωσ θλιψισ οια ου γεγονεν αφ ησ γεγενηται εθνοσ",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 28,
           "lemma": "ἧς",
@@ -266,9 +410,16 @@
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἧς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οὗ (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἧς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οὗ (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 28,
           "word_count": 1,
           "kind": "word",
@@ -297,12 +448,106 @@
         },
         {
           "slot_index": -1,
+          "lemma": "ἐν τῇ γῇ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐν ἐκείνῃ τῇ ἡμέρᾳ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 31,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εν τη γη",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
             "1st1K-LXX",
             "Sixtine/Brenton",
             "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐκείνῃ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 32,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "γῇ ἕως τοῦ καιροῦ ἐκείνου·",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
             "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "ἡμέρᾳ ὑψωθήσεται πᾶς ὁ λαὸς ὃς ἂν εὺρεθῇ ἐγγεγραμμένος",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "γῇ ἕως τοῦ καιροῦ ἐκείνου· καὶ",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 33,
+          "word_count": 5,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "γη εωσ του καιρου εκεινου",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "OG-Daniel"
           ],
           "variants": [
             {
@@ -313,13 +558,42 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 38,
           "word_count": 0,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "καιρῷ ἐκείνῳ σωθήσεται ὁ λαός σου πᾶς ὁ γεγραμμένος ἐν τῇ βίβλῳ.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "βιβλίῳ.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 40,
+          "word_count": 12,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "καιρω εκεινω σωθησεται ο λαοσ σου πασ ο γεγραμμενοσ εν τη βιβλω",
           "confidence": 0.529,
           "credited_witnesses": []
         }
@@ -375,14 +649,162 @@
         "1st1K-LXX": "καὶ πολλοὶ τῶν καθευδόντων ἐν γῆς χώματι ἐξεγερθήσονται, οὗτοι εἰς ζωὴν αἰώνιον, καὶ οὗτοι εἰς ὀνειδισμὸν καὶ εἰς αἰσχύνην αἰώνιον·",
         "Swete (B/A/א)": "καὶ πολλοὶ τῶν καθευδόντων ἐν γῆς χώματι ἐξεγερθήσονται, οὗτοι εἰς ζωὴν αἰώνιον, καὶ οὗτοι εἰς ὀνειδισμὸν καὶ εἰς αἰσχύνην αἰώνιον·",
         "Sixtine/Brenton": "Καὶ πολλοὶ τῶν καθευδόντων ἐν γῆς χώματι ἐξεγερθήσονται, οὗτοι εἰς ζωὴν αἰώνιον, καὶ οὗτοι εἰς ὀνειδισμὸν καὶ εἰς αἰσχύνην αἰώνιον.",
+        "OG-Daniel": "καὶ πολλοὶ τῶν καθευδόντων ἐν τῷ πλάτει τῆς γῆς ἀναστήσονται, οἱ μέν εἰς ζωὴν αἰώνιον, οἱ δὲ εἰς ὀνειδισμόν, οἱ δέ εἰς διασπορὰν καὶ αἰσχύνην αἰώνιον·",
         "LXX-Orthodox (Οʹ)": "καὶ πολλοὶ τῶν καθευδόντων ἐν γῆς χώματι ἐξεγερθήσονται, οὗτοι εἰς ζωὴν αἰώνιον καὶ οὗτοι εἰς ὀνειδισμὸν καὶ εἰς αἰσχύνην αἰώνιον."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "τῷ πλάτει τῆς",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "χώματι ἐξεγερθήσονται, οὗτοι",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἀναστήσονται, οἱ μέν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "χωματι εξεγερθησονται ουτοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "καὶ οὗτοι",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "οἱ δὲ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "και ουτοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "οἱ δέ εἰς διασπορὰν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 16,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "εἰς",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εισ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -423,12 +845,14 @@
         "1st1K-LXX": "καὶ οἱ συνιέντες λάμψουσιν ὡς ἡ λαμπρότης τοῦ στερεώματος, καὶ ἀπὸ τῶν δικαίων τῶν πολλῶν ὡς οἱ ἀστέρες εἰς τοὺς αἰῶνας καὶ ἔτι.",
         "Swete (B/A/א)": "καὶ οἱ συνιέντες λάμψουσιν ὡς ἡ λαμπρότης τοῦ στερεώματος, καὶ ἀπὸ τῶν δικαίων τῶν πολλῶν ὡς οἱ ἀστέρες εἰς τοὺς αἰῶνας καὶ ἔτι.",
         "Sixtine/Brenton": "Καὶ οἱ συνιέντες λάμψουσιν ὡς ἡ λαμπρότης τοῦ στερεώματος, καὶ ἀπὸ τῶν δικαίων τῶν πολλῶν ὡς οἱ ἀστέρες εἰς τοὺς αἰῶνας, καὶ ἔτι.",
+        "OG-Daniel": "καὶ οἱ συνιέντες φανοῦσιν ὡς φωστῆρες τοῦ οὐρανοῦ, καὶ οἱ κατισχύοντες τοὺς λόγους μου ὡσεὶ τὰ ἄστρα τοῦ οὐρανοῦ εἰς τὸν αἰῶνα τοῦ αἰῶνος.",
         "LXX-Orthodox (Οʹ)": "καὶ οἱ συνιέντες ἐκλάμψουσιν ὡς ἡ λαμπρότης τοῦ στερεώματος καὶ ἀπὸ τῶν δικαίων τῶν πολλῶν ὡς οἱ ἀστέρες εἰς τοὺς αἰῶνας καὶ ἔτι."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
         {
@@ -447,15 +871,167 @@
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
+            },
+            {
+              "reading": "φανοῦσιν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 3,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "λαμψουσιν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἡ λαμπρότης",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "φωστῆρες",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "η λαμπροτησ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "στερεώματος,",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "οὐρανοῦ,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "στερεωματοσ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἀπὸ τῶν δικαίων τῶν πολλῶν ὡς",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 6,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "απο των δικαιων των πολλων ωσ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἀστέρες",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "κατισχύοντες τοὺς λόγους μου ὡσεὶ τὰ ἄστρα τοῦ οὐρανοῦ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αστερεσ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "τοὺς αἰῶνας καὶ ἔτι.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "τὸν αἰῶνα τοῦ αἰῶνος.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 4,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "τουσ αιωνασ και ετι",
           "confidence": 0.99,
           "credited_witnesses": []
         }
@@ -500,12 +1076,14 @@
         "1st1K-LXX": "καὶ σύ, Δανιήλ, ἔμφραξον τοὺς λοιποὺς καὶ σφράγισον τὸ βιβλίον ἕως καιροῦ συντελείας, ἕως διδαχθῶσιν πολλοὶ καὶ πληθυνθῇ ἡ γνῶσις.",
         "Swete (B/A/א)": "καὶ σύ, Δανιήλ, ἔμφραξον τοὺς λοιποὺς καὶ σφράγισον τὸ βιβλίον ἕως καιροῦ συντελείας, ἕως διδαχθῶσιν πολλοὶ καὶ πληθυνθῇ ἡ γνῶσις.",
         "Sixtine/Brenton": "Καὶ σὺ Δανιὴλ ἔμφραξον τοὺς λόγους, καὶ σφράγισον τὸ βιβλίον ἕως καιροῦ συντελείας, ἕως διδαχθῶσι πολλοὶ καὶ πληθυνθῇ ἡ γνῶσις.",
+        "OG-Daniel": "καὶ σύ, Δανιὴλ, κάλυψον τὰ προστάγματα καὶ σφράγισαι τὸ βιβλίον ἕως καιροῦ συντελείας, ἕως ἂν ἀπομανῶσιν οἱ πολλοὶ καὶ πλησθῇ ἡ γῆ ἀδικίας.",
         "LXX-Orthodox (Οʹ)": "καὶ σύ, Δανιήλ, ἔμφραξον τοὺς λόγους καὶ σφράγισον τὸ βιβλίον ἕως καιροῦ συντελείας, ἕως διδαχθῶσι πολλοὶ καὶ πληθυνθῇ ἡ γνῶσις."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
         {
@@ -525,9 +1103,16 @@
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
+            },
+            {
+              "reading": "προστάγματα",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'λοιποὺς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over λόγους (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'λοιποὺς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over λόγους (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 5,
           "word_count": 1,
           "kind": "word",
@@ -551,6 +1136,122 @@
             }
           ],
           "lemma_key": "λοιπουσ",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "σφράγισον",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "σφράγισαι",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "σφραγισον",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "διδαχθῶσιν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἂν ἀπομανῶσιν οἱ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "διδαχθωσιν",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "πληθυνθῇ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "πλησθῇ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "πληθυνθη",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "γνῶσις.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "γῆ ἀδικίας.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "γνωσισ",
           "confidence": 0.529,
           "credited_witnesses": []
         }
@@ -599,17 +1300,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "διδαχθῶσιν / διδαχθῶσι"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'λοιποὺς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over λόγους (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).",
@@ -635,14 +1325,71 @@
       "witness_readings": {
         "Swete-Amicarelli": "Καὶ ἴδον ἐγὼ Δανιήλ, καὶ ἰδοὺ δύο ἕτεροι ἱστήκεισαν, εἷς ἐντεῦθεν τοῦ χείλους τοῦ ποταμοῦ καὶ εἷς ἐντεῦθεν τοῦ χείλους τοῦ ποταμοῦ.",
         "Sixtine/Brenton": "Καὶ ἴδον ἐγὼ Δανιὴλ, καὶ ἰδοὺ δύο ἕτεροι εἱστήκεισαν, εἷς ἐντεῦθεν τοῦ χειλους τοῦ ποταμοῦ, καὶ εἷς ἐντεῦθεν τοῦ χείλους τοῦ ποταμοῦ.",
+        "OG-Daniel": "Καὶ εἶδον ἐγὼ Δανιὴλ, καὶ ἰδοὺ δύο ἕτεροι εἱστήκεισαν, εἰς ἕνθεν τοῦ ποταμοῦ καὶ εἰς ἔνθεν.",
         "LXX-Orthodox (Οʹ)": "Καὶ εἶδον ἐγὼ Δανιὴλ καὶ ἰδοὺ δύο ἕτεροι εἱστήκεισαν, εἷς ἐντεῦθεν τοῦ χείλους τοῦ ποταμοῦ καὶ εἷς ἐντεῦθεν τοῦ χείλους τοῦ ποταμοῦ."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἐντεῦθεν τοῦ χείλους",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἕνθεν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εντευθεν του χειλουσ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐντεῦθεν τοῦ χείλους τοῦ ποταμοῦ.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἔνθεν.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 5,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εντευθεν του χειλουσ του ποταμου",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 1,
@@ -699,17 +1446,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἱστήκεισαν, / εἱστήκεισαν,"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Diplomatic uncial orthography normalised to standard critical form; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).",
@@ -726,14 +1462,233 @@
       "witness_readings": {
         "Swete-Amicarelli": "καὶ εἶπεν τῷ ἀνδρὶ τῷ ἐνδεδυμένῳ τὰ βαδδείν, ὃς ἦν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ Ἕως πότε τὸ πέρας ὧν εἴρηκας τῶν θαυμασίων;",
         "Sixtine/Brenton": "Καὶ εἶπε τῷ ἀνδρὶ τῷ ἐνδεδυμένῳ τὰ βαδδὶν, ὃς ἦν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ, ἕως πότε τὸ πέρας ὧν εἴρηκας τῶν θαυμασίων;",
+        "OG-Daniel": "καὶ εἶπα τῷ ἑνὶ τῷ περιβεβλημένῳ τὰ βύσσινα τῷ ἐπάνω Πότε οὖν συντέλεια ὧν εἵρηκάς μοι τῶν θαυμαστῶν καὶ ὁ καθαρισμὸς τούτων;",
         "LXX-Orthodox (Οʹ)": "καὶ εἶπε τῷ ἀνδρὶ τῷ ἐνδεδυμένῳ τὰ βαδδίν, ὃς ἦν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ· ἕως πότε τὸ πέρας ὧν εἴρηκας τῶν θαυμασίων;"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "εἶπεν",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "εἶπα",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ειπεν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἀνδρὶ",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἑνὶ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ανδρι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐνδεδυμένῳ",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "περιβεβλημένῳ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ενδεδυμενω",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "βαδδείν, ὃς ἦν",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "βύσσινα τῷ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "βαδδειν οσ ην",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "τοῦ ὕδατος τοῦ ποταμοῦ Ἕως",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 5,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "του υδατοσ του ποταμου εωσ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "τὸ πέρας",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "οὖν συντέλεια",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "το περασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "μοι",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 21,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "θαυμασίων;",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "θαυμαστῶν καὶ ὁ καθαρισμὸς τούτων;",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 22,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "θαυμασιων",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -789,28 +1744,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἶπεν / εἶπε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "βαδδείν, / βαδδίν,"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).",
@@ -827,12 +1760,14 @@
       "witness_readings": {
         "Swete-Amicarelli": "καὶ ἤκουσα τοῦ ἀνδρὸς τοῦ ἐνδεδυμένου τὰ βαδδείν, ὃς ἦν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ, καὶ ὕψωσεν τὴν δεξιὰν αὐτοῦ καὶ τὴν ἀριστερὰν αὐτοῦ εἰς τὸν οὐρανόν, καὶ ὤμοσεν ἐν τῷ ζῶντι τὸν αἰῶνα ὅτι εἰς καιρὸν καιρῶν καὶ ἥμισυ καιροῦ· ἐν τῷ συντελεσθῆναι διασκορπισμόν, γνώσονται πάντα ταῦτα.",
         "Sixtine/Brenton": "Καὶ ἤκουσα τοῦ ἀνδρὸς τοῦ ἐνδεδυμένον τὰ βαδδὶν, ὃς ἦν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ· καὶ ὕψωσε τὴν δεξιὰν αὐτοῦ καὶ τὴν ἀριστερὰν αὐτοῦ εἰς τὸν οὐρανὸν, καὶ ὤμοσεν ἐν τῷ ζῶντι εἰς τὸν αἰῶνα, ὅτι εἰς καιρὸν καιρῶν καὶ ἥμισυ καιροῦ, ἐν τῷ συντελεσθῆναι διασκορπισμὸν γνώσονται πάντα ταῦτα.",
+        "OG-Daniel": "καὶ ἤκουσα τοῦ περιβεβλημένου τὰ βύσσινα, ὃς ἧν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ Ἕως καιροί συντελείας· καὶ ὕψωσε τὴν δεξιὰν καὶ τὴν ἀριστερὰν εἰς τὸν οὐρανόν, καὶ ὤμοσε τὸν ζῶντα εἰς τὸν αἰῶνα θεὸν ὅτι εἰς καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ ἡ συντέλεια χειρῶν ἀφέσεως λαοῦ ἁγίου, καὶ συντελεσθήσεται πάντα ταῦτα.",
         "LXX-Orthodox (Οʹ)": "καὶ ἤκουσα τοῦ ἀνδρὸς τοῦ ἐνδεδυμένου τὰ βαδδίν, ὃς ἦν ἐπάνω τοῦ ὕδατος τοῦ ποταμοῦ, καὶ ὕψωσε τὴν δεξιὰν αὐτοῦ καὶ τὴν ἀριστερὰν αὐτοῦ εἰς τὸν οὐρανὸν καὶ ὤμοσεν ἐν τῷ ζῶντι εἰς τὸν αἰῶνα, ὅτι εἰς καιρὸν καιρῶν καὶ ἥμισυ καιροῦ· ἐν τῷ συντελεσθῆναι διασκορπισμὸν γνώσονται πάντα ταῦτα."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
         {
@@ -850,9 +1785,16 @@
                 "Sixtine/Brenton"
               ],
               "weight_sum": 0.84
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἐνδεδυμένου' [Swete-Amicarelli] (weight 0.93, confidence 53%) over ἐνδεδυμένον (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἐνδεδυμένου' [Swete-Amicarelli] (weight 0.93, confidence 53%) over ἐνδεδυμένον (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 5,
           "word_count": 1,
           "kind": "word",
@@ -880,10 +1822,119 @@
           "credited_witnesses": []
         },
         {
+          "slot_index": -1,
+          "lemma": "βαδδείν,",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "βύσσινα,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "βαδδειν",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "Ἕως καιροί συντελείας·",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 15,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "αὐτοῦ",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αυτου",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "αὐτοῦ",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 23,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αυτου",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
           "slot_index": 32,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Swete-Amicarelli"
+            "Swete-Amicarelli",
+            "OG-Daniel"
           ],
           "variants": [
             {
@@ -921,6 +1972,87 @@
           ],
           "lemma_key": "om.",
           "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "θεὸν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 34,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "καιρῶν",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "καὶ καιροὺς",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 37,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "καιρων",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐν τῷ συντελεσθῆναι διασκορπισμόν, γνώσονται",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἡ συντέλεια χειρῶν ἀφέσεως λαοῦ ἁγίου, καὶ συντελεσθήσεται",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 41,
+          "word_count": 5,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εν τω συντελεσθηναι διασκορπισμον γνωσονται",
+          "confidence": 0.28,
           "credited_witnesses": []
         }
       ],
@@ -1012,28 +2144,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "βαδδείν, / βαδδίν,"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ὕψωσεν / ὕψωσε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ἐνδεδυμένου' [Swete-Amicarelli] (weight 0.93, confidence 53%) over ἐνδεδυμένον (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli] (weight 0.93, confidence 53%) over εἰς (Sixtine/Brenton). Also normalised 8 orthographic/surface variation(s).",
@@ -1059,14 +2169,71 @@
       "witness_readings": {
         "Swete-Amicarelli": "καὶ ἐγὼ ἤκουσα καὶ οὐ συνῆκα, καὶ εἶπα Κύριε, τί τὰ ἔσχατα τούτων;",
         "Sixtine/Brenton": "Καὶ ἐγὼ ἤκουσα, καὶ οὐ συνῆκα· καὶ εἶπα, Κύριε, τί τὰ ἔσχατα τούτων;",
+        "OG-Daniel": "καὶ ἐγὼ ἥκουσα καὶ οὐ διενοήθην παρʼ αὐτὸν τὸν καιρόν, καὶ εἶπα Κύριε, τίς ἡ λύσις τοῦ λόγου τούτου, καὶ τίνος αἱ παραβολαὶ αὗται;",
         "LXX-Orthodox (Οʹ)": "καὶ ἐγὼ ἤκουσα καὶ οὐ συνῆκα καὶ εἶπα· Κύριε, τί τὰ ἔσχατα τούτων;"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "συνῆκα,",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "διενοήθην παρʼ αὐτὸν τὸν καιρόν,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "συνηκα",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "τί τὰ ἔσχατα τούτων;",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "τίς ἡ λύσις τοῦ λόγου τούτου, καὶ τίνος αἱ παραβολαὶ αὗται;",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 4,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "τι τα εσχατα τουτων",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -1127,14 +2294,125 @@
       "witness_readings": {
         "Swete-Amicarelli": "καὶ εἶπεν Δεῦρο Δανιήλ, ὅτι ἐνπεφραγμένοι καὶ ἐσφραγισμένοι οἱ λόγοι, ἕως καιροῦ πέρας",
         "Sixtine/Brenton": "Καὶ εἶπε, δεῦρο Δανιὴλ, ὅτι ἐμπεφραγμένοι καὶ ἐσφραγισμένοι οἱ λόγοι ἕως καιροῦ πέρας.",
+        "OG-Daniel": "καὶ εἶπέν μοι τρεχε, Δανιήλ, ὅτι κατακεκαλυμμένα καὶ ἐσφραγισμένα τὰ προστάγματα, ἕως ἂν πειρασθῶσι καὶ ἁγιασθῶσι πολλοί,",
         "LXX-Orthodox (Οʹ)": "καὶ εἶπε· δεῦρο Δανιήλ, ὅτι ἐμπεφραγμένοι καὶ ἐσφραγισμένοι οἱ λόγοι, ἕως καιροῦ πέρας·"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Δεῦρο",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "μοι τρεχε,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "δευρο",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐνπεφραγμένοι",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "κατακεκαλυμμένα",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ενπεφραγμενοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐσφραγισμένοι οἱ λόγοι,",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐσφραγισμένα τὰ προστάγματα,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εσφραγισμενοι οι λογοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "καιροῦ πέρας",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἂν πειρασθῶσι καὶ ἁγιασθῶσι πολλοί,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "καιρου περασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -1189,7 +2467,7 @@
           "witnesses": [
             "Sixtine/Brenton"
           ],
-          "reason": "Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)"
+          "reason": "Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)"
         },
         {
           "slot_index": 9,
@@ -1217,26 +2495,16 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
-            "εἶπεν / εἶπε·"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
+            "ἐνπεφραγμένοι / ἐμπεφραγμένοι",
             "ἐνπεφραγμένοι / ἐμπεφραγμένοι"
           ],
           "witnesses": [
             "LXX-Orthodox (Οʹ)"
           ],
-          "reason": "Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)"
+          "reason": "Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)"
         }
       ],
-      "rationale": "Substantively unanimous across Swete-Amicarelli, Sixtine/Brenton. Normalised 7 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type); Punctuation / spacing difference only).",
+      "rationale": "Substantively unanimous across Swete-Amicarelli, Sixtine/Brenton. Normalised 7 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type); Punctuation / spacing difference only).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1250,37 +2518,73 @@
       "witness_readings": {
         "Swete-Amicarelli": "ἐκλεγῶσιν καὶ ἐκλευκανθῶσιν καὶ πυρωθῶσιν πολλοί, καὶ ἀνομήσωσιν ἄνομοι· καὶ οὐ συνήσουσιν ἄνομοι, καὶ οἱ νοήμονες συνήσουσιν.",
         "Sixtine/Brenton": "Ἐκλεγῶσι, καὶ ἐκλευκανθῶσι, καὶ πυρωθῶσι, καὶ ἁγιασθῶσι πολλό· καὶ ἀνομήσωσιν ἄνομοι, καὶ οὐ συνήσουσι πάντες ἄνομοι, καὶ οἱ νοήμονες συνήσουσι.",
+        "OG-Daniel": "καὶ ἁμάρτωσιν οἱ ἁμαρτωλοὶ καὶ οὐ μὴ διανοηθῶσι πάντες οἱ ἁμαρτωλοί, καὶ οἱ διανοούμενοι προσέξουσιν.",
         "LXX-Orthodox (Οʹ)": "ἐκλεγῶσι καὶ ἐκλευκανθῶσι καὶ πυρωθῶσι καὶ ἁγιασθῶσι πολλοί, καὶ ἀνομήσωσιν ἄνομοι· καὶ οὐ συνήσουσι πάντες ἄνομοι, καὶ οἱ νοήμονες συνήσουσι."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
         {
           "slot_index": -1,
-          "lemma": "πυρωθῶσιν",
+          "lemma": "ἐκλεγῶσιν",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εκλεγωσιν",
+          "confidence": 0.28,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐκλευκανθῶσιν καὶ πυρωθῶσιν πολλοί, καὶ ἀνομήσωσιν ἄνομοι·",
           "lemma_witnesses": [
             "Sixtine/Brenton",
             "Swete-Amicarelli"
           ],
           "variants": [
             {
-              "reading": "πυρωθῶσι καὶ ἁγιασθῶσι",
+              "reading": "ἁμάρτωσιν οἱ ἁμαρτωλοὶ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ἐκλευκανθῶσι καὶ πυρωθῶσι καὶ ἁγιασθῶσι πολλοί, καὶ ἀνομήσωσιν ἄνομοι·",
               "witnesses": [
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
-          "word_index": 4,
-          "word_count": 1,
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 7,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
-          "lemma_key": "πυρωθωσιν",
+          "lemma_key": "εκλευκανθωσιν και πυρωθωσιν πολλοι και ανομησωσιν ανομοι",
           "confidence": 0.28,
           "credited_witnesses": []
         },
@@ -1299,9 +2603,16 @@
                 "Sixtine/Brenton"
               ],
               "weight_sum": 0.84
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'πολλοί' [Swete-Amicarelli] (weight 0.93, confidence 53%) over καὶ ἁγιασθῶσι πολλό (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'πολλοί' [Swete-Amicarelli] (weight 0.93, confidence 53%) over καὶ ἁγιασθῶσι πολλό (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 5,
           "word_count": 1,
           "kind": "word",
@@ -1343,9 +2654,16 @@
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
+            },
+            {
+              "reading": "μὴ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'συνήσουσιν' [Swete-Amicarelli] (weight 0.93, confidence 53%) over συνήσουσι πάντες (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'συνήσουσιν' [Swete-Amicarelli] (weight 0.93, confidence 53%) over συνήσουσι πάντες (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 11,
           "word_count": 1,
           "kind": "word",
@@ -1370,6 +2688,33 @@
           ],
           "lemma_key": "συνησουσιν",
           "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "νοήμονες συνήσουσιν.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "διανοούμενοι προσέξουσιν.",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 15,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "νοημονεσ συνησουσιν",
+          "confidence": 0.28,
           "credited_witnesses": []
         }
       ],
@@ -1428,19 +2773,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐκλεγῶσιν / ἐκλεγῶσι",
-            "ἐκλευκανθῶσιν / ἐκλευκανθῶσι",
-            "συνήσουσιν. / συνήσουσι."
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'πολλοί' [Swete-Amicarelli] (weight 0.93, confidence 53%) over καὶ ἁγιασθῶσι πολλό (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'συνήσουσιν' [Swete-Amicarelli] (weight 0.93, confidence 53%) over συνήσουσι πάντες (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).",
@@ -1461,43 +2793,46 @@
       "id": 29265,
       "verse": 11,
       "critical_text": "καὶ ἀπὸ καιροῦ παραλλάξεως τοῦ ἐνδελεχισμοῦ καὶ δοθήσεται βδέλυγμα ἐρημώσεως, ἡμέραι χίλιαι διακόσιαι ἐνενήκοντα.",
-      "confidence": 0.28,
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "καὶ ἀπὸ καιροῦ παραλλάξεως τοῦ ἐνδελεχισμοῦ καὶ δοθήσεται βδέλυγμα ἐρημώσεως, ἡμέραι χίλιαι διακόσιαι ἐνενήκοντα.",
         "Sixtine/Brenton": "Καὶ ἀπὸ καιροῦ παραλλάξεως τοῦ ἐνδελεχισμοῦ, καὶ δοθήσεται τὸ βδέλυγμα ἐρημώσεως, ἡμέραι χίλιαι διακόσιαι ἐννενήκοντα.",
+        "OG-Daniel": "ἀφʼ οὗ ἂν ἀποσταθῇ ἡ θυσία διὰ παντὸς καὶ ἑτοιμασθῇ δοθῆναι τὸ βδέλυγμα τῆς ἐρημώσεως, ἡμέρας χιλίας διακοσίας ἐνενήκοντα.",
         "LXX-Orthodox (Οʹ)": "καὶ ἀπὸ καιροῦ παραλλάξεως τοῦ ἐνδελεχισμοῦ καὶ τοῦ δοθῆναι βδέλυγμα ἐρημώσεως ἡμέραι χίλιαι διακόσιαι ἐνενήκοντα."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
         {
           "slot_index": -1,
-          "lemma": "δοθήσεται",
+          "lemma": "om.",
           "lemma_witnesses": [
             "Sixtine/Brenton",
-            "Swete-Amicarelli"
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
           ],
           "variants": [
             {
-              "reading": "τοῦ δοθῆναι",
+              "reading": "ἀφʼ οὗ ἂν ἀποσταθῇ ἡ θυσία διὰ παντὸς",
               "witnesses": [
-                "LXX-Orthodox (Οʹ)"
+                "OG-Daniel"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
-          "word_index": 7,
-          "word_count": 1,
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 0,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
-          "lemma_key": "δοθησεται",
-          "confidence": 0.28,
+          "lemma_key": "om.",
+          "confidence": 0.529,
           "credited_witnesses": []
         },
         {
@@ -1505,7 +2840,8 @@
           "lemma": "om.",
           "lemma_witnesses": [
             "Swete-Amicarelli",
-            "LXX-Orthodox (Οʹ)"
+            "LXX-Orthodox (Οʹ)",
+            "OG-Daniel"
           ],
           "variants": [
             {
@@ -1545,46 +2881,56 @@
           "credited_witnesses": []
         },
         {
-          "slot_index": 14,
-          "lemma": "ἐνενήκοντα",
+          "slot_index": -1,
+          "lemma": "om.",
           "lemma_witnesses": [
+            "Sixtine/Brenton",
             "Swete-Amicarelli",
             "LXX-Orthodox (Οʹ)"
           ],
           "variants": [
             {
-              "reading": "ἐννενήκοντα",
-              "adopt_text": "ἐννενήκοντα",
+              "reading": "τῆς",
               "witnesses": [
-                "Sixtine/Brenton"
+                "OG-Daniel"
               ],
-              "weight_sum": 0.84
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἐνενήκοντα' [Swete-Amicarelli] (weight 0.93, confidence 53%) over ἐννενήκοντα (Sixtine/Brenton).",
-          "word_index": 13,
-          "word_count": 1,
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 0,
           "kind": "word",
-          "variant_type": "inflection or spelling (same stem)",
-          "analysis": [
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἡμέραι χίλιαι διακόσιαι",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
             {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
+              "reading": "ἡμέρας χιλίας διακοσίας",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "lemma_key": "ενενηκοντα",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ημεραι χιλιαι διακοσιαι",
           "confidence": 0.529,
           "credited_witnesses": []
         }
@@ -1611,14 +2957,25 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "ἐνενήκοντα.",
+          "disregarded_forms": [
+            "ἐννενήκοντα."
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)"
         }
       ],
-      "rationale": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli] (weight 0.93, confidence 53%) over τὸ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἐνενήκοντα' [Swete-Amicarelli] (weight 0.93, confidence 53%) over ἐννενήκοντα (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).",
+      "rationale": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli] (weight 0.93, confidence 53%) over τὸ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 2 unit(s) are one witness against one, where any choice is weakly supported.",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -1636,14 +2993,71 @@
       "witness_readings": {
         "Swete-Amicarelli": "μακάριος ὁ ὑπομένων καὶ φθάσας εἰς ἡμέρας χιλίας τριακοσίας τριάκοντα πέντε.",
         "Sixtine/Brenton": "Μακάριος ὁ ὑπομένων καὶ φθάσας εἰς ἡμέρας χιλίας τριακοσίας τριακονταπέντε.",
+        "OG-Daniel": "μακάριος ὁ ἐμμένων, καὶ συνάξει εἰς ἡμέρας χιλίας τριακοσίας τριάκοντα πέντε.",
         "LXX-Orthodox (Οʹ)": "μακάριος ὁ ὑπομένων καὶ φθάσας εἰς ἡμέρας χιλίας τριακοσίας τριάκοντα πέντε."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ὑπομένων",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐμμένων,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "υπομενων",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "φθάσας",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "συνάξει",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "φθασασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -1682,14 +3096,70 @@
       "witness_readings": {
         "Swete-Amicarelli": "καὶ σὺ δεῦρο καὶ ἀναπαύου· ἔτι γὰρ ἡμέραι εἰς ἀναπλήρωσιν συντελείας, καὶ ἀναστήσῃ εἰς τὸν κλῆρόν σου εἰς συντέλειαν ἡμερῶν.",
         "Sixtine/Brenton": "Καὶ σὺ δεῦρο, καὶ ἀναπαύου· ἔτι γὰρ ἡμέραι καὶ ὧραι εἰς ἀναπλήρωσιν συντελείας, καὶ ἀναστήσῃ εἰς τὸν κλῆρόν σου εἰς συντέλειαν ἡμερῶν.",
+        "OG-Daniel": "καὶ σὺ βάδισον, ἀναπαύου· ἔτι γάρ εἰσιν ἡμέραι καὶ ὦραι εἰς ἀναπλήρωσιν συντελείας, καὶ ἀναπαύσῃ καὶ ἀναστήσῃ ἐπὶ τὴν δόξαν σου εἰς συντέλειαν ἡμερῶν.",
         "LXX-Orthodox (Οʹ)": "καὶ σὺ δεῦρο καὶ ἀναπαύου· ἔτι γὰρ ἡμέραι καὶ ὧραι εἰς ἀναπλήρωσιν συντελείας, καὶ ἀναστήσῃ εἰς τὸν κλῆρόν σου, εἰς συντέλειαν ἡμερῶν."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "LXX-Orthodox (Οʹ)"
+        "LXX-Orthodox (Οʹ)",
+        "OG-Daniel"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "δεῦρο καὶ",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "βάδισον,",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "δευρο και",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "εἰσιν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 8,
           "lemma": "om.",
@@ -1702,7 +3172,8 @@
               "adopt_text": "καὶ ὧραι",
               "witnesses": [
                 "Sixtine/Brenton",
-                "LXX-Orthodox (Οʹ)"
+                "LXX-Orthodox (Οʹ)",
+                "OG-Daniel"
               ],
               "weight_sum": 0.84
             }
@@ -1731,6 +3202,60 @@
             }
           ],
           "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἀναπαύσῃ καὶ",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "εἰς τὸν κλῆρόν",
+          "lemma_witnesses": [
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐπὶ τὴν δόξαν",
+              "witnesses": [
+                "OG-Daniel"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εισ τον κληρον",
           "confidence": 0.529,
           "credited_witnesses": []
         }

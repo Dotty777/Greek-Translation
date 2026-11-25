@@ -1,6 +1,6 @@
 # Deuteronomy 25 — Saints Greek Critical Text
 
-**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:09:05Z`
+**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:19Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,10 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
+- Sixtine/Brenton: Source import repair, 25:16: 'σου πας ποιῶν ταῦτα, πας ποιῶν ἄδικον.' → 'σου πᾶς ποιῶν ταῦτα, πᾶς ποιῶν ἄδικον.' (πᾶς … πᾶς (missing circumflex accents in Brenton-only verse; corroborated by Rahlfs & LXX-Orthodox)). verified import repair applied. Original file unchanged.
 - Swete-Amicarelli: 24:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 24:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 24:3 kept in its own chapter (stronger match to its own reference verse)
@@ -113,6 +113,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 26:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 26:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 26:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 26:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 26:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): verse 25:18 runs into its neighbour across the anchor's division between 25:18 and 25:19; re-divided there
 - Swete (B/A/א): 24:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 24:2 kept in its own chapter (stronger match to its own reference verse)
@@ -153,6 +155,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 26:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 26:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 26:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 26:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 26:19 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 24:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 24:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 24:3 kept in its own chapter (stronger match to its own reference verse)
@@ -214,7 +218,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **13** Οὐκ ἔσται σοι ἐν τῷ μαρσίππῳ στάθμιον καὶ στάθμιον, μέγα ἢ μικρόν·
 **14** οὐκ ἔσται ἐν τῇ οἰκίᾳ σου μέτρον καὶ μέτρον, μέγα ἢ μικρόν·
 **15** στάθμιον ἀληθινὸν καὶ δίκαιον ἔσται σοι, ἵνα πολυήμερος γένῃ ἐπὶ τῆς γῆς ἧς Κύριος ὁ θεός σου δίδωσίν σοι ἐν κλήρῳ.
-**16** Ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πας ποιῶν ταῦτα, πας ποιῶν ἄδικον.
+**16** Ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πᾶς ποιῶν ταῦτα, πᾶς ποιῶν ἄδικον.
 **17** Μνήσθητι ὅσα ἐποίησέν σοι Ἀμαλὴκ ἐν τῇ ὁδῷ ἐκπορευομένου σου ἐκ γῆς Αἰγύπτου,
 **18** πῶς ἀντέστη σοι ἐν τῇ ὁδῷ καὶ ἔκοψέν σου τὴν οὐραγίαν, τοὺς κοπιῶντας ὀπίσω σου, σὺ δὲ ἐπείνας καὶ ἐκοπίας, καὶ οὐκ ἐφοβήθη τὸν θεόν·
 **19** καὶ ἔσται ἡνίκα ἐὰν καταπαύσῃ σε Κύριος ὁ θεός σου ἀπὸ πάντων τῶν ἐχθρῶν σου τῶν κύκλῳ σου ἐν τῇ γῇ ᾗ Κύριος ὁ θεός σου δίδωσίν σοι κληρονομῆσαι, ἐξαλείψεις τὸ ὄνομα Ἀμαλὴκ ἐκ τῆς ὑπὸ τὸν οὐρανόν, καὶ οὐ μὴ ἐπιλάθῃ.
@@ -231,7 +235,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `δίκαιον` over `δίκαιον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `καταγνῶσιν` over `καταγνῶσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἀσεβοῦς·` over `ἀσεβοῦς.` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `καταγνῶσιν / καταγνῶσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 25:2
 - **Apparatus:** `ᾖ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἠ** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -249,6 +252,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Deuteronomy 25:3
 - **Apparatus:** `καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
+- **Apparatus:** `καὶ ἀριθμῷ τεσσεράκοντα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἀριθμῷ τεσσαράκοντα** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσεπάκοντα` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσαράκοντα` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'τεσσεράκοντα' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
@@ -294,7 +298,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀνθρώπῳ` over `ἀνθρώπῳ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `οἶκον` over `οἴκον` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰσραήλ·` over `Ἰσραήλ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Οὕτως ποιήσουσιν / οὕτω ποιήσουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation; Movable final sigma (οὕτω/οὕτως type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Οὕτως / οὕτω` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Movable final sigma (οὕτω/οὕτως type)*
 
 ### Deuteronomy 25:10
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -333,12 +337,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Κύριος` over `κύριος` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `θεός` over `Θεός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δίδωσίν` over `δίδωσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 25:17
 - *Disregarded Surface Variant:* kept `ἐποίησέν` over `ἐποίησέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ὁδῷ` over `ὁδῷ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐποίησέν / ἐποίησέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 25:18
 - *Disregarded Surface Variant:* kept `ἀντέστη` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -347,7 +349,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἔκοψέν` over `ἔκοψέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἐκοπίας,` over `ἐκοπίας·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `θεόν·` over `Θεόν.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔκοψέν / ἔκοψέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 25:19
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -358,7 +359,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Κύριος` over `κύριος` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `θεός` over `Θεός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δίδωσίν` over `δίδωσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ---
 
@@ -506,8 +506,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πας ποιῶν ταῦτα, πας ποιῶν ἄδικον.
-  - `Sixtine/Brenton`: Ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πας ποιῶν ταῦτα, πας ποιῶν ἄδικον.
+- **Critical Text:** Ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πᾶς ποιῶν ταῦτα, πᾶς ποιῶν ἄδικον.
+  - `Sixtine/Brenton`: Ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πᾶς ποιῶν ταῦτα, πᾶς ποιῶν ἄδικον.
   - `LXX-Orthodox (Οʹ)`: ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σου πᾶς ποιῶν ταῦτα, πᾶς ποιῶν ἄδικον.
 - **Philological Rationale:** Unanimous witness agreement across Sixtine/Brenton (1 admitted witnesses; zero substantive divergence).
 

@@ -1,6 +1,6 @@
 # 2 John 01 — Saints Greek Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:14:21Z`
+**Division:** `06_Discipleship` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:49Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `SBLGNT`. Spelling and punctuation follow `SBLGNT` where it attests the adopted reading.
 
@@ -22,21 +22,30 @@
 | **B (03)** | Codex Vaticanus Direct Transcription (CNTR Early MSS) | Tier 4 | `0.98` | CC BY-SA 4.0 | Premier Alexandrian Uncial |
 | **א (01)** | Codex Sinaiticus Direct Transcription (CNTR Early MSS) | Tier 4 | `0.96` | CC BY-SA 4.0 | Alexandrian / Western Mixed Uncial |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **NA28 (TAGNT)** | Nestle–Aland 28th Edition Word-Stream (STEPBible TAGNT CC BY 4.0) | Tier 1 | CC BY 4.0 (STEPBible.org / Tyndale House) | Modern Standard Eclectic Critical Edition (NA28) |
+| **THGNT** | Tyndale House Greek New Testament (STEPBible TAGNT CC BY 4.0) | Tier 1 | CC BY 4.0 (STEPBible.org / Tyndale House Cambridge) | Documentarily-Grounded Modern Critical Edition (THGNT) |
+| **WH1881** | Westcott & Hort Greek New Testament (1881, CNTR Unicode) | Tier 2 | Public Domain / CC BY-SA 4.0 | Neutral / Alexandrian Critical Edition (Westcott–Hort) |
+| **Tisch8** | Tischendorf 8th Edition Greek New Testament (1869–1872, OSIS v2.8) | Tier 2 | Public Domain | Sinaiticus-Weighted Critical Edition (Tischendorf 8th) |
 | **TCGNT (Byz)** | The Text-Critical Greek New Testament: Byzantine Text (Robert Adam Boyd) | Tier 3 | Public Domain | Byzantine Majority Manuscript Collation (TuT / ECM / Hoskier) |
 | **PT1904 (Byz)** | 1904 Ecumenical Patriarchal Greek New Testament (Basileios Antoniades) | Tier 3 | Public Domain | Constantinopolitan Lectionary & Byzantine Ecclesiastical Majority |
 | **TR-Scrivener (1894)** | Scrivener Textus Receptus (Cambridge 1894 Polytonic Edition) | Tier 3 | Public Domain / GPL-3.0 | Beza 1598 / KJV-Underlying Textus Receptus |
 | **TR-Boyd (Elz/Scr/Steph)** | Polytonic Textus Receptus (Stephanus 1550 / Elzevir 1624 / Scrivener 1894) | Tier 3 | Public Domain | Reformation Printed Textus Receptus |
+| **TR-Stephanus (1550)** | Stephanus Editio Regia Textus Receptus (Paris 1550, CNTR Unicode) | Tier 3 | Public Domain / CC BY-SA 4.0 | Reformation Printed Textus Receptus (Stephanus 1550) |
+| **TR-Elzevir (1624)** | Elzevir Textus Receptus (1624 Leiden Edition, Robinson .UEL) | Tier 3 | Public Domain | Classic Elzevir Textus Receptus |
+| **A (02)** | Codex Alexandrinus Direct Transcription (CNTR Early MSS) | Tier 4 | CC BY-SA 4.0 | Byzantine (Gospels) / Premier Alexandrian (Acts, Epistles, Revelation) |
+| **33** | Minuscule 33 — Queen of the Cursives (INTF NTVMR & IGNTP Paul XML) | Tier 4 | CC BY 4.0 | Premier Alexandrian Minuscule (Gospels, Acts, Epistles) |
+| **Ψ (044)** | Codex Athous Laurensis (INTF NTVMR & IGNTP Paul XML) | Tier 4 | CC BY 4.0 (INTF / IGNTP) | Alexandrian-Allied Uncial (Mark, Gospels, Acts, Catholics, Paul) |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Pickering-f35 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Carries NonCommercial-NoDerivatives (CC BY-NC-ND) restriction prohibiting derivative critical editions. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Pickering-f35 | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-ND (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| Tregelles (1879) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -61,6 +70,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### 2 John 1:1
+- **Apparatus:** `καὶ` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 NA28 (TAGNT) PT1904 (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 **]** **om.** A (02) Ψ (044) TCGNT (Byz)
+- **Apparatus:** `om.` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **δε** A (02)
 - *Disregarded Surface Variant:* kept `Ὁ` over `ο`, `ὁ` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πρεσβύτερος` over `πρεσβυτεροσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐκλεκτῇ` over `εκλεκτη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -85,9 +96,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐγνωκότες` over `εγνωκοτεσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀλήθειαν,` over `αληθειαν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀληθείᾳ, καὶ / ἀληθείᾳ—καὶ` (TCGNT (Byz)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀληθείᾳ, καὶ / ἀληθείᾳ—καὶ`, `ἀληθείᾳ, καὶ / ἀληθείᾳ—καὶ` (TCGNT (Byz)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### 2 John 1:2
+- **Apparatus:** `διὰ τὴν ἀλήθειαν` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 **]** **om.** Ψ (044)
+- **Apparatus:** `μένουσαν` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **ουσαν** 33 ; **ενοικουσαν** A (02)
 - *Disregarded Surface Variant:* kept `διὰ` over `δια`, `Διὰ` (B (03), TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τὴν` over `την` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀλήθειαν` over `αληθειαν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -104,17 +117,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αἰῶνα·` over `αιωνα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:3
-- **Apparatus:** `ἡμῶν` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TCGNT (Byz) **]** **ὑμῶν** TR (KJTR) PT1904 (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(lexical substitution)*
+- **Apparatus:** `ἡμῶν` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) 33 NA28 (TAGNT) TCGNT (Byz) THGNT TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **ὑμῶν** TR (KJTR) PT1904 (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) ; **om.** A (02) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
-- **Apparatus:** `παρὰ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **απο** א (01) *(lexical substitution)*
+- **Apparatus:** `παρὰ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **απο** א (01) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `παρὰ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) **]** **κυ̅ (= κυρίου)** א (01) ; **παρὰ Κυρίου** PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(lexical substitution)*
+- **Apparatus:** `παρὰ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **κυ̅ (= κυρίου)** א (01) ; **παρα κυ̅ (= παρα κυρίου)** 33 PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **κυρίου** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(omission / addition)*
+- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **κυρίου** RP2018 (Byz) TR (KJTR) 33 PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) *(omission / addition)*
   - *scribal tendency: expansion of a sacred name or title:* 'κυρίου' is a typical scribal expansion of a sacred name or title; such additions are more likely than omissions.
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
-- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **αυτου** א (01) *(omission / addition)*
+- **Apparatus:** `τοῦ` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 **]** **om.** Ψ (044)
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **αυτου** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
+- **Apparatus:** `καὶ ἀγάπῃ.` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 **]** **αγαπητη** Ψ (044)
 - *Disregarded Surface Variant:* kept `ἔσται` over `εσται`, `Ἔσται` (B (03), TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μεθʼ` over `μεθ`, `μεθ’` (B (03), Nestle1904, RP2018 (Byz), א (01)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `χάρις` over `χαρισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -135,9 +150,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀγάπῃ.` over `αγαπη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:4
-- **Apparatus:** `ἐλάβομεν` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **ελαβον** א (01) *(inflection or spelling (same stem))*
+- **Apparatus:** `ἐλάβομεν` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **ελαβον** א (01) 33 *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `τοῦ` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **om.** B (03) *(omission / addition)*
+- **Apparatus:** `παρὰ` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **απο** A (02)
+- **Apparatus:** `τοῦ` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **om.** B (03) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
 - *Disregarded Surface Variant:* kept `Ἐχάρην` over `εχαρην`, `ἐχάρην` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `λίαν` over `λειαν`, `λιαν`, `λείαν` (B (03), BHP, א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
@@ -155,15 +171,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πατρός.` over `πατροσ`, `Πατρός.` (B (03), BHP, Nestle1904, SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:5
-- **Apparatus:** `καινὴν` א (01) SRGNT SBLGNT BHP **]** **om.** B (03) Nestle1904 RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(word-order transposition)*
-  - *variant type: transposition:* Units 'καινὴν' and 'om.' together form one word-order variant (B (03), Nestle1904, RP2018 (Byz), TR (KJTR) transpose).
+- **Apparatus:** `καινὴν` א (01) SRGNT SBLGNT BHP 33 A (02) NA28 (TAGNT) THGNT TR-Stephanus (1550) Tisch8 **]** **om.** B (03) Nestle1904 RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) WH1881 ; **καινηνγραφω** Ψ (044) *(word-order transposition)*
+  - *variant type: transposition:* Units 'καινὴν', 'om.' together form one word-order variant (B (03), Nestle1904, RP2018 (Byz), TR (KJTR) transpose).
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.
-- **Apparatus:** `om.` א (01) SRGNT SBLGNT BHP **]** **καινήν** B (03) Nestle1904 RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(word-order transposition)*
-  - *variant type: transposition:* Units 'καινὴν' and 'om.' together form one word-order variant (B (03), Nestle1904, RP2018 (Byz), TR (KJTR) transpose).
+- **Apparatus:** `γράφων` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 A (02) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) Tisch8 WH1881 **]** **om.** NA28 (TAGNT) TR-Stephanus (1550) Ψ (044)
+- **Apparatus:** `om.` א (01) SRGNT SBLGNT BHP 33 A (02) NA28 (TAGNT) THGNT TR-Stephanus (1550) Tisch8 Ψ (044) **]** **καινήν** B (03) Nestle1904 RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) WH1881 *(word-order transposition)*
+  - *variant type: transposition:* Units 'καινὴν', 'om.' together form one word-order variant (B (03), Nestle1904, RP2018 (Byz), TR (KJTR) transpose).
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.
-- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **εντολην** א (01) *(omission / addition)*
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **εντολην** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `εἴχαμεν` א (01) SRGNT Nestle1904 BHP **]** **εἴχομεν** B (03) SBLGNT RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(inflection or spelling (same stem))*
+- **Apparatus:** `εἴχαμεν` א (01) SRGNT Nestle1904 BHP A (02) Tisch8 WH1881 **]** **εἴχομεν** B (03) SBLGNT RP2018 (Byz) TR (KJTR) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Ψ (044) ; **ειχωμεν** 33 *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.
 - *Disregarded Surface Variant:* kept `καὶ` over `και`, `Καὶ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `νῦν` over `νυν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -184,17 +201,18 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀλλήλους.` over `αλληλουσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:6
-- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **ινα καθωσ** א (01) *(omission / addition)*
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **ινα καθωσ** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP **]** **ἐστὶν** א (01) RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἐστιν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP 33 A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **ἐστὶν** א (01) RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) *(word-order transposition)*
+  - *variant type: transposition:* Units 'om.', 'ἐστιν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts.
-- **Apparatus:** `ἐντολή` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **εντο** א (01) *(inflection or spelling (same stem))*
+- **Apparatus:** `ἐντολή` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **εντο** א (01) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `ἐστιν` B (03) SRGNT SBLGNT Nestle1904 BHP **]** **om.** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) ; **αυτου ινα** א (01) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἐστιν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).
+- **Apparatus:** `ἐστιν` B (03) SRGNT SBLGNT Nestle1904 BHP NA28 (TAGNT) THGNT WH1881 Ψ (044) **]** **om.** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) ; **αυτου ινα** א (01) ; **εστιν ινα** 33 A (02) Tisch8 *(word-order transposition)*
+  - *variant type: transposition:* Units 'om.', 'ἐστιν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts.
-- **Apparatus:** `περιπατῆτε` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **περιπατησητε** א (01) *(inflection or spelling (same stem))*
+- **Apparatus:** `ἵνα` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **om.** 33
+- **Apparatus:** `περιπατῆτε` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **περιπατησητε** א (01) ; **περιπατειτε** 33 *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
 - *Disregarded Surface Variant:* kept `καὶ` over `και`, `Καὶ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αὕτη` over `αυτη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -218,9 +236,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῇ` over `αυτη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:7
-- **Apparatus:** `ἐξῆλθον` B (03) א (01) SRGNT SBLGNT Nestle1904 **]** **εἰσῆλθον** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) ; **ἐξῆλθαν** BHP *(lexical substitution)*
+- **Apparatus:** `ἐξῆλθον` B (03) א (01) SRGNT SBLGNT Nestle1904 33 NA28 (TAGNT) THGNT Ψ (044) **]** **εἰσῆλθον** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) ; **ἐξῆλθαν** BHP A (02) Tisch8 WH1881 *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, modern critical editions.
-- **Apparatus:** `ὁ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **om.** א (01) *(omission / addition)*
+- **Apparatus:** `ὁ` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **om.** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
 - *Disregarded Surface Variant:* kept `ὅτι` over `οτι`, `Ὅτι` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πολλοὶ` over `πολλοι` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -244,11 +262,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀντίχριστος.` over `αντιχρειστοσ`, `αντιχριστοσ` (B (03), א (01)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### 2 John 1:8
-- **Apparatus:** `ἀπολέσητε` B (03) SRGNT SBLGNT Nestle1904 BHP **]** **ἀπολέσωμεν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) ; **απολησθε** א (01) *(lexical substitution)*
+- **Apparatus:** `ἀπολέσητε` B (03) SRGNT SBLGNT Nestle1904 BHP NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **ἀπολέσωμεν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) ; **απολησθε** א (01) ; **απωλεσηται** 33 ; **απολεσηε** A (02) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts.
-- **Apparatus:** `εἰργασάμεθα` SBLGNT BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **ἠργασάμεθα** B (03) Nestle1904 ; **ειργασασθαι** א (01) ; **ειργάσασθε** SRGNT *(inflection or spelling (same stem))*
+- **Apparatus:** `εἰργασάμεθα` SBLGNT BHP RP2018 (Byz) TR (KJTR) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) **]** **ἠργασάμεθα** B (03) Nestle1904 WH1881 ; **ειργασασθαι** א (01) 33 ; **ειργάσασθε** SRGNT A (02) THGNT Tisch8 Ψ (044) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, modern critical editions; other reading(s): early manuscripts, modern critical editions.
-- **Apparatus:** `ἀπολάβητε` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **ἀπολάβωμεν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(inflection or spelling (same stem))*
+- **Apparatus:** `ἀπολάβητε` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **ἀπολάβωμεν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) ; **απολαβετε** 33 *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
 - *Disregarded Surface Variant:* kept `βλέπετε` over `βλεπετε`, `Βλέπετε` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἑαυτούς,` over `εαυτουσ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -260,13 +278,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πλήρη` over `πληρη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:9
-- **Apparatus:** `προάγων` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **παραβαίνων** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(lexical substitution)*
+- **Apparatus:** `προάγων` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 **]** **παραβαίνων** RP2018 (Byz) TR (KJTR) 33 PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Ψ (044) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
-- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **και μη** א (01) *(omission / addition)*
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **και μη** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **τοῦ χριστοῦ** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(omission / addition)*
+- **Apparatus:** `διδαχῇ` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **αγαπη** 33
+- **Apparatus:** `ἐν` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 **]** **om.** Ψ (044)
+- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP 33 A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **τοῦ χριστοῦ** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) *(omission / addition)*
   - *scribal tendency: expansion of a sacred name or title:* 'τοῦ χριστοῦ' is a typical scribal expansion of a sacred name or title; such additions are more likely than omissions.
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
+- **Apparatus:** `πατέρα` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **υν̅ (= υἱὸν)** 33 A (02)
+- **Apparatus:** `υἱὸν` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **πρα̅ (= πατέρα)** 33 A (02)
 - *Disregarded Surface Variant:* kept `πᾶς` over `πασ`, `Πᾶς` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ὁ` over `ο` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `καὶ` over `και` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -295,10 +317,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἔχει.` over `εχει` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:10
-- **Apparatus:** `om.` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **την** B (03) *(omission / addition)*
+- **Apparatus:** `ἔρχεται` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) 33 NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **ερχετε** A (02)
+- **Apparatus:** `om.` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **την** B (03) *(omission / addition)*
   - *transcriptional: dittography:* The addition 'την' (only in B (03)) repeats the adjacent words; probably a copying slip.
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **εν** א (01) *(omission / addition)*
+- **Apparatus:** `om.` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **εν** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
 - *Disregarded Surface Variant:* kept `εἴ` over `ει`, `Εἴ` (B (03), RP2018 (Byz), SRGNT, TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τις` over `τισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -323,7 +346,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λέγετε·` over `λεγετε` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:11
-- **Apparatus:** `λέγων γὰρ` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **γὰρ λέγων** RP2018 (Byz) TR (KJTR) ; **λέγων** PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(word-order transposition)*
+- **Apparatus:** `λέγων γὰρ` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 **]** **γὰρ λέγων** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Ψ (044) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
 - *Disregarded Surface Variant:* kept `ὁ` over `ο`, `Ὁ` (B (03), TR (KJTR), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αὐτῷ` over `αυτω` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -336,19 +359,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πονηροῖς.` over `πονηροισ` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 
 ### 2 John 1:12
-- **Apparatus:** `ἔχων` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **εχω** א (01) *(inflection or spelling (same stem))*
+- **Apparatus:** `ἔχων` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **εχω** א (01) A (02) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `ἐβουλήθην` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) TCGNT (Byz) **]** **ἠβουλήθην** PT1904 (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894)
-- **Apparatus:** `γενέσθαι` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **ἐλθεῖν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(lexical substitution)*
+- **Apparatus:** `γράφειν` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **γραψαι** A (02)
+- **Apparatus:** `ἐβουλήθην` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) A (02) NA28 (TAGNT) TCGNT (Byz) THGNT Tisch8 WH1881 Ψ (044) **]** **ἠβουλήθην** 33 PT1904 (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550)
+- **Apparatus:** `ἀλλὰ` B (03) BHP Nestle1904 RP2018 (Byz) SBLGNT SRGNT TR (KJTR) א (01) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **om.** 33 A (02)
+- **Apparatus:** `γενέσθαι` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP 33 NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **ἐλθεῖν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) ; **γαρ γενεσθε** A (02) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
-- **Apparatus:** `στόμα` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **στοματι** א (01) *(inflection or spelling (same stem))*
+- **Apparatus:** `στόμα` B (03) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **στοματι** א (01) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `πρὸς` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **προ** B (03) *(lexical substitution)*
+- **Apparatus:** `πρὸς` א (01) SRGNT SBLGNT Nestle1904 BHP RP2018 (Byz) TR (KJTR) 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **προ** B (03) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `ὑμῶν` B (03) SRGNT SBLGNT BHP **]** **ἡμῶν** א (01) Nestle1904 ; **ἡμῶν ᾖ** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(lexical substitution)*
+- **Apparatus:** `ὑμῶν` B (03) SRGNT SBLGNT BHP WH1881 **]** **ἡμῶν** א (01) Nestle1904 NA28 (TAGNT) THGNT Tisch8 ; **ἡμῶν ᾖ** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Ψ (044) ; **υμων η** 33 A (02) *(lexical substitution)*
   - *transcriptional: harmonisation:* The reading 'ἡμῶν ᾖ' agrees with the wording of 1 John 1:4. Assimilation to a parallel is possible, but the added words are only articles, pronouns or connectives, so the direction of change is not certain.
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts, modern critical editions.
-- **Apparatus:** `ᾖ` B (03) SRGNT SBLGNT Nestle1904 BHP **]** **om.** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) ; **ην** א (01) *(omission / addition)*
+- **Apparatus:** `ᾖ` B (03) SRGNT SBLGNT Nestle1904 BHP NA28 (TAGNT) THGNT Tisch8 WH1881 **]** **om.** RP2018 (Byz) TR (KJTR) 33 A (02) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Ψ (044) ; **ην** א (01) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts.
 - *Disregarded Surface Variant:* kept `Πολλὰ` over `πολλα`, `πολλὰ` (B (03), BHP, א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ὑμῖν` over `υμιν` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -370,11 +395,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἡ` over `η` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `χαρὰ` over `χαρα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πεπληρωμένη` over `πεπληρωμενη` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀλλὰ / ἀλλ᾽`, `ἀλλὰ / ἀλλ᾿`, `ἀλλὰ / αλλ` (NA28 (TAGNT), Ψ (044)) — *Apparatus witness, not a variant: Elision (κατὰ / κατ’ type)*
 
 ### 2 John 1:13
-- **Apparatus:** `Ἀσπάζεταί` B (03) SRGNT SBLGNT Nestle1904 RP2018 (Byz) TR (KJTR) BHP PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) **]** **ασπαζετε** א (01) *(inflection or spelling (same stem))*
+- **Apparatus:** `Ἀσπάζεταί` B (03) SRGNT SBLGNT Nestle1904 RP2018 (Byz) TR (KJTR) BHP 33 A (02) NA28 (TAGNT) PT1904 (Byz) TCGNT (Byz) THGNT TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) Tisch8 WH1881 Ψ (044) **]** **ασπαζετε** א (01) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): early manuscripts.
-- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP **]** **Ἀμήν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Scrivener (1894) *(omission / addition)*
+- **Apparatus:** `om.` B (03) א (01) SRGNT SBLGNT Nestle1904 BHP 33 A (02) NA28 (TAGNT) THGNT Tisch8 WH1881 Ψ (044) **]** **Ἀμήν** RP2018 (Byz) TR (KJTR) PT1904 (Byz) TCGNT (Byz) TR-Boyd (Elz/Scr/Steph) TR-Elzevir (1624) TR-Scrivener (1894) TR-Stephanus (1550) *(omission / addition)*
   - *scribal tendency: liturgical ending (ἀμήν):* 'Ἀμήν' is a typical scribal liturgical ending (ἀμήν); such additions are more likely than omissions.
   - *external: independent streams:* Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.
 - *Disregarded Surface Variant:* kept `τὰ` over `τα` (B (03), א (01)) — *Accentuation / capitalisation / breathing convention*
@@ -398,10 +424,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ· καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν·
   - `B (03)`: ο πρεσβυτεροσ εκλεκτη κυρια και τοισ τεκνοισ αυτησ ουσ εγω αγαπω εν αληθεια και ουκ εγω μονοσ αλλα και παντεσ οι εγνωκοτεσ την αληθειαν
   - `א (01)`: ο πρεσβυτεροσ εκλεκτη κυρια και τοισ τεκνοισ αυτησ ουσ εγω αγαπω εν αληθια και ουκ εγω μονοσ αλλα και παντεσ οι εγνωκοτεσ την αληθειαν
+  - `NA28 (TAGNT)`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
+  - `THGNT`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
+  - `WH1881`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
+  - `Tisch8`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
   - `TCGNT (Byz)`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ—καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν—
   - `PT1904 (Byz)`: Ὁ πρεσβύτερος, ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
   - `TR-Scrivener (1894)`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
   - `TR-Boyd (Elz/Scr/Steph)`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
+  - `TR-Stephanus (1550)`: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ, καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος, ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
+  - `TR-Elzevir (1624)`: ο πρεσβυτερος εκλεκτη κυρια και τοις τεκνοις αυτης ους εγω αγαπω εν αληθεια και ουκ εγω μονος αλλα και παντες οι εγνωκοτες την αληθειαν
+  - `A (02)`: ο πρεσβυτεροσ εκλεκτη κυρια και τοισ τεκνοισ αυτησ ουσ εγω αγαπω εν αληθεια ουκ εγω δε μονοσ αλλα και παντεσ οι εγνωκοτεσ την αληθειαν
+  - `33`: ο πρεσβυτερος εκλεκτη κυρια και τοις τεκνοις αυτης ους εγω αγαπω εν αληθεια και ουκ εγω μονος αλλα και παντες οι εγνωκοτες την αληθειαν
+  - `Ψ (044)`: ο πρεσβυτερος εκλεκτη κυρια και τοις τεκνοις αυτης ους εγω αγαπω εν αληθεια ουκ εγω μονος αλλα και παντες οι εγνωκοτες την αληθειαν
 - **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 24 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence)).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -414,10 +449,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Διὰ τὴν ἀλήθειαν, τὴν μένουσαν ἐν ἡμῖν, καὶ μεθʼ ἡμῶν ἔσται εἰς τὸν αἰῶνα.
   - `B (03)`: δια την αληθειαν την μενουσαν εν ημιν και μεθ ημων εσται εισ τον αιωνα
   - `א (01)`: δια την αληθειαν την μενουσαν εν ημιν και μεθ ημων εσται εισ τον αιωνα
+  - `NA28 (TAGNT)`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾽ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+  - `THGNT`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾽ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+  - `WH1881`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθʼ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+  - `Tisch8`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα.
   - `TCGNT (Byz)`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν καὶ μεθ᾽ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
   - `PT1904 (Byz)`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾽ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
   - `TR-Scrivener (1894)`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾽ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
   - `TR-Boyd (Elz/Scr/Steph)`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾿ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+  - `TR-Stephanus (1550)`: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθʼ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+  - `TR-Elzevir (1624)`: δια την αληθειαν την μενουσαν εν ημιν και μεθ ημων εσται εις τον αιωνα
+  - `A (02)`: δια την αληθειαν την ενοικουσαν εν ημιν και μεθ ημων εσται εισ τον αιωνα
+  - `33`: δια την αληθειαν την ουσαν εν ημιν και μεθ ημων εσται εις τον αιωνα
+  - `Ψ (044)`: την μενουσαν εν ημιν και μεθ ημων εσται εις τον αιωνα
 - **Philological Rationale:** Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 14 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
 ### Verse 3 (Confidence: `95.1%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -430,10 +474,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Ἔσται μεθʼ ὑμῶν χάρις, ἔλεος, εἰρήνη, παρὰ Θεοῦ Πατρός, καὶ παρὰ Κυρίου Ἰησοῦ Χριστοῦ, τοῦ Υἱοῦ τοῦ Πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
   - `B (03)`: εσται μεθ ημων χαρισ ελεοσ ειρηνη παρα θυ̅ πατροσ και παρα ιυ̅ χυ̅ του υιου του πατροσ εν αληθεια και αγαπη
   - `א (01)`: εσται μεθ ημων χαρισ ελεοσ ειρηνη απο θυ̅ πατροσ και κυ̅ ιυ̅ χυ̅ του υυ̅ αυτου του πατροσ εν αληθεια και αγαπη
+  - `NA28 (TAGNT)`: ἔσται μεθ᾽ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ θεοῦ πατρὸς καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρὸς ἐν ἀληθείᾳ καὶ ἀγάπῃ.
+  - `THGNT`: ἔσται μεθ᾽ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ θεοῦ πατρὸς καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρὸς ἐν ἀληθείᾳ καὶ ἀγάπῃ.
+  - `WH1881`: ἔσται μεθʼ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ θεοῦ πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
+  - `Tisch8`: ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ θεοῦ πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
   - `TCGNT (Byz)`: ἔσται μεθ᾽ ἡμῶν χάρις, ἔλεος, εἰρήνη παρὰ Θεοῦ πατρὸς καὶ παρὰ Κυρίου Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
   - `PT1904 (Byz)`: ἔσται μεθ᾽ ὑμῶν χάρις, ἔλεος, εἰρήνη παρὰ Θεοῦ πατρὸς καὶ παρὰ Κυρίου Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
   - `TR-Scrivener (1894)`: ἔσται μεθ᾽ ὑμῶν χάρις, ἔλεος, εἰρήνη παρὰ Θεοῦ πατρός, καὶ παρὰ Κυρίου Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
   - `TR-Boyd (Elz/Scr/Steph)`: ἔσται μεθ᾿ ὑμῶν χάρις, ἔλεος, εἰρήνη παρὰ Θεοῦ πατρός, καὶ παρὰ Κυρίου Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
+  - `TR-Stephanus (1550)`: ἔσται μεθʼ ἡμῶν χάρις, ἔλεος, εἰρήνη παρὰ Θεοῦ πατρὸς, καὶ παρὰ Κυρίου Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρὸς, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
+  - `TR-Elzevir (1624)`: εσται μεθ υμων χαρις ελεος ειρηνη παρα θεου πατρος και παρα κυριου ιησου χριστου του υιου του πατρος εν αληθεια και αγαπη
+  - `A (02)`: χαρισ ελεοσ ειρηνη παρα θυ̅ πρσ̅ και παρα ιυ̅ χυ̅ του υιου του πρσ̅ εν αληθεια και αγαπη
+  - `33`: εσται μεθ ημων χαρις ελεος ειρηνη παρα θυ̅ πρς̅ και παρα κυ̅ ιυ̅ χυ̅ του υιου του πρς̅ εν αληθεια και αγαπη
+  - `Ψ (044)`: εσται μεθ ημων χαρις ελεος ειρηνη παρα θυ̅ πρς̅ και παρα ιυ̅ χυ̅ υυ̅ του πρς̅ εν αληθεια αγαπητη
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἡμῶν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz)] (weight 6.33, confidence 99%) over ὑμῶν (TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'παρὰ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over απο (א (01)). [Lexical, morphological, or word-order variant] Adopted 'παρὰ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over κυ̅ (= κυρίου) (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over κυρίου (RP2018 (Byz), TR (KJTR)). [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over αυτου (א (01)). Also normalised 18 orthographic/surface variation(s).
 - *confidence:* Verse confidence 95% = product of 5 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -447,14 +500,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ Πατρός.
   - `B (03)`: εχαρην λειαν οτι ευρηκα εκ των τεκνων σου περιπατουντασ εν αληθεια καθωσ εντολην ελαβομεν παρα πατροσ
   - `א (01)`: εχαρην λιαν οτι ευρηκα εκ των τεκνων σου περιπατουντασ εν αληθεια καθωσ εντολην ελαβον παρα του πατροσ
+  - `NA28 (TAGNT)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
+  - `THGNT`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
+  - `WH1881`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
+  - `Tisch8`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
   - `TCGNT (Byz)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
   - `PT1904 (Byz)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
   - `TR-Scrivener (1894)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
   - `TR-Boyd (Elz/Scr/Steph)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
+  - `TR-Stephanus (1550)`: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
+  - `TR-Elzevir (1624)`: εχαρην λιαν οτι ευρηκα εκ των τεκνων σου περιπατουντας εν αληθεια καθως εντολην ελαβομεν παρα του πατρος
+  - `A (02)`: εχαρην λιαν οτι ευρηκα εκ των τεκνων σου περιπατουντασ εν αληθεια καθωσ εντολην ελαβομεν απο του πρσ̅
+  - `33`: εχαρην λιαν οτι ευρηκα εκ των τεκνων σου περιπατουντας εν αληθεια καθως εντολην ελαβον παρα του πρς̅
+  - `Ψ (044)`: εχαρην λιαν οτι ευρηκα εκ των τεκνων σου περιπατουντας εν αληθεια καθως εντολην ελαβομεν παρα του πρς̅
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐλάβομεν' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over ελαβον (א (01)). [Omission in some witnesses] Adopted 'τοῦ' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over om. (B (03)). Also normalised 14 orthographic/surface variation(s).
 - *confidence:* Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
-### Verse 5 (Confidence: `52.2%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 5 (Confidence: `64.1%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι ἀλλὰ ἣν εἴχαμεν ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `SRGNT`: Καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι, ἀλλὰ ἣν εἴχαμεν ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `SBLGNT`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι ἀλλὰ ἣν εἴχομεν ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
@@ -464,14 +526,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινήν, ἀλλὰ ἣν εἴχομεν ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `B (03)`: και νυν ερωτω σε κυρια ουχ ωσ εντολην γραφων σοι καινην αλλα ην ειχομεν απ αρχησ ινα αγαπωμεν αλληλουσ
   - `א (01)`: και νυν ερωτω σε κυρια ουχ ωσ εντολην καινην γραφων σοι αλλα εντολην ην ειχαμεν απ αρχησ ινα αγαπωμεν αλληλουσ
+  - `NA28 (TAGNT)`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων καινὴν σοι, ἀλλ᾽ ἣν εἴχομεν ἀπ᾽ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
+  - `THGNT`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι, ἀλλὰ ἣν εἴχομεν ἀπ᾽ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
+  - `WH1881`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινὴν ἀλλὰ ἣν εἴχαμεν ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
+  - `Tisch8`: καὶ νῦν ἐρωτῶ σε, Κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι ἀλλὰ ἣν εἴχαμεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `TCGNT (Byz)`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινὴν ἀλλὰ ἣν εἴχομεν ἀπ᾽ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `PT1904 (Byz)`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινήν, ἀλλὰ ἣν εἴχομεν ἀπ᾽ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `TR-Scrivener (1894)`: καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινήν, ἀλλὰ ἣν εἴχομεν ἀπ᾽ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
   - `TR-Boyd (Elz/Scr/Steph)`: Καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινήν, ἀλλὰ ἣν εἴχομεν ἀπ᾿ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
+  - `TR-Stephanus (1550)`: Καὶ νῦν ἐρωτῶ σε κυρία, οὐχ ὡς ἐντολὴν γράφω σοι καινὴν, ἀλλὰ ἣν εἴχομεν ἀπʼ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους·
+  - `TR-Elzevir (1624)`: και νυν ερωτω σε κυρια ουχ ως εντολην γραφων σοι καινην αλλα ην ειχομεν απ αρχης ινα αγαπωμεν αλληλους
+  - `A (02)`: και νυν ερωτω σε κυρια ουχ ωσ εντολην καινην γραφων σοι αλλ ην ειχαμεν απ αρχησ ινα αγαπωμεν αλληλουσ
+  - `33`: […] νυν ερωτω σε κυρια ουχ ως εντολην καινην γραφων σοι αλλ ην ειχωμεν απ αρχης ινα αγαπωμεν αλληλους
+  - `Ψ (044)`: και νυν ερωτω σε κυρια ουχ ως εντολην καινηνγραφω σοι αλλ ην ειχομεν απ αρχης ινα αγαπωμεν αλληλους
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'καινὴν' [א (01), SRGNT, SBLGNT, BHP] (weight 3.73, confidence 81%) over om. (B (03), Nestle1904, RP2018 (Byz), TR (KJTR)). [Addition / omission between witnesses] Adopted 'om.' [א (01), SRGNT, SBLGNT, BHP] (weight 3.85, confidence 81%) over καινήν (B (03), Nestle1904, RP2018 (Byz), TR (KJTR)). [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over εντολην (א (01)). [Lexical, morphological, or word-order variant] Adopted 'εἴχαμεν' [א (01), SRGNT, Nestle1904, BHP] (weight 3.69, confidence 80%) over εἴχομεν (B (03), SBLGNT, RP2018 (Byz), TR (KJTR)). Also normalised 17 orthographic/surface variation(s).
-- *confidence:* Verse confidence 52% = product of 4 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+- *confidence:* Verse confidence 64% = product of 3 unit confidence(s); 1 split-transposition duplicate(s) counted once; calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
-### Verse 6 (Confidence: `94.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 6 (Confidence: `95.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπʼ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
   - `SRGNT`: Καὶ αὕτη ἐστὶν ἡ ἀγάπη: ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. Αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπʼ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
   - `SBLGNT`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπʼ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
@@ -481,12 +552,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. Αὕτη ἐστὶν ἡ ἐντολή, καθὼς ἠκούσατε ἀπʼ ἀρχῆς, Ἵνα, ἐν αὐτῇ περιπατῆτε.
   - `B (03)`: και αυτη εστιν η αγαπη ινα περιπατωμεν κατα τασ εντολασ αυτου αυτη η εντολη εστιν καθωσ ηκουσατε απ αρχησ ινα εν αυτη περιπατητε
   - `א (01)`: και αυτη εστιν η αγαπη ινα περιπατωμεν κατα τασ εντολασ αυτου ινα καθωσ αυτη εστιν η εντο αυτου ινα καθωσ ηκουσατε απ αρχησ ινα εν αυτη περιπατησητε
+  - `NA28 (TAGNT)`: καὶ αὕτη ἐστὶν ἡ ἀγάπη ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἡ ἐντολή ἐστιν καθὼς ἠκούσατε ἀπ᾽ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε·
+  - `THGNT`: καὶ αὕτη ἐστὶν ἡ ἀγάπη ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἡ ἐντολή ἐστιν καθὼς ἠκούσατε ἀπ᾽ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε·
+  - `WH1881`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπʼ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
+  - `Tisch8`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, ἵνα καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
   - `TCGNT (Byz)`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἐστὶν ἡ ἐντολή, καθὼς ἠκούσατε ἀπ᾽ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
   - `PT1904 (Byz)`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἐστὶν ἡ ἐντολή, καθὼς ἠκούσατε ἀπ᾽ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
   - `TR-Scrivener (1894)`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἐστὶν ἡ ἐντολή, καθὼς ἠκούσατε ἀπ᾽ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
   - `TR-Boyd (Elz/Scr/Steph)`: Καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. Αὕτη ἐστὶν ἡ ἐντολή, καθὼς ἠκούσατε ἀπ᾿ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
+  - `TR-Stephanus (1550)`: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἐστὶν ἡ ἐντολὴ, καθὼς ἠκούσατε ἀπʼ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε·
+  - `TR-Elzevir (1624)`: και αυτη εστιν η αγαπη ινα περιπατωμεν κατα τας εντολας αυτου αυτη εστιν η εντολη καθως ηκουσατε απ αρχης ινα εν αυτη περιπατητε
+  - `A (02)`: και αυτη εστιν η αγαπη ινα περιπατωμεν κατα τασ εντολασ αυτου αυτη η εντολη εστιν ινα καθωσ ηκουσατε απ αρχησ ινα εν αυτη περιπατητε
+  - `33`: και αυτη εστιν η αγαπη ινα περιπατωμεν κατα τας εντολας αυτου αυτη η εντολη εστιν ινα καθως ηκουσατε απ αρχης εν αυτω περιπατειτε
+  - `Ψ (044)`: και αυτη εστιν η αγαπη ινα περιπατωμεν κατα τας εντολας αυτου αυτη η εντολη εστιν καθως ηκουσατε απ αρχης ινα εν αυτη περιπατητε
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over ινα καθωσ (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.77, confidence 98%) over ἐστὶν (א (01), RP2018 (Byz), TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'ἐντολή' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over εντο (א (01)). [Omission in some witnesses] Adopted 'ἐστιν' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.65, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)); αυτου ινα (א (01)). [Lexical, morphological, or word-order variant] Adopted 'περιπατῆτε' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over περιπατησητε (א (01)). Also normalised 20 orthographic/surface variation(s).
-- *confidence:* Verse confidence 94% = product of 5 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
+- *confidence:* Verse confidence 95% = product of 4 unit confidence(s); 1 split-transposition duplicate(s) counted once; calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
 ### Verse 7 (Confidence: `97.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
@@ -498,10 +578,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Ὅτι πολλοὶ πλάνοι εἰσῆλθόν εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί. Οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
   - `B (03)`: οτι πολλοι πλανοι εξηλθον εισ τον κοσμον οι μη ομολογουντεσ ιν̅ χν̅ ερχομενον εν σαρκι ουτοσ εστιν ο πλανοσ και ο αντιχρειστοσ
   - `א (01)`: οτι πολλοι πλανοι εξηλθον εισ τον κοσμον οι μη ομολογουντεσ ιν̅ χν̅ ερχομενον εν σαρκι ουτοσ εστιν ο πλανοσ και αντιχριστοσ
+  - `NA28 (TAGNT)`: ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
+  - `THGNT`: ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
+  - `WH1881`: ὅτι πολλοὶ πλάνοι ἐξῆλθαν εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
+  - `Tisch8`: ὅτι πολλοὶ πλάνοι ἐξῆλθαν εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
   - `TCGNT (Byz)`: ὅτι πολλοὶ πλάνοι εἰσῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί. οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
   - `PT1904 (Byz)`: ὅτι πολλοὶ πλάνοι εἰσῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
   - `TR-Scrivener (1894)`: ὅτι πολλοὶ πλάνοι εἰσῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί. οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
   - `TR-Boyd (Elz/Scr/Steph)`: Ὅτι πολλοὶ πλάνοι εἰσῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί. Οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
+  - `TR-Stephanus (1550)`: ὅτι πολλοὶ πλάνοι εἰσῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
+  - `TR-Elzevir (1624)`: οτι πολλοι πλανοι εισηλθον εις τον κοσμον οι μη ομολογουντες ιησουν χριστον ερχομενον εν σαρκι ουτος εστιν ο πλανος και ο αντιχριστος
+  - `A (02)`: οτι πολλοι πλανοι εξηλθαν εισ τον κοσμον οι μη ομολογουντεσ ιν̅ χν̅ ερχομενον εν σαρκι ουτοσ εστιν ο πλανοσ και ο αντιχριστοσ
+  - `33`: οτι πολλοι πλανοι εξηλθον εις τον κοσμον οι μη ομολογουντες ιν̅ χν̅ ερχομενον εν σαρκι ουτος εστιν ο πλανος και ο αντιχριστος
+  - `Ψ (044)`: οτι πολλοι πλανοι εξηλθον εις τον κοσμον οι μη ομολογουντες ιν̅ χν̅ ερχομενον εν σαρκι ουτος εστιν ο πλανος και ο αντιχριστος
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξῆλθον' [B (03), א (01), SRGNT, SBLGNT, Nestle1904] (weight 4.73, confidence 99%) over εἰσῆλθον (RP2018 (Byz), TR (KJTR)); ἐξῆλθαν (BHP). [Omission in some witnesses] Adopted 'ὁ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over om. (א (01)). Also normalised 20 orthographic/surface variation(s).
 - *confidence:* Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -515,10 +604,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσωμεν ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβωμεν.
   - `B (03)`: βλεπετε εαυτουσ ινα μη απολεσητε α ηργασαμεθα αλλα μισθον πληρη απολαβητε
   - `א (01)`: βλεπετε εαυτουσ ινα μη απολησθε α ειργασασθαι αλλα μισθον πληρη απολαβητε
+  - `NA28 (TAGNT)`: βλέπετε ἑαυτούς ἵνα μὴ ἀπολέσητε ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.
+  - `THGNT`: βλέπετε ἑαυτοὺς ἵνα μὴ ἀπολέσητε ἃ εἰργάσασθε ἀλλὰ μισθὸν πλήρη ἀπολάβητε.
+  - `WH1881`: βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ ἠργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.
+  - `Tisch8`: βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ εἰργάσασθε, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.
   - `TCGNT (Byz)`: βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσωμεν ἃ εἰργασάμεθα ἀλλὰ μισθὸν πλήρη ἀπολάβωμεν.
   - `PT1904 (Byz)`: βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσωμεν ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβωμεν.
   - `TR-Scrivener (1894)`: βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσωμεν ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβωμεν.
   - `TR-Boyd (Elz/Scr/Steph)`: Βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσωμεν ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβωμεν.
+  - `TR-Stephanus (1550)`: βλέπετε ἑαυτοὺς, ἵνα μὴ ἀπολέσωμεν ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβωμεν.
+  - `TR-Elzevir (1624)`: βλεπετε εαυτους ινα μη απολεσωμεν α ειργασαμεθα αλλα μισθον πληρη απολαβωμεν
+  - `A (02)`: βλεπετε εαυτουσ ινα μη απολεσηε α ειργασασθε αλλα μισθον πληρη απολαβητε
+  - `33`: βλεπετε εαυτους ινα μη απωλεσηται α ειργασασθαι αλλα μισθον πληρη απολαβετε
+  - `Ψ (044)`: βλεπετε εαυτους ινα μη απολεσητε α ειργασασθε αλλα μισθον πληρη απολαβητε
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἀπολέσητε' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.65, confidence 99%) over ἀπολέσωμεν (RP2018 (Byz), TR (KJTR)); απολησθε (א (01)). [Lexical, morphological, or word-order variant] Adopted 'εἰργασάμεθα' [SBLGNT, BHP, RP2018 (Byz), TR (KJTR)] (weight 3.14, confidence 64%) over ἠργασάμεθα (B (03), Nestle1904); ειργασασθαι (א (01)); ειργάσασθε (SRGNT). [Lexical, morphological, or word-order variant] Adopted 'ἀπολάβητε' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ἀπολάβωμεν (RP2018 (Byz), TR (KJTR)). Also normalised 8 orthographic/surface variation(s).
 - *confidence:* Verse confidence 63% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -532,10 +630,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Πᾶς ὁ παραβαίνων, καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, Θεὸν οὐκ ἔχει. Ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν Πατέρα καὶ τὸν Υἱὸν ἔχει.
   - `B (03)`: πασ ο προαγων και μη μενων εν τη διδαχη του χυ̅ θν̅ ουκ εχει ο μενων εν τη διδαχη ουτοσ και τον πατερα και τον υιον εχει
   - `א (01)`: πασ ο προαγων και μη μενων και μη εν τη διδαχη του χυ̅ θν̅ ουκ εχει ο μενων εν τη διδαχη ουτοσ και τον πατερα και τον υν̅ εχει
+  - `NA28 (TAGNT)`: πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
+  - `THGNT`: πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
+  - `WH1881`: πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
+  - `Tisch8`: πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
   - `TCGNT (Byz)`: πᾶς ὁ παραβαίνων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ Θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
   - `PT1904 (Byz)`: πᾶς ὁ παραβαίνων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ Θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
   - `TR-Scrivener (1894)`: πᾶς ὁ παραβαίνων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, Θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
   - `TR-Boyd (Elz/Scr/Steph)`: Πᾶς ὁ παραβαίνων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, Θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
+  - `TR-Stephanus (1550)`: πᾶς ὁ παραβαίνων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, Θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
+  - `TR-Elzevir (1624)`: πας ο παραβαινων και μη μενων εν τη διδαχη του χριστου θεον ουκ εχει ο μενων εν τη διδαχη του χριστου ουτος και τον πατερα και τον υιον εχει
+  - `A (02)`: πασ ο προαγων και μη μενων εν τη διδαχη του χυ̅ θν̅ ουκ εχει ο μενων εν τη διδαχη ουτοσ και τον υν̅ και τον πρα̅ εχει
+  - `33`: πας ο παραβαινων και μη μενων εν τη αγαπη του χυ̅ θν̅ ουκ εχει ο μενων εν τη διδαχη ουτος και τον υν̅ και τον πρα̅ εχει
+  - `Ψ (044)`: πας ο παραβαινων και μη μενων εν τη διδαχη του χυ̅ θν̅ ουκ εχει ο μενων τη διδαχη ουτος και τον πρα̅ και τον υν̅ εχει
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'προάγων' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over παραβαίνων (RP2018 (Byz), TR (KJTR)). [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over και μη (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over τοῦ χριστοῦ (RP2018 (Byz), TR (KJTR)). Also normalised 26 orthographic/surface variation(s).
 - *confidence:* Verse confidence 97% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -549,10 +656,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Εἴ τις ἔρχεται πρὸς ὑμᾶς, καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε:
   - `B (03)`: ει τισ ερχεται προσ υμασ και ταυτην την την διδαχην ου φερει μη λαμβανετε αυτον εισ οικιαν και χαιρειν αυτω μη λεγετε
   - `א (01)`: ει τισ ερχεται προσ υμασ και ταυτην την εν διδαχην ου φερι μη λαμβανετε αυτον εισ οικιαν και χαιρειν αυτω μη λεγετε
+  - `NA28 (TAGNT)`: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·
+  - `THGNT`: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·
+  - `WH1881`: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν καὶ χαίρειν αὐτῷ μὴ λέγετε·
+  - `Tisch8`: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν καὶ χαίρειν αὐτῷ μὴ λέγετε·
   - `TCGNT (Byz)`: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν καὶ χαίρειν αὐτῷ μὴ λέγετε·
   - `PT1904 (Byz)`: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·
   - `TR-Scrivener (1894)`: εἴ τις ἔρχεται πρὸς ὑμᾶς, καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·
   - `TR-Boyd (Elz/Scr/Steph)`: Εἴ τις ἔρχεται πρὸς ὑμᾶς, καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·
+  - `TR-Stephanus (1550)`: Εἴ τις ἔρχεται πρὸς ὑμᾶς, καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·
+  - `TR-Elzevir (1624)`: ει τις ερχεται προς υμας και ταυτην την διδαχην ου φερει μη λαμβανετε αυτον εις οικιαν και χαιρειν αυτω μη λεγετε
+  - `A (02)`: ει τισ ερχετε προσ υμασ και ταυτην την διδαχην ου φερει μη λαμβανετε αυτον εισ οικιαν και χαιρειν αυτω μη λεγετε
+  - `33`: ει τις ερχεται προς υμας και ταυτην την διδαχην ου φερει μη λαμβανετε αυτον εις οικιαν και χαιρειν αυτω μη λεγετε
+  - `Ψ (044)`: ει τις ερχεται προς υμας και ταυτην την διδαχην ου φερει μη λαμβανετε αυτον εις οικιαν και χαιρειν αυτω μη λεγετε
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.07, confidence 99%) over την (B (03)). [Addition / omission between witnesses] Adopted 'om.' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 6.09, confidence 99%) over εν (א (01)). Also normalised 21 orthographic/surface variation(s).
 - *confidence:* Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -566,10 +682,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Ὁ γὰρ λέγων αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
   - `B (03)`: ο λεγων γαρ αυτω χαιρειν κοινωνει τοισ εργοισ αυτου τοισ πονηροισ
   - `א (01)`: ο λεγων γαρ αυτω χαιρειν κοινωνι τοισ εργοισ αυτου τοισ πονηροισ
+  - `NA28 (TAGNT)`: ὁ λέγων γὰρ αὐτῷ χαίρειν, κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
+  - `THGNT`: ὁ λέγων γὰρ αὐτῷ χαίρειν, κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
+  - `WH1881`: ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
+  - `Tisch8`: ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
   - `TCGNT (Byz)`: ὁ γὰρ λέγων αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
   - `PT1904 (Byz)`: ὁ γὰρ λέγων αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
   - `TR-Scrivener (1894)`: ὁ γὰρ λέγων αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
   - `TR-Boyd (Elz/Scr/Steph)`: ὁ γὰρ λέγων αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
+  - `TR-Stephanus (1550)`: ὁ γὰρ λέγων αὐτῷ χαίρειν, κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
+  - `TR-Elzevir (1624)`: ο γαρ λεγων αυτω χαιρειν κοινωνει τοις εργοις αυτου τοις πονηροις
+  - `A (02)`: ο λεγων γαρ αυτω χαιρειν κοινωνει τοισ εργοισ αυτου τοισ πονηροισ
+  - `33`: ο […] γαρ αυτω χαιρειν κοινωνει τοις εργοις αυτου τοις πονηροις
+  - `Ψ (044)`: ο γαρ λεγων αυτω χαιρειν κοινωνει τοις εργοις αυτου τοις πονηροις
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'λέγων γὰρ' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over γὰρ λέγων (RP2018 (Byz), TR (KJTR)). Also normalised 9 orthographic/surface variation(s).
 - *confidence:* Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -583,10 +708,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Πολλὰ ἔχων ὑμῖν γράφειν, οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος: ἀλλὰ ἐλπίζω ἐλθεῖν πρὸς ὑμᾶς, καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν ᾗ πεπληρωμένη.
   - `B (03)`: πολλα εχων υμιν γραφειν ουκ εβουληθην δια χαρτου και μελανοσ αλλα ελπιζω γενεσθαι προσ υμασ και στομα προ στομα λαλησαι ινα η χαρα υμων πεπληρωμενη η
   - `א (01)`: πολλα εχω υμιν γραφειν ουκ εβουληθην δια χαρτου και μελανοσ αλλα ελπιζω γενεσθαι προσ υμασ και στοματι προσ στομα λαλησαι ινα η χαρα ημων πεπληρωμενη ην
+  - `NA28 (TAGNT)`: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος· ἀλλ᾽ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.
+  - `THGNT`: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος· ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.
+  - `WH1881`: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ὑμῶν πεπληρωμένη ᾖ.
+  - `Tisch8`: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.
   - `TCGNT (Byz)`: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω ἐλθεῖν πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.
   - `PT1904 (Byz)`: Πολλὰ ἔχων ὑμῖν γράφειν, οὐκ ἠβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω ἐλθεῖν πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.
   - `TR-Scrivener (1894)`: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἠβουλήθην διὰ χάρτου καὶ μέλανος· ἀλλὰ ἐλπίζω ἐλθεῖν πρὸς ὑμᾶς, καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.
   - `TR-Boyd (Elz/Scr/Steph)`: Πολλὰ ἔχων ὑμῖν γράφειν, οὐκ ἠβουλήθην διὰ χάρτου καὶ μέλανος· ἀλλὰ ἐλπίζω ἐλθεῖν πρὸς ὑμᾶς, καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.
+  - `TR-Stephanus (1550)`: Πολλὰ ἔχων ὑμῖν γράφειν, οὐκ ἠβουλήθην διὰ χάρτου καὶ μέλανος· ἀλλὰ ἐλπίζω ἐλθεῖν πρὸς ὑμᾶς, καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.
+  - `TR-Elzevir (1624)`: πολλα εχων υμιν γραφειν ουκ ηβουληθην δια χαρτου και μελανος αλλα ελπιζω ελθειν προς υμας και στομα προς στομα λαλησαι ινα η χαρα ημων η πεπληρωμενη
+  - `A (02)`: πολλα εχω υμιν γραψαι ουκ εβουληθην δια χαρτου και μελανοσ ελπιζω γαρ γενεσθε προσ υμασ και στομα προσ στομα λαλησαι ινα η χαρα υμων η πεπληρωμενη
+  - `33`: πολλα εχων […] […] ουκ ηβουληθην δια χαρτου και μελανος ελπιζω γαρ γενεσθαι προς υμας και στομα προς στομα λαλησαι ινα η χαρα υμων η πεπληρωμενη
+  - `Ψ (044)`: πολλα εχων υμιν γραφειν ουκ εβουληθην δια χαρτου και μελανος αλλ ελπιζω γενεσθαι προς υμας και στομα προς στομα λαλησαι ινα η χαρα ημων η πεπληρωμενη
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἔχων' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over εχω (א (01)). [Lexical, morphological, or word-order variant] Adopted 'γενέσθαι' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ἐλθεῖν (RP2018 (Byz), TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'στόμα' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over στοματι (א (01)). [Lexical, morphological, or word-order variant] Adopted 'πρὸς' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over προ (B (03)). [Lexical, morphological, or word-order variant] Adopted 'ὑμῶν' [B (03), SRGNT, SBLGNT, BHP] (weight 3.75, confidence 90%) over ἡμῶν (א (01), Nestle1904); ἡμῶν ᾖ (RP2018 (Byz), TR (KJTR)). [Omission in some witnesses] Adopted 'ᾖ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.65, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)); ην (א (01)). Also normalised 20 orthographic/surface variation(s).
 - *confidence:* Verse confidence 86% = product of 6 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).
 
@@ -600,9 +734,18 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `TR (KJTR)`: Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς Ἐκλεκτῆς. Ἀμήν.
   - `B (03)`: ασπαζεται σε τα τεκνα τησ αδελφησ σου τησ εκλεκτησ
   - `א (01)`: ασπαζετε σε τα τεκνα τησ αδελφησ σου τησ εκλεκτησ
+  - `NA28 (TAGNT)`: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.
+  - `THGNT`: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.
+  - `WH1881`: Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.
+  - `Tisch8`: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.
   - `TCGNT (Byz)`: Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς. Ἀμήν.
   - `PT1904 (Byz)`: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς· ἀμήν.
   - `TR-Scrivener (1894)`: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς. ἀμήν.
   - `TR-Boyd (Elz/Scr/Steph)`: Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς. Ἀμήν.
+  - `TR-Stephanus (1550)`: Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς Ἐκλεκτῆς. ἀμήν.
+  - `TR-Elzevir (1624)`: ασπαζεται σε τα τεκνα της αδελφης σου της εκλεκτης αμην
+  - `A (02)`: ασπαζεται σε τα τεκνα τησ αδελφησ σου τησ εκλεκτησ
+  - `33`: ασπαζεται σε τα τεκνα της αδελφης σου της εκλεκτης
+  - `Ψ (044)`: ασπαζεται σε τα τεκνα της αδελφης σου της εκλεκτης
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Ἀσπάζεταί' [B (03), SRGNT, SBLGNT, Nestle1904, RP2018 (Byz), TR (KJTR), BHP] (weight 5.97, confidence 99%) over ασπαζετε (א (01)). [Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over Ἀμήν (RP2018 (Byz), TR (KJTR)). Also normalised 6 orthographic/surface variation(s).
 - *confidence:* Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).

@@ -1,6 +1,6 @@
 # Job 32 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:15Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:28Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 32:1 runs into its neighbour across the anchor's division between 31:40 and 32:1; re-divided there
@@ -85,6 +85,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 33:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 33:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:16 kept in its own chapter (stronger match to its own reference verse)
@@ -103,6 +104,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 33:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 33:32 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:33 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: verse 32:1 runs into its neighbour across the anchor's division between 31:40 and 32:1; re-divided there
 - 1st1K-LXX: 31:1 kept in its own chapter (stronger match to its own reference verse)
@@ -152,10 +154,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 33:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:16 kept in its own chapter (stronger match to its own reference verse)
@@ -164,6 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 33:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:20 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:24 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:25 kept in its own chapter (stronger match to its own reference verse)
@@ -172,6 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 33:28 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:29 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:31 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:33 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): verse 32:1 runs into its neighbour across the anchor's division between 31:40 and 32:1; re-divided there
 - Swete (B/A/א): 31:1 kept in its own chapter (stronger match to its own reference verse)
@@ -221,10 +227,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 33:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:16 kept in its own chapter (stronger match to its own reference verse)
@@ -233,6 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 33:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:25 kept in its own chapter (stronger match to its own reference verse)
@@ -241,6 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 33:28 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:31 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:33 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): verse 32:17 runs into its neighbour across the anchor's division between 32:17 and 32:18; re-divided there
 - LXX-Orthodox (Οʹ): 31:1 kept in its own chapter (stronger match to its own reference verse)
@@ -268,6 +278,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 31:23 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 31:24 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 31:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 31:26 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 31:27 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 31:28 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 31:29 kept in its own chapter (stronger match to its own reference verse)
@@ -361,7 +372,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ῥάμ,` over `Ῥὰμ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Αὐσείτιδος` over `Αὐσίτιδος` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Κυρίου.` over `Κυρίου·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βουζείτης / Βουζίτης`, `Αὐσείτιδος / Αὐσίτιδος` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Job 32:3
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -372,7 +382,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἐλιοῦς` over `Ἐλους` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ὑπέμεινεν` over `ὑπέμεινε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἰώβ,` over `Ἰὼβ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ὑπέμεινεν / ὑπέμεινε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 32:5
 - **Apparatus:** `Ἐλιοῦς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
@@ -387,7 +396,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἰμι` over `εὶμι` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `πρεσβύτεροι·` over `πρεσβύτεροι,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἡσύχασα,` over `ἡσύχασα` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βουζείτης εἶπεν / Βουζίτης εἶπε·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation; Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Job 32:7
 - **Apparatus:** `οὐκ οἴδασιν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **οἴδασι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -410,7 +418,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `σοφοί,` over `σοφοὶ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οὐδ᾽` over `οὐδʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `οἴδασιν` over `οἴδασι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἰσιν / εἰσι`, `οἴδασιν / οἴδασι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 32:10
 - *Disregarded Surface Variant:* kept `διὸ` over `Διὸ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*

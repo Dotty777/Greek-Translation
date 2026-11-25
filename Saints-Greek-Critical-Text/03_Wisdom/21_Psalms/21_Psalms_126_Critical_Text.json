@@ -7,7 +7,7 @@
   "usfm_code": "PSA",
   "chapter": 126,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:11:35Z",
+  "updated_at": "2026-11-25T00:07:29Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -48,7 +48,6 @@
     "Swete (B/A/א): 127:4 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 127:5 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 127:6 kept in its own chapter (stronger match to its own reference verse)",
-    "Swete (B/A/א): 126:6 folded into verse 1 (the reference prints these words there)",
     "LXX-Orthodox (Οʹ): 125:1 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 125:2 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 125:3 kept in its own chapter (stronger match to its own reference verse)",
@@ -106,7 +105,7 @@
       "id": 21549,
       "verse": 1,
       "critical_text": "ᾨδὴ τῶν ἀναβαθμῶν. Ἐὰν μὴ Κύριος οἰκοδομήσῃ οἶκον, εἰς μάτην ἐκοπίασαν οἱ οἰκοδομοῦντες αὐτόν· ἐὰν μὴ Κύριος φυλάξῃ πόλιν, εἰς μάτην ἠγρύπνησεν ὁ φυλάσσων.",
-      "confidence": 0.28,
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "ᾨδὴ τῶν ἀναβαθμῶν. Ἐὰν μὴ Κύριος οἰκοδομήσῃ οἶκον, εἰς μάτην ἐκοπίασαν οἱ οἰκοδομοῦντες αὐτόν· ἐὰν μὴ Κύριος φυλάξῃ πόλιν, εἰς μάτην ἠγρύπνησεν ὁ φυλάσσων.",
@@ -121,52 +120,6 @@
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
-        {
-          "slot_index": 0,
-          "lemma": "ᾨδὴ",
-          "lemma_witnesses": [
-            "Swete-Amicarelli",
-            "1st1K-LXX",
-            "Swete (B/A/א)",
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "variants": [
-            {
-              "reading": "Ὠδὴ",
-              "adopt_text": "Ὠδὴ",
-              "witnesses": [
-                "Sixtine/Brenton"
-              ],
-              "weight_sum": 0.84
-            }
-          ],
-          "note": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ᾨδὴ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ὠδὴ (Sixtine/Brenton).",
-          "word_index": 0,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "inflection or spelling (same stem)",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "ωδηι",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        },
         {
           "slot_index": 13,
           "lemma": "αὐτόν",
@@ -216,6 +169,17 @@
       ],
       "disregarded": [
         {
+          "slot_index": 0,
+          "kept_form": "ᾨδὴ",
+          "disregarded_forms": [
+            "Ὠδὴ"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)"
+        },
+        {
           "slot_index": 12,
           "kept_form": "οἰκοδομοῦντες",
           "disregarded_forms": [
@@ -239,12 +203,12 @@
           "reason": "Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant"
         }
       ],
-      "rationale": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ᾨδὴ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ὠδὴ (Sixtine/Brenton). [Omission in some witnesses] Adopted 'αὐτόν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).",
+      "rationale": "[Omission in some witnesses] Adopted 'αὐτόν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -290,14 +254,14 @@
               "weight_sum": 0.84
             },
             {
-              "reading": "ὑμῖν ἐστι τὸ ὀρθρίζειν, ἐγείρεσθαι",
+              "reading": "ἐστι τὸ ὀρθρίζειν, ἐγείρεσθαι",
               "witnesses": [
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'ἐστὶν ὑμῖν τοῦ ὀρθρίζειν ἐγείρεσθαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὑμῖν ἐστι τὸ ὀρθρίζειν ἐγείρεσθε (Sixtine/Brenton). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "note": "[Variation unit spanning several words] Adopted 'ἐστὶν ὑμῖν τοῦ ὀρθρίζειν ἐγείρεσθαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὑμῖν ἐστι τὸ ὀρθρίζειν ἐγείρεσθε (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 2,
           "word_count": 5,
           "kind": "word",
@@ -589,7 +553,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'καταισχυνθήσεται' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καταισχυνθήσονται (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'καταισχυνθήσεται' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καταισχυνθήσονται (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 9,
           "word_count": 1,
           "kind": "word",

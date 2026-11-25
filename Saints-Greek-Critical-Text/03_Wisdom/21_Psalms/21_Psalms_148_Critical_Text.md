@@ -1,6 +1,6 @@
 # Psalms 148 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:37Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:29Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 147:1 kept in its own chapter (stronger match to its own reference verse)
@@ -67,6 +67,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 149:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 149:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 149:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 149:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 147:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 147:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 147:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 147:4 kept in its own chapter (stronger match to its own reference verse)
@@ -83,7 +85,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 149:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 149:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 149:8 kept in its own chapter (stronger match to its own reference verse)
-- Swete (B/A/א): 147:11 folded into verse 1 (the reference prints these words there)
+- Swete (B/A/א): 149:9 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 147:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 147:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 147:3 kept in its own chapter (stronger match to its own reference verse)
@@ -107,7 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section II — Continuous Greek Critical Text
 
-**1** Ἁλληλουιά· Ἀγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
+**1** Ἁλληλουιά· Ἁγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
 **2** αἰνεῖτε αὐτόν, πάντες οἱ ἄγγελοι αὐτοῦ· αἰνεῖτε αὐτόν, πᾶσαι αἱ δυνάμεις αὐτοῦ.
 **3** αἰνεῖτε αὐτόν, ἥλιος καὶ σελήνη· αἰνεῖτε αὐτόν, πάντα τὰ ἄστρα καὶ τὸ φῶς.
 **4** αἰνεῖτε αὐτόν, οἱ οὐρανοὶ τῶν οὐρανῶν, καὶ τὸ ὕδωρ τὸ ὑπεράνω τῶν οὐρανῶν.
@@ -127,8 +129,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 148:1
-- *Disregarded Surface Variant:* kept `Ἁλληλουιά·` over `Αλληλουιά·`, `Ἀλληλούϊα·` (Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `Ἀγγαίου` over `Ἁγγαίου` (1st1K-LXX, Swete-Amicarelli) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `Ἁλληλουιά·` over `Ἀλληλούϊα·` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `Ἁγγαίου` over `Ἀγγαίου` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `κύριον` over `Κύριον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 148:2
@@ -152,7 +154,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 148:5
 - *Disregarded Surface Variant:* kept `αἰνεσάτωσαν` over `αγεσάτωσαν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `om.` over `καὶ τὸ ὕδωρ τὸ ὑπεράνω τῶν οὐρανῶν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 148:6
 - *Disregarded Surface Variant:* kept `ἔστησεν` over `Ἔστησεν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -170,7 +171,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 148:9
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **οἱ** LXX-Orthodox (Οʹ)
-- *Disregarded Surface Variant:* kept `om.` over `Ἁλληλουιά Ἁγγαίου καὶ Ζαχαρίου` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `τὰ` over `Τὰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 148:10
@@ -200,10 +200,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
 ### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ἁλληλουιά· Ἀγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
+- **Critical Text:** Ἁλληλουιά· Ἁγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
   - `Swete-Amicarelli`: Ἁλληλουιά· Ἁγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
   - `1st1K-LXX`: Ἁλληλουιά· Ἁγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
-  - `Swete (B/A/א)`: Αλληλουιά· Ἀγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
+  - `Swete (B/A/א)`: Ἁλληλουιά· Ἁγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
   - `Sixtine/Brenton`: Ἀλληλούϊα· Ἀγγαίου καὶ Ζαχαρίου. Αἰνεῖτε τὸν Κύριον ἐκ τῶν οὐρανῶν, αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
   - `LXX-Orthodox (Οʹ)`: Ἀλληλούϊα· Ἀγγαίου καὶ Ζαχαρίου. ΑΙΝΕΙΤΕ τὸν Κύριον ἐκ τῶν οὐρανῶν· αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention).
@@ -275,10 +275,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** τὰ ὄρη καὶ πάντες βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
   - `Swete-Amicarelli`: τὰ ὄρη καὶ πάντες βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
   - `1st1K-LXX`: τὰ ὄρη καὶ πάντες βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
-  - `Swete (B/A/א)`: Ἁλληλουιά· Ἁγγαίου καὶ Ζαχαρίου. τὰ ὄρη καὶ πάντες βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
+  - `Swete (B/A/א)`: τὰ ὄρη καὶ πάντες βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
   - `Sixtine/Brenton`: Τὰ ὄρη καὶ πάντες βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
   - `LXX-Orthodox (Οʹ)`: τὰ ὄρη καὶ πάντες οἱ βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι·
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** τὰ θηρία καὶ πάντα τὰ κτήνη, ἑρπετὰ καὶ πετεινὰ πτερωτά·

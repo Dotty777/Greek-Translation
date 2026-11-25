@@ -1,6 +1,6 @@
 # Daniel 02 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:50Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:42Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,18 +18,18 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **OG-Daniel** | Old Greek (Septuagint) Daniel — Swete / First1KGreek (tlg056) | Tier 1 | CC BY-SA 4.0 | Old Greek Septuagint Daniel (Apparatus Witness alongside Theodotion) |
 | **LXX-Orthodox (Οʹ)** | Orthodox Ecclesiastical Septuagint (Η Παλαιά Διαθήκη κατά τους Εβδομήκοντα) | Tier 3 | Public Domain | Greek Orthodox Ecclesiastical / Majority Septuagint |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 3:9 runs into its neighbour across the anchor's division between 3:8 and 3:9; re-divided there
@@ -198,6 +198,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 3:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:24 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:25 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:26 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:27 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:28 kept in its own chapter (stronger match to its own reference verse)
@@ -214,6 +215,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 3:39 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:40 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:41 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:42 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:43 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:44 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:45 kept in its own chapter (stronger match to its own reference verse)
@@ -238,6 +240,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 3:64 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:65 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:66 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:67 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:68 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:69 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:70 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:73 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:74 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:75 kept in its own chapter (stronger match to its own reference verse)
@@ -311,6 +317,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 3:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:24 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:27 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:28 kept in its own chapter (stronger match to its own reference verse)
@@ -327,6 +334,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 3:39 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:40 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:41 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:42 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:43 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:44 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:45 kept in its own chapter (stronger match to its own reference verse)
@@ -351,6 +359,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 3:64 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:65 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:66 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:67 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:68 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:69 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:70 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:73 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:74 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:75 kept in its own chapter (stronger match to its own reference verse)
@@ -376,6 +388,94 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 3:95 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:96 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:97 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: verse 3:40 runs into its neighbour across the anchor's division between 3:39 and 3:40; re-divided there
+- OG-Daniel: verse 3:42 runs into its neighbour across the anchor's division between 3:41 and 3:42; re-divided there
+- OG-Daniel: 1:1 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 1:7 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 1:12 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 1:21 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:3 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:5 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:6 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:7 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:8 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:10 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:11 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:14 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:15 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:16 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:17 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:19 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:20 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:26 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:27 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:28 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:29 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:30 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:31 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:32 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:33 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:34 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:35 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:36 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:37 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:38 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:39 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:40 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:41 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:42 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:43 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:44 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:45 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:47 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:48 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:49 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:50 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:51 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:52 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:53 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:54 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:55 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:56 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:57 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:58 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:59 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:60 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:61 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:62 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:63 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:64 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:65 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:66 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:67 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:68 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:69 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:70 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:71 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:72 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:73 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:74 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:75 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:76 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:77 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:78 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:79 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:80 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:81 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:82 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:83 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:84 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:85 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:86 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:87 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:88 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:89 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:90 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:91 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:92 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:93 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:94 kept in its own chapter (stronger match to its own reference verse)
+- OG-Daniel: 3:95 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): verse 3:9 runs into its neighbour across the anchor's division between 3:8 and 3:9; re-divided there
 - LXX-Orthodox (Οʹ): verse 3:23 runs into its neighbour across the anchor's division between 3:23 and 3:24; re-divided there
 - LXX-Orthodox (Οʹ): 1:1 kept in its own chapter (stronger match to its own reference verse)
@@ -422,6 +522,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 3:21 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:22 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:23 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:24 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:25 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:26 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:27 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:28 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:29 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:30 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -482,14 +589,22 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Daniel 2:1
-- **Apparatus:** `ἠνυπνιάσθη` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐνυπνιάσθη** Sixtine/Brenton ; **Ναβουχοδονόσορ ἐνυπνιάσθη** LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **Καὶ** OG-Daniel
+- **Apparatus:** `ἠνυπνιάσθη` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐνυπνιάσθη** Sixtine/Brenton ; **Ναβουχοδονόσορ ἐνυπνιάσθη** LXX-Orthodox (Οʹ) ; **om.** OG-Daniel *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ἐνύπνιον,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **συνέβη εἰς ὁράματα** OG-Daniel
+- **Apparatus:** `ἐξέστη τὸ πνεῦμα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐνύπνια ἐμπεσεῖν τὸν βασιλέα καὶ ταραχθῆναι ἐν τῷ ἐνυπνίῳ** OG-Daniel
 - *Disregarded Surface Variant:* kept `βασιλείας` over `βασιλείας,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ναβουχοδονοσὸρ` over `Ναβουχοδονόσορ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 
 ### Daniel 2:2
+- **Apparatus:** `εἶπεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπέταξεν** OG-Daniel
+- **Apparatus:** `καλέσαι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἰσενεχθῆναι** OG-Daniel
+- **Apparatus:** `καὶ τοὺς Χαλδαίους τοῦ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τῶν Χαλδαίων** OG-Daniel
+- **Apparatus:** `ἦλθαν καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **παραγενόμενοι** OG-Daniel
+- **Apparatus:** `ἐνώπιον τοῦ βασιλέως.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **παρὰ τῷ βασιλεῖ** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐπαοιδοὺς` over `ἐπαοιδοὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `μάγους` over `μάγους,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -498,39 +613,61 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἦλθαν` over `ἦλθαν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:3
-- **Apparatus:** `Ἠνυπνιάσθην` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἑνυπνιάσθην** Sixtine/Brenton *(inflection or spelling (same stem))*
+- **Apparatus:** `Ἠνυπνιάσθην` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἑνυπνιάσθην** Sixtine/Brenton ; **Ἐυύπνιον ἑώρακα** OG-Daniel *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ἐξέστη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐκινήθη μου** OG-Daniel
+- **Apparatus:** `μου τοῦ γνῶναι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπιγνῶναι οὗυ θέλω** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλεύς` over `βασιλεὺς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μου` over `μου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:4
+- **Apparatus:** `τῷ βασιλεῖ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρὸς τὸν βασιλέα** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **Κύριε** OG-Daniel
+- **Apparatus:** `εἰς τοὺς αἰῶνας` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὸν αἰῶνα** OG-Daniel
+- **Apparatus:** `σὺ εἰπὸν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀνάγγειλον** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σου** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἡμεῖς σοι φράσομεν** OG-Daniel
+- **Apparatus:** `ἀναγγελοῦμεν.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **αὐτοῦ.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Συριστί` over `Συριστὶ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Βασιλεῦ,` over `βασιλεῦ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ζῆθι·` over `ζῆθι` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σὺ` over `σύ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `παισίν` over `παισί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `παισίν / παισί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:5
-- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **αὐτοῦ,** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἀπεκρίθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀποκριθεὶς δὲ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἶπε** OG-Daniel
+- **Apparatus:** `Ὁ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **διότι** OG-Daniel
+- **Apparatus:** `γνωρίσητέ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀπαγγείλητέ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπʼ ἀληθείας** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τούτου** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **αὐτοῦ,** LXX-Orthodox (Οʹ) ; **δηλώσητέ μοι, παραδειγματισθήσεσθε, καὶ ἀναληφθήσεται ὑμῶν τὰ ὑπάρχοντα** OG-Daniel
+- **Apparatus:** `ἀπωλίαν ἔσεσθε, καὶ οἱ οἶκοι ὑμῶν διαρπαγήσονται.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὸ βασιλικόν.** OG-Daniel
 - *Disregarded Surface Variant:* kept `ἀπεκρίθη` over `Ἀπεκρίθη` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Χαλδαίοις` over `Χαλδαίοις,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ὁ` over `ὁ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀπωλίαν` over `ἀπώλειαν` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπωλίαν / ἀπώλειαν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Daniel 2:6
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **διασαφήσητέ μοι** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τούτου** OG-Daniel
+- **Apparatus:** `αὐτοῦ γνωρίσητέ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀναγγείλητε, λήψεσθε δόματα παντοῖα καὶ δοξασθήσεσθε ὑπʼ ἐμοῦ· δηλώσατέ** OG-Daniel
+- **Apparatus:** `δόματα καὶ δωρεὰς καὶ τιμὴν πολλὴν λήμψεσθε παρ᾽ ἐμοῦ· πλὴν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `τὴν σύγκρισιν αὐτοῦ ἀπαγγείλατέ μοι.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κρίνατε.** OG-Daniel
 - *Disregarded Surface Variant:* kept `ἐὰν` over `ἐὰυ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `λήμψεσθε` over `λήψεσθε` (Sixtine/Brenton) — *Nasal spelling (λημψ- / ληψ-)*
 - *Disregarded Surface Variant:* kept `παρ᾽` over `παρʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `λήμψεσθε / λήψεσθε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Nasal spelling (λημψ- / ληψ-)*
 
 ### Daniel 2:7
-- **Apparatus:** `αὐτοῦ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **om.** Sixtine/Brenton *(omission / addition)*
+- **Apparatus:** `δεύτερον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δὲ ἐκ δευτέρου λέγοντες Βασιλεῦ, τὸ ὅραμα εἰπόν,** OG-Daniel
+- **Apparatus:** `εἶπαν Ὁ βασιλεὺς εἰπάτω τὸ ἐνύπνιον τοῖς παισὶν αὐτοῦ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελοῦμεν.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **οἱ παῖδές σου κρινοῦσι πρὸς ταῦτα.** OG-Daniel
+- **Apparatus:** `αὐτοῦ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **om.** Sixtine/Brenton OG-Daniel *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἀπεκρίθησαν` over `Ἀπεκρίθησαν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -540,28 +677,51 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐνύπνιον` over `ἐυύπνιον` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 
 ### Daniel 2:8
+- **Apparatus:** `ἀπεκρίθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἶπεν αὐτοῖς** OG-Daniel
+- **Apparatus:** `καὶ εἶπεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ἐγὼ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `εἴδετε` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἴδετε** Sixtine/Brenton ; **ἑωράκατε** OG-Daniel *(inflection or spelling (same stem))*
+  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
+  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ῥῆμα.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρᾶγμα· καθάπερ οὖν προστέταχα, οὕτως ἔσται.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλεὺς` over `βασιλεὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπεν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἐπ᾽` over `ἐπʼ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐγὼ` over `ἐγὼ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐξαγοράζετε,` over `ἐξαγοράζετε·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `εἴδετε` over `ἴδετε,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ῥῆμα` over `άῆμα` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 
 ### Daniel 2:9
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **καὶ** Sixtine/Brenton *(omission / addition)*
+- **Apparatus:** `οὖν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μὴ** OG-Daniel
+- **Apparatus:** `μὴ ἀναγγείλητέ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀπαγγείλητέ** OG-Daniel
+- **Apparatus:** `οἶδα ὅτι ῥῆμα ψευδὲς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπʼ ἀληθείας** OG-Daniel
+- **Apparatus:** `διεφθαρμένον συνέθεσθε εἰπεῖν ἐνώπιόν μου,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὴν τούτου σύγκρισιν δηλώσητε, θανάτῳ περιπεσεῖσθε· συνείπασθε γὰρ λόγους ψευδεῖς ποιήσασθαι ἐπʼ ἐμοῦ,** OG-Daniel
+- **Apparatus:** `οὗ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἂν** OG-Daniel
+- **Apparatus:** `παρέλθῃ·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀλλοιωθῇ. νῦν οὗν ἐὰν** OG-Daniel
+- **Apparatus:** `ἐνύπνιόν μου εἴπατέ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δῆμα εἵπητέ** OG-Daniel
+- **Apparatus:** `καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὃ τὴν νύκτα ἑώρακα,** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **καὶ** Sixtine/Brenton OG-Daniel *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `σύγκρισιν αὐτοῦ ἀναγγελεῖτέ μοι.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τούτου κρίσιν δηλώσητε.** OG-Daniel
 - *Disregarded Surface Variant:* kept `ἐὰν` over `Ἐὰν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οὖν` over `οὗν` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `εἴπατέ` over `εἵπατέ` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Daniel 2:10
-- **Apparatus:** `τοιοῦτο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τοιοῦτον** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `ἐνώπιον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπὶ** OG-Daniel
+- **Apparatus:** `καὶ λέγουσιν Οὐκ ἔστιν ἄνθρωπος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὅτι Οὐδεὶς τῶν** OG-Daniel
+- **Apparatus:** `ξηρᾶς ὅστις τὸ ῥῆμα τοῦ βασιλέως` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **γῆς** OG-Daniel
+- **Apparatus:** `γνωρίσαι, καθότι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἰπεῖν τῷ βασιλεῖ ὃ ἑώρακε, καθάπερ σὺ ἐρωτᾷς, καὶ** OG-Daniel
+- **Apparatus:** `μέγας` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ἄρχων ῥῆμα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πᾶς δυνάστης** OG-Daniel
+- **Apparatus:** `τοιοῦτο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τοιοῦτον** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **τοιοῦτο πρᾶγμα** OG-Daniel *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ἐπαοιδόν,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πάντα σοφὸν καὶ** OG-Daniel
 - *Disregarded Surface Variant:* kept `ἀπεκρίθησαν` over `Ἀπεκρίθησαν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλέως` over `βασιλέως,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λέγουσιν` over `λέγουσιν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -571,9 +731,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐπαοιδόν,` over `ἐπαοιδὸν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Daniel 2:11
-- **Apparatus:** `ἢ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **οἱ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+- **Apparatus:** `ὅτι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `ὁ βασιλεὺς ἐπερωτᾷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ζητεῖς, βασιλεῦ,** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐστι** OG-Daniel
+- **Apparatus:** `ἕτερος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπίδοξος, καὶ οὐδείς ἐστιν ὃς δηλώσει ταῦτα τῷ βασιλεῖ, εἰ μὴ τι ἄγγελος, οὗ** OG-Daniel
+- **Apparatus:** `ὃς ἀναγγελεῖ αὐτὸν ἐνώπιον τοῦ βασιλέως ἀλλ᾽ ἢ θεοί, ὧν οὐκ ἔστιν ἡ κατοικία` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **κατοικητήριον** OG-Daniel ; **ὃς ἀναγγελεῖ αὐτὸν ἐνώπιον τοῦ βασιλέως, ἀλλ' οἱ θεοί, ὧν οὐκ ἔστιν ἡ κατοικία** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἢ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **οἱ** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **om.** OG-Daniel *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὅθεν οὐκ ἐνδέχεται γενέσθαι καθάπερ οἴει.** OG-Daniel
 - *Disregarded Surface Variant:* kept `ὅτι` over `Ὅτι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐπερωτᾷ` over `ἐπερωτᾷ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `βασιλέως` over `βασιλέως,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -582,44 +748,63 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ὧν` over `ὦν` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Daniel 2:12
+- **Apparatus:** `βασιλεὺς ἐν θυμῷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **βασιεὺς στυγνὸς γενόμενος** OG-Daniel
+- **Apparatus:** `ὀργῇ εἶπεν ἀπολέσαι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **περίλυπος προσέταξεν ἐξαγαγεῖν** OG-Daniel
+- **Apparatus:** `Βαβυλῶνος.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τῆς Βαβυλωνίας.** OG-Daniel
 - *Disregarded Surface Variant:* kept `τότε` over `Τότε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἰπεν` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἀπολέσαι` over `ἀπὸλέσαι` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Daniel 2:13
+- **Apparatus:** `τὸ δόγμα ἐξῆλθεν, καὶ οἱ σοφοὶ ἀπεκτέννοντο· καὶ ἐζήτησαν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐδογματίσθη πάντας ἀποκτεῖναι· ἐζητήθη δὲ ὁ** OG-Daniel
+- **Apparatus:** `τοὺς φίλους` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πάντες οἱ μετʼ** OG-Daniel
+- **Apparatus:** `ἀνελεῖν.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **χάριν τοῦ συναπολέσθαι** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐξῆλθεν,` over `ἐξῆλθε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξῆλθεν, / ἐξῆλθε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:14
+- **Apparatus:** `ἀπεκρίθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἶπε** OG-Daniel
+- **Apparatus:** `τῷ Ἀριὼχ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἣν εἶχεν Ἀριώχῃ** OG-Daniel
+- **Apparatus:** `ὃς ἐξῆλθεν ἀναιρεῖν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ᾧ προσέταξεν ἐξαγαγεῖν** OG-Daniel
+- **Apparatus:** `σοφοὺς Βαβυλῶνος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σοφιστὰς τῆς Βαβυλωνίας,** OG-Daniel
 - *Disregarded Surface Variant:* kept `τότε` over `Τότε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Βαβυλῶνος` over `Βαβυλῶνος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:15
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ὁ Ἀριὼχ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ ἐπυνθάνετο αὐτοῦ λέγων** OG-Daniel
+- **Apparatus:** `ἐξῆλθεν ἡ γνώμη ἡ ἀναιδὴς ἐκ προσώπου` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δογματίζεται πικρῶς παρὰ** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **ὁ Ἀριὼχ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `Ἀριὼχ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `Ἀριὼχ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **ἐσήμανεν ὁ Ἀριώχης** OG-Daniel *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἄρχων` over `ἄρχων` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐγνώρισεν` over `ἐγνώρισε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `τὸ` over `τὸ.` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐγνώρισεν / ἐγνώρισε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:16
-- **Apparatus:** `ἠξίωσεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **εἰσῆλθε καὶ ἠξίωσε** LXX-Orthodox (Οʹ)
-- **Apparatus:** `ἀναγγείλῃ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἀναγγελῇ** Sixtine/Brenton *(inflection or spelling (same stem))*
+- **Apparatus:** `καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ό δὲ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli OG-Daniel **]** **εἰσῆλθε καὶ** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἠξίωσεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἰσἡλθε ταχέως πρὸς** OG-Daniel
+- **Apparatus:** `ὅπως χρόνον δῷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ ἠξίωσεν ἵνα δοθῇ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **χρονος παρὰ τοῦ βασιλέως,** OG-Daniel
+- **Apparatus:** `τὴν σύγκρισιν αὐτοῦ ἀναγγείλῃ τῷ βασιλεῖ.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δηλώσῃ πάντα ἐπὶ τοῦ βασιλέως.** OG-Daniel
+- **Apparatus:** `ἀναγγείλῃ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἀναγγελῇ** Sixtine/Brenton ; **τοῦ** OG-Daniel *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἠξίωσεν` over `ἠξίωσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:17
-- **Apparatus:** `ἐγνώρισεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `Καὶ εἰσῆλθεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **Τότε ἀπελθὼν** OG-Daniel
+- **Apparatus:** `καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `τῷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `τῷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ἐγνώρισεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **πάντα,** OG-Daniel *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐγνώρισε** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **ἐγνώρισε** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `εἰσῆλθεν` over `εἰσῆλθε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -628,18 +813,24 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Μεισαὴλ` over `Μισαὴλ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἀζαρίᾳ` over `Ἀζαρία` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ῥῆμα.` over `ῥῆμα` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἰσῆλθεν / εἰσῆλθε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Μεισαὴλ / Μισαὴλ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Daniel 2:18
+- **Apparatus:** `οἰκτειρμοὺς ἐζήτουν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **παρήγγειλε νηστείαν καὶ δέησιν καὶ τιμαωρίαν ζητῆσαι** OG-Daniel
+- **Apparatus:** `θεοῦ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κυρίου** OG-Daniel
+- **Apparatus:** `οὐρανοῦ ὑπὲρ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὑψίστου περὶ** OG-Daniel
+- **Apparatus:** `ἂν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ἀπόλωνται` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐκδοθῶσι** OG-Daniel
+- **Apparatus:** `φίλοι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μετʼ** OG-Daniel
+- **Apparatus:** `μετὰ τῶν ἐπιλοίπων σοφῶν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἰς ἀπώλειαν ἄμα τοῖς σοφισταῖς** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οἰκτειρμοὺς` over `οἰκτιρμοὺς` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `θεοῦ` over `Θεοῦ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ὑπὲρ` over `ὑπέρ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `οἰκτειρμοὺς / οἰκτιρμοὺς` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Daniel 2:19
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **καὶ εἶπεν** Sixtine/Brenton *(omission / addition)*
+- **Apparatus:** `τῆς νυκτὸς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐν αὐτῇ τῇ νυκτὶ** OG-Daniel
+- **Apparatus:** `ἀπεκαλύφθη. καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τοῦ βασιλέως ἐξεφάνθη εὐσήμως. τότε Δανιὴλ** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) OG-Daniel **]** **καὶ εἶπεν** Sixtine/Brenton *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `τότε` over `Τότε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -647,52 +838,85 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εὐλόγησεν` over `εὐλόγησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `θεὸν` over `Θεὸν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Δανιὴλ` over `Δανιὴλ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εὐλόγησεν / εὐλόγησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:20
-- **Apparatus:** `καὶ εἶπεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **om.** Sixtine/Brenton *(omission / addition)*
+- **Apparatus:** `καὶ εἶπεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **om.** Sixtine/Brenton ; **Ἔσται** OG-Daniel *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `θεοῦ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κυρίου τοῦ μεγάλου** OG-Daniel
+- **Apparatus:** `ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἰς τὸν αἰῶνα,** OG-Daniel
+- **Apparatus:** `σύνεσις` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μεγαλωσύνη** OG-Daniel
 - *Disregarded Surface Variant:* kept `θεοῦ` over `Θεοῦ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν·` over `ἐστι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν· / ἐστι·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:21
+- **Apparatus:** `καθιστᾷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μεθιστῶν** OG-Daniel
+- **Apparatus:** `μεθιστᾷ,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καθιστῶν,** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σοφοῖς** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ σύνεσιν** OG-Daniel
+- **Apparatus:** `σοφοῖς καὶ φρόνησιν τοῖς εἰδόσιν σύνεσιν·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐν ἐπιστήμῃ οὖσιν·** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλεῖς` over `βασιλεῖς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σοφοῖς` over `σοφοῖς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `εἰδόσιν` over `εἰδόσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `σύνεσιν·` over `σύνεσιν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἰδόσιν / εἰδόσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:22
+- **Apparatus:** `αὐτὸς ἀποκαλύπτει` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀνακαλύπτων τὰ** OG-Daniel
+- **Apparatus:** `ἀπόκρυφα,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σκοτεινὰ καὶ** OG-Daniel
+- **Apparatus:** `τὸ φῶς μετ᾽ αὐτοῦ ἐστιν.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὰ ἐν τῷ φωτί, καὶ παρʼ αὐτῷ κατάλυσις.** OG-Daniel
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐστιν.` over `ἐστι·` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν. / ἐστι·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:23
-- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **νῦν** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ὁ θεὸς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κύριε** OG-Daniel
+- **Apparatus:** `δύναμιν δέδωκάς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **φρόνησιν ἔδωκάς** OG-Daniel
+- **Apparatus:** `δέδωκάς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἔδωκάς** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli OG-Daniel **]** **νῦν** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἐγνώρισάς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **νῦν ἐσήμανάς** OG-Daniel
+- **Apparatus:** `ἃ ἠξιώσαμεν παρὰ σοῦ, καὶ τὸ ὅραμα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὅσα ἠξίωσα,** OG-Daniel
+- **Apparatus:** `βασιλέως ἐγνώρισάς μοι.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δηλῶσαι τῷ βασιλεῖ πρὸς ταῦτα.** OG-Daniel
 - *Disregarded Surface Variant:* kept `σοί,` over `Σοὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μου,` over `μου` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:24
+- **Apparatus:** `καὶ ἦλθεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **εἰσελθὼν δὲ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὸν** OG-Daniel
+- **Apparatus:** `ὃν κατέστησεν ὁ βασιλεὺς ἀπολέσαι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὸν κατασταθέντα ὑπὸ τοῦ βασιλέως ἀποκτεῖναι πάντας** OG-Daniel
+- **Apparatus:** `σοφοὺς Βαβυλῶνος, καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σοφιστὰς τῆς Βαβυλωνίας** OG-Daniel
+- **Apparatus:** `σοφοὺς Βαβυλῶνος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μὲν σοφιστὰς τῆς Βαβυλωνίας** OG-Daniel
+- **Apparatus:** `ἐνώπιον τοῦ βασιλέως,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρὸς τὸν βασιλέα,** OG-Daniel
+- **Apparatus:** `τὴν σύγκρισιν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἕκαστα** OG-Daniel
+- **Apparatus:** `ἀναγγελῶ.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δηλώσω.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἦλθεν` over `ἦλθε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἀριώχ,` over `Ἀριὼχ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αὐτῷ` over `αὐτῷ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Τοὺς` over `τοὺς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἦλθεν / ἦλθε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:25
+- **Apparatus:** `ἐν σπουδῇ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κατὰ σπουδὴν** OG-Daniel
+- **Apparatus:** `ἐνώπιον τοῦ βασιλέως` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρὸς τὸν βασιλέα** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὅτι** OG-Daniel
+- **Apparatus:** `ἄνδρα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄνθρωπον σοφὸν** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τῆς αἰχμαλωσίας** OG-Daniel
+- **Apparatus:** `αἰχμαλωσίας τῆς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ὅστις τὸ σύγκριμα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὃς** OG-Daniel
+- **Apparatus:** `ἀναγγελεῖ.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δηλώσει ἕκαστα.** OG-Daniel
 - *Disregarded Surface Variant:* kept `εἰσήγαγεν` over `εἰσήγαγε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `βασιλέως` over `βασιλέως,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτῷ` over `αὐτῷ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Εὕρηκα` over `εὕρηκα` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀναγγελεῖ.` over `ἀναγγελεῖ` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἰσήγαγεν / εἰσήγαγε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:26
+- **Apparatus:** `καὶ ἀπεκρίθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀποκριθεὶς δὲ** OG-Daniel
+- **Apparatus:** `καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `οὗ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπικαλουμένῳ δὲ Χαλδαιστὶ Βαλτασάρ Δυνήσῃ δηλῶσαί μοι** OG-Daniel
+- **Apparatus:** `ὄνομα Βαλτασάρ Εἰ δύνασαί μοι ἀναγγεῖλαι τὸ ἐνύπνιον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὄραμα** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τούτου** OG-Daniel
+- **Apparatus:** `αὐτοῦ;` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλεὺς` over `βασιλεὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -700,25 +924,33 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Βαλτασάρ` over `Βαλτάσαρ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Εἰ` over `εἰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἶδον` over `ἴδον`, `ἴδον,` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א), Swete-Amicarelli) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:27
-- **Apparatus:** `λέγει` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **εἶπε** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `καὶ ἀπεκρίθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐκφωνήσας δὲ ὁ** OG-Daniel
+- **Apparatus:** `ἐνώπιον τοῦ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπὶ** OG-Daniel
+- **Apparatus:** `λέγει` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **εἶπε** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **om.** OG-Daniel *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `ἐρωτᾷ` Swete-Amicarelli **]** **ἐπερωτᾷ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἑώρακεν** OG-Daniel
+- **Apparatus:** `ἐρωτᾷ` Swete-Amicarelli **]** **ἐπερωτᾷ** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **om.** OG-Daniel *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `βασιλεῖ·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **βαασιλεῖ,** LXX-Orthodox (Οʹ)
+- **Apparatus:** `μάγων,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ φαρμακῶν καὶ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `ἀναγγεῖλαι τῷ βασιλεῖ·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἡ δήλωσις·** OG-Daniel ; **ἀναγγεῖλαι τῷ βαασιλεῖ,** LXX-Orthodox (Οʹ)
+- **Apparatus:** `βασιλεῖ·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **βαασιλεῖ,** LXX-Orthodox (Οʹ) ; **om.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλέως` over `βασιλέως,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Τὸ` over `τὸ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐρωτᾷ` over `ἐρωτῷ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the base copy is kept); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `βασιλεῖ·` over `βασιλεῖ` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:28
+- **Apparatus:** `ἢ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ἀποκαλύπτων` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀνακαλύπτων** OG-Daniel
+- **Apparatus:** `καὶ ἐγνώρισεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὃς ἐδήλωσε** OG-Daniel
+- **Apparatus:** `τὸ ἐνύπνιόν σου καὶ αἱ ὁράσεις τῆς κεφαλῆς σου ἐπὶ τῆς κοίτης σου τοῦτό ἐστιν.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
 - *Disregarded Surface Variant:* kept `ἀλλ` over `Bλλ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἢ` over `ἤ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -729,90 +961,124 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἡμερῶν.` over `ἡμερῶν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σου` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐστιν.` over `ἐστι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἐστι`, `ἐγνώρισεν / ἐγνώρισε`, `ἐστιν. / ἐστι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:29
-- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **σύ,** LXX-Orthodox (Οʹ)
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli OG-Daniel **]** **σύ,** LXX-Orthodox (Οʹ)
+- **Apparatus:** `βασιλεῦ, οἱ διαλογισμοί σου ἐπὶ τῆς κοίτης σου ἀνέβησαν τί δεῖ γενέσθαι μετὰ ταῦτα,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ὁ ἀποκαλύπτων` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀνακαλύπτων** OG-Daniel
+- **Apparatus:** `ἐγνώρισέν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐδήλωσέ** OG-Daniel
 - *Disregarded Surface Variant:* kept `βασιλεῦ,` over `βασιλεῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ταῦτα,` over `ταῦτα·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐγνώρισέν` over `ἐγνώρισέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἃ` over `ἄ` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐγνώρισέν / ἐγνώρισέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:30
-- **Apparatus:** `γνωρίσαι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'γνωρίσαι' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+- **Apparatus:** `οὐκ ἐν σοφίᾳ τῇ οὔσῃ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **οὐ παρὰ τὴν σοφίαν τὴν οὗσαν** OG-Daniel
+- **Apparatus:** `παρὰ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὑπὲρ** OG-Daniel
+- **Apparatus:** `ζῶντας` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀνθρώπους** OG-Daniel
+- **Apparatus:** `ἀπεκαλύφθη,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐξεφάνθη,** OG-Daniel
+- **Apparatus:** `γνωρίσαι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) OG-Daniel *(word-order transposition)*
+  - *variant type: transposition:* Units 'γνωρίσαι', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γνωρίσαι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'γνωρίσαι' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **γνωρίσαι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
+  - *variant type: transposition:* Units 'γνωρίσαι', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `γνῷς.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐν γνώσει.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀλλ᾽` over `ἀλλʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `βασιλεῖ,` over `βασιλεῖ` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἵνα` over `ἴνα` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `καὶ ἐμοὶ / κἀμοὶ` (OG-Daniel) — *Apparatus witness, not a variant: Greek crasis (καὶ ἐγώ / κἀγώ type)*
 
 ### Daniel 2:31
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `ἐθεώρεις,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἑώρακας,** OG-Daniel
+- **Apparatus:** `μεγάλη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ ἦν** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μεγάλη σφόδρα,** OG-Daniel
+- **Apparatus:** `ἑστῶσα πρὸ προσώπου` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἑστήκει ἐναντίον** OG-Daniel
+- **Apparatus:** `ὅρασις αὐτῆς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρόσοψις τῆς εἰκόνος** OG-Daniel
 - *Disregarded Surface Variant:* kept `σύ,` over `Σὺ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλεῦ,` over `βασιλεῦ` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ὑπερφερής,` over `ὑπερφερὴς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σου·` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:32
+- **Apparatus:** `εἰκὼν ἧς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ ἦν** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **αὐτῆς ἀπὸ** OG-Daniel
+- **Apparatus:** `αἱ χεῖρες καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `αὐτῆς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
 - *Disregarded Surface Variant:* kept `εἰκὼν` over `Εἰκὼν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Daniel 2:33
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **μέν** Sixtine/Brenton *(omission / addition)*
+- **Apparatus:** `αἱ κνῆμαι σιδηραῖ,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὰ δὲ σκέλη σιδηρᾶ,** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **μέν** Sixtine/Brenton OG-Daniel *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **δέ τι** Sixtine/Brenton ; **τι** LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `σιδηροῦν καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σιδήρου,** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **δέ τι** Sixtine/Brenton OG-Daniel ; **τι** LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `σιδηροῦν` over `σιδηροῦν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:34
-- **Apparatus:** `ἀπεσχίσθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **οὗ ἐτμήθη** LXX-Orthodox (Οʹ)
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **αὐτοὺς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `ἐθεώρεις` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἑώρακας** OG-Daniel
+- **Apparatus:** `ἀπεσχίσθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **οὗ ἐτμήθη** LXX-Orthodox (Οʹ) ; **ὅτου ἐτμήθη** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **αὐτοὺς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἐθεώρεις` over `Ἐθεώρεις` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐπάταξεν` over `ἐπάταξε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπάταξεν / ἐπάταξε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:35
-- **Apparatus:** `ἐξῆρεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξῇρεν** Sixtine/Brenton ; **ἐξῇρεν αὐτὰ** LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+- **Apparatus:** `ἐλεπτύνθησαν εἰς ἅπαξ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **λεπτὰ ἐγένετο ἄμα ὁ σίδηρος καὶ** OG-Daniel
+- **Apparatus:** `ὁ σίδηρος,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `ὁ χρυσός,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ τὸ χρυσίον,** OG-Daniel
+- **Apparatus:** `κονιορτὸς ἀπὸ ἅλωνος θερινῆς·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **λεπτότερον ἀχύρου ἐν ἄλωνι,** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **αὐτὰ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **αὐτὰ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ἐγενήθη` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐγένετο** OG-Daniel
+- **Apparatus:** `ἐπλήρωσεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπάταξε** OG-Daniel
 - *Disregarded Surface Variant:* kept `τότε` over `Τότε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἰς ἅπαξ` over `εἰσάπαξ` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `χαλκός,` over `χαλκὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `χρυσός` over `χυυσός` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἅλωνος` over `ἄλωνος` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `ἐξῆρεν` over `ἐξῇρεν` (Sixtine/Brenton) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
 - *Disregarded Surface Variant:* kept `εἰκόνα` over `εἰκόνα,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐγενήθη` over `ἐγενἤθη` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἐπλήρωσεν` over `ἐπλήρωσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπλήρωσεν / ἐπλήρωσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:36
+- **Apparatus:** `ἐστιν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `ἐνύπνιον·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὅραμα·** OG-Daniel
+- **Apparatus:** `σύγκρισιν αὐτοῦ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κρίσιν δὲ** OG-Daniel
+- **Apparatus:** `ἐνώπιον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐπὶ** OG-Daniel
 - *Disregarded Surface Variant:* kept `τοῦτό` over `Τοῦτό` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἐνύπνιον·` over `ἐνύπνιον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:37
+- **Apparatus:** `ᾧ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ σοὶ** OG-Daniel
+- **Apparatus:** `θεὸς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κύριος** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὴν ἀρχὴν καὶ τὴν** OG-Daniel
+- **Apparatus:** `ἰσχυρὰν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `κραταιὰν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὴν ἰσχὺν** OG-Daniel
+- **Apparatus:** `ἔντιμον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὴν τιμὴν καὶ τὴν δόξαν** OG-Daniel
 - *Disregarded Surface Variant:* kept `σύ,` over `Σὺ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλεῦ,` over `βασιλεῦ` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Daniel 2:38
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **καὶ ἰχθύας τῆς θαλάσσης** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `παντὶ τόπῳ ὅπου κατοικοῦσιν οἱ υἱοὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πάσῃ τῇ οἰκουμένῃ ἀπὸ ἀνθρώπων καὶ θηρίων ἀγρίων καὶ πετεινῶν οὐρανοῦ καὶ** OG-Daniel
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **καὶ ἰχθύας τῆς θαλάσσης** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `κατέστησεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **κατέστησέ σε** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `καὶ κατέστησεν κύριον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **κυριεύειν** OG-Daniel ; **καὶ κατέστησέ σε κύριον** LXX-Orthodox (Οʹ)
+- **Apparatus:** `κατέστησεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **κατέστησέ σε** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **om.** OG-Daniel *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `τόπῳ` over `τόπῳ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -820,9 +1086,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `οὐρανοῦ` over `οὐρανοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:39
-- **Apparatus:** `ἑτέρα βασιλεία` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **βασιλεία ἑτέρα** Sixtine/Brenton ; **ἑτέρα** LXX-Orthodox (Οʹ) *(word-order transposition)*
+- **Apparatus:** `ὀπίσω σου` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μετὰ σέ** OG-Daniel
+- **Apparatus:** `ἑτέρα βασιλεία` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **βασιλεία ἑτέρα** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **βασιλεία** OG-Daniel *(word-order transposition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ἥττων` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐλάττων** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τρίτη** OG-Daniel
+- **Apparatus:** `τρίτη ἥτις ἐστὶν ὁ χαλκός,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄλλη χαλκῆ** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τρίτη` over `τρίτη,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `χαλκός,` over `χαλκὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -830,36 +1100,64 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `γῆς·` over `γῆς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:40
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἥτις** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **ἥτις** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `ὁ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `ὁ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ὃν τρόπον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὥσπερ** OG-Daniel
+- **Apparatus:** `λεπτύνει` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὃ δαμάζων πάντα,** OG-Daniel
+- **Apparatus:** `δαμάζει πάντα, οὕτως πάντα λεπτυνεῖ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὡς ὁ σίδηρος πᾶν δένδρον ἐκκόπτων·** OG-Daniel
+- **Apparatus:** `δαμάσει.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σεισθήσεται πᾶσα ἡ γῆ.** OG-Daniel
 - *Disregarded Surface Variant:* kept `τετάρτη` over `τετάρτη,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Daniel 2:41
+- **Apparatus:** `ὅτι ἴδες` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὡς ἑώρακας** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **αὐτῆς** OG-Daniel
+- **Apparatus:** `ὀστράκινον,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὀστράκου κεραμικοῦ,** OG-Daniel
+- **Apparatus:** `σιδηροῦν,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σιδήρου,** OG-Daniel
+- **Apparatus:** `διῃρημένη ἔσται, καὶ ἀπὸ τῆς ῥίζης τῆς σιδηρᾶς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄλλη διμερὴς** OG-Daniel
+- **Apparatus:** `ὃν τρόπον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καθάπερ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄμα** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πηλίνῳ** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἴδες` over `εἶδες` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `πόδας` over `πόδας,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δακτύλους` over `δακτύλους,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἴδες` over `εἶδες` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἴδες / εἶδες`, `ἴδες / εἶδες`, `ἀναμεμιγμένον / ἀναμεμειγμένον` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Daniel 2:42
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δέ** OG-Daniel
+- **Apparatus:** `ἀπ᾽ αὐτῆς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μέρος τι** OG-Daniel
+- **Apparatus:** `συντριβόμενον.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **συντετριμμένον.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἰσχυρόν,` over `ἰσχυρὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 
 ### Daniel 2:43
-- **Apparatus:** `συνμιγεῖς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **συμμειγεῖς** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ὅτι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ ὡς** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄμα τῷ πηλίνῳ ὀστράκῳ, καὶ συμμιγεῖς ἔσονται εἰς γένεσιν ἀνθρώπων· οὐκ ἔσονται δὲ ὁμονοοῦντες οὕτε εὐνοοῦντες ἀλλήλοις, ὥσ περ οὐδὲ ὁ σίδηρος δύναται συγκραθῆναι** OG-Daniel
+- **Apparatus:** `συνμιγεῖς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **συμμειγεῖς** LXX-Orthodox (Οʹ) ; **om.** OG-Daniel
+- **Apparatus:** `συνμιγεῖς ἔσονται ἐν σπέρματι ἀνθρώπων· καὶ οὐκ ἔσονται προσκολλώμενοι οὗτος μετὰ τούτου, καθὼς ὁ σίδηρος οὐκ ἀναμίγνυται μετὰ τοῦ ὀστράκου.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** OG-Daniel ; **συμμειγεῖς ἔσονται ἐν σπέρματι ἀνθρώπων καὶ οὐκ ἔσονται προσκολλώμενοι οὗτος μετὰ τούτου, καθὼς ὁ σίδηρος οὐκ ἀναμείγνυται μετὰ τοῦ ὀστράκου.** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `ὅτι` over `Ὅτι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἴδες` over `εἶδες` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `συνμιγεῖς` over `συμμιγεῖς` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `συνμιγεῖς` over `συμμιγεῖς` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 - *Disregarded Surface Variant:* kept `ἀνθρώπων·` over `ἀνθρώπων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἴδες / εἶδες`, `ἀναμεμιγμένον / ἀναμεμειγμένον`, `ἀναμίγνυται / ἀναμείγνυται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Daniel 2:44
+- **Apparatus:** `ταῖς ἡμέραις` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τοῖς χρόνοις** OG-Daniel
+- **Apparatus:** `ἐκείνων ἀναστήσει` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τούτων στήσει** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄλλην,** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἔσται** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `διαφθαρήσεται,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **φθαρήσεται·** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **αὕτη** OG-Daniel
+- **Apparatus:** `αὐτοῦ λαῷ ἑτέρῳ οὐχ ὑπολειφθήσεται· λεπτυνεῖ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄλλο ἔθνος οὐ μὴ ἐάσῃ, πατάξει δὲ** OG-Daniel
+- **Apparatus:** `λικμήσει πάσας` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀφανίσει** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ταύτας,** OG-Daniel
+- **Apparatus:** `ἀναστήσεται` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **στήσεται** OG-Daniel
+- **Apparatus:** `τοὺς αἰῶνας·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὸν αἰῶνα·** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐκείνων` over `ἐκείνων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -867,6 +1165,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτὴ` over `αὕτη` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Daniel 2:45
+- **Apparatus:** `ὃν τρόπον ἴδες ὅτι ἀπὸ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καθάπερ ἑώρακας ἐξ** OG-Daniel
+- **Apparatus:** `ἐτμήθη λίθος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τμηθῆναι λίθον** OG-Daniel
+- **Apparatus:** `ἐλέπτυνεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **συνηλόησε** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **καὶ** OG-Daniel
+- **Apparatus:** `ἐγνώρισεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐσήμανε** OG-Daniel
+- **Apparatus:** `ἃ δεῖ γενέσθαι μετὰ ταῦτα·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τὰ ἐσόμενα ἐπʼ ἐσχάτων τῶν ἡμερῶν·** OG-Daniel
+- **Apparatus:** `ἀληθινὸν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀκριβές** OG-Daniel
+- **Apparatus:** `ἐνύπνιον,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὄραμα,** OG-Daniel
+- **Apparatus:** `σύγκρισις αὐτοῦ.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τούτου κρίσις.** OG-Daniel
 - *Disregarded Surface Variant:* kept `ὃν` over `Ὃν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἴδες` over `εἶδες,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐλέπτυνεν` over `ἐλέπτυνε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -874,24 +1183,33 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `χρυσόν.` over `χρυσόν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐγνώρισεν` over `ἐγνώρισε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἴδες / εἶδες` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλέπτυνεν / ἐλέπτυνε`, `ἐγνώρισεν / ἐγνώρισε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:46
-- **Apparatus:** `μαννὰ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **μαναὰ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **Ναβουχοδονοσὸρ** OG-Daniel
+- **Apparatus:** `Ναβουχοδονοσὸρ ἔπεσεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πεσὼν** OG-Daniel
+- **Apparatus:** `πρόσωπον καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρόσαωπον χαμαὶ προσεκύνησεν** OG-Daniel
+- **Apparatus:** `προσεκύνησεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `μαννὰ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **μαναὰ** Sixtine/Brenton LXX-Orthodox (Οʹ) ; **ἐπέταξε θυσίας** OG-Daniel *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `εὐωδίας εἶπεν σπεῖσαι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σπονδὰς ποιῆσαι** OG-Daniel
 - *Disregarded Surface Variant:* kept `Ναβουχοδονοσὸρ` over `Ναβουχοδονόσορ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `πρόσωπον` over `πρόσωπον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `προσεκύνησεν` over `προσεκύνησε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `προσεκύνησεν / προσεκύνησε`, `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:47
-- **Apparatus:** `καὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ὁ** Sixtine/Brenton *(lexical substitution)*
+- **Apparatus:** `ἀποκριθεὶς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐκφωνήσας** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πρὸς τὸν Δανιὴλ** OG-Daniel
+- **Apparatus:** `τῷ Δανιήλ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἐστὶν** OG-Daniel
+- **Apparatus:** `αὐτός ἐστιν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τῶν** OG-Daniel
+- **Apparatus:** `καὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ὁ** Sixtine/Brenton OG-Daniel *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `ἠδυνήθης` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἠδυνάσθης** Sixtine/Brenton *(lexical substitution)*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **κρυπτὰ μόνος·** OG-Daniel
+- **Apparatus:** `ἠδυνήθης` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἠδυνάσθης** Sixtine/Brenton ; **ἐδυνάσθης** OG-Daniel *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -907,9 +1225,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κύριος` over `Κύριος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλέων` over `βασιλέων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `μυστήρια·` over `μυστήρια,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Daniel 2:48
+- **Apparatus:** `καὶ ἐμεγάλυνεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τότε** OG-Daniel
+- **Apparatus:** `τὸν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **Ναβουχοδονοσὸρ** OG-Daniel
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **μεγαλύνας** OG-Daniel
+- **Apparatus:** `δόματα μεγάλα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **δοὺς δωρεὰς μεγάλας** OG-Daniel
+- **Apparatus:** `πολλὰ ἔδωκεν αὐτῷ,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **πολλὰς κατέστησεν ἐπὶ τῶν πραγμάτων τῆς Βαβυλωνίας,** OG-Daniel
+- **Apparatus:** `κατέστησεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἀπέδειξεν** OG-Daniel
+- **Apparatus:** `ἐπὶ πάσης χώρας Βαβυλῶνος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἄρχοντα** OG-Daniel
+- **Apparatus:** `ἄρχοντα σατραπῶν ἐπὶ πάντας τοὺς σοφοὺς Βαβυλῶνος.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἡγούμενον πάντων τῶν σοφιστῶν Βαβυλωνίας.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Δανιήλ,` over `Δανιὴλ,` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πολλὰ` over `πολλὸ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -917,9 +1242,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `σατραπῶν` over `σατραπων` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 
 ### Daniel 2:49
-- **Apparatus:** `Μεισάχ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Μισὰχ καὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `ᾐτήσατο παρὰ τοῦ βασιλέως, καὶ κατέστησεν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ἠξίωσε τὸν βασιλέα ἴνα κατασταθῶσιν** OG-Daniel
+- **Apparatus:** `τὰ ἔργα` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **τῶν πραγμάτων** OG-Daniel
+- **Apparatus:** `χώρας Βαβυλῶνος τὸν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **Βαβυλωνίας** OG-Daniel
+- **Apparatus:** `Μεισάχ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) OG-Daniel **]** **Μισὰχ καὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **βασιλικῇ** OG-Daniel
+- **Apparatus:** `τοῦ βασιλέως.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **om.** OG-Daniel
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Σεδράχ,` over `Σεδρὰχ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἦν` over `ἣν` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -934,6 +1264,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: Ἐν τῷ ἔτει τῷ δευτέρῳ τῆς βασιλείας ἠνυπνιάσθη Ναβουχοδονοσὸρ ἐνύπνιον, καὶ ἐξέστη τὸ πνεῦμα αὐτοῦ, καὶ ὁ ὕπνος αὐτοῦ ἐγένετο ἀπʼ αὐτοῦ.
   - `Swete (B/A/א)`: Ἐν τῷ ἔτει τῷ δευτέρῳ τῆς βασιλείας ἠνυπνιάσθη Ναβουχοδονοσὸρ ἐνύπνιον, καὶ ἐξέστη τὸ πνεῦμα αὐτοῦ, καὶ ὁ ὕπνος αὐτοῦ ἐγένετο ἀπʼ αὐτοῦ.
   - `Sixtine/Brenton`: Ἐν τῷ ἔτει τῷ δευτέρῳ τῆς βασιλείας, ἐνυπνιάσθη Ναβουχοδονόσορ ἐνύπνιον, καὶ ἐξέστη τὸ πνεῦμα αὐτοῦ, καὶ ὁ ὕπνος αὐτοῦ ἐγένετο ἀπʼ αὐτοῦ.
+  - `OG-Daniel`: Καὶ ἐν τῷ ἔτει τῷ δευτέρῳ τῆς βασιλείας Ναβουχοδονοσὸρ συνέβη εἰς ὁράματα καὶ ἐνύπνια ἐμπεσεῖν τὸν βασιλέα καὶ ταραχθῆναι ἐν τῷ ἐνυπνίῳ αὐτοῦ, καὶ ὁ ὕπνος αὐτοῦ ἐγένετο ἀπʼ αὐτοῦ.
   - `LXX-Orthodox (Οʹ)`: ΕΝ τῷ ἔτει τῷ δευτέρῳ τῆς βασιλείας Ναβουχοδονόσορ ἐνυπνιάσθη Ναβουχοδονόσορ ἐνύπνιον, καὶ ἐξέστη τὸ πνεῦμα αὐτοῦ, καὶ ὁ ὕπνος αὐτοῦ ἐγένετο ἀπ' αὐτοῦ.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἠνυπνιάσθη' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐνυπνιάσθη (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -944,6 +1275,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ εἶπεν ὁ βασιλεὺς καλέσαι τοὺς ἐπαοιδοὺς καὶ τοὺς μάγους καὶ τοὺς φαρμακοὺς καὶ τοὺς Χαλδαίους τοῦ ἀναγγεῖλαι τῷ βασιλεῖ τὰ ἐνύπνια αὐτοῦ· καὶ ἦλθαν καὶ ἔστησαν ἐνώπιον τοῦ βασιλέως.
   - `Swete (B/A/א)`: καὶ εἶπεν ὁ βασιλεὺς καλέσαι τοὺς ἐπαοιδοὺς καὶ τοὺς μάγους καὶ τοὺς φαρμακοὺς καὶ τοὺς Χαλδαίους τοῦ ἀναγγεῖλαι τῷ βασιλεῖ τὰ ἐνύπνια αὐτοῦ· καὶ ἦλθαν καὶ ἔστησαν ἐνώπιον τοῦ βασιλέως.
   - `Sixtine/Brenton`: Καὶ εἶπεν ὁ βασιλεὺς καλέσαι τοὺς ἐπαοιδοὺς, καὶ τοὺς μάγους, καὶ τοὺς φαρμακοὺς, καὶ τοὺς Χαλδαίους, τοῦ ἀναγγεῖλαι τῷ βασιλεῖ τὰ ἐνύπνια αὐτοῦ· καὶ ἦλθαν, καὶ ἔστησαν ἐνώπιον τοῦ βασιλέως.
+  - `OG-Daniel`: καὶ ἐπέταξεν ὁ βασιλεὺς εἰσενεχθῆναι τοὺς ἐπαοιδοὺς καὶ τοὺς μάγους καὶ τοὺς φαρμακοὺς τῶν Χαλδαίων ἀναγγεῖλαι τῷ βασιλεῖ τὰ ἐνύπνια αὐτοῦ· καὶ παραγενόμενοι ἔστησαν παρὰ τῷ βασιλεῖ
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπεν ὁ βασιλεὺς καλέσαι τοὺς ἐπαοιδοὺς καὶ τοὺς μάγους καὶ τοὺς φαρμακοὺς καὶ τοὺς Χαλδαίους τοῦ ἀναγγεῖλαι τῷ βασιλεῖ τὰ ἐνύπνια αὐτοῦ, καὶ ἦλθαν καὶ ἔστησαν ἐνώπιον τοῦ βασιλέως.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -953,6 +1285,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ εἶπεν αὐτοῖς ὁ βασιλεύς Ἠνυπνιάσθην, καὶ ἐξέστη τὸ πνεῦμά μου τοῦ γνῶναι τὸ ἐνύπνιον.
   - `Swete (B/A/א)`: καὶ εἶπεν αὐτοῖς ὁ βασιλεύς Ἠνυπνιάσθην, καὶ ἐξέστη τὸ πνεῦμά μου τοῦ γνῶναι τὸ ἐνύπνιον.
   - `Sixtine/Brenton`: Καὶ εἶπεν αὐτοῖς ὁ βασιλεὺς, ἑνυπνιάσθην, καὶ ἐξέστη τὸ πνεῦμά μου, τοῦ γνῶναι τὸ ἐνύπνιον.
+  - `OG-Daniel`: καὶ εἰπεν αὐτοῖς ὁ βασιλεύς Ἐυύπνιον ἑώρακα καὶ ἐκινήθη μου τὸ πνεῦμα· ἐπιγνῶναι οὗυ θέλω τὸ ἐνύπνιον.
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπεν αὐτοῖς ὁ βασιλεύς· ἠνυπνιάσθην, καὶ ἐξέστη τὸ πνεῦμά μου τοῦ γνῶναι τὸ ἐνύπνιον.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Ἠνυπνιάσθην' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἑνυπνιάσθην (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -963,6 +1296,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἐλάλησαν οἱ Χαλδαῖοι τῷ βασιλεῖ Συριστί Βασιλεῦ, εἰς τοὺς αἰῶνας ζῆθι σύ εἰπὸν τὸ ἐνύπνιον τοῖς παισίν σου, καὶ τὴν σύγκρισιν ἀναγγελοῦμεν.
   - `Swete (B/A/א)`: καὶ ἐλάλησαν οἱ Χαλδαῖοι τῷ βασιλεῖ Συριστί Βασιλεῦ, εἰς τοὺς αἰῶνας ζῆθι σύ εἰπὸν τὸ ἐνύπνιον τοῖς παισίν σου, καὶ τὴν σύγκρισιν ἀναγγελοῦμεν.
   - `Sixtine/Brenton`: Καὶ ἐλάλησαν οἱ Χαλδαῖοι τῷ βασιλεῖ Συριστὶ, βασιλεῦ, εἰς τοὺς αἰῶνας ζῆθι· σὺ εἰπὸν τὸ ἐνύπνιον τοῖς παισί σου, καὶ τὴν σύγκρισιν ἀναγγελοῦμεν.
+  - `OG-Daniel`: καὶ ἐλάλησαν οἱ Χαλδαῖοι πρὸς τὸν βασιλέα Συριστί Κύριε βασιλεῦ, τὸν αἰῶνα ζῆθι· ἀνάγγειλον τὸ ἐνύπνιόν σου τοῖς παισί σου, καὶ ἡμεῖς σοι φράσομεν τὴν σύγκρισιν αὐτοῦ.
   - `LXX-Orthodox (Οʹ)`: καὶ ἐλάλησαν οἰ Χαλδαῖοι τῷ βασιλεῖ συριστί· βασιλεῦ, εἰς τοὺς αἰῶνας ζῆθι· σὺ εἰπὸν τὸ ἐνύπνιον τοῖς παισί σου, καὶ τὴν σύγκρισιν ἀναγγελοῦμεν.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -972,6 +1306,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἀπεκρίθη ὁ βασιλεὺς τοῖς Χαλδαίοις Ὁ λόγος ἀπʼ ἐμοῦ ἀπέστη· ἐὰν μὴ γνωρίσητέ μοι τὸ ἐνύπνιον καὶ τὴν σύγκρισιν, εἰς ἀπωλίαν ἔσεσθε, καὶ οἱ οἶκοι ὑμῶν διαρπαγήσονται.
   - `Swete (B/A/א)`: ἀπεκρίθη ὁ βασιλεὺς τοῖς Χαλδαίοις Ὁ λόγος ἀπʼ ἐμοῦ ἀπέστη· ἐὰν μὴ γνωρίσητέ μοι τὸ ἐνύπνιον καὶ τὴν σύγκρισιν, εἰς ἀπωλίαν ἔσεσθε, καὶ οἱ οἶκοι ὑμῶν διαρπαγήσονται.
   - `Sixtine/Brenton`: Ἀπεκρίθη ὁ βασιλεὺς τοῖς Χαλδαίοις, ὁ λόγος ἀπʼ ἐμοῦ ἀπέστη· ἐὰν μὴ γνωρίσητέ μοι τὸ ἐνύπνιον καὶ τὴν σύγκρισιν, εἰς ἀπώλειαν ἔσεσθε, καὶ οἱ οἶκοι ὑμῶν διαρπαγήσονται.
+  - `OG-Daniel`: ἀποκριθεὶς δὲ ὁ βασιλεὺς εἶπε τοῖς Χαλδαίοις λόγος ἀπʼ ἐμοῦ ἀπέστη· διότι ἐὰν μὴ ἀπαγγείλητέ μοι ἐπʼ ἀληθείας τὸ ἐνύπνιον καὶ τὴν τούτου σύγκρισιν δηλώσητέ μοι, παραδειγματισθήσεσθε, καὶ ἀναληφθήσεται ὑμῶν τὰ ὑπάρχοντα εἰς τὸ βασιλικόν.
   - `LXX-Orthodox (Οʹ)`: ἀπεκρίθη ὁ βασιλεὺς τοῖς Χαλδαίοις· ὁ λόγος ἀπ' ἐμοῦ ἀπέστη· ἐὰν μὴ γνωρίσητέ μοι τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ, εἰς ἀπώλειαν ἔσεσθε, καὶ οἱ οἶκοι ὑμῶν διαρπαγήσονται·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
@@ -981,6 +1316,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἐὰυ δὲ τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ γνωρίσητέ μοι, δόματα καὶ δωρεὰς καὶ τιμὴν πολλὴν λήμψεσθε παρʼ ἐμοῦ· πλὴν τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ ἀπαγγείλατέ μοι.
   - `Swete (B/A/א)`: ἐὰυ δὲ τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ γνωρίσητέ μοι, δόματα καὶ δωρεὰς καὶ τιμὴν πολλὴν λήμψεσθε παρʼ ἐμοῦ· πλὴν τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ ἀπαγγείλατέ μοι.
   - `Sixtine/Brenton`: Ἐὰν δὲ τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ γνωρίσητέ μοι, δόματα καὶ δωρεὰς καὶ τιμὴν πολλὴν λήψεσθε παρʼ ἐμοῦ· πλὴν τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ ἀπαγγείλατέ μοι.
+  - `OG-Daniel`: ἐὰν δὲ τὸ ἐνύπνιον διασαφήσητέ μοι καὶ τὴν τούτου σύγκρισιν ἀναγγείλητε, λήψεσθε δόματα παντοῖα καὶ δοξασθήσεσθε ὑπʼ ἐμοῦ· δηλώσατέ μοι τὸ ἐνύπνιον καὶ κρίνατε.
   - `LXX-Orthodox (Οʹ)`: ἐὰν δὲ τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ γνωρίσητέ μοι, δόματα καὶ δωρεὰς καὶ τιμὴν πολλὴν λήψεσθε παρ' ἐμοῦ· πλὴν τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ ἀπαγγείλατέ μοι.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Nasal spelling (λημψ- / ληψ-); Punctuation / spacing difference only).
 
@@ -990,18 +1326,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἀπεκρίθησαν δεύτερον καὶ εἶπαν Ὁ βασιλεὺς εἰπάτω τὸ ἐυύπνιον τοῖς παισὶν αὐτοῦ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελοῦμεν.
   - `Swete (B/A/א)`: ἀπεκρίθησαν δεύτερον καὶ εἶπαν Ὁ βασιλεὺς εἰπάτω τὸ ἐυύπνιον τοῖς παισὶν αὐτοῦ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελοῦμεν.
   - `Sixtine/Brenton`: Ἀπεκρίθησαν δεύτερον, καὶ εἶπαν, ὁ βασιλεὺς εἰπάτω τὸ ἐνύπνιον τοῖς παισὶν αὐτοῦ, καὶ τὴν σύγκρισιν ἀναγγελοῦμεν.
+  - `OG-Daniel`: ἀπεκρίθησαν δὲ ἐκ δευτέρου λέγοντες Βασιλεῦ, τὸ ὅραμα εἰπόν, καὶ οἱ παῖδές σου κρινοῦσι πρὸς ταῦτα.
   - `LXX-Orthodox (Οʹ)`: ἀπεκρίθησαν δεύτερον καὶ εἶπαν· ὁ βασιλεὺς εἰπάτω τὸ ἐνύπνιον τοῖς παισὶν αὐτοῦ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελοῦμεν.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'αὐτοῦ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 8 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν Ἐπ᾽ ἀληθείας οἶδα ἐγὼ ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθότι εἴδετε ὅτι ἀπέστη ἀπ᾽ ἐμοῦ τὸ ῥῆμα.
   - `Swete-Amicarelli`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν Ἐπ᾽ ἀληθείας οἶδα ἐγὼ ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθότι εἴδετε ὅτι ἀπέστη ἀπ᾽ ἐμοῦ τὸ ῥῆμα.
   - `1st1K-LXX`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν Ἐπ ἀληθείας οἶδα ἐγὼ ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθότι εἴδετε ὅτι ἀπέστη ἀπʼ ἐμοῦ τὸ άῆμα.
   - `Swete (B/A/א)`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν Ἐπ ἀληθείας οἶδα ἐγὼ ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθότι εἴδετε ὅτι ἀπέστη ἀπʼ ἐμοῦ τὸ άῆμα.
   - `Sixtine/Brenton`: Καὶ ἀπεκρίθη ὁ βασιλεὺς, καὶ εἶπεν, ἐπʼ ἀληθείας οἶδα ἐγὼ, ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε· καθότι ἴδετε, ὅτι ἀπέστη ἀπʼ ἐμοῦ τὸ ῥῆμα.
+  - `OG-Daniel`: καὶ εἶπεν αὐτοῖς ὁ βασιλεύς Ἐπ ἀληθείας οἶδα ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθάπερ ἑωράκατε ὅτι ἀπέστη ἀπʼ ἐμοῦ τὸ πρᾶγμα· καθάπερ οὖν προστέταχα, οὕτως ἔσται.
   - `LXX-Orthodox (Οʹ)`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν· ἐπ' ἀληθείας οἶδα ἐγὼ ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθότι εἴδετε ὅτι ἀπέστη ἀπ' ἐμοῦ τὸ ρῆμα.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 9 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'εἴδετε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἴδετε (Sixtine/Brenton). Also normalised 8 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 9 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐὰν οὖν τὸ ἐνύπνιον μὴ ἀναγγείλητέ μοι, οἶδα ὅτι ῥῆμα ψευδὲς καὶ διεφθαρμένον συνέθεσθε εἰπεῖν ἐνώπιόν μου, ἕως οὗ ὁ καιρὸς παρέλθῃ· τὸ ἐνύπνιόν μου εἴπατέ μοι, καὶ γνώσομαι ὅτι τὴν σύγκρισιν αὐτοῦ ἀναγγελεῖτέ μοι.
@@ -1009,6 +1348,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἐὰν οὗν τὸ ἐνύπνιον μὴ ἀναγγείλητέ μοι, οἶδα ὅτι ῥῆμα ψευδὲς καὶ διεφθαρμένον συνέθεσθε εἰπεῖν ἐνώπιόν μου, ἕως οὗ ὁ καιρὸς παρέλθῃ· τὸ ἐνύπνιόν μου εἵπατέ μοι, καὶ γνώσομαι ὅτι τὴν σύγκρισιν αὐτοῦ ἀναγγελεῖτέ μοι.
   - `Swete (B/A/א)`: ἐὰν οὗν τὸ ἐνύπνιον μὴ ἀναγγείλητέ μοι, οἶδα ὅτι ῥῆμα ψευδὲς καὶ διεφθαρμένον συνέθεσθε εἰπεῖν ἐνώπιόν μου, ἕως οὗ ὁ καιρὸς παρέλθῃ· τὸ ἐνύπνιόν μου εἵπατέ μοι, καὶ γνώσομαι ὅτι τὴν σύγκρισιν αὐτοῦ ἀναγγελεῖτέ μοι.
   - `Sixtine/Brenton`: Ἐὰν οὖν τὸ ἐνύπνιον μὴ ἀναγγείλητέ μοι, οἶδα ὅτι ῥῆμα ψευδὲς καὶ διεφθαρμένον συνέθεσθε εἰπεῖν ἐνώπιόν μου, ἕως οὗ ὁ καιρὸς παρέλθῃ· τὸ ἐνύπνιόν μου εἴπατέ μοι, καὶ γνώσομαι ὅτι καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελεῖτέ μοι.
+  - `OG-Daniel`: ἐὰν μὴ τὸ ἐνύπνιον ἀπαγγείλητέ μοι ἐπʼ ἀληθείας καὶ τὴν τούτου σύγκρισιν δηλώσητε, θανάτῳ περιπεσεῖσθε· συνείπασθε γὰρ λόγους ψευδεῖς ποιήσασθαι ἐπʼ ἐμοῦ, ἕως ἂν ὁ καιρὸς ἀλλοιωθῇ. νῦν οὗν ἐὰν τὸ δῆμα εἵπητέ μοι ὃ τὴν νύκτα ἑώρακα, γνώσομαι ὅτι καὶ τὴν τούτου κρίσιν δηλώσητε.
   - `LXX-Orthodox (Οʹ)`: ἐὰν οὖν τὸ ἐνύπνιον μὴ ἀναγγείλητέ μοι, οἶδα ὅτι ρῆμα ψευδὲς καὶ διεφθαρμένον συνέθεσθε εἰπεῖν ἐνώπιόν μου, ἕως οὗ ὁ καιρὸς παρέλθῃ· τὸ ἐνύπνιόν μου εἴπατέ μοι, καὶ γνώσομαι ὅτι τὴν σύγκρισιν αὐτοῦ ἀναγγελεῖτέ μοι.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1019,6 +1359,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἀπεκρίθησαν οἱ Χαλδαῖοι ἐνώπιον τοῦ βασιλέως καὶ λέγουσιν Οὐκ ἔστιν ἄνθρωπος ἐπὶ τῆς ξηρᾶς ὅστις τὸ ῥῆμα τοῦ βασιλέως δυνήσεται γναωρίσαι, καθότι πᾶς βασιλεὺς μέγας καὶ ἄρχων ῥῆμα τοιοῦτο οὐκ ἐπερωτᾷ ἐπαοιδόν, μάγον καὶ Χαλδαῖον·
   - `Swete (B/A/א)`: ἀπεκρίθησαν οἱ Χαλδαῖοι ἐνώπιον τοῦ βασιλέως καὶ λέγουσιν Οὐκ ἔστιν ἄνθρωπος ἐπὶ τῆς ξηρᾶς ὅστις τὸ ῥῆμα τοῦ βασιλέως δυνήσεται γναωρίσαι, καθότι πᾶς βασιλεὺς μέγας καὶ ἄρχων ῥῆμα τοιοῦτο οὐκ ἐπερωτᾷ ἐπαοιδόν, μάγον καὶ Χαλδαῖον·
   - `Sixtine/Brenton`: Ἀπεκρίθησαν οἱ Χαλδαῖοι ἐνώπιον τοῦ βασιλέως, καὶ λέγουσιν, οὐκ ἔστιν ἄνθρωπος ἐπὶ τῆς ξηρᾶς, ὅστις τὸ ῥῆμα τοῦ βασιλέως δυνήσεται γνωρίσαι, καθότι πᾶς βασιλεὺς μέγας καὶ ἄρχων ῥῆμα τοιοῦτον οὐκ ἐπερωτᾷ ἐπαοιδὸν μάγον καὶ Χαλδαῖον·
+  - `OG-Daniel`: καὶ ἀπεκρίθησαν οἱ Χαλδαῖοι ἐπὶ τοῦ βασιλέως ὅτι Οὐδεὶς τῶν ἐπὶ τῆς γῆς δυνήσεται εἰπεῖν τῷ βασιλεῖ ὃ ἑώρακε, καθάπερ σὺ ἐρωτᾷς, καὶ πᾶς βασιλεὺς καὶ πᾶς δυνάστης τοιοῦτο πρᾶγμα οὐκ ἐπερωτᾷ πάντα σοφὸν καὶ μάγον καὶ Χαλδαῖον·
   - `LXX-Orthodox (Οʹ)`: ἀπεκρίθησαν οἱ Χαλδαῖοι ἐνώπιον τοῦ βασιλέως καὶ λέγουσιν· οὐκ ἔστιν ἄνθρωπος ἐπὶ τῆς ξηρᾶς, ὅστις τὸ ρῆμα τοῦ βασιλέως δυνήσεται γνωρίσαι, καθότι πᾶς βασιλεὺς μέγας καὶ ἄρχων ρῆμα τοιοῦτον οὐκ ἐπερωτᾷ ἐπαοιδόν, μάγον καὶ Χαλδαῖον·
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'τοιοῦτο' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τοιοῦτον (Sixtine/Brenton). Also normalised 7 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1029,6 +1370,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ὅτι ὁ λόγος ὃν ὁ βασιλεὺς ἐπερωτᾷ βαρύς, καὶ ἕτερος οὐκ ἔστιν ὃς ἀναγγελεῖ αὐτὸν ἐνώπιον τοῦ βασιλέως ἀλλʼ ἢ θεοί, ὦν οὐκ ἔστιν ἡ κατοικία μετὰ πάσης σαρκός.
   - `Swete (B/A/א)`: ὅτι ὁ λόγος ὃν ὁ βασιλεὺς ἐπερωτᾷ βαρύς, καὶ ἕτερος οὐκ ἔστιν ὃς ἀναγγελεῖ αὐτὸν ἐνώπιον τοῦ βασιλέως ἀλλʼ ἢ θεοί, ὦν οὐκ ἔστιν ἡ κατοικία μετὰ πάσης σαρκός.
   - `Sixtine/Brenton`: Ὅτι ὁ λόγος ὃν ὁ βασιλεὺς ἐπερωτᾷ, βαρύς, καὶ ἕτερος οὐκ ἔστιν ὃς ἀναγγελεῖ αὐτὸν ἐνώπιον τοῦ βασιλέως, ἀλλʼ οἱ θεοὶ, ὧν οὐκ ἔστιν ἡ κατοικία μετὰ πάσης σαρκός.
+  - `OG-Daniel`: καὶ ὁ λόγος ὃν ζητεῖς, βασιλεῦ, βαρύς ἐστι καὶ ἐπίδοξος, καὶ οὐδείς ἐστιν ὃς δηλώσει ταῦτα τῷ βασιλεῖ, εἰ μὴ τι ἄγγελος, οὗ οὐκ ἔστι κατοικητήριον μετὰ πάσης σαρκός· ὅθεν οὐκ ἐνδέχεται γενέσθαι καθάπερ οἴει.
   - `LXX-Orthodox (Οʹ)`: ὅτι ὁ λόγος, ὃν ὁ βασιλεὺς ἐπερωτᾷ, βαρύς, καὶ ἕτερος οὐκ ἔστιν, ὃς ἀναγγελεῖ αὐτὸν ἐνώπιον τοῦ βασιλέως, ἀλλ' οἱ θεοί, ὧν οὐκ ἔστιν ἡ κατοικία μετὰ πάσης σαρκός.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἢ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οἱ (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1039,6 +1381,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: τότε ὁ βασιλεὺς ἐν θυμῷ καὶ ὀργῇ εἰπεν ἀπὸλέσαι πάντας τοὺς σοφοὺς Βαβυλῶνος.
   - `Swete (B/A/א)`: τότε ὁ βασιλεὺς ἐν θυμῷ καὶ ὀργῇ εἰπεν ἀπὸλέσαι πάντας τοὺς σοφοὺς Βαβυλῶνος.
   - `Sixtine/Brenton`: Τότε ὁ βασιλεὺς ἐν θυμῷ καὶ ὀργῇ εἶπεν ἀπολέσαι πάντας τοὺς σοφοὺς Βαβυλῶνος.
+  - `OG-Daniel`: τότε ὁ βασιεὺς στυγνὸς γενόμενος καὶ περίλυπος προσέταξεν ἐξαγαγεῖν πάντας τοὺς σοφοὺς τῆς Βαβυλωνίας.
   - `LXX-Orthodox (Οʹ)`: τότε ὁ βασιλεὺς ἐν θυμῷ καὶ ὀργῇ εἶπεν ἀπολέσαι πάντας τοὺς σοφοὺς Βαβυλῶνος·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention).
 
@@ -1048,6 +1391,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ τὸ δόγμα ἐξῆλθεν, καὶ οἱ σοφοὶ ἀπεκτέννοντο· καὶ ἐζήτησαν Δανιὴλ καὶ τοὺς φίλους αὐτοῦ ἀνελεῖν.
   - `Swete (B/A/א)`: καὶ τὸ δόγμα ἐξῆλθεν, καὶ οἱ σοφοὶ ἀπεκτέννοντο· καὶ ἐζήτησαν Δανιὴλ καὶ τοὺς φίλους αὐτοῦ ἀνελεῖν.
   - `Sixtine/Brenton`: Καὶ τὸ δόγμα ἐξῆλθε, καὶ οἱ σοφοὶ ἀπεκτέννοντο· καὶ ἐζήτησαν Δανιὴλ καὶ τοὺς φίλους αὐτοῦ ἀνελεῖν.
+  - `OG-Daniel`: καὶ ἐδογματίσθη πάντας ἀποκτεῖναι· ἐζητήθη δὲ ὁ Δανιὴλ καὶ πάντες οἱ μετʼ αὐτοῦ χάριν τοῦ συναπολέσθαι
   - `LXX-Orthodox (Οʹ)`: καὶ τὸ δόγμα ἐξῆλθε, καὶ οἱ σοφοὶ ἀπεκτέννοντο, καὶ ἐζήτησαν Δανιὴλ καὶ τοὺς φίλους αὐτοῦ ἀνελεῖν.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).
 
@@ -1057,6 +1401,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: τότε Δανιὴλ ἀπεκρίθη βουλὴν καὶ γνώμην τῷ Ἀριὼχ τῷ ἀρχιμαγείρῳ τοῦ βασιλέως, ὃς ἐξῆλθεν ἀναιρεῖν τοὺς σοφοὺς Βαβυλῶνος
   - `Swete (B/A/א)`: τότε Δανιὴλ ἀπεκρίθη βουλὴν καὶ γνώμην τῷ Ἀριὼχ τῷ ἀρχιμαγείρῳ τοῦ βασιλέως, ὃς ἐξῆλθεν ἀναιρεῖν τοὺς σοφοὺς Βαβυλῶνος
   - `Sixtine/Brenton`: Τότε Δανιὴλ ἀπεκρίθη βουλὴν καὶ γνώμην τῷ Ἀριὼχ τῷ ἀρχιμαγείρῳ τοῦ βασιλέως, ὃς ἐξῆλθεν ἀναιρεῖν τοὺς σοφοὺς Βαβυλῶνος,
+  - `OG-Daniel`: τότε Δανιὴλ εἶπε βουλὴν καὶ γνώμην ἣν εἶχεν Ἀριώχῃ τῷ ἀρχιμαγείρῳ τοῦ βασιλέως, ᾧ προσέταξεν ἐξαγαγεῖν τοὺς σοφιστὰς τῆς Βαβυλωνίας,
   - `LXX-Orthodox (Οʹ)`: τότε Δανιὴλ ἀπεκρίθη βουλὴν καὶ γνώμην τῷ Ἀριὼχ τῷ ἀρχιμαγείρῳ τοῦ βασιλέως, ὃς ἐξῆλθεν ἀναιρεῖν τοὺς σοφοὺς Βαβυλῶνος·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -1066,6 +1411,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: Ἄρχων τοῦ βασιλέως, περὶ τίνος ἐξῆλθεν ἡ γνώμη ἡ ἀναιδὴς ἐκ προσώπου τοῦ βασιλέως; ἐγνώρισεν δὲ τὸ. ῥῆμα Ἀριὼχ τῷ Δανιήλ.
   - `Swete (B/A/א)`: Ἄρχων τοῦ βασιλέως, περὶ τίνος ἐξῆλθεν ἡ γνώμη ἡ ἀναιδὴς ἐκ προσώπου τοῦ βασιλέως; ἐγνώρισεν δὲ τὸ. ῥῆμα Ἀριὼχ τῷ Δανιήλ.
   - `Sixtine/Brenton`: ἄρχων τοῦ βασιλέως, περὶ τίνος ἐξῆλθεν ἡ γνώμη ἡ ἀναιδὴς ἐκ προσώπου τοῦ βασιλέως; ἐγνώρισε δὲ ὁ Ἀριὼχ τὸ ῥῆμα τῷ Δανιήλ.
+  - `OG-Daniel`: καὶ ἐπυνθάνετο αὐτοῦ λέγων Ἄρχων τοῦ βασιλέως, περὶ τίνος δογματίζεται πικρῶς παρὰ τοῦ βασιλέως; τότε τὸ πρόσταγμα ἐσήμανεν ὁ Ἀριώχης τῷ Δανιήλ.
   - `LXX-Orthodox (Οʹ)`: ἄρχων τοῦ βασιλέως, περὶ τίνος ἐξῆλθεν ἡ γνώμη ἡ ἀναιδὴς ἐκ προσώπου τοῦ βασιλέως; ἐγνώρισε δὲ ὁ Ἀριὼχ τὸ ρῆμα τῷ Δανιήλ.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὁ Ἀριὼχ (Sixtine/Brenton). [Omission in some witnesses] Adopted 'Ἀριὼχ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1076,6 +1422,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ Δανιὴλ ἠξίωσεν τὸν βασιλέα ὅπως χρόνον δῷ αὐτῷ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγείλῃ τῷ βασιλεῖ.
   - `Swete (B/A/א)`: καὶ Δανιὴλ ἠξίωσεν τὸν βασιλέα ὅπως χρόνον δῷ αὐτῷ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγείλῃ τῷ βασιλεῖ.
   - `Sixtine/Brenton`: Καὶ Δανιὴλ ἠξίωσε τὸν βασιλέα ὅπως χρόνον δῷ αὐτῷ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγελῇ τῷ βασιλεῖ.
+  - `OG-Daniel`: ό δὲ Δανιὴλ εἰσἡλθε ταχέως πρὸς τὸν βασιλέα, καὶ ἠξίωσεν ἵνα δοθῇ αὐτῷ χρονος παρὰ τοῦ βασιλέως, καὶ δηλώσῃ πάντα ἐπὶ τοῦ βασιλέως.
   - `LXX-Orthodox (Οʹ)`: καὶ Δανιὴλ εἰσῆλθε καὶ ἠξίωσε τὸν βασιλέα, ὅπως χρόνον δῷ αὐτῷ, καὶ τὴν σύγκρισιν αὐτοῦ ἀναγγείλῃ τῷ βασιλεῖ.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἀναγγείλῃ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀναγγελῇ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1086,6 +1433,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: Καὶ εἰσῆλθεν Δανιὴλ εἰς τὸν οἶκον αὐτοῦ, καὶ τῷ Ἁνανίᾳ καὶ τῷ Μεισαὴλ καὶ τῷ Ἀζαρία τοῖς φίλοις αὐτοῦ ἐγνωρισεν τὸ ῥῆμα.
   - `Swete (B/A/א)`: Καὶ εἰσῆλθεν Δανιὴλ εἰς τὸν οἶκον αὐτοῦ, καὶ τῷ Ἁνανίᾳ καὶ τῷ Μεισαὴλ καὶ τῷ Ἀζαρία τοῖς φίλοις αὐτοῦ ἐγνωρισεν τὸ ῥῆμα.
   - `Sixtine/Brenton`: Καὶ εἰσῆλθε Δανιὴλ εἰς τὸν οἶκον αὐτοῦ καὶ τῷ Ἀνανίᾳ καὶ τῷ Μισαὴλ καὶ τῷ Ἀζαρίᾳ τοῖς φίλοις αὐτοῦ τὸ ῥῆμα ἐγνώρισε.
+  - `OG-Daniel`: Τότε ἀπελθὼν Δανιὴλ εἰς τὸν οἶκον αὐτοῦ τῷ Ἀνανίᾳ καὶ Μισαὴλ καὶ Ἀζαρία τοῖς συνεταίροις ὑπέδειξε πάντα,
   - `LXX-Orthodox (Οʹ)`: καὶ εἰσῆλθε Δανιὴλ εἰς τὸν οἶκον αὐτοῦ καὶ τῷ Ἀνανίᾳ καὶ τῷ Μισαὴλ καὶ τῷ Ἀζαρίᾳ τοῖς φίλοις αὐτοῦ τὸ ρῆμα ἐγνώρισε·
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'ἐγνώρισεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐγνώρισε (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1096,6 +1444,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ οἰκτειρμοὺς ἐζήτουν παρὰ τοῦ θεοῦ τοῦ οὐρανοῦ ὑπέρ τοῦ μυστηρίου τούτου, ὅπως ἂν μὴ ἀπόλωνται Δανιὴλ καὶ οἱ φίλοι αὐτοῦ μετὰ τῶν ἐπιλοίπων σοφῶν Βαβυλῶνος.
   - `Swete (B/A/א)`: καὶ οἰκτειρμοὺς ἐζήτουν παρὰ τοῦ θεοῦ τοῦ οὐρανοῦ ὑπέρ τοῦ μυστηρίου τούτου, ὅπως ἂν μὴ ἀπόλωνται Δανιὴλ καὶ οἱ φίλοι αὐτοῦ μετὰ τῶν ἐπιλοίπων σοφῶν Βαβυλῶνος.
   - `Sixtine/Brenton`: Καὶ οἰκτιρμοὺς ἐζήτουν παρὰ τοῦ Θεοῦ τοῦ οὐρανοῦ ὑπὲρ τοῦ μυστηρίου τούτου, ὅπως ἂν μὴ ἀπόλωνται Δανιὴλ καὶ οἱ φίλοι αὐτοῦ μετὰ τῶν ἐπιλοίπων σοφῶν Βαβυλῶνος.
+  - `OG-Daniel`: καὶ παρήγγειλε νηστείαν καὶ δέησιν καὶ τιμαωρίαν ζητῆσαι παρὰ τοῦ κυρίου τοῦ ὑψίστου περὶ τοῦ μυστηρίου τούτου, ὅπως μὴ ἐκδοθῶσι Δανιὴλ καὶ οἱ μετʼ αὐτοῦ εἰς ἀπώλειαν ἄμα τοῖς σοφισταῖς Βαβυλῶνος.
   - `LXX-Orthodox (Οʹ)`: καὶ οἰκτιρμοὺς ἐζήτουν παρὰ τοῦ Θεοῦ τοῦ οὐρανοῦ ὑπὲρ τοῦ μυστηρίου τούτου, ὅπως ἂν μὴ ἀπόλωνται Δανιὴλ καὶ οἱ φίλοι αὐτοῦ μετὰ τῶν ἐπιλοίπων σοφῶν Βαβυλῶνος.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence)).
 
@@ -1105,6 +1454,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: τότε τῷ Δανιὴλ ἐν ὁράματι τῆς νυκτὸς τὸ μυστήριον ἀπεκαλύφθη. καὶ εὐλόγησεν τὸν θεὸν τοῦ οὐρανοῦ Δανιὴλ
   - `Swete (B/A/א)`: τότε τῷ Δανιὴλ ἐν ὁράματι τῆς νυκτὸς τὸ μυστήριον ἀπεκαλύφθη. καὶ εὐλόγησεν τὸν θεὸν τοῦ οὐρανοῦ Δανιὴλ
   - `Sixtine/Brenton`: Τότε τῷ Δανιὴλ ἐν ὁράματι τῆς νυκτὸς τὸ μυστήριον ἀπεκαλύφθη· καὶ εὐλόγησε τὸν Θεὸν τοῦ οὐρανοῦ Δανιὴλ, καὶ εἶπεν,
+  - `OG-Daniel`: τότε τῷ Δανιὴλ ἐν ὁράματι ἐν αὐτῇ τῇ νυκτὶ τὸ μυστήριον τοῦ βασιλέως ἐξεφάνθη εὐσήμως. τότε Δανιὴλ εὐλόγησε τὸν κύριον τὸν ὕψιστον, καὶ ἐκφωνήσας εἶπεν
   - `LXX-Orthodox (Οʹ)`: τότε τῷ Δανιὴλ ἐν ὁράματι τῆς νυκτὸς τὸ μυστήριον ἀπεκαλύφθη· καὶ εὐλόγησε τὸν Θεὸν τοῦ οὐρανοῦ Δανιὴλ
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ εἶπεν (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1115,6 +1465,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ εἶπεν Εἴη τὸ ὄνομα τοῦ θεοῦ εὐλογημένον ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος, ὅτι ἡ σοφία καὶ ἡ σύνεσις αὐτοῦ ἐστιν·
   - `Swete (B/A/א)`: καὶ εἶπεν Εἴη τὸ ὄνομα τοῦ θεοῦ εὐλογημένον ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος, ὅτι ἡ σοφία καὶ ἡ σύνεσις αὐτοῦ ἐστιν·
   - `Sixtine/Brenton`: Εἴη τὸ ὄνομα τοῦ Θεοῦ εὐλογημένον ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος, ὅτι ἡ σοφία καὶ ἡ σύνεσις αὐτοῦ ἐστι.
+  - `OG-Daniel`: Ἔσται τὸ ὄνομα τοῦ κυρίου τοῦ μεγάλου εὐλογημένον εἰς τὸν αἰῶνα, ὅτι ἡ σοφία καὶ ἡ μεγαλωσύνη αὐτοῦ ἐστι
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπεν· εἴη τὸ ὄνομα τοῦ Θεοῦ εὐλογημένον ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος, ὅτι ἡ σοφία καὶ ἡ σύνεσις αὐτοῦ ἐστι·
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'καὶ εἶπεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1125,6 +1476,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ αὐτὸς ἀλλοιοῖ καιροὺς καὶ χρόνους, καθιστᾷ βασιλεῖς καὶ μεθιστᾷ, διδοὺς σοφίαν τοῖς σοφοῖς καὶ φρόνησιν τοῖς εἰδόσιν σύνεσιν·
   - `Swete (B/A/א)`: καὶ αὐτὸς ἀλλοιοῖ καιροὺς καὶ χρόνους, καθιστᾷ βασιλεῖς καὶ μεθιστᾷ, διδοὺς σοφίαν τοῖς σοφοῖς καὶ φρόνησιν τοῖς εἰδόσιν σύνεσιν·
   - `Sixtine/Brenton`: Καὶ αὐτὸς ἀλλοιοῖ καιροὺς καὶ χρόνους, καθιστᾷ βασιλεῖς, καὶ μεθιστᾷ, διδοὺς σοφίαν τοῖς σοφοῖς, καὶ φρόνησιν τοῖς εἰδόσι σύνεσιν,
+  - `OG-Daniel`: καὶ αὐτὸς ἀλλοιοῖ καιροὺς καὶ χρόνους, μεθιστῶν βασιλεῖς καὶ καθιστῶν, διδοὺς σοφοῖς σοφίαν καὶ σύνεσιν τοῖς ἐν ἐπιστήμῃ οὖσιν·
   - `LXX-Orthodox (Οʹ)`: καὶ αὐτὸς ἀλλοιοῖ καιροὺς καὶ χρόνους, καθιστᾷ βασιλεῖς καὶ μεθιστᾷ, διδοὺς σοφίαν τοῖς σοφοῖς καὶ φρόνησιν τοῖς εἰδόσι σύνεσιν·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1134,6 +1486,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: αὐτὸς ἀποκαλύπτει βαθέα καὶ ἀπόκρυφα, γινώσκων τὰ ἐν τῷ σκότει, καὶ τὸ φῶς μετʼ αὐτοῦ ἐστιν.
   - `Swete (B/A/א)`: αὐτὸς ἀποκαλύπτει βαθέα καὶ ἀπόκρυφα, γινώσκων τὰ ἐν τῷ σκότει, καὶ τὸ φῶς μετʼ αὐτοῦ ἐστιν.
   - `Sixtine/Brenton`: αὐτὸς ἀποκαλύπτει βαθέα καὶ ἀπόκρυφα, γινώσκων τὰ ἐν τῷ σκότει, καὶ τὸ φῶς μετʼ αὐτοῦ ἐστι·
+  - `OG-Daniel`: ἀνακαλύπτων τὰ βαθέα καὶ σκοτεινὰ καὶ γινώσκων τὰ ἐν τῷ σκότει καὶ τὰ ἐν τῷ φωτί, καὶ παρʼ αὐτῷ κατάλυσις.
   - `LXX-Orthodox (Οʹ)`: αὐτὸς ἀποκαλύπτει βαθέα καὶ ἀπόκρυφα, γινώσκων τὰ ἐν τῷ σκότει, καὶ τὸ φῶς μετ' αὐτοῦ ἐστι·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1143,6 +1496,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: σοί, ὁ θεὸς τῶν πατέρων μου, ἐξομολογοῦμαι καὶ αἰνῶ, ὅτι σοφίαν καὶ δύναμιν δέδωκάς μοι, καὶ ἐγνώρισάς μοι ἃ ἠξιώσαμεν παρὰ σοῦ, καὶ τὸ ὅραμα τοῦ βασιλέως ἐγνώρισάς μοι.
   - `Swete (B/A/א)`: σοί, ὁ θεὸς τῶν πατέρων μου, ἐξομολογοῦμαι καὶ αἰνῶ, ὅτι σοφίαν καὶ δύναμιν δέδωκάς μοι, καὶ ἐγνώρισάς μοι ἃ ἠξιώσαμεν παρὰ σοῦ, καὶ τὸ ὅραμα τοῦ βασιλέως ἐγνώρισάς μοι.
   - `Sixtine/Brenton`: Σοὶ ὁ Θεὸς τῶν πατέρων μου ἐξομολογοῦμαι καὶ αἰνῶ, ὅτι σοφίαν καὶ δύναμιν δέδωκάς μοι, καὶ ἐγνώρισάς μοι ἃ ἠξιώσαμεν παρὰ σοῦ, καὶ τὸ ὅραμα τοῦ βασιλέως ἐγνώρισάς μοι.
+  - `OG-Daniel`: σοί, κύριε τῶν πατέρων μου, ἐξομολογοῦμαι καὶ αἰνῶ, ὅτι σοφίαν καὶ φρόνησιν ἔδωκάς μοι, καὶ νῦν ἐσήμανάς μοι ὅσα ἠξίωσα, τοῦ δηλῶσαι τῷ βασιλεῖ πρὸς ταῦτα.
   - `LXX-Orthodox (Οʹ)`: σοί, ὁ Θεὸς τῶν πατέρων μου, ἐξομολογοῦμαι καὶ αἰνῶ, ὅτι σοφίαν καὶ δύναμιν δέδωκάς μοι καὶ νῦν ἐγνώρισάς μοι ἃ ἠξιώσαμεν παρὰ σοῦ καὶ τὸ ὅραμα τοῦ βασιλέως ἐγνώρισάς μοι.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -1152,6 +1506,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἦλθεν Δανιὴλ πρὸς Ἀριώχ, ὃν κατέστησεν ὁ βασιλεὺς ἀπολέσαι τοὺς σοφοὺς Βαβυλῶνος, καὶ εἶπεν αὐτῷ Τοὺς σοφοὺς Βαβυλῶνος μὴ ἀπολέσῃς, εἰσάγαγε δέ με ἐνώπιον τοῦ βασιλέως, καὶ τὴν σύγκρισιν τῷ βασιλεῖ ἀναγγελῶ.
   - `Swete (B/A/א)`: καὶ ἦλθεν Δανιὴλ πρὸς Ἀριώχ, ὃν κατέστησεν ὁ βασιλεὺς ἀπολέσαι τοὺς σοφοὺς Βαβυλῶνος, καὶ εἶπεν αὐτῷ Τοὺς σοφοὺς Βαβυλῶνος μὴ ἀπολέσῃς, εἰσάγαγε δέ με ἐνώπιον τοῦ βασιλέως, καὶ τὴν σύγκρισιν τῷ βασιλεῖ ἀναγγελῶ.
   - `Sixtine/Brenton`: Καὶ ἦλθε Δανιὴλ πρὸς Ἀριὼχ, ὃν κατέστησεν ὁ βασιλεὺς ἀπολέσαι τοὺς σοφοὺς Βαβυλῶνος, καὶ εἶπεν αὐτῷ, τοὺς σοφοὺς Βαβυλῶνος μὴ ἀπολέσῃς, εἰσάγαγε δέ με ἐνώπιον τοῦ βασιλέως, καὶ τὴν σύγκρισιν τῷ βασιλεῖ ἀναγγελῶ.
+  - `OG-Daniel`: εἰσελθὼν δὲ Δανιὴλ πρὸς τὸν Ἀριὼχ τὸν κατασταθέντα ὑπὸ τοῦ βασιλέως ἀποκτεῖναι πάντας τοὺς σοφιστὰς τῆς Βαβυλωνίας εἶπεν αὐτῷ Τοὺς μὲν σοφιστὰς τῆς Βαβυλωνίας μὴ ἀπολέσῃς, εἰσάγαγε δέ με πρὸς τὸν βασιλέα, καὶ ἕκαστα τῷ βασιλεῖ δηλώσω.
   - `LXX-Orthodox (Οʹ)`: καὶ ἦλθε Δανιὴλ πρὸς Ἀριώχ, ὃν κατέστησεν ὁ βασιλεὺς ἀπολέσαι τοὺς σοφοὺς Βαβυλῶνος, καὶ εἶπεν αὐτῷ· τοὺς σοφοὺς Βαβυλῶνος μὴ ἀπολέσῃς, εἰσάγαγε δέ με ἐνώπιον τοῦ βασιλέως, καὶ τὴν σύγκρισιν τῷ βασιλεῖ ἀναγγελῶ.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1161,6 +1516,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: Τότε Ἀριὼχ ἐν σπουδῇ εἰσήγαγεν τὸν Δανιὴλ ἐνώπιον τοῦ βασιλέως καὶ εἶπεν αὐτῷ Εὕρηκα ἄνδρα ἐκ τῶν υἱῶν τῆς αἰχμαλωσίας τῆς Ἰουδαίας, ὅστις τὸ σύγκριμα τῷ βασιλεῖ ἀναγγελεῖ
   - `Swete (B/A/א)`: Τότε Ἀριὼχ ἐν σπουδῇ εἰσήγαγεν τὸν Δανιὴλ ἐνώπιον τοῦ βασιλέως καὶ εἶπεν αὐτῷ Εὕρηκα ἄνδρα ἐκ τῶν υἱῶν τῆς αἰχμαλωσίας τῆς Ἰουδαίας, ὅστις τὸ σύγκριμα τῷ βασιλεῖ ἀναγγελεῖ
   - `Sixtine/Brenton`: Τότε Ἀριὼχ ἐν σπουδῇ εἰσήγαγε τὸν Δανιὴλ ἐνώπιον τοῦ βασιλέως, καὶ εἶπεν αὐτῷ, εὕρηκα ἄνδρα ἐκ τῶν υἱῶν τῆς αἰχμαλωσίας τῆς Ἰουδαίας, ὅστις τὸ σύγκριμα τῷ βασιλεῖ ἀναγγελεῖ.
+  - `OG-Daniel`: Τότε Ἀριὼχ κατὰ σπουδὴν εἰσήγαγεν τὸν Δανιὴλ πρὸς τὸν βασιλέα καὶ εἶπεν αὐτῷ ὅτι Εὕρηκα ἄνθρωπον σοφὸν ἐκ τῆς αἰχμαλωσίας τῶν υἱῶν τῆς Ἰουδαίας, ὃς τῷ βασιλεῖ δηλώσει ἕκαστα.
   - `LXX-Orthodox (Οʹ)`: τότε Ἀριὼχ ἐν σπουδῇ εἰσήγαγε τὸν Δανιὴλ ἐνώπιον τοῦ βασιλέως καὶ εἶπεν αὐτῷ· εὕρηκα ἄνδρα ἐκ τῶν υἱῶν τῆς αἰχμαλωσίας τῆς Ἰουδαίας, ὅστις τὸ σύγκριμα τῷ βασιλεῖ ἀναγγελεῖ.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1170,6 +1526,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν τῷ Δανιήλ, οὗ τὸ ὄνομα Βαλτασάρ Εἰ δύνασαί μοι ἀναγγεῖλαι τὸ ἐνύπνιον ὃ ἴδον καὶ τὴν σύγκρισιν αὐτοῦ;
   - `Swete (B/A/א)`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν τῷ Δανιήλ, οὗ τὸ ὄνομα Βαλτασάρ Εἰ δύνασαί μοι ἀναγγεῖλαι τὸ ἐνύπνιον ὃ ἴδον καὶ τὴν σύγκρισιν αὐτοῦ;
   - `Sixtine/Brenton`: Καὶ ἀπεκρίθη ὁ βασιλεὺς, καὶ εἶπε τῷ Δανιὴλ, οὗ τὸ ὄνομα Βαλτάσαρ, εἰ δύνασαί μοι ἀναγγεῖλαι τὸ ἐνύπνιον ὃ ἴδον, καὶ τὴν σύγκρισιν αὐτοῦ;
+  - `OG-Daniel`: ἀποκριθεὶς δὲ ὁ βασιλεὺς εἶπε τῷ Δανιήλ, ἐπικαλουμένῳ δὲ Χαλδαιστὶ Βαλτασάρ Δυνήσῃ δηλῶσαί μοι τὸ ὄραμα ὃ εἶδον καὶ τὴν τούτου σύγκρισιν;
   - `LXX-Orthodox (Οʹ)`: καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπε τῷ Δανιήλ, οὗ τὸ ὄνομα Βαλτάσαρ· εἰ δύνασαί μοι ἀναγγεῖλαι τὸ ἐνύπνιον, ὃ εἶδον, καὶ τὴν σύγκρισιν αὐτοῦ;
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 7 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1179,6 +1536,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἀπεκρίθη Δανιὴλ ἐνώπιον τοῦ βασιλέως καὶ λέγει Τὸ μυστήριον ὃ ὁ βασιλεὺς ἐρωτῷ οὐκ ἔστιν σοφῶν, μάγων, ἐπαοιδῶν, γαζαρηνῶν ἀναγγεῖλαι τῷ βασιλεῖ
   - `Swete (B/A/א)`: καὶ ἀπεκρίθη Δανιὴλ ἐνώπιον τοῦ βασιλέως καὶ λέγει Τὸ μυστήριον ὃ ὁ βασιλεὺς ἐρωτῷ οὐκ ἔστιν σοφῶν, μάγων, ἐπαοιδῶν, γαζαρηνῶν ἀναγγεῖλαι τῷ βασιλεῖ
   - `Sixtine/Brenton`: Καὶ ἀπεκρίθη Δανιὴλ ἐνώπιον τοῦ βασιλέως, καὶ εἶπε, τὸ μυστήριον ὃ ὁ βασιλεὺς ἐπερωτᾷ, οὐκ ἔστι σοφῶν, μάγων, ἐπαοιδῶν, γαζαρηνῶν ἀναγγεῖλαι τῷ βασιλεῖ·
+  - `OG-Daniel`: ἐκφωνήσας δὲ ὁ Δανιὴλ ἐπὶ βασιλέως εἶπεν Τὸ μυστήριον ὃ ἑώρακεν ὁ βασιλεύς, οὐκ ἔστι σοφῶν καὶ φαρμακῶν καὶ ἐπαοιδῶν καὶ γαζαρηνῶν ἡ δήλωσις·
   - `LXX-Orthodox (Οʹ)`: καὶ ἀπεκρίθη Δανιὴλ ἐνώπιον τοῦ βασιλέως καὶ εἶπε· τὸ μυστήριον, ὃ ὁ βασιλεὺς ἐπερωτᾷ, οὐκ ἔστι σοφῶν, μάγων, ἐπαοιδῶν, γαζαρηνῶν ἀναγγεῖλαι τῷ βαασιλεῖ,
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'λέγει' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over εἶπε (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἐρωτᾷ' [Swete-Amicarelli] (weight 0.93, confidence 53%) over ἐπερωτᾷ (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
@@ -1189,6 +1547,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: Bλλ᾿ ἢ ἔστιν θεὸς ἐν οὐρανῷ ἀποκαλύπτων μυστήρια, καὶ ἐγνώρισεν τῷ βασιλεῖ Ναβουχοδονοσὸρ ἃ δεῖ γενέσθαι ἐπʼ ἐσχάτων τῶν ἡμερῶν. τὸ ἐνύπνιόν σου καὶ αἱ ὁράσεις τῆς κεφαλῆς σου ἐπὶ τῆς κοίτης σου τοῦτό ἐστιν.
   - `Swete (B/A/א)`: Bλλ᾿ ἢ ἔστιν θεὸς ἐν οὐρανῷ ἀποκαλύπτων μυστήρια, καὶ ἐγνώρισεν τῷ βασιλεῖ Ναβουχοδονοσὸρ ἃ δεῖ γενέσθαι ἐπʼ ἐσχάτων τῶν ἡμερῶν. τὸ ἐνύπνιόν σου καὶ αἱ ὁράσεις τῆς κεφαλῆς σου ἐπὶ τῆς κοίτης σου τοῦτό ἐστιν.
   - `Sixtine/Brenton`: Ἀλλʼ ἤ ἐστι Θεὸς ἐν οὐρανῷ ἀποκαλύπτων μυστήρια, καὶ ἐγνώρισε τῷ βασιλεῖ Ναβουχοδονόσορ, ἃ δεῖ γενέσθαι ἐπʼ ἐσχάτων τῶν ἡμερῶν· τὸ ἐνύπνιόν σου καὶ αἱ ὁράσεις τῆς κεφαλῆς σου ἐπὶ τῆς κοίτης σου, τοῦτό ἐστι,
+  - `OG-Daniel`: άλλʼ ἔστι θεὸς ἐν οὐρανῷ ἀνακαλύπτων μυστήρια, ὃς ἐδήλωσε τῷ βασιλεῖ Ναβουχοδονοσὸρ ἄ δεῖ γενέσθαι ἐπʼ ἐσχάτων τῶν ἡμερῶν·
   - `LXX-Orthodox (Οʹ)`: ἀλλ' ἤ ἐστι Θεὸς ἐν οὐρανῷ ἀποκαλύπτων μυστήρια καὶ ἐγνώρισε τῷ βασιλεῖ Ναβουχοδονόσορ ἃ δεῖ γενέσθαι ἐπ' ἐσχάτων τῶν ἡμερῶν. τὸ ἐνύπνιόν σου καὶ αἱ ὁράσεις τῆς κεφαλῆς σου ἐπὶ τῆς κοίτης σου, τοῦτό ἐστι.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 10 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1198,18 +1557,20 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: βασιλεῦ, οἱ διαλογισμοί σου ἐπὶ τῆς κοίτης σου ἀνέβησαν τί δεῖ γενέσθαι μετὰ ταῦτα, καὶ ὁ ἀποκαλύπτων μυστήρια ἐγνώρισέν σοι ἄ δεῖ γενέσθαι.
   - `Swete (B/A/א)`: βασιλεῦ, οἱ διαλογισμοί σου ἐπὶ τῆς κοίτης σου ἀνέβησαν τί δεῖ γενέσθαι μετὰ ταῦτα, καὶ ὁ ἀποκαλύπτων μυστήρια ἐγνώρισέν σοι ἄ δεῖ γενέσθαι.
   - `Sixtine/Brenton`: βασιλεῦ· οἱ διαλογισμοί σου ἐπὶ τῆς κοίτης σου ἀνέβησαν τί δεῖ γενέσθαι μετὰ ταῦτα· καὶ ὁ ἀποκαλύπτων μυστήρια ἐγνώρισέ σοι ἃ δεῖ γενέσθαι.
+  - `OG-Daniel`: καὶ ἀνακαλύπτων μυστήρια ἐδήλωσέ σοι ἃ δεῖ γενέσθαι.
   - `LXX-Orthodox (Οʹ)`: σύ, βασιλεῦ, οἱ διαλογισμοί σου ἐπὶ τῆς κοίτης σου ἀνέβησαν τί δεῖ γενέσθαι μετὰ ταῦτα, καὶ ὁ ἀποκαλύπτων μυστήρια ἐγνώρισέ σοι ἃ δεῖ γενέσθαι.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
-### Verse 30 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 30 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἐμοὶ δὲ οὐκ ἐν σοφίᾳ τῇ οὔσῃ ἐν ἐμοὶ παρὰ πάντας τοὺς ζῶντας τὸ μυστήριον τοῦτο ἀπεκαλύφθη, ἀλλ᾽ ἕνεκεν τοῦ τὴν σύγκρισιν γνωρίσαι τῷ βασιλεῖ, ἵνα τοὺς διαλογισμοὺς τῆς καρδίας σου γνῷς.
   - `Swete-Amicarelli`: καὶ ἐμοὶ δὲ οὐκ ἐν σοφίᾳ τῇ οὔσῃ ἐν ἐμοὶ παρὰ πάντας τοὺς ζῶντας τὸ μυστήριον τοῦτο ἀπεκαλύφθη, ἀλλ᾽ ἕνεκεν τοῦ τὴν σύγκρισιν γνωρίσαι τῷ βασιλεῖ, ἵνα τοὺς διαλογισμοὺς τῆς καρδίας σου γνῷς.
   - `1st1K-LXX`: καὶ ἐμοὶ δὲ οὐκ ἐν σοφίᾳ τῇ οὔσῃ ἐν ἐμοὶ παρὰ πάντας τοὺς ζῶντας τὸ μυστήριον τοῦτο ἀπεκαλύφθη, ἀλλʼ ἕνεκεν τοῦ τὴν σύγκρισιν γνωρίσαι τῷ βασιλεῖ, ἴνα τοὺς διαλογισμοὺς τῆς καρδίας σου γνῷς.
   - `Swete (B/A/א)`: καὶ ἐμοὶ δὲ οὐκ ἐν σοφίᾳ τῇ οὔσῃ ἐν ἐμοὶ παρὰ πάντας τοὺς ζῶντας τὸ μυστήριον τοῦτο ἀπεκαλύφθη, ἀλλʼ ἕνεκεν τοῦ τὴν σύγκρισιν γνωρίσαι τῷ βασιλεῖ, ἴνα τοὺς διαλογισμοὺς τῆς καρδίας σου γνῷς.
   - `Sixtine/Brenton`: Καὶ ἐμοὶ δὲ οὐκ ἐν σοφίᾳ τῇ οὔσῃ ἐν ἐμοὶ παρὰ πάντας τοὺς ζῶντας τὸ μυστήριον τοῦτο ἀπεκαλύφθη, ἀλλʼ ἕνεκεν τοῦ τὴν σύγκρισιν τῷ βασιλεῖ γνωρίσαι, ἵνα τοὺς διαλογισμοὺς τῆς καρδίας σου γνῷς.
+  - `OG-Daniel`: κἀμοὶ δέ οὐ παρὰ τὴν σοφίαν τὴν οὗσαν ἐν ἐμοὶ ὑπὲρ πάντας τοὺς ἀνθρώπους τὸ μυστήριον τοῦτο ἐξεφάνθη, ἀλλ᾿ ἕνεκεν τοῦ δηλωθῆναι τῷ βασιλεῖ ἐσημάνθη μοι ἃ ὑπέλαβες τῇ καρδίᾳ σου ἐν γνώσει.
   - `LXX-Orthodox (Οʹ)`: καὶ ἐμοὶ δὲ οὐκ ἐν σοφίᾳ τῇ οὔσῃ ἐν ἐμοὶ παρὰ πάντας τοὺς ζῶντας τὸ μυστήριον τοῦτο ἀπεκαλύφθη, ἀλλ' ἕνεκεν τοῦ τὴν σύγκρισιν τῷ βασιλεῖ γνωρίσαι, ἵνα τοὺς διαλογισμοὺς τῆς καρδίας σου γνῷς.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'γνωρίσαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γνωρίσαι (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** σύ, βασιλεῦ, ἐθεώρεις, καὶ ἰδοὺ εἰκὼν μία, μεγάλη ἡ εἰκὼν ἐκείνη, καὶ ἡ πρόσοψις αὐτῆς ὑπερφερής, ἑστῶσα πρὸ προσώπου σου· καὶ ἡ ὅρασις αὐτῆς φοβερά.
@@ -1217,6 +1578,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: σύ, βασιλεῦ, ἐθεώρεις, καὶ ἰδοὺ εἰκὼν μία, μεγάλη ἡ εἰκὼν ἐκείνη, καὶ ἡ πρόσοψις αὐτῆς ὑπερφερής, ἑστῶσα πρὸ προσώπου σου· καὶ ἡ ὅρασις αὐτῆς φοβερά.
   - `Swete (B/A/א)`: σύ, βασιλεῦ, ἐθεώρεις, καὶ ἰδοὺ εἰκὼν μία, μεγάλη ἡ εἰκὼν ἐκείνη, καὶ ἡ πρόσοψις αὐτῆς ὑπερφερής, ἑστῶσα πρὸ προσώπου σου· καὶ ἡ ὅρασις αὐτῆς φοβερά.
   - `Sixtine/Brenton`: Σὺ βασιλεῦ ἐθεώρεις, καὶ ἰδοὺ εἰκὼν μία, μεγάλη ἡ εἰκὼν ἐκείνη, καὶ ἡ πρόσοψις αὐτῆς ὑπερφερὴς, ἑστῶσα πρὸ προσώπου σου, καὶ ἡ ὅρασις αὐτῆς φοβερά.
+  - `OG-Daniel`: καὶ σύ, βασιλεῦ, ἑώρακας, καὶ ἰδοὺ εἰκὼν μία, καὶ ἦν ἡ εἰκὼν ἐκείνη μεγάλη σφόδρα, καὶ ἡ πρόσοψις αὐτῆς ὑπερφερὴς ἑστήκει ἐναντίον σου· καὶ ἡ πρόσοψις τῆς εἰκόνος φοβερά.
   - `LXX-Orthodox (Οʹ)`: σύ, βασιλεῦ, ἐθεώρεις, καὶ ἰδοὺ εἰκὼν μία, μεγάλη ἡ εἰκὼν ἐκείνη, καὶ ἡ πρόσοψις αὐτῆς ὑπερφερής, ἑστῶσα πρὸ προσώπου σου, καὶ ἡ ὅρασις αὐτῆς φοβερά·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -1226,6 +1588,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: εἰκὼν ἧς ἡ κεφαλὴ χρυσίου χρηστοῦ, αἱ χεῖρες καὶ τὸ στῆθος καὶ οἱ βραχίονες αὐτῆς ἀργυροῖ, ἡ κοιλία καὶ οἱ μηροὶ χαλκοῖ,
   - `Swete (B/A/א)`: εἰκὼν ἧς ἡ κεφαλὴ χρυσίου χρηστοῦ, αἱ χεῖρες καὶ τὸ στῆθος καὶ οἱ βραχίονες αὐτῆς ἀργυροῖ, ἡ κοιλία καὶ οἱ μηροὶ χαλκοῖ,
   - `Sixtine/Brenton`: Εἰκὼν, ἧς ἡ κεφαλὴ χρυσίου χρηστοῦ, αἱ χεῖρες καὶ τὸ στῆθος καὶ οἱ βραχίονες αὐτῆς ἀργυροῖ, ἡ κοιλία καὶ οἱ μηροὶ χαλκοῖ,
+  - `OG-Daniel`: καὶ ἦν ἡ κεφαλὴ αὐτῆς ἀπὸ χρυσίου χρηστοῦ, τὸ στῆθος καὶ οἱ βραχίονες ἀργυροῖ, ἡ κοιλία καὶ οἱ μηροὶ χαλκοῖ
   - `LXX-Orthodox (Οʹ)`: εἰκών, ἧς ἡ κεφαλὴ χρυσίου χρηστοῦ, αἱ χεῖρες καὶ τὸ στῆθος καὶ οἱ βραχίονες αὐτῆς ἀργυροῖ, ἡ κοιλία καὶ οἱ μηροὶ χαλκοῖ,
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
 
@@ -1235,6 +1598,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: αἱ κνῆμαι σιδηραῖ, οἱ πόδες μέρος τι σιδηροῦν καὶ μέρος ὀστράκινον.
   - `Swete (B/A/א)`: αἱ κνῆμαι σιδηραῖ, οἱ πόδες μέρος τι σιδηροῦν καὶ μέρος ὀστράκινον.
   - `Sixtine/Brenton`: αἱ κνῆμαι σιδηραῖ, οἱ πόδες μέρος μέν τι σιδηροῦν, καὶ μέρος δέ τι ὀστράκινον.
+  - `OG-Daniel`: τὰ δὲ σκέλη σιδηρᾶ, οἱ πόδες μέρος μέν τι σιδήρου, μέρος δέ τι ὀστράκινον.
   - `LXX-Orthodox (Οʹ)`: αἱ κνῆμαι σιδηραῖ, οἱ πόδες μέρος τι σιδηροῦν καὶ μέρος τι ὀστράκινον.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over μέν (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over δέ τι (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1245,19 +1609,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἐθεώρεις ἕως ἀπεσχίσθη λίθος ἐξ ὄρους ἄνευ χειρῶν, καὶ ἐπάταξεν τὴν εἰκόνα ἐπὶ τοὺς πόδας τοὺς σιδηροῦς καὶ ὀστρακίνους, καὶ ἐλέπτυνεν εἰς τέλος.
   - `Swete (B/A/א)`: ἐθεώρεις ἕως ἀπεσχίσθη λίθος ἐξ ὄρους ἄνευ χειρῶν, καὶ ἐπάταξεν τὴν εἰκόνα ἐπὶ τοὺς πόδας τοὺς σιδηροῦς καὶ ὀστρακίνους, καὶ ἐλέπτυνεν εἰς τέλος.
   - `Sixtine/Brenton`: Ἐθεώρεις ἕως ἀπεσχίσθη λίθος ἐξ ὄρους ἄνευ χειρῶν, καὶ ἐπάταξε τὴν εἰκόνα ἐπὶ τοὺς πόδας τοὺς σιδηροῦς καὶ ὀστρακίνους, καὶ ἐλέπτυνεν αὐτοὺς εἰς τέλος.
+  - `OG-Daniel`: ἑώρακας ἕως ὅτου ἐτμήθη λίθος ἐξ ὄρους ἄνευ χειρῶν, καὶ ἐπάταξε τὴν εἰκόνα ἐπὶ τοὺς πόδας τοὺς σιδηροῦς καὶ ὀστρακίνους καὶ κατήλεσεν αὐτά.
   - `LXX-Orthodox (Οʹ)`: ἐθεώρεις ἕως οὗ ἐτμήθη λίθος ἐξ ὄρους ἄνευ χειρῶν καὶ ἐπάταξε τὴν εἰκόνα ἐπὶ τοὺς πόδας τοὺς σιδηροῦς καὶ ὀστρακίνους καὶ ἐλέπτυνεν αὐτοὺς εἰς τέλος.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὐτοὺς (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 35 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 35 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** τότε ἐλεπτύνθησαν εἰς ἅπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκός, ὁ ἄργυρος, ὁ χρυσός, καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἅλωνος θερινῆς· καὶ ἐξῆρεν τὸ πλῆθος τοῦ πνεύματος, καὶ τόπος οὐχ εὑρέθη αὐτοῖς· καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα ἐγενήθη ὄρος μέγα, καὶ ἐπλήρωσεν πᾶσαν τὴν γῆν.
   - `Swete-Amicarelli`: τότε ἐλεπτύνθησαν εἰς ἅπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκός, ὁ ἄργυρος, ὁ χρυσός, καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἅλωνος θερινῆς· καὶ ἐξῆρεν τὸ πλῆθος τοῦ πνεύματος, καὶ τόπος οὐχ εὑρέθη αὐτοῖς· καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα ἐγενήθη ὄρος μέγα, καὶ ἐπλήρωσεν πᾶσαν τὴν γῆν.
   - `1st1K-LXX`: τότε ἐλεπτύνθησαν εἰς ἅπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκός, ὁ ἄργυρος, ὁ χυυσός, καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἄλωνος θερινῆς· καὶ ἐξῆρεν τὸ πλῆθος τοῦ πνεύματος, καὶ τόπος οὐχ εὑρέθη αὐτοῖς· καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα ἐγενἤθη ὄρος μέγα, καὶ ἐπλήρωσεν πᾶσαν τὴν γῆν.
   - `Swete (B/A/א)`: τότε ἐλεπτύνθησαν εἰς ἅπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκός, ὁ ἄργυρος, ὁ χυυσός, καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἄλωνος θερινῆς· καὶ ἐξῆρεν τὸ πλῆθος τοῦ πνεύματος, καὶ τόπος οὐχ εὑρέθη αὐτοῖς· καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα ἐγενἤθη ὄρος μέγα, καὶ ἐπλήρωσεν πᾶσαν τὴν γῆν.
   - `Sixtine/Brenton`: Τότε ἐλεπτύνθησαν εἰσάπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκὸς, ὁ ἄργυρος, ὁ χρυσός· καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἅλωνος θερινῆς· καὶ ἐξῇρεν αὐτὰ τὸ πλῆθος τοῦ πνεύματος, καὶ τόπος οὐχ εὑρέθη αὐτοῖς· καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα, ἐγενήθη ὄρος μέγα, καὶ ἐπλήρωσε πᾶσαν τὴν γῆν.
+  - `OG-Daniel`: τότε λεπτὰ ἐγένετο ἄμα ὁ σίδηρος καὶ τὸ ὄστρακον καὶ ὁ χαλκὸς καὶ ὁ ἄργυρος καὶ τὸ χρυσίον, καὶ ἐγένετο ὡσεὶ λεπτότερον ἀχύρου ἐν ἄλωνι, καὶ ἐρρίπισεν αὐτὰ ὁ ἄνεμος ὥστε μηδέν καταλειφθῆναι ἐξ αὐτῶν, καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα ἐγένετο ὄρος μέγα, καὶ ἐπάταξε πᾶσαν τὴν γῆν.
   - `LXX-Orthodox (Οʹ)`: τότε ἐλεπτύνθησαν εἰς ἅπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκός, ὁ ἄργυρος, ὁ χρυσός, καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἅλωνος θερινῆς· καὶ ἐξῇρεν αὐτὰ τὸ πλῆθος τοῦ πνεύματος, καὶ τόπος οὐχ εὑρέθη αὐτοῖς· καὶ ὁ λίθος ὁ πατάξας τὴν εἰκόνα ἐγενήθη ὄρος μέγα καὶ ἐπλήρωσε πᾶσαν τὴν γῆν.
-- **Philological Rationale:** [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἐξῆρεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξῇρεν (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὐτὰ (Sixtine/Brenton). Also normalised 8 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὐτὰ (Sixtine/Brenton). Also normalised 9 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** τοῦτό ἐστιν τὸ ἐνύπνιον· καὶ τὴν σύγκρισιν αὐτοῦ ἐροῦμεν ἐνώπιον τοῦ βασιλέως.
@@ -1265,6 +1631,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: τοῦτό ἐστιν τὸ ἐνύπνιον· καὶ τὴν σύγκρισιν αὐτοῦ ἐροῦμεν ἐνώπιον τοῦ βασιλέως.
   - `Swete (B/A/א)`: τοῦτό ἐστιν τὸ ἐνύπνιον· καὶ τὴν σύγκρισιν αὐτοῦ ἐροῦμεν ἐνώπιον τοῦ βασιλέως.
   - `Sixtine/Brenton`: Τοῦτό ἐστι τὸ ἐνύπνιον, καὶ τὴν σύγκρισιν αὐτοῦ ἐροῦμεν ἐνώπιον τοῦ βασιλέως.
+  - `OG-Daniel`: τοῦτο τὸ ὅραμα· καὶ τὴν κρίσιν δὲ ἐροῦμεν ἐπὶ τοῦ βασιλέως.
   - `LXX-Orthodox (Οʹ)`: τοῦτό ἐστι τὸ ἐνύπνιον καὶ τὴν σύγκρισιν αὐτοῦ ἐροῦμεν ἐνώπιον τοῦ βασιλέως.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).
 
@@ -1274,6 +1641,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: σύ, βασιλεῦ, βασιλεὺς βασιλέων, ᾧ ὁ θεὸς τοῦ οὐρανοῦ βασιλείαν ἰσχυρὰν καὶ κραταιὰν καὶ ἔντιμον ἔδωκεν
   - `Swete (B/A/א)`: σύ, βασιλεῦ, βασιλεὺς βασιλέων, ᾧ ὁ θεὸς τοῦ οὐρανοῦ βασιλείαν ἰσχυρὰν καὶ κραταιὰν καὶ ἔντιμον ἔδωκεν
   - `Sixtine/Brenton`: Σὺ βασιλεῦ βασιλεὺς βασιλέων, ᾧ ὁ Θεὸς τοῦ οὐρανοῦ βασιλείαν ἰσχυρὰν καὶ κραταιὰν καὶ ἔντιμον ἔδωκεν
+  - `OG-Daniel`: σύ, βασιλεῦ, βασιλεὺς βασιλέων, καὶ σοὶ ὁ κύριος τοῦ οὐρανοῦ τὴν ἀρχὴν καὶ τὴν βασιλείαν καὶ τὴν ἰσχὺν καὶ τὴν τιμὴν καὶ τὴν δόξαν ἔδωκεν·
   - `LXX-Orthodox (Οʹ)`: σύ, βασιλεῦ, βασιλεὺς βασιλέων, ᾧ ὁ Θεὸς τοῦ οὐρανοῦ βασιλείαν ἰσχυρὰν καὶ κραταιὰν καὶ ἔντιμον ἔδωκεν,
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -1283,6 +1651,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ἐν παντὶ τόπῳ ὅπου κατοικοῦσιν οἱ υἱοὶ τῶν ἀνθρώπων· θηρία τε ἀγροῦ καὶ πετεινὰ οὐρανοῦ ἔδωκεν ἐν τῇ χειρί σου, καὶ κατέστησεν κύριον πάντων· σὺ εἶ ἡ κεφαλὴ ἡ χρυσῆ.
   - `Swete (B/A/א)`: ἐν παντὶ τόπῳ ὅπου κατοικοῦσιν οἱ υἱοὶ τῶν ἀνθρώπων· θηρία τε ἀγροῦ καὶ πετεινὰ οὐρανοῦ ἔδωκεν ἐν τῇ χειρί σου, καὶ κατέστησεν κύριον πάντων· σὺ εἶ ἡ κεφαλὴ ἡ χρυσῆ.
   - `Sixtine/Brenton`: ἐν παντὶ τόπῳ, ὅπου κατοικοῦσιν οἱ υἱοὶ τῶν ἀνθρώπων· θηρία τε ἀγροῦ, καὶ πετεινὰ οὐρανοῦ, καὶ ἰχθύας τῆς θαλάσσης ἔδωκεν ἐν τῇ χειρί σου, καὶ κατέστησέ σε κύριον πάντων· σὺ εἶ ἡ κεφαλὴ ἡ χρυσῆ.
+  - `OG-Daniel`: ἐν πάσῃ τῇ οἰκουμένῃ ἀπὸ ἀνθρώπων καὶ θηρίων ἀγρίων καὶ πετεινῶν οὐρανοῦ καὶ τῶν ἰχθύων τῆς θαλάσσης παρέδωκεν ὑπὸ τὰς χεῖράς σου, κυριεύειν πάντων· σὺ εἶ ἡ κεφαλὴ ἡ χρυσῆ.
   - `LXX-Orthodox (Οʹ)`: ἐν παντὶ τόπῳ, ὅπου κατοικοῦσιν οἱ υἱοὶ τῶν ἀνθρώπων, θηρία τε ἁγροῦ καὶ πετεινὰ οὐρανοῦ καὶ ἰχθύας τῆς θαλάσσης ἔδωκεν ἐν τῇ χειρί σου καὶ κατέστησέ σε κύριον πάντων, σὺ εἶ ἡ κεφαλὴ ἡ χρυσῆ.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ ἰχθύας τῆς θαλάσσης (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'κατέστησεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over κατέστησέ σε (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1293,6 +1662,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ὀπίσω σου ἀναστήσεται ἑτέρα βασιλεία ἥττων σου, καὶ βασιλεία τρίτη ἥτις ἐστὶν ὁ χαλκός, ἡ κυριεύσει πάσης τῆς γῆς·
   - `Swete (B/A/א)`: καὶ ὀπίσω σου ἀναστήσεται ἑτέρα βασιλεία ἥττων σου, καὶ βασιλεία τρίτη ἥτις ἐστὶν ὁ χαλκός, ἡ κυριεύσει πάσης τῆς γῆς·
   - `Sixtine/Brenton`: Καὶ ὀπίσω σου ἀναστήσεται βασιλεία ἑτέρα ἥττων σου, καὶ βασιλεία τρίτη, ἥτις ἐστὶν ὁ χαλκὸς, ἣ κυριεύσει πάσης τῆς γῆς,
+  - `OG-Daniel`: καὶ μετὰ σέ ἀναστήσεται βασιλεία ἐλάττων σου, καὶ τρίτη βασιλεία ἄλλη χαλκῆ ἣ κυριεύσει πάσης τῆς γῆς·
   - `LXX-Orthodox (Οʹ)`: καὶ ὀπίσω σου ἀναστήσεται βασιλεία ἑτέρα ἥττων σου καὶ βασιλεία τρίτη, ἥτις ἐστὶν ὁ χαλκός, ἣ κυριεύσει πάσης τῆς γῆς.
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'ἑτέρα βασιλεία' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over βασιλεία ἑτέρα (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1303,6 +1673,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ βασιλεία τετάρτη ἔσται ἰσχυρὰ ὡς ὁ σίδηρος· ὃν τρόπον ὁ σίδηρος λεπτύνει καὶ δαμάζει πάντα, οὕτως πάντα λεπτυνεῖ καὶ δαμάσει.
   - `Swete (B/A/א)`: καὶ βασιλεία τετάρτη ἔσται ἰσχυρὰ ὡς ὁ σίδηρος· ὃν τρόπον ὁ σίδηρος λεπτύνει καὶ δαμάζει πάντα, οὕτως πάντα λεπτυνεῖ καὶ δαμάσει.
   - `Sixtine/Brenton`: καὶ βασιλεία τετάρτη, ἥτις ἔσται ἰσχυρὰ ὡς σίδηρος· ὃν τρόπον ὁ σίδηρος λεπτύνει καὶ δαμάζει πάντα, οὕτως πάντα λεπτυνεῖ καὶ δαμάσει.
+  - `OG-Daniel`: καὶ βασιλεία τετάρτη ἰσχυρὰ ὡς ὁ σίδηρος, ὥσπερ ὁ σίδηρος ὃ δαμάζων πάντα, καὶ ὡς ὁ σίδηρος πᾶν δένδρον ἐκκόπτων· καὶ σεισθήσεται πᾶσα ἡ γῆ.
   - `LXX-Orthodox (Οʹ)`: καὶ βασιλεία τετάρτη, ἥτις ἔσται ἰσχυρὰ ὡς σίδηρος· ὃν τρόπον ὁ σίδηρος λεπτύνει καὶ δαμάζει πάντα, οὕτως πάντα λεπτυνεῖ καὶ δαμάσει.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἥτις (Sixtine/Brenton). [Omission in some witnesses] Adopted 'ὁ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1313,6 +1684,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ὅτι ἴδες τοὺς πόδας καὶ τοὺς δακτύλους μέρος μέν τι ὀστράκινον, μέρος δέ τι σιδηροῦν, βασιλεία διῃρημένη ἔσται, καὶ ἀπὸ τῆς ῥίζης τῆς σιδηρᾶς ἔσται ἐν αὐτῇ, ὃν τρόπον ἴδες τὸν σίδηρον ἀναμεμιγμένον τῷ ὀστράκῳ.
   - `Swete (B/A/א)`: καὶ ὅτι ἴδες τοὺς πόδας καὶ τοὺς δακτύλους μέρος μέν τι ὀστράκινον, μέρος δέ τι σιδηροῦν, βασιλεία διῃρημένη ἔσται, καὶ ἀπὸ τῆς ῥίζης τῆς σιδηρᾶς ἔσται ἐν αὐτῇ, ὃν τρόπον ἴδες τὸν σίδηρον ἀναμεμιγμένον τῷ ὀστράκῳ.
   - `Sixtine/Brenton`: Καὶ ὅτι εἶδες τοὺς πόδας, καὶ τοὺς δακτύλους, μέρος μέν τι ὀστράκινον, μέρος δέ τι σιδηροῦν, βασιλεία διῃρημένη ἔσται, καὶ ἀπὸ τῆς ῥίζης τῆς σιδηρᾶς ἔσται ἐν αὐτῇ, ὃν τρόπον εἶδες τὸν σίδηρον ἀναμεμιγμένον τῷ ὀστράκῳ.
+  - `OG-Daniel`: καὶ ὡς ἑώρακας τοὺς πόδας αὐτῆς καὶ τοὺς δακτύλους μέρος μέν τι ὀστράκου κεραμικοῦ, μέρος δέ τι σιδήρου, βασιλεία ἄλλη διμερὴς ἔσται ἐν αὐτῇ, καθάπερ εἶδες τὸν σίδηρον ἀναμεμιγμένον ἄμα τῷ πηλίνῳ ὀστράκῳ.
   - `LXX-Orthodox (Οʹ)`: καὶ ὅτι εἶδες τοὺς πόδας καὶ τοὺς δακτύλους μέρος μέν τι ὀστράκινον μέρος δέ τι σιδηροῦν, βασιλεία διῃρημένη ἔσται, καὶ ἀπὸ τῆς ρίζης τῆς σιδηρᾶς ἔσται ἐν αὐτῇ, ὃν τρόπον εἶδες τὸν σίδηρον ἀναμεμειγμένον τῷ ὀστράκῳ·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
@@ -1322,6 +1694,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ οἱ δάκτυλοι τῶν ποδῶν μέρος μέν τι σιδηροῦν, μέρος δέ τι ὀστράκινον, μέρος τι τῆς βασιλείας ἔσται ἰσχυρόν, καὶ ἀπʼ αὐτῆς ἔσται συντριβόμενον.
   - `Swete (B/A/א)`: καὶ οἱ δάκτυλοι τῶν ποδῶν μέρος μέν τι σιδηροῦν, μέρος δέ τι ὀστράκινον, μέρος τι τῆς βασιλείας ἔσται ἰσχυρόν, καὶ ἀπʼ αὐτῆς ἔσται συντριβόμενον.
   - `Sixtine/Brenton`: Καὶ οἱ δάκτυλοι τῶν ποδῶν μέρος μέν τι σιδηροῦν, μέρος δέ τι ὀστράκινον, μέρος τι τῆς βασιλείας ἔσται ἰσχυρὸν, καὶ ἀπʼ αὐτῆς ἔσται συντριβόμενον.
+  - `OG-Daniel`: καὶ οἱ δάκτυλοι τῶν ποδῶν μέρος μέν τι σιδηροῦν, μέρος δέ τι ὀστράκινον· μέρος δέ τι τῆς βασιλείας ἔσται ἵσχυρόν, καὶ μέρος τι ἔσται συντετριμμένον.
   - `LXX-Orthodox (Οʹ)`: καὶ οἱ δάκτυλοι τῶν ποδῶν μέρος μέν τι σιδηροῦν μέρος δέ τι ὀστράκινον, μέρος τι τῆς βασιλείας ἔσται ἰσχυρὸν καὶ ἀπ' αὐτῆς ἔσται συντριβόμενον.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -1331,8 +1704,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ὅτι ἴδες τὸν σίδηρον ἀναμεμιγμένον τῷ ὀστράκῳ, συνμιγεῖς ἔσονται ἐν σπέρματι ἀνθρώπων· καὶ οὐκ ἔσονται προσκολλώμενοι οὗτος μετὰ τούτου, καθὼς ὁ σίδηρος οὐκ ἀναμίγνυται μετὰ τοῦ ὀστράκου.
   - `Swete (B/A/א)`: ὅτι ἴδες τὸν σίδηρον ἀναμεμιγμένον τῷ ὀστράκῳ, συνμιγεῖς ἔσονται ἐν σπέρματι ἀνθρώπων· καὶ οὐκ ἔσονται προσκολλώμενοι οὗτος μετὰ τούτου, καθὼς ὁ σίδηρος οὐκ ἀναμίγνυται μετὰ τοῦ ὀστράκου.
   - `Sixtine/Brenton`: Ὅτι εἶδες τὸν σίδηρον ἀναμεμιγμένον τῷ ὀστράκῳ, συμμιγεῖς ἔσονται ἐν σπέρματι ἀνθρώπων, καὶ οὐκ ἔσονται προσκολλώμενοι οὗτος μετὰ τούτου, καθὼς ὁ σίδηρος οὐκ ἀναμίγνυται μετὰ τοῦ ὀστράκου.
+  - `OG-Daniel`: καὶ ὡς εἶδες τὸν σίδηρον ἀναμεμιγμένον ἄμα τῷ πηλίνῳ ὀστράκῳ, καὶ συμμιγεῖς ἔσονται εἰς γένεσιν ἀνθρώπων· οὐκ ἔσονται δὲ ὁμονοοῦντες οὕτε εὐνοοῦντες ἀλλήλοις, ὥσ περ οὐδὲ ὁ σίδηρος δύναται συγκραθῆναι τῷ ὀστράκῳ.
   - `LXX-Orthodox (Οʹ)`: ὅτι εἶδες τὸν σίδηρον ἀναμεμειγμένον τῷ ὀστράκῳ, συμμειγεῖς ἔσονται ἐν σπέρματι ἀνθρώπων καὶ οὐκ ἔσονται προσκολλώμενοι οὗτος μετὰ τούτου, καθὼς ὁ σίδηρος οὐκ ἀναμείγνυται μετὰ τοῦ ὀστράκου.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type); Punctuation / spacing difference only).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type); Punctuation / spacing difference only).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἐν ταῖς ἡμέραις τῶν βασιλέων ἐκείνων ἀναστήσει ὁ θεὸς τοῦ οὐρανοῦ βασιλείαν, ἥτις εἰς τοὺς αἰῶνας οὐ διαφθαρήσεται, καὶ ἡ βασιλεία αὐτοῦ λαῷ ἑτέρῳ οὐχ ὑπολειφθήσεται· λεπτυνεῖ καὶ λικμήσει πάσας τὰς βασιλείας, καὶ αὐτὴ ἀναστήσεται εἰς τοὺς αἰῶνας·
@@ -1340,6 +1714,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἐν ταῖς ἡμέραις τῶν βασιλέων ἐκείνων ἀναστήσει ὁ θεὸς τοῦ οὐρανοῦ βασιλείαν, ἥτις εἰς τοὺς αἰῶνας οὐ διαφθαρήσεται, καὶ ἡ βασιλεία αὐτοῦ λαῷ ἑτέρῳ οὐχ ὑπολειφθήσεται· λεπτυνεῖ καὶ λικμήσει πάσας τὰς βασιλείας, καὶ αὐτὴ ἀναστήσεται εἰς τοὺς αἰῶνας·
   - `Swete (B/A/א)`: καὶ ἐν ταῖς ἡμέραις τῶν βασιλέων ἐκείνων ἀναστήσει ὁ θεὸς τοῦ οὐρανοῦ βασιλείαν, ἥτις εἰς τοὺς αἰῶνας οὐ διαφθαρήσεται, καὶ ἡ βασιλεία αὐτοῦ λαῷ ἑτέρῳ οὐχ ὑπολειφθήσεται· λεπτυνεῖ καὶ λικμήσει πάσας τὰς βασιλείας, καὶ αὐτὴ ἀναστήσεται εἰς τοὺς αἰῶνας·
   - `Sixtine/Brenton`: Καὶ ἐν ταῖς ἡμέραις τῶν βασιλέων ἐκείνων, ἀναστήσει ὁ Θεὸς τοῦ οὐρανοῦ βασιλείαν, ἥτις εἰς τοὺς αἰῶνας οὐ διαφθαρήσεται, καὶ ἡ βασιλεία αὐτοῦ λαῷ ἑτέρῳ οὐχ ὑπολειφθήσεται, λεπτυνεῖ καὶ λικμήσει πάσας τὰς βασιλείας, καὶ αὕτη ἀναστήσεται εἰς τοὺς αἰῶνας·
+  - `OG-Daniel`: καὶ ἐν τοῖς χρόνοις τῶν βασιλέων τούτων στήσει ὁ θεὸς τοῦ οὐρανοῦ βασιλείαν ἄλλην, ἥτις ἔσται εἰς τοὺς αἰῶνας καὶ οὐ φθαρήσεται· καὶ αὕτη ἡ βασιλεία ἄλλο ἔθνος οὐ μὴ ἐάσῃ, πατάξει δὲ καὶ ἀφανίσει τὰς βασιλείας ταύτας, καὶ αὐτὴ στήσεται εἰς τὸν αἰῶνα·
   - `LXX-Orthodox (Οʹ)`: καὶ ἐν ταῖς ἡμέραις τῶν βασιλέων ἐκείνων ἀναστήσει ὁ Θεὸς τοῦ οὐρανοῦ βασιλείαν, ἥτις εἰς τοὺς αἰῶνας οὐ διαφθαρήσεται, καὶ ἡ βασιλεία αὐτοῦ λαῷ ἑτέρῳ οὐχ ὑπολειφθήσεται· λεπτυνεῖ καὶ λικμήσει πάσας τὰς βασιλείας, καὶ αὐτὴ ἀναστήσεται εἰς τοὺς αἰῶνας.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
@@ -1349,6 +1724,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: ὃν τρόπον ἴδες ὅτι ἀπὸ ὄρους ἐτμήθη λίθος ἄνευ χειρῶν, καὶ ἐλέπτυνεν τὸ ὄστρακον τὸν σίδηρον, τὸν χαλκόν, τὸν ἄργυρον, τὸν χρυσόν. ὁ θεὸς ὁ μέγας ἐγνώρισεν τῷ βασιλεῖ ἃ δεῖ γενέσθαι μετὰ ταῦτα· καὶ ἀληθινὸν τὸ ἐνύπνιον, καὶ πιστὴ ἡ σύγκρισις αὐτοῦ.
   - `Swete (B/A/א)`: ὃν τρόπον ἴδες ὅτι ἀπὸ ὄρους ἐτμήθη λίθος ἄνευ χειρῶν, καὶ ἐλέπτυνεν τὸ ὄστρακον τὸν σίδηρον, τὸν χαλκόν, τὸν ἄργυρον, τὸν χρυσόν. ὁ θεὸς ὁ μέγας ἐγνώρισεν τῷ βασιλεῖ ἃ δεῖ γενέσθαι μετὰ ταῦτα· καὶ ἀληθινὸν τὸ ἐνύπνιον, καὶ πιστὴ ἡ σύγκρισις αὐτοῦ.
   - `Sixtine/Brenton`: Ὃν τρόπον εἶδες, ὅτι ἀπὸ ὄρους ἐτμήθη λίθος ἄνευ χειρῶν, καὶ ἐλέπτυνε τὸ ὄστρακον, τὸν σίδηρον, τὸν χαλκόν, τὸν ἄργυρον, τὸν χρυσόν· ὁ Θεὸς ὁ μέγας ἐγνώρισε τῷ βασιλεῖ ἃ δεῖ γενέσθαι μετὰ ταῦτα· καὶ ἀληθινὸν τὸ ἐνύπνιον, καὶ πιστὴ ἡ σύγκρισις αὐτοῦ.
+  - `OG-Daniel`: καθάπερ ἑώρακας ἐξ ὄρους τμηθῆναι λίθον ἄνευ χειρῶν, καὶ συνηλόησε τὸ ὄστρακον τὸν σίδηρον καὶ τὸν χαλκὸν καὶ τὸν ἄργυρον καὶ τὸν χρυσόν. ὁ θεὸς ὁ μέγας ἐσήμανε τῷ βασιλεῖ τὰ ἐσόμενα ἐπʼ ἐσχάτων τῶν ἡμερῶν· καὶ ἀκριβές τὸ ὄραμα, καὶ πιστὴ ἡ τούτου κρίσις.
   - `LXX-Orthodox (Οʹ)`: ὃν τρόπον εἶδες ὅτι ἀπὸ ὄρους ἐτμήθη λίθος ἄνευ χειρῶν καὶ ἐλέπτυνε τὸ ὄστρακον, τὸν σίδηρον, τὸν χαλκόν, τὸν ἄργυρον, τὸν χρυσόν, ὁ Θεὸς ὁ μέγας ἐγνώρισε τῷ βασιλεῖ ἃ δεῖ γενέσθαι μετὰ ταῦτα, καὶ ἀληθινὸν τὸ ἐνύπνιον, καὶ πιστὴ ἡ σύγκρισις αὐτοῦ.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 7 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
@@ -1358,6 +1734,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: Τότε ὁ βασιλεὺς Ναβουχοδονοσὸρ ἔπεσεν ἐπὶ πρόσωπον καὶ τῷ Δανιὴλ προσεκύνησεν καὶ μαννὰ καὶ εὐωδίας εἶπεν σπεῖσαι αὐτῷ.
   - `Swete (B/A/א)`: Τότε ὁ βασιλεὺς Ναβουχοδονοσὸρ ἔπεσεν ἐπὶ πρόσωπον καὶ τῷ Δανιὴλ προσεκύνησεν καὶ μαννὰ καὶ εὐωδίας εἶπεν σπεῖσαι αὐτῷ.
   - `Sixtine/Brenton`: Τότε ὁ βασιλεὺς Ναβουχοδονόσορ ἔπεσεν ἐπὶ πρόσωπον, καὶ τῷ Δανιὴλ προσεκύνησε, καὶ μαναὰ καὶ εὐωδίας εἶπε σπεῖσαι αὐτῷ.
+  - `OG-Daniel`: Τότε Ναβουχοδονοσὸρ ὁ βασιλεὺς πεσὼν ἐπὶ πρόσαωπον χαμαὶ προσεκύνησεν τῷ Δανιήλ, καὶ ἐπέταξε θυσίας καὶ σπονδὰς ποιῆσαι αὐτῷ.
   - `LXX-Orthodox (Οʹ)`: τότε ὁ βασιλεὺς Ναβουχοδονόσορ ἔπεσεν ἐπὶ πρόσωπον καὶ τῷ Δανιὴλ προσεκύνησε καὶ μαναὰ καὶ εὐωδίας εἶπε σπεῖσαι αὐτῷ.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'μαννὰ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over μαναὰ (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1368,6 +1745,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἀποκριθεὶς ὁ βασιλεὺς εἶπεν τῷ Δανιήλ Ἐπ ἀληθείας ὁ θεὸς ὑμῶν αὐτός ἐστιν θεὸς θεῶν καὶ κύριος τῶν βασιλέων καὶ ἀποκαλύπτων μυστήρια· ὅτι ἠδυνήθης ἀποκαλύψαι τὸ μυστήριον τοῦτο.
   - `Swete (B/A/א)`: καὶ ἀποκριθεὶς ὁ βασιλεὺς εἶπεν τῷ Δανιήλ Ἐπ ἀληθείας ὁ θεὸς ὑμῶν αὐτός ἐστιν θεὸς θεῶν καὶ κύριος τῶν βασιλέων καὶ ἀποκαλύπτων μυστήρια· ὅτι ἠδυνήθης ἀποκαλύψαι τὸ μυστήριον τοῦτο.
   - `Sixtine/Brenton`: Καὶ ἀποκριθεὶς ὁ βασιλεὺς, εἶπε τῷ Δανιήλ, ἐπʼ ἀληθείας ὁ Θεὸς ὑμῶν, αὐτός ἐστι Θεὸς θεῶν, καὶ Κύριος τῶν βασιλέων, ὁ ἀποκαλύπτων μυστήρια, ὅτι ἠδυνάσθης ἀποκαλύψαι τὸ μυστήριον τοῦτο.
+  - `OG-Daniel`: καὶ ἐκφωνήσας ὁ βασιλεὺς πρὸς τὸν Δανιὴλ εἶπεν Ἐπ᾿ ἀληθείας ἐστὶν ὁ θεὸς ὑμῶν θεὸς τῶν θεῶν καὶ κύριος τῶν βασιλέων, ὁ ἐκφαίνων μυστήρια κρυπτὰ μόνος· ὅτι ἐδυνάσθης δηλῶσαι τὸ μυστήριον τοῦτο.
   - `LXX-Orthodox (Οʹ)`: καὶ ἀποκριθεὶς ὁ βασιλεὺς εἶπε τῷ Δανιήλ· ἐπ' ἀληθείας ὁ Θεὸς ὑμῶν αὐτός ἐστι Θεὸς θεῶν καὶ κύριος τῶν βασιλέων καὶ ἀποκαλύπτων μυστήρια, ὅτι ἠδυνήθης ἀποκαλύψαι τὸ μυστήριον τοῦτο.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'καὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὁ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἠδυνήθης' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἠδυνάσθης (Sixtine/Brenton). Also normalised 13 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
@@ -1378,6 +1756,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ ἐμεγάλυνεν ὁ βασιλεὺς τὸν Δανιὴλ, καὶ δόματα μεγάλα καὶ πολλὸ ἔδωκεν αὐτῷ, καὶ κατέστησεν αὐτὸν ἐπὶ πάσης χώρας Βαβυλῶνος καὶ ἄρχοντα σατραπων ἐπὶ πάντας τοὺς σοφοὺς Βαβυλῶνος.
   - `Swete (B/A/א)`: καὶ ἐμεγάλυνεν ὁ βασιλεὺς τὸν Δανιὴλ, καὶ δόματα μεγάλα καὶ πολλὸ ἔδωκεν αὐτῷ, καὶ κατέστησεν αὐτὸν ἐπὶ πάσης χώρας Βαβυλῶνος καὶ ἄρχοντα σατραπων ἐπὶ πάντας τοὺς σοφοὺς Βαβυλῶνος.
   - `Sixtine/Brenton`: Καὶ ἐμεγάλυνεν ὁ βασιλεὺς τὸν Δανιὴλ, καὶ δόματα μεγάλα καὶ πολλὰ ἔδωκεν αὐτῷ, καὶ κατέστησεν αὐτὸν ἐπὶ πάσης χώρας Βαβυλῶνος, καὶ ἄρχοντα σατραπῶν ἐπὶ πάντας τοὺς σοφοὺς Βαβυλῶνος.
+  - `OG-Daniel`: τότε ὁ βασιλεὺς Ναβουχοδονοσὸρ Δανιὴλ μεγαλύνας καὶ δοὺς δωρεὰς μεγάλας καὶ πολλὰς κατέστησεν ἐπὶ τῶν πραγμάτων τῆς Βαβυλωνίας, καὶ ἀπέδειξεν αὐτὸν ἄρχοντα καὶ ἡγούμενον πάντων τῶν σοφιστῶν Βαβυλωνίας.
   - `LXX-Orthodox (Οʹ)`: καὶ ἐμεγάλυνεν ὁ βασιλεὺς τὸν Δανιὴλ καὶ δόματα μεγάλα καὶ πολλὰ ἔδωκεν αὐτῷ καὶ κατέστησεν αὐτὸν ἐπὶ πάσης χώρας Βαβυλῶνος καὶ ἄρχοντα σατραπῶν ἐπὶ πάντας τοὺς σοφοὺς Βαβυλῶνος.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Punctuation / spacing difference only).
 
@@ -1387,6 +1766,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `1st1K-LXX`: καὶ Δανιὴλ ᾐτήσατο παρὰ τοῦ βασιλέως, καὶ κατέστησεν ἐπὶ τὰ ἔργα τῆς χώρας Βαβυλῶνος τὸν Σεδράχ, Μεισάχ, Ἀβδεναγώ· καὶ Δανιὴλ ἣν ἐν τῇ αὐλῇ τοῦ βασιλέως.
   - `Swete (B/A/א)`: καὶ Δανιὴλ ᾐτήσατο παρὰ τοῦ βασιλέως, καὶ κατέστησεν ἐπὶ τὰ ἔργα τῆς χώρας Βαβυλῶνος τὸν Σεδράχ, Μεισάχ, Ἀβδεναγώ· καὶ Δανιὴλ ἣν ἐν τῇ αὐλῇ τοῦ βασιλέως.
   - `Sixtine/Brenton`: Καὶ Δανιὴλ ᾐτήσατο παρὰ τοῦ βασιλέως, καὶ κατέστησεν ἐπὶ τὰ ἔργα τῆς χώρας Βαβυλῶνος τὸν Σεδρὰχ, Μισὰχ, καὶ Ἀβδεναγώ· καὶ Δανιὴλ ἦν ἐν τῇ αὐλῇ τοῦ βασιλέως.
+  - `OG-Daniel`: καὶ Δανιὴλ ἠξίωσε τὸν βασιλέα ἴνα κατασταθῶσιν ἐπὶ τῶν πραγμάτων τῆς Βαβυλωνίας Σεδράχ, Μισάχ, Ἀβδεναγώ· καὶ Δανιὴλ ἦν ἐν τῇ βασιλικῇ αὐλῇ.
   - `LXX-Orthodox (Οʹ)`: καὶ Δανιὴλ ᾐτήσατο παρὰ τοῦ βασιλέως, καὶ κατέστησεν ἐπὶ τὰ ἔργα τῆς χώρας Βαβυλῶνος τὸν Σεδράχ, Μισὰχ καὶ Ἀβδεναγώ· καὶ Δανιὴλ ἦν ἐν τῇ αὐλῇ τοῦ βασιλέως.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Μεισάχ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Μισὰχ καὶ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).

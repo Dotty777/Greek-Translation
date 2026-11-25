@@ -1,6 +1,6 @@
 # Ezekiel 24 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:41Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:42Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 23:34 runs into its neighbour across the anchor's division between 23:33 and 23:34; re-divided there
@@ -90,6 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 25:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 25:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 25:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 25:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 25:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 25:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 25:12 kept in its own chapter (stronger match to its own reference verse)
@@ -157,6 +157,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 25:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 25:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 25:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 25:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 25:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 25:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 25:12 kept in its own chapter (stronger match to its own reference verse)
@@ -224,6 +225,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 25:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 25:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 25:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 25:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 25:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 25:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 25:12 kept in its own chapter (stronger match to its own reference verse)
@@ -337,10 +339,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Ezekiel 24:1
-- **Apparatus:** `ἐνάτῳ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἐννάτῳ** Sixtine/Brenton *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `μὲ` over `μέ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐνάτῳ` over `ἐννάτῳ,` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 - *Disregarded Surface Variant:* kept `μηνός,` over `μηνὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `λέγων` over `λέγων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
@@ -394,14 +394,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λεωπετρίαν` over `λεωπετρίαν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Ezekiel 24:9
-- **Apparatus:** `Κἀγὼ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **κᾀγὼ** Sixtine/Brenton *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `λαόν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **δαλόν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `διὰ τοῦτο` over `Διατοῦτο` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `Κύριος` over `Κύριος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `Κἀγὼ` over `κᾀγὼ` (Sixtine/Brenton) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
 
 ### Ezekiel 24:10
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -454,12 +452,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ὀσφύος,` over `ὀσφύος` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `συνπεπλεγμένον` over `συμπεπλεγμένον` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `συνπεπλεγμένον` over `συμπεπλεγμένον` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 - *Disregarded Surface Variant:* kept `σὲ` over `σὲ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ποσίν` over `ποσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `σου,` over `σου·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συνπεπλεγμένον / συμπεπλεγμένον` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ποσίν / ποσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `συνπεπλεγμένον / συμπεπλεγμένον`, `συνπεπλεγμένον / συμπεπλεγμένον` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### Ezekiel 24:18
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **καὶ ἀπέθανεν ἡ γυνή μου** LXX-Orthodox (Οʹ)
@@ -477,15 +474,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λαός` over `λαὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Οὐκ` over `οὐκ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 24:20
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐγένετο** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἐγένετο' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'ἐγένετο' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `ἐγένετο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἐγένετο' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'ἐγένετο' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -531,22 +527,22 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Ezekiel 24:26
 - **Apparatus:** `ἐκείνῃ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'ἐκείνῃ' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'ἐκείνῃ', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐκείνῃ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'ἐκείνῃ' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'ἐκείνῃ', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `σέ` over `σὲ`, `σὲ,` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 
 ### Ezekiel 24:27
 - **Apparatus:** `ἐκείνῃ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'ἐκείνῃ' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'ἐκείνῃ', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐκείνῃ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'ἐκείνῃ' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'ἐκείνῃ', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **καὶ** LXX-Orthodox (Οʹ)
@@ -559,15 +555,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
-### Verse 1 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Καὶ ἐγένετο λόγος Κυρίου πρὸς μὲ ἐν τῷ ἔτει τῷ ἐνάτῳ ἐν τῷ μηνὶ τῷ δεκάτῳ, δεκάτῃ τοῦ μηνός, λέγων
   - `Swete-Amicarelli`: Καὶ ἐγένετο λόγος Κυρίου πρὸς μὲ ἐν τῷ ἔτει τῷ ἐνάτῳ ἐν τῷ μηνὶ τῷ δεκάτῳ, δεκάτῃ τοῦ μηνός, λέγων
   - `1st1K-LXX`: Καὶ ἐγένετο λόγος Κυρίου πρὸς μέ ἐν τῷ ἔτει τῷ ἐνάτῳ ἐν τῷ μηνὶ τῷ δεκάτῳ, δεκάτῃ τοῦ μηνός, λέγων
   - `Swete (B/A/א)`: Καὶ ἐγένετο λόγος Κυρίου πρὸς μέ ἐν τῷ ἔτει τῷ ἐνάτῳ ἐν τῷ μηνὶ τῷ δεκάτῳ, δεκάτῃ τοῦ μηνός, λέγων
   - `Sixtine/Brenton`: Καὶ ἐγένετο λόγος Κυρίου πρὸς μὲ, ἐν τῷ ἔτει τῷ ἐννάτῳ, ἐν τῷ μηνὶ τῷ δεκάτῳ, δεκάτῃ τοῦ μηνὸς, λέγων,
   - `LXX-Orthodox (Οʹ)`: ΚΑΙ ἐγένετο λόγος Κυρίου πρός με ἐν τῷ ἔτει τῷ ἐνάτῳ, ἐν τῷ μηνὶ τῷ δεκάτῳ, δεκάτῃ τοῦ μηνός, λέγων·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐνάτῳ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐννάτῳ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type); Punctuation / spacing difference only).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Υἱὲ ἀνθρώπου, γράψον σεαυτῷ εἰς ἡμέραν ἀπὸ τῆς ἡμέρας ταύτης ἀφ᾽ ἧς ἀπηρείσατο βασιλεὺς Βαβυλῶνος ἐπὶ Ἰερουσαλήμ, ἀπὸ τῆς ἡμέρας τῆς σήμερον·
@@ -635,15 +630,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: τοῦ ἀναβῆναι θυμὸν εἰς ἐκδίκησιν ἐκδικηθῆναι δέδωκα τὸ αἷμα αὐτῆς ἐπὶ λεωπετρίαν τοῦ μὴ καλύψαι αὐτό.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Punctuation / spacing difference only).
 
-### Verse 9 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 9 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** διὰ τοῦτο τάδε λέγει Κύριος Κἀγὼ μεγαλυνῶ τὸν λαόν,
   - `Swete-Amicarelli`: διὰ τοῦτο τάδε λέγει Κύριος Κἀγὼ μεγαλυνῶ τὸν λαόν,
   - `1st1K-LXX`: διὰ τοῦτο τάδε λέγει Κύριος Κἀγὼ μεγαλυνῶ τὸν λαόν,
   - `Swete (B/A/א)`: διὰ τοῦτο τάδε λέγει Κύριος Κἀγὼ μεγαλυνῶ τὸν λαόν,
   - `Sixtine/Brenton`: Διατοῦτο τάδε λέγει Κύριος, κᾀγὼ μεγαλυνῶ τὸν δαλόν·
   - `LXX-Orthodox (Οʹ)`: διὰ τοῦτο τάδε λέγει Κύριος· κἀγὼ μεγαλυνῶ τὸν δαλὸν
-- **Philological Rationale:** [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'Κἀγὼ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over κᾀγὼ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'λαόν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over δαλόν (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'λαόν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over δαλόν (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ πληθυνῶ τὰ ξύλα καὶ ἀνακαύσω τὸ πῦρ, ὅπως τακῇ τὰ κρέα καὶ ἐλαττωθῇ ὁ ζωμὸς
@@ -738,7 +733,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπε πρός με ὁ λαός· οὐκ ἀναγγελεῖς ἡμῖν τί ἐστι ταῦτα, ἃ σὺ ποιεῖς;
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).
 
-### Verse 20 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 20 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ εἶπα πρὸς αὐτούς Λόγος Κυρίου πρὸς μὲ ἐγένετο λέγων
   - `Swete-Amicarelli`: καὶ εἶπα πρὸς αὐτούς Λόγος Κυρίου πρὸς μὲ ἐγένετο λέγων
   - `1st1K-LXX`: καὶ εἶπα πρὸς αὐτοὺς Λόγος Κυρίου πρὸς μέ ἐγένετο λέγων
@@ -746,7 +741,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Καὶ εἶπα πρὸς αὐτοὺς, λόγος Κυρίου ἐγένετο πρὸς μὲ, λέγων,
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπα πρὸς αὐτούς· λόγος Κυρίου ἐγένετο πρός με λέγων·
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐγένετο (Sixtine/Brenton). [Omission in some witnesses] Adopted 'ἐγένετο' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Εἰπὸν πρὸς τὸν οἶκον τοῦ Ἰσραήλ Τάδε λέγει Κύριος Ἰδοὺ ἐγὼ βεβηλῶ τὰ ἅγιά μου, φρύαγμα ἰσχύος ὑμῶν, ἐπιθυμήματα ὀφθαλμῶν ὑμῶν, καὶ ὑπὲρ ὧν φείδονται αἱ ψυχαὶ ὑμῶν. καὶ οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν οὓς ἐγκατελίπετε ἐν ῥομφαίᾳ πεσοῦνται,
@@ -795,7 +790,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: Καὶ σὺ υἱὲ ἀνθρώπου, οὐχὶ ἐν τῇ ἡμέρᾳ, ὅταν λαμβάνων τὴν ἰσχὺν παρ' αὐτῶν, τὴν ἔπαρσιν τῆς καυχήσεως αὐτῶν, τὰ ἐπιθυμήματα ὀφθαλμῶν αὐτῶν καὶ τὴν ἔπαρσιν ψυχῆς αὐτῶν, υἱοὺς αὐτῶν καὶ θυγατέρας αὐτῶν,
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Punctuation / spacing difference only; Word division differs (same letters written as one word or two)).
 
-### Verse 26 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 26 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐν ἐκείνῃ τῇ ἡμέρᾳ ἥξει ὁ ἀνασωζόμενος πρὸς σέ τοῦ ἀναγγεῖλαί σοι εἰς τὰ ὦτα;
   - `Swete-Amicarelli`: ἐν ἐκείνῃ τῇ ἡμέρᾳ ἥξει ὁ ἀνασωζόμενος πρὸς σέ τοῦ ἀναγγεῖλαί σοι εἰς τὰ ὦτα;
   - `1st1K-LXX`: ἐν ἐκείνῃ τῇ ἡμέρᾳ ἥξει ὁ ἀνασωζόμενος πρὸς σὲ τοῦ ἀναγγεῖλαί σοι εἰς τὰ ὦτα;
@@ -803,9 +798,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: ἐν τῇ ἡμέρᾳ ἐκείνῃ ἥξει ὁ ἀνασωζόμενος πρὸς σὲ, τοῦ ἀναγγεῖλαί σοι εἰς τὰ ὦτα;
   - `LXX-Orthodox (Οʹ)`: ἐν τῇ ἡμέρᾳ ἐκείνῃ ἥξει ὁ ἀνασῳζόμενος πρὸς σὲ τοῦ ἀναγγεῖλαί σοι εἰς τὰ ὦτα;
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'ἐκείνῃ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐκείνῃ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 27 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 27 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐν ἐκείνῃ τῇ ἡμέρᾳ διανοιχθήσεται τὸ στόμα σου πρὸς τὸν ἀνασωζόμενον· λαλήσεις, καὶ οὐ μὴ ἀποκωφωθῇς οὐκέτι, καὶ ἔσῃ αὐτοῖς εἰς τέρας· καὶ ἐπιγνώσονται διότι ἐγὼ Κύριος.
   - `Swete-Amicarelli`: ἐν ἐκείνῃ τῇ ἡμέρᾳ διανοιχθήσεται τὸ στόμα σου πρὸς τὸν ἀνασωζόμενον· λαλήσεις, καὶ οὐ μὴ ἀποκωφωθῇς οὐκέτι, καὶ ἔσῃ αὐτοῖς εἰς τέρας· καὶ ἐπιγνώσονται διότι ἐγὼ Κύριος.
   - `1st1K-LXX`: ἐν ἐκείνῃ τῇ ἡμέρᾳ διανοιχθήσεται τὸ στόμα σου πρὸς τὸν ἀνασαωζόμενον· λαλήσεις, καὶ οὐ μὴ ἀποκωφωθῆς οὐκέτι, καὶ ἔσῃ αὐτοῖς εἰς τέρας· καὶ ἐπιγνώσονται διότι ἐγὼ Κύριος.
@@ -813,4 +808,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Ἐν τῇ ἡμέρᾳ ἐκείνῃ διανοιχθήσεται τὸ στόμα σου πρὸς τὸν ἀνασωζόμενον· λαλήσεις, καὶ οὐ μὴ ἀποκωφωθῇς οὐκέτι, καὶ ἔσῃ αὐτοῖς εἰς τέρας, καὶ ἐπιγνώσονται διότι ἐγὼ Κύριος.
   - `LXX-Orthodox (Οʹ)`: ἐν τῇ ἡμέρᾳ ἐκείνῃ διανοιχθήσεται τὸ στόμα σου πρὸς τὸν ἀνασῳζόμενον καὶ λαλήσεις καὶ οὐ μὴ ἀποκωφωθῇς οὐκέτι· καὶ ἔσῃ αὐτοῖς εἰς τέρας, καὶ ἐπιγνώσονται διότι ἐγὼ Κύριος.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'ἐκείνῃ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐκείνῃ (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).

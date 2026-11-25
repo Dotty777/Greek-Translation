@@ -1,6 +1,6 @@
 # Amos 01 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:57Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:43Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 2:1 kept in its own chapter (stronger match to its own reference verse)
@@ -122,6 +121,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Amos 1:1
+- **Apparatus:** `Ἀκκαρεὶμ ἐν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **Ἀκκαρεὶμ ἐκ** LXX-Orthodox (Οʹ)
 - **Apparatus:** `ἐν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἐκ** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `Λόγοι` over `ΛΟΓΟΙ` (Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton) — *Diplomatic uncial orthography normalised to standard critical form*
 - *Disregarded Surface Variant:* kept `Ἀμὼς` over `Αμὼς` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -133,14 +133,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰούδα` over `Ἰούδα,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἰεροβοὰμ` over `Ἱεροβοὰμ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰσραήλ,` over `Ἰσραὴλ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ὀζείου / Ὀζίου` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Amos 1:2
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλὴμ` over `Ἰερουσαλήμ`, `Ἱερουσαλὴμ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἔδωκεν` over `ἔδωκε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αὐτοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε·`, `ἔδωκεν / ἔδωκε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Amos 1:3
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -151,7 +149,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀνθ᾽` over `ἀνθʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `πρίοσιν` over `πριοσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Γαλαάδ·` over `Γαλαάδ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `πρίοσιν / πρίοσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Amos 1:4
 - **Apparatus:** `ἐξαποστελῶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἀποστελῶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -165,12 +162,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἁδέρ·` over `Ἄδερ.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Amos 1:5
-- **Apparatus:** `ἐξολεθρεύσω` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρεύσω** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐξολεθρεύσω` over `ἐξολοθρεύσω` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 - *Disregarded Surface Variant:* kept `Ὤν,` over `Ὦν,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Χαρράν,` over `Χάρράν,`, `Χαῤῥὰν,` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρεύσω / ἐξολοθρεύσω` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Amos 1:6
 - *Disregarded Surface Variant:* kept `Κύριος` over `Κύριος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -187,11 +183,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Amos 1:8
-- **Apparatus:** `ἐξολεθρεύσω` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρεύσω** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐξολεθρεύσω` over `ἐξολοθρεύσω` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 - *Disregarded Surface Variant:* kept `Ἀκκαρών,` over `Ἀκκάρων,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρεύσω / ἐξολοθρεύσω` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Amos 1:9
 - *Disregarded Surface Variant:* kept `Κύριος` over `Κύριος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -229,7 +224,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Γαλααδειτῶν,` over `Γαλααδιτῶν,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐνπλατύνωσιν` over `ἐνπλατύνωσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἑαυτῶν·` over `ἑαυτῶν.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Γαλααδειτῶν, / Γαλααδιτῶν,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Amos 1:14
 - **Apparatus:** `τὰ τείχη Ῥαββά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τεὶχη Ῥαββὰθ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
@@ -283,15 +277,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξαποστελῶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀποστελῶ (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὰ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 5 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ συντρίψω μοχλοὺς Δαμασκοῦ, καὶ ἐξολεθρεύσω κατοικοῦντας ἐκ πεδίου Ὤν, καὶ κατακόψω φυλὴν ἐξ ἀνδρῶν Χαρράν, καὶ αἰχμαλωτευθήσεται λαὸς Συρίας ἐπίκλητος, λέγει Κύριος.
   - `Swete-Amicarelli`: καὶ συντρίψω μοχλοὺς Δαμασκοῦ, καὶ ἐξολεθρεύσω κατοικοῦντας ἐκ πεδίου Ὤν, καὶ κατακόψω φυλὴν ἐξ ἀνδρῶν Χαρράν, καὶ αἰχμαλωτευθήσεται λαὸς Συρίας ἐπίκλητος, λέγει Κύριος.
   - `1st1K-LXX`: καὶ συντρίψω μοχλοὺς Δαμασκοῦ, καὶ ἐξολεθρεύσω κατοικοῦντας ἐκ πεδίου Ὤν, καὶ κατακόψω φυλὴν ἐξ ἀνδρῶν Χάρράν, καὶ αἰχμαλωτευθήσεται λαὸς Συρίας ἐπίκλητος, λέγει Κύριος.
   - `Swete (B/A/א)`: καὶ συντρίψω μοχλοὺς Δαμασκοῦ, καὶ ἐξολεθρεύσω κατοικοῦντας ἐκ πεδίου Ὤν, καὶ κατακόψω φυλὴν ἐξ ἀνδρῶν Χάρράν, καὶ αἰχμαλωτευθήσεται λαὸς Συρίας ἐπίκλητος, λέγει Κύριος.
   - `Sixtine/Brenton`: Καὶ συντρίψω μοχλοὺς Δαμασκοῦ, καὶ ἐξολοθρεύσω κατοικοῦντας ἐκ πεδίου Ὦν, καὶ κατακόψω φυλὴν ἐξ ἀνδρῶν Χαῤῥὰν, καὶ αἰχμαλωτευθήσεται λαὸς Συρίας ἐπίκλητος, λέγει Κύριος.
   - `LXX-Orthodox (Οʹ)`: καὶ συντρίψω μοχλοὺς Δαμασκοῦ καὶ ἐξολοθρεύσω κατοικοῦντας ἐκ πεδίου Ὦν, καὶ κατακόψω φυλὴν ἐξ ἀνδρῶν Χαρράν, καὶ αἰχμαλωτευθήσεται λαὸς Συρίας ἐπίκλητος, λέγει Κύριος.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρεύσω' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρεύσω (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Τάδε λέγει Κύριος Ἐπὶ ταῖς τρισὶν ἀσεβείαις Γάζης καὶ ἐπὶ ταῖς τέσσαρσιν οὐκ ἀποστραφήσομαι αὐτούς, ἕνεκεν τοῦ αἰχμαλωτεῦσαι αὐτοὺς αἰχμαλωσίαν τοῦ Σαλωμών, τοῦ συγκλεῖσαι εἰς τὴν Ἰδουμαίαν·
@@ -312,15 +305,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὰ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 8 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἐξολεθρεύσω κατοικοῦντας ἐξ Ἀζώτου, καὶ ἐξαρθήσεται φυλὴ ἐξ Ἀσκάλωνος, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ Ἀκκαρών, καὶ ἀπολοῦνται οἱ κατάλοιποι τῶν ἀλλοφύλων, λέγει Κύριος.
   - `Swete-Amicarelli`: καὶ ἐξολεθρεύσω κατοικοῦντας ἐξ Ἀζώτου, καὶ ἐξαρθήσεται φυλὴ ἐξ Ἀσκάλωνος, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ Ἀκκαρών, καὶ ἀπολοῦνται οἱ κατάλοιποι τῶν ἀλλοφύλων, λέγει Κύριος.
   - `1st1K-LXX`: καὶ ἐξολεθρεύσω κατοικοῦντας ἐξ Ἀζώτου, καὶ ἐξαρθήσεται φυλὴ ἐξ Ἀσκάλωνος, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ Ἀκκαρών, καὶ ἀπολοῦνται οἱ κατάλοιποι τῶν ἀλλοφύλων, λέγει Κύριος.
   - `Swete (B/A/א)`: καὶ ἐξολεθρεύσω κατοικοῦντας ἐξ Ἀζώτου, καὶ ἐξαρθήσεται φυλὴ ἐξ Ἀσκάλωνος, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ Ἀκκαρών, καὶ ἀπολοῦνται οἱ κατάλοιποι τῶν ἀλλοφύλων, λέγει Κύριος.
   - `Sixtine/Brenton`: Καὶ ἐξολοθρεύσω κατοικοῦντας ἐξ Ἀζώτου, καὶ ἐξαρθήσεται φυλὴ ἐξ Ἀσκάλωνος, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ Ἀκκάρων, καὶ ἀπολοῦνται οἱ κατάλοιποι τῶν ἀλλοφύλων, λέγει Κύριος.
   - `LXX-Orthodox (Οʹ)`: καὶ ἐξολοθρεύσω κατοικοῦντας ἐξ Ἀζώτου, καὶ ἐξαρθήσεται φυλὴ ἐξ Ἀσκάλωνος, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ Ἀκκάρων, καὶ ἀπολοῦνται οἱ κατάλοιποι τῶν ἀλλοφύλων, λέγει Κύριος.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρεύσω' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρεύσω (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Τάδε λέγει Κύριος Ἐπὶ ταῖς τρισὶν ἀσεβείαις Τύρου καὶ ἐπὶ ταῖς τέσσαρσιν οὐκ ἀποστραφήσομαι αὐτήν, ἀνθ᾽ ὧν συνέκλεισαν αἰχμαλωσίαν τοῦ Σαλωμὼν εἰς τὴν Ἰδουμαίαν, καὶ οὐκ ἐμνήσθησαν διαθήκης ἀδελφῶν·

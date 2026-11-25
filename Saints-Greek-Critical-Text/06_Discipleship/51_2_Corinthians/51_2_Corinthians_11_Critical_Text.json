@@ -7,7 +7,7 @@
   "usfm_code": "2CO",
   "chapter": 11,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:14:06Z",
+  "updated_at": "2026-11-25T00:07:48Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "SBLGNT",
   "orthographic_base": "SBLGNT",
@@ -72,6 +72,34 @@
   ],
   "apparatus_witnesses": [
     {
+      "siglum": "NA28 (TAGNT)",
+      "title": "Nestle–Aland 28th Edition Word-Stream (STEPBible TAGNT CC BY 4.0)",
+      "tier": 1,
+      "license": "CC BY 4.0 (STEPBible.org / Tyndale House)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "THGNT",
+      "title": "Tyndale House Greek New Testament (STEPBible TAGNT CC BY 4.0)",
+      "tier": 1,
+      "license": "CC BY 4.0 (STEPBible.org / Tyndale House Cambridge)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "WH1881",
+      "title": "Westcott & Hort Greek New Testament (1881, CNTR Unicode)",
+      "tier": 2,
+      "license": "Public Domain / CC BY-SA 4.0",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "Tisch8",
+      "title": "Tischendorf 8th Edition Greek New Testament (1869–1872, OSIS v2.8)",
+      "tier": 2,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "TCGNT (Byz)",
       "title": "The Text-Critical Greek New Testament: Byzantine Text (Robert Adam Boyd)",
       "tier": 3,
@@ -98,6 +126,34 @@
       "tier": 3,
       "license": "Public Domain",
       "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "TR-Stephanus (1550)",
+      "title": "Stephanus Editio Regia Textus Receptus (Paris 1550, CNTR Unicode)",
+      "tier": 3,
+      "license": "Public Domain / CC BY-SA 4.0",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "TR-Elzevir (1624)",
+      "title": "Elzevir Textus Receptus (1624 Leiden Edition, Robinson .UEL)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "𝔓46",
+      "title": "Papyrus 46 — Chester Beatty II (CNTR Early MSS)",
+      "tier": 4,
+      "license": "CC BY-SA 4.0",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "33",
+      "title": "Minuscule 33 — Queen of the Cursives (INTF NTVMR & IGNTP Paul XML)",
+      "tier": 4,
+      "license": "CC BY 4.0",
+      "role": "apparatus only (recorded, not voting)"
     }
   ],
   "verses": [
@@ -116,20 +172,177 @@
         "TR (KJTR)": "Ὄφελον ἀνείχεσθέ μου μικρόν τῇ ἀφροσύνῃ: ἀλλὰ καὶ ἀνέχεσθέ μου.",
         "B (03)": "οφελον ανειχεσθε μου μεικρον τι αφροσυνησ αλλα και ανεχεσθε μου",
         "א (01)": "οφελον ανειχεσθε μου μικρον τι αφροσυνησ αλλα και ανασχεσθε μου",
+        "NA28 (TAGNT)": "Ὄφελον ἀνείχεσθέ μου μικρόν τι ἀφροσύνης· ἀλλὰ καὶ ἀνέχεσθέ μου.",
+        "THGNT": "Ὄφελον ἀνείχεσθέ μου μικρόν τι ἀφροσύνης· ἀλλὰ καὶ ἀνέχεσθέ μου.",
+        "WH1881": "Ὄφελον ἀνείχεσθέ μου μικρόν τι ἀφροσύνης· ἀλλὰ καὶ ἀνέχεσθέ μου.",
+        "Tisch8": "Ὄφελον ἀνείχεσθέ μου μικρόν τι ἀφροσύνης· ἀλλὰ καὶ ἀνέχεσθέ μου.",
         "TCGNT (Byz)": "Ὄφελον ἀνείχεσθέ μου μικρὸν τῇ ἀφροσύνῃ· ἀλλὰ καὶ ἀνέχεσθέ μου.",
         "PT1904 (Byz)": "Ὄφελον ἀνείχεσθέ μου μικρὸν τῇ ἀφροσύνῃ· ἀλλὰ καὶ ἀνέχεσθέ μου·",
         "TR-Scrivener (1894)": "Ὄφελον ἀνείχεσθέ μου μικρὸν τῇ ἀφροσύνῃ· ἀλλὰ καὶ ἀνέχεσθέ μου.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ὄφελον ἀνείχεσθέ μου μικρὸν τῇ ἀφροσύνῃ· ἀλλὰ καὶ ἀνέχεσθέ μου."
+        "TR-Boyd (Elz/Scr/Steph)": "Ὄφελον ἀνείχεσθέ μου μικρὸν τῇ ἀφροσύνῃ· ἀλλὰ καὶ ἀνέχεσθέ μου.",
+        "TR-Stephanus (1550)": "Ὄφελον ἀνείχεσθέ μου μικρὸν τῇ ἀφροσύνῃ· ἀλλὰ καὶ ἀνέχεσθέ μου·",
+        "TR-Elzevir (1624)": "οφελον ηνειχεσθε μου μικρον τι της αφροσυνης αλλα και ανεχεσθε μου",
+        "𝔓46": "οφελον ανειχεσθε μεικρον τι αφροσυνησ αλλα και ανεχεσθε μου",
+        "33": "ωφελον ανειχεσθαι μου μικρον τι αφροσυνης αλλα και ανεχεσθαι μου"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Ὄφελον ἀνείχεσθέ",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "ωφελον ανειχεσθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "οφελον ηνειχεσθε",
+              "witnesses": [
+                "TR-Elzevir (1624)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "οφελον ανειχεσθε",
+          "confidence": 0.98,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἀνείχεσθέ",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "ηνειχεσθε",
+              "witnesses": [
+                "TR-Elzevir (1624)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ανειχεσθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ανειχεσθε",
+          "confidence": 0.98,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "μου",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "33",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "μου",
+          "confidence": 0.98,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 4,
           "lemma": "τι ἀφροσύνης",
@@ -139,7 +352,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -151,12 +370,20 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
+            },
+            {
+              "reading": "τι της αφροσυνης",
+              "witnesses": [
+                "TR-Elzevir (1624)"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'τι ἀφροσύνης' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over τῇ ἀφροσύνῃ (RP2018 (Byz), TR (KJTR)).",
+          "note": "[Variation unit spanning several words] Adopted 'τι ἀφροσύνης' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over τῇ ἀφροσύνῃ (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 4,
           "word_count": 2,
           "kind": "word",
@@ -186,10 +413,17 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -199,9 +433,16 @@
                 "א (01)"
               ],
               "weight_sum": 0.96
+            },
+            {
+              "reading": "ανεχεσθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἀνέχεσθέ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over ανασχεσθε (א (01)).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἀνέχεσθέ' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over ανασχεσθε (א (01)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 8,
           "word_count": 1,
           "kind": "word",
@@ -329,18 +570,34 @@
         "TR (KJTR)": "Ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ: ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ, παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ.",
         "B (03)": "ζηλω γαρ υμασ θυ̅ ζηλω ηρμοσαμην γαρ υμασ ενι ανδρι παρθενον αγνην παραστησαι τω χω̅",
         "א (01)": "ζηλω γαρ υμασ θυ̅ ζηλω ηρμοσαμην γαρ υμασ ενι ανδρι παρθενον αγνην παραστησαι τω χω̅",
+        "NA28 (TAGNT)": "ζηλῶ γὰρ ὑμᾶς θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ,",
+        "THGNT": "ζηλῶ γὰρ ὑμᾶς θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ,",
+        "WH1881": "ζηλῶ γὰρ ὑμᾶς θεοῦ ζήλῳ, ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ χριστῷ·",
+        "Tisch8": "ζηλῶ γὰρ ὑμᾶς θεοῦ ζήλῳ, ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ·",
         "TCGNT (Byz)": "ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ, ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ·",
         "PT1904 (Byz)": "ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρί, παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ·",
         "TR-Scrivener (1894)": "ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ."
+        "TR-Boyd (Elz/Scr/Steph)": "Ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ.",
+        "TR-Stephanus (1550)": "ζηλῶ γὰρ ὑμᾶς Θεοῦ ζήλῳ· ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ, παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ·",
+        "TR-Elzevir (1624)": "ζηλω γαρ υμας θεου ζηλω ηρμοσαμην γαρ υμας ενι ανδρι παρθενον αγνην παραστησαι τω χριστω",
+        "𝔓46": "… γαρ υμασ … υμασ …",
+        "33": "ζηλω γαρ υμας θυ̅ ζηλω ηρμοσαμην γαρ υμας ενι ανδρι παρθενον αγνην παραστησαι […] χω̅"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [],
       "disregarded": [
@@ -545,7 +802,7 @@
       "id": 36167,
       "verse": 3,
       "critical_text": "φοβοῦμαι δὲ μή πως, ὡς ὁ ὄφις ἐξηπάτησεν Εὕαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος καὶ τῆς ἁγνότητος τῆς εἰς τὸν Χριστόν.",
-      "confidence": 0.929,
+      "confidence": 0.938,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "SRGNT": "Φοβοῦμαι δὲ, μή πως ὡς ὁ ὄφις ἐξηπάτησεν Εὕαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος καὶ τῆς ἁγνότητος τῆς εἰς τὸν Χριστόν.",
@@ -556,18 +813,34 @@
         "TR (KJTR)": "Φοβοῦμαι δὲ, μή πως, ὡς ὁ ὄφις Εὕαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὐτοῦ, οὕτως φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν.",
         "B (03)": "φοβουμαι δε μη πωσ ωσ ο οφισ εξηπατησεν ευαν εν τη πανουργια αυτου φθαρη τα νοηματα υμων απο τησ απλοτητοσ και τησ αγνοτητοσ τησ εισ τον χν̅",
         "א (01)": "φοβουμαι δε μη πωσ ωσ ο οφισ εξηπατησεν υμιν εν τη πανουργια αυτου φθαρη τα νοηματα υμων απο τησ απλοτητοσ και τησ αγνοτητοσ τησ εισ χν̅",
+        "NA28 (TAGNT)": "φοβοῦμαι δὲ μή πως ὡς ὁ ὄφις ἐξηπάτησεν Εὕαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος καὶ τῆς ἁγνότητος τῆς εἰς τὸν Χριστόν.",
+        "THGNT": "φοβοῦμαι δὲ μή πως ὡς ὁ ὄφις ἐξηπάτησεν εὔαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος καὶ τῆς ἁγνότητος τῆς εἰς τὸν Χριστόν.",
+        "WH1881": "φοβοῦμαι δὲ μή πως, ὡς ὁ ὄφις ἐξηπάτησεν Εὕαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος [καὶ τῆς ἁγνότητος] τῆς εἰς τὸν χριστόν.",
+        "Tisch8": "φοβοῦμαι δὲ μήπως, ὡς ὁ ὄφις ἐξηπάτησεν Εὔαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς Χριστόν.",
         "TCGNT (Byz)": "φοβοῦμαι δὲ μήπως ὡς ὁ ὄφις Εὔαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὐτοῦ, οὕτω φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν.",
         "PT1904 (Byz)": "φοβοῦμαι δὲ μήπως, ὡς ὁ ὄφις Εὔαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὐτοῦ, οὕτω φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν.",
         "TR-Scrivener (1894)": "φοβοῦμαι δὲ μή πως ὡς ὁ ὄφις Εὔαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὐτοῦ, οὕτω φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν.",
-        "TR-Boyd (Elz/Scr/Steph)": "Φοβοῦμαι δὲ μήπως ὡς ὁ ὄφις Εὔαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὐτοῦ, οὕτω φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν."
+        "TR-Boyd (Elz/Scr/Steph)": "Φοβοῦμαι δὲ μήπως ὡς ὁ ὄφις Εὔαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὐτοῦ, οὕτω φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν.",
+        "TR-Stephanus (1550)": "φοβοῦμαι δὲ μήπως ὡς ὁ ὄφις Εὕαν ἐξηπάτησεν ἐν τῇ πανουργίᾳ αὑτοῦ, οὕτω φθαρῇ τὰ νοήματα ὑμῶν, ἀπὸ τῆς ἁπλότητος τῆς εἰς τὸν Χριστόν.",
+        "TR-Elzevir (1624)": "φοβουμαι δε μηπως ως ο οφις ευαν εξηπατησεν εν τη πανουργια αυτου ουτως φθαρη τα νοηματα υμων απο της απλοτητος της εις τον χριστον",
+        "𝔓46": "… εν τη πανουργια αυτου φθαρη τα νοηματα υμων απο τησ απλοτητοσ και τησ αγνοτητοσ τησ εισ τον χρν̅",
+        "33": "φοβουμαι δε μη πως ως ο οφις εξηπατησεν ευαν εν τη πανουργια αυτου […] τα νοηματα υμων απο της απλοτητος και της αγνοτητος της εις τον χν̅"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -579,7 +852,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -591,7 +869,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -604,7 +884,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'Εὕαν' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
+              "note": "Units 'om.', 'Εὕαν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -631,7 +911,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -643,7 +928,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             },
@@ -664,7 +951,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'Εὕαν' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
+              "note": "Units 'om.', 'Εὕαν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -692,7 +979,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -704,7 +997,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -737,7 +1032,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -749,7 +1049,10 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)",
+                "Tisch8"
               ],
               "weight_sum": 1.32
             }
@@ -791,10 +1094,17 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -802,7 +1112,8 @@
               "adopt_text": "",
               "witnesses": [
                 "א (01)",
-                "Nestle1904"
+                "Nestle1904",
+                "Tisch8"
               ],
               "weight_sum": 1.98
             }
@@ -1094,12 +1405,18 @@
           "disregarded_forms": [
             "μή πως, / μήπως,",
             "μή πως, / μήπως",
-            "μή πως, / μήπως"
+            "μή πως, / μήπως",
+            "μή πως, / μηπως",
+            "μή πως, / μήπως",
+            "μή πως, / μήπως,"
           ],
           "witnesses": [
             "PT1904 (Byz)",
             "TCGNT (Byz)",
-            "TR-Boyd (Elz/Scr/Steph)"
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Stephanus (1550)",
+            "Tisch8"
           ],
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
@@ -1109,7 +1426,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 93% = product of 5 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "note": "Verse confidence 94% = product of 4 unit confidence(s); 1 split-transposition duplicate(s) counted once; calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -1133,20 +1450,122 @@
         "TR (KJTR)": "Εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει, ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε, ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον, ὃ οὐκ ἐδέξασθε, καλῶς ἠνείχεσθε.",
         "B (03)": "ει μεν γαρ ο ερχομενοσ αλλον ιν̅ κηρυσσει ον ουκ εκηρυξαμεν η πνευμα ετερον λαμβανετε ο ουκ ελαβετε η ευαγγελιον ετερον ο ουκ εδεξασθε καλωσ ανεχεσθε",
         "א (01)": "ει μεν γαρ ο ερχομενοσ αλλον ιν̅ κηρυσσει ον ουκ εκηρυξαμεν η πνα̅ ετερον λαμβανετε ο ουκ ελαβετε η ευαγγελιον ετερον ετερον ο ουκ εδεξασθε καλωσ ανειχεσθε",
+        "NA28 (TAGNT)": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἀνέχεσθε.",
+        "THGNT": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἀνείχεσθε",
+        "WH1881": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἀνέχεσθε.",
+        "Tisch8": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἀνέχεσθε.",
         "TCGNT (Byz)": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἀνείχεσθε.",
         "PT1904 (Byz)": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἀνείχεσθε.",
         "TR-Scrivener (1894)": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἠνείχεσθε.",
-        "TR-Boyd (Elz/Scr/Steph)": "Εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἠνείχεσθε."
+        "TR-Boyd (Elz/Scr/Steph)": "Εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἠνείχεσθε.",
+        "TR-Stephanus (1550)": "εἰ μὲν γὰρ ὁ ἐρχόμενος ἄλλον Ἰησοῦν κηρύσσει ὃν οὐκ ἐκηρύξαμεν, ἢ πνεῦμα ἕτερον λαμβάνετε ὃ οὐκ ἐλάβετε, ἢ εὐαγγέλιον ἕτερον ὃ οὐκ ἐδέξασθε, καλῶς ἠνείχεσθε.",
+        "TR-Elzevir (1624)": "ει μεν γαρ ο ερχομενος αλλον ιησουν κηρυσσει ον ουκ εκηρυξαμεν η πνευμα ετερον λαμβανετε ο ουκ ελαβετε η ευαγγελιον ετερον ο ουκ εδεξασθε καλως ηνειχεσθε",
+        "𝔓46": "ει μεν γαρ ο ερχομενοσ αλλον ιην̅ κηρυσσει ον ουκ εκηρυξαμεν η πνευμα ετερον λαμβανετε ο ουκ ελαβετε η ευαγγελιον ετερον ο ουκ εδεξασθε καλωσ ανεχεσθε",
+        "33": "[…] […] γαρ ο ερχομενος ετερον ιν̅ κηρυσσει ον ουκ εκηρυξαμεν η πνα̅ ετερον λαμβανετε […] […] ελαβετε η ευαγγελιον ετερον ο ουκ εδεξασθαι καλως ανεχεσθαι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἄλλον",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "ετερον",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αλλον",
+          "confidence": 0.891,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐδέξασθε,",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "εδεξασθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 23,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εδεξασθε",
+          "confidence": 0.891,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 26,
           "lemma": "ἀνέχεσθε",
@@ -1155,7 +1574,11 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "NA28 (TAGNT)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -1165,7 +1588,9 @@
                 "RP2018 (Byz)",
                 "TR (KJTR)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             },
@@ -1175,12 +1600,20 @@
               "witnesses": [
                 "א (01)",
                 "PT1904 (Byz)",
-                "TCGNT (Byz)"
+                "TCGNT (Byz)",
+                "THGNT"
               ],
               "weight_sum": 0.96
+            },
+            {
+              "reading": "ανεχεσθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἀνέχεσθε' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.65, confidence 99%) over ἠνείχεσθε (RP2018 (Byz), TR (KJTR)); ανειχεσθε (א (01)).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἀνέχεσθε' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.65, confidence 99%) over ἠνείχεσθε (RP2018 (Byz), TR (KJTR)); ανειχεσθε (א (01)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 25,
           "word_count": 1,
           "kind": "word",
@@ -1536,7 +1969,7 @@
       "id": 36169,
       "verse": 5,
       "critical_text": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων·",
-      "confidence": 0.98,
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "SRGNT": "Λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων.",
@@ -1547,18 +1980,34 @@
         "TR (KJTR)": "Λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων.",
         "B (03)": "λογιζομαι δε μηδεν υστερηκεναι των υπερλειαν αποστολων",
         "א (01)": "λογιζομαι γαρ μηδεν υστερηκεναι των υπερλιαν αποστολων",
+        "NA28 (TAGNT)": "Λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων.",
+        "THGNT": "Λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπὲρ λίαν ἀποστόλων.",
+        "WH1881": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων·",
+        "Tisch8": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων·",
         "TCGNT (Byz)": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων.",
         "PT1904 (Byz)": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπερλίαν ἀποστόλων.",
         "TR-Scrivener (1894)": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπὲρ λίαν ἀποστόλων.",
-        "TR-Boyd (Elz/Scr/Steph)": "Λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπὲρ λίαν ἀποστόλων."
+        "TR-Boyd (Elz/Scr/Steph)": "Λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπὲρ λίαν ἀποστόλων.",
+        "TR-Stephanus (1550)": "λογίζομαι γὰρ μηδὲν ὑστερηκέναι τῶν ὑπὲρλίαν ἀποστόλων.",
+        "TR-Elzevir (1624)": "λογιζομαι γαρ μηδεν υστερηκεναι των υπερ λιαν αποστολων",
+        "𝔓46": "λογιζομαι γαρ μηδεν υστερηκεναι των υπερλειαν αποστολων",
+        "33": "λογιζομαι γαρ […] […] των υπερλιαν αποστολων"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -1572,10 +2021,18 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -1603,51 +2060,6 @@
             }
           ],
           "lemma_key": "γαρ",
-          "confidence": 0.99,
-          "credited_witnesses": []
-        },
-        {
-          "slot_index": 5,
-          "lemma": "ὑπερλίαν",
-          "lemma_witnesses": [
-            "א (01)",
-            "SRGNT",
-            "SBLGNT",
-            "Nestle1904",
-            "BHP",
-            "TR (KJTR)",
-            "B (03)",
-            "PT1904 (Byz)",
-            "TCGNT (Byz)",
-            "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
-          ],
-          "variants": [
-            {
-              "reading": "ὑπὲρ λίαν",
-              "adopt_text": "ὑπὲρ λίαν",
-              "witnesses": [
-                "RP2018 (Byz)"
-              ],
-              "weight_sum": 0.72
-            }
-          ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ὑπερλίαν' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, TR (KJTR), B (03)] (weight 6.21, confidence 99%) over ὑπὲρ λίαν (RP2018 (Byz)).",
-          "word_index": 5,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: Byzantine / ecclesiastical, early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "υπερλιαν",
           "confidence": 0.99,
           "credited_witnesses": []
         }
@@ -1709,14 +2121,16 @@
           "slot_index": 5,
           "kept_form": "ὑπερλίαν",
           "disregarded_forms": [
+            "υπερλειαν",
             "υπερλιαν",
-            "υπερλειαν"
+            "ὑπὲρ λίαν"
           ],
           "witnesses": [
             "B (03)",
+            "RP2018 (Byz)",
             "א (01)"
           ],
-          "reason": "Spelling variant pooled before the vote with the reading 'ὑπερλίαν' (same word, different spelling); whether that reading was adopted is shown in the apparatus"
+          "reason": "Word division differs with spelling convention (Koine/Uncial itacistic spelling (ει / ι equivalence))"
         },
         {
           "slot_index": 6,
@@ -1729,14 +2143,32 @@
             "א (01)"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "ὑπερλίαν / ὑπὲρ λίαν",
+            "ὑπερλίαν / ὑπὲρ λίαν",
+            "ὑπερλίαν / υπερ λιαν",
+            "ὑπερλίαν / ὑπὲρ λίαν",
+            "ὑπερλίαν / ὑπὲρ λίαν"
+          ],
+          "witnesses": [
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
       ],
-      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'γὰρ' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over δε (B (03)). [Lexical, morphological, or word-order variant] Adopted 'ὑπερλίαν' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, TR (KJTR), B (03)] (weight 6.21, confidence 99%) over ὑπὲρ λίαν (RP2018 (Byz)). Also normalised 6 orthographic/surface variation(s).",
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'γὰρ' [א (01), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.95, confidence 99%) over δε (B (03)). Also normalised 6 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "note": "Verse confidence 99% = product of 1 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -1760,20 +2192,127 @@
         "TR (KJTR)": "Εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλʼ οὐ τῇ γνώσει· ἀλλʼ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
         "B (03)": "ει δε και ιδιωτησ τω λογω αλλ ου τη γνωσει αλλ εν παντι φανερωσαντεσ εν πασιν εισ υμασ",
         "א (01)": "ει δε και ιδιωτησ τω λογω αλλ ου τη γνωσει αλλ εν παντι φανερωσαντεσ εν πασιν εισ υμασ",
+        "NA28 (TAGNT)": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾽ οὐ τῇ γνώσει, ἀλλ᾽ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς.",
+        "THGNT": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾽ οὐ τῇ γνώσει, ἀλλ᾽ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς.",
+        "WH1881": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλʼ οὐ τῇ γνώσει, ἀλλʼ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς.",
+        "Tisch8": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ’ οὐ τῇ γνώσει, ἀλλ’ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς.",
         "TCGNT (Byz)": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾽ οὐ τῇ γνώσει, ἀλλ᾽ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
         "PT1904 (Byz)": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾽ οὐ τῇ γνώσει, ἀλλ᾽ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
         "TR-Scrivener (1894)": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾽ οὐ τῇ γνώσει· ἀλλ᾽ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
-        "TR-Boyd (Elz/Scr/Steph)": "Εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾿ οὐ τῇ γνώσει· ἀλλ᾿ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς."
+        "TR-Boyd (Elz/Scr/Steph)": "Εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾿ οὐ τῇ γνώσει· ἀλλ᾿ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
+        "TR-Stephanus (1550)": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλʼ οὐ τῇ γνώσει· ἀλλʼ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
+        "TR-Elzevir (1624)": "ει δε και ιδιωτης τω λογω αλλ ου τη γνωσει αλλ εν παντι φανερωθεντες εν πασιν εις υμας",
+        "𝔓46": "ει δε και ιδιωτησ τω λογω αλλ ου τη γνωσει",
+        "33": "ει και ιδιωτης τω λογω αλλ ου τη […] […] […] […] φανερωσαντες εν πασιν εις υμας"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "δὲ",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "δε",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἀλλʼ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς.",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ἀλλ᾽ ἐν παντὶ φανερωθέντες ἐν πᾶσιν εἰς ὑμᾶς.",
+              "witnesses": [
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 8,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αλλ εν παντι φανερωσαντεσ εν πασιν εισ υμασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 13,
           "lemma": "φανερώσαντες",
@@ -1783,7 +2322,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -1795,12 +2339,21 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'φανερώσαντες' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over φανερωθέντες (RP2018 (Byz), TR (KJTR)).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'φανερώσαντες' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over φανερωθέντες (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 13,
           "word_count": 1,
           "kind": "word",
@@ -2059,18 +2612,34 @@
         "TR (KJTR)": "Ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
         "B (03)": "η αμαρτιαν εποιησα εμαυτον ταπεινων ινα υμεισ υψωθητε οτι δωρεαν το του θυ̅ ευαγγελιον ευηγγελισαμην υμιν",
         "א (01)": "η αμαρτιαν εποιησα εμαυτον ταπινων ινα υμεισ υψωθητε οτι δωρεαν το του θυ̅ ευαγγελιον ευηγγελισαμην υμιν",
+        "NA28 (TAGNT)": "ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
+        "THGNT": "ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
+        "WH1881": "Ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
+        "Tisch8": "ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
         "TCGNT (Byz)": "Ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
         "PT1904 (Byz)": "Ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
         "TR-Scrivener (1894)": "ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;"
+        "TR-Boyd (Elz/Scr/Steph)": "Ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
+        "TR-Stephanus (1550)": "Ἢ ἁμαρτίαν ἐποίησα, ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε; ὅτι δωρεὰν τὸ τοῦ Θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;",
+        "TR-Elzevir (1624)": "η αμαρτιαν εποιησα εμαυτον ταπεινων ινα υμεις υψωθητε οτι δωρεαν το του θεου ευαγγελιον ευηγγελισαμην υμιν",
+        "𝔓46": "η αμαρτιαν εποιησα εμαυτον ταπεινων ινα υμεισ υψωθητε οτι δωρεαν το του θυ̅ ευαγγελιον ευηγγελισαμην υμειν",
+        "33": "η αμαρτιαν εποιησα εμαυτον […] […] […] […] οτι δωρεαν το του θυ̅ ευαγγελιον ευηγγελισαμην υμιν"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [],
       "disregarded": [
@@ -2295,18 +2864,34 @@
         "TR (KJTR)": "Ἄλλας ἐκκλησίας ἐσύλησα, λαβὼν ὀψώνιον, πρὸς τὴν ὑμῶν διακονίαν.",
         "B (03)": "αλλασ εκκλησιασ εσυλησα λαβων οψωνιον προσ την υμων διακονιαν",
         "א (01)": "αλλασ εκλησιασ εσυλησα λαβων οψωνιον προσ την υμων διακονιαν",
+        "NA28 (TAGNT)": "ἄλλας ἐκκλησίας ἐσύλησα λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν,",
+        "THGNT": "ἄλλας ἐκκλησίας ἐσύλησα λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν,",
+        "WH1881": "ἄλλας ἐκκλησίας ἐσύλησα λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν,",
+        "Tisch8": "ἄλλας ἐκκλησίας ἐσύλησα λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν, καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός·",
         "TCGNT (Byz)": "ἄλλας ἐκκλησίας ἐσύλησα λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν,",
         "PT1904 (Byz)": "ἄλλας ἐκκλησίας ἐσύλησα λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν, καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐδενός·",
         "TR-Scrivener (1894)": "ἄλλας ἐκκλησίας ἐσύλησα, λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν·",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἄλλας ἐκκλησίας ἐσύλησα, λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν·"
+        "TR-Boyd (Elz/Scr/Steph)": "Ἄλλας ἐκκλησίας ἐσύλησα, λαβὼν ὀψώνιον πρὸς τὴν ὑμῶν διακονίαν·",
+        "TR-Stephanus (1550)": "ἄλλας ἐκκλησίας ἐσύλησα, λαβὼν ὀψώνιον, πρὸς τὴν ὑμῶν διακονίαν.",
+        "TR-Elzevir (1624)": "αλλας εκκλησιας εσυλησα λαβων οψωνιον προς την υμων διακονιαν",
+        "𝔓46": "αλλασ εκκλησιασ εσυλησα λαβων οψωνιον προσ την υμων διακονιαν",
+        "33": "αλλας […] […] λαβων οψωνιον προς την υμων διακονιαν"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -2321,20 +2906,28 @@
             "SRGNT",
             "TR (KJTR)",
             "א (01)",
+            "33",
+            "NA28 (TAGNT)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
               "reading": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐδενός·",
               "witnesses": [
-                "PT1904 (Byz)"
+                "PT1904 (Byz)",
+                "Tisch8"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 9,
           "word_count": 0,
           "kind": "word",
@@ -2469,7 +3062,7 @@
       "id": 36173,
       "verse": 9,
       "critical_text": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
-      "confidence": 0.97,
+      "confidence": 0.98,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "SRGNT": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς, οὐ κατενάρκησα οὐθενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας, καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
@@ -2480,69 +3073,137 @@
         "TR (KJTR)": "Καὶ παρὼν πρὸς ὑμᾶς, καὶ ὑστερηθεὶς, οὐ κατενάρκησα οὐδενός: τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ: ἐλθόντες ἀπὸ Μακεδονίας καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα, καὶ τηρήσω.",
         "B (03)": "και παρων προσ υμασ και υστερηθεισ ου κατεναρκησα ουθενοσ το γαρ υστερημα μου προσανεπληρωσαν οι αδελφοι ελθοντεσ απο μακεδονιασ και εν παντι αβαρη εμαυτον υμιν ετηρησα και τηρησω",
         "א (01)": "και παρων προσ υμασ και υστερηθεισ ου κατεναρκησα ουθενοσ το γαρ υστερημα μου προσανεπληρωσαν οι αδελφοι ελθοντεσ απο μακαιδονιασ και εν παντι αβαρη εμαυτον υμιν ετηρησα και τηρησω",
+        "NA28 (TAGNT)": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας, καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
+        "THGNT": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας, καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
+        "WH1881": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
+        "Tisch8": "τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
         "TCGNT (Byz)": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐδενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα καὶ τηρήσω.",
         "PT1904 (Byz)": "τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα καὶ τηρήσω.",
         "TR-Scrivener (1894)": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθείς, οὐ κατενάρκησα οὐδενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοί, ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα καὶ τηρήσω.",
-        "TR-Boyd (Elz/Scr/Steph)": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθείς, οὐ κατενάρκησα οὐδενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοί, ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα καὶ τηρήσω."
+        "TR-Boyd (Elz/Scr/Steph)": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθείς, οὐ κατενάρκησα οὐδενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοί, ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα καὶ τηρήσω.",
+        "TR-Stephanus (1550)": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς, οὐ κατενάρκησα οὐδενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα, καὶ τηρήσω.",
+        "TR-Elzevir (1624)": "και παρων προς υμας και υστερηθεις ου κατεναρκησα ουδενος το γαρ υστερημα μου προσανεπληρωσαν οι αδελφοι ελθοντες απο μακεδονιας και εν παντι αβαρη υμιν εμαυτον ετηρησα και τηρησω",
+        "𝔓46": "και παρων προσ υμασ υστερηθεισ ου κατεναρκησα ουδενοσ το γαρ υστερημα μου προσανεπληρωσαν οι αδελφοι ελθοντεσ απο μακεδονιασ και εν παντι αβαρη εμαυτον υμειν ετηρησα … τηρησω",
+        "33": "και παρων προς υμας και […] […] […] ουθενος το γαρ υστερημα μου προσανεπληρωσαν οι αδελφοι ελθοντες"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
-          "slot_index": 8,
-          "lemma": "οὐθενός",
+          "slot_index": -1,
+          "lemma": "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός·",
           "lemma_witnesses": [
             "B (03)",
-            "א (01)",
-            "SRGNT",
-            "SBLGNT",
+            "BHP",
             "Nestle1904",
-            "BHP"
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "WH1881"
           ],
           "variants": [
             {
-              "reading": "οὐδενός",
-              "adopt_text": "οὐδενός",
-              "witnesses": [
-                "RP2018 (Byz)",
-                "TR (KJTR)",
-                "TCGNT (Byz)",
-                "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
-              ],
-              "weight_sum": 1.32
-            },
-            {
               "reading": "om.",
               "witnesses": [
-                "PT1904 (Byz)"
+                "PT1904 (Byz)",
+                "Tisch8"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "και παρων προσ υμασ υστερηθεισ ου κατεναρκησα ουδενοσ",
+              "witnesses": [
+                "𝔓46"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'οὐθενός' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over οὐδενός (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
-          "word_index": 8,
-          "word_count": 1,
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 9,
           "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "και παρων προσ υμασ και υστερηθεισ ου κατεναρκησα ουθενοσ",
+          "confidence": 0.98,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
             {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
+              "reading": "om.",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ὑμῖν ἐμαυτὸν ἐτήρησα καὶ τηρήσω.",
+              "witnesses": [
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "απο μακεδονιασ και εν παντι αβαρη εμαυτον υμειν ετηρησα τηρησω",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "lemma_key": "ουθενοσ",
-          "confidence": 0.99,
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 11,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "απο μακεδονιασ και εν παντι αβαρη εμαυτον υμιν ετηρησα και τηρησω",
+          "confidence": 0.98,
           "credited_witnesses": []
         },
         {
@@ -2556,10 +3217,17 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -2569,9 +3237,16 @@
                 "א (01)"
               ],
               "weight_sum": 0.96
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'Μακεδονίας' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over μακαιδονιασ (א (01)).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Μακεδονίας' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over μακαιδονιασ (א (01)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 18,
           "word_count": 1,
           "kind": "word",
@@ -2599,7 +3274,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -2607,22 +3287,25 @@
               "adopt_text": "ὑμῖν ἐμαυτὸν",
               "witnesses": [
                 "RP2018 (Byz)",
-                "TR (KJTR)"
+                "TR (KJTR)",
+                "PT1904 (Byz)",
+                "TCGNT (Byz)",
+                "TR-Boyd (Elz/Scr/Steph)",
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             },
             {
-              "reading": "ἐμαυτὸν",
+              "reading": "om.",
               "witnesses": [
-                "PT1904 (Byz)",
-                "TCGNT (Byz)",
-                "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "33"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'ἐμαυτὸν ὑμῖν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ὑμῖν ἐμαυτὸν (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "note": "[Variation unit spanning several words] Adopted 'ἐμαυτὸν ὑμῖν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ὑμῖν ἐμαυτὸν (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 23,
           "word_count": 2,
           "kind": "word",
@@ -2742,6 +3425,22 @@
             "א (01)"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "οὐθενός·",
+          "disregarded_forms": [
+            "ουθενοσ",
+            "οὐδενός·",
+            "οὐδενός:"
+          ],
+          "witnesses": [
+            "B (03)",
+            "RP2018 (Byz)",
+            "TR (KJTR)",
+            "א (01)"
+          ],
+          "reason": "Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)"
         },
         {
           "slot_index": 9,
@@ -2924,14 +3623,36 @@
             "א (01)"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "οὐθενός· / οὐδενός·",
+            "οὐθενός· / οὐδενός·",
+            "οὐθενός· / οὐδενός·",
+            "οὐθενός· / ουδενος",
+            "οὐθενός· / οὐδενός·",
+            "οὐθενός· / οὐδενός·",
+            "οὐθενός· / ουδενοσ"
+          ],
+          "witnesses": [
+            "TCGNT (Byz)",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "𝔓46"
+          ],
+          "reason": "Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)"
         }
       ],
-      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'οὐθενός' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over οὐδενός (RP2018 (Byz), TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'Μακεδονίας' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over μακαιδονιασ (א (01)). [Variation unit spanning several words] Adopted 'ἐμαυτὸν ὑμῖν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ὑμῖν ἐμαυτὸν (RP2018 (Byz), TR (KJTR)). Also normalised 23 orthographic/surface variation(s).",
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Μακεδονίας' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over μακαιδονιασ (א (01)). [Variation unit spanning several words] Adopted 'ἐμαυτὸν ὑμῖν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over ὑμῖν ἐμαυτὸν (RP2018 (Byz), TR (KJTR)). Also normalised 24 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 97% = product of 3 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -2955,20 +3676,80 @@
         "TR (KJTR)": "Ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ, ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας.",
         "B (03)": "εστιν αληθεια χυ̅ εν εμοι οτι η καυχησισ αυτη ου φραγησεται εισ εμε εν τοισ κλιμασι τησ αχαιασ",
         "א (01)": "εστιν αληθεια χυ̅ εν εμοι οτι η καυχησισ αυτη ου φραγησεται εισ εμε εν τοισ κλιμασι τησ αχαιασ",
+        "NA28 (TAGNT)": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασιν τῆς Ἀχαΐας.",
+        "THGNT": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασιν τῆς Ἀχαΐας.",
+        "WH1881": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαίας.",
+        "Tisch8": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασιν τῆς Ἀχαΐας.",
         "TCGNT (Byz)": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας.",
         "PT1904 (Byz)": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας.",
         "TR-Scrivener (1894)": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοί, ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοί, ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας."
+        "TR-Boyd (Elz/Scr/Steph)": "Ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοί, ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας.",
+        "TR-Stephanus (1550)": "Ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ, ὅτι ἡ καύχησις αὕτη οὐ σφραγίσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας.",
+        "TR-Elzevir (1624)": "εστιν αληθεια χριστου εν εμοι οτι η καυχησις αυτη ου φραγησεται εις εμε εν τοις κλιμασιν της αχαιας",
+        "𝔓46": "εστιν αληθεια χυ̅ … καυχησισ αυτη ου φραγησεται …",
+        "33": "εστιν αληθεια χυ̅ […] εμοι οτι η καυχησις αυτη ου φραγησεται εις εμε εν τοις κλιμασι της αχαιας"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "φραγήσεται",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "33",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "σφραγίσεται",
+              "witnesses": [
+                "TR-Stephanus (1550)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "φραγησεται",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -3218,18 +3999,32 @@
         "TR (KJTR)": "Διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ Θεὸς οἶδεν.",
         "B (03)": "δια τι ουκ αγαπω υμασ ο θσ̅ οιδεν",
         "א (01)": "δια τι οτι ουκ αγαπω υμασ ο θσ̅ οιδεν",
+        "NA28 (TAGNT)": "διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ θεὸς οἶδεν·",
+        "THGNT": "διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ θεὸς οἶδεν·",
+        "WH1881": "διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ θεὸς οἶδεν.",
+        "Tisch8": "διατί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ θεὸς οἶδεν.",
         "TCGNT (Byz)": "διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ Θεὸς οἶδεν.",
         "PT1904 (Byz)": "διατί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ Θεὸς οἶδεν·",
         "TR-Scrivener (1894)": "διατί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ Θεὸς οἶδεν.",
-        "TR-Boyd (Elz/Scr/Steph)": "Διὰ τί; Ὅτι οὐκ ἀγαπῶ ὑμᾶς; Ὁ Θεὸς οἶδεν."
+        "TR-Boyd (Elz/Scr/Steph)": "Διὰ τί; Ὅτι οὐκ ἀγαπῶ ὑμᾶς; Ὁ Θεὸς οἶδεν.",
+        "TR-Stephanus (1550)": "διατί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ Θεὸς οἶδεν.",
+        "TR-Elzevir (1624)": "δια τι οτι ουκ αγαπω υμας ο θεος οιδεν",
+        "33": "δια τι οτι ουκ αγαπω υμας ο θς̅ οιδεν"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881"
       ],
       "apparatus": [
         {
@@ -3243,10 +4038,17 @@
             "Nestle1904",
             "BHP",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -3392,11 +4194,15 @@
           "kept_form": "(adopted text)",
           "disregarded_forms": [
             "διὰ τί; / διατί;",
+            "διὰ τί; / διατί;",
+            "διὰ τί; / διατί;",
             "διὰ τί; / διατί;"
           ],
           "witnesses": [
             "PT1904 (Byz)",
-            "TR-Scrivener (1894)"
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8"
           ],
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
@@ -3430,20 +4236,80 @@
         "TR (KJTR)": "Ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν· ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσιν καθὼς καὶ ἡμεῖς.",
         "B (03)": "ο δε ποιω και ποιησω ινα εκκοψω την αφορμην των θελοντων αφορμην ινα εν ω καυχωνται ευρεθωσιν καθωσ και ημεισ",
         "א (01)": "ο δε ποιω και ποιησω ινα εκκοψω την αφορμην των θελοντων αφορμην ινα εν ω καυχωνται ευρεθωσιν καθωσ και ημισ",
+        "NA28 (TAGNT)": "ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσιν καθὼς καὶ ἡμεῖς.",
+        "THGNT": "ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσιν καθὼς καὶ ἡμεῖς.",
+        "WH1881": "Ὃ δὲ ποιῶ καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται εὑρεθῶσιν καθὼς καὶ ἡμεῖς.",
+        "Tisch8": "ὃ δὲ ποιῶ καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται εὑρεθῶσιν καθὼς καὶ ἡμεῖς.",
         "TCGNT (Byz)": "Ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται εὑρεθῶσι καθὼς καὶ ἡμεῖς.",
         "PT1904 (Byz)": "ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται εὑρεθῶσι καθὼς καὶ ἡμεῖς.",
         "TR-Scrivener (1894)": "ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσι καθὼς καὶ ἡμεῖς.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσι καθὼς καὶ ἡμεῖς."
+        "TR-Boyd (Elz/Scr/Steph)": "Ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμήν, ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσι καθὼς καὶ ἡμεῖς.",
+        "TR-Stephanus (1550)": "ὃ δὲ ποιῶ, καὶ ποιήσω, ἵνα ἐκκόψω τὴν ἀφορμὴν τῶν θελόντων ἀφορμὴν, ἵνα ἐν ᾧ καυχῶνται, εὑρεθῶσι καθὼς καὶ ἡμεῖς·",
+        "TR-Elzevir (1624)": "ο δε ποιω και ποιησω ινα εκκοψω την αφορμην των θελοντων αφορμην ινα εν ω καυχωνται ευρεθωσιν καθως και ημεις",
+        "𝔓46": "… ινα εκκοψω την αφορμην ινα εν ω καυχωνται ευρεθωσιν καθωσ και ημεισ",
+        "33": "ο δε ποιω και ποιησω ινα εκκοψω την αφορμην των θελοντων αφορμην ινα εν ω καυχωνται ευρεθωσιν καθως και ημεις"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἀφορμὴν τῶν θελόντων",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "33",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αφορμην των θελοντων",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -3687,23 +4553,6 @@
             "א (01)"
           ],
           "reason": "Koine/Uncial itacistic spelling (ει / ι equivalence)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εὑρεθῶσιν / εὑρεθῶσι",
-            "εὑρεθῶσιν / εὑρεθῶσι",
-            "εὑρεθῶσιν / εὑρεθῶσι",
-            "εὑρεθῶσιν / εὑρεθῶσι"
-          ],
-          "witnesses": [
-            "PT1904 (Byz)",
-            "TCGNT (Byz)",
-            "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across SRGNT, SBLGNT, BHP, Nestle1904, RP2018 (Byz), TR (KJTR), B (03), א (01). Normalised 20 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence)).",
@@ -3726,20 +4575,80 @@
         "TR (KJTR)": "Οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ.",
         "B (03)": "οι γαρ τοιουτοι ψευδαποστολοι εργαται δολιοι μετασχηματιζομενοι εισ αποστολουσ χυ̅",
         "א (01)": "οι γαρ τοιουτοι ψευδαποστολοι εργαται δολιοι μετασχηματιζομενοι εισ …",
+        "NA28 (TAGNT)": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ·",
+        "THGNT": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ·",
+        "WH1881": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ·",
+        "Tisch8": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ.",
         "TCGNT (Byz)": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ.",
         "PT1904 (Byz)": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ.",
         "TR-Scrivener (1894)": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ.",
-        "TR-Boyd (Elz/Scr/Steph)": "Οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ."
+        "TR-Boyd (Elz/Scr/Steph)": "Οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ.",
+        "TR-Stephanus (1550)": "οἱ γὰρ τοιοῦτοι ψευδαπόστολοι, ἐργάται δόλιοι, μετασχηματιζόμενοι εἰς ἀποστόλους Χριστοῦ·",
+        "TR-Elzevir (1624)": "οι γαρ τοιουτοι ψευδαποστολοι εργαται δολιοι μετασχηματιζομενοι εις αποστολους χριστου",
+        "𝔓46": "οι γαρ τοιουτοι ψευδαποστολοι εργαται δολιοι μετασχηματιζομενοι εισ αποστολουσ χρυ̅",
+        "33": "οι γαρ τοιουτοι ψευδαποστολοι εργαται δολιοι μετασχιματιζομενοι εις αποστολους χυ̅"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "μετασχηματιζόμενοι",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "μετασχιματιζομενοι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "μετασχηματιζομενοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -3886,18 +4795,34 @@
         "TR (KJTR)": "Καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
         "B (03)": "και ου θαυμα αυτοσ γαρ ο σατανασ μετασχηματιζεται εισ αγγελον φωτοσ",
         "א (01)": "και ου θαυμα αυτοσ γαρ ο σατανασ μετασχηματιζεται εισ αγγελον φωτοσ",
+        "NA28 (TAGNT)": "καὶ οὐ θαῦμα· αὐτὸς γὰρ ὁ σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός·",
+        "THGNT": "καὶ οὐ θαῦμα· αὐτὸς γὰρ ὁ σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός·",
+        "WH1881": "καὶ οὐ θαῦμα, αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός·",
+        "Tisch8": "καὶ οὐ θαῦμα, αὐτὸς γὰρ ὁ σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
         "TCGNT (Byz)": "καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
         "PT1904 (Byz)": "καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
         "TR-Scrivener (1894)": "καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
-        "TR-Boyd (Elz/Scr/Steph)": "Καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός."
+        "TR-Boyd (Elz/Scr/Steph)": "Καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
+        "TR-Stephanus (1550)": "καὶ οὐ θαυμαστόν· αὐτὸς γὰρ ὁ σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός.",
+        "TR-Elzevir (1624)": "και ου θαυμαστον αυτος γαρ ο σατανας μετασχηματιζεται εις αγγελον φωτος",
+        "𝔓46": "και ου θαυμα αυτοσ γαρ ο σατανασ μετασχηματιζεται εισ αγγελον φωτοσ",
+        "33": "και ου θαυμα αυτος γαρ ο σατανας μετασχιματιζεται εις αγγελον φωτος"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -3909,7 +4834,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -3921,7 +4852,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -3942,6 +4875,49 @@
             }
           ],
           "lemma_key": "θαυμα",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "μετασχηματίζεται",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "μετασχιματιζεται",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "μετασχηματιζεται",
           "confidence": 0.99,
           "credited_witnesses": []
         }
@@ -4101,20 +5077,79 @@
         "TR (KJTR)": "Οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης· ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
         "B (03)": "ου μεγα ουν ει και οι διακονοι αυτου μετασχηματιζονται ωσ δικονοι δικαιοσυνησ ων το τελοσ εσται κατα τα εργα αυτων",
         "א (01)": "ου μεγα ουν ει και οι διακονοι αυτου μετασχηματιζονται ωσ διακονοι δικαιοσυνησ ων το τελοσ εσται κατα τα εργα αυτων",
+        "NA28 (TAGNT)": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
+        "THGNT": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
+        "WH1881": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
+        "Tisch8": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης· ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
         "TCGNT (Byz)": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
         "PT1904 (Byz)": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
         "TR-Scrivener (1894)": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
-        "TR-Boyd (Elz/Scr/Steph)": "Οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν."
+        "TR-Boyd (Elz/Scr/Steph)": "Οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
+        "TR-Stephanus (1550)": "οὐ μέγα οὖν εἰ καὶ οἱ διάκονοι αὐτοῦ μετασχηματίζονται ὡς διάκονοι δικαιοσύνης, ὧν τὸ τέλος ἔσται κατὰ τὰ ἔργα αὐτῶν.",
+        "TR-Elzevir (1624)": "ου μεγα ουν ει και οι διακονοι αυτου μετασχηματιζονται ως διακονοι δικαιοσυνης ων το τελος εσται κατα τα εργα αυτων",
+        "𝔓46": "ου μεγα ουν ει και οι διακονοι αυτου μετασχηματιζονται ωσ διακονοι δικαιοσυνησ ων το τελοσ εσται κατα τα εργα αυτων",
+        "33": "ου μεγα ουν ει και οι διακονοι αυτου μετασχιματιζονται ως διακονοι δικαιοσυνης ων το τελος εσται κατα τα εργα αυτων"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "μετασχηματίζονται",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "μετασχιματιζονται",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "μετασχηματιζονται",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 10,
           "lemma": "διάκονοι",
@@ -4126,10 +5161,18 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -4424,20 +5467,122 @@
         "TR (KJTR)": "Πάλιν λέγω, Μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
         "B (03)": "παλιν λεγω μη τισ με δοξη αφρονα ειναι ει δε μη γε καν ωσ αφρονα δεξασθε με ινα καγω μεικρον τι καυχησωμαι",
         "א (01)": "παλιν λεγω μη τισ με δοξη αφρονα ειναι ει δε μη γε καν ωσ αφρονα δεξασθε με ινα καγω μικρον τι καυχησωμαι",
+        "NA28 (TAGNT)": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
+        "THGNT": "Πάλιν λέγω, μή τις με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
+        "WH1881": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι·– εἰ δὲ μήγε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι·",
+        "Tisch8": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μήγε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
         "TCGNT (Byz)": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
         "PT1904 (Byz)": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
         "TR-Scrivener (1894)": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα μικρόν τι κἀγὼ καυχήσωμαι.",
-        "TR-Boyd (Elz/Scr/Steph)": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μήγε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα μικρόν τι κἀγὼ καυχήσωμαι."
+        "TR-Boyd (Elz/Scr/Steph)": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μήγε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα μικρόν τι κἀγὼ καυχήσωμαι.",
+        "TR-Stephanus (1550)": "Πάλιν λέγω, (μή τις μὲ δόξῃ ἄφρονα εἶναι· εἰ δὲ μήγε, κᾂν ὡς ἄφρονα δέξασθέ με, ἵνα μικρόν τι κᾀγὼ καυχήσωμαι)",
+        "TR-Elzevir (1624)": "παλιν λεγω μη τις με δοξη αφρονα ειναι ει δε μηγε καν ως αφρονα δεξασθε με ινα μικρον τι καγω καυχησωμαι",
+        "𝔓46": "παλιν λεγω μη τισ με δοξη αφρονα ειναι ει δε μη γε και ωσ αφρονα δεξασθε με ινα καγω μεικρον τι καυχησωμαι",
+        "33": "[…] λεγω μη τις με δοξη αφρονα ειναι ει δε μη γε καν ως αφρονα δεξασθαι με ινα καγω μικρον τι καυχησωμαι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "μήγε, κἂν",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "33",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "μη γε και",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "μηγε καν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "δέξασθέ",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "δεξασθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "δεξασθε",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
         {
           "slot_index": -1,
           "lemma": "κἀγὼ",
@@ -4450,20 +5595,28 @@
             "SRGNT",
             "TR (KJTR)",
             "א (01)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
-            "TCGNT (Byz)"
+            "TCGNT (Byz)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
               "reading": "om.",
               "witnesses": [
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 17,
           "word_count": 1,
           "kind": "word",
@@ -4485,20 +5638,28 @@
             "SRGNT",
             "TR (KJTR)",
             "א (01)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
-            "TCGNT (Byz)"
+            "TCGNT (Byz)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
               "reading": "κἀγὼ",
               "witnesses": [
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 20,
           "word_count": 0,
           "kind": "word",
@@ -4755,13 +5916,21 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "μήγε, / μη γε",
+            "μήγε, / μή γε,",
+            "μήγε, / μή γε,",
+            "μήγε, / μή γε,",
+            "μήγε, / μή γε,",
             "μήγε, / μή γε,",
             "μήγε, / μή γε,",
             "μήγε, / μή γε,"
           ],
           "witnesses": [
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Scrivener (1894)"
           ],
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
@@ -4776,7 +5945,7 @@
       "id": 36181,
       "verse": 17,
       "critical_text": "ὃ λαλῶ οὐ κατὰ κύριον λαλῶ, ἀλλʼ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
-      "confidence": 0.98,
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "SRGNT": "Ὃ λαλῶ, οὐ κατὰ Κύριον λαλῶ, ἀλλʼ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
@@ -4787,18 +5956,34 @@
         "TR (KJTR)": "Ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον, ἀλλʼ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
         "B (03)": "ο λαλω ου κατα κν̅ λαλω αλλ ωσ εν αφροσυνη εν ταυτη τη υποστασει τησ καυχησεωσ",
         "א (01)": "ο λαλω ου κατα κν̅ λαλω αλλ ωσ εν αφροσυνη εν ταυτη τη υποστασει τησ καυχησεωσ",
+        "NA28 (TAGNT)": "ὃ λαλῶ, οὐ κατὰ κύριον λαλῶ ἀλλ᾽ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
+        "THGNT": "ὃ λαλῶ, οὐ κατὰ κύριον λαλῶ ἀλλ᾽ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
+        "WH1881": "ὃ λαλῶ οὐ κατὰ κύριον λαλῶ, ἀλλʼ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
+        "Tisch8": "ὃ λαλῶ οὐ κατὰ κύριον λαλῶ, ἀλλ’ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
         "TCGNT (Byz)": "ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον ἀλλ᾽ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
         "PT1904 (Byz)": "ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον, ἀλλ᾽ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
         "TR-Scrivener (1894)": "ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον, ἀλλ᾽ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον, ἀλλ᾿ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως."
+        "TR-Boyd (Elz/Scr/Steph)": "Ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον, ἀλλ᾿ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
+        "TR-Stephanus (1550)": "ὃ λαλῶ, οὐ λαλῶ κατὰ Κύριον, ἀλλʼ ὡς ἐν ἀφροσύνῃ, ἐν ταύτῃ τῇ ὑποστάσει τῆς καυχήσεως.",
+        "TR-Elzevir (1624)": "ο λαλω ου λαλω κατα κυριον αλλ ως εν αφροσυνη εν ταυτη τη υποστασει της καυχησεως",
+        "𝔓46": "ο λαλω ου κατα κν̅ λαλω αλλ ωσ εν αφροσυνη εν ταυτη τη υποστασει τησ καυχησεωσ",
+        "33": "ο λαλω ου κατα κν̅ λαλω αλλ ως εν αφροσυνη εν ταυτη τη υποστασει της καυχησεως"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -4810,7 +5995,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -4822,7 +6013,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -4835,7 +6028,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'λαλῶ' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
+              "note": "Units 'om.', 'λαλῶ' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -4863,7 +6056,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -4875,7 +6074,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -4888,7 +6089,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'λαλῶ' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
+              "note": "Units 'om.', 'λαλῶ' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -5105,7 +6306,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "note": "Verse confidence 99% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -5129,18 +6330,34 @@
         "TR (KJTR)": "Ἐπεὶ πολλοὶ καυχῶνται κατὰ τήν σάρκα, κἀγὼ καυχήσομαι.",
         "B (03)": "επει πολλοι καυχωνται κατα την σαρκα καγω καυχησομαι",
         "א (01)": "επει πολλοι καυχωνται κατα σαρκα καγω καυχησομαι",
+        "NA28 (TAGNT)": "ἐπεὶ πολλοὶ καυχῶνται κατὰ σάρκα, κἀγὼ καυχήσομαι.",
+        "THGNT": "ἐπεὶ πολλοὶ καυχῶνται κατὰ σάρκα, κἀγὼ καυχήσομαι.",
+        "WH1881": "ἐπεὶ πολλοὶ καυχῶνται κατὰ [τὴν] σάρκα, κἀγὼ καυχήσομαι.",
+        "Tisch8": "ἐπεὶ πολλοὶ καυχῶνται κατὰ σάρκα, κἀγὼ καυχήσομαι.",
         "TCGNT (Byz)": "ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κἀγὼ καυχήσομαι.",
         "PT1904 (Byz)": "ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κἀγὼ καυχήσομαι.",
         "TR-Scrivener (1894)": "ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κἀγὼ καυχήσομαι.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κἀγὼ καυχήσομαι."
+        "TR-Boyd (Elz/Scr/Steph)": "Ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κἀγὼ καυχήσομαι.",
+        "TR-Stephanus (1550)": "Ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κᾀγὼ καυχήσομαι.",
+        "TR-Elzevir (1624)": "επει πολλοι καυχωνται κατα την σαρκα καγω καυχησομαι",
+        "𝔓46": "επει πολλοι καυχωνται κατα σαρκα καγω καυχησομαι",
+        "33": "επει πολλοι καυχωνται κατα σαρκα καγω καυχησωμαι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -5150,7 +6367,12 @@
             "א (01)",
             "SRGNT",
             "SBLGNT",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -5164,7 +6386,10 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)",
+                "WH1881"
               ],
               "weight_sum": 3.2
             }
@@ -5185,6 +6410,49 @@
             }
           ],
           "lemma_key": "om.",
+          "confidence": 0.813,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "καυχήσομαι.",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "καυχησωμαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "καυχησομαι",
           "confidence": 0.813,
           "credited_witnesses": []
         }
@@ -5308,20 +6576,123 @@
         "TR (KJTR)": "Ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες.",
         "B (03)": "ηδεωσ γαρ ανεχεσθε των αφρονων φρονιμοι οντεσ",
         "א (01)": "ηδεωσ γαρ ανεχεσθε των αφρονων φρονιμοι οντεσ",
+        "NA28 (TAGNT)": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες·",
+        "THGNT": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες·",
+        "WH1881": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων φρόνιμοι ὄντες·",
+        "Tisch8": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων φρόνιμοι ὄντες·",
         "TCGNT (Byz)": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες.",
         "PT1904 (Byz)": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων φρόνιμοι ὄντες·",
         "TR-Scrivener (1894)": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες."
+        "TR-Boyd (Elz/Scr/Steph)": "Ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες.",
+        "TR-Stephanus (1550)": "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες·",
+        "TR-Elzevir (1624)": "ηδεως γαρ ανεχεσθε των αφρονων φρονιμοι οντες",
+        "𝔓46": "ηδεωσ γαρ ανεχεσθε των αφρονων φρονιμοι οντεσ",
+        "33": "ηδεως γαρ ανεχεσθαι των αφρονων φρονημοι οντες"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἀνέχεσθε",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "ανεχεσθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ανεχεσθε",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "φρόνιμοι",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "φρονημοι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "φρονιμοι",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -5421,7 +6792,7 @@
       "id": 36184,
       "verse": 20,
       "critical_text": "ἀνέχεσθε γὰρ εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει.",
-      "confidence": 0.98,
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "SRGNT": "Ἀνέχεσθε γὰρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει.",
@@ -5432,20 +6803,79 @@
         "TR (KJTR)": "Ἀνέχεσθε γὰρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει.",
         "B (03)": "ανεχεσθε γαρ ει τισ υμασ καταδουλοι ει τισ κατεσθιει ει τισ λαμβανει ει τισ επαιρεται ει τισ εισ προσωπον υμασ δερει",
         "א (01)": "ανεχεσθε γαρ ει τισ υμασ καταδουλοι ει τισ κατεσθιει ει τισ λαμβανει ει τισ επαιρεται ει τισ εισ προσωπον υμασ δερι",
+        "NA28 (TAGNT)": "ἀνέχεσθε γὰρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει.",
+        "THGNT": "ἀνέχεσθε γάρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει.",
+        "WH1881": "ἀνέχεσθε γὰρ εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει.",
+        "Tisch8": "ἀνέχεσθε γὰρ εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει.",
         "TCGNT (Byz)": "ἀνέχεσθε γὰρ εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει.",
         "PT1904 (Byz)": "ἀνέχεσθε γὰρ εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει.",
         "TR-Scrivener (1894)": "ἀνέχεσθε γάρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἀνέχεσθε γάρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει."
+        "TR-Boyd (Elz/Scr/Steph)": "Ἀνέχεσθε γάρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει.",
+        "TR-Stephanus (1550)": "ἀνέχεσθε γὰρ εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις ὑμᾶς εἰς πρόσωπον δέρει·",
+        "TR-Elzevir (1624)": "ανεχεσθε γαρ ει τις υμας καταδουλοι ει τις κατεσθιει ει τις λαμβανει ει τις επαιρεται ει τις υμας εις προσωπον δερει",
+        "𝔓46": "ανεχεσθε γαρ ει τισ υμασ καταδουλοι ει τισ κατεσθειει ει τισ λαμβανει ει τισ επαιρεται ει τισ εισ προσωπον υμασ δερει",
+        "33": "ανεχεσθαι γαρ ει τις υμας καταδουλοι ει τις κατεσθιει ει τις λαμβανει ει τις επαιρεται ει τις εις προσωπον υμας δερει"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἀνέχεσθε",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "ανεχεσθαι",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ανεχεσθε",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 17,
           "lemma": "om.",
@@ -5455,7 +6885,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -5467,7 +6903,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -5480,7 +6918,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'ὑμᾶς' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
+              "note": "Units 'om.', 'ὑμᾶς' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -5508,7 +6946,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -5520,12 +6964,14 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
           ],
-          "note": "[Omission in some witnesses] Adopted 'ὑμᾶς' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)).",
+          "note": "[Omission in some witnesses] Adopted 'ὑμᾶς' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 19,
           "word_count": 1,
           "kind": "word",
@@ -5533,7 +6979,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'ὑμᾶς' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
+              "note": "Units 'om.', 'ὑμᾶς' together form one word-order variant (RP2018 (Byz), TR (KJTR) transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -5807,7 +7253,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 98% = product of 2 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "note": "Verse confidence 99% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -5831,18 +7277,34 @@
         "TR (KJTR)": "Κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν. Ἐν ᾧ δʼ ἄν τις τολμᾷ, (ἐν ἀφροσύνῃ λέγω,) τολμῶ κἀγώ.",
         "B (03)": "κατα ατειμιαν λεγω ωσ οτι ημεισ ησθενηκαμεν εν ω δ αν τισ τολμα εν αφροσυνη λεγω τολμω καγω",
         "א (01)": "κατα ατιμιαν λεγω ωσ οτι ημισ ησθενηκαμεν εν ω δ αν τισ τολμα εν αφροσυνη τολμω καγω",
+        "NA28 (TAGNT)": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήκαμεν· ἐν ᾧ δ᾽ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ.",
+        "THGNT": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήκαμεν· ἐν ᾧ δ᾽ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ.",
+        "WH1881": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήκαμεν· ἐν ᾧ δʼ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ.",
+        "Tisch8": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήκαμεν· ἐν ᾧ δ’ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ.",
         "TCGNT (Byz)": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν. ἐν ᾧ δ᾽ ἄν τις τολμᾷ (ἐν ἀφροσύνῃ λέγω) τολμῶ κἀγώ.",
         "PT1904 (Byz)": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν. ἐν ᾧ δ᾽ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ.",
         "TR-Scrivener (1894)": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν· ἐν ᾧ δ᾽ ἄν τις τολμᾷ (ἐν ἀφροσύνῃ λέγω), τολμῶ κἀγώ.",
-        "TR-Boyd (Elz/Scr/Steph)": "Κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν· ἐν ᾧ δ᾿ ἄν τις τολμᾷ — ἐν ἀφροσύνῃ λέγω — τολμῶ κἀγώ."
+        "TR-Boyd (Elz/Scr/Steph)": "Κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν· ἐν ᾧ δ᾿ ἄν τις τολμᾷ — ἐν ἀφροσύνῃ λέγω — τολμῶ κἀγώ.",
+        "TR-Stephanus (1550)": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήσαμεν· ἐν ᾧ δʼ ἄν τις τολμᾷ, (ἐν ἀφροσύνῃ λέγω,) τολμῶ κᾀγώ·",
+        "TR-Elzevir (1624)": "κατα ατιμιαν λεγω ως οτι ημεις ησθενησαμεν εν ω δ αν τις τολμα εν αφροσυνη λεγω τολμω καγω",
+        "𝔓46": "κατα ατιμιαν λεγω ωσ … ημεισ ησθενηκαμεν εν … τολμα εν αφροσυνη λεγω … καγω …",
+        "33": "κατα ατιμιαν λεγω ως οτι ημεις ησθενηκαμεν εν ω δ αν τις τολμα εν αφροσυνη λεγω τολμω καγω"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -5854,7 +7316,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -5866,7 +7334,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -5901,10 +7371,18 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -6171,18 +7649,32 @@
         "TR (KJTR)": "Ἑβραῖοί εἰσιν; Κἀγώ. Ἰσραηλῖταί εἰσιν; Κἀγώ. Σπέρμα Ἀβραάμ εἰσιν; Κἀγώ.",
         "B (03)": "εβραιοι εισιν καγω ισραηλειται εισιν καγω σπερμα αβρααμ εισιν καγω",
         "א (01)": "εβρεοι εισιν καγω ισδραηλιται εισιν καγω σπερμα αβρααμ εισιν καγω",
+        "NA28 (TAGNT)": "Ἑβραῖοί εἰσιν; κἀγώ· Ἰσραηλῖταί εἰσιν; κἀγώ· σπέρμα Ἀβραάμ εἰσιν; κἀγώ·",
+        "THGNT": "ἑβραῖοι εἰσίν; κἀγώ· ἰσραηλεῖται εἰσίν; κἀγώ· σπέρμα ἁβραὰμ εἰσίν; κἀγώ·",
+        "WH1881": "Ἐβραῖοί εἰσιν; κἀγώ. Ἰσραηλεῖταί εἰσιν; κἀγώ. σπέρμα Ἀβραάμ εἰσιν; κἀγώ.",
+        "Tisch8": "Ἑβραῖοί εἰσιν; κἀγώ. Ἰσραηλεῖταί εἰσιν; κἀγώ. σπέρμα Ἀβραάμ εἰσιν; κἀγώ.",
         "TCGNT (Byz)": "Ἑβραῖοί εἰσι; κἀγώ. Ἰσραηλῖταί εἰσι; κἀγώ. σπέρμα Ἀβραάμ εἰσι; κἀγώ.",
         "PT1904 (Byz)": "Ἑβραῖοί εἰσι; κἀγώ· Ἰσραηλῖταί εἰσι; κἀγώ· σπέρμα Ἀβραάμ εἰσι; κἀγώ·",
         "TR-Scrivener (1894)": "Ἑβραῖοί εἰσι; κἀγώ· Ἰσραηλῖταί εἰσι; κἀγώ· σπέρμα Ἀβραάμ εἰσι; κἀγώ·",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἑβραῖοί εἰσι; Κἀγώ. Ἰσραηλῖταί εἰσι; Κἀγώ. Σπέρμα Ἀβραάμ εἰσι; Κἀγώ."
+        "TR-Boyd (Elz/Scr/Steph)": "Ἑβραῖοί εἰσι; Κἀγώ. Ἰσραηλῖταί εἰσι; Κἀγώ. Σπέρμα Ἀβραάμ εἰσι; Κἀγώ.",
+        "TR-Stephanus (1550)": "Ἑβραῖοί εἰσι, κᾀγώ· Ἰσραηλῖταί εἰσι, κᾀγώ· σπέρμα Ἁβραάμ εἰσι, κᾀγώ·",
+        "TR-Elzevir (1624)": "εβραιοι εισιν καγω ισραηλιται εισιν καγω σπερμα αβρααμ εισιν καγω",
+        "33": "εβραιοι […] καγω ισραηλιται εισιν καγω σπερμα αβρααμ εισιν καγω"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881"
       ],
       "apparatus": [
         {
@@ -6196,10 +7688,17 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -6241,10 +7740,17 @@
             "B (03)",
             "Nestle1904",
             "BHP",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -6402,31 +7908,6 @@
             "א (01)"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;"
-          ],
-          "witnesses": [
-            "PT1904 (Byz)",
-            "TCGNT (Byz)",
-            "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Ἑβραῖοί' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over εβρεοι (א (01)). [Lexical, morphological, or word-order variant] Adopted 'Ἰσραηλῖταί' [SRGNT, SBLGNT, RP2018 (Byz), TR (KJTR), B (03), Nestle1904, BHP] (weight 5.97, confidence 99%) over ισδραηλιται (א (01)). Also normalised 9 orthographic/surface variation(s).",
@@ -6447,7 +7928,7 @@
       "id": 36187,
       "verse": 23,
       "critical_text": "διάκονοι Χριστοῦ εἰσιν; παραφρονῶν λαλῶ, ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν φυλακαῖς περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν θανάτοις πολλάκις·",
-      "confidence": 0.961,
+      "confidence": 0.98,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "SRGNT": "Διάκονοι Χριστοῦ εἰσιν; (Παραφρονῶν λαλῶ), ὑπὲρ ἐγώ: ἐν κόποις περισσοτέρως, ἐν φυλακαῖς περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν θανάτοις πολλάκις.",
@@ -6458,18 +7939,34 @@
         "TR (KJTR)": "Διάκονοι Χριστοῦ εἰσιν; (παραφρονῶν λαλῶ) ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις.",
         "B (03)": "διακονοι χυ̅ εισιν παραφρονων λαλω υπερ εγω εν κοποισ περισσοτερωσ εν φυλακαισ περισσοτερωσ εν πληγαισ υπερβαλλοντωσ εν θανατοισ πολλακισ",
         "א (01)": "διακονοι χυ̅ εισιν παραφρονων λαλω υπερ εγω εν κοποισ περισσοτερωσ εν πληγαισ περισσοτερωσ εν φυλακαισ υπερβαλλοντωσ εν θανατοισ πολλακισ",
+        "NA28 (TAGNT)": "διάκονοι Χριστοῦ εἰσιν; παραφρονῶν λαλῶ· ὑπὲρ ἐγώ. ἐν κόποις περισσοτέρως, ἐν φυλακαῖς περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν θανάτοις πολλάκις.",
+        "THGNT": "διάκονοι Χριστοῦ εἰσίν; παραφρονῶν λαλῶ· ὑπὲρ ἐγώ. ἐν κόποις περισσοτέρως, ἐν φυλακαῖς περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν θανάτοις πολλάκις.",
+        "WH1881": "διάκονοι Χριστοῦ εἰσίν; παραφρονῶν λαλῶ, ὕπερ ἐγώ· ἐν κόποις περισσοτέρως, ἐν φυλακαῖς περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν θανάτοις πολλάκις·",
+        "Tisch8": "διάκονοι Χριστοῦ εἰσιν; παραφρονῶν λαλῶ, ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν πληγαῖς περισσοτέρως, ἐν φυλακαῖς ὑπερβαλλόντως, ἐν θανάτοις πολλάκις·",
         "TCGNT (Byz)": "διάκονοι Χριστοῦ εἰσι; (παραφρονῶν λαλῶ) ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις·",
         "PT1904 (Byz)": "διάκονοι Χριστοῦ εἰσι; παραφρονῶν λαλῶ, ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις·",
         "TR-Scrivener (1894)": "διάκονοι Χριστοῦ εἰσι; (παραφρονῶν λαλῶ) ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις.",
-        "TR-Boyd (Elz/Scr/Steph)": "Διάκονοι Χριστοῦ εἰσι; — παραφρονῶν λαλῶ — Ὑπὲρ ἐγώ. Ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις,"
+        "TR-Boyd (Elz/Scr/Steph)": "Διάκονοι Χριστοῦ εἰσι; — παραφρονῶν λαλῶ — Ὑπὲρ ἐγώ. Ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις,",
+        "TR-Stephanus (1550)": "διάκονοι Χριστοῦ εἰσι (παραφρονῶν λαλῶ) ὑπὲρ ἐγώ· ἐν κόποις περισσοτέρως, ἐν πληγαῖς ὑπερβαλλόντως, ἐν φυλακαῖς περισσοτέρως, ἐν θανάτοις πολλάκις.",
+        "TR-Elzevir (1624)": "διακονοι χριστου εισιν παραφρονων λαλω υπερ εγω εν κοποις περισσοτερως εν πληγαις υπερβαλλοντως εν φυλακαις περισσοτερως εν θανατοις πολλακις",
+        "𝔓46": "… παραφρονων λαλω υπερ εγω εν κοποισ περισσοτερωσ εν φυλακαισ περισσοτερωσ εν πληγαισ υπερβαλλοντωσ εν θανατοισ πολλακισ",
+        "33": "διακονοι χυ̅ εισιν […] λαλω υπερ εγω εν κοποις περισσοτερως εν φυλακαις περισσοτερως εν πληγαις υπερβαλλοντως εν θανατοις πολλακις"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -6481,7 +7978,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -6493,7 +7996,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -6502,15 +8007,15 @@
           "word_index": 11,
           "word_count": 0,
           "kind": "word",
-          "variant_type": "omission / addition",
+          "variant_type": "word-order transposition",
           "analysis": [
             {
-              "canon": "transcriptional: homoeoteleuton",
-              "note": "The omission in B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP is explicable by eye-skip between the two occurrences of 'εν' (between such common short words a possibility only; the vote is unchanged).",
+              "canon": "variant type: transposition",
+              "note": "Units 'om.', 'πληγαῖς', 'ὑπερβαλλόντως ἐν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).",
               "favours": "neither",
-              "reading": "πληγαῖς ὑπερβαλλόντως ἐν",
-              "key": "πληγαισ υπερβαλλοντωσ εν",
-              "strength": "weak"
+              "reading": "",
+              "key": "",
+              "strength": "info"
             },
             {
               "canon": "external: independent streams",
@@ -6536,17 +8041,25 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
               "reading": "πληγαισ",
               "adopt_text": "πληγαισ",
               "witnesses": [
-                "א (01)"
+                "א (01)",
+                "Tisch8"
               ],
               "weight_sum": 0.96
             }
@@ -6578,7 +8091,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -6590,7 +8108,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             },
@@ -6598,7 +8118,8 @@
               "reading": "φυλακαισ",
               "adopt_text": "φυλακαισ",
               "witnesses": [
-                "א (01)"
+                "א (01)",
+                "Tisch8"
               ],
               "weight_sum": 0.96
             }
@@ -6607,8 +8128,16 @@
           "word_index": 14,
           "word_count": 1,
           "kind": "word",
-          "variant_type": "omission / addition",
+          "variant_type": "word-order transposition",
           "analysis": [
+            {
+              "canon": "variant type: transposition",
+              "note": "Units 'om.', 'πληγαῖς', 'ὑπερβαλλόντως ἐν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
             {
               "canon": "external: independent streams",
               "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical, early manuscripts.",
@@ -6631,7 +8160,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -6643,7 +8178,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -6652,8 +8189,16 @@
           "word_index": 15,
           "word_count": 2,
           "kind": "word",
-          "variant_type": "omission / addition",
+          "variant_type": "word-order transposition",
           "analysis": [
+            {
+              "canon": "variant type: transposition",
+              "note": "Units 'om.', 'πληγαῖς', 'ὑπερβαλλόντως ἐν' together form one word-order variant (RP2018 (Byz), TR (KJTR), א (01) transpose).",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
             {
               "canon": "external: independent streams",
               "note": "Adopted reading: early manuscripts, modern critical editions; other reading(s): Byzantine / ecclesiastical.",
@@ -6860,23 +8405,6 @@
             "א (01)"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;",
-            "εἰσιν; / εἰσι;"
-          ],
-          "witnesses": [
-            "PT1904 (Byz)",
-            "TCGNT (Byz)",
-            "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Addition / omission between witnesses] Adopted 'om.' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.73, confidence 99%) over πληγαῖς ὑπερβαλλόντως ἐν (RP2018 (Byz), TR (KJTR)). [Lexical, morphological, or word-order variant] Adopted 'φυλακαῖς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP, RP2018 (Byz), TR (KJTR)] (weight 5.97, confidence 99%) over πληγαισ (א (01)). [Omission in some witnesses] Adopted 'πληγαῖς' [B (03), SRGNT, SBLGNT, Nestle1904, BHP] (weight 4.65, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)); φυλακαισ (א (01)). [Variation unit spanning several words] Adopted 'ὑπερβαλλόντως ἐν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over om. (RP2018 (Byz), TR (KJTR)). Also normalised 15 orthographic/surface variation(s).",
@@ -6884,7 +8412,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 96% = product of 4 unit confidence(s); calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
+          "note": "Verse confidence 98% = product of 2 unit confidence(s); 2 split-transposition duplicate(s) counted once; calibrated on the Greek NT (probability that a modern critical edition agrees, fitted with a whole stream of witnesses held out).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -6908,18 +8436,34 @@
         "TR (KJTR)": "Ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον.",
         "B (03)": "υπο ιουδαιων πεντακισ τεσσερακοντα παρα μιαν ελαβον",
         "א (01)": "υπο ιουδαιων πεντακισ τεσσερακοντα παρα μιαν ελαβον",
+        "NA28 (TAGNT)": "ὑπὸ Ἰουδαίων πεντάκις τεσσεράκοντα παρὰ μίαν ἔλαβον,",
+        "THGNT": "ὑπὸ Ἰουδαίων πεντάκις τεσσεράκοντα παρὰ μίαν ἔλαβον,",
+        "WH1881": "ὑπὸ Ἰουδαίων πεντάκις τεσσεράκοντα παρὰ μίαν ἔλαβον,",
+        "Tisch8": "ὑπὸ Ἰουδαίων πεντάκις τεσσεράκοντα παρὰ μίαν ἔλαβον,",
         "TCGNT (Byz)": "ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον,",
         "PT1904 (Byz)": "ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον,",
         "TR-Scrivener (1894)": "ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον.",
-        "TR-Boyd (Elz/Scr/Steph)": "ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον."
+        "TR-Boyd (Elz/Scr/Steph)": "ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον.",
+        "TR-Stephanus (1550)": "ὑπὸ Ἰουδαίων πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον·",
+        "TR-Elzevir (1624)": "υπο ιουδαιων πεντακις τεσσαρακοντα παρα μιαν ελαβον",
+        "𝔓46": "υπο ιουδαιων πεντακισ τεσσερακοντα παρα μιαν ελαβον",
+        "33": "υπο ιουδαιων πεντακις τεσσαρακοντα […] μιαν ελαβον"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [],
       "disregarded": [
@@ -7020,13 +8564,18 @@
             "τεσσεράκοντα / τεσσαράκοντα",
             "τεσσεράκοντα / τεσσαράκοντα",
             "τεσσεράκοντα / τεσσαράκοντα",
+            "τεσσεράκοντα / τεσσαράκοντα",
+            "τεσσεράκοντα / τεσσαρακοντα",
+            "τεσσεράκοντα / τεσσαράκοντα",
             "τεσσεράκοντα / τεσσαράκοντα"
           ],
           "witnesses": [
             "PT1904 (Byz)",
             "TCGNT (Byz)",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)"
           ],
           "reason": "Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)"
         }
@@ -7051,20 +8600,129 @@
         "TR (KJTR)": "Τρὶς ἐραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
         "B (03)": "τρισ εραβδισθην απαξ ελιθασθην τρισ εναυαγησα νυχθημερον εν τω βυθω πεποιηκα",
         "א (01)": "τρεισ εραβδισθην απαξ ελιθασθην τρεισ εναυαγησα νυχθημερον εν τω βυθω πεποιηκα",
+        "NA28 (TAGNT)": "τρὶς ἐρραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
+        "THGNT": "τρὶς ἐραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
+        "WH1881": "τρὶς ἐραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
+        "Tisch8": "τρὶς ἐραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
         "TCGNT (Byz)": "τρὶς ἐραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
         "PT1904 (Byz)": "τρὶς ἐρραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
         "TR-Scrivener (1894)": "τρὶς ἐρραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
-        "TR-Boyd (Elz/Scr/Steph)": "Τρὶς ἐρραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·"
+        "TR-Boyd (Elz/Scr/Steph)": "Τρὶς ἐρραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·",
+        "TR-Stephanus (1550)": "τρὶς ἐῤῥαβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα,",
+        "TR-Elzevir (1624)": "τρις ερραβδισθην απαξ ελιθασθην τρις εναυαγησα νυχθημερον εν τω βυθω πεποιηκα",
+        "𝔓46": "τρισ εραβδισθην τρισ εναυγησα νυχθημερον εν τω βυθω πεποιηκα",
+        "33": "τρεις εραβδισθην απαξ ελιθασθην τρεις εναυγαγησα νυχθημερον εν τω βυθω πεποιηκα"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἅπαξ ἐλιθάσθην,",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "33",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "απαξ ελιθασθην",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐναυάγησα,",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "εναυγαγησα",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "εναυγησα",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εναυαγησα",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -7209,12 +8867,19 @@
           "disregarded_forms": [
             "ἐραβδίσθην, / ἐρραβδίσθην,",
             "ἐραβδίσθην, / ἐρραβδίσθην,",
-            "ἐραβδίσθην, / ἐρραβδίσθην,"
+            "ἐραβδίσθην, / ἐρραβδίσθην·",
+            "ἐραβδίσθην, / ἐρραβδίσθην,",
+            "ἐραβδίσθην, / ερραβδισθην",
+            "ἐραβδίσθην, / ἐρραβδίσθην,",
+            "ἐραβδίσθην, / ἐῤῥαβδίσθην,"
           ],
           "witnesses": [
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)"
           ],
           "reason": "Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)"
         }
@@ -7239,18 +8904,34 @@
         "TR (KJTR)": "Ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·",
         "B (03)": "οδοιποριαισ πολλακισ κινδυνοισ ποταμων κινδυνοισ ληστων κινδυνοισ εκ γενουσ κινδυνοισ εξ εθνων κινδυνοισ εν πολει κινδυνοισ εν ερημια κινδυνοισ εν θαλασση κινδυνοισ εν ψευδαδελφοισ",
         "א (01)": "οδοιποριαισ πολλακισ κινδυνοισ ποταμων κινδυνοισ ληστων κινδυνοισ εκ γενουσ κινδυνοισ εξ εθνων κινδυνοισ εν πολει κινδυνοισ εν ερημια κινδυνοισ εν θαλασση κινδυνοισ εν ψευδαδελφοισ",
+        "NA28 (TAGNT)": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις,",
+        "THGNT": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις ληστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις,",
+        "WH1881": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις,",
+        "Tisch8": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις,",
         "TCGNT (Byz)": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·",
         "PT1904 (Byz)": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·",
         "TR-Scrivener (1894)": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·",
-        "TR-Boyd (Elz/Scr/Steph)": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·"
+        "TR-Boyd (Elz/Scr/Steph)": "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·",
+        "TR-Stephanus (1550)": "ὁδοιπορίαις πολλάκις. κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις·",
+        "TR-Elzevir (1624)": "οδοιποριαις πολλακις κινδυνοις ποταμων κινδυνοις ληστων κινδυνοις εκ γενους κινδυνοις εξ εθνων κινδυνοις εν πολει κινδυνοις εν ερημια κινδυνοις εν θαλασση κινδυνοις εν ψευδαδελφοις",
+        "𝔓46": "οδοιποριαισ πολλακισ κινδυνοισ ποταμων κινδυνοισ ληστων κινδυνοισ εκ γενουσ κινδυνοισ εξ εθνων κινδυνοισ εν πολει κινδυνοισ εν ερημια κινδυνοισ εν θαλασση κινδυνοισ εν ψευδαδελφοισ",
+        "33": "οδοιποριαις πολλακις κινδυνοις ποταμων κινδυνοις ληστων […] εκ γενους κινδυνοις εξ εθνων κινδυνοις εν πολει κινδυνοις εν ερημια κινδυνοις εν θαλασση κινδυνοις εν ψευδαδελφοις"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [],
       "disregarded": [
@@ -7565,18 +9246,34 @@
         "TR (KJTR)": "Ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι.",
         "B (03)": "κοπω και μοχθω εν αγρυπνιαισ πολλακισ εν λειμω και διψη εν νηστειαισ πολλακισ εν ψυχει και γυμνοτητι",
         "א (01)": "κοπω και μοχθω εν αγρυπνιαισ πολλακισ εν λειμω και διψει εν νηστιαισ πολλακισ εν ψυχι και γυμνοτητι",
+        "NA28 (TAGNT)": "κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
+        "THGNT": "κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
+        "WH1881": "κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
+        "Tisch8": "κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
         "TCGNT (Byz)": "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
         "PT1904 (Byz)": "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
         "TR-Scrivener (1894)": "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι.",
-        "TR-Boyd (Elz/Scr/Steph)": "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι."
+        "TR-Boyd (Elz/Scr/Steph)": "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι.",
+        "TR-Stephanus (1550)": "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·",
+        "TR-Elzevir (1624)": "εν κοπω και μοχθω εν αγρυπνιαις πολλακις εν λιμω και διψει εν νηστειαις πολλακις εν ψυχει και γυμνοτητι",
+        "𝔓46": "κοπω και μοχθω εν αγρυπνιαισ πολλακισ εν λειμω και δειψη εν νηστειαισ πολλακισ ψυχει και γυμνοτητι",
+        "33": "εν κοπω και μοχθω εν αγρυπνιαις πολλακις εν λιμω και διψει εν νηστειαις πολλακις εν ψυχη και γυμνοτητι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -7588,7 +9285,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -7597,10 +9299,13 @@
               "witnesses": [
                 "RP2018 (Byz)",
                 "TR (KJTR)",
+                "33",
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -7635,17 +9340,25 @@
             "BHP",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
               "reading": "διψη",
               "adopt_text": "διψη",
               "witnesses": [
-                "B (03)"
+                "B (03)",
+                "𝔓46"
               ],
               "weight_sum": 0.98
             }
@@ -7667,6 +9380,92 @@
           ],
           "lemma_key": "διψει",
           "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐν",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "33",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "𝔓46"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εν",
+          "confidence": 0.98,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ψύχει",
+          "lemma_witnesses": [
+            "B (03)",
+            "BHP",
+            "Nestle1904",
+            "RP2018 (Byz)",
+            "SBLGNT",
+            "SRGNT",
+            "TR (KJTR)",
+            "א (01)",
+            "NA28 (TAGNT)",
+            "PT1904 (Byz)",
+            "TCGNT (Byz)",
+            "THGNT",
+            "TR-Boyd (Elz/Scr/Steph)",
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
+          ],
+          "variants": [
+            {
+              "reading": "ψυχη",
+              "witnesses": [
+                "33"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ψυχει",
+          "confidence": 0.98,
           "credited_witnesses": []
         }
       ],
@@ -7895,18 +9694,34 @@
         "TR (KJTR)": "Χωρὶς τῶν παρεκτὸς, ἡ ἐπισύστασις μου ἡ καθʼ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
         "B (03)": "χωρισ των παρεκτοσ η επιστασισ μοι η καθ ημεραν η μεριμνα πασων των εκκλησιων",
         "א (01)": "χωρισ των παρεκτοσ η επιστασισ μοι η καθ ημεραν η μεριμνα πασων των εκκλησιων",
+        "NA28 (TAGNT)": "χωρὶς τῶν παρεκτὸς ἡ ἐπίστασίς μοι ἡ καθ᾽ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
+        "THGNT": "χωρὶς τῶν παρεκτὸς ἡ ἐπίστασίς μοι ἡ καθ᾽ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
+        "WH1881": "χωρὶς τῶν παρεκτὸς ἡ ἐπίστασίς μοι ἡ καθʼ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
+        "Tisch8": "χωρὶς τῶν παρεκτὸς ἡ ἐπίστασίς μοι ἡ καθ’ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
         "TCGNT (Byz)": "χωρὶς τῶν παρεκτὸς ἡ ἐπισύστασίς μου ἡ καθ᾽ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
         "PT1904 (Byz)": "χωρὶς τῶν παρεκτὸς ἡ ἐπισύστασίς μου ἡ καθ᾽ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
         "TR-Scrivener (1894)": "χωρὶς τῶν παρεκτός, ἡ ἐπισύστασίς μου ἡ καθ᾽ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
-        "TR-Boyd (Elz/Scr/Steph)": "Χωρὶς τῶν παρεκτός, ἡ ἐπισύστασίς μου ἡ καθ᾿ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν."
+        "TR-Boyd (Elz/Scr/Steph)": "Χωρὶς τῶν παρεκτός, ἡ ἐπισύστασίς μου ἡ καθ᾿ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
+        "TR-Stephanus (1550)": "χωρὶς τῶν παρεκτὸς ἡ ἐπισύστασίς μου ἡ καθʼ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν.",
+        "TR-Elzevir (1624)": "χωρις των παρεκτος η επισυστασις μου η καθ ημεραν η μεριμνα πασων των εκκλησιων",
+        "𝔓46": "χωρισ των παρεκτοσ η επιστασισ μοι η καθ ημεραν η μεριμνα πασων των εκκλησιων",
+        "33": "χωρις των παρεκτος η επιστασις μοι η καθ ημεραν η μεριμνα πασων των εκκλησιων"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -7918,7 +9733,13 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881",
+            "𝔓46"
           ],
           "variants": [
             {
@@ -7930,7 +9751,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -8139,18 +9962,34 @@
         "TR (KJTR)": "Τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
         "B (03)": "τισ ασθενει και ουκ ασθενω τισ σκανδαλιζεται και ουκ εγω πυρουμαι",
         "א (01)": "τισ ασθενι και ουκ ασθενω τισ σκανδαλειζεται και ουκ εγω πυρουμαι",
+        "NA28 (TAGNT)": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+        "THGNT": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+        "WH1881": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+        "Tisch8": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
         "TCGNT (Byz)": "τίς ἀσθενεῖ καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται καὶ οὐκ ἐγὼ πυροῦμαι;",
         "PT1904 (Byz)": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
         "TR-Scrivener (1894)": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
-        "TR-Boyd (Elz/Scr/Steph)": "Τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; Τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;"
+        "TR-Boyd (Elz/Scr/Steph)": "Τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; Τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+        "TR-Stephanus (1550)": "τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+        "TR-Elzevir (1624)": "τις ασθενει και ουκ ασθενω τις σκανδαλιζεται και ουκ εγω πυρουμαι",
+        "𝔓46": "τισ ασθενει και ουκ ασθενω τισ σκανδαλιζεται και ουκ εγω πυρουμαι",
+        "33": "τις ασθενει και ουκ ασθενω τις σκανδαλιζεται και ουκ εγω πυρουμαι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [],
       "disregarded": [
@@ -8316,18 +10155,34 @@
         "TR (KJTR)": "Εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
         "B (03)": "ει καυχασθαι δει τα τησ ασθενειασ καυχησομαι",
         "א (01)": "ει καυχασθαι δει τα τησ ασθενειασ μου καυχησομαι",
+        "NA28 (TAGNT)": "εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
+        "THGNT": "εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
+        "WH1881": "εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας [μου] καυχήσομαι.",
+        "Tisch8": "εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
         "TCGNT (Byz)": "Εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
         "PT1904 (Byz)": "εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
         "TR-Scrivener (1894)": "εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
-        "TR-Boyd (Elz/Scr/Steph)": "Εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι."
+        "TR-Boyd (Elz/Scr/Steph)": "Εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
+        "TR-Stephanus (1550)": "Εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.",
+        "TR-Elzevir (1624)": "ει καυχασθαι δει τα της ασθενειας μου καυχησομαι",
+        "𝔓46": "ει καυχασθαι δει τα τησ ασθενειασ καυχησομαι",
+        "33": "ει καυχασθαι δει τα της ασθενειας μου καυχησομαι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -8340,10 +10195,17 @@
             "Nestle1904",
             "RP2018 (Byz)",
             "TR (KJTR)",
+            "33",
+            "NA28 (TAGNT)",
             "PT1904 (Byz)",
             "TCGNT (Byz)",
+            "THGNT",
             "TR-Boyd (Elz/Scr/Steph)",
-            "TR-Scrivener (1894)"
+            "TR-Elzevir (1624)",
+            "TR-Scrivener (1894)",
+            "TR-Stephanus (1550)",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -8351,7 +10213,8 @@
               "adopt_text": "",
               "witnesses": [
                 "B (03)",
-                "BHP"
+                "BHP",
+                "𝔓46"
               ],
               "weight_sum": 1.98
             }
@@ -8494,18 +10357,34 @@
         "TR (KJTR)": "Ὁ Θεὸς καὶ Πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
         "B (03)": "ο θσ̅ και πατηρ του κυ̅ ιυ̅ οιδεν ο ων ευλογητοσ εισ τουσ αιωνασ οτι ου ψευδομαι",
         "א (01)": "ο θσ̅ και πατηρ του κυ̅ ιυ̅ οιδεν ο ων ευλογητοσ εισ τουσ αιωνασ οτι ου ψευδομαι",
+        "NA28 (TAGNT)": "Ὁ θεὸς καὶ πατὴρ τοῦ κυρίου Ἰησοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
+        "THGNT": "Ὁ θεὸς καὶ πατὴρ τοῦ κυρίου Ἰησοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
+        "WH1881": "ὁ θεὸς καὶ πατὴρ τοῦ κυρίου Ἰησοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
+        "Tisch8": "ὁ θεὸς καὶ πατὴρ τοῦ κυρίου Ἰησοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
         "TCGNT (Byz)": "ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
         "PT1904 (Byz)": "ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
         "TR-Scrivener (1894)": "ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
-        "TR-Boyd (Elz/Scr/Steph)": "Ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι."
+        "TR-Boyd (Elz/Scr/Steph)": "Ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
+        "TR-Stephanus (1550)": "Ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.",
+        "TR-Elzevir (1624)": "ο θεος και πατηρ του κυριου ημων ιησου χριστου οιδεν ο ων ευλογητος εις τους αιωνας οτι ου ψευδομαι",
+        "𝔓46": "ο θσ̅ και πηρ̅ του κυ̅ … οιδεν ο ων ευλογητοσ εισ τουσ … οτι ου ψευδομαι",
+        "33": "ο θς̅ […] πηρ̅ του κυ̅ ιυ̅ οιδεν ο ων ευλογητος εις τους αιωνας οτι ου ψευδομαι"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -8518,7 +10397,12 @@
             "SBLGNT",
             "Nestle1904",
             "BHP",
-            "RP2018 (Byz)"
+            "RP2018 (Byz)",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -8529,7 +10413,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 0.6
             }
@@ -8562,7 +10448,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -8574,7 +10465,9 @@
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 1.32
             }
@@ -8861,18 +10754,34 @@
         "TR (KJTR)": "Ἐν Δαμασκῷ ὁ ἐθνάρχης Ἁρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν, πιάσαι με θέλων:",
         "B (03)": "εν δαμασκω ο εθναρχησ αρετα του βασιλεωσ εφρουρει την πολιν δαμασκηνων πιασαι με",
         "א (01)": "εν δαμασκω ο εθναρχησ αρετα του βασιλεωσ εφρουρι την πολιν δαμασκηνων πιασαι με θελων",
+        "NA28 (TAGNT)": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἁρέτα τοῦ βασιλέως ἐφρούρει τὴν πόλιν Δαμασκηνῶν πιάσαι με",
+        "THGNT": "ἐν Δαμασκῷ ὁ ἐθνάρχης ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν πόλιν Δαμασκηνῶν πιάσαι με θέλων,",
+        "WH1881": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἁρέτα τοῦ βασιλέως ἐφρούρει τὴν πόλιν Δαμασκηνῶν πιάσαι με,",
+        "Tisch8": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἁρέτα τοῦ βασιλέως ἐφρούρει τὴν πόλιν Δαμασκηνῶν πιάσαι με,",
         "TCGNT (Byz)": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν πιάσαι με θέλων,",
         "PT1904 (Byz)": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν πιάσαι με θέλων,",
         "TR-Scrivener (1894)": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν, πιάσαι με θέλων·",
-        "TR-Boyd (Elz/Scr/Steph)": "Ἐν Δαμασκῷ ὁ ἐθνάρχης Ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν, πιάσαι με θέλων·"
+        "TR-Boyd (Elz/Scr/Steph)": "Ἐν Δαμασκῷ ὁ ἐθνάρχης Ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν, πιάσαι με θέλων·",
+        "TR-Stephanus (1550)": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἀρέτα τοῦ βασιλέως ἐφρούρει τὴν Δαμασκηνῶν πόλιν, πιάσαι με θέλων,",
+        "TR-Elzevir (1624)": "εν δαμασκω ο εθναρχης αρετα του βασιλεως εφρουρει την δαμασκηνων πολιν πιασαι με θελων",
+        "𝔓46": "εν δαμασκω … του βασιλεωσ … θελων",
+        "33": "εν δαμασκω ο εθναρχης αρετα του βασιλεως εφρουρει την πολιν δαμασκηνων πιασαι με θελων"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [
         {
@@ -8884,7 +10793,12 @@
             "SRGNT",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "33",
+            "NA28 (TAGNT)",
+            "THGNT",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -8892,22 +10806,18 @@
               "adopt_text": "Δαμασκηνῶν πόλιν",
               "witnesses": [
                 "RP2018 (Byz)",
-                "TR (KJTR)"
-              ],
-              "weight_sum": 1.32
-            },
-            {
-              "reading": "πόλιν",
-              "witnesses": [
+                "TR (KJTR)",
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
-              "weight_sum": 0.0
+              "weight_sum": 1.32
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'πόλιν Δαμασκηνῶν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over Δαμασκηνῶν πόλιν (RP2018 (Byz), TR (KJTR)). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "note": "[Variation unit spanning several words] Adopted 'πόλιν Δαμασκηνῶν' [B (03), א (01), SRGNT, SBLGNT, Nestle1904, BHP] (weight 5.61, confidence 99%) over Δαμασκηνῶν πόλιν (RP2018 (Byz), TR (KJTR)).",
           "word_index": 9,
           "word_count": 2,
           "kind": "word",
@@ -8933,7 +10843,10 @@
             "B (03)",
             "SBLGNT",
             "Nestle1904",
-            "BHP"
+            "BHP",
+            "NA28 (TAGNT)",
+            "Tisch8",
+            "WH1881"
           ],
           "variants": [
             {
@@ -8944,10 +10857,14 @@
                 "SRGNT",
                 "RP2018 (Byz)",
                 "TR (KJTR)",
+                "33",
                 "PT1904 (Byz)",
                 "TCGNT (Byz)",
+                "THGNT",
                 "TR-Boyd (Elz/Scr/Steph)",
-                "TR-Scrivener (1894)"
+                "TR-Elzevir (1624)",
+                "TR-Scrivener (1894)",
+                "TR-Stephanus (1550)"
               ],
               "weight_sum": 3.23
             }
@@ -9145,18 +11062,34 @@
         "TR (KJTR)": "Καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους, καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
         "B (03)": "και δια θυριδοσ εν σαργανη εχαλασθην δια του τειχουσ και εξεφυγον τασ χειρασ αυτου",
         "א (01)": "και δια θυριδοσ εν σαργανη εχαλασθην δια του τιχουσ και εξεφυγον τασ χιρασ αυτου",
+        "NA28 (TAGNT)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
+        "THGNT": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
+        "WH1881": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
+        "Tisch8": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
         "TCGNT (Byz)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
         "PT1904 (Byz)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
         "TR-Scrivener (1894)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους, καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
-        "TR-Boyd (Elz/Scr/Steph)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ."
+        "TR-Boyd (Elz/Scr/Steph)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
+        "TR-Stephanus (1550)": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους, καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.",
+        "TR-Elzevir (1624)": "και δια θυριδος εν σαργανη εχαλασθην δια του τειχους και εξεφυγον τας χειρας αυτου",
+        "𝔓46": "… εν σαργανη εχαλασθην δια του τειχουσ και εξεφυγον τασ χειρασ αυτου",
+        "33": "και δια θυριδος εν σαργανη εχαλασθην δια του τειχους και εξεφυγον τας χειρας αυτου"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "33",
+        "NA28 (TAGNT)",
         "PT1904 (Byz)",
         "TCGNT (Byz)",
+        "THGNT",
         "TR-Boyd (Elz/Scr/Steph)",
-        "TR-Scrivener (1894)"
+        "TR-Elzevir (1624)",
+        "TR-Scrivener (1894)",
+        "TR-Stephanus (1550)",
+        "Tisch8",
+        "WH1881",
+        "𝔓46"
       ],
       "apparatus": [],
       "disregarded": [

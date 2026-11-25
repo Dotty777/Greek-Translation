@@ -1,6 +1,6 @@
 # Psalms 138 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:36Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:29Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 137:1 kept in its own chapter (stronger match to its own reference verse)
@@ -51,6 +51,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 139:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 139:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 139:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 139:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 139:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 139:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 137:1 kept in its own chapter (stronger match to its own reference verse)
@@ -114,6 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 139:8 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 139:9 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 139:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 139:11 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 139:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 139:13 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 139:14 kept in its own chapter (stronger match to its own reference verse)
@@ -152,9 +154,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 138:1
-- *Disregarded Surface Variant:* kept `Εἰς τὸ τέλος ψαλμὸς τῷ` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `Δαυείδ` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
-- *Disregarded Surface Variant:* kept `Δαυείδ` over `Δαυίδ` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'Δαυείδ' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
+- *Disregarded Surface Variant:* kept `τέλος·` over `τέλος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `Δαυίδ.` over `Δαυείδ.` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Κύριε,` over `Κύριε` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `με` over `με,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `με·` over `με.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -173,10 +174,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐξιχνίασας,` over `ἑξιχνίασας·` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ὁδούς` over `ὁδοὺς` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πρόιδες,` over `προεῖδες,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `πρόιδες, / προεῖδες,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Psalms 138:4
-- **Apparatus:** `ἔστιν λόγος ἄδικος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἔστι δόλος** LXX-Orthodox (Οʹ)
+- **Apparatus:** `λόγος ἄδικος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **δόλος** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἄδικος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `μου` over `μουυ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἰδού,` over `ἰδοὺ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -193,10 +194,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `σου;` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Psalms 138:8
-- **Apparatus:** `εἶ ἐκεῖ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐκεῖ εἶ** Sixtine/Brenton ; **εἶ,** LXX-Orthodox (Οʹ) *(word-order transposition)*
+- **Apparatus:** `εἶ ἐκεῖ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐκεῖ εἶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- *Disregarded Surface Variant:* kept `om.` over `Εἰς τὸ τέλος ψαλμὸς τῷ Δαυείδ` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἐὰν` over `Ἐὰν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οὐρανόν,` over `οὐρανὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σὺ` over `σύ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
@@ -240,10 +240,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἀκατέργαστόν μου εἶδου οἱ ἀφθαλμοί σου** Sixtine/Brenton ; **τὸ ἀκατέργαστόν μου εἶδον οἱ ὀφθαλμοί σου,** LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `οὐδεὶς` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **οὐθεὶς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `πλασθήσονται,` over `πλασθήσονται` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `οὐδεὶς` over `οὐθεὶς` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `οὐδεὶς / οὐθεὶς`, `οὐδεὶς / οὐθεὶς` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Psalms 138:17
 - *Disregarded Surface Variant:* kept `ἐμοὶ` over `Ἐμοὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -303,10 +302,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Εἰς τὸ τέλος· ψαλμὸς τῷ Δαυίδ. Κύριε, ἐδοκίμασάς με καὶ ἔγνως με·
   - `Swete-Amicarelli`: Εἰς τὸ τέλος· ψαλμὸς τῷ Δαυείδ. Κύριε, ἐδοκίμασάς με καὶ ἔγνως με·
   - `1st1K-LXX`: Εἰς τὸ τέλος· ψαλμὸς τῷ Δαυείδ. Κύριε, ἐδοκίμασάς με καὶ ἔγνως με·
-  - `Swete (B/A/א)`: Κύριε, ἐδοκίμασάς με καὶ ἔγνως με·
+  - `Swete (B/A/א)`: Εἰς τὸ τέλος· ψαλμὸς τῷ Δαυείδ. Κύριε, ἐδοκίμασάς με καὶ ἔγνως με·
   - `Sixtine/Brenton`: Εἰς τὸ τέλος, ψαλμὸς τῷ Δαυίδ. Κύριε ἐδοκίμασάς με, καὶ ἔγνως με.
   - `LXX-Orthodox (Οʹ)`: Εἰς τὸ τέλος· ψαλμὸς τῷ Δαυΐδ. ΚΥΡΙΕ, ἐδοκίμασάς με, καὶ ἔγνως με·
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant; Punctuation / spacing difference only; Spelling variant pooled before the vote with the reading 'Δαυείδ' (same word, different spelling); whether that reading was adopted is shown in the apparatus).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
 ### Verse 2 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** σὺ ἔγνως τὴν καθέδραν μου καὶ τὴν ἔγερσίν μου, σὺ συνῆκας πάντας τοὺς διαλογισμούς μου ἀπὸ μακρόθεν·
@@ -367,10 +366,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σὺ εἶ ἐκεῖ· ἐὰν καταβῶ εἰς τὸν ᾅδην, πάρει·
   - `Swete-Amicarelli`: ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σὺ εἶ ἐκεῖ· ἐὰν καταβῶ εἰς τὸν ᾅδην, πάρει·
   - `1st1K-LXX`: ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σύ εἶ ἐκεῖ· ἐὰν καταβῶ εἰς τὸν ᾄδην, πάρει·
-  - `Swete (B/A/א)`: Εἰς τὸ τέλος· ψαλμὸς τῷ Δαυείδ. ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σύ εἶ ἐκεῖ· ἐὰν καταβῶ εἰς τὸν ᾄδην, πάρει·
+  - `Swete (B/A/א)`: ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σύ εἶ ἐκεῖ· ἐὰν καταβῶ εἰς τὸν ᾄδην, πάρει·
   - `Sixtine/Brenton`: Ἐὰν ἀναβῶ εἰς τὸν οὐρανὸν, σὺ ἐκεῖ εἶ· ἐὰν καταβῶ εἰς τὸν ᾅδην, πάρει.
   - `LXX-Orthodox (Οʹ)`: ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σὺ ἐκεῖ εἶ, ἐὰν καταβῶ εἰς τὸν ᾅδην, πάρει·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'εἶ ἐκεῖ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐκεῖ εἶ (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'εἶ ἐκεῖ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐκεῖ εἶ (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -437,15 +436,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: οὐκ ἐκρύβη τὸ ὀστοῦν μου ἀπὸ σοῦ, ὃ ἐποίησας ἐν κρυφῇ, καὶ ἡ ὑπόστασίς μου ἐν τοῖς κατωτάτοις τῆς γῆς·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
-### Verse 16 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 16 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται· ἡμέρας πλασθήσονται, καὶ οὐδεὶς ἐν αὐτοῖς.
   - `Swete-Amicarelli`: τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται· ἡμέρας πλασθήσονται, καὶ οὐδεὶς ἐν αὐτοῖς.
   - `1st1K-LXX`: τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται· ἡμέρας πλασθήσονται, καὶ οὐδεὶς ἐν αὐτοῖς.
   - `Swete (B/A/א)`: τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται· ἡμέρας πλασθήσονται, καὶ οὐδεὶς ἐν αὐτοῖς.
   - `Sixtine/Brenton`: Ἀκατέργαστόν μου εἶδου οἱ ἀφθαλμοί σου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται· ἡμέρας πλασθήσονται καὶ οὐθεὶς ἐν αὐτοῖς.
   - `LXX-Orthodox (Οʹ)`: τὸ ἀκατέργαστόν μου εἶδον οἱ ὀφθαλμοί σου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται· ἡμέρας πλασθήσονται καὶ οὐθεὶς ἐν αὐτοῖς.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἀκατέργαστόν μου εἶδου οἱ ἀφθαλμοί σου (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'οὐδεὶς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οὐθεὶς (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'τὸ ἀκατέργαστόν σου εἴδοσαν οἱ ὀφθαλμοί μου' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἀκατέργαστόν μου εἶδου οἱ ἀφθαλμοί σου (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐμοὶ δὲ λίαν ἐτιμήθησαν οἱ φίλοι σου, ὁ θεός· λίαν ἐκραταιώθησαν αἱ ἀρχαὶ αὐτῶν·

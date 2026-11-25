@@ -1,6 +1,6 @@
 # Psalms 25 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:21Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:29Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 24:1 kept in its own chapter (stronger match to its own reference verse)
@@ -196,7 +196,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **10** ὧν ἐν χερσὶν ἀνομίαι, ἡ δεξιὰ αὐτῶν ἐπλήσθη δώρων.
 **11** ἐγὼ δὲ ἐν ἀκακίᾳ μου ἐπορεύθην· λύτρωσαί με καὶ ἐλέησόν με.
 **12** ὁ γὰρ πούς μου ἔστη ἐν εὐθύτητι· ἐν ἐκκλησίαις εὐλογήσω σε, Κύριε.
-**22** Τοῦ Δαυίδ.
 
 ---
 
@@ -204,9 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 25:1
 - **Apparatus:** `σαλευθῶ.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἀσθενήσω.** LXX-Orthodox (Οʹ)
-- *Disregarded Surface Variant:* kept `Τοῦ` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `Δαυείδ` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
-- *Disregarded Surface Variant:* kept `Δαυείδ` over `Δαυίδ` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'Δαυείδ' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
+- *Disregarded Surface Variant:* kept `Δαυίδ.` over `Δαυείδ.` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Κρῖνόν` over `Κρίνον` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `κυρίῳ` over `Κυρίῳ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
@@ -217,7 +214,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ὅτι` over `Ὅτι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μού` over `μου` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν,` over `ἐστὶ,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν, / ἐστι,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 25:4
 - *Disregarded Surface Variant:* kept `οὐκ` over `Οὐκ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -227,13 +223,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐμίσησα` over `Ἐμίσησα` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 25:6
-- **Apparatus:** `ἀθῴοις` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἀθώοις** Sixtine/Brenton *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Κύριε** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `νίψομαι` over `Νίψομαι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἀθῴοις` over `ἀθώοις` (Sixtine/Brenton) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
 - *Disregarded Surface Variant:* kept `σου·` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Psalms 25:7
@@ -247,7 +241,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εὐπρεπίαν` over `εὐπρέπειαν` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `σου` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `τόπον` over `τόπαν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εὐπρεπίαν / εὐπρέπειαν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Psalms 25:9
 - *Disregarded Surface Variant:* kept `μὴ` over `Μὴ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -268,9 +261,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εὐθύτητι·` over `εὐθύτητι,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σε,` over `σε` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
-### Psalms 25:22
-- *Disregarded Surface Variant:* kept `Δαυίδ.` over `Δαυείδ.` (Swete (B/A/א)) — *Diplomatic uncial orthography normalised to standard critical form*
-
 ---
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
@@ -279,10 +269,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Τοῦ Δαυίδ. Κρῖνόν με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην, καὶ ἐπὶ τῷ κυρίῳ ἐλπίζων οὐ μὴ σαλευθῶ.
   - `Swete-Amicarelli`: Τοῦ Δαυείδ. Κρῖνόν με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην, καὶ ἐπὶ τῷ κυρίῳ ἐλπίζων οὐ μὴ σαλευθῶ.
   - `1st1K-LXX`: Τοῦ Δαυείδ. Κρῖνόν με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην, καὶ ἐπὶ τῷ κυρίῳ ἐλπίζων οὐ μὴ σαλευθῶ.
-  - `Swete (B/A/א)`: Κρῖνόν με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην, καὶ ἐπὶ τῷ κυρίῳ ἐλπίζων οὐ μὴ σαλευθῶ.
+  - `Swete (B/A/א)`: Τοῦ Δαυείδ. Κρῖνόν με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην, καὶ ἐπὶ τῷ κυρίῳ ἐλπίζων οὐ μὴ σαλευθῶ.
   - `Sixtine/Brenton`: Τοῦ Δαυίδ. Κρίνον με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην, καὶ ἐπὶ τῷ Κυρίῳ ἐλπίζων οὐ μὴ σαλευθῶ.
   - `LXX-Orthodox (Οʹ)`: Τοῦ Δαυΐδ. ΚΡΙΝΟΝ με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην καὶ ἐπὶ τῷ Κυρίῳ ἐλπίζων, οὐ μὴ ἀσθενήσω.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant; Spelling variant pooled before the vote with the reading 'Δαυείδ' (same word, different spelling); whether that reading was adopted is shown in the apparatus).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence)).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** δοκίμασόν με, Κύριε, καὶ πείρασόν με, πύρωσον τοὺς νεφρούς μου καὶ τὴν καρδίαν μου.
@@ -320,15 +310,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ἐμίσησα ἐκκλησίαν πονηρευομένων καὶ μετὰ ἀσεβῶν οὐ μὴ καθίσω.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
 
-### Verse 6 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 6 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν σου·
   - `Swete-Amicarelli`: νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν σου·
   - `1st1K-LXX`: νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν σου·
   - `Swete (B/A/א)`: νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν σου·
   - `Sixtine/Brenton`: Νίψομαι ἐν ἀθώοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν σου, Κύριε·
   - `LXX-Orthodox (Οʹ)`: νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου καὶ κυκλώσω τὸ θυσιαστήριόν σου, Κύριε,
-- **Philological Rationale:** [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀθῴοις' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀθώοις (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Κύριε (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Κύριε (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 7 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** τοῦ ἀκοῦσαι φωνὴν αἰνέσεως, καὶ διηγήσασθαι πάντα τὰ θαυμάσιά σου.
@@ -385,8 +375,3 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ὁ πούς μου ἔστη ἐν εὐθύτητι· ἐν ἐκκλησίαις εὐλογήσω σε, Κύριε.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'γὰρ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
-
-### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Τοῦ Δαυίδ.
-  - `Swete (B/A/א)`: Τοῦ Δαυείδ.
-- **Philological Rationale:** Substantively unanimous across Swete (B/A/א). Normalised 1 surface variation(s) (Diplomatic uncial orthography normalised to standard critical form).

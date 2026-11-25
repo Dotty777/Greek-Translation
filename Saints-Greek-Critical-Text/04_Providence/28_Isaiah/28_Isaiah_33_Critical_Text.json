@@ -7,7 +7,7 @@
   "usfm_code": "ISA",
   "chapter": 33,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:12:10Z",
+  "updated_at": "2026-11-25T00:07:39Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -88,6 +88,44 @@
     "1st1K-LXX: 34:15 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 34:16 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 34:17 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): verse 32:13 runs into its neighbour across the anchor's division between 32:13 and 32:14; re-divided there",
+    "A-Ottley (Isaiah): 32:1 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:2 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:3 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:4 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:5 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:6 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:7 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:8 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:9 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:10 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:11 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:12 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:13 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:14 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:15 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:16 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:17 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:18 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:19 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 32:20 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:1 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:2 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:3 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:4 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:5 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:6 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:7 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:8 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:9 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:10 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:11 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:12 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:13 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:14 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:15 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:16 kept in its own chapter (stronger match to its own reference verse)",
+    "A-Ottley (Isaiah): 34:17 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 32:1 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 32:2 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 32:3 kept in its own chapter (stronger match to its own reference verse)",
@@ -151,6 +189,13 @@
   ],
   "apparatus_witnesses": [
     {
+      "siglum": "A-Ottley (Isaiah)",
+      "title": "Codex Alexandrinus (A) of Isaiah — Ottley 1904 Diplomatic Text",
+      "tier": 2,
+      "license": "Public Domain / CC BY-SA 4.0",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "LXX-Orthodox (Οʹ)",
       "title": "Orthodox Ecclesiastical Septuagint (Η Παλαιά Διαθήκη κατά τους Εβδομήκοντα)",
       "tier": 3,
@@ -169,14 +214,44 @@
         "Swete-Amicarelli": "Οὐαὶ τοῖς ταλαιπωροῦσιν ὑμᾶς, ὑμᾶς δὲ οὐδεὶς ποιεῖ ταλαιπώρους, καὶ ὁ ἀθετῶν ὑμᾶς οὐκ ἀθετεῖ· ἁλώσονται οἱ ἀθετοῦντες καὶ παραδοθήσονται, καὶ ὡς σὴς ἐφ᾽ ἱματίου οὕτως ἡττήσονται.",
         "1st1K-LXX": "Οὐαὶ τοῖς ταλαιπωροῦσιν ὑμᾶς, ὑμᾶς δὲ οὐδεὶς ποιεῖ ταλαιπώρους, καὶ ὁ ἀθετῶν ὑμᾶς οὐκ ἀθετεῖ· ἁλώσονται οἱ ἀθετοῦντες καὶ παραδοθήσονται, καὶ ὡς σὴς ἐφʼ ἱματίου οὕτως ἡττήσονται.",
         "Sixtine/Brenton": "Οὐαὶ τοῖς ταλαιπωροῦσιν ὑμᾶς, ὑμᾶς δὲ οὐδεὶς ποιεῖ ταλαιπώρους, καὶ ὁ ἀθετῶν ὑμᾶς οὐκ ἀθετεῖ· ἁλώσονται οἱ ἀθετοῦντες, καὶ παραδοθήσονται, καὶ ὡς σὴς ἐφʼ ἱματίου, οὕτως ἡττηθήσονται.",
+        "A-Ottley (Isaiah)": "Οὐαὶ τοῖς ταλαιπωροῦσιν ὑμᾶς, ὑμᾶς, δὲ οὐδεὶς ποιεῖ ταλαιπώρους, καὶ ὃ ἀθετῶν ὑμῖν οὐκ ἀθετεῖ· ἁλώσονται οἶ ἀθετοῦντες καὶ παραδοθήσονται, καὶ ὡς σὴς ἐπὶ ἱματίου οὕτως ἡττηθήσονται.",
         "LXX-Orthodox (Οʹ)": "ΟΥΑΙ τοῖς ταλαιπωροῦσιν ὑμᾶς, ὑμᾶς δὲ οὐδεὶς ποιεῖ ταλαιπώρους, καὶ ὁ ἀθετῶν ὑμᾶς οὐκ ἀθετεῖ· ἁλώσονται οἱ ἀθετοῦντες καὶ παραδοθήσονται καὶ ὡς σὴς ἐφ᾿ ἱματίου, οὕτως ἡττηθήσονται."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ὑμᾶς",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ὑμῖν",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "υμασ",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 26,
           "lemma": "ἡττήσονται",
@@ -190,6 +265,7 @@
               "adopt_text": "ἡττηθήσονται",
               "witnesses": [
                 "Sixtine/Brenton",
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
@@ -257,6 +333,18 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "ἐφ᾽ / ἐπὶ",
+            "ἐφ᾽ / ἐπὶ"
+          ],
+          "witnesses": [
+            "A-Ottley (Isaiah)"
+          ],
+          "reason": "Apparatus witness, not a variant: Elision (κατὰ / κατ’ type)"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ἡττήσονται' [Swete-Amicarelli, 1st1K-LXX] (weight 0.93, confidence 53%) over ἡττηθήσονται (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
@@ -283,11 +371,13 @@
         "Swete-Amicarelli": "Κύριε, ἐλέησον ἡμᾶς, ἐπὶ σοὶ γὰρ πεποίθαμεν· ἐγενήθη τὸ σπέρμα τῶν ἀπειθούντων εἰς ἀπώλειαν, ἡ δὲ σωτηρία ἡμῶν ἐν καιρῷ θλίψεως.",
         "1st1K-LXX": "Κύριε, ἐλέησον ἡμᾶς, ἐπὶ σοὶ γὰρ πεποίθαμεν· ἐγενήθη τὸ σπέρμα τῶν ἀπειθούντων εἰς ἀπώλειαν, ἡ δέ σωτηρία ἡμῶν ἐν καιρῷ θλίψεως.",
         "Sixtine/Brenton": "Κύριε ἐλέησον ἡμᾶς, ἐπὶ σοὶ γὰρ πεποίθαμεν· ἐγενήθη τὸ σπέρμα τῶν ἀπειθούντων εἰς ἀπώλειαν, ἡ δὲ σωτηρία ἡμῶν ἐν καιρῷ θλίψεως.",
+        "A-Ottley (Isaiah)": "Κύριε, ἐλέησον ἡμᾶς, ἐπὶ σοὶ γὰρ πεποίθαμεν· ἐγενήθη τὸ σπέρμα τῶν ἀπειθούντων εἷς ἀπώλειαν, ἡ δὲ σωτηρία ἡμῶν ἐν καιρῷ θλίψεως.",
         "LXX-Orthodox (Οʹ)": "Κύριε, ἐλέησον ἡμᾶς, ἐπὶ σοὶ γὰρ πεποίθαμεν· ἐγενήθη τὸ σπέρμα τῶν ἀπειθούντων εἰς ἀπώλειαν, ἡ δὲ σωτηρία ἡμῶν ἐν καιρῷ θλίψεως."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [],
@@ -330,14 +420,45 @@
         "Swete-Amicarelli": "διὰ φωνὴν τοῦ φόβου ἐξέστησαν λαοὶ ἀπὸ τοῦ φόβου σου καὶ διεσπάρησαν τὰ ἔθνη.",
         "1st1K-LXX": "διὰν τοῦ φόβου ἐξέστησαν λαοὶ ἀπὸ τοῦ φόβου σου καὶὶ διεσπάρησαν τὰ ἔθνη.",
         "Sixtine/Brenton": "Διὰ φωνὴν τοῦ φόβου ἐξέστησαν λαοὶ ἀπὸ τοῦ φόβου σου, καὶ διεσπάρησαν τὰ ἔθνη.",
+        "A-Ottley (Isaiah)": "διὰ φωνὴν τοῦ φόβου σου ἐξέστησαν λαοὶ ἀπὸ τοῦ φόβου σου καὶ διεσπάρησαν τὰ ἔθνη.",
         "LXX-Orthodox (Οʹ)": "διὰ φωνὴν τοῦ φόβου ἐξέστησαν λαοὶ ἀπὸ τοῦ φόβου σου, καὶ διεσπάρησαν τὰ ἔθνη."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "σου",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -388,14 +509,72 @@
         "Swete-Amicarelli": "νῦν δὲ συναχθήσεται τὰ σκῦλα ὑμῶν μικροῦ καὶ μεγάλου· ὃν τρόπον ἐάν τις συναγάγῃ ἀκρίδα, οὕτως ἐμπαίξουσιν ὑμῖν.",
         "1st1K-LXX": "νῦν δέ συναχθήσεται τὰ σκῦλα ὑμῶν μικροῦ καὶ μεγάλου· ὃν τροπον ἐαν τις συναγάγῃ ἀκρίδα, οὕτως ἐμπαίξουσιν ὑμῖν.",
         "Sixtine/Brenton": "Νῦν δὲ συναχθήσεται τὰ σκῦλα ὑμῶν μικροῦ καὶ μεγάλου· ὃν τρόπον ἐάν τις συναγάγῃ ἀκρίδας, οὕτως ἐμπαίξουσιν ὑμῖν.",
+        "A-Ottley (Isaiah)": "νῦν δὲ συναχθήσεται τὰ σκῦλα ὑμῶν ἀπὸ μικροῦ καὶ μεγάλου· ὃν τρόπον ἐάν τις συναγάγῃ ἀκρίδας, οὕτως ἐμπαίξονται ὑμῖν.",
         "LXX-Orthodox (Οʹ)": "νῦν δὲ συναχθήσεται τὰ σκῦλα ὑμῶν μικροῦ καὶ μεγάλου· ὃν τρόπον ἐάν τις συναγάγη ἀκρίδας, οὕτως ἐμπαίξουσιν ὑμῖν."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ὑμῶν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ὑμῶν ἀπὸ",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "υμων",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἀπὸ",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 14,
           "lemma": "ἀκρίδα",
@@ -409,6 +588,7 @@
               "adopt_text": "ἀκρίδας",
               "witnesses": [
                 "Sixtine/Brenton",
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
@@ -438,6 +618,34 @@
             }
           ],
           "lemma_key": "ακριδα",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐμπαίξουσιν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐμπαίξονται",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εμπαιξουσιν",
           "confidence": 0.529,
           "credited_witnesses": []
         }
@@ -512,11 +720,13 @@
         "Swete-Amicarelli": "ἅγιος ὁ θεὸς ὁ κατοικῶν ἐν ὑψηλῷ, ἐνεπλήσθη Σειὼν κρίσεως· καὶ δικαιοσύνῃ",
         "1st1K-LXX": "ἅγιος ὁ θεὸς ὁ κατοικῶν ἐν ὑψηλῷ, ἐνεπλήσθη Σειῶν κρίσεως· καὶ δικαιοσύνῃ",
         "Sixtine/Brenton": "Ἅγιος ὁ Θεὸς ὁ κατοικῶν ἐν ὑψηλῷ, ἔνεπλήσθη Σιὼν κρίσεως καὶ δικαιοσύνης.",
+        "A-Ottley (Isaiah)": "ἅγιος ὃ θεὸς ὃ κατοικῶν ἐν ὑψηλοῖς, ἐνεπλήσθη Σιὼν κρίσεως καὶ δικαιοσύνης.",
         "LXX-Orthodox (Οʹ)": "ἅγιος ὁ Θεὸς ὁ κατοικῶν ἐν ὑψηλοῖς, ἐνεπλήσθη Σιὼν κρίσεως καὶ δικαιοσύνης."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -532,12 +742,13 @@
             {
               "reading": "ὑψηλοῖς,",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 6,
           "word_count": 1,
           "kind": "word",
@@ -560,6 +771,7 @@
               "adopt_text": "δικαιοσύνης",
               "witnesses": [
                 "Sixtine/Brenton",
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
@@ -650,17 +862,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "Σειὼν / Σιὼν"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'δικαιοσύνῃ' [Swete-Amicarelli, 1st1K-LXX] (weight 0.93, confidence 53%) over δικαιοσύνης (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).",
@@ -687,11 +888,13 @@
         "Swete-Amicarelli": "ἐν νόμῳ παραδοθήσονται, ἐν θησαυροῖς ἡ σωτηρία ἡμῶν, ἥκει σοφία καὶ ἐπιστήμη καὶ εὐσέβεια πρὸς τὸν κύριον· οὗτοί εἰσιν θησαυροὶ δικαιοσύνης.",
         "1st1K-LXX": "ἐν νόμῳ παραδοθήσονται, ἐν θησαυρυῖς ἡ σωτηρία ἡμῶν, ἥκει σοφία καὶ ἐπιστήμη καὶ εὐσέβειαι πρὸς τὸν κύριον· οὗτοί εἰσιν θησαυροὶ δικαιοσύνης.",
         "Sixtine/Brenton": "Ἐν νόμῳ παραδοθήσονται, ἐν θησαυροῖς ἡ σωτηρία ἡμῶν, ἐκεῖ σοφία καὶ ἐπιστήμη καὶ εὐσέβεια πρὸς τὸν κύριον· οὗτοί εἰσι θησαυροὶ δικαιοσύνης.",
+        "A-Ottley (Isaiah)": "ἐν νόμῳ παραδοθήσονται, ἐν θησαυροῖς ἡ σωτηρία ἡμῶν, ἐκεῖ σοφία καὶ ἐπιστήμη καὶ εὐσέβεια πρὸς τὸν κύριον· οὗτοί εἰσιν θησαυροὶ δικαιοσύνης.",
         "LXX-Orthodox (Οʹ)": "ἐν νόμῳ παραδοθήσονται, ἐν θησαυροῖς ἡ σωτηρία ἡμῶν, ἐκεῖ σοφία καὶ ἐπιστήμη καὶ εὐσέβεια πρὸς τὸν Κύριον· οὗτοί εἰσι θησαυροὶ δικαιοσύνης."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -708,6 +911,7 @@
               "adopt_text": "ἐκεῖ",
               "witnesses": [
                 "Sixtine/Brenton",
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
@@ -785,17 +989,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἰσιν / εἰσι"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ἥκει' [Swete-Amicarelli, 1st1K-LXX] (weight 0.93, confidence 53%) over ἐκεῖ (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).",
@@ -822,11 +1015,13 @@
         "Swete-Amicarelli": "Ἰδοὺ δὴ ἐν τῷ φόβῳ ὑμῶν οὗτοι φοβηθήσονται· οὓς ἐφοβεῖσθε, βοήσονται ἀφ᾽ ὑμῶν· ἄγγελοι ἀποσταλήσονται πικρῶς κλαίοντες, παρακαλοῦντες εἰρήνην.",
         "1st1K-LXX": "Ἰδοὺ δὴ ἐν τῷ φόβῳ ὑμῶν οὗτοι φοβηθήσονται· οὓς ἐφοβεῖσθε, βοήσονται ἀφ᾿ ὑμῶν· ἄγγελοι ἀποσταλήσονται πικρῶς κλαίοντες, παρακαλοῦντες εἰρήνην.",
         "Sixtine/Brenton": "Ἰδοὺ δὴ ἐν τῷ φόβῳ ὑμῶν οὗτοι φοβηθήσονται· οὓς ἐφοβεῖσθε, βοήσονται ἀφʼ ὑμῶν· ἄγγελοι ἀποσταλήσονται, πικρῶς κλαίοντες, παρακαλοῦντες εἰρήνην.",
+        "A-Ottley (Isaiah)": "Ἰδοὺ δὴ ἐν τῷ φόβῳ ὑμῶν αὐτοὶ φοβηθήσονται· οὓς ἐφοβεῖσθε, φοβηθήσονται ἀφ’ ὑμῶν· ἄγγελοι γὰρ ἀποσταλήσονται ἀξιοῦντες εἰρήνην, πικρῶς κλαίοντες, παρακαλοῦντες εἰρήνην.",
         "LXX-Orthodox (Οʹ)": "ἰδοὺ δὴ ἐν τῷ φόβῳ ὑμῶν αὐτοὶ φοβηθήσονται· οὓς ἐφοβεῖσθε, φοβηθήσονται ἀφ᾿ ὑμῶν· ἄγγελοι γὰρ ἀποσταλήσονται πικρῶς κλαίοντες, παρακαλοῦντες εἰρήνην."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -842,12 +1037,13 @@
             {
               "reading": "αὐτοὶ",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 6,
           "word_count": 1,
           "kind": "word",
@@ -869,12 +1065,13 @@
             {
               "reading": "φοβηθήσονται",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 10,
           "word_count": 1,
           "kind": "word",
@@ -896,13 +1093,42 @@
             {
               "reading": "γὰρ",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 14,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἀξιοῦντες εἰρήνην,",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 15,
           "word_count": 0,
           "kind": "word",
           "variant_type": "",
@@ -953,14 +1179,72 @@
         "Swete-Amicarelli": "ἐρημωθήσονται γὰρ αἱ τούτων ὁδοί· πέπαυται ὁ φόβος τῶν ἐθνῶν, καὶ ἡ πρὸς τούτους διαθήκη αἴρεται, καὶ οὐ μὴ λογισθήσεσθε αὐτοὺς ἀνθρώπους.",
         "1st1K-LXX": "ἐρημωθήσονται γὰρ αἱ τούτων ὁδοί πέπαυται ὁ φόβος τῶν ἐθνῶν, καὶ ἡ πρὸς τούτους διαθήκη αἴρεται, καὶ οὐ μὴ λογισθήσεσθε αὐτοὺς ἀνθρώπους.",
         "Sixtine/Brenton": "Ἐρημωθήσονται γὰρ αἱ τούτων ὁδοί· πέπαυται ὁ φόβος τῶν ἐθνῶν, καὶ ἡ πρὸς τούτους διαθήκη αἴρεται, καὶ οὐ μὴ λογίσησθε αὐτοὺς ἀνθρώπους.",
+        "A-Ottley (Isaiah)": "ἐρημωθήσονται γὰρ αἱ τούτων ὁδοί· πέπαυται γὰρ ὁ φόβος τῶν ἐθνῶν, καὶ ἡ πρὸς τούτους διαθήκη αἴρεται, καὶ οὗ μὴ λογίσησθε αὐτοὺς ἀνθρώπους.",
         "LXX-Orthodox (Οʹ)": "ἐρημωθήσονται γὰρ αἱ τούτων ὁδοί· πέπαυται ὁ φόβος τῶν ἐθνῶν, καὶ ἡ πρὸς τούτους διαθήκη αἴρεται, καὶ οὐ μὴ λογίσησθε αὐτοὺς ἀνθρώπους."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "πέπαυται",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "πέπαυται γὰρ",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "πεπαυται",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "γὰρ",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
         {
           "slot_index": 19,
           "lemma": "λογισθήσεσθε",
@@ -974,6 +1258,7 @@
               "adopt_text": "λογίσησθε",
               "witnesses": [
                 "Sixtine/Brenton",
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.84
@@ -1055,11 +1340,13 @@
         "Swete-Amicarelli": "ἐπένθησεν ἡ γῆ, ᾐσχύνθη ὁ Λίβανος, ἕλη ἐγένετο ὁ Σαρών· φανερὰ ἔσται ἡ Γαλειλαία καὶ ὁ Χερμέλ.",
         "1st1K-LXX": "ἐπένθησεν ἡ γῆ. ᾐσχύνθη ὁ Λίβανος, ἕλη ἐγένετο ὁ Σάρων· φανερὰ ἔσται ἡ Γαλειλαία καὶ ὁ Χερμέλ.",
         "Sixtine/Brenton": "Ἐπένθησεν ἡ γῆ, ᾐσχύνθη ὁ Λίβανος, ἕλη ἐγένετο ὁ Σάρων· φανερὰ ἔσται ἡ Γαλιλαία, καὶ ὁ Χέρμελ.",
+        "A-Ottley (Isaiah)": "ἐπένθησεν ἡ γῆ, ᾐσχύνθη ὃ Λίβανος, ἕλη ἐγένετο ὃ Σαρών· φανερὰ ἔσται ἡ Γαλιλαία καὶ ὃ Κάρμηλος.",
         "LXX-Orthodox (Οʹ)": "ἐπένθησεν ἡ γῆ, ᾐσχύνθη ὁ Λίβανος, ἕλη ἐγένετο ὁ Σάρων· φανερὰ ἔσται ἡ Γαλιλαία καὶ ὁ Κάρμηλος."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -1075,12 +1362,13 @@
             {
               "reading": "Κάρμηλος.",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 16,
           "word_count": 1,
           "kind": "word",
@@ -1146,17 +1434,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "Γαλειλαία / Γαλιλαία"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Sixtine/Brenton. Normalised 5 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).",
@@ -1174,11 +1451,13 @@
         "Swete-Amicarelli": "νῦν ἀναστήσομαι, λέγει Κύριος, νῦν δοξασθήσομαι, νῦν ὑψωθήσομαι·",
         "1st1K-LXX": "νῦν ἀναστήσομαι, λέγει Κύριος, νῦν δοξασθήσομαι, νῦν ὑψωθήσομαι·",
         "Sixtine/Brenton": "Νῦν ἀναστήσομαι, λέγει Κύριος, νῦν δοξασθήσομαι, νῦν ὑψωθήσομαι.",
+        "A-Ottley (Isaiah)": "νῦν ἀναστήσομαι, λέγει Κύριος, νῦν δοξασθήσομαι, νῦν ὑψωθήσομαι.",
         "LXX-Orthodox (Οʹ)": "νῦν ἀναστήσομαι, λέγει Κύριος, νῦν δοξασθήσομαι, νῦν ὑψωθήσομαι·"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [],
@@ -1221,14 +1500,129 @@
         "Swete-Amicarelli": "νῦν ὄψεσθε, νῦν αἰσθηθήσεσθε· ματαία ἔσται ἡ ἰσχὺς τοῦ πνεύματος ὑμῶν, πῦρ κατέδεται ὑμᾶς,",
         "1st1K-LXX": "νῦν ὄψεσθε, νῦν αἰσθηθήσεσθε· ματαία ἔσται ἡ ἰσχὺς τοῦ πνεύματος ὑμῶν, πῦρ κατέδεται ὑμᾶς,",
         "Sixtine/Brenton": "Νῦν ὄψεσθε, νῦν αἰσθηθήσεσθε, ματαία ἔσται ἡ ἰσχὺς τοῦ πνεύματος ὑμῶν· πῦρ κατέδεται ὑμᾶς.",
+        "A-Ottley (Isaiah)": "νυν ὄψεσθε, νῦν αἰσχυνθήσεσθε· ματαία ἔσται ἡ ἰσχὺς τοῦ πνεύματος ὑμῶν, πῦρ ὑμᾶς κατέδεται,",
         "LXX-Orthodox (Οʹ)": "νῦν ὄψεσθε, νῦν αἰσθηθήσεσθε· ματαία ἔσται ἡ ἰσχὺς τοῦ πνεύματος ὑμῶν, πῦρ κατέδεται ὑμᾶς."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "αἰσθηθήσεσθε·",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "αἰσχυνθήσεσθε·",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αισθηθησεσθε",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "αἰσθηθήσεσθε· ματαία",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "αἰσχυνθήσεσθε· ματαία",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "αισθηθησεσθε ματαια",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ὑμᾶς",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ὑμᾶς,",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "υμασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -1290,11 +1684,13 @@
         "Swete-Amicarelli": "καὶ ἔσονται ἔθνη κατακεκαυμένα ὡς ἄκανθα ἐν ἀγρῷ ἐρριμμένη καὶ κατακεκαυμένη.",
         "1st1K-LXX": "καὶ ἔσονται ἔθνη κατακεκαυμένα ὡς ἄκανθα ἐν ἀγρῷ ἐρριμμένη καὶ κατακεκαυμένη.",
         "Sixtine/Brenton": "Καὶ ἔσονται ἔθνη κατακεκαυμένα, ὡς ἄκανθα ἐν ἀγρῷ ἐῤῥιμμένη καὶ κατακεκαυμένη.",
+        "A-Ottley (Isaiah)": "καὶ ἔσονται ἔθνη κατακεκαυμένα ὡς ἄκανθα ἐν ἀγρῷ ἐρριμμένη καὶ κατακεκαυμένη.",
         "LXX-Orthodox (Οʹ)": "καὶ ἔσονται ἔθνη κατακεκαυμένα ὡς ἄκανθα ἐν ἀγρῷ ἐρριμμένη καὶ κατακεκαυμένη."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [],
@@ -1348,11 +1744,13 @@
         "Swete-Amicarelli": "Ἀκούσονται οἱ πόρρωθεν ἃ ἐποίησα, γνώσονται οἱ ἐγγίζοντες τὴν ἰσχύν μου.",
         "1st1K-LXX": "Ἀκούσονται οἱ πόρρωθεν ἃ ἐποίησα, γνώσονται οἱ ἐγγίζοντες τὴν ἰσχύν μου.",
         "Sixtine/Brenton": "Ἀκούσονται οἱ πόῤῥωθεν ἃ ἐποίησα, γνώσονται οἱ ἐγγίζοντες τὴν ἰσχύν μου.",
+        "A-Ottley (Isaiah)": "Ἀκούσονται οἱ πόρρωθεν ἃ ἐποίησα, γνώσονται οἱ ἐγγίζοντες τὴν ἰσχύν μου.",
         "LXX-Orthodox (Οʹ)": "ἀκούσονται οἱ πόρρωθεν ἃ ἐποίησα, γνώσονται οἱ ἐγγίζοντες τὴν ἰσχύν μου."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [],
@@ -1384,11 +1782,13 @@
         "Swete-Amicarelli": "ἀπέστησαν οἱ ἐν Σειὼν ἄνομοι, λήμψεται τρόμος τοὺς ἀσεβεῖς· τίς ἀναγγελεῖ ὑμῖν ὅτι πῦρ καίεται; τίς ἀναγγελεῖ ὑμῖν τὸν τόπον τὸν αἰώνιον;",
         "1st1K-LXX": "ἀπέστησαν οἱ ἐν Σειὼν ἄνομοι, λήμψεται τρόμος τοὺς ἀσεβεῖς· τίς ἀναγγελεῖ ὑμῖν ὅτι πῦρ καίεται; τίς ἀναγγελεῖ ὑμῖν τὸν τόπον τὸν αἰώνιον;",
         "Sixtine/Brenton": "Ἀπέστησαν οἱ ἐν Σιὼν ἄνομοι, λήψεται τρόμος τοὺς ἀσεβεῖς· τίς ἀναγγελεῖ ὑμῖν, ὅτι πῦρ καίεται; τίς ἀναγγελεῖ ὑμῖν τὸν τόπον τὸν αἰώνιον;",
+        "A-Ottley (Isaiah)": "ἀπέστησαν οἱ ἐν Σιὼν ἄνομοι, λήμψεται τρόμος τοὺς ἀσεβεῖς· τίς ἀναγγελεῖ ὑμῖν ὅτι πῦρ καίεται; τίς ἀναγγελεῖ ὑμῖν τὸν τόπον τὸν αἰώνιον,",
         "LXX-Orthodox (Οʹ)": "ἀπέστησαν οἱ ἐν Σιὼν ἄνομοι, λήψεται τρόμος τοὺς ἀσεβεῖς· τίς ἀναγγελεῖ ὑμῖν, ὅτι πῦρ καίεται; τίς ἀναγγελεῖ ὑμῖν τὸν τόπον τὸν αἰώνιον;"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [],
@@ -1441,17 +1841,6 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
-            "Σειὼν / Σιὼν"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
             "λήμψεται / λήψεται"
           ],
           "witnesses": [
@@ -1475,11 +1864,13 @@
         "Swete-Amicarelli": "πορευόμενος ἐν δικαιοσύνῃ, λαλῶν εὐθεῖαν ὁδόν, μισῶν ἀνομίαν καὶ ἀδικίαν, καὶ τὰς χεῖρας ἀποσειόμενος ἀπὸ δώρων, βαρύνων τὰ ὦτα ἵνα μὴ ἀκούσῃ κρίσιν αἵματος, καμμύων τοὺς ὀφθαλμοὺς ἵνα μὴ ἴδῃ ἀδικίαν,",
         "1st1K-LXX": "πορευόμενος ἐν δικαιοσύνῃ, λαλῶν εὐθεῖαν ὁδόν, μισῶν ἀνομίαν καὶ ἀδικίαν, καὶ τὰς χεῖρας ἀποσειόμενος ἀπὸ δώρων, βαρύνων τὰ ὦτα ἵωα μὴ ἀκούσῃ κρίσιν αἵματος, καμμύων τοὺς ὀφθαλμοὺς ἴνα μὴ ἴδῃ ἀδικίαν,",
         "Sixtine/Brenton": "Πορευόμενος ἐν δικαιοσύνῃ, λαλῶν εὐθεῖαν ὁδόν, μισῶν ἀνομίαν καὶ ἀδικίαν, καὶ τὰς χεῖρας ἀποσειόμενος ἀπὸ δώρων· βαρύνων τὰ ὦτα, ἵνα μὴ ἀκούσῃ κρίσιν αἵματος· καμμύων τοὺς ὀφθαλμοὺς, ἵνα μὴ ἴδῃ ἀδικίαν,",
+        "A-Ottley (Isaiah)": "πορευόμενος ἐν δικαιοσύνῃ, λαλῶν εὐθεῖαν ὁδόν, μισῶν ἀνομίαν καὶ ἀδικίαν, καὶ τὰς χεῖρας ἀποσειόμενος ἀπὸ δώρων, βαρύνων τὰ ὦτα ἴνα μὴ ἀκούσῃ κρίσιν αἵματος, καμμύων τοὺς ὀφθαλμοὺς ἵνα μὴ ἴδῃ ἀδικίαν,",
         "LXX-Orthodox (Οʹ)": "πορευόμενος ἐν διακαιοσύνῃ, λαλῶν εὐθεῖαν ὁδόν, μισῶν ἀνομίαν καὶ ἀδικίαν καὶ τὰς χεῖρας ἀποσειόμενος ἀπὸ δώρων, βαρύνων τὰ ὦτα, ἵνα μὴ ἀκούσῃ κρίσιν αἵματος, καμμύων τοὺς ὀφθαλμούς, ἵνα μὴ ἴδῃ ἀδικίαν,"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -1489,7 +1880,8 @@
           "lemma_witnesses": [
             "1st1K-LXX",
             "Sixtine/Brenton",
-            "Swete-Amicarelli"
+            "Swete-Amicarelli",
+            "A-Ottley (Isaiah)"
           ],
           "variants": [
             {
@@ -1500,7 +1892,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 2,
           "word_count": 1,
           "kind": "word",
@@ -1605,14 +1997,45 @@
         "Swete-Amicarelli": "οὗτος οἰκήσει ἐν ὑψηλῷ σπηλαίῳ πέτρας ἰσχυρᾶς· ἄρτος αὐτῷ δοθήσεται, καὶ τὸ ὕδωρ αὐτοῦ πιστόν.",
         "1st1K-LXX": "οὗτος οἰκήσει ἐν ὑψηλῷ σπηλαίῳ πέτρας ἰσχυρᾶς· ἄρτος αὐτῷ δοθήσεται, καὶ τὸ ὕδωρ αὐτοῦ πιστόν.",
         "Sixtine/Brenton": "οὗτος οἰκήσει ἐν ὑψηλῷ σπηλαίῳ πέτρας ἰσχυρᾶς· ἄρτος αὐτῷ δοθήσεται, καὶ τὸ ὕδωρ αὐτοῦ πιστόν.",
+        "A-Ottley (Isaiah)": "οὗτος οἰκήσει ἐν ὑψηλῷ σπηλαίῳ πέτρας ὀχυρᾶς· ἄρτος αὐτῷ δοθήσεται, καὶ τὸ ὕδωρ αὑτοῦ πιστόν.",
         "LXX-Orthodox (Οʹ)": "οὗτος οἰκήσει ἐν ὑψηλῷ σπηλαίῳ πέτρας ἰσχυρᾶς· ἄρτος αὐτῷ δοθήσεται, καὶ τὸ ὕδωρ αὐτοῦ πιστόν."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἰσχυρᾶς·",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ὀχυρᾶς·",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ισχυρασ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Swete-Amicarelli, 1st1K-LXX, Sixtine/Brenton (3 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -1629,11 +2052,13 @@
         "Swete-Amicarelli": "βασιλέα μετὰ δόξης ὄψεσθε, οἱ ὀφθαλμοὶ ὑμῶν ὄψονται γῆν πόρρωθεν·",
         "1st1K-LXX": "βασιλέα μετὰ δόξης ὄψεσθε, οἱ ὀφθαλμοὶ ὑμῶν ὄψονται γῆν πόρρωθεν·",
         "Sixtine/Brenton": "Βασιλέα μετὰ δόξης ὄψεσθε, οἱ ὀφθαλμοὶ ὑμῶν ὄψονται γῆν πόῤῥωθεν,",
+        "A-Ottley (Isaiah)": "βασιλέα μετὰ δόξης ὄψεσθε, καὶ οἱ ὀφθαλμοὶ ὑμῶν ὄψονται γῆν πόρρωθεν·",
         "LXX-Orthodox (Οʹ)": "βασιλέα μετὰ δόξης ὄψεσθε, καὶ οἱ ὀφθαλμοὶ ὑμῶν ὄψονται γῆ πόρρωθεν."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -1649,12 +2074,13 @@
             {
               "reading": "καὶ",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 4,
           "word_count": 0,
           "kind": "word",
@@ -1670,7 +2096,8 @@
           "lemma_witnesses": [
             "1st1K-LXX",
             "Sixtine/Brenton",
-            "Swete-Amicarelli"
+            "Swete-Amicarelli",
+            "A-Ottley (Isaiah)"
           ],
           "variants": [
             {
@@ -1681,7 +2108,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 8,
           "word_count": 1,
           "kind": "word",
@@ -1731,14 +2158,100 @@
         "Swete-Amicarelli": "ἡ ψυχὴ ἡμῶν μελετήσει φόβον· ποῦ εἰσιν οἱ γραμματικοί; ποῦ εἰσιν οἱ συμβουλεύοντες; ποῦ ἐστιν ὁ ἀριθμῶν τοὺς τρεφομένους",
         "1st1K-LXX": "ἡ ψυχὴ ἡμῶν μελετήσει φόβον· ποῦ εἰσιν οἰ γραμματικοί; ποῦ εἰσιν οἱ συμβουλεύοντες; ποῦ ἐστιν ὁ ἀριθμῶν τοὺς τρεφομένους",
         "Sixtine/Brenton": "ἡ ψυχὴ ἡμῶν μελετήσει φόβον· ποῦ εἰσιν οἱ γραμματικοί; ποῦ εἰσιν οἱ συμβουλεύοντες; ποῦ ἐστιν ὁ ἀριθμῶν τοὺς τρεφομένους",
+        "A-Ottley (Isaiah)": "ἡ ὑμῶν μελετήσει φόβον Κυρίου. ποῦ εἰσιν οἱ γραμματικοί; ποῦ εἰσιν οἱ συμβουλεύοντες; ποῦ ἐστιν ὃ ἀριθμῶν τοὺς συστρεφομένους;",
         "LXX-Orthodox (Οʹ)": "ἡ ψυχὴ ἡμῶν μελετήσει φόβον· ποῦ εἰσιν οἱ γραμματικοί; ποῦ εἰσιν οἱ συμβουλεύοντες; ποῦ ἔστιν ὁ ἀριθμῶν τοὺς στρεφομένους"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ψυχὴ ἡμῶν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ὑμῶν",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ψυχη ημων",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἡμῶν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ημων",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "Κυρίου.",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
         {
           "slot_index": -1,
           "lemma": "τρεφομένους",
@@ -1749,6 +2262,13 @@
           ],
           "variants": [
             {
+              "reading": "συστρεφομένους;",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
               "reading": "στρεφομένους",
               "witnesses": [
                 "LXX-Orthodox (Οʹ)"
@@ -1756,7 +2276,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 18,
           "word_count": 1,
           "kind": "word",
@@ -1795,11 +2315,13 @@
         "Swete-Amicarelli": "μικρὸν καὶ μέγαν λαόν; ᾧ οὐ συνεβουλεύσατο οὐδὲ ᾔδει βαθύφωνον, ὥστε μὴ ἀκοῦσαι λαὸς πεφαυλισμένος, καὶ οὐκ ἔστιν τῷ ἀκούοντι σύνεσις.",
         "1st1K-LXX": "μικρὸν καὶ μέγαν λαόν; ᾧ οὐ συνεβουλεύσατο οὐδὲ ἥδει βαθύφωνον, ὥστε μὴ ἀκοῦσαι λαὸς πεφαυλισμένος, καὶ οὐκ ἔστιν τῷ ἀκούοντι σύνεσις.",
         "Sixtine/Brenton": "μικρὸν καὶ μέγαν λαόν; ᾧ οὐ συνεβουλεύσατο, οὐσὲ ᾔδει βαθύφωνον, ὥστε μὴ ἀκοῦσαι λαὸς πεφαυλισμένος, καὶ οὐκ ἔστι τῷ ἀκούοντι σύνεσις.",
+        "A-Ottley (Isaiah)": "μικρὸν καὶ μέγαν λαόν, ᾦ οὐ συνεβούλευσαν, οὐδὲ ᾔδει· βαθύφωνον, ὥστε μὴ ἀκοῦσαι· λαὸς πεφαυλισμένος, καὶ οὐκ ἔστιν τῷ ἀκούοντι σύνεσις.",
         "LXX-Orthodox (Οʹ)": "μικρὸν καὶ μέγα λαόν; ᾧ οὐ συνεβουλεύσατο, οὐδὲ ᾔδει βαθύφωνον ὥστε μὴ ἀκοῦσαι λαὸς πεφαυλισμένος καὶ οὐκ ἔστι τῷ ἀκούοντι σύνεσις."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -1809,7 +2331,8 @@
           "lemma_witnesses": [
             "1st1K-LXX",
             "Sixtine/Brenton",
-            "Swete-Amicarelli"
+            "Swete-Amicarelli",
+            "A-Ottley (Isaiah)"
           ],
           "variants": [
             {
@@ -1820,7 +2343,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 2,
           "word_count": 1,
           "kind": "word",
@@ -1831,11 +2354,40 @@
           "credited_witnesses": []
         },
         {
+          "slot_index": -1,
+          "lemma": "συνεβουλεύσατο",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "συνεβούλευσαν,",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "συνεβουλευσατο",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
           "slot_index": 7,
           "lemma": "οὐδὲ",
           "lemma_witnesses": [
             "Swete-Amicarelli",
             "1st1K-LXX",
+            "A-Ottley (Isaiah)",
             "LXX-Orthodox (Οʹ)"
           ],
           "variants": [
@@ -1909,17 +2461,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἔστιν / ἔστι"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'οὐδὲ' [Swete-Amicarelli, 1st1K-LXX] (weight 0.93, confidence 53%) over οὐσὲ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).",
@@ -1946,14 +2487,45 @@
         "Swete-Amicarelli": "ἰδοὺ Σειὼν ἡ πόλις, τὸ σωτήριον ἡμῶν, οἱ ὀφθαλμοί σου ὄψονται Ἰερουσαλήμ, πόλις πλουσία, σκηναὶ αἳ οὐ μὴ σεισθῶσιν, οὐδὲ μὴ κινηθῶσιν οἱ πάσσαλοι τῆς σκηνῆς αὐτῆς εἰς τὸν αἰῶνα χρόνον, οὐδὲ τὰ σχοινία αὐτῆς οὐ μὴ διαρραγῶσιν·",
         "1st1K-LXX": "ἰδοὺ Σειὼν ἡ πόλις, τὸ σωτήριον ἡμῶν, οἱ ὀφθαλμοί σου ὄψονται Ἰερουσαλήμ, πόλις πλουσία, σκηναὶ αἳ οὐ μὴ σεισθῶσιν, οὐδὲ μὴ κινηθῶσιν οἱ πάσσαλοι τῆς σκηνῆς αὐτῆς εἰς τὸν αἰῶνα χρόνον, οὐδὲ τὰ σχοινία αὐτῆς οὐ μὴ διαρραγῶσιν·",
         "Sixtine/Brenton": "Ἰδοὺ Σιὼν ἡ πόλις, τὸ σωτήριον ἡμῶν, οἱ ὀφθαλμοί σου ὄψονται Ἱερουσαλὴμ, πόλις πλουσία, σκηναὶ αἳ οὐ μὴ σεισθῶσιν, οὐδὲ μὴ κινηθῶσιν οἱ πάσσαλοι τῆς σκηνῆς αὐτῆς εἰς τὸν αἰῶνα χρόνον, οὐδὲ τὰ σχοινία αὐτῆς οὐ μὴ διαῤῥαγῶσιν·",
+        "A-Ottley (Isaiah)": "ἰδοὺ Σιὼν ἡ πόλις, τὸ σωτήριον ἡμῶν, οἱ ὀφθαλμοί σου ὄψονται Ἰερουσαλήμ, πόλις πλουσία, σκηναὶ αἲ οὗ μὴ σεισθῶσιν, οὐδ’ οὐ μὴ κινηθῶσιν οἶ πάσσαλοι τῆς σκηνῆς αὐτῆς εἷς τὸν αἰῶνα χρόνον, οὐδὲ τὰ σχοινία αὐτῆς οὗ μὴ διαρραγῶσιν·",
         "LXX-Orthodox (Οʹ)": "ἰδοὺ Σιὼν ἡ πόλις, τὸ σωτήριον ἡμῶν· οἱ ὀφθαλμοί σου ὄψονται Ἱερουσαλήμ, πόλις πλουσία, σκηναί, αἳ οὐ μὴ σεισθῶσιν, οὐδὲ μὴ κινηθῶσιν οἱ πάσσαλοι τῆς σκηνῆς αὐτῆς εἰς τὸν αἰῶνα χρόνον, οὐδὲ τὰ σχοινία αὐτῆς οὐ μὴ διαρραγῶσιν."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "οὐδὲ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "οὐδ’ οὐ",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ουδε",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -1998,17 +2570,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "Σειὼν / Σιὼν"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence)).",
@@ -2026,14 +2587,73 @@
         "Swete-Amicarelli": "ὅτι τὸ ὄνομα Κυρίου μέγα ὑμῖν. τόπος ὑμῖν ἔσται, ποταμοὶ καὶ διώρυχες πλατεῖς καὶ εὐρύχωροι· οὐ πορεύσῃ ταύτην τὴν ὁδόν, οὐδὲ πορεύσεται πλοῖον ἐλαῦνον.",
         "1st1K-LXX": "ὅτι τὸ ὄνομα Κυρίου μέγα ὑμῖν. τόπος ὑμῖν ἔσται, ποταμοὶ καὶ διώρυχες πλατεῖς καὶ εὐρύχωροι· οὐ πορεύσῃ ταύτην τὴν ὁδόν, οὐδὲ πορεύσεται πλοῖον ἐλαῦνον.",
         "Sixtine/Brenton": "ὅτι τὸ ὄνομα Κυρίου μέγα ὑμῖν· τόπος ὑμῖν ἔσται, ποταμοὶ καὶ διώρυχες πλατεῖς καὶ εὐρύχωροι· οὐ πορεύσῃ ταύτην τὴν ὁδὸν, οὐδὲ πορεύσεται πλοῖον ἐλαύνον.",
+        "A-Ottley (Isaiah)": "ὅτι τὸ ὄνομα Κυρίου μέγα ἐστίν. τόπος ὑμῖν ἔσται, ποταμοὶ καὶ διώρυγες πλατεῖς καὶ εὐρύχωροι· οὐ πορεύσῃ ταύτην τὴν ὁδόν, οὐδὲ πορεύσεται πλοῖον ἐλαῦνον.",
         "LXX-Orthodox (Οʹ)": "ὅτι τὸ ὄνομα Κυρίου μέγα ὑμῖν· τόπος ὑμῖν ἔσται, ποταμοὶ καὶ διώρυχες πλατεῖς καὶ εὐρύχωροι· οὐ πορεύσῃ ταύτην τὴν ὁδόν, οὐδὲ πορεύσεται πλοῖον ἐλαῦνον."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ὑμῖν.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐστίν.",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "υμιν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "διώρυχες",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "διώρυγες",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "διωρυχεσ",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 5,
@@ -2084,14 +2704,45 @@
         "Swete-Amicarelli": "ὁ γὰρ θεός μου μέγας ἐστίν· οὐ παρελεύσεταί με· Κύριος κριτὴς ἡμῶν, Κύριος ἄρχων ἡμῶν, Κύριος βασιλεὺς ἡμῶν, Κύριος οὗτος ἡμᾶς σώσει.",
         "1st1K-LXX": "ὁ γὰρ θεός μου μέγας ἐστίν· οὐ παρελεύσεταί με· Κύριος κριτὴς ἡμῶν, Κύριος ἄρχων ἡμῶν, Κύριος βασιλεὺς ἡμῶν, Κύριος οὗτος ἡμᾶς σώσεῖ.",
         "Sixtine/Brenton": "Ὁ γὰρ Θεός μου μέγας ἐστίν· οὐ παρελεύσεταί με Κύριος κριτὴς ἡμῶν, Κύριος ἄρχων ἡμῶν, Κύριος βασιλεὺς ἡμῶν, Κύριος οὗτος ἡμᾶς σώσει.",
+        "A-Ottley (Isaiah)": "ὁ γὰρ θεός μου μέγας ἐστίν· οὗ παρελεύσεταί με, Κύριος πατήρ, Κύριος κριτὴς ἡμῶν, Κύριος ἅρχων ἡμῶν, Κύριος βασιλεὺς ἡμῶν, Κύριος οὗτος ἡμᾶς σώσει.",
         "LXX-Orthodox (Οʹ)": "ὁ γὰρ Θεός μου μέγας ἐστίν, οὐ παρελεύσεταί με Κύριος· κριτὴς ἡμῶν Κύριος, ἄρχων ἡμῶν Κύριος, βασιλεὺς ἡμῶν Κύριος, οὗτος ἡμᾶς σώσει."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "Κύριος πατήρ,",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -2153,14 +2804,73 @@
         "Swete-Amicarelli": "ἐρράγησαν τὰ σχοινία σου, ὅτι οὐκ ἐνίσχυσαν· ὁ ἱστός σου ἔκλινεν, οὐ χαλάσει τὰ ἱστία, οὐκ ἀρεῖ σημεῖον, ἕως οὗ παραδοθῇ εἰς προνομήν· τοίνυν πολλοὶ χωλοὶ προνομὴν ποιήσουσιν.",
         "1st1K-LXX": "ἐρράγησαν τὰ σχοινία σου, ὅτι οὐκ ἐνίσχυσαν· ὁ ἱστός σου ἔκλινεν, οὐ χαλάσει τὰ ἱστία, οὐκ ἀρεῖ σημεῖον, ἕως οὕ παραδοθῇ εἰς προνομὴν· τοίνυν πολλοὶ χωλοὶ προνομὴν ποιήσουσιν.",
         "Sixtine/Brenton": "Ἐῤῥάγησαν τὰ σχοινία σου, ὅτι οὐκ ἐνίσχυσαν· ὁ ἱστός σου ἔκλινεν, οὐ χαλάσει τὰ ἱστία, οὐκ ἀρεῖ σημεῖον, ἕως οὗ παραδοθῇ εἰς προνομήν· τοίνυν πολλοὶ χωλοὶ προνομὴν ποιήσουσι,",
+        "A-Ottley (Isaiah)": "ἐρράγησαν τὰ σχοινία σου, ὅτι οὐκ ἐνίσχυσεν· ὃ ἱστός σου· ἔκλινεν, οὐ χαλάσει τὸ. ἱστία, οὐκ ἀρεῖ σημεῖον, ἕως οὗ παραδοθῇ εἷς προνομήν· τοίνυν πολλοὶ χωλοὶ προνομὴν ποιήσουσιν.",
         "LXX-Orthodox (Οʹ)": "ἐρράγησαν τὰ σχοινία σου, ὅτι οὐκ ἐνίσχυσαν· ὁ ἱστός σου ἔκλινεν, οὐ χαλάσει τὰ ἱστία· οὐκ ἀρεῖ σημεῖον, ἕως οὗ παραδοθῇ εἰς προνομήν· τοίνυν πολλοὶ χωλοὶ προνομὴν ποιήσουσι."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ἐνίσχυσαν·",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ἐνίσχυσεν·",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ενισχυσαν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "τὰ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "τὸ.",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "τα",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -2205,17 +2915,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ποιήσουσιν. / ποιήσουσι."
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).",
@@ -2233,11 +2932,13 @@
         "Swete-Amicarelli": "καὶ οὐ μὴ εἴπωσιν Κοπιῶ ὁ λαὸς ἐνοικῶν ἐν αὐτοῖς· ἀφέθη γὰρ αὐτοῖς ἡ ἁμαρτία.",
         "1st1K-LXX": "καὶ οὐ μὴ εἴπωσιν Κοπιῶ ὁ λαὸς ἐνοικῶν ἐν αὐτοῖς· ἀφέθη γὰρ αὐτοῖς ἡ ἁμαρτία.",
         "Sixtine/Brenton": "καὶ οὐ μὴ εἴπωσι, Κοπιῶ ὁ λαὸς ἐνοικῶν ἐν αὐτοῖς· ἀφεθῆ γὰρ αὐτοῖς ἡ ἁμαρτία.",
+        "A-Ottley (Isaiah)": "καὶ οὐ μὴ εἴπῃ Κοπιῶ ὅ λαὸς ὃ ἐνοικῶν ἐν αὐτοῖς· ἀφέθη γὰρ αὐτοῖς ἡ ἁμαρτία.",
         "LXX-Orthodox (Οʹ)": "καὶ οὐ μὴ εἴπῃ· κοπιῶ, ὁ λαὸς ἐνοικῶν ἐν αὐτοῖς· ἀφέθη γὰρ αὐτοῖς ἡ ἁμαρτία."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "A-Ottley (Isaiah)",
         "LXX-Orthodox (Οʹ)"
       ],
       "apparatus": [
@@ -2251,20 +2952,77 @@
           ],
           "variants": [
             {
-              "reading": "εἴπῃ·",
+              "reading": "εἴπῃ",
               "witnesses": [
+                "A-Ottley (Isaiah)",
                 "LXX-Orthodox (Οʹ)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 3,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "ειπωσιν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "εἴπωσιν Κοπιῶ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "εἴπῃ Κοπιῶ",
+              "witnesses": [
+                "A-Ottley (Isaiah)",
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ειπωσιν κοπιω",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete-Amicarelli",
+            "LXX-Orthodox (Οʹ)"
+          ],
+          "variants": [
+            {
+              "reading": "ὃ",
+              "witnesses": [
+                "A-Ottley (Isaiah)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
           "confidence": 0.99,
           "credited_witnesses": []
         }

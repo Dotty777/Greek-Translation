@@ -1,6 +1,6 @@
 # Psalms 71 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:27Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:30Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 70:1 kept in its own chapter (stronger match to its own reference verse)
@@ -40,6 +40,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 70:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 70:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 70:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 70:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 70:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 70:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 70:12 kept in its own chapter (stronger match to its own reference verse)
@@ -72,10 +73,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 72:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 72:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:21 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 72:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 72:26 kept in its own chapter (stronger match to its own reference verse)
@@ -89,6 +92,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 70:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 70:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 70:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 70:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 70:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 70:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 70:12 kept in its own chapter (stronger match to its own reference verse)
@@ -114,15 +118,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 72:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 72:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 72:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 72:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:20 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:21 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:22 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 72:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:24 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:25 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 72:26 kept in its own chapter (stronger match to its own reference verse)
@@ -136,6 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 70:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 70:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 70:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 70:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 70:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 70:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 70:12 kept in its own chapter (stronger match to its own reference verse)
@@ -161,15 +170,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 72:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 72:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 72:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 72:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:21 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:22 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 72:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 72:26 kept in its own chapter (stronger match to its own reference verse)
@@ -194,6 +207,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 70:15 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 70:16 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 70:17 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 70:18 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 70:19 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 70:20 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 70:21 kept in its own chapter (stronger match to its own reference verse)
@@ -253,7 +267,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **18** εὐλογητὸς Κύριος ὁ θεὸς Ἰσραήλ, ὁ ποιῶν θαυμάσια μόνος,
 **19** καὶ εὐλογητὸν τὸ ὄνομα τῆς δόξης αὐτοῦ εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος· καὶ πληρωθήσεται τῆς δόξης αὐτοῦ πᾶσα ἡ γῆ. γένοιτο, γένοιτο.
 **20** Ἐξέλιπον οἱ ὕμνοι Δαυὶδ τοῦ υἱοῦ Ἰεσσαί.
-**24** Εἰς Σολομών.
 
 ---
 
@@ -263,8 +276,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Σαλομών` Swete-Amicarelli **]** **Σαλωμών** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- *Disregarded Surface Variant:* kept `Εἰς` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `Σαλομών` over `Σολομών`, `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the base copy is kept); not counted as a variant*
+- *Disregarded Surface Variant:* kept `Σαλομών` over `Σολομών` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the base copy is kept); not counted as a variant*
 - *Disregarded Surface Variant:* kept `θεός,` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δός,` over `δὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `βασιλέως,` over `βασιλέως·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -289,8 +301,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συκοφάντην` over `συκοβάντην` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 
 ### Psalms 71:5
-- *Disregarded Surface Variant:* kept `συνπαραμενεῖ` over `συνπαραμενεί`, `συμπαραμενεῖ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συνπαραμενεῖ / συμπαραμενεῖ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `συνπαραμενεῖ` over `συνπαραμενεί`, `συμπαραμενεῖ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `συνπαραμενεῖ / συμπαραμενεῖ`, `συνπαραμενεῖ / συμπαραμενεῖ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### Psalms 71:6
 - **Apparatus:** `καὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -309,7 +321,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 71:9
 - *Disregarded Surface Variant:* kept `ἐνώπιον` over `Ἐνώπιον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `λίξουσιν·` over `λείξουσι.` (Sixtine/Brenton) — *Itacistic spelling with movable ν (ἴδεν / εἶδε type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `λίξουσιν· / λείξουσι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Itacistic spelling with movable ν (ἴδεν / εἶδε type)*
 
 ### Psalms 71:10
 - **Apparatus:** `αἱ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
@@ -317,8 +328,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Θαρσεὶς` over `Θαρσὶς` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `προσοίσουσιν,` over `προσοίσουσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `προσάξουσιν·` over `προσάξουσι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Θαρσεὶς / Θαρσὶς` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `προσοίσουσιν, / προσοίσουσι,`, `προσάξουσιν· / προσάξουσι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 71:11
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **τῆς γῆς,** LXX-Orthodox (Οʹ)
@@ -333,8 +342,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ᾧ` over `ᾦ` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ὑπῆρχεν` over `ὑπῆρχε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `βοηθός` over `βοηθόςφείσεται` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐρύσατο / ἐρρύσατο` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ὑπῆρχεν / ὑπῆρχε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐρύσατο / ἐρρύσατο`, `ἐρύσατο / ἐρρύσατο`, `ἐρύσατο / ερρυϲατο` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Psalms 71:13
 - *Disregarded Surface Variant:* kept `φείσεται` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -390,10 +398,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Εἰς Σαλομών. Ὁ θεός, τὸ κρίμα σου τῷ βασιλεῖ δός, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως,
   - `Swete-Amicarelli`: Εἰς Σαλομών. Ὁ θεός, τὸ κρίμα σου τῷ βασιλεῖ δός, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως,
   - `1st1K-LXX`: Εἰς Σολομών. Ὁ θεός, τὸ κρίμα σου τῷ βασιλεῖ δός, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως,
-  - `Swete (B/A/א)`: Ὁ θεός, τὸ κρίμα σου τῷ βασιλεῖ δός, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως,
+  - `Swete (B/A/א)`: Εἰς Σολομών. Ὁ θεός, τὸ κρίμα σου τῷ βασιλεῖ δός, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως,
   - `Sixtine/Brenton`: Εἰς Σαλωμών. Ὁ Θεὸς τὸ κρίμα σου τῷ βασιλεῖ δὸς, καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως·
   - `LXX-Orthodox (Οʹ)`: Εἰς Σαλωμών. Ο ΘΕΟΣ, τὸ κρίμα σου τῷ βασιλεῖ δὸς καὶ τὴν δικαιοσύνην σου τῷ υἱῷ τοῦ βασιλέως
-- **Philological Rationale:** [Omission in some witnesses] Adopted 'Σαλομών' [Swete-Amicarelli] (weight 0.93, confidence 53%) over Σαλωμών (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Σαλομών' [Swete-Amicarelli] (weight 0.93, confidence 53%) over Σαλωμών (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -431,7 +439,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Swete (B/A/א)`: καὶ συνπαραμενεί τῷ ἡλίῳ, καὶ πρὸ τῆς σελήνης γενεὰς γενεῶν.
   - `Sixtine/Brenton`: καὶ συμπαραμενεῖ τῷ ἡλίῳ, καὶ πρὸ τῆς σελήνης γενεὰς γενεῶν.
   - `LXX-Orthodox (Οʹ)`: καὶ συμπαραμενεῖ τῷ ἡλίῳ καὶ πρὸ τῆς σελήνης γενεὰς γενεῶν.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)).
 
 ### Verse 6 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ καταβήσεται ὡς ὑετὸς ἐπὶ πόκον, καὶ ὡσεὶ σταγόνες στάζουσαι ἐπὶ τὴν γῆν.
@@ -571,8 +579,3 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Ἐξέλιπον οἱ ὕμνοι Δαυὶδ τοῦ υἱοῦ Ἰεσσαί.
   - `LXX-Orthodox (Οʹ)`: Ἐξέλιπον οἱ ὕμνοι Δαυΐδ τοῦ υἱοῦ Ἰεσσαί.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Koine/Uncial itacistic spelling (ει / ι equivalence)).
-
-### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Εἰς Σολομών.
-  - `Swete (B/A/א)`: Εἰς Σολομών.
-- **Philological Rationale:** Unanimous witness agreement across Swete (B/A/א) (1 admitted witnesses; zero substantive divergence).

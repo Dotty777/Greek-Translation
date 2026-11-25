@@ -1,6 +1,6 @@
 # Ecclesiastes 01 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:45Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:33Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **Swete-Amicarelli** | Swete Septuagint — Amicarelli transcription (BibleWorks text; LXX-Swete-1930 CSV) | Tier 1 | `0.93` | GPL-3.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) — keyed transcription, not OCR |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -26,8 +26,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 1:5 runs into its neighbour across the anchor's division between 1:5 and 1:6; re-divided there
@@ -115,7 +115,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ῥήματα` over `ΡΗΜΑΤΑ`, `ῬΗΜΑΤΑ` (Sixtine/Brenton, Swete-Amicarelli) — *Diplomatic uncial capitalisation vs. critical mixed-case accentuation*
 - *Disregarded Surface Variant:* kept `Δαυὶδ` over `Δαυεὶδ` (Swete-Amicarelli) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλήμ.` over `Ἱερουσαλήμ.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Δαυὶδ / Δαβὶδ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Semitic proper-name transliteration convention (Δαυίδ / Δαυεὶδ / Δαβίδ, Λευί / Λεβί)*
 
 ### Ecclesiastes 1:2
 - *Disregarded Surface Variant:* kept `ἐκκλησιαστής,` over `Ἐκκλησιαστὴς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -127,7 +126,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Ecclesiastes 1:4
 - *Disregarded Surface Variant:* kept `γενεὰ` over `Γενεὰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἕστηκεν.` over `ἕστηκε.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἕστηκεν. / ἕστηκε.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ecclesiastes 1:5
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -141,14 +139,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `ἔσται` Swete-Amicarelli **]** **ἔστιν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τόπον` Swete-Amicarelli **]** **τὸν τόπον οὗ** Sixtine/Brenton ; **τόπον, οὗ** LXX-Orthodox (Οʹ) *(partial substitution)*
+- **Apparatus:** `τόπον` Swete-Amicarelli **]** **τὸν τόπον οὗ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `πάντες` over `Πάντες` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `χείμαρροι` over `χείμαῤῥοι` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `χείμαρροι` over `χείμαῤῥοι` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἐπιστρέφουσιν` over `ἐπιστρέφουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπιστρέφουσιν / ἐπιστρέφουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ecclesiastes 1:8
 - **Apparatus:** `ὁρᾶν` Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **ὁρᾷν** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -161,7 +158,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Ecclesiastes 1:9
 - *Disregarded Surface Variant:* kept `τί` over `Τί` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ecclesiastes 1:10
 - **Apparatus:** `καινόν` Sixtine/Brenton Swete-Amicarelli **]** **κενόν** LXX-Orthodox (Οʹ)
@@ -170,13 +166,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἴδε` over `ἴδε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν,` over `ἐστιν;` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αἰῶσιν` over `αἰῶσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `αἰῶσιν / αἰῶσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ecclesiastes 1:11
 - *Disregarded Surface Variant:* kept `οὐκ` over `Οὐκ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `γενομένοις·` over `γενομένοις` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ecclesiastes 1:12
 - *Disregarded Surface Variant:* kept `Ἐκκλησιαστὴς` over `ἐκκλησιαστὴς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -187,10 +181,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Ecclesiastes 1:14
-- **Apparatus:** `σὺν πάντα` Swete-Amicarelli LXX-Orthodox (Οʹ) **]** **σύμπαντα** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `εἶδον` over `Εἶδον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `σὺν πάντα` over `σύμπαντα` (Sixtine/Brenton) — *Word division differs with spelling convention (Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type))*
 - *Disregarded Surface Variant:* kept `ἥλιον,` over `ἥλιον·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Ecclesiastes 1:15
@@ -200,7 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `τῇ` Swete-Amicarelli **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `Ἐγὼ ἰδοὺ` Swete-Amicarelli **]** **ἰδοὺ ἐγὼ** Sixtine/Brenton ; **ἐγὼ** LXX-Orthodox (Οʹ) *(word-order transposition)*
+- **Apparatus:** `Ἐγὼ ἰδοὺ` Swete-Amicarelli **]** **ἰδοὺ ἐγὼ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli **]** **καὶ ἔδωκα καρδίαν μου τοῦ γνῶναι σοφίαν καὶ γνῶσιν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -228,7 +220,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐγώ.` over `ἐγώ` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `πνεύματος,` over `πνεύματος·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶδεν / εἶδε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ecclesiastes 1:18
 - *Disregarded Surface Variant:* kept `ὅτι` over `Ὅτι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -331,13 +322,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: καὶ ἔδωκα τὴν καρδίαν μου τοῦ ἐκζητῆσαι καὶ τοῦ κατασκέψασθαι ἐν τῇ σοφίᾳ περὶ πάντων τῶν γινομένων ὑπὸ τὸν οὐρανόν· ὅτι περισπασμὸν πονηρὸν ἔδωκεν ὁ Θεὸς τοῖς υἱοῖς τῶν ἀνθρώπων τοῦ περισπάσθαι ἐν αὐτῷ.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention).
 
-### Verse 14 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** εἶδον σὺν πάντα τὰ ποιήματα τὰ πεποιημένα ὑπὸ τὸν ἥλιον, καὶ ἰδοὺ τὰ πάντα ματαιότης καὶ προαίρεσις πνεύματος.
   - `Swete-Amicarelli`: εἶδον σὺν πάντα τὰ ποιήματα τὰ πεποιημένα ὑπὸ τὸν ἥλιον, καὶ ἰδοὺ τὰ πάντα ματαιότης καὶ προαίρεσις πνεύματος.
   - `Sixtine/Brenton`: Εἶδον σύμπαντα τὰ ποιήματα τὰ πεποιημένα ὑπὸ τὸν ἥλιον· καὶ ἰδοὺ τὰ πάντα ματαιότης καὶ προαίρεσις πνεύματος.
   - `LXX-Orthodox (Οʹ)`: εἶδον σὺν πάντα τὰ ποιήματα τὰ πεποιημένα ὑπὸ τὸν ἥλιον, καὶ ἰδοὺ τὰ πάντα ματαιότης καὶ προαίρεσις πνεύματος.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'σὺν πάντα' [Swete-Amicarelli] (weight 0.93, confidence 53%) over σύμπαντα (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only; Word division differs with spelling convention (Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type))).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** διεστραμμένον οὐ δυνήσεται ἐπικοσμηθῆναι, καὶ ὑστέρημα οὐ δυνήσεται ἀριθμηθῆναι.

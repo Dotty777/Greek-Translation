@@ -1,6 +1,6 @@
 # Psalms 111 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:33Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:28Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,11 +28,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Swete-Amicarelli: Source import repair, 111:2: 'εὐθέων' → '[…]' (Swete prints εὐθείων). '[…]' casts no vote, so the other copies of Swete decide; no word was supplied. Original file unchanged.
+- Swete-Amicarelli: Source import repair, 111:2: 'εὐθέων' → '[…]' (Swete prints εὐθείων). '[…]' casts no vote, so the other copies of Swete decide. Original file unchanged.
 - Swete-Amicarelli: 110:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 110:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 110:3 kept in its own chapter (stronger match to its own reference verse)
@@ -51,6 +51,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 112:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 112:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 112:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 112:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 110:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 110:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 110:3 kept in its own chapter (stronger match to its own reference verse)
@@ -69,6 +70,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 112:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 112:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 112:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 112:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 110:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 110:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 110:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 110:4 kept in its own chapter (stronger match to its own reference verse)
@@ -78,6 +81,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 110:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 110:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 110:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 112:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 112:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 112:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 112:4 kept in its own chapter (stronger match to its own reference verse)
@@ -85,6 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 112:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 112:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 112:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 112:9 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 110:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 110:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 110:3 kept in its own chapter (stronger match to its own reference verse)
@@ -128,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `θέλει` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **θελήσει** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- *Disregarded Surface Variant:* kept `Ἁλληλουιά` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
+- *Disregarded Surface Variant:* kept `Ἁλληλουιά.` over `Ἀλληλούϊα.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `κύριον,` over `Κύριον,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σφόδρα·` over `σφόδρα.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
@@ -144,7 +149,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 111:4
 - *Disregarded Surface Variant:* kept `ἐξανέτειλεν` over `Ἐξανέτειλεν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εὐθέσι·` over `εὐθέσιν·` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εὐθέσι· / εὐθέσιν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 111:5
 - **Apparatus:** `οἰκτίρμων` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **οἰκτείρων** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -172,13 +176,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 111:9
 - *Disregarded Surface Variant:* kept `ἐσκόρπισεν,` over `Ἐσκόρπισεν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔδωκεν` over `ἔδωκε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔδωκεν / ἔδωκε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 111:10
 - **Apparatus:** `ἁμαρτωλῶν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἁμαρτωλοῦ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- *Disregarded Surface Variant:* kept `om.` over `Ἁλληλουιά` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἁμαρτωλὸς` over `Ἁμαρτωλὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ---
@@ -189,7 +191,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Ἁλληλουιά. Μακάριος ἀνὴρ ὁ φοβούμενος τὸν κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θέλει σφόδρα·
   - `Swete-Amicarelli`: Ἁλληλουιά. Μακάριος ἀνὴρ ὁ φοβούμενος τὸν κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θέλει σφόδρα·
   - `1st1K-LXX`: Ἁλληλουιά. Μακάριος ἀνὴρ ὁ φοβούμενος τὸν κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θέλει σφόδρα·
-  - `Swete (B/A/א)`: Μακάριος ἀνὴρ ὁ φοβούμενος τὸν κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θέλει σφόδρα·
+  - `Swete (B/A/א)`: Ἁλληλουιά. Μακάριος ἀνὴρ ὁ φοβούμενος τὸν κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θέλει σφόδρα·
   - `Sixtine/Brenton`: Ἀλληλούϊα. Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θελήσει σφόδρα.
   - `LXX-Orthodox (Οʹ)`: Ἀλληλούϊα. ΜΑΚΑΡΙΟΣ ἀνὴρ ὁ φοβούμενος τὸν Κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θελήσει σφόδρα·
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'θέλει' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over θελήσει (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
@@ -275,8 +277,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλῶν ἀπολεῖται.
   - `Swete-Amicarelli`: ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλῶν ἀπολεῖται.
   - `1st1K-LXX`: ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλῶν ἀπολεῖται.
-  - `Swete (B/A/א)`: Ἁλληλουιά. ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλῶν ἀπολεῖται.
+  - `Swete (B/A/א)`: ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλῶν ἀπολεῖται.
   - `Sixtine/Brenton`: Ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλοῦ ἀπολεῖται.
   - `LXX-Orthodox (Οʹ)`: ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλοῦ ἀπολεῖται.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἁμαρτωλῶν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἁμαρτωλοῦ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἁμαρτωλῶν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἁμαρτωλοῦ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).

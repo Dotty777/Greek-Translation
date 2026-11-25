@@ -1,6 +1,6 @@
 # Job 34 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:16Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:28Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 34:23 runs into its neighbour across the anchor's division between 34:23 and 34:24; re-divided there
@@ -45,6 +45,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 33:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 33:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:16 kept in its own chapter (stronger match to its own reference verse)
@@ -63,6 +64,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 33:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 33:32 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 33:33 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 35:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 35:2 kept in its own chapter (stronger match to its own reference verse)
@@ -87,10 +89,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 33:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:16 kept in its own chapter (stronger match to its own reference verse)
@@ -99,6 +103,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 33:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:20 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:24 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:25 kept in its own chapter (stronger match to its own reference verse)
@@ -107,7 +112,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 33:28 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:29 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:30 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 33:31 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 33:33 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 35:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:5 kept in its own chapter (stronger match to its own reference verse)
@@ -115,8 +122,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 35:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 35:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 35:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 35:16 kept in its own chapter (stronger match to its own reference verse)
@@ -128,10 +137,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 33:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:16 kept in its own chapter (stronger match to its own reference verse)
@@ -140,6 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 33:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:25 kept in its own chapter (stronger match to its own reference verse)
@@ -148,7 +160,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 33:28 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:30 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 33:31 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 33:33 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 35:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:5 kept in its own chapter (stronger match to its own reference verse)
@@ -156,8 +170,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 35:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 35:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 35:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 35:16 kept in its own chapter (stronger match to its own reference verse)
@@ -197,6 +213,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 33:33 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 35:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 35:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 35:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 35:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 35:5 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 35:7 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 35:8 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 35:9 kept in its own chapter (stronger match to its own reference verse)
@@ -283,7 +302,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἰμι,` over `εἰμι·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `κύριος` over `Κύριος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀπήλλαξέν` over `ἀπήλλαξέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπήλλαξέν / ἀπήλλαξέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:6
 - *Disregarded Surface Variant:* kept `ἐψεύσατο` over `Ἐψεύσατο` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -334,7 +352,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τίς` over `Τίς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ὑπ᾽` over `ὐπʼ` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `οὐρανὸν` over `οὐρανὸν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐποίησεν / ἐποίησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:14
 - **Apparatus:** `πνεῦμα` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **σνεῦμα** Sixtine/Brenton *(lexical substitution)*
@@ -369,7 +386,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ὃς` over `Ὃς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οἶδεν` over `οἶδε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἁδροῖς,` over `ἁδροῖς` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `οἶδεν / οἶδε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:20
 - *Disregarded Surface Variant:* kept `κενὰ` over `Κενὰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -380,7 +396,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λέληθεν` over `λέληθε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ὧν` over `ὦν` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `πράσσουσιν·` over `πράσσουσιν.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `λέληθεν / λέληθε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:22
 - *Disregarded Surface Variant:* kept `οὐδὲ` over `Οὐδὲ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -406,7 +421,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Job 34:26
 - *Disregarded Surface Variant:* kept `ἔσβεσεν` over `Ἔσβεσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτοῦ·` over `αὐτοῦ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔσβεσεν / ἔσβεσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:27
 - *Disregarded Surface Variant:* kept `ὅτι ἐξέκλιναν ἐκ νόμου θεοῦ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -456,12 +470,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἀνὴρ` over `ἀνήρ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀκήκοέν` over `ἀκήκοέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι`, `ἀκήκοέν / ἀκήκοέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:35
 - *Disregarded Surface Variant:* kept `ἐλάλησεν,` over `ἐλάλησε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ῥήματα` over `δήματα` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλάλησεν, / ἐλάλησε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 34:36
 - *Disregarded Surface Variant:* kept `οὐ` over `Οὐ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*

@@ -1,6 +1,6 @@
 # Ezekiel 44 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:48Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:42Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 43:1 kept in its own chapter (stronger match to its own reference verse)
@@ -48,6 +47,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 43:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 43:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:20 kept in its own chapter (stronger match to its own reference verse)
@@ -99,6 +99,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 43:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 43:17 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:20 kept in its own chapter (stronger match to its own reference verse)
@@ -110,6 +111,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 43:26 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:27 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 45:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:5 kept in its own chapter (stronger match to its own reference verse)
@@ -149,6 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 43:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 43:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:20 kept in its own chapter (stronger match to its own reference verse)
@@ -160,6 +163,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 43:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:27 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 45:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:5 kept in its own chapter (stronger match to its own reference verse)
@@ -280,7 +284,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐπέστρεψέν` over `ἐπέστρεψέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατὰ` (Sixtine/Brenton) — *Elision (κατὰ / κατ’ type)*
 - *Disregarded Surface Variant:* kept `ἀνατολάς,` over `ἀνατολάς·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπέστρεψέν / ἐπέστρεψέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `κατ᾽ / κατὰ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Elision (κατὰ / κατ’ type)*
 
 ### Ezekiel 44:2
@@ -313,7 +316,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `βορρᾶν` over `Βοῤῥᾶν,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `εἶδον,` over `ἴδον,` (Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton) — *Diplomatic uncial orthography normalised to standard critical form*
 - *Disregarded Surface Variant:* kept `κυρίου,` over `Κυρίου·` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἰσήγαγέν / εἰσήγαγέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:5
 - **Apparatus:** `σου` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **om.** Sixtine/Brenton *(omission / addition)*
@@ -338,7 +340,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Κυρίου` over `Κυρίου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `οἴκου` over `οἴκου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:6
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -378,7 +379,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λήμψονται` over `λήψονται` (Sixtine/Brenton) — *Nasal spelling (λημψ- / ληψ-)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται / Λευῖται,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `λήμψονται / λήψονται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Nasal spelling (λημψ- / ληψ-)*
 
 ### Ezekiel 44:11
@@ -393,11 +393,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λαοῦ` over `λαοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Ezekiel 44:12
-- **Apparatus:** `ἦρα` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ᾖρα** Sixtine/Brenton *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἀνθ᾽` over `Ἀνθʼ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αὐτῶν,` over `αὐτῶν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἦρα` over `ᾖρα` (Sixtine/Brenton) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτούς` over `οὐτούς` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `θεός,` over `Θεὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -426,15 +424,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `μου` over `μου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αἷμα,` over `αἶμα,` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `θεός.` over `Θεός.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται / Λευῖται,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `προσάξουσιν / προσάξουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:16
 - *Disregarded Surface Variant:* kept `οὗτοι` over `Οὗτοι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μου` over `μου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `φυλάξουσιν` over `φυλάξουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `τὰς` over `τάς` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `φυλάξουσιν / φυλάξουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:17
 - **Apparatus:** `ἐρεᾶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἔρια** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -457,7 +452,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐταῖς,` over `αὐταῖς·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐνδύσονται` over `ἐυδύσονται` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἁγιάσωσιν` over `ἁγιάσωσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἁγιάσωσιν / ἁγιάσωσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:20
 - **Apparatus:** `καλύπτοντες` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **καλύπτοντε** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -467,13 +461,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τὰς` over `τάς` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ψιλώσουσιν·` over `ψιλώσουσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `τὰς` over `τάς` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ψιλώσουσιν· / ψιλώσουσι,`, `καλύψουσιν / καλύψουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:21
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πίωσιν` over `πίωσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἱερεὺς` over `ἱερεὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `πίωσιν / πίωσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:22
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -497,7 +489,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κρίματά` over `κρίματὰ` (Swete-Amicarelli) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `κρινοῦσιν,` over `κρινοῦσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἁγιάσουσιν.` over `ἁγιάσουσι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δικαιώσουσιν, / δικαιώσουσι`, `κρινοῦσιν, / κρινοῦσι`, `ἁγιάσουσιν. / ἁγιάσουσι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Ezekiel 44:25
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐπὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -666,15 +657,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'σφάξουσιν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over σφάξουσι τὰς θυσίας καὶ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'καὶ τὰς θυσίας' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 12 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἀνθ᾽ ὧν ἐλειτούργουν αὐτοῖς πρὸ προσώπου τῶν εἰδώλων αὐτῶν, καὶ ἐγένετο τῷ οἴκῳ Ἰσραὴλ εἰς κόλασιν ἀδικίας· ἕνεκα τούτου ἦρα τὴν χεῖρά μου ἐπ᾽ αὐτούς, λέγει Κύριος ὁ θεός,
   - `Swete-Amicarelli`: ἀνθ᾽ ὧν ἐλειτούργουν αὐτοῖς πρὸ προσώπου τῶν εἰδώλων αὐτῶν, καὶ ἐγένετο τῷ οἴκῳ Ἰσραὴλ εἰς κόλασιν ἀδικίας· ἕνεκα τούτου ἦρα τὴν χεῖρά μου ἐπ᾽ αὐτούς, λέγει Κύριος ὁ θεός,
   - `1st1K-LXX`: ἀνθʼ ὧν ἐλειτούργουν αὐτοῖς πρὸ προσώπου τῶν εἰδώλων αὐτῶν, καὶ ἐγένετο τῷ οἴκῳ Ἰσραὴλ εἰς κόλασιν ἀδικίας· ἕνεκα τούτου ἦρα τὴν χεῖρά μου ἐπʼ οὐτούς, λέγει Κύριος ὁ θεός,
   - `Swete (B/A/א)`: ἀνθʼ ὧν ἐλειτούργουν αὐτοῖς πρὸ προσώπου τῶν εἰδώλων αὐτῶν, καὶ ἐγένετο τῷ οἴκῳ Ἰσραὴλ εἰς κόλασιν ἀδικίας· ἕνεκα τούτου ἦρα τὴν χεῖρά μου ἐπʼ οὐτούς, λέγει Κύριος ὁ θεός,
   - `Sixtine/Brenton`: Ἀνθʼ ὧν ἐλειτούργουν αὐτοῖς πρὸ προσώπου τῶν εἰδώλων αὐτῶν· καὶ ἐγένετο τῷ οἴκῳ Ἰσραὴλ εἰς κόλασιν ἀδικίας· ἕνεκα τούτου ᾖρα τὴν χεῖρά μου ἐπʼ αὐτοὺς, λέγει Κύριος ὁ Θεὸς,
   - `LXX-Orthodox (Οʹ)`: ἀνθ' ὧν ἐλειτούργουν αὐτοῖς πρὸ προσώπου τῶν εἰδώλων αὐτῶν καὶ ἐγένετο τῷ οἴκῳ Ἰσραὴλ εἰς κόλασιν ἀδικίας, ἕνεκα τούτου ᾖρα τὴν χεῖρά μου ἐπ' αὐτούς, λέγει Κύριος ὁ Θεός,
-- **Philological Rationale:** [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἦρα' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ᾖρα (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω); Punctuation / spacing difference only).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ οὐκ ἐγγιοῦσι πρὸς μὲ τοῦ ἱερατεύειν μοι, οὐδὲ τοῦ προσάγειν πρὸς τὰ ἅγια υἱῶν τοῦ Ἰσραὴλ οὐδὲ πρὸς τὰ ἅγια τῶν ἁγίων μου· καὶ λήμψονται ἀτιμίαν αὐτῶν ἐν τῇ πλανήσει ᾗ ἐπλανήθησαν.

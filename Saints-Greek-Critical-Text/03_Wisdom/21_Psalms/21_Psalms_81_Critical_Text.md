@@ -1,6 +1,6 @@
 # Psalms 81 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:29Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:30Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 80:1 kept in its own chapter (stronger match to its own reference verse)
@@ -55,9 +55,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 82:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 82:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 82:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 82:14 kept in its own chapter (stronger match to its own reference verse)
@@ -89,9 +91,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 82:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 82:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 82:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 82:14 kept in its own chapter (stronger match to its own reference verse)
@@ -123,9 +127,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 82:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 82:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 82:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:14 kept in its own chapter (stronger match to its own reference verse)
@@ -134,7 +140,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 82:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 82:19 kept in its own chapter (stronger match to its own reference verse)
-- Swete (B/A/א): 81:17 folded into verse 1 (the reference prints these words there)
 - LXX-Orthodox (Οʹ): 80:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 80:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 80:3 kept in its own chapter (stronger match to its own reference verse)
@@ -198,6 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 81:3
 - **Apparatus:** `ὀρφανὸν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ὀρφανῷ** LXX-Orthodox (Οʹ)
+- **Apparatus:** `καὶ πτωχόν,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **καὶ πτωχῷ,** LXX-Orthodox (Οʹ)
 - **Apparatus:** `πτωχόν,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **πτωχῷ,** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `κρίνατε` over `Κρίνατε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πτωχόν,` over `πτωχὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -237,7 +243,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `θεός,` over `Θεὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `γῆν·` over `γῆν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `πᾶσιν` over `πᾶσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `πᾶσιν / πᾶσι`, `ἔθνεσιν. / ἔθνεσι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ---
 

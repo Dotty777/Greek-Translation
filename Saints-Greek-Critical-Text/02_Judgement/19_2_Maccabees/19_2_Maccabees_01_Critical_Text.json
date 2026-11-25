@@ -7,7 +7,7 @@
   "usfm_code": "2MA",
   "chapter": 1,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:11:05Z",
+  "updated_at": "2026-11-25T00:07:27Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -42,6 +42,7 @@
     "Swete-Amicarelli: 2:27 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 2:28 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 2:29 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 2:30 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 2:31 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 2:32 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 2:1 kept in its own chapter (stronger match to its own reference verse)",
@@ -73,6 +74,7 @@
     "1st1K-LXX: 2:27 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 2:28 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 2:29 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 2:30 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 2:31 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 2:32 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 2:1 kept in its own chapter (stronger match to its own reference verse)",
@@ -104,6 +106,7 @@
     "Swete (B/A/א): 2:27 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 2:28 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 2:29 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 2:30 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 2:31 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 2:32 kept in its own chapter (stronger match to its own reference verse)"
   ],
@@ -644,8 +647,8 @@
       "apparatus_witnesses": [],
       "apparatus": [
         {
-          "slot_index": 5,
-          "lemma": "ἐνάτου ἡμεῖς οἱ Ἰουδαῖοι γεγράφαμεν",
+          "slot_index": 7,
+          "lemma": "οἱ Ἰουδαῖοι γεγράφαμεν",
           "lemma_witnesses": [
             "Swete-Amicarelli",
             "1st1K-LXX",
@@ -653,17 +656,17 @@
           ],
           "variants": [
             {
-              "reading": "ἐννατου ἡμεῖς ὁ Ιουδαῖοι γεγραφήκαμεν",
-              "adopt_text": "ἐννατου ἡμεῖς ὁ Ιουδαῖοι γεγραφήκαμεν",
+              "reading": "ὁ Ιουδαῖοι γεγραφήκαμεν",
+              "adopt_text": "ὁ Ιουδαῖοι γεγραφήκαμεν",
               "witnesses": [
                 "Sixtine/Brenton"
               ],
               "weight_sum": 0.84
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'ἐνάτου ἡμεῖς οἱ Ἰουδαῖοι γεγράφαμεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐννατου ἡμεῖς ὁ Ιουδαῖοι γεγραφήκαμεν (Sixtine/Brenton).",
-          "word_index": 5,
-          "word_count": 5,
+          "note": "[Variation unit spanning several words] Adopted 'οἱ Ἰουδαῖοι γεγράφαμεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὁ Ιουδαῖοι γεγραφήκαμεν (Sixtine/Brenton).",
+          "word_index": 7,
+          "word_count": 3,
           "kind": "word",
           "variant_type": "partial substitution",
           "analysis": [
@@ -684,7 +687,7 @@
               "strength": "info"
             }
           ],
-          "lemma_key": "ενατου ημεισ οι ιουδαιοι γεγραφαμεν",
+          "lemma_key": "οι ιουδαιοι γεγραφαμεν",
           "confidence": 0.529,
           "credited_witnesses": []
         }
@@ -725,7 +728,18 @@
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
         },
         {
-          "slot_index": 8,
+          "slot_index": 5,
+          "kept_form": "ἐνάτου,",
+          "disregarded_forms": [
+            "ἐννατου,"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)"
+        },
+        {
+          "slot_index": 10,
           "kept_form": "τῇ",
           "disregarded_forms": [
             "τῆ"
@@ -737,7 +751,7 @@
           "reason": "Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant"
         },
         {
-          "slot_index": 9,
+          "slot_index": 11,
           "kept_form": "θλίψει",
           "disregarded_forms": [
             "θλίψει,"
@@ -748,7 +762,7 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
-          "slot_index": 19,
+          "slot_index": 21,
           "kept_form": "ἔτεσιν",
           "disregarded_forms": [
             "ἔτεσι"
@@ -759,7 +773,7 @@
           "reason": "Euphonic movable-nu (-ν) variation"
         },
         {
-          "slot_index": 21,
+          "slot_index": 23,
           "kept_form": "ἀφ᾽",
           "disregarded_forms": [
             "ἀφʼ"
@@ -772,7 +786,7 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
-          "slot_index": 22,
+          "slot_index": 24,
           "kept_form": "οὗ",
           "disregarded_forms": [
             "οὖ"
@@ -784,7 +798,7 @@
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
         },
         {
-          "slot_index": 27,
+          "slot_index": 29,
           "kept_form": "μετ᾽",
           "disregarded_forms": [
             "μετ᾿",
@@ -798,7 +812,7 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
-          "slot_index": 32,
+          "slot_index": 34,
           "kept_form": "γῆς",
           "disregarded_forms": [
             "γῆς,"
@@ -809,7 +823,7 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'ἐνάτου ἡμεῖς οἱ Ἰουδαῖοι γεγράφαμεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐννατου ἡμεῖς ὁ Ιουδαῖοι γεγραφήκαμεν (Sixtine/Brenton). Also normalised 10 orthographic/surface variation(s).",
+      "rationale": "[Variation unit spanning several words] Adopted 'οἱ Ἰουδαῖοι γεγράφαμεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὁ Ιουδαῖοι γεγραφήκαμεν (Sixtine/Brenton). Also normalised 11 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
@@ -827,7 +841,7 @@
       "id": 17682,
       "verse": 8,
       "critical_text": "καὶ ἐνεπύρισαν τὸν πυλῶνα, καὶ ἐξέχεαν αἷμα ἀθῷον· καὶ ἐδεήθημεν τοῦ κυρίου καὶ εἰσηκούσθημεν· προσηνέγκαμεν θυσίαν καὶ σεμίδαλιν, καὶ ἐξηγάγομεν τοὺς λύχνους, καὶ προεθήκαμεν τοὺς ἄρτους.",
-      "confidence": 0.148,
+      "confidence": 0.28,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "καὶ ἐνεπύρισαν τὸν πυλῶνα, καὶ ἐξέχεαν αἷμα ἀθῷον· καὶ ἐδεήθημεν τοῦ κυρίου καὶ εἰσηκούσθημεν· προσηνέγκαμεν θυσίαν καὶ σεμίδαλιν, καὶ ἐξηγάγομεν τοὺς λύχνους, καὶ προεθήκαμεν τοὺς ἄρτους.",
@@ -839,51 +853,6 @@
       "witness_refs": {},
       "apparatus_witnesses": [],
       "apparatus": [
-        {
-          "slot_index": 7,
-          "lemma": "ἀθῷον",
-          "lemma_witnesses": [
-            "Swete-Amicarelli",
-            "1st1K-LXX",
-            "Swete (B/A/א)"
-          ],
-          "variants": [
-            {
-              "reading": "ἀθῶον",
-              "adopt_text": "ἀθῶον",
-              "witnesses": [
-                "Sixtine/Brenton"
-              ],
-              "weight_sum": 0.84
-            }
-          ],
-          "note": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀθῷον' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀθῶον (Sixtine/Brenton).",
-          "word_index": 7,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "inflection or spelling (same stem)",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "αθωονι",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        },
         {
           "slot_index": 14,
           "lemma": "om.",
@@ -989,6 +958,17 @@
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
         },
         {
+          "slot_index": 7,
+          "kept_form": "ἀθῷον·",
+          "disregarded_forms": [
+            "ἀθῶον·"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)"
+        },
+        {
           "slot_index": 11,
           "kept_form": "κυρίου",
           "disregarded_forms": [
@@ -1022,12 +1002,12 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀθῷον' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀθῶον (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἐξηγάγομεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξήψαμεν (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).",
+      "rationale": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἐξηγάγομεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξήψαμεν (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -2245,7 +2225,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'ὁ οἰκοδομήσας τότε τὸ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οἰκοδομήσας τό τε (Sixtine/Brenton).",
+          "note": "[Variation unit spanning several words] Adopted 'ὁ οἰκοδομήσας τότε τὸ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οἰκοδομήσας τό τε (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 26,
           "word_count": 4,
           "kind": "word",
@@ -2494,7 +2474,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'πατέρες οἵ τε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τότε (Sixtine/Brenton).",
+          "note": "[Variation unit spanning several words] Adopted 'πατέρες οἵ τε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τότε (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 9,
           "word_count": 3,
           "kind": "word",
@@ -2929,7 +2909,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'ὅ τε ἥλιος ἀνέλαμψεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὅτε ἥλιος ἀνέλαμψε πρότερον (Sixtine/Brenton).",
+          "note": "[Variation unit spanning several words] Adopted 'ὅ τε ἥλιος ἀνέλαμψεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὅτε ἥλιος ἀνέλαμψε πρότερον (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 6,
           "word_count": 4,
           "kind": "word",
