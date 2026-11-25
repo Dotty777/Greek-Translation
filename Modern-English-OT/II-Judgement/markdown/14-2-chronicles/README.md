@@ -30,7 +30,7 @@
 - [Chapter 22](chapter-22.md) — 12 verses, 6 notes
 - [Chapter 23](chapter-23.md) — 21 verses, 5 notes
 - [Chapter 24](chapter-24.md) — 27 verses, 6 notes
-- [Chapter 25](chapter-25.md) — 28 verses, 5 notes
+- [Chapter 25](chapter-25.md) — 28 verses, 6 notes
 - [Chapter 26](chapter-26.md) — 23 verses, 6 notes
 - [Chapter 27](chapter-27.md) — 8 verses, 4 notes
 - [Chapter 28](chapter-28.md) — 27 verses, 6 notes

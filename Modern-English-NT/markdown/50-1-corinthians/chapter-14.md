@@ -1,6 +1,6 @@
 # 1 Corinthians 14 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Corinthians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -77,7 +77,7 @@
 
 **14:36** Or did the word of God go out from you, or did it reach you alone?
 
-**14:37** If anyone thinks he is a prophet or spiritual, let him recognize that the things I am writing to you are the Lord's: a command.
+**14:37** If anyone thinks he is a prophet or spiritual, let him recognize that the things I am writing to you are a command of the Lord.
 
 **14:38** But if anyone is ignorant, let him remain ignorant.
 
@@ -87,8 +87,9 @@
 
 ## Translator Notes
 
+- **14:2** — Greek anarthrous πνεύματι may refer either to the speaker's human spirit ("in spirit," cf. 14:14) or to the Holy Spirit ("by the Spirit").
 - **14:12** — Greek πνευμάτων literally means 'spirits,' referring in this context to spiritual gifts or manifestations.
 - **14:33** — The punctuation places verses 32-33a in parentheses, connecting 'as in all the churches of the saints' to verse 31; many editions and interpreters instead attach that clause to the beginning of verse 34.
 - **14:34** — Some Western manuscripts place verses 34-35 after verse 40 rather than here, a variation widely discussed in textual criticism.
-- **14:37** — The Greek text reads singular ἐντολή ('a command') following κυρίου ἐστίν ('are the Lord's'); other manuscripts read plural ἐντολαί ('commands') or omit the word.
+- **14:37** — The Greek text reads singular ἐντολή ('a command') in the predicate clause κυρίου ἐστίν ἐντολή ('are a command of the Lord'); other manuscripts read plural ἐντολαί ('commands') or omit the noun.
 - **14:38** — The Greek text reads the active imperative ἀγνοείτω ('let him remain ignorant'); other manuscripts read the passive indicative ἀγνοεῖται ('he is not recognized').

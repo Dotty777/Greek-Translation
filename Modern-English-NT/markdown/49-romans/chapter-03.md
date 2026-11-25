@@ -1,6 +1,6 @@
 # Romans 3 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Romans`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -73,3 +73,4 @@
 - **3:9** — The Greek verb προεχόμεθα is debated: taken as a middle it asks "Are we at an advantage?" (or "Do we make excuses?"), whereas as a passive it asks "Are we at a disadvantage?" Similarly, οὐ πάντως can mean "Not at all" or "Not entirely."
 - **3:22** — The Greek genitive phrase πίστεως Ἰησοῦ Χριστοῦ can be taken either objectively as "faith in Jesus Christ" or subjectively as "the faithfulness of Jesus Christ"; the same ambiguity recurs in 3:26.
 - **3:25** — The Greek term ἱλαστήριον denotes a means of propitiation or atoning sacrifice, and in the Septuagint it specifically designates the mercy seat (atonement cover) on the ark of the covenant (Exod 25:17).
+- **3:26** — The Greek genitive phrase πίστεως Ἰησοῦ can be taken either objectively as "faith in Jesus" or subjectively as "the faithfulness of Jesus" (compare 3:22).

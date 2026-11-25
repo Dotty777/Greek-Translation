@@ -1,6 +1,6 @@
 # 1 Kings 8 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (64 verses, 10 translator notes)  
+> **Status:** `draft: true` (64 verses, 11 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -131,7 +131,7 @@
 
 **8:65** And Solomon held the feast on that day, and all Israel with him, a great assembly from the entrance of Hamath to the river of Egypt, before the Lord our God in the house which he built, eating and drinking and rejoicing before the Lord our God for seven days.
 
-**8:66** And on the eighth day he sent the people away, and he blessed them, and each one went away to his tents rejoicing, and their heart was glad over the good things which the Lord had done for David His servant and for Israel His people.
+**8:66** And on the eighth day he sent the people away, and he blessed them, and each one went away to his tents rejoicing, and their heart was good over the good things which the Lord had done for David His servant and for Israel His people.
 
 ## Translator Notes
 
@@ -145,3 +145,4 @@
 - **8:59** — Greek shifts to second person ("Your servant Israel") and renders the closing idiom literally as "the matter of a day in the day of the year," expressing each day's need throughout the year.
 - **8:63** — The Greek text lists only twenty-two thousand oxen, omitting the one hundred twenty thousand sheep found in the Masoretic Text.
 - **8:65** — The Greek text adds "in the house which he built, eating and drinking and rejoicing before the Lord our God" and specifies seven days (omitting the additional seven days in MT); in v. 66 Greek also reads "he blessed them" rather than "they blessed the king."
+- **8:66** — Greek agathe he kardia literally reads "the heart [was] good" (echoing "the good things," tois agathois), an idiom meaning "glad" or "cheerful" (compare 2 Chr 7:10).

@@ -1,6 +1,6 @@
 # Exodus 20 — Saints Greek Critical Text
 
-**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:08:26Z`
+**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:16Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 19:1 kept in its own chapter (stronger match to its own reference verse)
@@ -316,13 +315,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐλάλησεν` over `ἐλάλησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `τούτους` over `τούτους,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λέγων` over `λέγων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλάλησεν / ἐλάλησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:2
 - *Disregarded Surface Variant:* kept `Ἐγώ` over `ἐγώ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `θεός` over `Θεός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δουλίας.` over `δουλείας.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δουλίας. / δουλείας.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Exodus 20:4
 - *Disregarded Surface Variant:* kept `εἴδωλον` over `εἴδωλον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -341,13 +338,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ζηλωτής,` over `ζηλωτὴς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τέκνα` over `τέκνα,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `μισοῦσίν` over `μισοῦσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `μισοῦσίν / μισοῦσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:6
 - *Disregarded Surface Variant:* kept `ἀγαπῶσίν` over `ἀγαπῶσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `με` over `με,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `φυλάσσουσιν` over `φυλάσσουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀγαπῶσίν / ἀγαπῶσί`, `φυλάσσουσιν / φυλάσσουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:7
 - **Apparatus:** `λήμψῃ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **λήψει** LXX-Orthodox (Οʹ)
@@ -380,7 +375,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `σου` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Exodus 20:11
-- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τὴν θὰλασσαν καὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
+- **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **καὶ τὴν θάλασσαν** LXX-Orthodox (Οʹ)
+- **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τὴν θὰλασσαν καὶ** Sixtine/Brenton *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἐν` over `Ἐν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -390,7 +386,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εὐλόγησεν` over `εὐλόγησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Κύριος` over `κύριος` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἑβδόμην` over `ἑβδόμην,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐποίησεν / ἐποίησε`, `κατέπαυσεν / κατέπαυσε`, `εὐλόγησεν / εὐλόγησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:12
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **σου** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -403,7 +398,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Κύριος` over `κύριος` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `θεός` over `Θεός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δίδωσίν` over `δίδωσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:13
 - *Disregarded Surface Variant:* kept `μοιχεύσεις` over `σεῖς` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -420,7 +414,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σού` over `σου` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν.` over `ἐστί.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν. / ἐστί.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:18
 - *Disregarded Surface Variant:* kept `φωνὴν` over `φωνὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -447,7 +440,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `γνόφον` over `γνόφον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `οὗ` over `οὑ` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `θεός.` over `Θεός.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἱστήκει / εἱστήκει` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Exodus 20:22
 - *Disregarded Surface Variant:* kept `Εἶπεν` over `Εἶπε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -461,7 +453,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἑωράκατε` over `ἑωράκατε,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `οὐρανοῦ λελάληκα` over `οὐρανοῦλελάληκα` (1st1K-LXX, Swete (B/A/א)) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `ὑμᾶς·` over `ὑμᾶς.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Exodus 20:23
 - **Apparatus:** `ἑαυτοῖς` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **αὑτοῖς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -480,10 +471,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Exodus 20:25
 - *Disregarded Surface Variant:* kept `ἐὰν` over `Ἐὰν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `ἐνχειρίδιόν` over `ἐγχειρίδιόν` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `ἐνχειρίδιόν` over `ἐγχειρίδιόν` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπ’`, `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτοὺς` over `αὐτοὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνχειρίδιόν / ἐγχειρίδιόν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνχειρίδιόν / ἐγχειρίδιόν`, `ἐνχειρίδιόν / ἐγχειρίδιόν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### Exodus 20:26
 - *Disregarded Surface Variant:* kept `οὐκ` over `Οὐκ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -719,7 +710,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Swete (B/A/א)`: ἐὰν δὲ θυσιαστήριον ἐκ λίθων ποιῇς μοι, οὐκ οἰκοδομήσεις αὐτοὺς τμητούς· τὸ γὰρ ἐνχειρίδιόν σου ἐπιβέβληκας ἐπ’ αὐτοὺς καὶ μεμίανται.
   - `Sixtine/Brenton`: Ἐὰν δὲ θυσιαστήριον ἐκ λίθων ποιῇς μοι, οὐκ οἰκοδομήσεις αὐτοὺς τμητούς· τὸ γὰρ ἐγχειρίδιόν σου ἐπιβέβληκας ἐπʼ αὐτοὺς, καὶ μεμίανται.
   - `LXX-Orthodox (Οʹ)`: ἐὰν δὲ θυσιαστήριον ἐκ λίθων ποιῇς μοι, οὐκ οἰκοδομήσεις αὐτοὺς τμητούς· τὸ γὰρ ἐγχειρίδιόν σου ἐπιβέβληκας ἐπ᾿ αὐτούς, καὶ μεμίανται.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type); Punctuation / spacing difference only).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type); Punctuation / spacing difference only).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** οὐκ ἀναβήσῃ ἐν ἀναβαθμίσιν ἐπὶ τὸ θυσιαστήριόν μου, ὅπως ἂν μὴ ἀποκαλύψῃς τὴν ἀσχημοσύνην σου ἐπ᾽ αὐτοῦ.

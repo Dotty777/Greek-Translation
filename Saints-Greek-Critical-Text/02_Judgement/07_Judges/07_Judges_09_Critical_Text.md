@@ -1,6 +1,6 @@
 # Judges 09 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:09:21Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:20Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,10 +28,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
+- 1st1K-LXX: Source import repair, 9:33: 'ὅσα ἀν’ εὕρῃ' → 'ὅσα ἂν εὕρῃ' (Swete prints ὅσα ἂν εὕρῃ (stray apostrophe & accent slip on unelided ἂν in OCR; corroborated by Brenton, Rahlfs, & Orthodox)). verified import repair applied. Original file unchanged.
+- Swete (B/A/א): Source import repair, 9:33: 'ὅσα ἀν’ εὕρῃ' → 'ὅσα ἂν εὕρῃ' (Swete prints ὅσα ἂν εὕρῃ (stray apostrophe & accent slip on unelided ἂν in OCR; corroborated by Brenton, Rahlfs, & Orthodox)). verified import repair applied. Original file unchanged.
 - Swete-Amicarelli: 8:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:3 kept in its own chapter (stronger match to its own reference verse)
@@ -68,6 +70,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 8:34 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:35 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 10:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 10:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 10:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 10:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 10:5 kept in its own chapter (stronger match to its own reference verse)
@@ -95,10 +98,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 8:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:17 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:20 kept in its own chapter (stronger match to its own reference verse)
@@ -114,9 +119,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 8:30 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:31 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:32 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:33 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:34 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:35 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 10:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 10:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 10:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 10:5 kept in its own chapter (stronger match to its own reference verse)
@@ -132,6 +139,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 10:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 10:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 10:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 10:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:3 kept in its own chapter (stronger match to its own reference verse)
@@ -143,10 +151,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 8:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:20 kept in its own chapter (stronger match to its own reference verse)
@@ -162,9 +172,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 8:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:31 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:32 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:33 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:34 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:35 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 10:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 10:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 10:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 10:5 kept in its own chapter (stronger match to its own reference verse)
@@ -180,6 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 10:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 10:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 10:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 10:18 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 8:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 8:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 8:3 kept in its own chapter (stronger match to its own reference verse)
@@ -270,7 +283,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **30** καὶ ἤκουσεν Ζεβοὺλ ἄρχων τῆς πόλεως τοὺς λόγους Γάλααδ υἱοῦ Ἰώβηλ, καὶ ὠργίσθη θυμῷ αὐτός.
 **31** καὶ ἀπέστειλεν ἀγγέλους πρὸς Ἀβειμέλεχ ἐν κρυφῇ λέγων Ἰδοὺ Γάλααδ υἱὸς Ἰώβηλ καὶ οἱ ἀδελφοὶ αὐτοῦ ἔρχονται εἰς Συχέμ, καὶ ἰδοὺ αὐτοὶ περικάθηνται τὴν πόλιν ἐπὶ σέ.
 **32** καὶ νῦν ἀναστὰς νυκτὸς σὺ καὶ ὁ λαὸς ὁ μετὰ σοῦ, καὶ ἐνέδρευσον ἐν τῷ ἀγρῷ·
-**33** καὶ ἔσται τὸ πρωὶ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ᾽ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν’ εὕρῃ ἡ χείρ σου.
+**33** καὶ ἔσται τὸ πρωὶ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ᾽ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν εὕρῃ ἡ χείρ σου.
 **34** καὶ ἀνέστη Ἀβειμέλεχ καὶ πᾶς ὁ λαὸς μετ᾽ αὐτοῦ νυκτός, καὶ ἐνήδρευσαν ἐπὶ Συχὲμ τέτρασιν ἀρχαῖς.
 **35** καὶ ἐξῆλθεν Γάλααδ υἱὸς Ἰώβηλ καὶ ἔστη πρὸς τῇ θύρᾳ τῆς πύλης τῆς πόλεως, καὶ ἀνέστη Ἀβειμέλεχ καὶ ὁ λαὸς ὁ μετ᾽ αὐτοῦ ἀπὸ τοῦ ἐνέδρου.
 **36** καὶ εἶδεν Γάλααδ υἱὸς Ἰώβηλ τὸν λαόν, καὶ εἶπεν πρὸς Ζεβούλ Ἰδοὺ λαὸς καταβαίνει ἀπὸ κεφαλῶν τῶν ὀρέων· καὶ εἶπεν πρὸς αὐτὸν Ζεβούλ Τὴν σκιὰν τῶν ὀρέων σὺ βλέπεις ὡς ἄνδρας.
@@ -308,8 +321,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συγγενίαν` over `συγγένειαν` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λέγων` over `λέγων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ`, `συγγενίαν / συγγένειαν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλάλησεν / ἐλάλησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:2
 - *Disregarded Surface Variant:* kept `Λαλήσατε` over `λαλήσατε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -321,7 +332,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἄνδρας,` over `ἄνδρας` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἰεροβάαλ,` over `Ἱεροβάαλ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἕνα καὶ μνήσθητε` over `τε` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ὠσὶν / ὠσὶ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:3
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -334,14 +344,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀδελφὸς` over `ἀδελφός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν,` over `ἐστι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `om.` over `καὶ ἔδωκαν αὐτῶ ἑβδομήκοντα ἀργυρίου ἐξ οἴκου Βααλβερίθ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ὠσὶν / ὠσὶ`, `ἐστιν, / ἐστι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ, / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:4
 - *Disregarded Surface Variant:* kept `καὶ ἔδωκαν αὐτῷ ἑβδομήκοντα ἀργυρίου ἐξ οἴκου Βααλβερίθ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβειμἑλεχ`, `Ἀβιμέλεχ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `δειλούς,` over `δειλοὺς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:5
 - **Apparatus:** `Ἰωαθὰν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἰωάθαμ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -353,7 +360,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀπέκτεινεν` over `ἀπέκτεινε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἰεροβάαλ` over `Ἱεροβάαλ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰεροβάαλ` over `Ἱεροβάαλ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπέκτεινεν / ἀπέκτεινε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:6
 - **Apparatus:** `Βηθμααλών` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **Βηθμααλὼ** Sixtine/Brenton *(proper-name spelling)*
@@ -362,7 +368,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Σικίμων` over `Σικίμων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐπορεύθησαν` over `ἐπορεύθησαν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:7
 - **Apparatus:** `Ἰωαθάν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἰωάθαμ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -378,8 +383,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀκούσατέ` over `ἀκούσατέ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `μου,` over `μου` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `θεός.` over `Θεός.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Γαρειζείν, / Γαριζὶν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπῆρεν / ἐπῇρε`, `ἔκλαυσεν, / ἔκλαυσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:8
 - *Disregarded Surface Variant:* kept `πορευόμενα` over `Πορευόμενα` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -460,7 +463,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰεροβάαλ` over `Ἱεροβάαλ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `μετὰ` over `μετά` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αὐτῷ` over `αὐτῶ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ, / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:17
 - *Disregarded Surface Variant:* kept `ὑμῶν καὶ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -469,17 +471,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐξ ἐναντίας` over `ἐξεναντίας,` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `ἐρύσατο` over `ἐῤῥύσατο` (Sixtine/Brenton) — *Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 - *Disregarded Surface Variant:* kept `Μαδιάμ,` over `Μαδιὰμ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξέρριψεν / ἐξέρριψε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξ ἐναντίας / ἐξεναντίας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐρύσατο / ἐρρύσατο` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐρύσατο / ἐρρύσατο`, `ἐρύσατο / ἐρρύσατο`, `ἐξέρριψεν / εξεριψεν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Judges 9:18
 - *Disregarded Surface Variant:* kept `σήμερον` over `σήμερον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐβασιλεύσατε` over `ἐβασίλευσατε` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐστιν·` over `ἐστι·` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν· / ἐστι,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:19
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -488,7 +487,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐφ᾽` over `ἐφ’`, `ἐφʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ὑμῖν.` over `ὑμῖν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `εὐφρανθείητε / εὐφρανθείη τε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ, / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:20
 - **Apparatus:** `φάγοι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **καταφάγοι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -497,6 +495,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Βηθμααλλών` Swete-Amicarelli **]** **Βηθμααλώ** Sixtine/Brenton ; **Βηθμααλὼν** LXX-Orthodox (Οʹ) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `ἐξέλθοι πῦρ ἀπὸ ἀνδρῶν Σικίμων καὶ ἐκ τοῦ οἴκου Βηθμααλλὼν καὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἐξέλθοι πῦρ ἀπὸ ἀνδρῶν Σικίμων καὶ ἐκ τοῦ οἴκου Βηθμααλὼν καὶ** LXX-Orthodox (Οʹ)
 - **Apparatus:** `Βηθμααλλὼν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Βηθμααλὼ** Sixtine/Brenton ; **Βηθμααλὼν** LXX-Orthodox (Οʹ) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
@@ -507,7 +506,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Βηθμααλλών` over `Βηθημααλλών` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the base copy is kept); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Σικίμων` over `Σικίμων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ.` over `Ἀβιμέλεχ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ`, `Ἀβειμέλεχ. / Ἀβιμέλεχ.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:21
 - **Apparatus:** `Ἰωαθὰν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἰωάθαμ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -517,11 +515,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Βαιὴρ` over `Βαιὴρ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀπὸ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:22
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβειμἑλεχ`, `Ἀβιμέλεχ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:23
 - **Apparatus:** `ἀνὰ μέσον` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἀναμέσον Ἀβιμέλεχ** Sixtine/Brenton *(lexical substitution)*
@@ -540,7 +536,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Σικίμων,` over `Σικίμων·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἄνδρες Σικίμων` over `ἄIδρ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ·` over `Ἀβιμέλεχ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ· / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:24
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **αὐτοῦ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -555,14 +550,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `αὐτῶν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτούς,` over `αὐτοὺς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀδελφούς.` over `ἀδελφοὺς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:25
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `καὶ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπ’`, `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ.` over `Ἀβιμέλεχ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ. / Ἀβιμέλεχ.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:26
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -584,7 +577,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἰσήνεγκαν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `αὐτῶν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ.` over `Ἀβιμέλεχ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἑλλουλείμ, / Ἐλλουλὶμ`, `Ἀβειμέλεχ. / Ἀβιμέλεχ.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:28
 - **Apparatus:** `Γάαδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -600,7 +592,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰεροβάαλ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Ζεβούλ,` over `Ζεβοὺλ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἐμμὼρ` over `Ἑμμὼρ` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:29
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -609,7 +600,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐρῶ` over `ἔρω` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `αὐτόν` over `αὐτὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Πλήθυνον` over `Πηλήθυνον` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:30
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -618,7 +608,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἤκουσεν` over `ἤκουσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἰώβηλ,` over `Ἰωβὴλ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἤκουσεν / ἤκουσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:31
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -631,7 +620,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰδοὺ` over `Ἴδου`, `ἰδοὺ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰώβηλ` over `Ἰωβὴλ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Συχέμ,` over `Συχὲμ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:32
 - **Apparatus:** `ἀναστὰς` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἀνάστηθι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -655,7 +643,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πόλιν,` over `πόλιν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετ’`, `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σέ,` over `σὲ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `ἀν` over `om.` (Swete-Amicarelli) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
+- *Disregarded Surface Variant:* kept `ἂν` over `om.` (Swete-Amicarelli) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `σου.` over `σου·` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
 
 ### Judges 9:34
@@ -664,7 +652,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετ’`, `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `νυκτός,` over `νυκτὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐνήδρευσαν ἐπὶ Συχὲμ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:35
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -676,7 +663,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πόλεως,` over `πόλεως·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετ’`, `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:36
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -695,7 +681,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ζεβούλ` over `Ζεβοὺλ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Τὴν` over `τὴν` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:37
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -720,8 +705,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐλάλησας` over `ἐλάλησας,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Τίς` over `τίς` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:39
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -732,7 +715,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Συχὲμ` over `Συχὲμ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `παρετάξατο` over `παρέταξατο` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ.` over `Ἀβιμέλεχ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ. / Ἀβιμέλεχ.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:40
 - **Apparatus:** `ἔπεσαν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἔπεσον** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -742,7 +724,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `προσώπου` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αὐτοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:41
 - **Apparatus:** `Γάλααδ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαὰλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -752,8 +733,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐξέβαλεν` over `ἐξέβαλε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξέβαλεν / ἐξέβαλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:42
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τὸν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -763,8 +742,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀγρὸν` over `ἀγρὸν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀνήγγειλεν` over `ἀνήγγειλε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ.` over `Ἀβιμέλεχ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀνήγγειλεν / ἀνήγγειλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ. / Ἀβιμέλεχ.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:43
 - **Apparatus:** `ὁ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -778,7 +755,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἶδεν` over `εἶδε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπ’`, `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτοὺς` over `αὐτοὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔλαβεν / ἔλαβε`, `εἶδεν / εἶδε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:44
 - *Disregarded Surface Variant:* kept `καὶ` over `κοὶ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -787,7 +763,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐξέτειναν` over `ἐξέτειναν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `πόλεως,` over `πόλεως·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀγρῷ` over `ἀγρῷ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:45
 - **Apparatus:** `καθεῖλεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -803,8 +778,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `πόλιν` over `πόλιν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀπέκτεινεν,` over `ἀπέκτεινε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπέκτεινεν, / ἀπέκτεινε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:46
 - **Apparatus:** `πύργων` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **πύργου** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -822,7 +795,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:48
 - **Apparatus:** `Ἐρμών` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **Σελμὼν** Sixtine/Brenton *(proper-name spelling)*
@@ -843,8 +815,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετ’`, `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ὃ` over `ὃ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ`, `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔκοψεν / ἔκοψε`, `ἦρεν / ᾖρε`, `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπ᾽ / ἐπὶ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Elision (κατὰ / κατ’ type)*
 
 ### Judges 9:49
@@ -856,7 +826,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ,` over `Ἀβιμέλεχ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπ’`, `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Σικίμων` over `Σικίμων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ, / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:50
 - **Apparatus:** `Βαιθηρβερὶθ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Βαιθηγβερὶθ** Sixtine/Brenton ; **Βαιθηλβερὶθ** LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -865,7 +834,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Καὶ` over `καὶ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Θήβης,` over `Θηβής,` (Swete-Amicarelli) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:51
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -881,7 +849,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῷ·` over `αὐτῷ.` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐμπρῆσαι` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ / Ἀβιμέλεχ`, `Ἀβειμέλεχ / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:53
 - **Apparatus:** `ἐπιμυλίου` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐπιμύλιον** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -893,8 +860,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ` over `Ἀβιμέλεχ` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'Ἀβειμέλεχ' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
 - *Disregarded Surface Variant:* kept `ἔκλασεν` over `ἔκλασε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔρριψεν / ἔρριψε`, `ἔκλασεν / ἔκλασε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ, / Ἀβιμέλεχ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:54
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -908,12 +873,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Γυνὴ ἀπέκτεινεν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `αὐτόν.` over `αὐτόν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀπέθανεν.` over `ἀπέθανε.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐβόησεν / ἐβόησε`, `εἴπωσιν / εἴπωσι·`, `ἀπέθανεν. / ἀπέθανε.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:55
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ·` over `Ἀβειμἑλεχ·`, `Ἀβιμέλεχ·` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ· / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Judges 9:56
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -921,8 +884,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀβειμέλεχ,` over `Ἀβιμέλεχ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `ἐποίησεν` over `ἐποίησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀβειμέλεχ, / Ἀβιμέλεχ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐποίησεν / ἐποίησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Judges 9:57
 - **Apparatus:** `Ἰωαθὰν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἰωάθαμ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -1242,10 +1203,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** καὶ ἔσται τὸ πρωὶ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ᾽ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν’ εὕρῃ ἡ χείρ σου.
+- **Critical Text:** καὶ ἔσται τὸ πρωὶ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ᾽ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν εὕρῃ ἡ χείρ σου.
   - `Swete-Amicarelli`: καὶ ἔσται τὸ πρωὶ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ᾽ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα εὕρῃ ἡ χείρ σου.
-  - `1st1K-LXX`: καὶ ἱστᾶι τὸ πρωὶ ὁμὰ τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ’ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἀν’ εὕρῃ ἡ χείρ σου·
-  - `Swete (B/A/א)`: καὶ ἱστᾶι τὸ πρωὶ ὁμὰ τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ’ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἀν’ εὕρῃ ἡ χείρ σου·
+  - `1st1K-LXX`: καὶ ἱστᾶι τὸ πρωὶ ὁμὰ τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ’ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν εὕρῃ ἡ χείρ σου·
+  - `Swete (B/A/א)`: καὶ ἱστᾶι τὸ πρωὶ ὁμὰ τῷ ἀνατεῖλαι τὸν ἥλιον ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ’ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν εὕρῃ ἡ χείρ σου·
   - `Sixtine/Brenton`: Καὶ ἔσται τοπρωῒ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον, ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν· καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετʼ αὐτοῦ ἐκπορεύονται πρὸς σὲ, καὶ ποιήσεις αὐτῷ ὅσα ἂν εὕρῃ ἡ χείρ σου.
   - `LXX-Orthodox (Οʹ)`: καὶ ἔσται τὸ πρωΐ ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον, ὀρθριεῖς καὶ ἐκτενεῖς ἐπὶ τὴν πόλιν, καὶ ἰδοὺ αὐτὸς καὶ ὁ λαὸς ὁ μετ᾿ αὐτοῦ ἐκπορεύονται πρὸς σέ, καὶ ποιήσεις αὐτῷ ὅσα ἂν εὕρῃ ἡ χείρ σου.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 10 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Punctuation / spacing difference only; Word division differs (same letters written as one word or two)).

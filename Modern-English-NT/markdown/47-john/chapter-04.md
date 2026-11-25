@@ -1,6 +1,6 @@
 # John 4 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (54 verses, 4 translator notes)  
+> **Status:** `draft: true` (54 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`John`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -116,6 +116,7 @@
 ## Translator Notes
 
 - **4:9** — Greek συγχρῶνται literally means "use together with," which may refer specifically to sharing drinking vessels in addition to broader social dealings between Jews and Samaritans.
+- **4:23** — Greek ἐν πνεύματι lacks the definite article here and in 4:24 and may refer either to human worship in the inner spirit ("in spirit") or to worship enabled by the Holy Spirit ("in the Spirit").
 - **4:26** — Greek Ἐγώ εἰμι is literally "I am"; "He" is supplied in English as the predicate implied by the context (the Messiah of v. 25).
 - **4:35** — In the Greek text, ἤδη ("Already") appears after the punctuation break at the end of v. 35 to open the sentence completed in v. 36, though some punctuation traditions attach it to v. 35 ("already white for harvest").
 - **4:48** — Both verbs ("see" and "believe") are second-person plural in Greek, showing that Jesus addresses not only the royal official individually but the wider Galilean audience as well.

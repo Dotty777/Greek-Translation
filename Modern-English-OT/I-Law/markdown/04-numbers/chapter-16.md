@@ -1,13 +1,13 @@
 # Numbers 16 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (35 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
 **16:1** And Korah, son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram, sons of Eliab, and On, son of Peleth, son of Reuben, spoke;
 
-**16:2** and they rose up before Moses, along with two hundred and fifty men of the sons of Israel, leaders of the congregation, summoned to the council, and renowned men;
+**16:2** and they rose up before Moses, along with two hundred and fifty men of the sons of Israel, leaders of the congregation, summoned to the council, and renowned men.
 
 **16:3** They banded together behind Moses and Aaron and said, "Let it be enough for you, because all the congregation, all of them, are holy, and the Lord is among them; and why do you rise up against the congregation of the Lord?"
 
@@ -74,10 +74,6 @@
 **16:34** And all Israel who were around them fled from their cry, for they were saying, "The earth might swallow us up."
 
 **16:35** And fire went out from the Lord and devoured the two hundred and fifty men who were offering the incense.
-
-## Additional Verses (Not in Saints Numbering)
-
-**16:44** *(after `16:35`)* And the Lord spoke to Moses and Aaron, saying,
 
 ## Translator Notes
 

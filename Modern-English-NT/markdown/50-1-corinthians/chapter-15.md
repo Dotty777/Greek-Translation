@@ -1,6 +1,6 @@
 # 1 Corinthians 15 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (58 verses, 4 translator notes)  
+> **Status:** `draft: true` (58 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Corinthians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -51,7 +51,7 @@
 
 **15:23** But each in his own order: Christ the firstfruits, then those who belong to Christ at His coming.
 
-**15:24** Then comes the end, when He hands over the kingdom to the God and Father, once He has abolished every rule and every authority and power.
+**15:24** Then comes the end, when He hands over the kingdom to God the Father, once He has abolished every rule and every authority and power.
 
 **15:25** For He must reign until He places all enemies under His feet.
 
@@ -126,4 +126,5 @@
 - **15:8** — The Greek term ektrōmati (with the definite article) literally denotes a miscarriage or an abnormally early birth.
 - **15:29** — The phrase "baptized on behalf of the dead" (hyper tōn nekrōn) is famously debated, with proposals ranging from vicarious baptism for deceased persons to baptism undertaken in hope of rejoining dead believers.
 - **15:44** — Greek psychikon literally means "soulish" (pertaining to the psychē, natural mortal life), contrasted with pneumatikon ("spiritual").
+- **15:45** — Greek anarthrous πνεῦμα ζῳοποιοῦν ("a life-giving spirit") is variously understood as referring to Christ's spiritual resurrection existence or to the Holy Spirit ("a life-giving Spirit").
 - **15:49** — The critical Greek text reads the hortatory subjunctive phoresōmen ("let us also bear"), supported by strong early manuscripts; other manuscripts read the future indicative phoresomen ("we will also bear"), which aligns with the predictive statements in the context.

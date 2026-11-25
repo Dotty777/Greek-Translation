@@ -33,7 +33,7 @@
 
 **9:14** that the holy city, which he had been hurrying to come and make level with the ground and build into a common burial ground, he would declare free;
 
-**9:15** and as for the Jews, whom he had resolved not even to consider worthy of burial, but to destroy along with their infants for wild beasts as food for birds, he would make all of them equal to Athenians;
+**9:15** and as for the Jews—whereas he had resolved not even to consider them worthy of burial, to destroy them along with their infants for wild beasts as food for birds—he would make all of them equal to Athenians;
 
 **9:16** and the holy temple which he had formerly plundered he would adorn with the finest votive offerings, and he would restore all the sacred vessels many times over, and he would supply from his own revenues the expenses required for the sacrifices;
 
@@ -67,6 +67,6 @@
 
 - **9:8** — The Greek text reads "presumed against the waves of the sea" (antidokon tois tes thalasses kumasin, as in Codex Alexandrinus), whereas other witnesses read "just now thought he could command the waves of the sea" (arti dokon ... epitassein).
 - **9:12** — The Greek text reads "think arrogant thoughts" (hyperephana phronein, as in Codex Alexandrinus), whereas other witnesses read "think himself equal to God" (isothea phronein).
-- **9:15** — The Greek text reads "to destroy" (ektripsai, as in Codex Alexandrinus), where other witnesses read "to cast out" (ekripsai).
+- **9:15** — The Greek text reads "whereas" (hos, rather than the relative pronoun hous, "whom") and "to destroy" (ektripsai, as in Codex Alexandrinus/Swete, where Sixtine/Brenton reads "to cast out," ekripsein).
 - **9:20** — The Greek text reads "Be well ... and your own affairs will be" (as in Codex Alexandrinus), omitting the conditional "if" and the clause "we give the greatest thanks" found in other witnesses.
 - **9:24** — The Greek text reads "should also go forth" (prosapelthe, as in Codex Alexandrinus), where other witnesses read "should be reported" (prosangelthe).

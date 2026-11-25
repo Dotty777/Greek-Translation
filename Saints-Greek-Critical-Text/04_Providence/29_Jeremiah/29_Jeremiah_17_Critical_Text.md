@@ -1,6 +1,6 @@
 # Jeremiah 17 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:22Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:40Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 16:1 kept in its own chapter (stronger match to its own reference verse)
@@ -65,6 +65,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 18:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 18:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 18:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 18:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 18:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 18:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 18:16 kept in its own chapter (stronger match to its own reference verse)
@@ -108,6 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 18:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 18:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 18:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 18:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 18:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 18:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 18:16 kept in its own chapter (stronger match to its own reference verse)
@@ -151,6 +153,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 18:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 18:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 18:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 18:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 18:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 18:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 18:16 kept in its own chapter (stronger match to its own reference verse)
@@ -267,7 +270,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Jeremiah 17:9
 - *Disregarded Surface Variant:* kept `βαθεῖα` over `Βαθεία` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἐστιν·` over `ἐστι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν· / ἐστι·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 17:10
 - *Disregarded Surface Variant:* kept `ἐγὼ` over `Ἐγὼ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -281,7 +283,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κρίσεως,` over `κρίσεως·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτόν,` over `αὐτὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐφώνησεν / ἐφώνησε`, `ἔτεκεν· / ἔτεκε·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 17:12
 - *Disregarded Surface Variant:* kept `ὑψωμένος` over `ὑψωμένος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -310,7 +311,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `μου` over `μου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `σού` over `σου` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν.` over `ἐστί.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν. / ἐστι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 17:17
 - *Disregarded Surface Variant:* kept `μὴ` over `Μὴ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -369,7 +369,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἅρμασιν` over `ἅρμασι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλήμ·` over `Ἱερουσαλήμ·` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `αἰῶνα,` over `αἰῶνα.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἅρμασιν / ἅρμασι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 17:26
 - **Apparatus:** `θυσίαν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **θυσίας** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -382,7 +381,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πεδινῆς` over `πεδινῆς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ὄρους` over `ὄρους,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `νότον` over `Νότον,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βενιαμεὶν / Βενιαμὶν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Jeremiah 17:27
 - **Apparatus:** `εἰσακούσητέ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἀκούσητέ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*

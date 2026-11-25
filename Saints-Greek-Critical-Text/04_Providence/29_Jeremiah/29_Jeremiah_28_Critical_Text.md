@@ -1,6 +1,6 @@
 # Jeremiah 28 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:26Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:41Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 27:1 kept in its own chapter (stronger match to its own reference verse)
@@ -237,11 +237,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 27:44 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 27:45 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 27:46 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 29:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 29:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 29:3 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 29:4 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 29:5 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 29:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 29:7 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -346,8 +348,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀποριφῆτε` over `ἀποῤῥιφῆτε` (Sixtine/Brenton) — *Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 - *Disregarded Surface Variant:* kept `ἐστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτὸς` over `αὐτος` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀποριφῆτε / ἀπορριφῆτε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀποριφῆτε / ἀπορριφῆτε`, `ἀποριφῆτε / ἀπορριφῆτε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Jeremiah 28:7
 - *Disregarded Surface Variant:* kept `ποτήριον` over `Ποτήριον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -362,36 +363,29 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συνετρίβη.` over `συνετρίβη·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτήν,` over `αὐτὴν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἴ πως` over `εἵ πως`, `εἴπως` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔπεσεν / ἔπεσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:9
-- **Apparatus:** `ἐξῆρεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἐξῇρεν** Sixtine/Brenton *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἰατρεύσαμεν` over `Ἰατρεύσαμεν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `ἐνκαταλίπωμεν` over `ἐγκαταλίπωμεν` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `ἐνκαταλίπωμεν` over `ἐγκαταλίπωμεν` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 - *Disregarded Surface Variant:* kept `αὐτὴν` over `αὐτὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἤγγικεν` over `ἔγγικεν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνκαταλίπωμεν / ἐγκαταλίπωμεν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `ἐξῆρεν` over `ἐξῇρεν` (Sixtine/Brenton) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνκαταλίπωμεν / ἐγκαταλίπωμεν`, `ἐνκαταλίπωμεν / ἐγκαταλίπωμεν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### Jeremiah 28:10
 - *Disregarded Surface Variant:* kept `ἐξήνεγκεν` over `Ἐξήνεγκε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `δεῦτε` over `δεῦτε,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Σειὼν` over `Σιὼν` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `θεοῦ` over `Θεοῦ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξήνεγκεν / ἐξήνεγκε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σειὼν / Σιὼν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Jeremiah 28:11
-- **Apparatus:** `ἐξολεθρεῦσαι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρεῦσαι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `παρασκευάζετε` over `Παρασκευάζετε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἤγειρεν` over `ἤγειρε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἐξολεθρεῦσαι` over `ἐξολοθρεῦσαι` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 - *Disregarded Surface Variant:* kept `αὐτήν,` over `αὐτὴν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστίν,` over `ἐστὶν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἤγειρεν / ἤγειρε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρεῦσαι / ἐξολοθρεῦσαι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Jeremiah 28:12
 - **Apparatus:** `ἐνεχείρησεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἐνεχείρισε** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -414,7 +408,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτοῦ` over `αὐτοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Πληρώσω` over `πληρώσω` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σὲ` over `σέ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ὤμοσεν / ὤμοσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:15
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Κύριος** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -425,7 +418,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἰσχύι` over `ἰσχύϊ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἐξέτεινεν` over `ἐξέτεινε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `οὐρανόν,` over `ουρανὸν,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξέτεινεν / ἐξέτεινε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:16
 - **Apparatus:** `τῷ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -437,12 +429,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `γῆς,` over `γῆς·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐποίησεν` over `ἐποίησε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἐξήγαγεν` over `ἐξήγαγε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀνήγαγεν / ἀνήγαγε`, `ἐποίησεν / ἐποίησε`, `ἐξήγαγεν / ἐξήγαγε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:17
 - *Disregarded Surface Variant:* kept `ἐματαιώθη` over `Ἐματαιώθη` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔστιν` over `ἔστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔστιν / ἔστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:18
 - *Disregarded Surface Variant:* kept `μάταιά` over `Μάταιά` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -453,7 +443,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰακώβ,` over `Ἰακὼβ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πάντα` over `πάντα,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:20
 - *Disregarded Surface Variant:* kept `διασκορπίζεις` over `Διασκορπίζεις` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -479,7 +468,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `αὐτῶν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Σειὼν` over `Σιὼν` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σειὼν / Σιὼν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Jeremiah 28:25
 - *Disregarded Surface Variant:* kept `σέ,` over `σὲ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -489,11 +477,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Jeremiah 28:26
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἔσῃ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἔσῃ' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'ἔσῃ' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `ἔσῃ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἔσῃ' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'ἔσῃ' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -513,7 +501,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `παρ᾽` over `παρʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔθνεσιν / ἔθνεσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:28
 - *Disregarded Surface Variant:* kept `ἀναβιβάσατε` over `Ἀναβιβάσατε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -529,11 +516,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐπόνεσεν,` over `ἐπόνεσε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Κυρίου` over `Κυρίου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀφανισμὸν` over `ἀφανισμὸν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπόνεσεν, / ἐπόνεσε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:30
 - *Disregarded Surface Variant:* kept `ἐξέλιπεν` over `Ἐξέλιπε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξέλιπεν / ἐξέλιπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:31
 - *Disregarded Surface Variant:* kept `διώκων` over `Διώκων` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -567,14 +552,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λεπτόν,` over `λεπτὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `κατέπιέν` over `κατέπιέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἔπλησεν` over `ἔπλησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `κατέφαγέν / κατέφαγέ`, `κατέλαβέν / κατέλαβέ`, `κατέπιέν / κατέπιέ`, `ἔπλησεν / ἔπλησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:35
 - **Apparatus:** `ἐξῶσάν με` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `ἐξῶσάν` over `Ἔξωσάν` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Σειών,` over `Σιὼν,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλήμ·` over `Ἱερουσαλήμ.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σειών, / Σιών·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Jeremiah 28:36
 - *Disregarded Surface Variant:* kept `διὰ τοῦτο` over `Διατοῦτο` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
@@ -602,10 +585,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτοὺς` over `αὐτοὺς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `καρωθῶσιν` over `καρωθῶσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αἰώνιον` over `αἰώνιον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `καρωθῶσιν / καρωθῶσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:40
 - **Apparatus:** `καὶ καταβίβασον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **καταβιβάσω** LXX-Orthodox (Οʹ)
+- **Apparatus:** `καταβίβασον` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σφαγὴν` over `σφαγὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
@@ -625,7 +608,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἃ` over `ὃ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `συναχθῶσιν` over `συναχθῶσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συναχθῶσιν / συναχθῶσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 28:50
 - *Disregarded Surface Variant:* kept `ἀνασωζόμενοι` over `Ἀνασωζόμενοι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -649,15 +631,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἡμέραι,` over `ἡμέραι` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Jeremiah 28:53
-- **Apparatus:** `ἐξολεθρεύοντες` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρεύοντες** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ὅτι` over `Ὅτι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οὐρανός,` over `οὐρανὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ὀχυρώσῃ` over `ἀχυρώσῃ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἰσχύι` over `ἰσχύϊ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `παρ᾽` over `παρʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἐξολεθρεύοντες` over `ἐξολοθρεύοντες` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 - *Disregarded Surface Variant:* kept `αὐτήν,` over `αὐτὴν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρεύοντες / ἐξολοθρεύοντες` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Jeremiah 28:54
 - *Disregarded Surface Variant:* kept `φωνὴ` over `Φωνὴ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -674,6 +655,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Jeremiah 28:57
+- **Apparatus:** `Κύριος ἀνταποδίδωσιν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **Κύριος ἀνταποδίδωσιν αὐτῷ τὴν ἀνταπόδοσιν·** LXX-Orthodox (Οʹ)
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **αὐτῷ τὴν ἀνταπόδοσιν·** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `ἀνταποδίδωσιν` over `ἀνταποδίδωσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτῆς` over `αὐτῆς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -685,13 +667,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τάδε` over `Τάδε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Κύριος` over `Κύριος,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Τεῖχος` over `τεῖχος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `ἐνπυρισθήσονται,` over `ἐμπυρισθήσονται,` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `ἐνπυρισθήσονται,` over `ἐμπυρισθήσονται,` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 - *Disregarded Surface Variant:* kept `κοπιάσουσιν` over `κοπιάσουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `κενόν,` over `κενὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνπυρισθήσονται, / ἐμπυρισθήσονται,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `κοπιάσουσιν / κοπιάσουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνπυρισθήσονται, / ἐμπυρισθήσονται,`, `ἐνπυρισθήσονται, / ἐμπυρισθήσονται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### Jeremiah 28:59
+- **Apparatus:** `Νηρείου υἱῷ Μαασαίου,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **Νηρίου, υἱοῦ Μαασαίου,** LXX-Orthodox (Οʹ)
 - **Apparatus:** `υἱῷ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **υἱοῦ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
@@ -707,6 +689,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Σεδεκίου` over `Σαδεκίου` (Swete-Amicarelli) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 
 ### Jeremiah 28:60
+- **Apparatus:** `βιβλίῳ,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **βιβλίῳ ἑνί,** LXX-Orthodox (Οʹ)
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἑνί,** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἰερεμίας` over `Ἱερεμίας` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -717,12 +700,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ὅταν` over `ὅταν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Jeremiah 28:62
-- **Apparatus:** `ἐξολεθρεῦσαι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρεῦσαι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἐρεῖς` over `ἐρεῖς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `τοῦτον` over `τοῦτον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `ἐξολεθρεῦσαι` over `ἐξολοθρεῦσαι` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 - *Disregarded Surface Variant:* kept `αὐτὸν` over `αὐτὸν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρεῦσαι / ἐξολοθρεῦσαι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Jeremiah 28:63
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -815,15 +797,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: καὶ ἄφνω ἔπεσε Βαβυλὼν καὶ συνετρίβη· θρηνεῖτε αὐτήν, λάβετε ρητίνην τῇ διαφθορᾷ αὐτῆς, εἴ πως ἰαθήσεται.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only; Word division differs (same letters written as one word or two)).
 
-### Verse 9 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἰατρεύσαμεν τὴν Βαβυλῶνα, καὶ οὐκ ἰάθη· ἐνκαταλίπωμεν αὐτὴν καὶ ἀπέλθωμεν ἕκαστος εἰς τὴν γῆν αὐτοῦ, ὅτι ἤγγικεν εἰς οὐρανὸν τὸ κρίμα αὐτῆς, ἐξῆρεν ἕως τῶν ἄστρων.
   - `Swete-Amicarelli`: ἰατρεύσαμεν τὴν Βαβυλῶνα, καὶ οὐκ ἰάθη· ἐνκαταλίπωμεν αὐτὴν καὶ ἀπέλθωμεν ἕκαστος εἰς τὴν γῆν αὐτοῦ, ὅτι ἤγγικεν εἰς οὐρανὸν τὸ κρίμα αὐτῆς, ἐξῆρεν ἕως τῶν ἄστρων.
   - `1st1K-LXX`: ἰατρεύσαμεν τὴν Βαβυλῶνα, καὶ οὐκ ἰάθη· ἐνκαταλίπωμεν αὐτὴν καὶ ἀπέλθωμεν ἕκαστος εἰς τὴν γῆν αὐτοῦ, ὅτι ἔγγικεν εἰς οὐρανὸν τὸ κρίμα αὐτῆς, ἐξῆρεν ἕως τῶν ἄστρων.
   - `Swete (B/A/א)`: ἰατρεύσαμεν τὴν Βαβυλῶνα, καὶ οὐκ ἰάθη· ἐνκαταλίπωμεν αὐτὴν καὶ ἀπέλθωμεν ἕκαστος εἰς τὴν γῆν αὐτοῦ, ὅτι ἔγγικεν εἰς οὐρανὸν τὸ κρίμα αὐτῆς, ἐξῆρεν ἕως τῶν ἄστρων.
   - `Sixtine/Brenton`: Ἰατρεύσαμεν τὴν Βαβυλῶνα, καὶ οὐκ ἰάθη· ἐγκαταλίπωμεν αὐτὴν, καὶ ἀπέλθωμεν ἕκαστος εἰς τὴν γῆν αὐτοῦ, ὅτι ἤγγικεν εἰς οὐρανὸν τὸ κρίμα αὐτῆς, ἐξῇρεν ἕως τῶν ἄστρων.
   - `LXX-Orthodox (Οʹ)`: ἰατρεύσαμεν τὴν Βαβυλῶνα, καὶ οὐκ ἰάθη· ἐγκαταλίπωμεν αὐτὴν καὶ ἀπέλθωμεν ἕκαστος εἰς τὴν γῆν αὐτοῦ, ὅτι ἤγγικεν εἰς οὐρανὸν τὸ κρίμα αὐτῆς, ἐξῇρεν ἕως τῶν ἄστρων.
-- **Philological Rationale:** [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἐξῆρεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξῇρεν (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω); Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type); Punctuation / spacing difference only).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐξήνεγκεν Κύριος τὸ κρίμα αὐτοῦ· δεῦτε καὶ ἀναγγείλωμεν ἐν Σειὼν τὰ ἔργα Κυρίου τοῦ θεοῦ ἡμῶν.
@@ -834,15 +815,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ἐξήνεγκε Κύριος τὸ κρίμα αὐτοῦ· δεῦτε καὶ ἀναγγείλωμεν ἐν Σιὼν τὰ ἔργα Κυρίου τοῦ Θεοῦ ἡμῶν.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
-### Verse 11 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** παρασκευάζετε τὰ τοξεύματα, πληροῦτε τὰς φαρέτρας· ἤγειρεν Κύριος τὸ πνεῦμα βασιλέως Μήδων, ὅτι εἰς Βαβυλῶνα ἡ ὀργὴ αὐτοῦ τοῦ ἐξολεθρεῦσαι αὐτήν, ὅτι ἐκδίκησις Κυρίου ἐστίν, ἐκδίκησις λαοῦ αὐτοῦ ἐστιν.
   - `Swete-Amicarelli`: παρασκευάζετε τὰ τοξεύματα, πληροῦτε τὰς φαρέτρας· ἤγειρεν Κύριος τὸ πνεῦμα βασιλέως Μήδων, ὅτι εἰς Βαβυλῶνα ἡ ὀργὴ αὐτοῦ τοῦ ἐξολεθρεῦσαι αὐτήν, ὅτι ἐκδίκησις Κυρίου ἐστίν, ἐκδίκησις λαοῦ αὐτοῦ ἐστιν.
   - `1st1K-LXX`: παρασκευάζετε τὰ τοξεύματα, πληροῦτε τὰς φαρέτρας· ἤγειρεν Κύριος τὸ πνεῦμα βασιλέως Μήδων, ὅτι εἰς Βαβυλῶνα ἡ ὀργὴ αὐτοῦ τοῦ ἐξολεθρεῦσαι αὐτήν, ὅτι ἐκδίκησις Κυρίου ἐστίν, ἐκδίκησις λαοῦ αὐτοῦ ἐστιν.
   - `Swete (B/A/א)`: παρασκευάζετε τὰ τοξεύματα, πληροῦτε τὰς φαρέτρας· ἤγειρεν Κύριος τὸ πνεῦμα βασιλέως Μήδων, ὅτι εἰς Βαβυλῶνα ἡ ὀργὴ αὐτοῦ τοῦ ἐξολεθρεῦσαι αὐτήν, ὅτι ἐκδίκησις Κυρίου ἐστίν, ἐκδίκησις λαοῦ αὐτοῦ ἐστιν.
   - `Sixtine/Brenton`: Παρασκευάζετε τὰ τοξεύματα, πληροῦτε τὰς φαρέτρας· ἤγειρε Κύριος τὸ πνεῦμα βασιλέως Μήδων, ὅτι εἰς Βαβυλῶνα ἡ ὀργὴ αὐτοῦ, τοῦ ἐξολοθρεῦσαι αὐτὴν, ὅτι ἐκδίκησις Κυρίου ἐστὶν, ἐκδίκησις λαοῦ αὐτοῦ ἐστιν.
   - `LXX-Orthodox (Οʹ)`: παρασκευάζετε τὰ τοξεύματα, πληροῦτε τὰς φαρέτρας. ἤγειρε Κύριος τὸ πνεῦμα βασιλέως Μήδων, ὅτι εἰς Βαβυλῶνα ἡ ὀργὴ αὐτοῦ τοῦ ἐξολοθρεῦσαι αὐτήν, ὅτι ἐκδίκησις Κυρίου ἐστίν, ἐκδίκησις λαοῦ αὐτοῦ ἐστιν.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρεῦσαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρεῦσαι (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type); Punctuation / spacing difference only).
 
 ### Verse 12 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐπὶ τειχέων Βαβυλῶνος ἄρατε σημεῖον, ἐπιστήσατε φαρέτρας, ἐγείρατε φυλακάς, ἑτοιμάσατε ὅπλα, ὅτι ἐνεχείρησεν· καὶ ποιήσει Κύριος ἃ ἐλάλησεν ἐπὶ τοὺς κατοικοῦντας Βαβυλῶνα,
@@ -976,7 +956,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ἰδοὺ ἐγὼ πρός σε, τὸ ὄρος τὸ διεφθαρμένον, τὸ διαφθεῖρον πᾶσαν τὴν γῆν, καὶ ἐκτενῶ τὴν χεῖρά μου ἐπὶ σὲ καὶ κατακυλιῶ σε ἐπὶ τῶν πετρῶν καὶ δώσω σε ὡς ὄρος ἐμπεπυρισμένον·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
-### Verse 26 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 26 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ οὐ μὴ λάβωσιν ἀπὸ σοῦ λίθον εἰς γωνίαν καὶ λίθον εἰς θεμέλιον, ὅτι εἰς ἀφανισμὸν εἰς τὸν αἰῶνα ἔσῃ, λέγει Κύριος.
   - `Swete-Amicarelli`: καὶ οὐ μὴ λάβωσιν ἀπὸ σοῦ λίθον εἰς γωνίαν καὶ λίθον εἰς θεμέλιον, ὅτι εἰς ἀφανισμὸν εἰς τὸν αἰῶνα ἔσῃ, λέγει Κύριος.
   - `1st1K-LXX`: καὶ οὐ μὴ λάβωσιν ἀπὸ σοῦ λίθον εἰς γωνίαν καὶ λίθον εἰς θεμέλιον, ὅτι εἰς ἀφανισμὸν εἰς τὸν αἰῶνα ἔσῃ, λέγει Κύριος.
@@ -984,7 +964,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Καὶ οὐ μὴ λάβωσιν ἀπὸ σοῦ λίθον εἰς γωνίαν, καὶ λίθον εἰς θεμέλιον, ὅτι εἰς ἀφανισμὸν ἔσῃ εἰς τὸν αἰῶνα, λέγει Κύριος.
   - `LXX-Orthodox (Οʹ)`: καὶ οὐ μὴ λάβωσιν ἀπὸ σοῦ λίθον εἰς γωνίαν καὶ λίθον εἰς θεμέλιον, ὅτι εἰς ἀφανισμὸν ἔσῃ εἰς τὸν αἰῶνα, λέγει Κύριος.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἔσῃ (Sixtine/Brenton). [Omission in some witnesses] Adopted 'ἔσῃ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 27 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἄρατε σημεῖον ἐπὶ τῆς γῆς, σαλπίσατε ἐν ἔθνεσιν σάλπιγγι, ἁγιάσατε ἐπ᾽ αὐτὴν ἔθνη, παραγγείλατε ἐπ᾽ αὐτήν, βασιλεῖς ἄρατε παρ᾽ ἐμοῦ, καὶ τοῖς Ἀσχαναζέοις· ἐπιστήσατε ἐπ᾽ αὐτὴν βελοστάσεις, ἀναβιβάσατε ἐπ᾽ αὐτὴν ἵππον ὡς ἀκρίδων πλῆθος.
@@ -1190,15 +1170,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἔρχονται (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 53 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 53 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ὅτι ἐὰν ἀναβῇ Βαβυλὼν ὡς ὁ οὐρανός, καὶ ὅτι ἐὰν ὀχυρώσῃ τὰ τείχη ἰσχύι αὐτῆς, παρ᾽ ἐμοῦ ἥξουσιν ἐξολεθρεύοντες αὐτήν, λέγει Κύριος.
   - `Swete-Amicarelli`: ὅτι ἐὰν ἀναβῇ Βαβυλὼν ὡς ὁ οὐρανός, καὶ ὅτι ἐὰν ὀχυρώσῃ τὰ τείχη ἰσχύι αὐτῆς, παρ᾽ ἐμοῦ ἥξουσιν ἐξολεθρεύοντες αὐτήν, λέγει Κύριος.
   - `1st1K-LXX`: ὅτι ἐὰν ἀναβῇ Βαβυλὼν ὡς ὁ οὐρανός, καὶ ὅτι ἐὰν ἀχυρώσῃ τὰ τείχη ἰσχύι αὐτῆς, παρʼ ἐμοῦ ἥξουσιν ἐξολεθρεύοντες αὐτήν, λέγει Κύριος.
   - `Swete (B/A/א)`: ὅτι ἐὰν ἀναβῇ Βαβυλὼν ὡς ὁ οὐρανός, καὶ ὅτι ἐὰν ἀχυρώσῃ τὰ τείχη ἰσχύι αὐτῆς, παρʼ ἐμοῦ ἥξουσιν ἐξολεθρεύοντες αὐτήν, λέγει Κύριος.
   - `Sixtine/Brenton`: Ὅτι ἐὰν ἀναβῇ Βαβυλὼν ὡς ὁ οὐρανὸς, καὶ ὅτι ἐὰν ὀχυρώσῃ τὰ τείχη ἰσχύϊ αὐτῆς, παρʼ ἐμοῦ ἥξουσιν ἐξολοθρεύοντες αὐτὴν, λέγει Κύριος.
   - `LXX-Orthodox (Οʹ)`: ὅτι ἐὰν ἀναβῇ Βαβυλὼν ὡς ὁ οὐρανὸς καὶ ὅτι ἐὰν ὀχυρώσῃ τὰ τείχῃ ἰσχύϊ αὐτῆς, παρ' ἐμοῦ ἥξουσιν ἐξολοθρεύοντες αὐτήν, λέγει Κύριος.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρεύοντες' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρεύοντες (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 7 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type); Punctuation / spacing difference only).
 
 ### Verse 54 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** φωνὴ κραυγῆς ἐν Βαβυλῶνι, καὶ συντριβὴ μεγάλη ἐν γῇ Χαλδαίων,
@@ -1244,7 +1223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Swete (B/A/א)`: τάδε λέγει Κύριος Τεῖχος Βαβυλῶνος ἐπλατύνθη, κατασκαπτόμενον κατασκαφήσεται, καὶ αἱ πύλαι αὐτῆς αἱ ὑψηλαὶ ἐνπυρισθήσονται, καὶ οὐ κοπιάσουσιν λαοὶ εἰς κενόν, καὶ ἔθνη ἐν ἀρχῇ ἐκλείψουσιν.
   - `Sixtine/Brenton`: Τάδε λέγει Κύριος, τεῖχος Βαβυλῶνος ἐπλατύνθη, κατασκαπτόμενον κατασκαφήσεται, καὶ αἱ πύλαι αὐτῆς αἱ ὑψηλαὶ ἐμπυρισθήσονται, καὶ οὐ κοπιάσουσι λαοὶ εἰς κενὸν, καὶ ἔθνη ἐν ἀρχῇ ἐκλείψουσιν.
   - `LXX-Orthodox (Οʹ)`: τάδε λέγει Κύριος· τεῖχος Βαβυλῶνος ἐπλατύνθη, κατασκαπτόμενον κατασκαφήσεται, καὶ αἱ πύλαι αὐτῆς αἱ ὑψηλαὶ ἐμπυρισθήσονται, καὶ οὐ κοπιάσουσι λαοὶ εἰς κενόν, καὶ ἔθνη ἐν ἀρχῇ ἐκλείψουσιν.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type); Punctuation / spacing difference only).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type); Punctuation / spacing difference only).
 
 ### Verse 59 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ὁ λόγος ὃν ἐνετείλατο Κύριος Ἰερεμίᾳ τῷ προφήτῃ εἰπεῖν τῷ Σαραίᾳ υἱῷ Νηρείου υἱῷ Μαασαίου, ὅτε ἐπορεύετο παρὰ Σεδεκίου βασιλέως Ἰούδα εἰς Βαβυλῶνα, ἐν τῷ ἔτει τῷ τετάρτῳ τῆς βασιλείας αὐτοῦ· καὶ Σαραίας ἄρχων δώρων.
@@ -1274,15 +1253,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπεν Ἱερεμίας πρὸς Σαραίαν· ὅταν ἔλθῃς εἰς Βαβυλῶνα, καὶ ὄψῃ καὶ ἀναγνώσῃ πάντας τοὺς λόγους τούτους
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
-### Verse 62 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 62 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἐρεῖς Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον τοῦ ἐξολεθρεῦσαι αὐτὸν καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
   - `Swete-Amicarelli`: καὶ ἐρεῖς Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον τοῦ ἐξολεθρεῦσαι αὐτὸν καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
   - `1st1K-LXX`: καὶ ἐρεῖς Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον τοῦ ἐξολεθρεῦσαι αὐτὸν καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
   - `Swete (B/A/א)`: καὶ ἐρεῖς Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον τοῦ ἐξολεθρεῦσαι αὐτὸν καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
   - `Sixtine/Brenton`: καὶ ἐρεῖς, Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον, τοῦ ἐξολοθρεῦσαι αὐτὸν, καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
   - `LXX-Orthodox (Οʹ)`: καὶ ἐρεῖς· Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον τοῦ ἐξολοθρεῦσαι αὐτὸν καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρεῦσαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρεῦσαι (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type); Punctuation / spacing difference only).
 
 ### Verse 63 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἔσται ὅταν παύσῃ τοῦ ἀναγινώσκειν τὸ βιβλίον τοῦτο, καὶ ἐπιδήσεις ἐπ᾽ αὐτὸ λίθον καὶ ῥίψεις αὐτὸ εἰς μέσον τοῦ Εὐφράτου,

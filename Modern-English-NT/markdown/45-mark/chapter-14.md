@@ -47,7 +47,7 @@
 
 **14:21** For the Son of Man goes just as it has been written concerning Him, yet woe to that man through whom the Son of Man is handed over! It would have been good for him if that man had not been born."
 
-**14:22** And while they were eating, He took bread, and after blessing, He broke it and gave it to them, and said, "Take; this is My body."
+**14:22** And while they were eating, He took bread, and after saying a blessing, He broke it and gave it to them, and said, "Take; this is My body."
 
 **14:23** And taking a cup, after giving thanks, He gave it to them, and they all drank from it.
 

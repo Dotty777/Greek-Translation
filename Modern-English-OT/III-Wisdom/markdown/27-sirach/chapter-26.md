@@ -1,6 +1,6 @@
 # Sirach 26 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (20 verses, 4 translator notes)  
+> **Status:** `draft: true` (20 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,3 +51,4 @@
 - **26:10** — The Greek text reads the adverb adiatreptōs ('unswervingly'); some manuscripts read the dative adjective adiatreptō ('over a headstrong/shameless daughter').
 - **26:16** — The Greek text reads 'his house' (oikias autou, i.e., her husband's house), whereas some manuscripts read 'her house' (autēs).
 - **26:18** — The Greek text literally reads 'upon the breast/chest (sternois) of a steadfast woman'; many scholars suspect an early scribal or translational shift from 'heels' (pternais), which would better parallel 'feet' and 'silver base.'
+- **26:28** — Verses 26:19-27 belong to the longer Greek II (GII) expansion and are absent from the shorter Greek I (GI) uncial tradition followed here; nothing has been omitted from the adopted Greek text.

@@ -55,11 +55,11 @@
 
 **6:25** and may the Lord make His face shine upon you and have mercy on you;
 
-**6:26** may the Lord lift up His face upon you and give you peace."'
+**6:26** may the Lord lift up His face upon you and give you peace."'"
 
 ## Additional Verses (Not in Saints Numbering)
 
-**6:27** *(after `6:26`)* And they shall put My name upon the sons of Israel, and I, the Lord, will bless them."
+**6:27** *(after `6:26`)* "And they shall put My name upon the sons of Israel, and I, the Lord, will bless them."
 
 ## Translator Notes
 

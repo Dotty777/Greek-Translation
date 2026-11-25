@@ -1,6 +1,6 @@
 # Ezekiel 43 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,7 @@
 
 - **43:2** — The Greek reads "the sound of the encampment was like the sound of many redoubling" (τῆς παρεμβολῆς ... διπλασιαζόντων πολλῶν), differing notably from the Hebrew Masoretic Text's "like the sound of many waters."
 - **43:3** — The Greek reads "to anoint the city" (τοῦ χρῖσαι) and "the vision of the chariot" (τοῦ ἅρματος), where the Masoretic Text has "to destroy the city" and "visions."
+- **43:5** — Greek πνεῦμα here is anarthrous and can be rendered either "the Spirit" or "a spirit" / "a wind."
 - **43:7** — Here and in v. 9 the Greek reads "in the murders of the rulers" (ἐν τοῖς φόνοις τῶν ἡγουμένων), whereas the Masoretic Text refers to "the corpses of their kings."
 - **43:14** — The Greek renders the altar's tiers or ledges as ἱλαστήριον ("propitiatory," place of atonement) throughout vv. 14-20, and here reads "this great propitiatory below" before contrasting the small and great propitiatories.
 - **43:15** — "Ariel" (ἁριήλ/ἀριήλ) is a Greek transliteration of the Hebrew term for the altar hearth; the Greek also reads "above the horns is a cubit" rather than specifying four horns, and in v. 26 uses "fill their hands," the biblical idiom for consecration or ordination.

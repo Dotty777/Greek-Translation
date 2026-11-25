@@ -49,7 +49,7 @@
 
 **34:22** Only in this will the men become like us to dwell with us so as to be one people: by having every male among us circumcised, just as they themselves are circumcised.
 
-**34:23** And their livestock and their possessions and their four-footed animals--will they not be ours? Only let us become like them in this, and they will dwell with us."
+**34:23** And their livestock and their possessions and their four-footed animals—will they not be ours? Only let us become like them in this, and they will dwell with us."
 
 **34:24** And all those who went out of the gate of their city listened to Hamor and Shechem his son, and they were circumcised in the flesh of their foreskin, every male.
 

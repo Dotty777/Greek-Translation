@@ -19,7 +19,7 @@
 
 **2:7** I acquired male servants and female servants, and homeborn ones became mine; and also a great possession of herd and flock became mine, beyond all who were before me in Jerusalem;
 
-**2:8** I gathered for myself both silver and gold, and treasures of kings and of the regions; I provided for myself male singers and female singers, delights of the sons of men, a male cupbearer and female cupbearers;
+**2:8** I gathered for myself both silver and gold, and treasures of kings and of the regions; I provided for myself male singers and female singers, delights of the sons of men, a male cupbearer and female cupbearers.
 
 **2:9** And I grew great and increased beyond all who were before me in Jerusalem; and indeed my wisdom stood with me.
 

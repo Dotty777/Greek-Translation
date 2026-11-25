@@ -1,6 +1,6 @@
 # Jeremiah 29 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:26Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:41Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 28:1 kept in its own chapter (stronger match to its own reference verse)
@@ -93,6 +93,37 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 28:63 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 28:64 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 29:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 30:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 29:8 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:9 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:10 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:11 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:12 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:13 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:14 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:15 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:16 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:17 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:18 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:19 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:20 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:21 kept for its neighbouring chapter (matches anchor verse there)
+- Swete-Amicarelli: 29:22 kept for its neighbouring chapter (matches anchor verse there)
 - 1st1K-LXX: 28:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:3 kept in its own chapter (stronger match to its own reference verse)
@@ -154,6 +185,37 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 28:63 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:64 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 29:23 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:1 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:8 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:14 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 30:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 29:8 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:9 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:10 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:11 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:12 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:13 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:14 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:15 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:16 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:17 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:18 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:19 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:20 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:21 kept for its neighbouring chapter (matches anchor verse there)
+- 1st1K-LXX: 29:22 kept for its neighbouring chapter (matches anchor verse there)
 - Swete (B/A/א): 28:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:3 kept in its own chapter (stronger match to its own reference verse)
@@ -215,6 +277,37 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 28:63 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:64 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 29:23 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:1 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:8 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:14 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 30:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 29:8 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:9 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:10 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:11 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:12 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:13 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:14 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:15 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:16 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:17 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:18 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:19 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:20 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:21 kept for its neighbouring chapter (matches anchor verse there)
+- Swete (B/A/א): 29:22 kept for its neighbouring chapter (matches anchor verse there)
 - LXX-Orthodox (Οʹ): verse 29:7 runs into its neighbour across the anchor's division between 29:7 and 30:1; re-divided there
 - LXX-Orthodox (Οʹ): 28:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 28:2 kept in its own chapter (stronger match to its own reference verse)
@@ -277,21 +370,36 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 28:63 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 28:64 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 29:22 kept in its own chapter (stronger match to its own reference verse)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 8 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:1)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 9 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:2)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 10 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:3)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 11 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:4)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 12 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:5)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 13 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:6)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 14 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:7)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 15 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:8)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 16 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:9)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 17 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:10)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 18 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:11)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 19 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:12)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 20 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:13)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 21 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:14)
-- Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א): verse 22 left out as a versification/conversion duplicate (Sixtine/Brenton prints these words at 30:15)
+- LXX-Orthodox (Οʹ): 30:1 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:2 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:3 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:5 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:6 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:7 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:8 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:9 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:10 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:12 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 30:16 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 29:8 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:9 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:10 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:11 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:12 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:13 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:14 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:15 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:16 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:17 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:18 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:19 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:20 kept for its neighbouring chapter (matches anchor verse there)
+- LXX-Orthodox (Οʹ): 29:21 kept for its neighbouring chapter (matches anchor verse there)
 
 ---
 
@@ -334,21 +442,18 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῶν,` over `αὐτῶν` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Jeremiah 29:4
-- **Apparatus:** `ἐξολεθρεύσει` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρεύσει** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἀλλοφύλους.` over `ἀλλοφύλους·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Τύρον` over `Τύρον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Σειδῶνα` over `Σιδῶνα,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σειδῶνα / Σιδῶνα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `ἐξολεθρεύσει` over `ἐξολοθρεύσει` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρεύσει / ἐξολοθρεύσει` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Jeremiah 29:5
 - *Disregarded Surface Variant:* kept `ἥκει` over `Ἥκει` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀπερίφη` over `ἀπεῤῥίφη` (Sixtine/Brenton) — *Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 - *Disregarded Surface Variant:* kept `Ἀσκάλων` over `Ἀσκάλων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἐνακείμ.` over `Ἐνακίμ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπερίφη / ἀπερρίφη` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἐνακείμ. / Ἐνακίμ.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπερίφη / ἀπερρίφη`, `ἀπερίφη / ἀπερρίφη` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Jeremiah 29:6
 - *Disregarded Surface Variant:* kept `ἕως` over `Ἕως` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -394,15 +499,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ἀπὸ φωνῆς ὁρμῆς αὐτοῦ, ἀπὸ τῶν ὁπλῶν τῶν ποδῶν αὐτοῦ καὶ ἀπὸ σεισμοῦ τῶν ἁρμάτων αὐτοῦ, ἤχου τροχῶν αὐτοῦ οὐκ ἐπέστρεψαν πατέρες ἐφ' υἱοὺς αὐτῶν ἀπὸ ἐκλύσεως χειρῶν αὐτῶν
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Punctuation / spacing difference only).
 
-### Verse 4 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐν τῇ ἡμέρᾳ τῇ ἐπερχομένῃ τοῦ ἀπολέσαι πάντας τοὺς ἀλλοφύλους. καὶ ἀφανιῶ τὴν Τύρον καὶ τὴν Σειδῶνα καὶ πάντας τοὺς καταλοίπους τῆς βοηθείας αὐτῶν, ὅτι ἐξολεθρεύσει Κύριος τοὺς καταλοίπους τῶν νήσων.
   - `Swete-Amicarelli`: ἐν τῇ ἡμέρᾳ τῇ ἐπερχομένῃ τοῦ ἀπολέσαι πάντας τοὺς ἀλλοφύλους. καὶ ἀφανιῶ τὴν Τύρον καὶ τὴν Σειδῶνα καὶ πάντας τοὺς καταλοίπους τῆς βοηθείας αὐτῶν, ὅτι ἐξολεθρεύσει Κύριος τοὺς καταλοίπους τῶν νήσων.
   - `1st1K-LXX`: ἐν τῇ ἡμέρᾳ τῇ ἐπερχομένῃ τοῦ ἀπολέσαι πάντας τοὺς ἀλλοφύλους. καὶ ἀφανιῶ τὴν Τύρον καὶ τὴν Σειδῶνα καὶ πάντας τοὺς καταλοίπους τῆς βοηθείας αὐτῶν, ὅτι ἐξολεθρεύσει Κύριος τοὺς καταλοίπους τῶν νήσων.
   - `Swete (B/A/א)`: ἐν τῇ ἡμέρᾳ τῇ ἐπερχομένῃ τοῦ ἀπολέσαι πάντας τοὺς ἀλλοφύλους. καὶ ἀφανιῶ τὴν Τύρον καὶ τὴν Σειδῶνα καὶ πάντας τοὺς καταλοίπους τῆς βοηθείας αὐτῶν, ὅτι ἐξολεθρεύσει Κύριος τοὺς καταλοίπους τῶν νήσων.
   - `Sixtine/Brenton`: ἐν τῇ ἡμέρᾳ τῇ ἐπερχομένῃ τοῦ ἀπολέσαι πάντας τοὺς ἀλλοφύλους· καὶ ἀφανιῶ τὴν Τύρον, καὶ τὴν Σιδῶνα, καὶ πάντας τοὺς καταλοίπους τῆς βοηθείας αὐτῶν, ὅτι ἐξολοθρεύσει Κύριος τοὺς καταλοίπους τῶν νήσων.
   - `LXX-Orthodox (Οʹ)`: ἐν τῇ ἡμέρᾳ τῇ ἐπερχομένῃ τοῦ ἀπολέσαι πάντας τοὺς ἀλλοφύλους. καὶ ἀφανιῶ τὴν Τύρον καὶ τὴν Σιδῶνα καὶ πάντας τοὺς καταλοίπους τῆς βοηθείας αὐτῶν, ὅτι ἐξολοθρεύσει Κύριος τοὺς καταλοίπους τῶν νήσων.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρεύσει' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρεύσει (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type); Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἥκει φαλάκρωμα ἐπὶ Γάζαν, ἀπερίφη Ἀσκάλων καὶ οἱ κατάλοιποι Ἐνακείμ.

@@ -1,6 +1,6 @@
 # Psalms 91 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:30Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:30Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 90:1 kept in its own chapter (stronger match to its own reference verse)
@@ -69,6 +69,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 90:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 90:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 90:15 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 90:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 92:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 92:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 92:3 kept in its own chapter (stronger match to its own reference verse)
@@ -90,6 +91,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 90:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 90:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 90:15 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 90:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 92:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 92:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 92:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 92:4 kept in its own chapter (stronger match to its own reference verse)
@@ -99,6 +102,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 90:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 90:3 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 90:4 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 90:5 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 90:6 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 90:7 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 90:8 kept in its own chapter (stronger match to its own reference verse)
@@ -182,10 +186,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `ὡς` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ὡσεὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `ἐξολεθρευθῶσιν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξολοθρευθῶσιν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἐν` over `Ἐν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐξολεθρευθῶσιν` over `ἐξολοθρευθῶσιν` (Sixtine/Brenton) — *Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξολεθρευθῶσιν / ἐξολοθρευθῶσιν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type)*
 
 ### Psalms 91:9
 - **Apparatus:** `Ὕψιστος` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **¨Υψιστος** LXX-Orthodox (Οʹ)
@@ -215,6 +218,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 91:13
 - **Apparatus:** `ὡς` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ὡσεὶ** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ὡς ἡ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ὡσεὶ ἡ** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `δίκαιος` over `Δίκαιος` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `φοίνιξ` over `φοῖνιξ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `πληθυνθήσεται.` over `πληθυνθήσεται·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -304,15 +308,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ἀνὴρ ἄφρων οὐ γνώσεται, καὶ ἀσύνετος οὐ συνήσει ταῦτα.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention).
 
-### Verse 8 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 8 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐν τῷ ἀνατεῖλαι τοὺς ἁμαρτωλοὺς ὡς χόρτον, καὶ διέκυψαν πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν, ὅπως ἂν ἐξολεθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος.
   - `Swete-Amicarelli`: ἐν τῷ ἀνατεῖλαι τοὺς ἁμαρτωλοὺς ὡς χόρτον, καὶ διέκυψαν πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν, ὅπως ἂν ἐξολεθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος.
   - `1st1K-LXX`: ἐν τῷ ἀνατεῖλαι τοὺς ἁμαρτωλοὺς ὡς χόρτον, καὶ διέκυψαν πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν, ὅπως ἂν ἐξολεθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος.
   - `Swete (B/A/א)`: ἐν τῷ ἀνατεῖλαι τοὺς ἁμαρτωλοὺς ὡς χόρτον, καὶ διέκυψαν πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν, ὅπως ἂν ἐξολεθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος.
   - `Sixtine/Brenton`: Ἐν τῷ ἀνατεῖλαι τοὺς ἁμαρτωλοὺς ὡσεὶ χόρτον, καὶ διέκυψαν πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν, ὅπως ἂν ἐξολοθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος.
   - `LXX-Orthodox (Οʹ)`: ἐν τῷ ἀνατεῖλαι ἁμαρτωλοὺς ὡσεὶ χόρτον καὶ διέκυψαν πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν, ὅπως ἂν ἐξολοθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ὡς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὡσεὶ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἐξολεθρευθῶσιν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξολοθρευθῶσιν (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ὡς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὡσεὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** σὺ δὲ Ὕψιστος εἰς τὸν αἰῶνα, Κύριε.

@@ -49,7 +49,7 @@
 - [Chapter 41](chapter-41.md) — 29 verses, 5 notes
 - [Chapter 42](chapter-42.md) — 25 verses, 5 notes
 - [Chapter 43](chapter-43.md) — 28 verses, 5 notes
-- [Chapter 44](chapter-44.md) — 28 verses, 5 notes
+- [Chapter 44](chapter-44.md) — 28 verses, 6 notes
 - [Chapter 45](chapter-45.md) — 25 verses, 5 notes
 - [Chapter 46](chapter-46.md) — 13 verses, 4 notes
 - [Chapter 47](chapter-47.md) — 15 verses, 4 notes
@@ -68,7 +68,7 @@
 - [Chapter 60](chapter-60.md) — 22 verses, 5 notes
 - [Chapter 61](chapter-61.md) — 11 verses, 5 notes
 - [Chapter 62](chapter-62.md) — 12 verses, 4 notes
-- [Chapter 63](chapter-63.md) — 19 verses, 5 notes
+- [Chapter 63](chapter-63.md) — 19 verses, 6 notes
 - [Chapter 64](chapter-64.md) — 11 verses, 5 notes
 - [Chapter 65](chapter-65.md) — 25 verses, 5 notes
 - [Chapter 66](chapter-66.md) — 24 verses, 5 notes

@@ -17,7 +17,7 @@
 
 **55:6** All day long they detested my words; all their thoughts are against me for evil.
 
-**55:7** They will sojourn and hide; they themselves will watch my heel, just as I waited in my soul;
+**55:7** They will sojourn and hide; they themselves will watch my heel, just as I waited in my soul.
 
 **55:8** On account of nothing You will save them; in anger You will bring peoples down. God,
 

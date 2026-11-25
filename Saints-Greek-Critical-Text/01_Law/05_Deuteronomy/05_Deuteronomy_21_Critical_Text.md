@@ -1,6 +1,6 @@
 # Deuteronomy 21 — Saints Greek Critical Text
 
-**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:09:04Z`
+**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:19Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 20:1 kept in its own chapter (stronger match to its own reference verse)
@@ -104,6 +103,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 20:20 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 22:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:6 kept in its own chapter (stronger match to its own reference verse)
@@ -154,6 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 20:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 22:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:6 kept in its own chapter (stronger match to its own reference verse)
@@ -196,6 +197,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 20:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:13 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:14 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:15 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:16 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:17 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:18 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:19 kept in its own chapter (stronger match to its own reference verse)
@@ -270,7 +273,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `δίδωσίν` over `δίδωσί` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'δίδωσίν' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
 - *Disregarded Surface Variant:* kept `σοι` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `οἴδασιν` over `οἴδασι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί`, `οἴδασιν / οἴδασι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 21:3
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -278,12 +280,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἴργασται` over `εἴργασται,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `εἵλκυσεν` over `εἵλκυσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `λήμψεται / λήψεται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Nasal spelling (λημψ- / ληψ-)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἵλκυσεν / εἵλκυσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 21:4
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `νευροκοπήσουσιν` over `νευροκοπήσουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `νευροκοπήσουσιν / νευροκοπήσουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 21:5
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -295,8 +295,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτοῦ,` over `αὐτοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀντιλογία` over `ἀντιλογία,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἁφή·` over `ἁφή.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται, / Λευῖται,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπέλεξεν / ἐπέλεξε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 21:6
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -403,7 +401,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ὁ` over `ὁ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `οὗτος ἀπειθεῖ` over `πεῖθε` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `οἰνοφλυγεῖ·` over `οἰνοφλυγεῖ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι`, `ἀνδράσιν / ἀνδράσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 21:21
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -428,7 +425,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Κύριος` over `κύριος` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `θεός` over `Θεός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δίδωσίν` over `δίδωσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ---
 

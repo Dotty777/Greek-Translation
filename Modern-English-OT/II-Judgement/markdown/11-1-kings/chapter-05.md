@@ -1,6 +1,6 @@
 # 1 Kings 5 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,7 @@
 
 ## Translator Notes
 
+- **5:9** — Verses 5:5-8 of the standard numbering are absent at this point in the Septuagint (their material appears elsewhere in Greek 1 Kings, especially chapter 2 and chapter 4); nothing has been omitted from the Greek text.
 - **5:11** — The Greek preserves distinct forms of these names (Gaithan the Zareite, Ainan, Chalkad, and Darala) and reads singular "son of Mal," corresponding to Ethan the Ezrahite, Heman, Calcol, and Darda, sons of Mahol, in the Hebrew text.
 - **5:14** — The Greek places the account of Pharaoh's daughter and Gezer here rather than in chapters 3 and 9, names the Canaanite city Mergab, and has no separate verb for killing the Canaanite.
 - **5:15** — The Greek reads "to anoint Solomon," whereas the Hebrew text reads "because he heard that they had anointed him king."

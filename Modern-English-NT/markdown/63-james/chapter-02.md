@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **2:1** — The verb echete can be read as a question ("surely you do not hold...?") matching the Greek punctuation here, or as an imperative ("do not hold..."); "our glorious Lord Jesus Christ" is literally "our Lord Jesus Christ of glory."
+- **2:1** — The verb echete can be read as a question ("surely you do not hold...?") matching the Greek punctuation here, or as an imperative ("do not hold..."); "our glorious Lord Jesus Christ" is literally "our Lord Jesus Christ of glory." The Greek genitive phrase τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ("the faith of our Lord Jesus Christ") can be understood either objectively as "faith in our Lord Jesus Christ" or subjectively as "the faithfulness of our Lord Jesus Christ."
 - **2:14** — The Greek definite article before "faith" (he pistis) points back to the claimed, workless faith just mentioned, hence "that faith."
 - **2:18** — Commentators debate whether the hypothetical speaker's quotation ends after "I have works" (as punctuated here) or continues through the end of the verse.
 - **2:20** — The Greek creates a wordplay between ergon ("works") and arge ("useless" or "barren," literally "workless").

@@ -119,4 +119,4 @@
 - **1:16** — χάριν ἀντὶ χάριτος literally means "grace in place of grace" (ἀντί, "in place of, instead of"), often understood as one gift of grace succeeding another.
 - **1:18** — The Saints Greek Critical Text reads μονογενὴς θεός ("only-begotten God" or "the unique God"), rather than the later variant "only-begotten Son." εἰς τὸν κόλπον literally means "into the bosom/embrace," an idiom for closest intimacy, rendered "at the Father's side." ἐξηγήσατο ("explained, narrated, made known") has no explicit object in Greek; "Him" is supplied for English clarity.
 - **1:21** — John frequently uses the historical present (λέγει, "he says"; βλέπει, "he sees"; εὑρίσκει, "he finds") throughout 1:21–51. It is retained here to preserve the vividness of the Greek narrative.
-- **1:51** — Ἀμὴν ἀμήν (literally "Amen, amen") is rendered "Truly, truly." The "you" in "I tell you" and "you will see" is plural (ὑμῖν, ὄψεσθε), addressing all the disciples present.
+- **1:51** — Ἀμὴν ἀμήν (literally "Amen, amen") is rendered "Truly, truly." The "you" in "I say to you" and "you will see" is plural (ὑμῖν, ὄψεσθε), addressing all the disciples present.

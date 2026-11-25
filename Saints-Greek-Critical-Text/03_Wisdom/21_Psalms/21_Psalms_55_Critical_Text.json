@@ -7,7 +7,7 @@
   "usfm_code": "PSA",
   "chapter": 55,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:11:25Z",
+  "updated_at": "2026-11-25T00:07:30Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -135,6 +135,7 @@
     "LXX-Orthodox (Οʹ): 54:12 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 54:13 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 54:14 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 54:15 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 54:16 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 54:17 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 54:18 kept in its own chapter (stronger match to its own reference verse)",
@@ -369,18 +370,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "κατεπάτησέν / κατεπάτησέ",
-            "ἔθλιψέν / ἔθλιψέ"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Κύριε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὁ Θεὸς (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).",
@@ -434,7 +423,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 8,
           "word_count": 3,
           "kind": "word",
@@ -462,7 +451,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 16,
           "word_count": 0,
           "kind": "word",
@@ -517,7 +506,7 @@
       "id": 20155,
       "verse": 4,
       "critical_text": "φοβηθήσονται, ἐγὼ δὲ ἐπὶ σοὶ ἐλπιῶ.",
-      "confidence": 0.28,
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "φοβηθήσονται, ἐγὼ δὲ ἐπὶ σοὶ ἐλπιῶ.",
@@ -550,14 +539,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 0,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "φοβηθησονται",
-          "confidence": 0.28,
+          "confidence": 0.529,
           "credited_witnesses": []
         },
         {
@@ -587,7 +576,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'ἐλπιῶ' together form one word-order variant (Sixtine/Brenton transpose).",
+              "note": "Units 'om.', 'ἐλπιῶ' together form one word-order variant (Sixtine/Brenton transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -611,6 +600,34 @@
             }
           ],
           "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "σοὶ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "σέ.",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "σοι",
           "confidence": 0.529,
           "credited_witnesses": []
         },
@@ -641,7 +658,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'om.' and 'ἐλπιῶ' together form one word-order variant (Sixtine/Brenton transpose).",
+              "note": "Units 'om.', 'ἐλπιῶ' together form one word-order variant (Sixtine/Brenton transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -698,7 +715,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -744,13 +761,41 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 7,
           "word_count": 4,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "ολην την ημεραν εν",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ἐν",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "εν",
           "confidence": 0.99,
           "credited_witnesses": []
         }
@@ -904,13 +949,41 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 9,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "υπεμεινα",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ὑπέμεινα τῇ ψυχῇ",
+          "lemma_witnesses": [
+            "1st1K-LXX",
+            "Sixtine/Brenton",
+            "Swete (B/A/א)",
+            "Swete-Amicarelli"
+          ],
+          "variants": [
+            {
+              "reading": "ὑπέμειναν τῇ ψυχῇ",
+              "witnesses": [
+                "LXX-Orthodox (Οʹ)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "υπεμεινα τη ψυχη",
           "confidence": 0.99,
           "credited_witnesses": []
         }
@@ -970,18 +1043,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "παροικήσουσιν / παροικήσουσι",
-            "φυλάξουσιν, / φυλάξουσι,"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1368,7 +1429,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 4,
           "word_count": 1,
           "kind": "word",
@@ -1397,7 +1458,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over σου (Sixtine/Brenton).",
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over σου (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 9,
           "word_count": 0,
           "kind": "word",
@@ -1533,7 +1594,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 13,
           "word_count": 2,
           "kind": "word",
@@ -1561,7 +1622,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 16,
           "word_count": 2,
           "kind": "word",
@@ -1610,7 +1671,9 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
-            "ἐρύσω / ἐρρύσω"
+            "ἐρύσω / ἐρρύσω",
+            "ἐρύσω / ἐρρύσω",
+            "ἐρύσω / ερρυϲω"
           ],
           "witnesses": [
             "LXX-Orthodox (Οʹ)"

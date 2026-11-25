@@ -29,7 +29,7 @@
 
 ## Translator Notes
 
-- **6:1** — "Concerning the eighth" (hyper tes ogdoes) translates the Hebrew musical term al-hasheminith, likely referring to an eight-stringed instrument or a lower pitch register.
+- **6:1** — "Concerning the eighth" (hyper tes ogdoes) translates the Hebrew musical term al-hasheminith, likely referring to an eight-stringed instrument or a lower pitch register. Greek dative τῷ Δαυίδ (rendered "for David") is multi-valent and can also mean "of/by David" or "pertaining to David" (see note on 3:1).
 - **6:6** — "Hades" is the Septuagint's Greek rendering of Hebrew Sheol, the realm of the dead. "Give thanks to You" translates exomologesetai soi, which carries the sense of open acknowledgment, praise, or confession.
 - **6:8** — The Greek reads "because of wrath" (apo thymou, echoing 6:2) rather than Hebrew "grief," and shifts to first-person singular "I have grown old among all my enemies" where the Hebrew keeps "my eye" as the subject.
 - **6:11** — All four verbs in the Greek are aorist passive optatives expressing a wish ("May..."), and the Greek repeats sphodra ("greatly") before dia tachous ("swiftly").

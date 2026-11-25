@@ -1,6 +1,6 @@
 # Jeremiah 44 — Saints Greek Critical Text
 
-**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:12:30Z`
+**Division:** `04_Providence` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:41Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 43:1 kept in its own chapter (stronger match to its own reference verse)
@@ -42,6 +42,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 43:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 43:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 43:14 kept in its own chapter (stronger match to its own reference verse)
@@ -70,6 +71,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 45:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 45:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 45:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 45:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 45:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 45:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 45:11 kept in its own chapter (stronger match to its own reference verse)
@@ -100,6 +102,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 43:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 43:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:14 kept in its own chapter (stronger match to its own reference verse)
@@ -117,6 +120,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 43:26 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:27 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:28 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 43:29 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:30 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:31 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 43:32 kept in its own chapter (stronger match to its own reference verse)
@@ -127,6 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 45:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:7 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 45:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:11 kept in its own chapter (stronger match to its own reference verse)
@@ -139,6 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 45:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 45:21 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 45:24 kept in its own chapter (stronger match to its own reference verse)
@@ -156,6 +162,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 43:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 43:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:14 kept in its own chapter (stronger match to its own reference verse)
@@ -173,6 +180,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 43:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:27 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:28 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 43:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:31 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 43:32 kept in its own chapter (stronger match to its own reference verse)
@@ -183,6 +191,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 45:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:7 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 45:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:11 kept in its own chapter (stronger match to its own reference verse)
@@ -195,6 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 45:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 45:21 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 45:24 kept in its own chapter (stronger match to its own reference verse)
@@ -297,8 +307,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐβασίλευσεν` over `ἐβασίλευσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἐβασίλευσεν` over `ἐβασίλευσε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ναβουχοδονοσὸρ` over `Ναβουχοδονόσορ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐβασίλευσεν / ἐβασίλευσε`, `ἐβασίλευσεν / ἐβασίλευσε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἰωσεία / Ἰωσία` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Jeremiah 44:2
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -322,7 +330,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰερεμίας` over `Ἱερεμίας` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἦλθεν` over `ἦλθε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `διῆλθεν` over `διῆλθε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἦλθεν / ἦλθε`, `διῆλθεν / διῆλθε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:5
 - **Apparatus:** `ἐπὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἀπὸ** LXX-Orthodox (Οʹ)
@@ -343,7 +350,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰδοὺ` over `ἰδοὺ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δύναμις` over `δύναμις·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `βοήθειαν` over `βοήθειαν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:8
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -365,14 +371,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀφ᾽` over `ἀφʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Χαλδαῖοι,` over `Χαλδαῖοι·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀπέλθωσιν,` over `ἀπέλθωσι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `ἀπέλθωσιν, / ἀπέλθωσι·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:10
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `καταλειφθῶσίν` over `καταλειφθῶσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἀναστήσονται` over `ἀναστήσονται,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `καύσουσιν` over `καύσουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `καταλειφθῶσίν / καταλειφθῶσί`, `καύσουσιν / καύσουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:11
 - *Disregarded Surface Variant:* kept `Ἰερουσαλὴμ` over `Ἱερουσαλὴμ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -383,7 +387,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰερουσαλὴμ` over `Ἱερουσαλὴμ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Βενιαμεὶν` over `Βενιαμεὶν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λαοῦ.` over `λαοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βενιαμεὶν / Βενιαμὶν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Jeremiah 44:13
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -398,8 +401,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λέγων` over `λέγων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Πρὸς` over `πρὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `φεύγεις;` over `φεύγεις.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βενιαμείν, / Βενιαμίν,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `κατέλυεν / κατέλυε,`, `συνέλαβεν / συνέλαβε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:14
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -410,7 +411,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συνέλαβεν` over `συνέλαβε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Σαρουιὰ` over `Σαρουΐα` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰερεμίαν` over `Ἱερεμίαν,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε·`, `συνέλαβεν / συνέλαβε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:15
 - **Apparatus:** `Ἰωναθὰμ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἰωνάθαν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -435,7 +435,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Εἰ` over `εἰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἶπεν` over `εἶπεν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἔστιν·` over `Ἐστιν·`, `ἔστιν·` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπέστειλεν / ἀπέστειλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Jeremiah 44:18
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*

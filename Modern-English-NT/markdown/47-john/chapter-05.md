@@ -104,7 +104,7 @@
 ## Translator Notes
 
 - **5:2** — The Greek reads literally 'by the sheep' (with 'Gate' implied, cf. Neh 3:1). Early manuscripts vary on the pool's name among Bethzatha, Bethesda, and Bethsaida, and 'in Hebrew' refers here to the Semitic vernacular (Aramaic) spoken in Judea.
-- **5:3** — The critical text does not include 'waiting for the moving of the water' at the end of v. 3 or v. 4 (about an angel stirring the water); these are absent from the earliest Greek manuscripts.
+- **5:3** — The clause 'waiting for the moving of the water' at the end of v. 3 and v. 4 (about an angel stirring the water) are absent from the earliest Greek manuscripts; the Saints Greek Critical Text omits the end of v. 3 and prints v. 4 within double brackets ⟦ ⟧ (shown as an additional verse).
 - **5:27** — Here υἱὸς ἀνθρώπου lacks the definite article (the only such case in John), so it is rendered 'Son of Man' without 'the.'
 - **5:39** — The Greek verb 'eraunate' can be construed as either an indicative ('You search') or an imperative ('Search!'); the indicative fits the flow of the argument best in contrast with v. 40.
 - **5:4 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

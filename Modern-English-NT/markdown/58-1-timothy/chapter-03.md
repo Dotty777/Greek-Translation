@@ -41,4 +41,4 @@
 
 - **3:2** — Literally "a man of one woman" (μιᾶς γυναικὸς ἄνδρα), commonly understood as requiring marital fidelity; the same phrase appears for deacons in v. 12.
 - **3:11** — The Greek noun γυναῖκας ("women") lacks a possessive pronoun here and is debated as referring either to female deacons (deaconesses) or to the wives of deacons.
-- **3:16** — Textual note: the Saints Greek Critical Text reads the relative pronoun "He who" (Ὃς), whereas later manuscripts read "God" (θεός). The six parallel clauses are widely recognized as an early Christian hymn or confession.
+- **3:16** — Textual note: the Saints Greek Critical Text reads the relative pronoun "He who" (Ὃς), whereas later manuscripts read "God" (θεός). The six parallel clauses are widely recognized as an early Christian hymn or confession. The anarthrous phrase ἐν πνεύματι ("in the Spirit") may denote agency ("by the Spirit") or the spiritual realm in contrast to "in the flesh" ("in spirit," cf. 1 Pet 3:18).

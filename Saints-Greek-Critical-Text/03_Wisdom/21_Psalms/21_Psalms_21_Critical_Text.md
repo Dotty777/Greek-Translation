@@ -1,6 +1,6 @@
 # Psalms 21 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:20Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:29Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 21:11 runs into its neighbour across the anchor's division between 21:11 and 21:12; re-divided there
@@ -72,6 +72,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 22:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:4 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 22:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 22:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): verse 21:11 runs into its neighbour across the anchor's division between 21:11 and 21:12; re-divided there
 - Swete (B/A/א): 20:1 kept in its own chapter (stronger match to its own reference verse)
@@ -92,6 +93,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 22:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:4 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 22:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 22:6 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:2 kept in its own chapter (stronger match to its own reference verse)
@@ -104,6 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 20:9 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:10 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:11 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 20:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:13 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 20:14 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 22:1 kept in its own chapter (stronger match to its own reference verse)
@@ -187,7 +190,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐπὶ` over `Ἐπὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐρύσω` over `ἐῤῥύσω` (Sixtine/Brenton) — *Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 - *Disregarded Surface Variant:* kept `αὐτούς·` over `αὐτούς.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐρύσω / ἐρρύσω` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐρύσω / ἐρρύσω`, `ἐρύσω / ἐρρύσω`, `ἐρύσω / ερρυϲω` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Psalms 21:6
 - *Disregarded Surface Variant:* kept `πρὸς` over `Πρὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -220,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `μήτρας,` over `μήτρας·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `θεός` over `Θεός` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σύ·` over `σύ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπερίφην / ἐπερρίφην` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπερίφην / ἐπερρίφην`, `ἐπερίφην / ἐπερρίφην` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Psalms 21:12
 - *Disregarded Surface Variant:* kept `μὴ` over `Μὴ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -254,6 +257,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `διεμερίσαντο` over `Διεμερίσαντο` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 21:20
+- **Apparatus:** `μου,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **μου ἀπ᾿ ἐμοῦ,** LXX-Orthodox (Οʹ)
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἀπ᾿ ἐμοῦ,** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `σὺ` over `Σὺ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δέ,` over `δὲ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -286,7 +290,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀπ᾽` over `ἀπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐμοῦ,` over `ἐμοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `εἰσήκουσέν` over `εἰσήκουσέ` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `προσώχθισεν / προσώχθισε`, `ἀπέστρεψεν / ἀπέστρεψε`, `εἰσήκουσέν / εἰσήκουσέ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 21:26
 - *Disregarded Surface Variant:* kept `παρὰ` over `Παρὰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -295,7 +298,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `φάγονται` over `Φάγονται` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `αἰνέσουσιν` over `αἰνέσουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `αὐτόν·` over `αὐτὸν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `αἰνέσουσιν / αἰνέσουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 21:28
 - *Disregarded Surface Variant:* kept `μνησθήσονται` over `Μνησθήσονται` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -320,7 +322,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἀναγγελοῦσιν` over `ἀναγγελοῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `κύριος.` over `Κύριος.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀναγγελοῦσιν / ἀναγγελοῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ---
 

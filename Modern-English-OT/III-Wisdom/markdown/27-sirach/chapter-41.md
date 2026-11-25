@@ -1,6 +1,6 @@
 # Sirach 41 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (23 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (24 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,14 +51,12 @@
 
 **41:23** of repetition and of a word heard, and of revelations of hidden words;
 
-## Additional Verses (Not in Saints Numbering)
-
-**41:24** *(after `41:23`)* of repetition and of a word heard, and of revelations of hidden words; and you will be truly modest and finding favor before every person.
+**41:24** and you will be truly modest and finding favor before every person.
 
 ## Translator Notes
 
 - **41:2** — Greek apeithounti literally means 'disobedient' or 'refusing to comply,' conveying a person stubbornly or despairingly at odds with life.
 - **41:4** — Greek elegmos zoes literally means 'reproof' or 'inquiry of life,' expressing that in Hades there is no questioning or argument over the length of one's life.
 - **41:19** — The Greek literally reads 'and before the truth of God and the covenant' without naming a separate offense, either continuing from the preceding clause or reflecting an ancient translation rendering of a Hebrew clause about breaking an oath and covenant.
-- **41:23** — The Saints Greek Critical Text gives this line twice: here, and again at the opening of 41:24; both are translated as they stand.
-- **41:24 *(additional)*** — Greek deuteroseos kai logou akoes literally means 'of repetition and of a word of hearing,' a hendiadys for repeating something one has heard. This verse has no separate place in the Saints.Bible numbering, so it is shown after 41:23.
+- **41:23** — Greek deuteroseos kai logou akoes literally means 'of repetition and of a word of hearing,' a hendiadys for repeating something one has heard.
+- **41:24** — Retained in its adopted Saints Greek Critical Text position after 41:23. Across 41:18–24 the Greek critical text divides the shame catalogue into seven verses where the Saints.Bible numbering divides it into ten (41:18–27), with Greek 41:22 spanning Saints.Bible 41:24–25, Greek 41:23 corresponding to 41:26, and Greek 41:24 corresponding to 41:27.

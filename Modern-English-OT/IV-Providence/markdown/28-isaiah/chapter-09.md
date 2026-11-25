@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **9:4** — The Septuagint diverges sharply from the Hebrew here, rendering the imagery of bloody battle garments burned in fire as garments amassed by deceit that must be repaid with recompense, so that their owners wish they had been burned instead.
-- **9:5** — Whereas the Hebrew gives four compound royal titles and uses present/perfect verbs ('is born... is given'), the Septuagint uses aorists ('was born... was given') and condenses the titles into 'Messenger of Great Counsel,' followed by God's first-person promise of peace and health.
+- **9:5** — Whereas the Hebrew gives four compound royal titles and uses present/perfect verbs ('is born... is given'), the Septuagint uses aorists ('was born... was given') and condenses the titles into 'Messenger of Great Counsel,' followed by God's first-person promise of peace and health. Pronouns for the child ('His/Him' here and in v. 6) are capitalized following traditional messianic reading; Greek makes no case distinction.
 - **9:6** — 'Sabaoth' transliterates Greek σαβαώθ (from Hebrew ṣĕbāʾôt, 'of hosts/armies'), which the Septuagint of Isaiah regularly leaves untranslated.
 - **9:7** — The Septuagint reads 'death' (Θάνατον, reflecting Hebrew deber 'pestilence') where the Masoretic Text reads 'a word' (dābār).
 - **9:11** — Where the Hebrew names 'Aram' and 'the Philistines,' the Septuagint has 'Syria' and 'the Greeks,' reflecting later Hellenistic-era geopolitical identification.

@@ -1,6 +1,6 @@
 # Numbers 01 — Saints Greek Critical Text
 
-**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:08:43Z`
+**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:18Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 2:1 kept in its own chapter (stronger match to its own reference verse)
@@ -48,10 +47,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 2:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 2:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 2:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 2:25 kept in its own chapter (stronger match to its own reference verse)
@@ -80,12 +81,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 2:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:16 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 2:17 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 2:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 2:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 2:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:24 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:25 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 2:27 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:28 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:29 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 2:30 kept in its own chapter (stronger match to its own reference verse)
@@ -109,12 +115,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 2:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:16 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 2:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 2:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 2:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 2:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 2:27 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:28 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 2:30 kept in its own chapter (stronger match to its own reference verse)
@@ -229,8 +240,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τῇ σκηνῇ` over `ῇ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `δευτέρου` over `δευτέρου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λέγων` over `λέγων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλάλησεν / ἐλάλησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σεινά, / Σινά,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:2
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **αὐτῶν** Sixtine/Brenton *(omission / addition)*
@@ -244,7 +253,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `πατριῶν,` over `πατριῶν` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ὀνόματος,` over `ὀνόματος` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας, / συγγενείας,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:4
 - **Apparatus:** `καὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -264,13 +272,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `μεθ᾽` over `μεθ’`, `μεθʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ῥουβὴν` over `Ῥουβὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἐλεισοὺρ` over `Ἐλισοὺρ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἐλεισοὺρ / Ἐλισοὺρ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:6
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Συμεὼν` over `Συμεὼν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Σουρεισαδαί·` over `Σουρισαδαί.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σουρεισαδαί· / Σουρισαδαί·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:7
 - **Apparatus:** `Νασσὼν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ναασσὼν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -279,7 +285,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἰούδα` over `Ἰούδα,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀμειναδάβ·` over `Ἀμιναδάβ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀμειναδάβ· / Ἀμιναδάβ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:8
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -293,7 +298,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἐφράιμ` over `Ἐφραὶμ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἐλεισαμὰ` over `Ἐλισαμὰ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἐμιούδ,` over `Ἐμιούδ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἐλεισαμὰ / Ἐλισαμὰ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:10
 - *Disregarded Surface Variant:* kept `Μανασσὴ` over `Μανασσῆ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -306,14 +310,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Βενιαμεὶν` over `Βενιαμὶν,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἀβειδὰν` over `Ἀβιδὰν` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βενιαμεὶν Ἀβειδὰν / Βενιαμίν, Ἀβιδὰν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:12
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Δὰν` over `Δὰν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἀμεισαδαί` over `Ἀμεισαδί` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Ἀμεισαδαί` over `Ἀμισαδαΐ` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'Ἀμεισαδαί' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἀμεισαδαί· / Ἀμισαδαΐ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:13
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -326,13 +328,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Γὰδ` over `Γὰδ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἐλεισὰφ` over `Ἐλισὰφ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ῥαγουήλ·` over `Ῥαγουήλ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἐλεισὰφ / Ἐλισὰφ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:15
 - *Disregarded Surface Variant:* kept `τῶν` over `Τῶν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Νεφθαλεὶ` over `Νεφθαλὶ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἀχειρὲ` over `Ἀχιρὲ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Νεφθαλεὶ Ἀχειρὲ / Νεφθαλί, Ἀχιρὲ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:16
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **αὐτῶν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -342,14 +342,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συναγωγῆς,` over `συναγωγῆς` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `πατριάς,` over `πατριὰς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἰσιν.` over `εἰσι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἰσιν. / εἰσι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Numbers 1:17
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔλαβεν` over `ἔλαβε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἀνακληθέντας` over `ἄνα` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ὀνόματος,` over `ὀνόματος.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔλαβεν / ἔλαβε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Numbers 1:18
 - **Apparatus:** `μιᾷ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **μιιᾷ** LXX-Orthodox (Οʹ)
@@ -363,13 +361,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `συνέταξεν` over `συνέταξε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Σεινά.` over `Σινά.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συνέταξεν / συνέταξε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Numbers 1:20
 - *Disregarded Surface Variant:* kept `συγγενίας` over `συγγενείας` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:21
 - **Apparatus:** `ἐπισκοπὴ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐπίσκεψις** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -378,13 +374,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ῥουβὴν` over `Ῥουβὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσαράκοντα` (Sixtine/Brenton) — *Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 - *Disregarded Surface Variant:* kept `πεντακόσιοι.` over `φ᾽.`, `φ΄.` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Letter-numeral abbreviation matched to an attested number of the same value*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα`, `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 
 ### Numbers 1:22
 - *Disregarded Surface Variant:* kept `συγγενίας` over `συγγενείας` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:23
 - *Disregarded Surface Variant:* kept `Συμεὼν` over `Συμεὼν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -395,7 +390,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ὀνομάτων` over `ὁ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `εἰκοσαετοῦς` over `εἰκο` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:25
 - *Disregarded Surface Variant:* kept `ἐπίσκεψις` over `ἑπίσκεψις` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -406,7 +400,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰσσαχὰρ` over `Ἰσσάχαρ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:27
 - *Disregarded Surface Variant:* kept `Ἰσσαχὰρ` over `Ἰσσάχαρ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -417,7 +410,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀριθμὸν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `κατὰ / κατ'` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Elision (κατὰ / κατ’ type)*
 
 ### Numbers 1:29
@@ -428,13 +420,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συγγενίας` over `συγγενείας` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:31
 - *Disregarded Surface Variant:* kept `ἐπίσκεψις` over `ἐπίσκέψις` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἐφράιμ` over `Ἐφρόιμ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσαράκοντα` (Sixtine/Brenton) — *Number-word spelling convention (τεσσαρ- / τεσσερ-)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα`, `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 
 ### Numbers 1:32
 - *Disregarded Surface Variant:* kept `Μανασσὴ` over `ἡ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -445,7 +436,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἀρσενικὰ` over `ἀρσενικὰ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:33
 - **Apparatus:** `τριακόσιοι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **διακόσιοι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -461,31 +451,27 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βενιαμεὶν / Βενιαμὶν`, `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:35
 - *Disregarded Surface Variant:* kept `Βενιαμεὶν` over `Βενιαμὶν,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βενιαμεὶν / Βενιαμὶν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:36
 - *Disregarded Surface Variant:* kept `συγγενίας` over `αυγγενίας` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `συγγενίας` over `συγγενείας` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'συγγενίας' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:37
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `αὐτῶν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Γὰδ` over `Γὰδ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσαράκοντα` (Sixtine/Brenton) — *Number-word spelling convention (τεσσαρ- / τεσσερ-)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα`, `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 
 ### Numbers 1:38
 - *Disregarded Surface Variant:* kept `συγγενίας` over `συγγενείας` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `σὐτῶν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:39
 - *Disregarded Surface Variant:* kept `Δὰν` over `Δὰν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -497,12 +483,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πατριῶν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `πάντα` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:41
 - *Disregarded Surface Variant:* kept `Ἀσὴρ` over `Ἀσὴρ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσαράκοντα` (Sixtine/Brenton) — *Number-word spelling convention (τεσσαρ- / τεσσερ-)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα`, `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 
 ### Numbers 1:42
 - *Disregarded Surface Variant:* kept `Νεφθαλεὶ` over `Νεφθαλὶ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
@@ -510,11 +495,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κατ᾽` over `κατ’`, `κατʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `τῇ` over `τῆ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `δυνάμει·` over `δυνάμει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Νεφθαλεὶ / Νεφθαλὶ`, `συγγενίας / συγγενείας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:43
 - *Disregarded Surface Variant:* kept `Νεφθαλεὶ` over `Νεφθαλὶ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Νεφθαλεὶ / Νεφθαλὶ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:44
 - *Disregarded Surface Variant:* kept `ἐπίσκεψις` over `ἐπίσκεψις,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -533,14 +516,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Λευεῖται` over `Λευῖται` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται / Λευῖται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:48
 - *Disregarded Surface Variant:* kept `ἐλάλησεν` over `ἐλάλησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Κύριος` over `κύριος` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Μωυσῆν` over `Μωυσῆν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `λέγων` over `λέγων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλάλησεν / ἐλάλησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Numbers 1:49
 - **Apparatus:** `τὴν Λευεὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Λευὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -564,8 +545,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `σκηνὴν` over `σκηνὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτῆς,` over `αὐτῆς·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `παρεμβαλοῦσιν.` over `παρεμβαλοῦσι.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευείτας / Λευίτας` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `παρεμβαλοῦσιν. / παρεμβαλοῦσι.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Numbers 1:51
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -574,8 +553,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `σκηνὴν` over `σκηνὴν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἀναστήσουσιν·` over `ἀναστήσουσι·` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἀλλογενὴς` over `ἀλλογενῆς` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται, / Λευῖται,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀναστήσουσιν· / ἀναστήσουσι·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Numbers 1:52
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -590,7 +567,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `οἱ` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Λευεῖται` over `Λευῖται` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Λευεῖται` over `Λευῖται` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται / Λευῖται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Numbers 1:54
 - **Apparatus:** `Ἀαρών,` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **Ἀραρών,** LXX-Orthodox (Οʹ)

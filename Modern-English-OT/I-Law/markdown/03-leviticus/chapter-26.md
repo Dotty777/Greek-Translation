@@ -1,11 +1,11 @@
 # Leviticus 26 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**26:1** I am the Lord your God. You shall not make for yourselves handmade objects or carved images, nor shall you set up a pillar for yourselves, nor shall you place a lookout stone in your land to bow down to it; I am the Lord your God.
+**26:1** "I am the Lord your God. You shall not make for yourselves handmade objects or carved images, nor shall you set up a pillar for yourselves, nor shall you place a lookout stone in your land to bow down to it; I am the Lord your God.
 
 **26:2** You shall keep My Sabbaths, and you shall fear My holy places; I am the Lord.
 
@@ -95,7 +95,7 @@
 
 **26:45** And I will remember their former covenant, when I brought them out of the land of Egypt, out of the house of bondage, in the sight of the nations, to be their God; I am the Lord.
 
-**26:46** These are My judgments and My ordinances, and the law which the Lord gave between Himself and the sons of Israel on Mount Sinai by the hand of Moses.'"
+**26:46** These are My judgments and My ordinances, and the law which the Lord gave between Himself and the sons of Israel on Mount Sinai by the hand of Moses."
 
 ## Translator Notes
 
@@ -104,3 +104,4 @@
 - **26:21** — Greek plagios, repeated seven times in vv. 21-41, literally means "sideways" or "oblique," expressing contrary hostility both in Israel's walk toward God and in God's responsive "sideways wrath."
 - **26:36** — The Greek text reads doulian ("bondage/slavery," matching v. 45) rather than deilian ("faintness/cowardice," which corresponds to the Masoretic Text).
 - **26:41** — The Greek reads apolo ("I will destroy them") rather than the Masoretic Text's "I brought them," and uses eudokesousin ("accept," literally "be well pleased with") to translate Hebrew ratsah ("accept the penalty of / make amends for").
+- **26:46** — The Septuagint unanimously reads first-person possessives "My judgments and My ordinances" (ta krimata mou kai ta prostagmata mou) before shifting mid-verse into the third-person Sinai colophon ("which the Lord gave ... by the hand of Moses"), whereas the Hebrew Masoretic Text omits "My" and treats the entire verse as a third-person narrator colophon.

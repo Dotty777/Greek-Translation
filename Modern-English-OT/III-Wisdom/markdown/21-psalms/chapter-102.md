@@ -1,6 +1,6 @@
 # Psalm 102 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (22 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -48,10 +48,6 @@
 **102:21** Bless the Lord, all His powers, His ministers who carry out His desires.
 
 **102:22** Bless the Lord, all His works, in every place of His dominion; bless the Lord, my soul.
-
-## Additional Verses (Not in Saints Numbering)
-
-**102:29** *(after `102:22`)* For David.
 
 ## Translator Notes
 

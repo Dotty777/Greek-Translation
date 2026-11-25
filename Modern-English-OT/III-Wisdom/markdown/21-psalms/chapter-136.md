@@ -1,6 +1,6 @@
 # Psalm 136 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (9 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (9 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -22,10 +22,6 @@
 **136:8** Daughter of Babylon, you wretched one, blessed is the one who will repay you your repayment that you repaid to us;
 
 **136:9** blessed is the one who will seize and dash your infants against the rock.
-
-## Additional Verses (Not in Saints Numbering)
-
-**136:26** *(after `136:9`)* For David.
 
 ## Translator Notes
 

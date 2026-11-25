@@ -41,7 +41,7 @@
 
 **48:18** And Joseph said to his father, "Not so, father; for this one is the firstborn. Place your right hand upon his head."
 
-**48:19** And he was not willing, but said, "I know, child, I know. He too will become a people, and he too will be exalted; yet his younger brother will be greater than he, and his offspring will become a multitude of nations."
+**48:19** And he was not willing, but said, "I know, child, I know. He too will become a people, and he too will be exalted; yet his younger brother will be greater than he, and his seed will become a multitude of nations."
 
 **48:20** And he blessed them on that day, saying, "In you Israel will be blessed, saying, 'May God make you like Ephraim and like Manasseh.'" And he placed Ephraim before Manasseh.
 

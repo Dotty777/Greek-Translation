@@ -15,7 +15,7 @@
 
 **1:5** Your fathers, where are they? And the prophets, will they live forever?
 
-**1:6** Yet receive My words and My statutes, all that I command by My Spirit to My servants the prophets, that overtook your fathers. And they answered and said, "Just as the Lord Almighty has resolved to do to us according to our ways and according to our practices, so He did to us."'"
+**1:6** Yet receive My words and My statutes, all that I command by My Spirit to My servants the prophets, which overtook your fathers. And they answered and said, "Just as the Lord Almighty has resolved to do to us according to our ways and according to our practices, so He did to us."'"
 
 **1:7** On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year under Darius, the word of the Lord came to Zechariah the son of Berechiah, son of Iddo, the prophet, saying:
 
@@ -42,6 +42,6 @@
 ## Translator Notes
 
 - **1:3** — The Greek shifts within this verse from "the Lord Almighty" (Kyrios Pantokrator) to "the Lord of powers" (Kyrios ton dynameon), as in 7:4.
-- **1:6** — The Greek reads an imperative ("receive") and adds "by My Spirit" (en pneumati mou), whereas the Hebrew MT has a rhetorical question with no mention of the Spirit. It also reads "answered" (apekrithesan) where the MT has "repented/returned."
+- **1:6** — The Greek reads an imperative ("receive") and adds "by My Spirit" (en pneumati mou), whereas the Hebrew MT has a rhetorical question with no mention of the Spirit. The masculine plural relative pronoun hoi ("which" or "who") can refer either to "My words" (tous logous mou) or to "My servants the prophets." It also reads "answered" (apekrithesan) where the MT has "repented/returned."
 - **1:8** — The Greek reads "shady mountains" (oreon ton kataskion) where the Hebrew MT has "myrtle trees in the ravine," and lists four colors of horses rather than three.
 - **1:15** — The Greek uses the same verb twice for the nations "that join in attacking" and "joined in attacking" (synepitithemai), whereas the Hebrew MT describes them first as "at ease" and then as "furthering" disaster.

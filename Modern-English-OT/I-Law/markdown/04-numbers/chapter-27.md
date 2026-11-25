@@ -1,6 +1,6 @@
 # Numbers 27 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,9 +13,9 @@
 
 **27:4** And Moses brought their case before the Lord.
 
-**27:5** And the Lord spoke to Moses, saying,
+**27:5** And the Lord spoke to Moses,
 
-**27:6** "The daughters of Zelophehad have spoken rightly; you shall give them as a gift a possession of inheritance in the midst of their father's brothers, and you shall transfer their father's allotment to them. And you shall speak to the sons of Israel.
+**27:6** saying, "The daughters of Zelophehad have spoken rightly; you shall give them as a gift a possession of inheritance in the midst of their father's brothers, and you shall transfer their father's allotment to them.
 
 **27:7** And you shall speak to the sons of Israel,
 
@@ -54,7 +54,6 @@
 ## Translator Notes
 
 - **27:3** — The Greek text combines MT verses 3 and 4 into a single verse and frames the request as a third-person imperative prohibition ("Let the name of our father not be blotted out") rather than the Hebrew rhetorical question ("Why should the name of our father be withdrawn?").
-- **27:7** — The Saints Greek Critical Text repeats the closing clause of verse 6 ('And you shall speak to the sons of Israel') as verse 7; both are translated as they stand.
 - **27:12** — Instead of transliterating Hebrew Abarim, the Greek renders it geographically as "the mountain on the other side" and explicitly identifies it as "this Mount Nebo" (compare Deut 32:49), while also adding "of Canaan" and "as a possession."
 - **27:14** — Rather than transliterating Hebrew Meribah, the Greek translates it as "water of contention" and adds the explicit clause "you did not sanctify Me at the water before them."
 - **27:21** — The Greek renders Hebrew Urim etymologically as "the Manifestations" (Greek ton delon) and uses a plural verb ("they shall inquire of him") where the Hebrew has singular ("he shall inquire for him").

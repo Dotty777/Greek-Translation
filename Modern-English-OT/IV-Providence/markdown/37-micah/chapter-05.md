@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **5:1** — The Greek text reads 'ex hou' ('from whom' or 'out of which'), whereas other Greek manuscripts and the Hebrew text read 'out of you.'
+- **5:1** — The Greek text reads 'ex hou' ('from whom' or 'out of which'), whereas other Greek manuscripts and the Hebrew text read 'out of you.' Pronouns for the promised ruler ('He/His' here and in vv. 3, 5) are capitalized following traditional messianic reading; Greek makes no case distinction.
 - **5:3** — In the Greek text, 'will see' (opsetai) stands alongside 'will shepherd,' and 'the Lord' (Kyrios) is nominative as the subject ('the Lord will shepherd') rather than genitive ('in the strength of the Lord') as in the Hebrew.
 - **5:4** — Greek 'degmata anthropon' ('bites of men') reflects reading the Hebrew word for 'princes' (nesikei) as 'bites' (neshikei).
 - **5:6** — The Greek reads 'like lambs (arnes) upon grass' and 'so that no one may be gathered together nor stand firm,' whereas the Hebrew reads 'like showers upon grass, which do not wait for man.'

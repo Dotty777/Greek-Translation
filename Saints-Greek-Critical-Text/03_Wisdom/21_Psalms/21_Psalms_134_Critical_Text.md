@@ -1,6 +1,6 @@
 # Psalms 134 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:36Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:29Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 133:1 kept in its own chapter (stronger match to its own reference verse)
@@ -177,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 134:1
-- *Disregarded Surface Variant:* kept `Ἁλληλουιά` over `om.` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
+- *Disregarded Surface Variant:* kept `Ἁλληλουιά.` over `Ἀλληλούϊα.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Psalms 134:2
 - **Apparatus:** `οἴκῳ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **οἴκω** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -187,7 +187,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `θεοῦ` over `Θεοῦ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 134:3
-- *Disregarded Surface Variant:* kept `om.` over `Ἁλληλουιά` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `αἰνεῖτε` over `Αἰνεῖτε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `κύριον,` over `Κύριον,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `καλόν·` over `καλόν.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -212,11 +211,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 134:6
 - **Apparatus:** `ἐποίησεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'ἐποίησεν' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'ἐποίησεν', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐποίησεν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'ἐποίησεν' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'ἐποίησεν', 'om.' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **πάσαις** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -237,7 +236,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ὃς` over `Ὃς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐπάταξεν` over `ἐπάταξε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `κτήνους·` over `κτήνους.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπάταξεν / ἐπάταξε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 134:9
 - **Apparatus:** `Φαραὼ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **Φαραῷ** Sixtine/Brenton *(proper-name spelling)*
@@ -245,7 +243,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἐξαπέστειλεν` over `Ἐξαπέστειλεν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `σου,` over `σου` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξαπέστειλεν / ἐξαπέστειλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 134:10
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ὃς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -253,7 +250,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἀπέκτεινεν` over `ἀπέκτεινε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `κραταιούς,` over `κραταιούς·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπέκτεινεν / ἀπέκτεινε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 134:11
 - *Disregarded Surface Variant:* kept `Ἀμορραίων,` over `Ἀμοῤῥαίων,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -266,7 +262,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔδωκεν` over `ἔδωκε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔδωκεν / ἔδωκε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 134:13
 - **Apparatus:** `Κύριε` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **καὶ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -290,14 +285,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `στόμα` over `Στόμα` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔχουσιν` over `ἔχουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἔχουσιν` over `ἔχουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔχουσιν / ἔχουσι`, `ἔχουσιν / ἔχουσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 134:17
 - *Disregarded Surface Variant:* kept `ὦτα` over `ὧτα`, `Ὦτα` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἔχουσιν` over `ἔχουσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `οὐδὲ` over `οὐδέ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐστιν` over `ἐστι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔχουσιν / ἔχουσι`, `ἐστιν / ἐστι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Psalms 134:18
 - **Apparatus:** `πάντες` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -322,7 +315,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κύριον,` over `Κύριον,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `κύριον,` over `Κύριον` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `κύριον.` over `Κύριον.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεί, / Λευΐ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Psalms 134:21
 - *Disregarded Surface Variant:* kept `εὐλογητὸς` over `Εὐλογητὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -337,10 +329,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Ἁλληλουιά. Αἰνεῖτε τὸ ὄνομα Κυρίου, αἰνεῖτε δοῦλοι Κύριον,
   - `Swete-Amicarelli`: Ἁλληλουιά. Αἰνεῖτε τὸ ὄνομα Κυρίου, αἰνεῖτε δοῦλοι Κύριον,
   - `1st1K-LXX`: Ἁλληλουιά. Αἰνεῖτε τὸ ὄνομα Κυρίου, αἰνεῖτε δοῦλοι Κύριον,
-  - `Swete (B/A/א)`: Αἰνεῖτε τὸ ὄνομα Κυρίου, αἰνεῖτε δοῦλοι Κύριον,
+  - `Swete (B/A/א)`: Ἁλληλουιά. Αἰνεῖτε τὸ ὄνομα Κυρίου, αἰνεῖτε δοῦλοι Κύριον,
   - `Sixtine/Brenton`: Ἀλληλούϊα. Αἰνεῖτε τὸ ὄνομα Κυρίου, αἰνεῖτε δοῦλοι Κύριον,
   - `LXX-Orthodox (Οʹ)`: Ἀλληλούΐα. ΑΙΝΕΙΤΕ τὸ ὄνομα Κυρίου, αἰνεῖτε, δοῦλοι, Κύριον,
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation)).
 
 ### Verse 2 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** οἱ ἑστῶτες ἐν οἴκῳ Κυρίου, ἐν αὐλαῖς οἴκου θεοῦ ἡμῶν.
@@ -356,10 +348,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** αἰνεῖτε τὸν κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν·
   - `Swete-Amicarelli`: αἰνεῖτε τὸν κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν·
   - `1st1K-LXX`: αἰνεῖτε τὸν κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν·
-  - `Swete (B/A/א)`: Ἁλληλουιά. αἰνεῖτε τὸν κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν·
+  - `Swete (B/A/א)`: αἰνεῖτε τὸν κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν·
   - `Sixtine/Brenton`: Αἰνεῖτε τὸν Κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν.
   - `LXX-Orthodox (Οʹ)`: αἰνεῖτε τὸν Κύριον, ὅτι ἀγαθὸς Κύριος· ψάλατε τῷ ὀνόματι αὐτοῦ, ὅτι καλόν·
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Punctuation / spacing difference only).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
 ### Verse 4 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ὅτι τὸν Ἰακὼβ ἐξελέξατο ἑαυτῷ ὁ κύριος, Ἰσραὴλ εἰς περιουσιασμὸν αὐτοῦ.
@@ -381,7 +373,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ἔγνων' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐγὼ ἔγνωκα (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὁ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 6 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 6 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** πάντα ὅσα ἠθέλησεν ἐποίησεν ὁ κύριος ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ, ἐν ταῖς θαλάσσαις καὶ ἐν ταῖς ἀβύσσοις·
   - `Swete-Amicarelli`: πάντα ὅσα ἠθέλησεν ἐποίησεν ὁ κύριος ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ, ἐν ταῖς θαλάσσαις καὶ ἐν ταῖς ἀβύσσοις·
   - `1st1K-LXX`: πάντα ὅσα ἠθέλησεν ἐποίησεν ὁ κύριος ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῆ. ἐν ταῖς θαλάσσαις καὶ ἐν ταῖς ἀβύσσοις·
@@ -389,7 +381,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Πάντα ὅσα ἠθέλησεν ὁ Κύριος, ἐποίησεν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ, ἐν ταῖς θαλάσσαις καὶ ἐν πάσαις ταῖς ἀβύσσοις.
   - `LXX-Orthodox (Οʹ)`: πάντα, ὅσα ἠθέλησεν ὁ Κύριος ἐποίησεν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ, ἐν ταῖς θαλάσσαις καὶ ἐν πάσαις ταῖς ἀβύσσοις·
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'ἐποίησεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐποίησεν (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over πάσαις (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 7 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἀνάγων νεφέλας ἐξ ἐσχάτου γῆς, ἀστραπὰς εἰς ὑετὸν ἐποίησεν· ὁ ἐξάγων ἀνέμους ἐκ θησαυρῶν αὐτοῦ.

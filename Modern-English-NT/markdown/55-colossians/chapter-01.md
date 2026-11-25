@@ -1,6 +1,6 @@
 # Colossians 1 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Colossians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -68,5 +68,6 @@
 - **1:7** — Some Greek manuscripts read "on your behalf" (hyper hymon) instead of "on our behalf" (hyper hemon).
 - **1:15** — Greek prōtotokos ("firstborn") can denote priority in time or preeminence in rank.
 - **1:19** — The Greek has no separate subject for "was pleased"; "all the fullness" may be the subject, or "God" may be understood ("God was pleased for all the fullness to dwell in Him").
+- **1:20** — Greek εἰς αὐτόν ("to Him") uses a non-reflexive pronoun and can refer either to God ("to Himself") or to Christ ("to Him," echoing "for Him" in 1:16).
 - **1:22** — The Saints Greek Critical Text reads the passive "you have been reconciled" (apokatellagete), forming a parenthetical break in syntax; other manuscripts read the active "He has reconciled" (apokatellaxen).
 - **1:24** — The genitive in "the afflictions of Christ" may denote afflictions Christ Himself endured or afflictions borne for Him or in union with Him.

@@ -5,7 +5,7 @@
 
 ## Text
 
-**121:1** A song of the steps. Of David. I rejoiced over those who said to me, "We will go to the house of the Lord."
+**121:1** A song of the steps. For David. I rejoiced over those who said to me, "We will go to the house of the Lord."
 
 **121:2** Our feet were standing in the courts of Jerusalem.
 

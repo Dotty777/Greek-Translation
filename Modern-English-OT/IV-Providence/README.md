@@ -1,17 +1,17 @@
 # Division IV. Providence (Prophets) — Saints Modern English (Greek Septuagint)
 
 > **Status:** `draft: true` — **Complete 16/16 books**  
-> **Coverage:** 245 chapters, 5,301 verses, 1,174 translator notes  
+> **Coverage:** 245 chapters, 5,301 verses, 1,188 translator notes  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
 ## Books Included (16 / 16 Complete)
 
 | # | Book | Section | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---|---:|---:|---:|---|---|
-| 28 | Isaiah | Major Prophets | 66 | 1,289 | 309 | [`markdown/28-isaiah/`](markdown/28-isaiah/README.md) | [`28-isaiah.json`](json/28-isaiah.json) |
-| 29 | Jeremiah | Major Prophets | 52 | 1,295 | 251 | [`markdown/29-jeremiah/`](markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](json/29-jeremiah.json) |
-| 30 | Ezekiel | Major Prophets | 48 | 1,265 | 229 | [`markdown/30-ezekiel/`](markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](json/30-ezekiel.json) |
-| 31 | Daniel | Major Prophets (Theodotion) | 12 | 402 | 68 | [`markdown/31-daniel/`](markdown/31-daniel/README.md) | [`31-daniel.json`](json/31-daniel.json) |
+| 28 | Isaiah | Major Prophets | 66 | 1,289 | 311 | [`markdown/28-isaiah/`](markdown/28-isaiah/README.md) | [`28-isaiah.json`](json/28-isaiah.json) |
+| 29 | Jeremiah | Major Prophets | 52 | 1,295 | 256 | [`markdown/29-jeremiah/`](markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](json/29-jeremiah.json) |
+| 30 | Ezekiel | Major Prophets | 48 | 1,265 | 235 | [`markdown/30-ezekiel/`](markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](json/30-ezekiel.json) |
+| 31 | Daniel | Major Prophets (Theodotion) | 12 | 402 | 69 | [`markdown/31-daniel/`](markdown/31-daniel/README.md) | [`31-daniel.json`](json/31-daniel.json) |
 | 32 | Hosea | Minor Prophets | 14 | 197 | 65 | [`markdown/32-hosea/`](markdown/32-hosea/README.md) | [`32-hosea.json`](json/32-hosea.json) |
 | 33 | Joel | Minor Prophets | 4 | 73 | 18 | [`markdown/33-joel/`](markdown/33-joel/README.md) | [`33-joel.json`](json/33-joel.json) |
 | 34 | Amos | Minor Prophets | 9 | 146 | 44 | [`markdown/34-amos/`](markdown/34-amos/README.md) | [`34-amos.json`](json/34-amos.json) |

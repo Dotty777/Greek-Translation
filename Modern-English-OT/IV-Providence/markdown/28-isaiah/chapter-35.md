@@ -11,7 +11,7 @@
 
 **35:3** Be strong, drooping hands and paralyzed knees.
 
-**35:4** Comfort, you who are fainthearted in mind; be strong, do not fear; look, our God renders judgment and will render it; He Himself will come and save us.
+**35:4** Take comfort, you who are fainthearted in mind; be strong, do not fear; look, our God renders judgment and will render it; He Himself will come and save us.
 
 **35:5** Then the eyes of the blind will be opened, and the ears of the deaf will hear.
 
@@ -28,6 +28,6 @@
 ## Translator Notes
 
 - **35:2** — The Greek includes 'the desert places of the Jordan' and 'My people,' both absent from the Masoretic Text.
-- **35:4** — Greek 'Comfort' (parakalesate) addresses the 'fainthearted in mind' directly, whereas the Masoretic Text reads 'Say to those of anxious heart.'
+- **35:4** — Greek active imperative parakalesate (literally 'comfort,' used reflexively here as 'take comfort' or 'be encouraged') addresses the 'fainthearted in mind' directly, whereas the Masoretic Text reads 'Say to those of anxious heart.'
 - **35:8** — The Septuagint adds 'nor will there be an unclean way there' and reads 'the scattered ones' (hoi diesparmenoi) where the Masoretic Text has 'fools.'
 - **35:10** — The Septuagint adds 'praise and exultation' and concludes with three nouns and an aorist verb ('pain and sorrow and groaning have fled away'), contrasting with the Masoretic Text's future 'sorrow and sighing shall flee away.'

@@ -7,7 +7,7 @@
   "usfm_code": "AMO",
   "chapter": 4,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:12:58Z",
+  "updated_at": "2026-11-25T00:07:43Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -84,6 +84,7 @@
     "1st1K-LXX: 5:13 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:14 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:15 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 5:16 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:17 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:18 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:19 kept in its own chapter (stronger match to its own reference verse)",
@@ -125,6 +126,7 @@
     "Swete (B/A/א): 5:13 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:14 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:15 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 5:16 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:17 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:18 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:19 kept in its own chapter (stronger match to its own reference verse)",
@@ -514,7 +516,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 11,
           "word_count": 1,
           "kind": "word",
@@ -552,6 +554,7 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "ἀποριφήσεσθε / ἀπορριφήσεσθε",
             "ἀποριφήσεσθε / ἀπορριφήσεσθε"
           ],
           "witnesses": [
@@ -602,7 +605,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 4,
           "word_count": 1,
           "kind": "word",
@@ -713,7 +716,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 7,
           "word_count": 1,
           "kind": "word",
@@ -927,7 +930,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 32,
           "word_count": 0,
           "kind": "word",
@@ -1064,7 +1067,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 18,
           "word_count": 1,
           "kind": "word",
@@ -1119,17 +1122,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐμπλησθῶσιν, / ἐμπλησθῶσι·"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1393,7 +1385,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 28,
           "word_count": 1,
           "kind": "word",

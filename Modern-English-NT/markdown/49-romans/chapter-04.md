@@ -1,6 +1,6 @@
 # Romans 4 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (25 verses, 3 translator notes)  
+> **Status:** `draft: true` (25 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Romans`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -58,5 +58,6 @@
 ## Translator Notes
 
 - **4:1** — The Greek phrase κατὰ σάρκα ("according to the flesh") can modify either "our forefather" or the verb "has found."
+- **4:13** — Greek σπέρμα ("seed," rendered "offspring" here) echoes the Abrahamic promise language of Genesis (compare 1:3, 11:1, and Gal 3:16).
 - **4:19** — While many later manuscripts read "he did not consider" (adding οὐ), the earliest witnesses omit the negative, indicating that Abraham realistically faced his and Sarah's condition without weakening in faith.
 - **4:25** — Both clauses use the same Greek preposition διά with the accusative, expressing retrospective ground in the first ("because of our trespasses") and prospective purpose or result in the second ("for our justification").

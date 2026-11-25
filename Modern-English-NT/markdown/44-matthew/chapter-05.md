@@ -1,6 +1,6 @@
 # Matthew 5 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes)  
+> **Status:** `draft: true` (48 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -107,4 +107,5 @@
 - **5:26** — A quadrans was a small Roman bronze coin equal to one-fourth of an assarion, representing a trivial sum.
 - **5:32** — The Greek noun porneia covers unlawful sexual conduct broadly, and the passive infinitive moicheuthenai literally conveys causing her to be made an adulteress (or subjected to adultery).
 - **5:37** — The Greek phrase tou ponerou may be read as masculine ('the evil one') or neuter ('evil').
+- **5:39** — Greek τῷ πονηρῷ may be read as masculine ("an evil person" or "the evil one") or neuter ("evil").
 - **5:48** — The Greek adjective teleioi ('complete' or 'perfect') carries the sense of moral wholeness, maturity, and undivided devotion.

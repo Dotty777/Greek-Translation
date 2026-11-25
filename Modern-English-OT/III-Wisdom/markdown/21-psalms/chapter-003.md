@@ -25,7 +25,7 @@
 
 ## Translator Notes
 
-- **3:1** — In Septuagint versification, the psalm's superscription is counted as verse 1, advancing the remaining verse numbers by one relative to most English translations based on the Hebrew.
+- **3:1** — In Septuagint versification, the psalm's superscription is counted as verse 1, advancing the remaining verse numbers by one relative to most English translations based on the Hebrew. Throughout the Psalter, Greek dative superscriptions such as τῷ Δαυίδ (rendered "for David" here) are multi-valent and can also mean "of/by David," "belonging to David," or "pertaining to David."
 - **3:3** — This Greek text omits the pronoun auto ("for him") present in some Greek manuscripts and the Hebrew text, reading simply "There is no salvation in his God."
 - **3:4** — Greek antilemptor ("sustainer" or "protector") replaces the Hebrew metaphor "a shield around me" and echoes the cognate verb antilempsetai ("will sustain") in 3:6.
 - **3:8** — Greek mataios ("without cause" or "groundlessly") differs from the Hebrew text, which reads "on the cheek/jaw."

@@ -1,6 +1,6 @@
 # 1 Kings 6 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 6 translator notes)  
+> **Status:** `draft: true` (29 verses, 9 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -29,9 +29,9 @@
 
 **6:16** And he built the twenty cubits from the end of the wall, the one side from the floor to the beams; and he made it from the dabir into the Holy of Holies.
 
-**6:17** And the temple was forty cubits in front of the dabir, in the middle of the house on the inside, to place there the ark of the covenant of the Lord.
+**6:17** And the temple was forty cubits in front of the dabir, in the middle of the house on the inside,
 
-**6:19** To place there the ark of the covenant of the Lord.
+**6:19** to place there the ark of the covenant of the Lord.
 
 **6:20** Twenty cubits in length, and twenty cubits in width, and twenty cubits was its height.
 
@@ -68,6 +68,9 @@
 - **6:1** — The Greek dates the work to the 440th year after the departure from Egypt (rather than the 480th), reads "sons" where the Hebrew has "builders," and gives the month names as Niso and Baad (corresponding to Ziv and Bul).
 - **6:3** — "Ailam" is a Greek transliteration of the Hebrew architectural term ulam, denoting the porch or vestibule of the temple.
 - **6:5** — "Dabir" is a Greek transliteration of the Hebrew architectural term debir, denoting the inner sanctuary of the temple.
+- **6:15** — Verses 6:11-14 of the Hebrew numbering (the Lord's conditional promise to Solomon) are absent from the Septuagint; nothing has been omitted from the Greek text.
+- **6:19** — Verse 6:18 of the standard numbering is absent from the Septuagint at this point; nothing has been omitted from the Greek text.
 - **6:21** — "Enclosed gold" literally translates Greek synkekleismeno, reflecting the Hebrew idiom for refined, choice gold.
 - **6:26** — The Greek omits the numeral "ten" before "by the cubit" here, and similarly compresses the wing measurements in verse 24.
+- **6:34** — Verses 6:32-33 of the standard numbering are absent from the Septuagint here; nothing has been omitted from the Greek text.
 - **6:36** — The closing sentence ("And he built a curtain of the court of the ailam...") is a distinctive Septuagint reading with no counterpart in the Hebrew Masoretic Text.

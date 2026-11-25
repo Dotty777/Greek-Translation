@@ -5,7 +5,7 @@
 
 ## Text
 
-**123:1** A song of the steps. "If the Lord had not been among us," let Israel now say,
+**123:1** A song of the steps. For David. "If the Lord had not been among us," let Israel now say,
 
 **123:2** "if the Lord had not been among us when people rose up against us,
 

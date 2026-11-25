@@ -7,7 +7,7 @@
   "usfm_code": "EZK",
   "chapter": 29,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:12:42Z",
+  "updated_at": "2026-11-25T00:07:42Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -107,6 +107,7 @@
     "1st1K-LXX: 30:13 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 30:14 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 30:15 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 30:16 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 30:17 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 30:18 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 30:19 kept in its own chapter (stronger match to its own reference verse)",
@@ -159,6 +160,7 @@
     "Swete (B/A/א): 30:13 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 30:14 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 30:15 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 30:16 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 30:17 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 30:18 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 30:19 kept in its own chapter (stronger match to its own reference verse)",
@@ -951,7 +953,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἐκρότησεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐπεκρότησεν (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἐκρότησεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐπεκρότησεν (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 9,
           "word_count": 1,
           "kind": "word",
@@ -1023,7 +1025,7 @@
       "id": 28304,
       "verse": 8,
       "critical_text": "διὰ τοῦτο τάδε λέγει Κύριος Ἰδοὺ ἐγὼ ἐπάγω ἐπὶ σέ ῥομφαίαν, καὶ ἀπολῶ ἀνθρώπους ἀπὸ σοῦ καὶ κτήνη,",
-      "confidence": 0.28,
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "διὰ τοῦτο τάδε λέγει Κύριος Ἰδοὺ ἐγὼ ἐπάγω ἐπὶ σέ ῥομφαίαν, καὶ ἀπολῶ ἀνθρώπους ἀπὸ σοῦ καὶ κτήνη,",
@@ -1065,7 +1067,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'ἀνθρώπους' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
+              "note": "Units 'ἀνθρώπους', 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -1119,7 +1121,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'ἀνθρώπους' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
+              "note": "Units 'ἀνθρώπους', 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -1200,7 +1202,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -1283,17 +1285,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἰσιν, / εἰσι,"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1425,17 +1416,6 @@
             "Swete (B/A/א)"
           ],
           "reason": "Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἀπωλίαν, / ἀπώλειαν"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).",
@@ -1509,6 +1489,7 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "τεσσεράκοντα / τεσσαράκοντα",
             "τεσσεράκοντα / τεσσαράκοντα"
           ],
           "witnesses": [
@@ -1603,23 +1584,13 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "τεσσεράκοντα / τεσσαράκοντα",
             "τεσσεράκοντα / τεσσαράκοντα"
           ],
           "witnesses": [
             "LXX-Orthodox (Οʹ)"
           ],
           "reason": "Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἔθνεσιν, / ἔθνεσι"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1696,6 +1667,7 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "τεσσεράκοντα / τεσσαράκοντα",
             "τεσσεράκοντα / τεσσαράκοντα"
           ],
           "witnesses": [
@@ -1833,17 +1805,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἔθνεσιν. / ἔθνεσι."
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1929,19 +1890,13 @@
               "reading": "ἀκολουθῆσαι αὐτοὺς",
               "adopt_text": "ἀκολουθῆσαι αὐτοὺς",
               "witnesses": [
-                "Sixtine/Brenton"
-              ],
-              "weight_sum": 0.84
-            },
-            {
-              "reading": "αὐτοὺς",
-              "witnesses": [
+                "Sixtine/Brenton",
                 "LXX-Orthodox (Οʹ)"
               ],
-              "weight_sum": 0.0
+              "weight_sum": 0.84
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'αὐτοὺς ἀκολουθῆσαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀκολουθῆσαι αὐτοὺς (Sixtine/Brenton). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "note": "[Variation unit spanning several words] Adopted 'αὐτοὺς ἀκολουθῆσαι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀκολουθῆσαι αὐτοὺς (Sixtine/Brenton).",
           "word_index": 13,
           "word_count": 2,
           "kind": "word",
@@ -2094,7 +2049,7 @@
       "id": 28314,
       "verse": 18,
       "critical_text": "Υἱὲ ἀνθρώπου, Ναβουχοδονοσὸρ βασιλεὺς Βαβυλῶνος κατεδουλώσατο αὐτοῦ τὴν δύναμιν δουλείᾳ μεγάλῃ ἐπὶ Τύρου· πᾶσα κεφαλὴ φαλακρά, καὶ πᾶς ὦμος μαδῶν· καὶ μισθὸς οὐκ ἐγενήθη αὐτῷ καὶ τῇ δυνάμει αὐτοῦ ἐπὶ Τύρον, καὶ τῆς δουλείας ἧς ἐδούλευσαν ἐπ᾽ αὐτήν.",
-      "confidence": 0.28,
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "Υἱὲ ἀνθρώπου, Ναβουχοδονοσὸρ βασιλεὺς Βαβυλῶνος κατεδουλώσατο αὐτοῦ τὴν δύναμιν δουλείᾳ μεγάλῃ ἐπὶ Τύρου· πᾶσα κεφαλὴ φαλακρά, καὶ πᾶς ὦμος μαδῶν· καὶ μισθὸς οὐκ ἐγενήθη αὐτῷ καὶ τῇ δυνάμει αὐτοῦ ἐπὶ Τύρον, καὶ τῆς δουλείας ἧς ἐδούλευσαν ἐπ᾽ αὐτήν.",
@@ -2136,7 +2091,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'αὐτοῦ' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
+              "note": "Units 'αὐτοῦ', 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -2190,7 +2145,7 @@
           "analysis": [
             {
               "canon": "variant type: transposition",
-              "note": "Units 'αὐτοῦ' and 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
+              "note": "Units 'αὐτοῦ', 'om.' together form one word-order variant (Sixtine/Brenton transpose).",
               "favours": "neither",
               "reading": "",
               "key": "",
@@ -2235,14 +2190,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 30,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "τυρον",
-          "confidence": 0.28,
+          "confidence": 0.529,
           "credited_witnesses": []
         }
       ],
@@ -2311,7 +2266,7 @@
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",

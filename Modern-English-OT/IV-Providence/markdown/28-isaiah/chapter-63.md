@@ -1,6 +1,6 @@
 # Isaiah 63 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes)  
+> **Status:** `draft: true` (19 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -48,5 +48,6 @@
 - **63:1** — Greek "Bosor" is the standard LXX rendering of Bozrah; LXX reads "redness of garments," "with force," and "judgment of salvation" where MT has "crimsoned garments," "marching," and "mighty to save."
 - **63:3** — LXX reads "full of a trampled [winepress]" (a feminine singular participle, καταπεπατημένης, agreeing with the winepress, ληνός, of 63:2) where MT has "I have trodden the winepress alone."
 - **63:9** — LXX reads "Not an envoy nor an angel [or 'messenger'], but He Himself saved them" where MT has "In all their affliction He was afflicted, and the angel of His presence saved them."
+- **63:14** — Greek πνεῦμα παρὰ Κυρίου is anarthrous and can be rendered either "the Spirit ... from the Lord" or "a spirit from the Lord."
 - **63:18** — LXX reads "so that we may inherit a little [or 'for a little while'] of Your holy mountain" and omits the second half of the verse found in MT.
 - **63:19** — In LXX, the second half of 63:19 corresponds to MT 64:1a and breaks mid-sentence ("and they will melt") before continuing into 64:1.

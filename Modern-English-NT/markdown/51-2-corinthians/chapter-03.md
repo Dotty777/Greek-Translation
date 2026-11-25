@@ -1,6 +1,6 @@
 # 2 Corinthians 3 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Corinthians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -44,6 +44,7 @@
 ## Translator Notes
 
 - **3:2** — The critical text reads "in our hearts" (ἡμῶν); a few manuscripts read "in your hearts" (ὑμῶν).
+- **3:6** — Greek πνεῦμα is capitalized here as a reference to the Holy Spirit ("Spirit"), though some read it lowercase ("spirit") in direct contrast with the written "letter" (cf. Rom 7:6).
 - **3:7** — The verb καταργέω (also in vv. 11, 13, 14) means "render inoperative," "bring to an end," or "do away with."
 - **3:14** — The conjunction ὅτι may be taken causally ("because in Christ it is done away with") or as content ("it not being unveiled that in Christ it is done away with").
 - **3:18** — The middle participle κατοπτριζόμενοι is debated between "seeing as in a mirror" and "reflecting as a mirror"; the closing phrase ἀπὸ κυρίου πνεύματος may be rendered "from the Lord, the Spirit," "from the Spirit of the Lord," or "from the Lord who is the Spirit."

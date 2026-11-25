@@ -1,6 +1,6 @@
 # Ezekiel 11 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (23 verses, 6 translator notes)  
+> **Status:** `draft: true` (23 verses, 7 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,9 +53,10 @@
 
 ## Translator Notes
 
-- **11:1** — The Greek text names "Jeconiah the son of Ezer" (Iechonian ton tou Ezer), whereas the Hebrew text reads "Jaazaniah the son of Azzur."
+- **11:1** — The Greek text names "Jeconiah the son of Ezer" (Iechonian ton tou Ezer), whereas the Hebrew text reads "Jaazaniah the son of Azzur." Also, Greek πνεῦμα ("the Spirit") is anarthrous and can alternatively be rendered "a spirit" or "a wind."
 - **11:3** — The Greek reads "Have the houses not recently been built?" rather than the Hebrew "the time is not near to build houses."
+- **11:5** — Greek πνεῦμα here is anarthrous and lacks "of the Lord" (contrast MT); it can be rendered either "the Spirit" or "a spirit."
 - **11:10** — The Greek reads "on the mountains of Israel" (epi ton oreon tou Israel, vs. Hebrew "at the border of Israel"), and verses 11-12 of the Hebrew text are absent from the Greek text.
 - **11:15** — The Greek reads "the men of your captivity" (vs. Hebrew "your kindred") and "have been brought to an end" (syntetelestai), reflecting a reading of Hebrew kallah ("be finished") rather than kulloh ("all of it").
 - **11:19** — The Greek text reads "a different heart" (kardian heteran), whereas the Hebrew text reads "one heart."
-- **11:24** — The Greek text reads "And I went up from the vision that I saw" (first person), whereas the Hebrew reads "Then the vision that I had seen went up from me."
+- **11:24** — The Greek text reads "And I went up from the vision that I saw" (first person), whereas the Hebrew reads "Then the vision that I had seen went up from me." Both occurrences of πνεῦμα here ("the Spirit" and "the Spirit of God") are anarthrous in Greek and can alternatively be rendered "a spirit" / "a wind" and "a spirit of God."

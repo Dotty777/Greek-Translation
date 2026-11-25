@@ -72,7 +72,7 @@
 ## Translator Notes
 
 - **40:2** — The Septuagint reads "the tent of testimony" (skēnē tou martyriou) and includes "at the new moon" (noumēnia), where the Hebrew Masoretic Text has "the tabernacle of the tent of meeting" without a separate "new moon" phrase.
-- **40:8** — The Septuagint omits v. 7 (the bronze basin, as also vv. 11 and 30-32), reads "enclose the tent" rather than setting up the courtyard, and places the anointing of the altar of sacrificial offerings here before v. 9.
+- **40:8** — The Septuagint omits v. 7 (the bronze basin, as also vv. 11 and 30-32), reads "enclose the tent" rather than setting up the courtyard, and places the anointing of the altar of fire offerings here before v. 9.
 - **40:18** — The Greek reads "capitals" (kephalidas, the top pieces of pillars) where the Hebrew Masoretic Text refers to bases and frames.
 - **40:35** — The Greek verb epeskiazen ("was overshadowing") stands where the Hebrew Masoretic Text says the cloud "settled" on the tent.
 - **40:36** — The Greek reads "with their baggage" (syn tē apartia autōn), a distinct Septuagint rendering where the Hebrew Masoretic Text has "throughout all their journeys."

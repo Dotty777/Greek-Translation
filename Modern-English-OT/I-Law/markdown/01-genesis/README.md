@@ -46,7 +46,7 @@
 - [Chapter 38](chapter-38.md) — 30 verses, 4 notes
 - [Chapter 39](chapter-39.md) — 23 verses, 4 notes
 - [Chapter 40](chapter-40.md) — 23 verses, 4 notes
-- [Chapter 41](chapter-41.md) — 57 verses, 5 notes
+- [Chapter 41](chapter-41.md) — 57 verses, 6 notes
 - [Chapter 42](chapter-42.md) — 38 verses, 5 notes
 - [Chapter 43](chapter-43.md) — 34 verses, 5 notes
 - [Chapter 44](chapter-44.md) — 34 verses, 4 notes

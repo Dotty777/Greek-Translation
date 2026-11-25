@@ -1,6 +1,6 @@
 # 1 John 4 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 John`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -50,6 +50,7 @@
 ## Translator Notes
 
 - **4:3** — Early Greek manuscripts read simply 'does not confess Jesus'; later manuscripts expand this to match v. 2, while a few Latin and patristic witnesses read 'annuls' or 'dissolves' Jesus.
+- **4:6** — Greek uses the identical phrase τὸ πνεῦμα in both clauses; "Spirit" is capitalized in the first to indicate the Spirit of God (cf. 4:2) in contrast to "the spirit of deception."
 - **4:9** — The Greek adjective monogenes ("only-begotten," matching John 1:14, 18; 3:16, 18) denotes a unique, one-of-a-kind son; "among us" translates en hemin (lit. "in us").
 - **4:10** — On hilasmos ("propitiation"), see the note at 2:2.
 - **4:19** — This text reads simply 'We love' without a direct object; other manuscripts add 'Him' or 'God'.

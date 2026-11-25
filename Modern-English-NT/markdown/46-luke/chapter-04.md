@@ -25,7 +25,7 @@
 
 **4:10** for it is written, 'He will command His angels concerning You to guard You carefully,'
 
-**4:11** and, 'On their hands they will lift You up, so that You never strike Your foot against a stone.'"
+**4:11** and, 'On their hands they will lift You up, so that You do not strike Your foot against a stone.'"
 
 **4:12** And answering, Jesus said to him, "It has been said, 'You will not put the Lord your God to the test.'"
 

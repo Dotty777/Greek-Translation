@@ -1,6 +1,6 @@
 # Ezekiel 3 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 8 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,9 @@
 
 - **3:2** — Greek reads the third-person verb "He opened my mouth," whereas the Hebrew text reads the first-person "I opened my mouth."
 - **3:8** — Greek uses "contentious" (3:7) and "contention" (3:8), followed by "continually stronger than rock" (3:9), differing from the Hebrew references to a hard forehead and emery/flint.
+- **3:12** — Greek πνεῦμα here is anarthrous and can be rendered either "the Spirit" or "a spirit" / "a wind."
 - **3:13** — Greek literally reads "I saw the sound of the wings," supplying the verb "I saw" before the sound of the flapping wings.
+- **3:14** — Greek τὸ πνεῦμα ("the spirit" / "the wind") refers back to the anarthrous πνεῦμα of 3:12 and can be rendered either capitalized ("the Spirit") or lowercase ("the spirit" / "the wind").
 - **3:15** — Instead of the Hebrew place-name "Tel-abib" and "stunned," Greek reads "aloft" ("meteoros"), adds "I went around," and concludes with "moving about in their midst."
 - **3:20** — Greek renders the Hebrew term for "stumbling block" as "the torment" ("ten basanon"), a characteristic Septuagint Ezekiel rendering; in 3:17, Greek likewise uses the stronger verb "threaten" ("diapeileomai") alongside "warn" ("diastellomai") in 3:18-21.
+- **3:24** — Greek πνεῦμα here is anarthrous and can be rendered either "the Spirit" or "a spirit" / "wind"; the subject of "spoke" (ἐλάλησεν) is unexpressed in Greek and may refer either to the Lord ("He") or to the spirit.

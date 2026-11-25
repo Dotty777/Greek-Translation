@@ -1,6 +1,6 @@
 # Daniel 7 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,7 @@
 ## Translator Notes
 
 - **7:1** — The Greek text dates this vision to the "third" year of Baltasar "king of the Chaldeans," whereas the Aramaic reads the "first" year of Belshazzar "king of Babylon" and adds a reference to "the sum of the matters."
+- **7:14** — Pronouns referring to "one like a son of man" (7:13) are kept lowercase here; Greek manuscripts make no uppercase/lowercase distinction, and Christian tradition often capitalizes them ("Him/His") as messianic/divine.
 - **7:17** — The Greek identifies the four beasts as "four kingdoms" (rather than "four kings" as in the Aramaic) and includes the closing clause "which will be taken away" (αἳ ἀρθήσονται).
 - **7:20** — Unlike the Aramaic ("before which three fell"), the Greek omits the number "three" and uses the active participle ἐκτινάξαντος ("shook off") with the partitive genitive τῶν πρώτων ("some of the first ones").
 - **7:24** — Where the Aramaic reads "he will be different from the former ones," the Greek text has ὃς ὑπεροίσει κακοῖς πάντας τοὺς ἔμπροσθεν ("who will surpass in evils all those before him").

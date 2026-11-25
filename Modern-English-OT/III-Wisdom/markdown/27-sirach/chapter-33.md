@@ -73,4 +73,4 @@
 - **33:3** — The Greek text here reads dikaion ('of the righteous'), whereas some editions adopt the reading delon ('of the Urim').
 - **33:17** — In this critical text the line numbered 33:16 in some editions ('And I was the last to keep watch') stands at the seam of the transposed sections and is rendered at 36:10, so 33:17 opens directly with the participial comparison.
 - **33:31** — Greek en haimati ('with blood') literally renders a Hebrew idiom for 'with money' or 'at a price,' while in Greek also conveying a costly acquisition.
-- **33:32** — This critical text reads the noun epideesis with the dative auto ('there is need for him'), whereas many other witnesses read the verb epideeseis autou ('you will have need of him').
+- **33:32** — This critical text reads the noun epideesis with the dative auto ('there is need for him'), whereas many other witnesses read the verb epideeseis autou ('you will have need of him'). In the Saints.Bible numbering, this verse (native Greek 30:40) spans 33:32–33.

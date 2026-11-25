@@ -68,7 +68,7 @@
 ## Translator Notes
 
 - **23:7** — Greek parabolē ("parable") here denotes an elevated poetic oracle, and "Mesopotamia" reflects the Greek reading Ek Mesopotamias (MT: "from Aram").
-- **23:10** — The Greek text differs notably from the Masoretic Text, reading "offspring" (sperma, MT: "dust"), "clans" (dēmous, MT: "fourth part"), "among the souls of the righteous" (en psychais dikaiōn), and "my offspring" (to sperma mou, MT: "my end").
+- **23:10** — The Greek text differs notably from the Masoretic Text, reading "seed" (sperma, MT: "dust"), "clans" (dēmous, MT: "fourth part"), "among the souls of the righteous" (en psychais dikaiōn), and "my seed" (to sperma mou, MT: "my end").
 - **23:14** — The Greek text translates both Hebrew place names literally: agrou skopian ("a field's lookout," MT: "field of Zophim") and Lelaxeumenou ("the Hewn Place," a participle rendering Hebrew "Pisgah").
 - **23:19** — The Greek text uses passive infinitives—diartēthēnai ("to be misled / kept in suspense") and apeilēthēnai ("to be threatened")—where the Masoretic Text reads "that he should lie" and "that he should repent."
 - **23:22** — Greek monokerōs ("unicorn," literally "one-horned animal") is the Septuagint's standard rendering of Hebrew re'em (probably the wild ox), and doxa ("glory") renders a rare Hebrew noun denoting strength or horns.

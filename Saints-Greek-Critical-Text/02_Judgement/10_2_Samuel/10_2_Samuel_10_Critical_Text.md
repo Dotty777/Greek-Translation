@@ -1,6 +1,6 @@
 # 2 Samuel (2 Kingdoms) 10 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:09:42Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:22Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 9:1 kept in its own chapter (stronger match to its own reference verse)
@@ -47,26 +46,32 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 9:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:17 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 11:21 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 11:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 9:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 9:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 9:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 9:4 kept in its own chapter (stronger match to its own reference verse)
@@ -81,22 +86,32 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 9:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:5 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:6 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:21 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:24 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 11:25 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:26 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 11:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 9:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 9:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 9:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 9:4 kept in its own chapter (stronger match to its own reference verse)
@@ -111,22 +126,31 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 9:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:6 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:21 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 11:25 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:26 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 11:27 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 9:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 9:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 9:3 kept in its own chapter (stronger match to its own reference verse)
@@ -204,7 +228,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `υἱὸς` over `υἰὸς` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἀντ᾽` over `ἀντ’`, `ἀντʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτοῦ.` over `αὐτοὺ.` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπέθανεν / ἀπέθανε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:2
 - **Apparatus:** `ἐμοῦ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **αὐτοῦ** LXX-Orthodox (Οʹ)
@@ -224,11 +247,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `παῖδες` over `παίδες` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Δαυεὶδ` over `Δαθεὶδ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Δαυεὶδ` over `Δαυὶδ` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'Δαυεὶδ' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶπεν / εἶπε`, `ἀπέστειλεν / ἀπέστειλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:3
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **οὐχὶ** LXX-Orthodox (Οʹ)
-- **Apparatus:** `οὐχὶ ἐρευνήσωσιν` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἐρευνήσωσι** LXX-Orthodox (Οʹ)
+- **Apparatus:** `οὐχὶ` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἁννὼν` over `Ἀννῶν` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `αὐτῶν` over `αὐτῶν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
@@ -240,7 +262,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτὴν καὶ τοῦ` over `τας ἀλλὅπως` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἀπέστειλεν` over `ἀπέστειλε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Δαυὶδ` over `Δαυεὶδ` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπέστειλέν / ἀπέστειλέ`, `ἀπέστειλεν / ἀπέστειλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:4
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -251,7 +272,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀπέκοψεν` over `ἀκέκοψεν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἀπέκοψεν` over `ἀπέκοψε` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'ἀπέκοψεν' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
 - *Disregarded Surface Variant:* kept `αὐτῶν καὶ ἐξαπέστειλεν` over `αὐτῶνκαὶ ἐχαπέστειλεν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐξύρησεν / ἐξύρησε`, `ἀπέκοψεν / ἀπέκοψε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:5
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -260,7 +280,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `βασιλεύς` over `βασιλεὺς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Καθίσατε` over `καθίσατε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἰερειχὼ` over `Ἱεριχὼ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἰερειχὼ / Ἱεριχὼ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### 2 Samuel (2 Kingdoms) 10:6
 - **Apparatus:** `εἶδαν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **εἶδον** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -280,7 +299,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἀμαλήκ,` over `Ἀμαλὴκ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Εἰστώβ,` over `Ἰστὼβ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `δώδεκα` over `δέδεκα` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Εἰστώβ, / Ἰστώβ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### 2 Samuel (2 Kingdoms) 10:7
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -289,7 +307,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀπέστειλεν` over `ἀπέστειλε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Ἰωὰβ` over `Ἰωάβ` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `δύναμιν,` over `δύναμιν` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἤκουσεν / ἤκουσε`, `ἀπέστειλεν / ἀπέστειλε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:8
 - **Apparatus:** `ἐξῆλθαν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐξῆλθον** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -303,7 +320,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πύλης` over `πύλης,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Εἰστὼβ` over `Ἰστὼβ` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἀμαλήκ,` over `Ἀμαλὴκ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Εἰστὼβ / Ἰστὼβ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### 2 Samuel (2 Kingdoms) 10:9
 - **Apparatus:** `ἐπέλεξεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐπελέξατο** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -331,11 +347,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### 2 Samuel (2 Kingdoms) 10:11
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **κραταιωθῶσιν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'κραταιωθῶσιν' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'κραταιωθῶσιν' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `κραταιωθῶσιν` Swete-Amicarelli **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'κραταιωθῶσιν' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'κραταιωθῶσιν' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -374,14 +390,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `προσώπου` over `προςώπου` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἀμμών,` over `Ἀμμὼν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλήμ.` over `Ἱερουσαλήμ.` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔφυγεν / ἔφυγε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:15
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἶδεν` over `εἶδε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἔπταισεν` over `ἔπτάισεν` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰσραήλ,` over `Ἰσραὴλ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `εἶδεν / εἶδε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:16
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **εἰς** LXX-Orthodox (Οʹ)
@@ -390,7 +404,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `συνήγαγεν` over `συνήγαγε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Χαλαμάκ,` over `Χαλαμὰκ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἁδραάζαρ` over `Ἀδρααζὰρ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συνήγαγεν / συνήγαγε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:17
 - **Apparatus:** `ἀνηγγέλη` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἀπηγγέλη** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -399,7 +412,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `παρεγένοντο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **παρεγένετο** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `Δαυὶδ ἀπέναντι Συρίας` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Συρία ἀπέναντι Δαυὶδ** Sixtine/Brenton ; **Δαυίδ,** LXX-Orthodox (Οʹ) *(partial substitution)*
+- **Apparatus:** `Δαυὶδ ἀπέναντι Συρίας` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Συρία ἀπέναντι Δαυὶδ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -409,7 +422,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰορδάνην` over `Ἰορδάνην,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Αἱλάμ·` over `Αἰλάμ·` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `μετ᾽` over `μετ’`, `μετʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συνήγαγεν / συνήγαγε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### 2 Samuel (2 Kingdoms) 10:18
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τὸν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -424,8 +436,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τεσσεράκοντα` over `τεσσαράκοντα` (Sixtine/Brenton) — *Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 - *Disregarded Surface Variant:* kept `ἱππέων·` over `ἱππέων,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐπάταξεν,` over `ἐπάταξε,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἔφυγεν / ἔφυγε`, `ἀνεῖλεν / ἀνεῖλε`, `ἐπάταξεν, / ἐπάταξε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα / τεσσαράκοντα`, `τεσσεράκοντα / τεσσαράκοντα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Number-word spelling convention (τεσσαρ- / τεσσερ-)*
 
 ### 2 Samuel (2 Kingdoms) 10:19
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -531,7 +542,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Ἀβεισὰ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἀβεσσὰ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 11 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 11 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ εἶπεν Ἐὰν κραταιωθῇ Συρία ὑπὲρ ἐμέ, καὶ ἔσεσθέ μοι εἰς σωτηρίαν· καὶ ἐὰν υἱοὶ Ἀμμὼν κραταιωθῶσιν ὑπὲρ σέ, καὶ ἐσόμεθα τοῦ σῶσαί σε.
   - `Swete-Amicarelli`: καὶ εἶπεν Ἐὰν κραταιωθῇ Συρία ὑπὲρ ἐμέ, καὶ ἔσεσθέ μοι εἰς σωτηρίαν· καὶ ἐὰν υἱοὶ Ἀμμὼν κραταιωθῶσιν ὑπὲρ σέ, καὶ ἐσόμεθα τοῦ σῶσαί σε.
   - `1st1K-LXX`: καὶ εἶπεν Ἐὰν κραταιωθῇ Συρία ὑπὲρ ἐμέ, καὶ ἔσεσθέ μοι εἰς σωτηρίαν· καὶ ἐὰν υἱοὶ Ἀμμὼν κραταιωθῶμεν ὑπὲρ σέ, καὶ ἐσόμεθα τοῦ σῶσαί σε.
@@ -539,7 +550,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Καὶ εἶπεν, εὰν κραταιωθῇ Συρία ὑπὲρ ἐμὲ, καὶ ἔσεσθέ μοι εἰς σωτηρίαν· καὶ ἐὰν κραταιωθῶσιν υἱοὶ Ἀμμὼν ὑπὲρ σὲ, καὶ ἐσόμεθα τοῦ σῶσαί σε.
   - `LXX-Orthodox (Οʹ)`: καὶ εἶπεν· ἐὰν κραταιωθῇ Συρία ὑπὲρ ἐμέ, καὶ ἔσεσθέ μοι εἰς σωτηρίαν, καὶ ἐὰν κραταιωθῶσιν υἱοὶ Ἀμμὼν ὑπὲρ σέ, καὶ ἐσόμεθα τοῦ σῶσαί σε·
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over κραταιωθῶσιν (Sixtine/Brenton). [Omission in some witnesses] Adopted 'κραταιωθῶσιν' [Swete-Amicarelli] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 7 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἀνδρίζου καὶ κραταιωθῶμεν ὑπὲρ τοῦ λαοῦ ἡμῶν καὶ περὶ τῶν πόλεων τοῦ θεοῦ ἡμῶν, καὶ Κύριος ποιήσει τὸ ἀγαθὸν ἐν ὀφθαλμοῖς αὐτοῦ.

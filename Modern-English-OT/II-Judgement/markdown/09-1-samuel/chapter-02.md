@@ -83,4 +83,4 @@
 - **2:10** — The Greek includes a substantial expansion paralleling Jeremiah 9:23-24 ('Let not the prudent man boast...') and concludes with plural 'our kings' (vs. Hebrew 'His king').
 - **2:18** — The Greek text reads 'ephod bar,' an untranslated manuscript variant of 'bad' (transliterating the Hebrew word for 'linen'), referring to a linen ephod.
 - **2:22** — Like the Dead Sea Scrolls manuscript 4QSam-a, the Greek omits the clause found in the Hebrew Masoretic Text about Eli's sons lying with the women serving at the entrance to the tent of meeting.
-- **2:31** — The Greek reads 'your offspring' (reflecting the Hebrew consonant root for 'seed') rather than the Masoretic Text's 'your arm,' and in v. 32 omits the first half of the Hebrew verse while reading 'in My house.'
+- **2:31** — The Greek reads 'your seed' (sperma) rather than the Masoretic Text's 'your arm,' and in v. 32 omits the first half of the Hebrew verse while reading 'in My house.'

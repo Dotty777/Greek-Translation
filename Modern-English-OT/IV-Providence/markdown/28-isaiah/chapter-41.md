@@ -47,7 +47,7 @@
 
 **41:21** "Your judgment draws near," says the Lord God; "your counsels have drawn near," says the King of Jacob.
 
-**41:22** Let them draw near and declare to you what will happen, or tell what the former things were, and we will apply our mind, and we will know what the last things are, and tell us the things to come;
+**41:22** Let them draw near and declare to you what will happen, or tell what the former things were, and we will apply our mind, and we will know what the last things are, and tell us the things to come.
 
 **41:23** Declare to us the things to come at the end, and we will know that you are gods. Do good and do harm, and we will marvel, and we will see together;
 

@@ -92,5 +92,5 @@
 - **8:7** — The Greek exhibits a grammatical shift (anacoluthon), opening with "many of those who had unclean spirits" as nominative before switching to the neuter plural spirits crying out and coming out.
 - **8:26** — The phrase kata mesembrian can mean either "toward the south" or "at noon." The closing clause ("This is a desert road," or "This is deserted") may be an editorial aside referring either to the road or to old Gaza.
 - **8:33** — The quotation follows the Septuagint of Isaiah 53:8; the earliest manuscripts read "in humiliation" without a possessive pronoun.
-- **8:36** — Verse 37, which adds Philip's condition and the eunuch's confession of faith, is absent from the earliest and most reliable Greek manuscripts and is not included in the Saints Greek Critical Text.
+- **8:36** — Verse 37, which adds Philip's condition and the eunuch's confession of faith, is absent from the earliest Greek manuscripts; the Saints Greek Critical Text prints it within double brackets ⟦ ⟧ (shown as an additional verse).
 - **8:37 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

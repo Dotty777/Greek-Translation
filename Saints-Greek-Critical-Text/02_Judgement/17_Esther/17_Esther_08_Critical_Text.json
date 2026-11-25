@@ -7,11 +7,12 @@
   "usfm_code": "EST",
   "chapter": 8,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:10:54Z",
+  "updated_at": "2026-11-25T00:07:26Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
   "versification_notes": [
+    "Swete-Amicarelli: 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 7:2 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 7:3 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 7:4 kept in its own chapter (stronger match to its own reference verse)",
@@ -47,6 +48,9 @@
     "Swete-Amicarelli: 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 9:28 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 9:31 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 7:2 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 7:3 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 7:4 kept in its own chapter (stronger match to its own reference verse)",
@@ -82,6 +86,9 @@
     "1st1K-LXX: 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:28 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 9:31 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 7:2 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 7:3 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 7:4 kept in its own chapter (stronger match to its own reference verse)",
@@ -117,6 +124,8 @@
     "Swete (B/A/א): 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:28 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 9:31 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): verse 9:21 runs into its neighbour across the anchor's division between 9:21 and 9:22; re-divided there",
     "LXX-Orthodox (Οʹ): 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 7:2 kept in its own chapter (stronger match to its own reference verse)",
@@ -133,6 +142,7 @@
     "LXX-Orthodox (Οʹ): 9:3 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:4 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:6 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 9:7 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:8 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:9 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:10 kept in its own chapter (stronger match to its own reference verse)",
@@ -154,7 +164,9 @@
     "LXX-Orthodox (Οʹ): 9:26 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:28 kept in its own chapter (stronger match to its own reference verse)",
-    "LXX-Orthodox (Οʹ): 9:29 kept in its own chapter (stronger match to its own reference verse)"
+    "LXX-Orthodox (Οʹ): 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 9:31 kept in its own chapter (stronger match to its own reference verse)"
   ],
   "admitted_witnesses": [
     {
@@ -272,17 +284,6 @@
             "Swete (B/A/א)"
           ],
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ὑπέδειξεν / ὑπέδειξε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -327,7 +328,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 7,
           "word_count": 1,
           "kind": "word",
@@ -382,17 +383,6 @@
             "Swete-Amicarelli"
           ],
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἔλαβεν / ἔλαβε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -474,19 +464,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐλάλησεν / ἐλάλησε",
-            "προσέπεσεν / προσέπεσε",
-            "ἐποίησεν / ἐποίησε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -550,17 +527,6 @@
             "Swete (B/A/א)"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐξέτεινεν / ἐξέτεινε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -830,7 +796,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 17,
           "word_count": 1,
           "kind": "word",
@@ -1094,17 +1060,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἄρχουσιν / ἄρχουσι"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Νισά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Νισὰν (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'εἴκοσι ἑπτὰ σατραπίαις' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over εἰκοσιεπτὰ σατράπαις (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἑαυτῶν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὐτῶν (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).",
@@ -1324,17 +1279,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐπέταξεν / ἐπέταξε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Omission in some witnesses] Adopted 'τῇ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).",
@@ -1355,7 +1299,7 @@
       "id": 16712,
       "verse": 12,
       "critical_text": "ἐν ἡμέρᾳ μιᾷ ἐν πάσῃ τῇ βασιλείᾳ Ἀρταξέρξου, τῇ τρισκαιδεκάτῃ τοῦ δωδεκάτου μηνὸς ὅς ἐστιν Ἀδάρ. Ὧν ἐστιν ἀντίγραφον τῆς ἐπιστολῆς τὰ ὑπογεγραμμένα Βασιλεὺς μέγας Ἀρταξέρξης τοῖς ἀπὸ τῆς Ἰνδικῆς ἕως τῆς Αἰθιοπίας ἑκατὸν εἴκοσι ἑπτὰ σατραπείαις χωρῶν ἄρχουσι καὶ τοῖς τὰ ἡμέτερα φρονοῦσι χαίρειν. πολλοὶ τῇ πλείστῃ τῶν εὐεργετούντων χρηστότητι πυκνότερον τιμώμενοι μεῖζον ἐφρόνησαν, καὶ οὐ μόνον τοὺς ὑποτεταγμένους ἡμῖν ζητοῦσι κακοποιεῖν, τόν τε κόρον οὐ δυνάμενοι φέρειν καὶ τοῖς ἑαυτῶν εὐεργέταις ἐπιχειροῦσι μηχανᾶσθαι· καὶ τὴν εὐχαριστίαν οὐ μόνον ἐκ τῶν ἀνθρώπων ἀνταναιροῦντες, ἀλλὰ καὶ τοῖς τῶν ἀπειραγάθων κόμποις ἐπαρθέντες, τοῦ τὰ πάντα κατοπτεύοντος ἀεὶ θεοῦ μισοπόνηρον ὑπολαμβάνουσιν ἐκφεύξεσθαι δίκην. πολλάκις δὲ καὶ πολλοὺς τῶν ἐπ᾽ ἐξουσίαις τεταγμένεν τῶν πιστευθέντων χειρίζειν φίλων τὰ πράγματα παραμυθία μετόχους αἱμάτων ἀθῴων καταστήσασα περιέβαλε συμφοραῖς ἀνηκέστοις, τῷ τῆς κακοηθείας ψευδεῖ παραλογισμῷ παραλογισαμένων τὴν τῶν ἐπικρατούντων ἀκέραιον εὐγνωμοσύνην. σκοπεῖν δὲ ἔξεστιν, οὐ τοσοῦτον ἐκ τῶν παλαιοτέρων ὡς παρεδώκαμεν ἱστοριῶν, ὅσα ἐστὶν παρὰ πόδας ὑμᾶς ἐκζητοῦντας ἀνοσίως συντετελεσμένα τῇ τῶν ἀνάξια δυναστευόντων λοιμότητι, καὶ προσέχειν εἰς τὰ μετὰ ταῦτα, εἰς τὸ τὴν βασιλείαν ἀτάραχον τοῖς πᾶσιν ἀνθρώποις μετ᾽ εἰρήνης παρεξόμεθα, χρώμενοι ταῖς μεταβολαῖς, τὰ δὲ ὑπὸ τὴν ὄψιν ἐρχόμενα διακρίνοντες ἀεὶ μετ᾽ ἐπιεικεστέρας ἀπαντήσεως. ὡς γὰρ Ἀμὰν Ἁμαδάθου Μακεδὼν ταῖς ἀληθείαις ἀλλότριος τοῦ τῶν Περσῶν αἵματος καὶ πολὺ διεστηκὼς τῆς ἡμετέρας χρηστότητος, ἐπιξενωθεὶς ἡμῖν ἔτυχεν ἧς ἔχομεν πρὸς πᾶν ἔθνος φιλανθρωπίας ἐπὶ τοσοῦτον ὥστε ἀναγορεύεσθαι ἡμῶν πατέρα καὶ προσκυνούμενον ὑπὸ πάντων τὸ δεύτερον τοῦ βασιλικοῦ θρόνου πρόσωπον διατελεῖν· οὐκ ἐνέγκας δὲ τὴν ὑπερηφανίαν ἐπετήδευσεν τῆς ἀρχῆς στερῆσαι ἡμᾶς καὶ τοῦ πνεύματος, τόν τε ἡμέτερον σωτῆρα καὶ διὰ παντὸς εὐεργέτην Μαρδοχαῖον καὶ τὴν ἄμεμπτον τῆς βασιλείας κοινωνὸν Ἐσθὴρ σὺν παντὶ τῷ τούτων ἔθνει πολυπλόκοις μεθόδων παραλογισμοῖς αἰτησάμενος εἰς ἀπωλίαν· διὰ γὰρ τῶν τρόπων τούτων ᾠήθη λαβὼν ἡμᾶς ἐρήμους τὴν τῶν Περσῶν ἐπικράτησιν εἰς τοὺς Μακεδόνας μετάξαι. ἡμεῖς δὲ τοὺς ὑπὸ τοῦ τρισαλιτηρίου παραδεδομένους εἰς ἀφανισμὸν Ἰουδαίους εὑρίσκομεν οὐ κακούργους ὄντας, δικαιοτάτοις δὲ πολιτευομένους νόμοις, ὄντας δὲ υἱοὺς τοῦ ὑψίστου μεγίστου ζῶντος θεοῦ τοῦ κατευθύνοντος ἡμῖν τε καὶ τοῖς προγόνοις ἡμῶν τὴν βασιλείαν ἐν τῇ καλλίστῃ διαθέσει. καλῶς οὖν ποιήσετε μὴ προσχρησάμενοι τοῖς ὑπὸ Ἀμὰν Ἁμαδάθου ἀποσταλεῖσι γράμμασιν, διὰ τὸ αὐτὸν τὸν ταῦτα ἐξεργασάμενον πρὸς ταῖς Σούσων πύλαις ἐσταυρῶσθαι σὺν τῇ πανοικίᾳ, τὴν καταξίαν τοῦ τὰ πάντα ἐπικρατοῦντος θεοῦ διὰ τάχους ἀποδόντος αὐτῷ κρίσιν· τὸ δὲ ἀντίγραφον τῆς ἐπιστολῆς ταύτης ἐκθέντες ἐν παντὶ τόπῳ μετὰ παρρησίας, ἐᾷν τοὺς Ἰουδαίους χρῆσθαι τοῖς ἑαυτῶν νομίμοις, καὶ συνεπισχύειν αὐτοῖς ὅπως τοὺς ἐν καιρῷ θλίψεως ἐπιθεμένους αὐτοῖς ἀμύνωνται τῇ τρισκαιδεκάτῃ τοῦ δωδεκάτου μηνὸς Ἀδὰρ τῇ αὐτῇ ἡμέρᾳ· ταύτην γὰρ ὁ πάντα δυναστεύων θεὸς ἀντ᾽ ὀλεθρίας τοῦ ἐκλεκτοῦ γένους ἐποίησεν αὐτοῖς εὐφροσύνην. καὶ ὑμεῖς οὖν ἐν ταῖς ἐπωνύμοις ὑμῶν ἑορταῖς ἐπίσημον ἡμέραν μετὰ πάσης εὐωχίας ἄγετε, ὅπως καὶ νῦν καὶ μετὰ ταῦτα σωτηρία ἡμῖν καὶ τοῖς εὐνοοῦσιν Πέρσαις, τοῖς δὲ ἡμῖν ἐπιβουλεύουσιν μνημόσυνον τῆς ἀπωλείας. πᾶσα δὲ πόλις ἢ χώρα τὸ σύνολον ἥτις κατὰ ταῦτα μὴ ποιήσῃ δόρατι καὶ πυρὶ καταναλωθήσεται μετ᾽ ὀργῆς· οὐ μόνον ἀνθρώποις ἄβατος, ἀλλὰ καὶ θηρίοις καὶ πετεινοῖς εἰς τὸν ἅπαντα χρόνον ἔχθιστος κατασταθήσεται.",
-      "confidence": 0.078,
+      "confidence": 0.148,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Swete-Amicarelli": "ἐν ἡμέρᾳ μιᾷ ἐν πάσῃ τῇ βασιλείᾳ Ἀρταξέρξου, τῇ τρισκαιδεκάτῃ τοῦ δωδεκάτου μηνὸς ὅς ἐστιν Ἀδάρ. Ὧν ἐστιν ἀντίγραφον τῆς ἐπιστολῆς τὰ ὑπογεγραμμένα Βασιλεὺς μέγας Ἀρταξέρξης τοῖς ἀπὸ τῆς Ἰνδικῆς ἕως τῆς Αἰθιοπίας ἑκατὸν εἴκοσι ἑπτὰ σατραπείαις χωρῶν ἄρχουσι καὶ τοῖς τὰ ἡμέτερα φρονοῦσι χαίρειν. πολλοὶ τῇ πλείστῃ τῶν εὐεργετούντων χρηστότητι πυκνότερον τιμώμενοι μεῖζον ἐφρόνησαν, καὶ οὐ μόνον τοὺς ὑποτεταγμένους ἡμῖν ζητοῦσι κακοποιεῖν, τόν τε κόρον οὐ δυνάμενοι φέρειν καὶ τοῖς ἑαυτῶν εὐεργέταις ἐπιχειροῦσι μηχανᾶσθαι· καὶ τὴν εὐχαριστίαν οὐ μόνον ἐκ τῶν ἀνθρώπων ἀνταναιροῦντες, ἀλλὰ καὶ τοῖς τῶν ἀπειραγάθων κόμποις ἐπαρθέντες, τοῦ τὰ πάντα κατοπτεύοντος ἀεὶ θεοῦ μισοπόνηρον ὑπολαμβάνουσιν ἐκφεύξεσθαι δίκην. πολλάκις δὲ καὶ πολλοὺς τῶν ἐπ᾽ ἐξουσίαις τεταγμένεν τῶν πιστευθέντων χειρίζειν φίλων τὰ πράγματα παραμυθία μετόχους αἱμάτων ἀθῴων καταστήσασα περιέβαλε συμφοραῖς ἀνηκέστοις, τῷ τῆς κακοηθείας ψευδεῖ παραλογισμῷ παραλογισαμένων τὴν τῶν ἐπικρατούντων ἀκέραιον εὐγνωμοσύνην. σκοπεῖν δὲ ἔξεστιν, οὐ τοσοῦτον ἐκ τῶν παλαιοτέρων ὡς παρεδώκαμεν ἱστοριῶν, ὅσα ἐστὶν παρὰ πόδας ὑμᾶς ἐκζητοῦντας ἀνοσίως συντετελεσμένα τῇ τῶν ἀνάξια δυναστευόντων λοιμότητι, καὶ προσέχειν εἰς τὰ μετὰ ταῦτα, εἰς τὸ τὴν βασιλείαν ἀτάραχον τοῖς πᾶσιν ἀνθρώποις μετ᾽ εἰρήνης παρεξόμεθα, χρώμενοι ταῖς μεταβολαῖς, τὰ δὲ ὑπὸ τὴν ὄψιν ἐρχόμενα διακρίνοντες ἀεὶ μετ᾽ ἐπιεικεστέρας ἀπαντήσεως. ὡς γὰρ Ἁμὰν Ἁμαδάθου Μακεδὼν ταῖς ἀληθείαις ἀλλότριος τοῦ τῶν Περσῶν αἵματος καὶ πολὺ διεστηκὼς τῆς ἡμετέρας χρηστότητος, ἐπιξενωθεὶς ἡμῖν ἔτυχεν ἧς ἔχομεν πρὸς πᾶν ἔθνος φιλανθρωπίας ἐπὶ τοσοῦτον ὥστε ἀναγορεύεσθαι ἡμῶν πατέρα καὶ προσκυνούμενον ὑπὸ πάντων τὸ δεύτερον τοῦ βασιλικοῦ θρόνου πρόσωπον διατελεῖν· οὐκ ἐνέγκας δὲ τὴν ὑπερηφανίαν ἐπετήδευσεν τῆς ἀρχῆς στερῆσαι ἡμᾶς καὶ τοῦ πνεύματος, τόν τε ἡμέτερον σωτῆρα καὶ διὰ παντὸς εὐεργέτην Μαρδοχαῖον καὶ τὴν ἄμεμπτον τῆς βασιλείας κοινωνὸν Ἐσθὴρ σὺν παντὶ τῷ τούτων ἔθνει πολυπλόκοις μεθόδων παραλογισμοῖς αἰτησάμενος εἰς ἀπωλίαν· διὰ γὰρ τῶν τρόπων τούτων ᾠήθη λαβὼν ἡμᾶς ἐρήμους τὴν τῶν Περσῶν ἐπικράτησιν εἰς τοὺς Μακεδόνας μετάξαι. ἡμεῖς δὲ τοὺς ὑπὸ τοῦ τρίσαλιτηρίου παραδεδομένους εἰς ἀφανισμὸν Ἰουδαίους εὑρίσκομεν οὐ κακούργους ὄντας, δικαιοτάτοις δὲ πολιτευομένους νόμοις, ὄντας δὲ υἱοὺς τοῦ ὑψίστου μεγίστου ζῶντος θεοῦ τοῦ κατευθύνοντος ἡμῖν τε καὶ τοῖς προγόνοις ἡμῶν τὴν βασιλείαν ἐν τῇ καλλίστῃ διαθέσει. καλῶς οὖν ποιήσετε μὴ προσχρησάμενοι τοῖς ὑπὸ Ἁμὰν Ἁμαδάθου ἀποσταλεῖσι γράμμασιν, διὰ τὸ αὐτὸν τὸν ταῦτα ἐξεργασάμενον πρὸς ταῖς Σούσων πύλαις ἐσταυρῶσθαι σὺν τῇ πανοικίᾳ, τὴν καταξίαν τοῦ τὰ πάντα ἐπικρατοῦντος θεοῦ διὰ τάχους ἀποδόντος αὐτῷ κρίσιν· τὸ δὲ ἀντίγραφον τῆς ἐπιστολῆς ταύτης ἐκθέντες ἐν παντὶ τόπῳ μετὰ παρρησίας, ἐᾷν τοὺς Ἰουδαίους χρῆσθαι τοῖς ἑαυτῶν νομίμοις, καὶ συνεπισχύειν αὐτοῖς ὅπως τοὺς ἐν καιρῷ θλίψεως ἐπιθεμένους αὐτοῖς ἀμύνωνται τῇ τρισκαιδεκάτῃ τοῦ δωδεκάτου μηνὸς Ἀδὰρ τῇ αὐτῇ ἡμέρᾳ· ταύτην γὰρ ὁ πάντα δυναστεύων θεὸς ἀντ᾽ ὀλεθρίας τοῦ ἐκλεκτοῦ γένους ἐποίησεν αὐτοῖς εὐφροσύνην. καὶ ὑμεῖς οὖν ἐν ταῖς ἐπωνύμοις ὑμῶν ἑορταῖς ἐπίσημον ἡμέραν μετὰ πάσης εὐωχίας ἄγετε, ὅπως καὶ νῦν καὶ μετὰ ταῦτα σωτηρία ἡμῖν καὶ τοῖς εὐνοοῦσιν Πέρσαις, τοῖς δὲ ἡμῖν ἐπιβουλεύουσιν μνημόσυνον τῆς ἀπωλείας. πᾶσα δὲ πόλις ἢ χώρα τὸ σύνολον ἥτις κατὰ ταῦτα μὴ ποιήσῃ δόρατι καὶ πυρὶ καταναλωθήσεται μετ᾽ ὀργῆς· οὐ μόνον ἀνθρώποις ἄβατος, ἀλλὰ καὶ θηρίοις καὶ πετεινοῖς εἰς τὸν ἅπαντα χρόνον ἔχθιστος κατασταθήσεται.",
@@ -1388,60 +1332,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 108,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "τεταγμενεν",
-          "confidence": 0.078,
-          "credited_witnesses": []
-        },
-        {
-          "slot_index": 117,
-          "lemma": "ἀθῴων",
-          "lemma_witnesses": [
-            "Swete-Amicarelli",
-            "1st1K-LXX",
-            "Swete (B/A/א)",
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "variants": [
-            {
-              "reading": "ἀθώων",
-              "adopt_text": "ἀθώων",
-              "witnesses": [
-                "Sixtine/Brenton"
-              ],
-              "weight_sum": 0.84
-            }
-          ],
-          "note": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀθῴων' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀθώων (Sixtine/Brenton).",
-          "word_index": 118,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "inflection or spelling (same stem)",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "αθωωνι",
-          "confidence": 0.529,
+          "confidence": 0.148,
           "credited_witnesses": []
         },
         {
@@ -1462,14 +1360,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 142,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "ωσ",
-          "confidence": 0.078,
+          "confidence": 0.148,
           "credited_witnesses": []
         },
         {
@@ -1536,14 +1434,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 195,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "αληθειαισ",
-          "confidence": 0.078,
+          "confidence": 0.148,
           "credited_witnesses": []
         },
         {
@@ -1564,14 +1462,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 342,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "το",
-          "confidence": 0.078,
+          "confidence": 0.148,
           "credited_witnesses": []
         },
         {
@@ -1638,14 +1536,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 433,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "αγετε",
-          "confidence": 0.078,
+          "confidence": 0.148,
           "credited_witnesses": []
         },
         {
@@ -1888,6 +1786,17 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 117,
+          "kept_form": "ἀθῴων",
+          "disregarded_forms": [
+            "ἀθώων"
+          ],
+          "witnesses": [
+            "Sixtine/Brenton"
+          ],
+          "reason": "Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)"
         },
         {
           "slot_index": 127,
@@ -2699,41 +2608,14 @@
             "LXX-Orthodox (Οʹ)"
           ],
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐπιχειροῦσι / ἐπιχειροῦσιν",
-            "ἐστὶν / ἐστὶ",
-            "ἐπετήδευσεν / ἐπετήδευσε",
-            "γράμμασιν, / γράμμασι",
-            "εὐνοοῦσιν / εὐνοοῦσι",
-            "ἐπιβουλεύουσιν / ἐπιβουλεύουσι"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἀπωλίαν· / ἀπώλειαν·"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
-      "rationale": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀθῴων' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀθώων (Sixtine/Brenton). [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀνάξια' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀναξίᾳ (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὰ (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ᾖ (Sixtine/Brenton). Also normalised 87 orthographic/surface variation(s).",
+      "rationale": "[Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ἀνάξια' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἀναξίᾳ (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὰ (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ᾖ (Sixtine/Brenton). Also normalised 88 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 8% = product of 4 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -3053,7 +2935,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 26,
           "word_count": 1,
           "kind": "word",

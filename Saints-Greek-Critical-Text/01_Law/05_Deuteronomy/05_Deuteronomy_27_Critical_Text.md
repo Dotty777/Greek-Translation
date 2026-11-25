@@ -1,6 +1,6 @@
 # Deuteronomy 27 — Saints Greek Critical Text
 
-**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:09:06Z`
+**Division:** `01_Law` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:19Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 26:1 kept in its own chapter (stronger match to its own reference verse)
@@ -82,6 +81,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 28:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 28:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 28:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 28:32 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 28:33 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 28:34 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 28:35 kept in its own chapter (stronger match to its own reference verse)
@@ -135,6 +135,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 26:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 26:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 26:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 26:18 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 26:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:3 kept in its own chapter (stronger match to its own reference verse)
@@ -162,9 +164,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 28:25 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:26 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 28:28 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:29 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:30 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:31 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 28:32 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:33 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:34 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:35 kept in its own chapter (stronger match to its own reference verse)
@@ -176,11 +180,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 28:41 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:42 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:43 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 28:44 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:45 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:46 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:47 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:48 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:49 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 28:50 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:51 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:52 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 28:53 kept in its own chapter (stronger match to its own reference verse)
@@ -216,6 +222,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 26:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 26:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 26:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 26:18 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 26:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:3 kept in its own chapter (stronger match to its own reference verse)
@@ -243,9 +251,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 28:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 28:28 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:31 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 28:32 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:33 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:34 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:35 kept in its own chapter (stronger match to its own reference verse)
@@ -257,11 +267,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 28:41 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:42 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:43 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 28:44 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:45 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:46 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:47 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:48 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:49 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 28:50 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:51 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:52 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 28:53 kept in its own chapter (stronger match to its own reference verse)
@@ -300,6 +312,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 26:17 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 26:18 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 26:19 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 28:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 28:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 28:3 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 28:4 kept in its own chapter (stronger match to its own reference verse)
@@ -411,7 +424,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Φυλάσσεσθε` over `φυλάσσεσθε` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐντολάς` over `ἐντολὰς` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ταύτας` over `ταύτας,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `προσέταξεν / προσέταξε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:2
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -421,7 +433,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `δίδωσίν` over `δίδωσί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `μεγάλους` over `μεγάλους,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `κονίᾳ·` over `κονίᾳ.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:3
 - **Apparatus:** `ἐὰν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἂν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -438,7 +449,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `θεὸς` over `Θεὸς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `τῶν` over `om.` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `σοί.` over `σοι.` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `δίδωσίν / δίδωσί`, `εἶπεν / εἶπε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:4
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
@@ -492,8 +502,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Κυρίῳ` over `Τυρίῳ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `τῷ θεῷ` over `τῶ θεῶ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `σου.` over `σου,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐλάλησεν / ἐλάλησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται / Λευῖται` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Deuteronomy 27:10
 - *Disregarded Surface Variant:* kept `Κυρίου` over `κυρίου` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
@@ -518,7 +526,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰσσαχάρ,` over `Ἰσσάχαρ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰωσὴφ` over `Ἰωσὴφ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Βενιαμείν.` over `Βενιαμίν.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Γαριζείν, / Γαριζὶν`, `Βενιαμείν. / Βενιαμίν.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Deuteronomy 27:13
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -529,15 +536,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ζαβουλών,` over `Ζαβουλὼν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Δὰν` over `Δὰν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Νεφθαλεί.` over `Νεφθαλί.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Νεφθαλεί. / Νεφθαλί.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Deuteronomy 27:14
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐροῦσιν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἐροῦσιν' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'ἐροῦσιν' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `ἐροῦσιν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ἐροῦσιν' together form one word-order variant (Sixtine/Brenton transpose).
+  - *variant type: transposition:* Units 'om.', 'ἐροῦσιν' together form one word-order variant (Sixtine/Brenton transpose).
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Λευεῖται` over `Λευῖται` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
@@ -554,7 +560,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `λαὸς` over `λαὸς,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι,` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:16
 - **Apparatus:** `Γένοιτο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γένοτιο** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -563,21 +568,18 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `αὐτοῦ.` over `αὐτοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:17
 - *Disregarded Surface Variant:* kept `πλησίον.` over `πλησὶον·` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαός,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:18
 - *Disregarded Surface Variant:* kept `ὁδῷ.` over `ὁδῷ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαός,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:19
 - *Disregarded Surface Variant:* kept `Ἐπικατάρατος` over `Ἐπικατάπατος` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -585,7 +587,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαός,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:20
 - **Apparatus:** `ἐκ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τοῦ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -593,20 +594,18 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἐπικατάρατος` over `Ἐπικατάπατος` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ἀπεκάλυψεν` over `ἀπεκάλυψε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `συνκάλυμμα` over `συγκάλυμμα` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `συνκάλυμμα` over `συγκάλυμμα` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 - *Disregarded Surface Variant:* kept `αὐτοῦ.` over `αὐτοῦ·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπεκάλυψεν συνκάλυμμα / ἀπεκάλυψε συγκάλυμμα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation; Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `συνκάλυμμα / συγκάλυμμα`, `συνκάλυμμα / συγκάλυμμα` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### Deuteronomy 27:21
 - *Disregarded Surface Variant:* kept `κτήνους.` over `κτήνους·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:22
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐκ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -616,11 +615,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαός,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:23
 - **Apparatus:** `νύμφης` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **πενθερᾶς** LXX-Orthodox (Οʹ)
-- **Apparatus:** `ἀδελφῆς` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τῆς ἀδελφῆς τῆς** Sixtine/Brenton ; **ἀδελφῆς τῆς** LXX-Orthodox (Οʹ) *(partial substitution)*
+- **Apparatus:** `ἀδελφῆς` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τῆς ἀδελφῆς τῆς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἐπικατάρατος` over `Ἐπικατάπατος` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -633,7 +631,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι`, `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:24
 - **Apparatus:** `αὐτοῦ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -644,7 +641,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαός,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:25
 - *Disregarded Surface Variant:* kept `Ἐπικατάρατος` over `Ἐπικατάπατος` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -652,7 +648,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λαὸς,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Deuteronomy 27:26
 - *Disregarded Surface Variant:* kept `πᾶσιν` over `πᾶσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
@@ -660,7 +655,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἐροῦσιν` over `ἐροῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `λαός` over `λᾶος`, `λαὸς,` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Γένοιτο.` over `γένοιτο.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `πᾶσιν / πᾶσι`, `ἐροῦσιν / ἐροῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ---
 
@@ -788,7 +782,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: καὶ οὗτοι στήσονται ἐπὶ τῆς κατάρας ἐν ὄρει Γαιβάλ· Ρουβήν, Γὰδ καὶ Ἀσήρ, Ζαβουλών, Δὰν καὶ Νεφθαλί.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 8 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only).
 
-### Verse 14 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 14 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Καὶ ἀποκριθέντες οἱ Λευεῖται ἐροῦσιν παντὶ Ἰσραὴλ φωνῇ μεγάλῃ
   - `Swete-Amicarelli`: Καὶ ἀποκριθέντες οἱ Λευεῖται ἐροῦσιν παντὶ Ἰσραὴλ φωνῇ μεγάλῃ
   - `1st1K-LXX`: Καὶ ἀποκριθέντες οἱ Λευεῖται ἐροῦσιν παντὶ Ἰσραὴλ φωνῇ μεγάλῃ
@@ -796,7 +790,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Sixtine/Brenton`: Καὶ ἀποκριθέντες ἐροῦσιν οἱ Λευῖται παντὶ Ἰσραὴλ φωνῇ μεγάλῃ,
   - `LXX-Orthodox (Οʹ)`: καὶ ἀποκριθέντες ἐροῦσιν οἱ Λευῖται παντὶ Ἰσραὴλ φωνῇ μεγάλῃ·
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐροῦσιν (Sixtine/Brenton). [Omission in some witnesses] Adopted 'ἐροῦσιν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 15 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ἐπικατάρατος ἄνθρωπος ὅστις ποιήσει γλυπτὸν καὶ χωνευτόν, βδέλυγμα Κυρίῳ, ἔργον χειρῶν τεχνιτῶν, καὶ θήσει αὐτὸ ἐν ἀποκρύφῳ. καὶ ἀποκριθεὶς ὁ λαὸς ἐροῦσιν Γένοιτο.

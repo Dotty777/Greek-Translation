@@ -1,6 +1,6 @@
 # 1 Chronicles 7 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -55,7 +55,7 @@
 
 **7:25** and Raphe, his sons; Saraph and Thalees, his sons; Tahan, his son.
 
-**7:26** To Gedson, his son: Jeeth, his son; Zemma, his son,
+**7:26** To Ladan his son: sons of Amioueid, sons of Eleimasai,
 
 **7:27** sons of Num, sons of Joshua, his sons.
 
@@ -91,4 +91,5 @@
 - **7:6** — The Greek reads "Benjamin, Abira, and Adiel, three," omitting Bela here and preserving LXX-distinct names across the Benjaminite, Naphtalite, and Manassite lists in vv. 6-19 (such as Badee, Abachi/Amachir, Ariel, Ramessai, Sapphin, Happhin, Raom, Solomon, Balam, Hamphin, Mamphin, Sapphaad, Suros, Badam, and Semira).
 - **7:21** — The Greek has singular "him" (αὐτόν) rather than plural "them," preserves a shorter Ephraimite lineage in vv. 20-21 (Sothalath, Laada, Noome, Ozar), and reads plural "their brothers" (ἀδελφοὶ αὐτῶν) in v. 22.
 - **7:24** — The Greek attaches "and among those who remained" (καὶ ἐν ἐκείνοις τοῖς καταλοίποις) to Ephraim's naming of Bargaa from v. 23 instead of naming a daughter Sheerah, making "he" the subject of "built" and rendering the Hebrew place name Uzzen-sheerah as a personal lineage ("the sons of Ozan: Seera and Raphe").
+- **7:26** — Following Codex Vaticanus/Swete, the Greek critical text reads plural 'sons of Amioueid, sons of Eleimasai' (υἱοὶ Ἀμιουείδ, υἱοὶ Ἐλειμασαί), whereas other Greek witnesses and the Hebrew read singular 'Ammihud his son, Elishama his son.'
 - **7:29** — The Greek includes an extra town (Balad) alongside LXX-distinct place names (Naarnan, Gaian, Thalme) in vv. 28-29 and ends with singular "in this" (ἐν ταύτῃ) rather than plural "in these"; vv. 25-27 and 30-39 likewise preserve numerous LXX-distinct personal names (including Gedson, Jeeth, Zemma, Num, Beriga/Bericha, Gaber, Iphamel/Aphalech/Japhalel, Hobab, Balaam, and Sophas).

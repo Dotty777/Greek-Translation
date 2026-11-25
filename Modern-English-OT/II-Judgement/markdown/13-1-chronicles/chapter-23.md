@@ -1,6 +1,6 @@
 # 1 Chronicles 23 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,4 +75,5 @@
 - **23:5** — Unlike the Hebrew Masoretic Text, the Greek text omits the four thousand gatekeepers (leaving the itemized figures totaling thirty-four thousand rather than thirty-eight thousand) and uses the third-person verb 'he made' rather than first-person 'I made.'
 - **23:7** — The Greek text reads the distinct names Parosom (for Hebrew 'the Gershonites') and Edan (for Hebrew Ladan, reading the initial consonant as a preposition).
 - **23:9** — Across this chapter's genealogies the Greek text preserves distinctive names differing from the Hebrew Masoretic Text: Alothim, Hieiel, and Haidan (v. 9), Joash (vv. 10-11), Idud, Amadiah, Uzziel, and Ikemias (v. 19), and Aidath and Arimoth (v. 23); in vv. 8-9 'and three' runs across the verse division into the sons of Shimei.
+- **23:28** — Greek epi cheira Aaron literally reads "at the hand of Aaron," an idiom meaning "at the side of / assisting the line of Aaron."
 - **23:32** — The Greek text lists only two charges here, omitting 'the charge of the sanctuary' found in the Hebrew Masoretic Text; earlier in v. 28 it similarly reads 'at the hand of Aaron' and 'the service of God' without 'sons of' and 'house of.'

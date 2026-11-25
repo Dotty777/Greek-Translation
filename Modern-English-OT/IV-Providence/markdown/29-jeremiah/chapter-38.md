@@ -1,6 +1,6 @@
 # Jeremiah 38 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (40 verses, 6 translator notes)  
+> **Status:** `draft: true` (40 verses, 7 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -87,6 +87,7 @@
 
 ## Translator Notes
 
+- **38:1** — Jeremiah 38 in the Septuagint corresponds to Jeremiah 31 in the Hebrew Bible (including the New Covenant oracle in 38:31-37).
 - **38:2** — The Greek reads 'I found warmth in the wilderness with those who perished by the sword,' a distinctive Septuagint rendering differing from the Masoretic Text ('the people who survived the sword found grace').
 - **38:8** — The Greek reads 'at the feast of Passover' (en heorte phasek), a notable Septuagint reading where the Masoretic Text has 'among them the blind and the lame.'
 - **38:21** — The Greek reads 'Zion,' 'make retribution,' 'set your heart on the shoulders,' and 'mourning,' reflecting distinctive Septuagint renderings where the Masoretic Text speaks of setting up road markers and signposts toward the highway.

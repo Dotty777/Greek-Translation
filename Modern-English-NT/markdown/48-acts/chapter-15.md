@@ -95,5 +95,5 @@
 - **15:16** — James quotes Amos 9:11-12 following the Septuagint, which reads "the rest of mankind" rather than the Masoretic Text's "the remnant of Edom."
 - **15:20** — "Pollutions" (alisgema) is a rare word occurring only here in the New Testament, clarified in the council's letter (v. 29) as "things sacrificed to idols."
 - **15:23** — The critical text reads "the apostles and the elders, brothers" in apposition, whereas later manuscripts insert "and the" before "brothers."
-- **15:33** — The earliest manuscripts lack verse 34 ("But it seemed good to Silas to remain there"); the Saints Greek Critical Text prints it within double brackets ⟦ ⟧ (shown as an additional verse).
+- **15:33** — The earliest manuscripts lack verse 34 ("Yet it seemed good to Silas to remain there"); the Saints Greek Critical Text prints it within double brackets ⟦ ⟧ (shown as an additional verse).
 - **15:34 *(additional)*** — Text-critical double brackets ⟦ ⟧ are preserved from the Saints Greek Critical Text; this verse is absent from the earliest Greek manuscripts.

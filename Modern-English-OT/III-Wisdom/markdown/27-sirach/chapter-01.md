@@ -1,6 +1,6 @@
 # Sirach 1 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 1 prologue)  
+> **Status:** `draft: true` (27 verses, 6 translator notes, 1 prologue)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Prologue
@@ -66,6 +66,7 @@ Since many great things have been given to us through the Law and the Prophets a
 ## Translator Notes
 
 - **Prologue** — The Greek translator's prologue by the grandson of Jesus ben Sira, dated to the thirty-eighth year of Ptolemy VIII Euergetes II (132 BC), is the earliest witness to the threefold division of Israel's Scriptures ('the Law and the Prophets and the other ancestral books') and reflects on the inherent challenges of translating Hebrew into Greek.
+- **1:1** — In the Saints Greek Critical Text database, the translator's Prologue and 1:1 are stored together in entry 1:1; this Modern English edition displays the Prologue separately above (corresponding to Saints.Bible chapter 0) and places the opening maxim here at 1:1 (Saints.Bible 1:1).
 - **1:13** — The critical Greek text reads 'he will find favor' (εὑρήσει χάριν), whereas some manuscripts read 'he will be blessed.'
 - **1:15** — Greek literally reads 'she nested an eternal foundation,' portraying Wisdom making a lasting home among humanity; 'she will be trusted' translates future passive ἐμπιστευθήσεται (also carrying the sense of proving faithful).
 - **1:19** — The implied subject of the verbs in this verse is the Lord, echoing 1:9 ('saw and counted her'), while 'her' refers to Wisdom.

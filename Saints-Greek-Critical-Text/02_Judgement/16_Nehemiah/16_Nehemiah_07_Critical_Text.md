@@ -1,6 +1,6 @@
 # Nehemiah 07 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:10:45Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:25Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,10 +28,43 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
+- Swete-Amicarelli: Source import repair, 7:41: 'ας᾽ τεσσεράκοντα' → '͵ασ᾽ τεσσεράκοντα' (Swete prints ͵ασ᾽ = 1,200 (Swete dropped lower keraia ͵ and printed stigma ς for σ; Brenton, Rahlfs, & Orthodox read χίλιοι διακόσιοι)). verified import repair applied. Original file unchanged.
+- Swete-Amicarelli: Source import repair, 7:70: 'χρυσοῦς, α, φιάλας' → 'χρυσοῦς, ͵α, φιάλας' (Swete prints ͵α = 1,000 (Swete-Amicarelli dropped lower keraia ͵ on numeral 1,000; Brenton, Rahlfs, & Orthodox read χιλίους)). verified import repair applied. Original file unchanged.
+- 1st1K-LXX: Source import repair, 7:41: 'ας΄ τεσσεράκοντα' → '͵ασ΄ τεσσεράκοντα' (Swete prints ͵ασ΄ = 1,200 (Swete OCR dropped lower keraia ͵ and printed stigma ς for σ; Brenton, Rahlfs, & Orthodox read χίλιοι διακόσιοι)). verified import repair applied. Original file unchanged.
+- 1st1K-LXX: Source import repair, 7:70: 'χρυσοῦς α, φιάλας' → 'χρυσοῦς ͵α, φιάλας' (Swete prints ͵α = 1,000 (Swete OCR dropped lower keraia ͵ on numeral 1,000; Brenton, Rahlfs, & Orthodox read χιλίους)). verified import repair applied. Original file unchanged.
+- Swete (B/A/א): Source import repair, 7:41: 'ας΄ τεσσεράκοντα' → '͵ασ΄ τεσσεράκοντα' (Swete prints ͵ασ΄ = 1,200 (Swete OCR dropped lower keraia ͵ and printed stigma ς for σ; Brenton, Rahlfs, & Orthodox read χίλιοι διακόσιοι)). verified import repair applied. Original file unchanged.
+- Swete (B/A/א): Source import repair, 7:70: 'χρυσοῦς α, φιάλας' → 'χρυσοῦς ͵α, φιάλας' (Swete prints ͵α = 1,000 (Swete OCR dropped lower keraia ͵ on numeral 1,000; Brenton, Rahlfs, & Orthodox read χιλίους)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:8: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:9: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:10: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:11: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:12: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:13: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:14: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:15: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:16: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:17: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:18: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:19: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:20: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:21: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:22: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:23: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:24: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:25: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:26: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:27: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:35: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:36: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:37: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:38: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:42: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:57: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
+- Sixtine/Brenton: Source import repair, 7:62: 'γἱοὶ' → 'υἱοὶ' (υἱοὶ (Brenton USFM OCR slip 'γἱοὶ' with impossible post-consonant rough breathing; corroborated by LXX-Orthodox & Rahlfs)). verified import repair applied. Original file unchanged.
 - Swete-Amicarelli: 6:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:3 kept in its own chapter (stronger match to its own reference verse)
@@ -41,6 +74,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 6:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 6:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 6:13 kept in its own chapter (stronger match to its own reference verse)
@@ -53,6 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 8:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 8:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 8:7 kept in its own chapter (stronger match to its own reference verse)
@@ -77,6 +112,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 6:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:9 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 6:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 6:13 kept in its own chapter (stronger match to its own reference verse)
@@ -89,12 +125,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 8:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:2 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:3 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:6 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:7 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 8:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 8:14 kept in its own chapter (stronger match to its own reference verse)
@@ -113,6 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 6:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:9 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 6:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 6:13 kept in its own chapter (stronger match to its own reference verse)
@@ -125,12 +164,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 8:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:2 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:3 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 8:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 8:14 kept in its own chapter (stronger match to its own reference verse)
@@ -210,8 +251,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **23** υἱοὶ Βεσεί, τριακόσιοι εἴκοσι τέσσαρες·
 **24** υἱοὶ Ἁρείφ, ἑκατὸν δώδεκα·
 **25** υἱοὶ Γαβαών, ἐνενήκοντα πέντε·
-**26** γἱοὶ Βαιθαλὲμ, ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ, πεντηκονταέξ.
-**27** γἱοὶ Ἀναθὼθ, ἑκατὸν εἰκοσιοκτώ.
+**26** υἱοὶ Βαιθαλὲμ, ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ, πεντηκονταέξ.
+**27** υἱοὶ Ἀναθὼθ, ἑκατὸν εἰκοσιοκτώ.
 **28** ἄνδρες Βηθασμώθ, τεσσεράκοντα δύο·
 **29** ἄνδρες Καριθιαρείμ, Καφειρὰ καὶ Βηρώς, ἑπτακόσιοι εἴκοσι εἷς·
 **30** ἄνδρες Ἁραμὰ καὶ Τάμαλ, ἑξακόσιοι εἴκοσι εἷς·
@@ -225,7 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **38** υἱοὶ Σανανάτ, ἐννακόσιοι τριάκοντα.
 **39** οἱ ἱερεῖς, υἱοὶ Ἰωδᾶε εἰς οἶκον Ἰησοῦ, ἐννακόσιοι ἑβδομήκοντα τρεῖς·
 **40** υἱοὶ χίλιοι πεντήκοντα δύο·
-**41** υἱοὶ Φασεδούρ, ας᾽ τεσσεράκοντα ἑπτά·
+**41** υἱοὶ Φασεδούρ, ͵ασ᾽ τεσσεράκοντα ἑπτά·
 **42** υἱοὶ Ἡράμ, χίλιοι δέκα ἑπτά.
 **43** οἱ Λευεί, υἱοὶ Ἰησοῦ τῷ Καβδιὴλ τοῖς υἱοῖς τοῦ Θουδουιά, ἑβδομήκοντα τέσσαρες·
 **44** οἱ ᾄδοντες, υἱοὶ Ἀσάφ, ἑκατὸν τεσσεράκοντα ὀκτώ·
@@ -253,7 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **66** καὶ ἐγένετο πᾶσα ἡ ἐκκλησία ὡσεὶ τέσσαρες μυριάδες δισχίλιοι τριακόσιοι ὀκτώ,
 **67** παρὲξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν, οὗτοι τριακόσιοι τριάκοντα ἑπτά· καὶ ᾄδοντες καὶ ᾄδουσαι διακόσιοι τεσσεράκοντα πέντε·
 **69** ὄνοι δισχίλιοι ἑπτακόσιοι.
-**70** καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς, α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
+**70** καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς, χιλίους, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
 **71** καὶ ἀπὸ ἀρχηγῶν τῶν πατριῶν ἔθηκαν εἰς θησαυρὸν τοῦ ἔτους, τοῦ χρυσίου δύο μυριάδας, καὶ ἀργυρίου μνᾶς δισχιλίας διακοσίας,
 **72** καὶ μεχωνὼθ τῶν ἱερέων ἑξήκοντα ἑπτά.
 **73** καὶ ἐκάθισαν οἱ ἱερεῖς καὶ οἱ Λευεῖται καὶ οἱ πυλωροὶ καὶ οἱ ᾄδοντες καὶ οἱ ἀπὸ τοῦ λαοῦ καὶ οἱ Ναθεινεὶμ καὶ πᾶς Ἰσραὴλ ἐν πόλεσιν αὐτῶν.
@@ -266,7 +307,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `πυλωροὶ` over `πυλωροὶ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ᾄδοντες` over `ἄδοντες` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `Λευεῖται.` over `Λευῖται,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Λευεῖται. / Λευῖται.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:2
 - *Disregarded Surface Variant:* kept `Ἀνανίᾳ` over `Ἁνανίᾳ` (Swete-Amicarelli) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -276,7 +316,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰερουσαλήμ` over `Ἰερουσαλήν` (Swete-Amicarelli) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `θεὸν` over `Θεὸν` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πολλούς·` over `πολλούς.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `βειρὰ / βιρὰ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:3
 - **Apparatus:** `ἐγρηγορούντων κλείσθωσαν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γρηγορούντων κλειέσθωσαν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -310,7 +349,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ναβουχοδονοσὸρ` over `Ναβουχοδονόσορ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλὴμ` over `Ἱερουσαλὴμ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Ἰούδα` over `Ἰουδὰ` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Accent or breathing differs between accented editions (editorial interpretation)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπῴκισεν / ἀπῴκισε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Nehemiah 7:7
 - **Apparatus:** `μετὰ Ζοροβαβὲλ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **om.** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
@@ -333,159 +371,106 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἰσραήλ·` over `Ἰσραὴλ·` (1st1K-LXX, Swete (B/A/א)) — *Accentuation / capitalisation / breathing convention*
 
 ### Nehemiah 7:8
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Φόρος,` over `Φὁρος,` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἑβδομήκοντα δύο·` over `ἑβδομηκονταδύο.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ἑβδομήκοντα δύο· / ἑβδομηκονταδύο·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:9
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Σαφατιά,` over `Σαφατία,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἑβδομήκοντα δύο·` over `ἑβδομηκονταδύο.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ἑβδομήκοντα δύο· / ἑβδομηκονταδύο·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:10
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἠρά,` over `Ἠρὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πεντήκοντα δύο·` over `πεντηκονταδύο.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `πεντήκοντα δύο· / πεντηκονταδύο·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:11
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `Ἰωβάβ δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **καὶ Ἰωὰβ δισχίλιοι ἑξακόσιοι δεκαοκτώ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Φααθμωὰβ` over `Φαὰθ Μωὰβ` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Φααθμωὰβ / Φαὰθ Μωὰβ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Φααθμωὰβ / Φαὰθ Μωὰβ`, `Φααθμωὰβ / φααθ μωαβ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:12
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Αἰλάμ,` over `Αἰλὰμ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πεντήκοντα τέσσαρες·` over `πεντηκοντατέσσαρες.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `πεντήκοντα τέσσαρες· / πεντηκοντατέσσαρες·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:13
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `τεσσεράκοντα` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **τεσσαρακονταπέντε** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ζαθουιά,` over `Ζαθουΐα,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Nehemiah 7:14
-- **Apparatus:** `υἱοὶ Ζαθού ὀκτακόσιοι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γἱοὶ Ζακχού ἑπτακόσιοι** Sixtine/Brenton ; **υἱοὶ Ζακχοῦ ἑπτακόσιοι** LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `Ζαθού ὀκτακόσιοι` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ζακχού ἑπτακόσιοι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἑξήκοντα·` over `ἑξήκοντα.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Nehemiah 7:15
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τεσσεράκοντα ὀκτώ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τεσσαρακονταοκτώ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Βανουί,` over `Βανουῒ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `τεσσεράκοντα ὀκτώ·` over `τεσσαρακονταοκτώ.` (Sixtine/Brenton) — *Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα ὀκτώ· / τεσσαρακονταοκτώ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:16
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Βηβί,` over `Βηβὶ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἴκοσι ὀκτώ·` over `εἰκοσιοκτώ.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `εἴκοσι ὀκτώ· / εἰκοσιοκτώ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:17
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `εἴκοσι ὀκτώ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **εἰκοσιδύο** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἀσγάδ,` over `Ἀσγὰδ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Nehemiah 7:18
-- **Apparatus:** `υἱοὶ Ἀδεικάμ ἑξακόσιοι ἑξήκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γἱοὶ Ἀδωνικὰμ ἑξακόσιοι ἑξηκονταεπτά** Sixtine/Brenton ; **υἱοὶ Ἀδωνικὰμ ἑξακόσιοι ἑξηκονταεπτά·** LXX-Orthodox (Οʹ) *(partial substitution)*
+- **Apparatus:** `Ἀδεικάμ ἑξακόσιοι ἑξήκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἀδωνικὰμ ἑξακόσιοι ἑξηκονταεπτά** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 
 ### Nehemiah 7:19
-- **Apparatus:** `υἱοὶ Βατοεί δισχίλιοι ἑξήκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γἱοὶ Βαγοῒ δισχίλιοι ἑξηκονταεπτά** Sixtine/Brenton ; **υἱοὶ Βαγοΐ δισχίλιοι ἑξηκονταεπτά·** LXX-Orthodox (Οʹ) *(partial substitution)*
+- **Apparatus:** `Βατοεί δισχίλιοι ἑξήκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Βαγοῒ δισχίλιοι ἑξηκονταεπτά** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 
 ### Nehemiah 7:20
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἠδείν,` over `Ἠδὶν,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `πεντήκοντα πέντε·` over `πεντηκονταπέντε.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἠδείν, / Ἠδὶν` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `πεντήκοντα πέντε· / πεντηκονταπέντε·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:21
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `ἐνενήκοντα ὀκτώ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἐννενηκονταοκτώ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἐζεκίᾳ,` over `Ἑζεκίᾳ,` (Swete-Amicarelli) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `ἐνενήκοντα ὀκτώ·` over `ἐννενηκονταοκτώ.` (Sixtine/Brenton) — *Word division differs with spelling convention (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνενήκοντα ὀκτώ· / ἐνενηκονταοκτώ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:22
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἡσάμ,` over `Ἠσὰμ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `εἴκοσι ὀκτώ·` over `εἵκοσι ὀκτὠ·`, `εἰκοσιοκτώ.` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `εἴκοσι ὀκτώ· / εἰκοσιοκτώ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:23
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Βεσεί,` over `Βεσεῒ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `εἴκοσι τέσσαρες·` over `εἰκοσιτέσσαρες.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `εἴκοσι τέσσαρες· / εἰκοσιτέσσαρες·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:24
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `om.` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **υἱοὶ Ἀσὲν διακόσιοι εἰκοσιτρεῖς** Sixtine/Brenton LXX-Orthodox (Οʹ) *(omission / addition)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἁρείφ,` over `Ἀρὶφ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἁρείφ, / Ἀρὶφ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:25
-- **Apparatus:** `υἱοὶ Γαβαών ἐνενήκοντα πέντε` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ Γαβαὼν ἐννενηκονταπέντε** Sixtine/Brenton *(partial substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-
-### Nehemiah 7:26
-- **Apparatus:** `γἱοὶ` Sixtine/Brenton **]** **υἱοὶ** LXX-Orthodox (Οʹ)
-
-### Nehemiah 7:27
-- **Apparatus:** `γἱοὶ` Sixtine/Brenton **]** **υἱοὶ** LXX-Orthodox (Οʹ)
+- *Disregarded Surface Variant:* kept `Γαβαών,` over `Γαβαὼν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `ἐνενήκοντα πέντε·` over `ἐννενηκονταπέντε.` (Sixtine/Brenton) — *Word division differs with spelling convention (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνενήκοντα πέντε· / ἐνενηκονταπέντε·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:28
-- **Apparatus:** `τεσσεράκοντα δύο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τεσσαρακονταδύο** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἄνδρες` over `Ἄνδρες` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Βηθασμώθ,` over `Βηθασμὼθ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τεσσεράκοντα δύο·` over `τεσσαρακονταδύο.` (Sixtine/Brenton) — *Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα δύο· / τεσσαρακονταδύο·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:29
 - **Apparatus:** `Καριθιαρείμ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Καριαθαρὶμ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -533,68 +518,52 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `ἄνδρες` over `Ἄνδρες` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἠλὰμ ἀάρ,` over `Ἠλαμαὰρ,` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἠλὰμ ἀάρ, / Ἠλαμαὰρ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἠλὰμ ἀάρ, / Ἠλαμαὰρ`, `Ἠλὰμ ἀάρ, / Ηλαμ—ααρ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:35
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἡράμ,` over `Ἠρὰμ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `εἴκοσι·` over `εἴ κοσι·` (1st1K-LXX, Swete (B/A/א)) — *Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:36
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τεσσεράκοντα πέντε` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τεσσαρακονταπέντε** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἰερειχώ,` over `Ἱεριχὼ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἰερειχώ, / Ἰεριχὼ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `τεσσεράκοντα πέντε·` over `τεσσαρακονταπέντε.` (Sixtine/Brenton) — *Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα πέντε· / τεσσαρακονταπέντε·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:37
-- **Apparatus:** `υἱοὶ Λόδ Ἁδιὰ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γἱοὶ Λοδαδὶδ** Sixtine/Brenton ; **υἱοὶ Λοδαδὶδ** LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `Λόδ Ἁδιὰ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Λοδαδὶδ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- **Apparatus:** `εἷς·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **om.** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `Ὠνώ,` over `Ὠνὼ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `εἴκοσι εἷς·` over `εἴκοσι εἶς·`, `εἰκοσιεῖς.` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `εἴκοσι εἷς· / εἰκοσιεῖς·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:38
-- **Apparatus:** `υἱοὶ Σανανάτ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γἱοὶ Σανανὰ τρισχίλιοι** Sixtine/Brenton ; **υἱοὶ Σανανὰ** LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `Σανανάτ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Σανανὰ τρισχίλιοι** Sixtine/Brenton ; **Σανανὰ** LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 
 ### Nehemiah 7:39
 - **Apparatus:** `ἐννακόσιοι ἑβδομήκοντα τρεῖς·` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἐνακόσιοι ἑβδομηκοντατρεῖς·** LXX-Orthodox (Οʹ)
+- **Apparatus:** `ἐννακόσιοι` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **ἐνακόσιοι** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `οἱ` over `Οἱ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἱερεῖς,` over `ἱερεῖς` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ἰωδᾶε` over `Ἰωδαὲ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ἑβδομήκοντα τρεῖς·` over `ἑβδομηκοντατρεῖς.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:40
-- **Apparatus:** `χίλιοι πεντήκοντα δύο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **Ἐμμὴρ χίλιοι πεντηκονταδύο** Sixtine/Brenton *(partial substitution)*
+- **Apparatus:** `χίλιοι πεντήκοντα δύο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Ἐμμὴρ χίλιοι πεντηκονταδύο** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `υἱοὶ` over `υἱρὶ` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 
 ### Nehemiah 7:41
-- **Apparatus:** `Φασεδούρ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Φασεοὺρ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `ας` Swete-Amicarelli **]** **χίλιοι** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τεσσεράκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **διακόσιοι τεσσαρακονταεπτά** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
+- **Apparatus:** `Φασεδούρ ͵ασ τεσσεράκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Φασεοὺρ χίλιοι διακόσιοι τεσσαρακονταεπτά** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `υἱοὶ` over `Υἱοὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `ας` over `ας΄` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the base copy is kept); not counted as a variant*
 
 ### Nehemiah 7:42
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἡράμ,` over `Ἠρὰμ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `δέκα ἑπτά.` over `δεκαεπτά.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `δέκα ἑπτά. / δεκαεπτά·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
@@ -614,11 +583,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἑβδομήκοντα τέσσαρες·` over `ἑβδομηκοντατέσσαρες.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:44
-- **Apparatus:** `τεσσεράκοντα ὀκτώ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τεσσαρακονταοκτώ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `οἱ` over `Οἱ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἀσάφ,` over `Ἀσὰφ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τεσσεράκοντα ὀκτώ·` over `τεσσαρακονταοκτώ.` (Sixtine/Brenton) — *Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα ὀκτώ· / τεσσαρακονταοκτώ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:45
 - **Apparatus:** `υἱοῦ Ἀτήρ υἱοὶ Τελαμών υἱοὶ Ἀκού` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **υἱοὶ Τελμὼν υἱοὶ Ἀκοὺβ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
@@ -632,7 +600,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἁτειτά,` over `Ἀτιτὰ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Σαβεί,` over `Σαβὶ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `τριάκοντα ὀκτώ.` over `τριακονταοκτώ.` (Sixtine/Brenton) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἁτειτά, / Ἀτιτά,`, `Σαβεί, / Σαβί,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `τριάκοντα ὀκτώ. / τριακονταοκτώ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:46
@@ -678,7 +645,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Γηζάμ,` over `Γηζὰμ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ὀζεί,` over `Ὀζὶ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Φεσή,` over `Φεσὴ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ὀζεί, / Ὀζί,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:52
 - **Apparatus:** `Μεσεινώμ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Μεϊνὼν** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -686,7 +652,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Βησεί,` over `Βησὶ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Νεφωσασεί,` over `Νεφωσασὶ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Βησεί, / Βησί,`, `Νεφωσασεί, / Νεφωσασί,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:53
 - **Apparatus:** `Βακβού` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Βακβοὺκ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -696,7 +661,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἁχειφά,` over `Ἀχιφὰ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἁχειφά, / Ἀχιφά,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:54
 - **Apparatus:** `Βασαώθ υἱοὶ Μεειδά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Βασαλὼθ υἱοὶ Μιδὰ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
@@ -716,19 +680,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Ἁτειφά.` over `Ἀτιφά.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἁτειφά. / Ἀτιφά,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:57
-- **Apparatus:** `υἱοὶ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **γἱοὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `Σαφάραθ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Σαφαρὰτ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Σαλωμών·` over `Σαλωμὼν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Σουτεί,` over `Σουτεῒ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Φερειδά,` over `Φεριδὰ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Φερειδά, / Φεριδά,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:58
 - **Apparatus:** `Γαδήλ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Γαδαὴλ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
@@ -745,16 +704,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Φακάραθ,` over `Φακαρὰθ,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Σαβαείμ,` over `Σαβαῒμ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Ἠμείμ·` over `Ἠμίμ.` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Σαβαείμ, / Σαβαΐμ,`, `Ἠμείμ· / Ἠμίμ·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:60
-- **Apparatus:** `ἐνενήκοντα δύο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἐννενηκονταδύο** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `πάντες` over `Πάντες` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ναθεινεὶμ` over `Ναθινὶμ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Σαλωμὼν` over `Σαλωμὼν,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ναθεινεὶμ / ναθινίμ,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
+- *Disregarded Surface Variant:* kept `ἐνενήκοντα δύο.` over `ἐννενηκονταδύο.` (Sixtine/Brenton) — *Word division differs with spelling convention (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνενήκοντα δύο. / ἐνενηκονταδύο.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:61
 - **Apparatus:** `Ἁρησά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Θελαρησὰ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
@@ -773,14 +729,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `εἰσιν·` over `εἰσίν·` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 
 ### Nehemiah 7:62
-- **Apparatus:** `υἱοὶ Δαλεά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **γἱοὶ Δαλαία** Sixtine/Brenton ; **υἱοὶ Δαλαία,** LXX-Orthodox (Οʹ) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τεσσεράκοντα δύο` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τεσσαρακονταδύο** Sixtine/Brenton *(lexical substitution)*
+- **Apparatus:** `Δαλεά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Δαλαία** Sixtine/Brenton LXX-Orthodox (Οʹ) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `Τωβιά,` over `Τωβία,` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `Νεκωδά,` over `Νεκωδὰ,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
+- *Disregarded Surface Variant:* kept `τεσσεράκοντα δύο·` over `τεσσαρακονταδύο.` (Sixtine/Brenton) — *Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα δύο· / τεσσαρακονταδύο·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:63
 - **Apparatus:** `ἔλαβεν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἔλαβον** Sixtine/Brenton LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -799,7 +754,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `γυναῖκας` over `γυναῖκας,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ἐπ᾽` over `ἐπʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτῶν·` over `αὐτῶν.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ἑβειά, / Ἐβία,`, `Βερζελλεί, / Βερζελλί,`, `Βερζελλεὶ / Βερζελλὶ`, `Γαλααδείτου / Γαλααδίτου` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Nehemiah 7:64
 - *Disregarded Surface Variant:* kept `οὗτοι` over `Οὗτοι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -827,29 +781,26 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `παρὲξ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **πάρεκ** Sixtine/Brenton *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τριακόσιοι τριάκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **ἑπτακισχίλιοι τριακόσιοι τριακονταεπτά** Sixtine/Brenton *(partial substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
-- **Apparatus:** `τεσσεράκοντα πέντε` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **τεσσαρακονταπέντε** Sixtine/Brenton *(lexical substitution)*
+- **Apparatus:** `τριακόσιοι τριάκοντα ἑπτά` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἑπτακισχίλιοι τριακόσιοι τριακονταεπτά** Sixtine/Brenton LXX-Orthodox (Οʹ) *(partial substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `αὐτῶν,` over `αὐτῶν·` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `ᾄδοντες` over `ἄδοντες` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `ᾄδουσαι` over `ᾄδουσαι,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `τεσσεράκοντα πέντε·` over `τεσσαρακονταπέντε.` (Sixtine/Brenton) — *Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `τεσσεράκοντα πέντε· / τεσσαρακονταπέντε·` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:69
 - *Disregarded Surface Variant:* kept `ὄνοι` over `Ὄνοι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Nehemiah 7:70
-- **Apparatus:** `α` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **χιλίους** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - **Apparatus:** `μεχωνὼθ` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **χωθωνὼθ** Sixtine/Brenton LXX-Orthodox (Οʹ) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
   - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `καὶ` over `Καὶ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἔργον` over `ἐργον` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `χρυσοῦς,` over `χρυσοῦς` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
+- *Disregarded Surface Variant:* kept `χιλίους,` over `͵α,` (1st1K-LXX, Swete (B/A/א), Swete-Amicarelli) — *Letter-numeral abbreviation matched to an attested number of the same value*
 - *Disregarded Surface Variant:* kept `πεντήκοντα` over `πεντήκοντα,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Nehemiah 7:71
@@ -879,7 +830,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ᾄδοντες` over `ἄδοντες` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `λαοῦ` over `λαοῦ,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `Ναθεινεὶμ` over `Ναθινὶμ,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Ναθεινεὶμ / ναθινὶμ` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ---
 
@@ -951,114 +901,108 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'μετὰ Ζοροβαβὲλ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'Νααμιά Ναεμάνει Μαλδόχεος Βαλσάν Μασφέραν Ἐσρά Βατοεί' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ Ῥεελμὰ Ναεμανὶ Μαρδοχαῖος Βαλσὰν Μασφαρὰθ Ἔσδρα Βογουΐα (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'Ναούμ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἰναοὺμ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'υἱοῦ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over λαοῦ (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).
 - *confidence:* Verse confidence 8% = product of 4 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 8 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Φόρος, δισχίλιοι ἑκατὸν ἑβδομήκοντα δύο·
   - `Swete-Amicarelli`: υἱοὶ Φόρος, δισχίλιοι ἑκατὸν ἑβδομήκοντα δύο·
   - `1st1K-LXX`: υἱοὶ Φὁρος, δισχίλιοι ἑκατὸν ἑβδομήκοντα δύο·
   - `Swete (B/A/א)`: υἱοὶ Φὁρος, δισχίλιοι ἑκατὸν ἑβδομήκοντα δύο·
-  - `Sixtine/Brenton`: γἱοὶ Φόρος, δισχίλιοι ἑκατὸν ἑβδομηκονταδύο.
+  - `Sixtine/Brenton`: υἱοὶ Φόρος, δισχίλιοι ἑκατὸν ἑβδομηκονταδύο.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Φόρος δισχίλιοι ἑκατὸν ἑβδομηκονταδύο·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs (same letters written as one word or two)).
 
-### Verse 9 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Σαφατιά, τριακόσιοι ἑβδομήκοντα δύο·
   - `Swete-Amicarelli`: υἱοὶ Σαφατιά, τριακόσιοι ἑβδομήκοντα δύο·
   - `1st1K-LXX`: υἱοὶ Σαφατιά, τριακόσιοι ἑβδομήκοντα δύο·
   - `Swete (B/A/א)`: υἱοὶ Σαφατιά, τριακόσιοι ἑβδομήκοντα δύο·
-  - `Sixtine/Brenton`: γἱοὶ Σαφατία, τριακόσιοι ἑβδομηκονταδύο.
+  - `Sixtine/Brenton`: υἱοὶ Σαφατία, τριακόσιοι ἑβδομηκονταδύο.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Σαφατία τριακόσιοι ἑβδομηκονταδύο·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs (same letters written as one word or two)).
 
-### Verse 10 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἠρά, ἑξακόσιοι πεντήκοντα δύο·
   - `Swete-Amicarelli`: υἱοὶ Ἠρά, ἑξακόσιοι πεντήκοντα δύο·
   - `1st1K-LXX`: υἱοὶ Ἠρά, ἑξακόσιοι πεντήκοντα δύο·
   - `Swete (B/A/א)`: υἱοὶ Ἠρά, ἑξακόσιοι πεντήκοντα δύο·
-  - `Sixtine/Brenton`: γἱοὶ Ἠρὰ, ἑξακόσιοι πεντηκονταδύο.
+  - `Sixtine/Brenton`: υἱοὶ Ἠρὰ, ἑξακόσιοι πεντηκονταδύο.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἠρὰ ἑξακόσιοι πεντηκονταδύο·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Word division differs (same letters written as one word or two)).
 
-### Verse 11 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 11 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Φααθμωὰβ τοῖς υἱοῖς Ἰησοῦ Ἰωβάβ, δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ·
   - `Swete-Amicarelli`: υἱοὶ Φααθμωὰβ τοῖς υἱοῖς Ἰησοῦ Ἰωβάβ, δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ·
   - `1st1K-LXX`: υἱοὶ Φααθμωὰβ τοῖς υἱοῖς Ἰησοῦ Ἰωβάβ, δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ·
   - `Swete (B/A/א)`: υἱοὶ Φααθμωὰβ τοῖς υἱοῖς Ἰησοῦ Ἰωβάβ, δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ·
-  - `Sixtine/Brenton`: γἱοὶ Φαὰθ Μωὰβ τοῖς υἱοῖς Ἰησοῦ καὶ Ἰωὰβ, δισχίλιοι ἑξακόσιοι δεκαοκτώ.
+  - `Sixtine/Brenton`: υἱοὶ Φαὰθ Μωὰβ τοῖς υἱοῖς Ἰησοῦ καὶ Ἰωὰβ, δισχίλιοι ἑξακόσιοι δεκαοκτώ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Φαὰθ Μωὰβ τοῖς υἱοῖς Ἰησοῦ καὶ Ἰωὰβ δισχίλιοι ἑξακόσιοι δεκαοκτώ·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'Ἰωβάβ δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ Ἰωὰβ δισχίλιοι ἑξακόσιοι δεκαοκτώ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Ἰωβάβ δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over καὶ Ἰωὰβ δισχίλιοι ἑξακόσιοι δεκαοκτώ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 12 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Αἰλάμ, χίλιοι διακόσιοι πεντήκοντα τέσσαρες·
   - `Swete-Amicarelli`: υἱοὶ Αἰλάμ, χίλιοι διακόσιοι πεντήκοντα τέσσαρες·
   - `1st1K-LXX`: υἱοὶ Αἰλάμ, χίλιοι διακόσιοι πεντήκοντα τέσσαρες·
   - `Swete (B/A/א)`: υἱοὶ Αἰλάμ, χίλιοι διακόσιοι πεντήκοντα τέσσαρες·
-  - `Sixtine/Brenton`: γἱοὶ Αἰλὰμ, χίλιοι διακόσιοι πεντηκοντατέσσαρες.
+  - `Sixtine/Brenton`: υἱοὶ Αἰλὰμ, χίλιοι διακόσιοι πεντηκοντατέσσαρες.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Αἰλὰμ χίλιοι διακόσιοι πεντηκοντατέσσαρες·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Word division differs (same letters written as one word or two)).
 
-### Verse 13 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 13 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ζαθουιά, ὀκτακόσιοι τεσσεράκοντα·
   - `Swete-Amicarelli`: υἱοὶ Ζαθουιά, ὀκτακόσιοι τεσσεράκοντα·
   - `1st1K-LXX`: υἱοὶ Ζαθουιά, ὀκτακόσιοι τεσσεράκοντα·
   - `Swete (B/A/א)`: υἱοὶ Ζαθουιά, ὀκτακόσιοι τεσσεράκοντα·
-  - `Sixtine/Brenton`: γἱοὶ Ζαθουΐα, ὀκτακόσιοι τεσσαρακονταπέντε.
+  - `Sixtine/Brenton`: υἱοὶ Ζαθουΐα, ὀκτακόσιοι τεσσαρακονταπέντε.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ζαθουΐα ὀκτακόσιοι τεσσαρακονταπέντε·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'τεσσεράκοντα' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταπέντε (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'τεσσεράκοντα' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταπέντε (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 14 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ζαθού, ὀκτακόσιοι ἑξήκοντα·
   - `Swete-Amicarelli`: υἱοὶ Ζαθού, ὀκτακόσιοι ἑξήκοντα·
   - `1st1K-LXX`: υἱοὶ Ζαθού, ὀκτακόσιοι ἑξήκοντα·
   - `Swete (B/A/א)`: υἱοὶ Ζαθού, ὀκτακόσιοι ἑξήκοντα·
-  - `Sixtine/Brenton`: γἱοὶ Ζακχού, ἑπτακόσιοι ἑξήκοντα.
+  - `Sixtine/Brenton`: υἱοὶ Ζακχού, ἑπτακόσιοι ἑξήκοντα.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ζακχοῦ ἑπτακόσιοι ἑξήκοντα·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Ζαθού ὀκτακόσιοι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Ζακχού ἑπτακόσιοι (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Ζαθού ὀκτακόσιοι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ζακχού ἑπτακόσιοι (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 15 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Βανουί, ἑξακόσιοι τεσσεράκοντα ὀκτώ·
   - `Swete-Amicarelli`: υἱοὶ Βανουί, ἑξακόσιοι τεσσεράκοντα ὀκτώ·
   - `1st1K-LXX`: υἱοὶ Βανουί, ἑξακόσιοι τεσσεράκοντα ὀκτώ·
   - `Swete (B/A/א)`: υἱοὶ Βανουί, ἑξακόσιοι τεσσεράκοντα ὀκτώ·
-  - `Sixtine/Brenton`: γἱοὶ Βανουῒ, ἑξακόσιοι τεσσαρακονταοκτώ.
+  - `Sixtine/Brenton`: υἱοὶ Βανουῒ, ἑξακόσιοι τεσσαρακονταοκτώ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Βανουΐ ἑξακόσιοι τεσσαρακονταοκτώ·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τεσσεράκοντα ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταοκτώ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))).
 
-### Verse 16 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Βηβί, ἑξακόσιοι εἴκοσι ὀκτώ·
   - `Swete-Amicarelli`: υἱοὶ Βηβί, ἑξακόσιοι εἴκοσι ὀκτώ·
   - `1st1K-LXX`: υἱοὶ Βηβί, ἑξακόσιοι εἴκοσι ὀκτώ·
   - `Swete (B/A/א)`: υἱοὶ Βηβί, ἑξακόσιοι εἴκοσι ὀκτώ·
-  - `Sixtine/Brenton`: γἱοὶ Βηβὶ, ἑξακόσιοι εἰκοσιοκτώ.
+  - `Sixtine/Brenton`: υἱοὶ Βηβὶ, ἑξακόσιοι εἰκοσιοκτώ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Βηβὶ ἑξακόσιοι εἰκοσιοκτώ·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Word division differs (same letters written as one word or two)).
 
-### Verse 17 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 17 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἀσγάδ, δισχίλιοι τριακόσιοι εἴκοσι ὀκτώ·
   - `Swete-Amicarelli`: υἱοὶ Ἀσγάδ, δισχίλιοι τριακόσιοι εἴκοσι ὀκτώ·
   - `1st1K-LXX`: υἱοὶ Ἀσγάδ, δισχίλιοι τριακόσιοι εἴκοσι ὀκτώ·
   - `Swete (B/A/א)`: υἱοὶ Ἀσγάδ, δισχίλιοι τριακόσιοι εἴκοσι ὀκτώ·
-  - `Sixtine/Brenton`: γἱοὶ Ἀσγὰδ, δισχίλιοι τριακόσιοι εἰκοσιδύο.
+  - `Sixtine/Brenton`: υἱοὶ Ἀσγὰδ, δισχίλιοι τριακόσιοι εἰκοσιδύο.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἀσγὰδ δισχίλιοι τριακόσιοι εἰκοσιδύο·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'εἴκοσι ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over εἰκοσιδύο (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'εἴκοσι ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over εἰκοσιδύο (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 18 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἀδεικάμ, ἑξακόσιοι ἑξήκοντα ἑπτά·
   - `Swete-Amicarelli`: υἱοὶ Ἀδεικάμ, ἑξακόσιοι ἑξήκοντα ἑπτά·
   - `1st1K-LXX`: υἱοὶ Ἀδεικάμ, ἑξακόσιοι ἑξήκοντα ἑπτά·
   - `Swete (B/A/א)`: υἱοὶ Ἀδεικάμ, ἑξακόσιοι ἑξήκοντα ἑπτά·
-  - `Sixtine/Brenton`: γἱοὶ Ἀδωνικὰμ, ἑξακόσιοι ἑξηκονταεπτά.
+  - `Sixtine/Brenton`: υἱοὶ Ἀδωνικὰμ, ἑξακόσιοι ἑξηκονταεπτά.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἀδωνικὰμ ἑξακόσιοι ἑξηκονταεπτά·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Ἀδεικάμ ἑξακόσιοι ἑξήκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Ἀδωνικὰμ ἑξακόσιοι ἑξηκονταεπτά (Sixtine/Brenton).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Ἀδεικάμ ἑξακόσιοι ἑξήκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἀδωνικὰμ ἑξακόσιοι ἑξηκονταεπτά (Sixtine/Brenton).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 19 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -1066,92 +1010,86 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Swete-Amicarelli`: υἱοὶ Βατοεί, δισχίλιοι ἑξήκοντα ἑπτά·
   - `1st1K-LXX`: υἱοὶ Βατοεί, δισχίλιοι ἑξήκοντα ἑπτά·
   - `Swete (B/A/א)`: υἱοὶ Βατοεί, δισχίλιοι ἑξήκοντα ἑπτά·
-  - `Sixtine/Brenton`: γἱοὶ Βαγοῒ, δισχίλιοι ἑξηκονταεπτά.
+  - `Sixtine/Brenton`: υἱοὶ Βαγοῒ, δισχίλιοι ἑξηκονταεπτά.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Βαγοΐ δισχίλιοι ἑξηκονταεπτά·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Βατοεί δισχίλιοι ἑξήκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Βαγοῒ δισχίλιοι ἑξηκονταεπτά (Sixtine/Brenton).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Βατοεί δισχίλιοι ἑξήκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Βαγοῒ δισχίλιοι ἑξηκονταεπτά (Sixtine/Brenton).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 20 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἠδείν, ἑξακόσιοι πεντήκοντα πέντε·
   - `Swete-Amicarelli`: υἱοὶ Ἠδείν, ἑξακόσιοι πεντήκοντα πέντε·
   - `1st1K-LXX`: υἱοὶ Ἠδείν, ἑξακόσιοι πεντήκοντα πέντε·
   - `Swete (B/A/א)`: υἱοὶ Ἠδείν, ἑξακόσιοι πεντήκοντα πέντε·
-  - `Sixtine/Brenton`: γἱοὶ Ἠδὶν, ἑξακόσιοι πεντηκονταπέντε.
+  - `Sixtine/Brenton`: υἱοὶ Ἠδὶν, ἑξακόσιοι πεντηκονταπέντε.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἠδὶν ἑξακόσιοι πεντηκονταπέντε·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Koine/Uncial itacistic spelling (ει / ι equivalence); Word division differs (same letters written as one word or two)).
 
-### Verse 21 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἀτὴρ τῷ Ἐζεκίᾳ, ἐνενήκοντα ὀκτώ·
   - `Swete-Amicarelli`: υἱοὶ Ἀτὴρ τῷ Ἑζεκίᾳ, ἐνενήκοντα ὀκτώ·
   - `1st1K-LXX`: υἱοὶ Ἀτὴρ τῷ Ἐζεκίᾳ, ἐνενήκοντα ὀκτώ·
   - `Swete (B/A/א)`: υἱοὶ Ἀτὴρ τῷ Ἐζεκίᾳ, ἐνενήκοντα ὀκτώ·
-  - `Sixtine/Brenton`: γἱοὶ Ἀτὴρ τῷ Ἐζεκίᾳ, ἐννενηκονταοκτώ.
+  - `Sixtine/Brenton`: υἱοὶ Ἀτὴρ τῷ Ἐζεκίᾳ, ἐννενηκονταοκτώ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἀτὴρ τῷ Ἐζεκίᾳ ἐνενηκονταοκτώ·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'ἐνενήκοντα ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐννενηκονταοκτώ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs with spelling convention (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type))).
 
-### Verse 22 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἡσάμ, τριακόσιοι εἴκοσι ὀκτώ·
   - `Swete-Amicarelli`: υἱοὶ Ἡσάμ, τριακόσιοι εἴκοσι ὀκτώ·
   - `1st1K-LXX`: υἱοὶ Ἡσάμ. τριακόσιοι εἵκοσι ὀκτὠ·
   - `Swete (B/A/א)`: υἱοὶ Ἡσάμ. τριακόσιοι εἵκοσι ὀκτὠ·
-  - `Sixtine/Brenton`: γἱοὶ Ἠσὰμ, τριακόσιοι εἰκοσιοκτώ.
+  - `Sixtine/Brenton`: υἱοὶ Ἠσὰμ, τριακόσιοι εἰκοσιοκτώ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἠσὰμ τριακόσιοι εἰκοσιοκτώ·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs (same letters written as one word or two)).
 
-### Verse 23 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Βεσεί, τριακόσιοι εἴκοσι τέσσαρες·
   - `Swete-Amicarelli`: υἱοὶ Βεσεί, τριακόσιοι εἴκοσι τέσσαρες·
   - `1st1K-LXX`: υἱοὶ Βεσεί, τριακόσιοι εἴκοσι τέσσαρες·
   - `Swete (B/A/א)`: υἱοὶ Βεσεί, τριακόσιοι εἴκοσι τέσσαρες·
-  - `Sixtine/Brenton`: γἱοὶ Βεσεῒ, τριακόσιοι εἰκοσιτέσσαρες.
+  - `Sixtine/Brenton`: υἱοὶ Βεσεῒ, τριακόσιοι εἰκοσιτέσσαρες.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Βεσεΐ τριακόσιοι εἰκοσιτέσσαρες·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs (same letters written as one word or two)).
 
-### Verse 24 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 24 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἁρείφ, ἑκατὸν δώδεκα·
   - `Swete-Amicarelli`: υἱοὶ Ἁρείφ, ἑκατὸν δώδεκα·
   - `1st1K-LXX`: υἱοὶ Ἁρείφ, ἑκατὸν δώδεκα·
   - `Swete (B/A/א)`: υἱοὶ Ἁρείφ, ἑκατὸν δώδεκα·
-  - `Sixtine/Brenton`: γἱοὶ Ἀρὶφ, ἑκατὸν δώδεκα· υἱοὶ Ἀσὲν, διακόσιοι εἰκοσιτρεῖς.
+  - `Sixtine/Brenton`: υἱοὶ Ἀρὶφ, ἑκατὸν δώδεκα· υἱοὶ Ἀσὲν, διακόσιοι εἰκοσιτρεῖς.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἀρὶφ ἑκατὸν δώδεκα· υἱοὶ Ἀσὲν διακόσιοι εἰκοσιτρεῖς·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over υἱοὶ Ἀσὲν διακόσιοι εἰκοσιτρεῖς (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over υἱοὶ Ἀσὲν διακόσιοι εἰκοσιτρεῖς (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 25 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Γαβαών, ἐνενήκοντα πέντε·
   - `Swete-Amicarelli`: υἱοὶ Γαβαών, ἐνενήκοντα πέντε·
   - `1st1K-LXX`: υἱοὶ Γαβαών, ἐνενήκοντα πέντε·
   - `Swete (B/A/א)`: υἱοὶ Γαβαών, ἐνενήκοντα πέντε·
-  - `Sixtine/Brenton`: γἱοὶ Γαβαὼν, ἐννενηκονταπέντε.
+  - `Sixtine/Brenton`: υἱοὶ Γαβαὼν, ἐννενηκονταπέντε.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Γαβαὼν ἐνενηκονταπέντε·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Γαβαών ἐνενήκοντα πέντε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Γαβαὼν ἐννενηκονταπέντε (Sixtine/Brenton).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Word division differs with spelling convention (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type))).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** γἱοὶ Βαιθαλὲμ, ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ, πεντηκονταέξ.
-  - `Sixtine/Brenton`: γἱοὶ Βαιθαλὲμ, ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ, πεντηκονταέξ.
+- **Critical Text:** υἱοὶ Βαιθαλὲμ, ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ, πεντηκονταέξ.
+  - `Sixtine/Brenton`: υἱοὶ Βαιθαλὲμ, ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ, πεντηκονταέξ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Βαιθαλὲμ ἑκατὸν εἰκοσιτρεῖς· υἱοὶ Ἀτωφὰ πεντηκονταέξ·
 - **Philological Rationale:** Unanimous witness agreement across Sixtine/Brenton (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** γἱοὶ Ἀναθὼθ, ἑκατὸν εἰκοσιοκτώ.
-  - `Sixtine/Brenton`: γἱοὶ Ἀναθὼθ, ἑκατὸν εἰκοσιοκτώ.
+- **Critical Text:** υἱοὶ Ἀναθὼθ, ἑκατὸν εἰκοσιοκτώ.
+  - `Sixtine/Brenton`: υἱοὶ Ἀναθὼθ, ἑκατὸν εἰκοσιοκτώ.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἀναθὼθ ἑκατὸν εἰκοσιοκτώ·
 - **Philological Rationale:** Unanimous witness agreement across Sixtine/Brenton (1 admitted witnesses; zero substantive divergence).
 
-### Verse 28 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἄνδρες Βηθασμώθ, τεσσεράκοντα δύο·
   - `Swete-Amicarelli`: ἄνδρες Βηθασμώθ, τεσσεράκοντα δύο·
   - `1st1K-LXX`: ἄνδρες Βηθασμώθ, τεσσεράκοντα δύο·
   - `Swete (B/A/א)`: ἄνδρες Βηθασμώθ, τεσσεράκοντα δύο·
   - `Sixtine/Brenton`: Ἄνδρες Βηθασμὼθ, τεσσαρακονταδύο.
   - `LXX-Orthodox (Οʹ)`: ἄνδρες Βηθασμὼθ τεσσαρακονταδύο·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'τεσσεράκοντα δύο' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταδύο (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))).
 
 ### Verse 29 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἄνδρες Καριθιαρείμ, Καφειρὰ καὶ Βηρώς, ἑπτακόσιοι εἴκοσι εἷς·
@@ -1212,34 +1150,32 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'πεντήκοντα' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over πεντηκονταδύο (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 35 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἡράμ, τριακόσιοι εἴκοσι·
   - `Swete-Amicarelli`: υἱοὶ Ἡράμ, τριακόσιοι εἴκοσι·
   - `1st1K-LXX`: υἱοὶ Ἡράμ, τριακόσιοι εἴ κοσι·
   - `Swete (B/A/א)`: υἱοὶ Ἡράμ, τριακόσιοι εἴ κοσι·
-  - `Sixtine/Brenton`: γἱοὶ Ἠρὰμ, τριακόσιοι εἴκοσι.
+  - `Sixtine/Brenton`: υἱοὶ Ἠρὰμ, τριακόσιοι εἴκοσι.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἠρὰμ τριακόσιοι εἴκοσι·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs (same letters written as one word or two)).
 
-### Verse 36 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἰερειχώ, τριακόσιοι τεσσεράκοντα πέντε·
   - `Swete-Amicarelli`: υἱοὶ Ἰερειχώ, τριακόσιοι τεσσεράκοντα πέντε·
   - `1st1K-LXX`: υἱοὶ Ἰερειχώ, τριακόσιοι τεσσεράκοντα πέντε·
   - `Swete (B/A/א)`: υἱοὶ Ἰερειχώ, τριακόσιοι τεσσεράκοντα πέντε·
-  - `Sixtine/Brenton`: γἱοὶ Ἱεριχὼ, τριακόσιοι τεσσαρακονταπέντε.
+  - `Sixtine/Brenton`: υἱοὶ Ἱεριχὼ, τριακόσιοι τεσσαρακονταπέντε.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἰεριχὼ τριακόσιοι τεσσαρακονταπέντε·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τεσσεράκοντα πέντε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταπέντε (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Koine/Uncial itacistic spelling (ει / ι equivalence); Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))).
 
 ### Verse 37 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Λόδ, Ἁδιὰ καὶ Ὠνώ, ἑπτακόσιοι εἴκοσι εἷς·
   - `Swete-Amicarelli`: υἱοὶ Λόδ, Ἁδιὰ καὶ Ὠνώ, ἑπτακόσιοι εἴκοσι εἷς·
   - `1st1K-LXX`: υἱοὶ Λόδ, Ἁδιὰ καὶ Ὠνώ, ἑπτακόσιοι εἴκοσι εἶς·
   - `Swete (B/A/א)`: υἱοὶ Λόδ, Ἁδιὰ καὶ Ὠνώ, ἑπτακόσιοι εἴκοσι εἶς·
-  - `Sixtine/Brenton`: γἱοὶ Λοδαδὶδ καὶ Ὠνὼ, ἑπτακόσιοι εἰκοσιεῖς.
+  - `Sixtine/Brenton`: υἱοὶ Λοδαδὶδ καὶ Ὠνὼ, ἑπτακόσιοι εἰκοσιεῖς.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Λοδαδὶδ καὶ Ὠνὼ ἑπτακόσιοι εἰκοσιεῖς·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Λόδ Ἁδιὰ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Λοδαδὶδ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Λόδ Ἁδιὰ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Λοδαδὶδ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 38 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -1247,9 +1183,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Swete-Amicarelli`: υἱοὶ Σανανάτ, ἐννακόσιοι τριάκοντα.
   - `1st1K-LXX`: υἱοὶ Σανανάτ, ἐννακόσιοι τριάκοντα.
   - `Swete (B/A/א)`: υἱοὶ Σανανάτ, ἐννακόσιοι τριάκοντα.
-  - `Sixtine/Brenton`: γἱοὶ Σανανὰ, τρισχίλιοι ἐννακόσιοι τριάκοντα.
+  - `Sixtine/Brenton`: υἱοὶ Σανανὰ, τρισχίλιοι ἐννακόσιοι τριάκοντα.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Σανανὰ τρισχίλιοι ἐνακόσιοι τριάκοντα·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Σανανάτ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Σανανὰ τρισχίλιοι (Sixtine/Brenton).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Σανανάτ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Σανανὰ τρισχίλιοι (Sixtine/Brenton).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -1271,25 +1207,24 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'χίλιοι πεντήκοντα δύο' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἐμμὴρ χίλιοι πεντηκονταδύο (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 41 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** υἱοὶ Φασεδούρ, ας᾽ τεσσεράκοντα ἑπτά·
-  - `Swete-Amicarelli`: υἱοὶ Φασεδούρ, ας᾽ τεσσεράκοντα ἑπτά·
-  - `1st1K-LXX`: υἱοὶ Φασεδούρ, ας΄ τεσσεράκοντα ἑπτά·
-  - `Swete (B/A/א)`: υἱοὶ Φασεδούρ, ας΄ τεσσεράκοντα ἑπτά·
+### Verse 41 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** υἱοὶ Φασεδούρ, ͵ασ᾽ τεσσεράκοντα ἑπτά·
+  - `Swete-Amicarelli`: υἱοὶ Φασεδούρ, ͵ασ᾽ τεσσεράκοντα ἑπτά·
+  - `1st1K-LXX`: υἱοὶ Φασεδούρ, ͵ασ΄ τεσσεράκοντα ἑπτά·
+  - `Swete (B/A/א)`: υἱοὶ Φασεδούρ, ͵ασ΄ τεσσεράκοντα ἑπτά·
   - `Sixtine/Brenton`: Υἱοὶ Φασεοὺρ, χίλιοι διακόσιοι τεσσαρακονταεπτά.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Φασεοὺρ χίλιοι διακόσιοι τεσσαρακονταεπτά·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Φασεδούρ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Φασεοὺρ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ας' [Swete-Amicarelli] (weight 0.93, confidence 53%) over χίλιοι (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τεσσεράκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over διακόσιοι τεσσαρακονταεπτά (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Φασεδούρ ͵ασ τεσσεράκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Φασεοὺρ χίλιοι διακόσιοι τεσσαρακονταεπτά (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 42 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἡράμ, χίλιοι δέκα ἑπτά.
   - `Swete-Amicarelli`: υἱοὶ Ἡράμ, χίλιοι δέκα ἑπτά.
   - `1st1K-LXX`: υἱοὶ Ἡράμ, χίλιοι δέκα ἑπτά.
   - `Swete (B/A/א)`: υἱοὶ Ἡράμ, χίλιοι δέκα ἑπτά.
-  - `Sixtine/Brenton`: γἱοὶ Ἠρὰμ, χίλιοι δεκαεπτά.
+  - `Sixtine/Brenton`: υἱοὶ Ἠρὰμ, χίλιοι δεκαεπτά.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Ἠρὰμ χίλιοι δεκαεπτά·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Word division differs (same letters written as one word or two)).
 
 ### Verse 43 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** οἱ Λευεί, υἱοὶ Ἰησοῦ τῷ Καβδιὴλ τοῖς υἱοῖς τοῦ Θουδουιά, ἑβδομήκοντα τέσσαρες·
@@ -1301,15 +1236,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Λευεί' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Λευῖται (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τῷ Καβδιὴλ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τοῦ Καδμιὴλ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'Θουδουιά' [Swete-Amicarelli] (weight 0.93, confidence 53%) over Οὐδουΐα (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
 
-### Verse 44 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** οἱ ᾄδοντες, υἱοὶ Ἀσάφ, ἑκατὸν τεσσεράκοντα ὀκτώ·
   - `Swete-Amicarelli`: οἱ ᾄδοντες, υἱοὶ Ἀσάφ, ἑκατὸν τεσσεράκοντα ὀκτώ·
   - `1st1K-LXX`: οἱ ᾄδοντες, υἱοὶ Ἀσάφ, ἑκατὸν τεσσεράκοντα ὀκτώ·
   - `Swete (B/A/א)`: οἱ ᾄδοντες, υἱοὶ Ἀσάφ, ἑκατὸν τεσσεράκοντα ὀκτώ·
   - `Sixtine/Brenton`: Οἱ ᾄδοντες, υἱοὶ Ἀσὰφ, ἑκατὸν τεσσαρακονταοκτώ.
   - `LXX-Orthodox (Οʹ)`: οἱ ἄδοντες, υἱοὶ Ἀσὰφ ἑκατὸν τεσσαρακονταοκτώ·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'τεσσεράκοντα ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταοκτώ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Word division differs with spelling convention (Number-word spelling convention (τεσσαρ- / τεσσερ-))).
 
 ### Verse 45 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** οἱ πυλωροί, υἱοὶ Σαλούμ, υἱοὶ Ἀτὴρ υἱοῦ Ἀτήρ, υἱοὶ Τελαμών, υἱοὶ Ἀκού, υἱοὶ Ἁτειτά, υἱοὶ Σαβεί, ἑκατὸν τριάκοντα ὀκτώ.
@@ -1430,15 +1364,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Ἀσειά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Νισιὰ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 57 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 57 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ δούλων Σαλωμών· υἱοὶ Σουτεί, υἱοὶ Σαφάραθ, υἱοὶ Φερειδά,
   - `Swete-Amicarelli`: υἱοὶ δούλων Σαλωμών· υἱοὶ Σουτεί, υἱοὶ Σαφάραθ, υἱοὶ Φερειδά,
   - `1st1K-LXX`: υἱοὶ δούλων Σαλωμών· υἱοὶ Σουτεί, υἱοὶ Σαφάραθ, υἱοὶ Φερειδά,
   - `Swete (B/A/א)`: υἱοὶ δούλων Σαλωμών· υἱοὶ Σουτεί, υἱοὶ Σαφάραθ, υἱοὶ Φερειδά,
-  - `Sixtine/Brenton`: γἱοὶ δούλων Σαλωμὼν, υἱοὶ Σουτεῒ, υἱοὶ Σαφαρὰτ, υἱοὶ Φεριδὰ,
+  - `Sixtine/Brenton`: υἱοὶ δούλων Σαλωμὼν, υἱοὶ Σουτεῒ, υἱοὶ Σαφαρὰτ, υἱοὶ Φεριδὰ,
   - `LXX-Orthodox (Οʹ)`: υἱοὶ δούλων Σαλωμών, υἱοὶ Σουτεΐ, υἱοὶ Σαφαράτ, υἱοὶ Φεριδά,
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'υἱοὶ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'Σαφάραθ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Σαφαρὰτ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Σαφάραθ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Σαφαρὰτ (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 58 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Ἰελήλ, υἱοὶ Δορκών, υἱοὶ Γαδήλ,
@@ -1460,15 +1394,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Ἑγήλ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Ἐττὴλ (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 60 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 60 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** πάντες οἱ Ναθεινεὶμ καὶ υἱοὶ δούλων Σαλωμὼν τριακόσιοι ἐνενήκοντα δύο.
   - `Swete-Amicarelli`: πάντες οἱ Ναθεινεὶμ καὶ υἱοὶ δούλων Σαλωμὼν τριακόσιοι ἐνενήκοντα δύο.
   - `1st1K-LXX`: πάντες οἱ Ναθεινεὶμ καὶ υἱοὶ δούλων Σαλωμὼν τριακόσιοι ἐνενήκοντα δύο,
   - `Swete (B/A/א)`: πάντες οἱ Ναθεινεὶμ καὶ υἱοὶ δούλων Σαλωμὼν τριακόσιοι ἐνενήκοντα δύο,
   - `Sixtine/Brenton`: Πάντες οἱ Ναθινὶμ, καὶ υἱοὶ δούλων Σαλωμὼν, τριακόσιοι ἐννενηκονταδύο.
   - `LXX-Orthodox (Οʹ)`: πάντες οἱ ναθινίμ, καὶ υἱοὶ δούλων Σαλωμών, τριακόσιοι ἐνενηκονταδύο.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'ἐνενήκοντα δύο' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐννενηκονταδύο (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Punctuation / spacing difference only; Word division differs with spelling convention (Koine orthographic doublet (ἐξολεθρ-/οὐθείς/ἔνατος/γιγν-/τετραάρχ-/ἁλεεῖς type))).
 
 ### Verse 61 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ οὗτοι ἀνέβησαν ἀπὸ Θελμέλεθ· Ἁρησά, Χαρούβ, Ἠρών, Ἰεμήρ· καὶ οὐκ ἠδυνάσθησαν ἀπαγγεῖλαι οἴκους πατριῶν αὐτῶν καὶ σπέρμα αὐτῶν εἰ ἀπὸ Ἰσραήλ εἰσιν·
@@ -1480,15 +1413,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Ἁρησά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Θελαρησὰ (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἠδυνάσθησαν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐδυνάσθησαν (Sixtine/Brenton). Also normalised 8 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 62 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 62 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** υἱοὶ Δαλεά, υἱοὶ Τωβιά, υἱοὶ Νεκωδά, ἑξακόσιοι τεσσεράκοντα δύο·
   - `Swete-Amicarelli`: υἱοὶ Δαλεά, υἱοὶ Τωβιά, υἱοὶ Νεκωδά, ἑξακόσιοι τεσσεράκοντα δύο·
   - `1st1K-LXX`: υἱοὶ Δαλεά, υἱοὶ Τωβιά, υἱοὶ Νεκωδά, ἑξακόσιοι τεσσεράκοντα δύο·
   - `Swete (B/A/א)`: υἱοὶ Δαλεά, υἱοὶ Τωβιά, υἱοὶ Νεκωδά, ἑξακόσιοι τεσσεράκοντα δύο·
-  - `Sixtine/Brenton`: γἱοὶ Δαλαία, υἱοὶ Τωβία, υἱοὶ Νεκωδὰ, ἑξακόσιοι τεσσαρακονταδύο.
+  - `Sixtine/Brenton`: υἱοὶ Δαλαία, υἱοὶ Τωβία, υἱοὶ Νεκωδὰ, ἑξακόσιοι τεσσαρακονταδύο.
   - `LXX-Orthodox (Οʹ)`: υἱοὶ Δαλαία, υἱοὶ Τωβία, υἱοὶ Νεκωδά, ἑξακόσιοι τεσσαρακονταδύο·
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'υἱοὶ Δαλεά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over γἱοὶ Δαλαία (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τεσσεράκοντα δύο' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταδύο (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Δαλεά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Δαλαία (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 63 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἀπὸ τῶν ἱερέων υἱοὶ Ἑβειά, υἱοὶ Ἀκώς, υἱοὶ Βερζελλεί, ὅτι ἔλαβεν ἀπὸ θυγατέρων Βερζελλεὶ τοῦ Γαλααδείτου γυναῖκας καὶ ἐκλήθη ἐπ᾽ ὀνόματι αὐτῶν·
@@ -1529,15 +1462,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'ὀκτώ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἐξήκοντα (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 67 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 67 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** παρὲξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν, οὗτοι τριακόσιοι τριάκοντα ἑπτά· καὶ ᾄδοντες καὶ ᾄδουσαι διακόσιοι τεσσεράκοντα πέντε·
   - `Swete-Amicarelli`: παρὲξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν, οὗτοι τριακόσιοι τριάκοντα ἑπτά· καὶ ᾄδοντες καὶ ᾄδουσαι διακόσιοι τεσσεράκοντα πέντε·
   - `1st1K-LXX`: παρὲξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν, οὗτοι τριακόσιοι τριάκοντα ἑπτά· καὶ ἄδοντες καὶ ᾄδουσαι διακόσιοι τεσσεράκοντα πέντε·
   - `Swete (B/A/א)`: παρὲξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν, οὗτοι τριακόσιοι τριάκοντα ἑπτά· καὶ ἄδοντες καὶ ᾄδουσαι διακόσιοι τεσσεράκοντα πέντε·
   - `Sixtine/Brenton`: πάρεκ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν· οὗτοι ἑπτακισχίλιοι τριακόσιοι τριακονταεπτά· καὶ ᾄδοντες καὶ ᾄδουσαι, διακόσιοι τεσσαρακονταπέντε.
   - `LXX-Orthodox (Οʹ)`: πάρεξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν, οὗτοι ἑπτακισχίλιοι τριακόσιοι τριακονταεπτά· καὶ ᾄδοντες καὶ ᾄδουσαι διακόσιοι τεσσαρακονταπέντε·
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'παρὲξ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over πάρεκ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τριακόσιοι τριάκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἑπτακισχίλιοι τριακόσιοι τριακονταεπτά (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τεσσεράκοντα πέντε' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τεσσαρακονταπέντε (Sixtine/Brenton). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'παρὲξ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over πάρεκ (Sixtine/Brenton). [Variation unit spanning several words] Adopted 'τριακόσιοι τριάκοντα ἑπτά' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἑπτακισχίλιοι τριακόσιοι τριακονταεπτά (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
+- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 69 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ὄνοι δισχίλιοι ἑπτακόσιοι.
@@ -1548,15 +1481,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: ὄνοι δισχίλιοι ἑπτακόσιοι.
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Accentuation / capitalisation / breathing convention). Versification: 1st1K-LXX numbers this verse 7:79; Swete (B/A/א) numbers this verse 7:79 (re-aligned by content).
 
-### Verse 70 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς, α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
-  - `Swete-Amicarelli`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς, α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
-  - `1st1K-LXX`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
-  - `Swete (B/A/א)`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
+### Verse 70 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς, χιλίους, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
+  - `Swete-Amicarelli`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς, ͵α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
+  - `1st1K-LXX`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς ͵α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
+  - `Swete (B/A/א)`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς ͵α, φιάλας πεντήκοντα καὶ μεχωνὼθ τῶν ἱερέων τριάκοντα.
   - `Sixtine/Brenton`: Καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἐργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς χιλίους, φιάλας πεντήκοντα, καὶ χωθωνὼθ τῶν ἱερέων τριάκοντα.
   - `LXX-Orthodox (Οʹ)`: καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς χιλίους, φιάλας πεντήκοντα καὶ χωθωνὼθ τῶν ἱερέων τριάκοντα.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'α' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over χιλίους (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'μεχωνὼθ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over χωθωνὼθ (Sixtine/Brenton). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'μεχωνὼθ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over χωθωνὼθ (Sixtine/Brenton). Also normalised 5 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 71 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἀπὸ ἀρχηγῶν τῶν πατριῶν ἔθηκαν εἰς θησαυρὸν τοῦ ἔτους, τοῦ χρυσίου δύο μυριάδας, καὶ ἀργυρίου μνᾶς δισχιλίας διακοσίας,

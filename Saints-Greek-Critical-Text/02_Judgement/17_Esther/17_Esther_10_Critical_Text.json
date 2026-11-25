@@ -7,7 +7,7 @@
   "usfm_code": "EST",
   "chapter": 10,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:10:55Z",
+  "updated_at": "2026-11-25T00:07:26Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -38,6 +38,8 @@
     "Swete-Amicarelli: 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 9:28 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 9:31 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:1 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:2 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:3 kept in its own chapter (stronger match to its own reference verse)",
@@ -64,6 +66,8 @@
     "1st1K-LXX: 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:28 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 9:31 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:2 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:3 kept in its own chapter (stronger match to its own reference verse)",
@@ -90,12 +94,15 @@
     "Swete (B/A/א): 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:28 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 9:31 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): verse 9:21 runs into its neighbour across the anchor's division between 9:21 and 9:22; re-divided there",
     "LXX-Orthodox (Οʹ): 9:1 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:2 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:3 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:4 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:6 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 9:7 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:8 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:9 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:10 kept in its own chapter (stronger match to its own reference verse)",
@@ -117,7 +124,9 @@
     "LXX-Orthodox (Οʹ): 9:26 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:27 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): 9:28 kept in its own chapter (stronger match to its own reference verse)",
-    "LXX-Orthodox (Οʹ): 9:29 kept in its own chapter (stronger match to its own reference verse)"
+    "LXX-Orthodox (Οʹ): 9:29 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 9:30 kept in its own chapter (stronger match to its own reference verse)",
+    "LXX-Orthodox (Οʹ): 9:31 kept in its own chapter (stronger match to its own reference verse)"
   ],
   "admitted_witnesses": [
     {
@@ -197,7 +206,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τε (Sixtine/Brenton).",
+          "note": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τε (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 8,
           "word_count": 0,
           "kind": "word",
@@ -248,17 +257,6 @@
             "Swete (B/A/א)"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "Ἔγραψεν / ΕΓΡΑΨΕ"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τε (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).",
@@ -372,7 +370,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 35,
           "word_count": 1,
           "kind": "word",
@@ -401,7 +399,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἑαυτοῦ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὑτοῦ (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἑαυτοῦ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὑτοῦ (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 189,
           "word_count": 1,
           "kind": "word",
@@ -493,7 +491,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἑρμηνευκέναι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἡρμηνευκέναι (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ἑρμηνευκέναι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἡρμηνευκέναι (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 254,
           "word_count": 1,
           "kind": "word",
@@ -539,7 +537,7 @@
               "weight_sum": 0.84
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'τῶν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὸν (Sixtine/Brenton).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'τῶν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὸν (Sixtine/Brenton). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 257,
           "word_count": 1,
           "kind": "word",
@@ -1264,43 +1262,12 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
-            "εἶπεν / εἶπε",
-            "ἐποίησεν / ἐποίησε",
-            "ἔσωσεν / ἔσωσε",
-            "ἔθνεσιν. / ἔθνεσι.",
-            "ἐποίησεν / ἐποίησε",
-            "ἔθνεσιν· / ἔθνεσι·",
-            "πᾶσι / πᾶσιν",
-            "ἔθνεσιν, / ἔθνεσι,",
-            "ἐδικαίωσεν / ἐδικαίωσε",
-            "εἰσήνεγκεν / εἰσήνεγκε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
             "ἐρρύσατο / ἐρύσατο"
           ],
           "witnesses": [
             "LXX-Orthodox (Οʹ)"
           ],
           "reason": "Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "Λευείτης, / Λευίτης,"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ἑαυτοῦ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over αὑτοῦ (Sixtine/Brenton). [Omission in some witnesses] Adopted 'αὐτοῦ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'ἑρμηνευκέναι' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ἡρμηνευκέναι (Sixtine/Brenton). [Lexical, morphological, or word-order variant] Adopted 'τῶν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over τὸν (Sixtine/Brenton). [Addition / omission between witnesses] Adopted 'om.' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over Τέλος τῆς Ἐσθήρ (Sixtine/Brenton). Also normalised 58 orthographic/surface variation(s).",

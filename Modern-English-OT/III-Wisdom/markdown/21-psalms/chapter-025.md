@@ -1,6 +1,6 @@
 # Psalm 25 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (12 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (12 verses, 4 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -28,10 +28,6 @@
 **25:11** But I have walked in my innocence; redeem me and have mercy on me.
 
 **25:12** For my foot has stood in uprightness; in assemblies I will bless You, Lord.
-
-## Additional Verses (Not in Saints Numbering)
-
-**25:22** *(after `25:12`)* Of David.
 
 ## Translator Notes
 

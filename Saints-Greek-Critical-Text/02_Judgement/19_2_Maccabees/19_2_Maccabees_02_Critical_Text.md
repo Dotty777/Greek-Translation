@@ -1,6 +1,6 @@
 # 2 Maccabees 02 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:05Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:27Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -21,8 +21,7 @@
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - LXX-Orthodox (Οʹ): LXX-Orthodox is left out of 2 Maccabees: its file labelled 2MA (53-2MAgrclxx.usfm) is 4 Maccabees (title ΜΑΚΚΑΒΑΙΩΝ Δ, 18 chapters); the set has no 2 Maccabees.
@@ -37,6 +36,7 @@
 - Swete-Amicarelli: 1:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 1:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 1:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 1:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 1:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 1:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 1:15 kept in its own chapter (stronger match to its own reference verse)
@@ -73,6 +73,7 @@
 - Swete-Amicarelli: 3:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 3:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:16 kept in its own chapter (stronger match to its own reference verse)
@@ -80,11 +81,14 @@
 - Swete-Amicarelli: 3:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 3:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 3:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 3:28 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:31 kept in its own chapter (stronger match to its own reference verse)
@@ -108,11 +112,13 @@
 - 1st1K-LXX: 1:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:10 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:11 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 1:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:17 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 1:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:20 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 1:21 kept in its own chapter (stronger match to its own reference verse)
@@ -141,7 +147,9 @@
 - 1st1K-LXX: 3:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:12 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:13 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:16 kept in its own chapter (stronger match to its own reference verse)
@@ -149,11 +157,14 @@
 - 1st1K-LXX: 3:18 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:19 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:20 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:21 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:22 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:23 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:24 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:25 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:26 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:27 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:28 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:29 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:30 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:31 kept in its own chapter (stronger match to its own reference verse)
@@ -177,11 +188,13 @@
 - Swete (B/A/א): 1:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:10 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:11 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 1:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:17 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 1:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:20 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 1:21 kept in its own chapter (stronger match to its own reference verse)
@@ -210,7 +223,9 @@
 - Swete (B/A/א): 3:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:12 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:13 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:16 kept in its own chapter (stronger match to its own reference verse)
@@ -218,11 +233,14 @@
 - Swete (B/A/א): 3:18 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:19 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:20 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:21 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:22 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:23 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:24 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:25 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:26 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:27 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:28 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:29 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:30 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:31 kept in its own chapter (stronger match to its own reference verse)
@@ -525,7 +543,7 @@
 ### 2 Maccabees 2:31
 - *Disregarded Surface Variant:* kept `τὸ` over `Τὸ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `πραγματίας` over `πραγματείας` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
-- *Disregarded Surface Variant:* kept `συνχωρητέον.` over `συγχωρητέον.` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)*
+- *Disregarded Surface Variant:* kept `συνχωρητέον.` over `συγχωρητέον.` (Sixtine/Brenton) — *Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)*
 
 ### 2 Maccabees 2:32
 - **Apparatus:** `ἐπιτέμνειν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **ἐπιτεμεῖν** Sixtine/Brenton *(inflection or spelling (same stem))*
@@ -803,7 +821,7 @@
   - `1st1K-LXX`: τὸ δὲ σύντομον τῆς λέξεως μεταδιώκειν, καὶ τὸ ἐξεργαστικὸν τῆς πραγματίας παραιτεῖσθαι, τῷ τὴν μετάφρασιν ποιουμένῳ συνχωρητέον.
   - `Swete (B/A/א)`: τὸ δὲ σύντομον τῆς λέξεως μεταδιώκειν, καὶ τὸ ἐξεργαστικὸν τῆς πραγματίας παραιτεῖσθαι, τῷ τὴν μετάφρασιν ποιουμένῳ συνχωρητέον.
   - `Sixtine/Brenton`: Τὸ δὲ σύντομον τῆς λέξεως μεταδιώκειν, καὶ τὸ ἐξεργαστικὸν τῆς πραγματείας παραιτεῖσθαι, τῷ τὴν μετάφρασιν ποιουμένῳ συγχωρητέον.
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ- type)).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Koine/Uncial itacistic spelling (ει / ι equivalence); Prefix assimilation spelling (συνπ-/συμπ-, ἐνκ-/ἐγκ-, συνζ-/συζ-, Κενχρ-/Κεγχρ- type)).
 
 ### Verse 32 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ἐντεῦθεν οὖν ἀρξώμεθα τῆς διηγήσεως, τοῖς προειρημένοις τοσοῦτον ἐπιζεύξαντες· εὔηθες γὰρ τὸ μὲν πρὸ τῆς ἱστορίας πλεονάζειν, τὴν δὲ ἱστορίαν ἐπιτέμνειν.

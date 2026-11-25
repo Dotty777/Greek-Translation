@@ -1,6 +1,6 @@
 # Job 04 — Saints Greek Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:11Z`
+**Division:** `02_Judgement` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:27Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: verse 3:1 runs into its neighbour across the anchor's division between 3:1 and 3:2; re-divided there
@@ -47,6 +47,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete-Amicarelli: 3:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete-Amicarelli: 3:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete-Amicarelli: 3:17 kept in its own chapter (stronger match to its own reference verse)
@@ -97,8 +98,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 3:8 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:9 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:10 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:11 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:12 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:13 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 3:14 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:15 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:16 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 3:17 kept in its own chapter (stronger match to its own reference verse)
@@ -149,8 +152,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 3:8 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:9 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:10 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:11 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:12 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:13 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 3:14 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:15 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:16 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 3:17 kept in its own chapter (stronger match to its own reference verse)
@@ -205,6 +210,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - LXX-Orthodox (Οʹ): 3:11 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:12 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:13 kept in its own chapter (stronger match to its own reference verse)
+- LXX-Orthodox (Οʹ): 3:14 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:15 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:16 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 3:17 kept in its own chapter (stronger match to its own reference verse)
@@ -280,7 +286,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Ἐλειφὰς` over `Ἐλιφὰς` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `Θαιμανείτης` over `Θαιμανίτης,` (Sixtine/Brenton) — *Koine/Uncial itacistic spelling (ει / ι equivalence)*
 - *Disregarded Surface Variant:* kept `λέγει` over `λέγει,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Θαιμανείτης / Θαιμανίτης` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Koine/Uncial itacistic spelling (ει / ι equivalence)*
 
 ### Job 4:2
 - *Disregarded Surface Variant:* kept `ῥημάτων` over `όημάτων` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -295,7 +300,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `γόνασίν` over `γόνασί` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `ἀδυνατοῦσιν` over `ἀδυνατοῦσι` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `περιέθηκας·` over `περιέθηκας.` (Sixtine/Brenton) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ῥήμασιν, γόνασίν / ρήμασι, γόνασί`, `ἀδυνατοῦσιν / ἀδυνατοῦσι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 4:5
 - *Disregarded Surface Variant:* kept `νῦν` over `ωῦν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
@@ -312,7 +316,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ὢν` over `ὧν` (1st1K-LXX, Swete (B/A/א)) — *Accent or breathing differs between accented editions (editorial interpretation)*
 - *Disregarded Surface Variant:* kept `ὁλόριζοι` over `ὁλόῤῥιζοι` (Sixtine/Brenton) — *Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 - *Disregarded Surface Variant:* kept `ἀπώλοντο;` over `ἀπώλοντο` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ὁλόριζοι / ὁλόρριζοι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `ὁλόριζοι / ὁλόρριζοι`, `ὁλόριζοι / ὁλόρριζοι` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Single / double consonant spelling (Ἰωάνης / Ἰωάννης type)*
 
 ### Job 4:8
 - *Disregarded Surface Variant:* kept `καθ᾽` over `Καθʼ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -336,7 +340,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ἀπήντησεν.` over `ἀπήντησε·` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
 - *Disregarded Surface Variant:* kept `παρ᾽` over `παρʼ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `αὐτοῦ;` over `αὐτοῦ` (1st1K-LXX, Swete (B/A/א)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἀπήντησεν. / ἀπήντησε.` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 4:13
 - **Apparatus:** `φόβος` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) **]** **Φόβῳ** Sixtine/Brenton ; **φόβοι** LXX-Orthodox (Οʹ) *(inflection or spelling (same stem))*
@@ -351,7 +354,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` 1st1K-LXX Sixtine/Brenton Swete (B/A/א) Swete-Amicarelli **]** **δέ** LXX-Orthodox (Οʹ)
 - *Disregarded Surface Variant:* kept `διέσεισεν` over `διέσεσεν` (1st1K-LXX, Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant*
 - *Disregarded Surface Variant:* kept `διέσεισεν` over `διέσεισε` (Sixtine/Brenton) — *Spelling variant pooled before the vote with the reading 'διέσεισεν' (same word, different spelling); whether that reading was adopted is shown in the apparatus*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `συνήντησεν / συνήντησε`, `διέσεισεν, / διέσεισε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 4:16
 - *Disregarded Surface Variant:* kept `ἀνέστην,` over `Ἀνέστην` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -370,7 +372,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Job 4:18
 - *Disregarded Surface Variant:* kept `εἰ` over `Εἰ` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `ἐπενόησεν·` over `ἐπενόησε.` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐπενόησεν· / ἐπενόησε,` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ### Job 4:19
 - *Disregarded Surface Variant:* kept `τοὺς` over `Τοὺς` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
@@ -379,16 +380,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `τρόπον.` over `τρόπον,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 
 ### Job 4:20
-- **Apparatus:** `οὐκέτι εἰσίν` Swete-Amicarelli 1st1K-LXX Swete (B/A/א) LXX-Orthodox (Οʹ) **]** **οὐκ ἔτι εἰσὶ** Sixtine/Brenton *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
 - *Disregarded Surface Variant:* kept `πρωίθεν` over `πρωΐθεν` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
+- *Disregarded Surface Variant:* kept `οὐκέτι εἰσίν,` over `οὐκ ἔτι εἰσὶ,` (Sixtine/Brenton) — *Word division differs with spelling convention (Euphonic movable-nu (-ν) variation)*
 - *Disregarded Surface Variant:* kept `βοηθῆσαι` over `βοηθῆσαι,` (Sixtine/Brenton) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `μέχρι / μέχρις` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Movable final sigma (οὕτω/οὕτως type)*
 
 ### Job 4:21
 - *Disregarded Surface Variant:* kept `ἐνεφύσησεν` over `Ἐνεφύσησε` (Sixtine/Brenton) — *Euphonic movable-nu (-ν) variation*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `ἐνεφύσησεν / ἐνεφύσησε` (LXX-Orthodox (Οʹ)) — *Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation*
 
 ---
 
@@ -566,15 +564,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `LXX-Orthodox (Οʹ)`: τοὺς δὲ κατοικοῦντας οἰκίας πηλίνας, ἐξ ὧν καὶ αὐτοὶ ἐκ τοῦ αὐτοῦ πηλοῦ ἐσμεν, ἔπαισεν αὐτοὺς σητὸς τρόπον·
 - **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
-### Verse 20 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἀπὸ πρωίθεν μέχρι ἑσπέρας οὐκέτι εἰσίν, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι ἀπώλοντο.
   - `Swete-Amicarelli`: καὶ ἀπὸ πρωίθεν μέχρι ἑσπέρας οὐκέτι εἰσίν, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι ἀπώλοντο.
   - `1st1K-LXX`: καὶ ἀπὸ πρωίθεν μέχρι ἑσπέρας οὐκέτι εἰσίν, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι ἀπώλοντο.
   - `Swete (B/A/א)`: καὶ ἀπὸ πρωίθεν μέχρι ἑσπέρας οὐκέτι εἰσίν, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι ἀπώλοντο.
   - `Sixtine/Brenton`: καὶ ἀπὸ πρωΐθεν μέχρι ἑσπέρας οὐκ ἔτι εἰσὶ, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι, ἀπώλοντο.
   - `LXX-Orthodox (Οʹ)`: καὶ ἀπὸ πρωΐθεν μέχρις ἑσπέρας οὐκέτι εἰσί, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι ἀπώλοντο.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'οὐκέτι εἰσίν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over οὐκ ἔτι εἰσὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Punctuation / spacing difference only; Word division differs with spelling convention (Euphonic movable-nu (-ν) variation)).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ἐνεφύσησεν γὰρ αὐτοῖς καὶ ἐξηράνθησαν, ἀπώλοντο παρὰ τὸ μὴ ἔχειν αὐτοὺς σοφίαν.

@@ -1,6 +1,6 @@
 # 2 Chronicles 25 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,7 +57,7 @@
 
 **25:26** And the rest of the acts of Amaziah, the first and the last, look, are they not written in the book of Judah and Israel?
 
-**25:27** And at the time when Amaziah turned away from the Lord, they laid a plot against him, and he fled from Jerusalem to Lachish; and he sent after him to Lachish and put him to death there.
+**25:27** And at the time when Amaziah turned away from the Lord, they laid a plot against him, and he fled from Jerusalem to Lachish; and someone sent after him to Lachish and put him to death there.
 
 **25:28** And they carried him up on the horses, and buried him with his fathers in the city of David.
 
@@ -68,3 +68,4 @@
 - **25:18** — "Chozei" and "achouch" are untranslated Greek transliterations of the Hebrew term for "thistle" or "thornbush." The Greek also doubles the clause about the wild beasts, first in the future and then in the past tense.
 - **25:24** — "Jabdedom" renders Greek Iabdedom (corresponding to Hebrew Obed-edom), and "sons of the mixtures" reflects Greek symmixeis ("mixtures"), translating the Hebrew term for "hostages." As in Hebrew, an explicit verb ("took") is omitted.
 - **25:25** — The Greek text reads "Joash the son of Joash, king of Israel," whereas Hebrew has "Joash the son of Jehoahaz."
+- **25:27** — The Greek shifts abruptly from plural epethento ("they laid a plot") to third-person singular verbs apesteilen ("he/someone sent") and ethanatosen ("he/someone put to death"), referring collectively to the conspirators or an unnamed agent rather than Amaziah.

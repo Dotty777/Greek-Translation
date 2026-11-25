@@ -91,7 +91,7 @@
 
 **9:43** and Moza fathered Baana; Rephaiah was his son, Azel his son.
 
-**9:44** And Azel had six sons, and these were their names: Azrikam his firstborn, and Ishmael, and Seraiah, and Obadiah, and Hanan; these were the sons of Azel.
+**9:44** And Azel had six sons, and these were their names: Azrikam his firstborn, Ishmael, and Seraiah, and Obadiah, and Hanan; these were the sons of Azel.
 
 ## Translator Notes
 

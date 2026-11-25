@@ -45,7 +45,7 @@
 
 **39:20** And did you array it with full armor, and the glory of its chest with boldness?
 
-**39:21** Digging in a plain, it exults, and it goes forth into a plain in strength;
+**39:21** Digging in a plain, it exults, and it goes forth into a plain in strength.
 
 **39:22** Meeting a king, it laughs, and it will by no means turn back from iron.
 

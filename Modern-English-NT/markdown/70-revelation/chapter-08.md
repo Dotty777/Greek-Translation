@@ -37,4 +37,4 @@
 - **8:7** — The clause "and a third of the earth was burned up" is strongly supported by the earliest manuscripts, though omitted in some later Byzantine witnesses.
 - **8:9** — Greek ta echonta psychas ("those having life," lit., "those having souls/lives") stands in the nominative or accusative in apposition to the genitive "of the creatures," a characteristic grammatical irregularity in Revelation.
 - **8:11** — Greek Apsinthos ("Wormwood") refers to an intensely bitter plant (Artemisia absinthium), associated in the Hebrew Scriptures with bitter sorrow and divine judgment (e.g., Jer 9:15; 23:15).
-- **8:13** — The earliest and best manuscripts read "eagle" (aetou, which can also denote a vulture), whereas some later manuscripts substitute "angel" (angelou). Greek henos ("one") functions here as an indefinite article ("an eagle" or "a single eagle").
+- **8:13** — The earliest Greek manuscripts read "eagle" (aetou, which can also denote a vulture), whereas some later manuscripts substitute "angel" (angelou). Greek henos ("one") functions here as an indefinite article ("an eagle" or "a single eagle").

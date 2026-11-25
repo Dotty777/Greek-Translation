@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **5:6** — The phrase 'water and blood' is widely understood to refer to Jesus' baptism and sacrificial death on the cross.
-- **5:7** — The earliest and best Greek manuscripts omit the later Latin expansion known as the Comma Johanneum (which mentions three heavenly witnesses: the Father, the Word, and the Holy Spirit).
+- **5:7** — The earliest Greek manuscripts omit the later Latin expansion known as the Comma Johanneum (which mentions three heavenly witnesses: the Father, the Word, and the Holy Spirit).
 - **5:16** — The 'sin leading to death' is often understood as willful, persistent apostasy or rejection of Christ; the implied subject of 'will give' is commonly taken to be God, though some understand the praying believer as God's instrument.
 - **5:18** — The shift from the perfect participle ('everyone who has been born of God') to the aorist participle ('the One who was born of God') with the object 'him' (auton), as this text reads, is commonly taken to refer to Christ guarding the believer; other manuscripts read 'keeps himself' (heauton).
 - **5:20** — Grammatically, 'This One' (houtos) can refer either to the nearest antecedent, Jesus Christ, or back to 'the True One' (God the Father).

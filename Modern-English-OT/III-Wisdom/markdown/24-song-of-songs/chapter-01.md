@@ -1,6 +1,6 @@
 # Song of Songs 1 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (17 verses, 5 translator notes)  
+> **Status:** `draft: true` (17 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Song of Songs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -46,3 +46,4 @@
 - **1:8** — Greek translates the Hebrew ethical dative literally as a reflexive object, "If you do not know yourself" (ean me gnos seauten), rather than simply "If you do not know."
 - **1:10** — Greek reads "like turtledoves" (hos trygones), taking the Hebrew word torim in the sense of "turtledoves" rather than "ornaments" or "plaits."
 - **1:13** — Greek adelphidos literally denotes a nephew or close male relative ("kinsman") and is used throughout the Septuagint Song of Songs for the male beloved (Hebrew dod). This Greek text also omits the clauses at the end of 1:13 and start of 1:14 found in the Hebrew MT and some Greek witnesses, likely due to scribal eye-skip across the repeated phrase "my kinsman to me."
+- **1:16** — Greek pros kline hemon syskios is syntactically abrupt and verbless ("by our couch, shady"), linking the nominative adjective "shady" directly to the prepositional phrase.

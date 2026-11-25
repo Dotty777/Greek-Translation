@@ -33,7 +33,7 @@
 
 **5:14** And I will make you a wasteland, and your daughters around you, before everyone who passes by,
 
-**5:15** and you will be lamented and wretched among the nations around you, when I execute judgments in you in the vengeance of My wrath; I, the Lord, have spoken;
+**5:15** and you will be lamented and wretched among the nations around you, when I execute judgments in you in the vengeance of My wrath; I, the Lord, have spoken.
 
 **5:16** And when I send out My arrows of famine upon them, they will be for extinction, and I will break your support of bread.
 

@@ -1,6 +1,6 @@
 # Proverbs 16 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,6 +65,7 @@
 
 ## Translator Notes
 
+- **16:2** — Verse 16:1 of the Hebrew numbering is absent from the Septuagint, so this chapter opens at verse 2; nothing has been omitted from the Greek text.
 - **16:15** — The Greek reads "a king's son" (huios basileos) rather than the Masoretic "a king's face," and "a late cloud" (nephos opsimon) refers to the clouds bringing the welcome late spring rains.
 - **16:16** — The Greek literally reads nossiai ("nests"), reflecting an Old Greek rendering distinct from the Masoretic "getting" or "acquiring."
 - **16:21** — Rather than stating that the wise of heart will be called discerning, the Greek states that people call the wise and discerning "worthless" (phaulous), contrasting them with those sweet in speech who "will hear more."

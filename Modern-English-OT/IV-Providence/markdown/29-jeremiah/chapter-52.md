@@ -33,7 +33,7 @@
 
 **52:17** And the Chaldeans broke in pieces the bronze pillars that were in the house of the Lord, and the stands, and the bronze sea that was in the house of the Lord, and they took their bronze and carried it away to Babylon.
 
-**52:18** and the rim, and the bowls, and the meat forks, and all the bronze vessels with which they ministered,
+**52:18** And the rim, and the bowls, and the meat forks, and all the bronze vessels with which they ministered,
 
 **52:19** and the sapphoth, and the masmaroth, and the pouring vessels, and the lampstands, and the censers, and the ladles—whatever was gold as gold and whatever was silver as silver—the chief cook took.
 
@@ -63,9 +63,9 @@
 
 ## Translator Notes
 
-- **52:4** — Greek reads "in the ninth month" (Hebrew Masoretic Text reads "tenth month"); "four-footed siegeworks" renders Greek tetrapodois, understood either as wooden siege barricades or (as a spelling of tetrapedois) four-foot stone blocks.
+- **52:4** — Verses 52:2-3 of the Hebrew numbering are absent from the Septuagint. Greek reads "in the ninth month" (Hebrew Masoretic Text reads "tenth month"); "four-footed siegeworks" renders Greek tetrapodois, understood either as wooden siege barricades or (as a spelling of tetrapedois) four-foot stone blocks.
 - **52:9** — Greek Deblatha (also in 52:10, 26, 27) corresponds to Hebrew Riblah, reflecting a common daleth/resh consonant variation.
 - **52:12** — Greek archimageiros ("chief cook," also in 52:14, 16, 19, 24, 26) is the Septuagint's literal rendering of the Hebrew royal-military title rab-tabbachim ("captain of the guard" or "chief of the slaughterers").
 - **52:19** — Greek sapphoth and masmaroth are untranslated transliterations of Hebrew temple vessel terms (likely "basins" and "wick trimmers/snuffers").
 - **52:21** — Greek reads "thirty-five cubits" (matching 2 Chronicles 3:15; Hebrew Jeremiah 52:21 reads "eighteen cubits"); in 52:22, Greek also uniquely adds "eight pomegranates to the cubit for the twelve cubits."
-- **52:31** — Greek reads "Jehoiakim" (Ioakeim, the form the Septuagint regularly uses for both Jehoiakim and Jehoiachin), "twenty-fourth" (Hebrew "twenty-fifth"), transcribes Evil-merodach as Oulaimadachar, and uniquely adds "and cut his hair" (kai ekeiren auton) after "lifted up" (literally "took") his head.
+- **52:31** — Verses 52:28-30 of the Hebrew numbering (the exile deportation totals) are absent from the Septuagint. Greek reads "Jehoiakim" (Ioakeim, the form the Septuagint regularly uses for both Jehoiakim and Jehoiachin), "twenty-fourth" (Hebrew "twenty-fifth"), transcribes Evil-merodach as Oulaimadachar, and uniquely adds "and cut his hair" (kai ekeiren auton) after "lifted up" (literally "took") his head.

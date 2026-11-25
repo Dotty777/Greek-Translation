@@ -23,7 +23,7 @@
 
 **3:9** And Jeshua and his sons and his brothers, Kadmiel and his sons, the sons of Judah, stood over those doing the works in the house of God; the sons of Henadad, their sons and their brothers, the Levites.
 
-**3:10** And they laid the foundation to build the house of the Lord; and the priests stood robed with trumpets, and the Levites, the sons of Asaph, to praise the Lord by the hands of David king of Israel.
+**3:10** And they laid the foundation to build the house of the Lord; and the priests stood robed with trumpets, and the Levites, the sons of Asaph, to praise the Lord according to the directions of David king of Israel.
 
 **3:11** And they responded in praise and thanksgiving to the Lord: "For it is good, for His mercy is forever upon Israel." And all the people sounded a loud shout to praise the Lord at the laying of the foundation of the house of the Lord.
 
@@ -36,5 +36,5 @@
 - **3:2** — The Greek text omits "the priests, and Zerubbabel the son of Shealtiel and his brothers," which appear in the Hebrew text.
 - **3:3** — The Greek text omits the clause about dread of the peoples of the lands found in the Hebrew text and uses an intransitive singular verb ("a burnt offering went up").
 - **3:7** — Greek Sedamein and Sorein transliterate the Hebrew terms corresponding to the Sidonians and Tyrians.
-- **3:10** — The Greek text reads "laid the foundation to build" (taking the Hebrew participle for "builders" as an infinitive) and omits "with cymbals."
+- **3:10** — The Greek text reads "laid the foundation to build" (taking the Hebrew participle for "builders" as an infinitive), omits "with cymbals," and expresses the liturgical-order idiom literally as epi cheiras Dauid ("upon the hands of David," meaning "according to the directions/order of David").
 - **3:11** — The Greek text reads neuter agathon ("it is good") rather than masculine ("He is good"); similarly in v. 12 it reads "a song" (oden) where the Hebrew has "the voice."

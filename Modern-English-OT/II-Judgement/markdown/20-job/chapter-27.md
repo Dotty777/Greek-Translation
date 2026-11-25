@@ -1,6 +1,6 @@
 # Job 27 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,6 +53,7 @@
 
 ## Translator Notes
 
+- **27:3** — Greek pneuma theion ("divine spirit" or "divine breath," without the article) can also be capitalized as "the divine Spirit" in parallel with Job's life-breath.
 - **27:5** — Because the Greek places gar ("for") after "until I die," that temporal clause concludes the first statement rather than introducing the second as in the Hebrew Masoretic Text.
 - **27:8** — The Septuagint reads "that he holds on? Trusting in the Lord, will he then be saved?", diverging markedly from the Hebrew ("when God takes away his soul").
 - **27:15** — The Greek lacks the opening line found in the Hebrew Masoretic Text ("his survivors will be buried by pestilence") and reads "no one will have mercy on their widows" rather than "their widows will not weep."

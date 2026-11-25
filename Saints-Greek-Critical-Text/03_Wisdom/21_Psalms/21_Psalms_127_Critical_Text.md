@@ -1,6 +1,6 @@
 # Psalms 127 — Saints Greek Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:11:35Z`
+**Division:** `03_Wisdom` · **Language:** `Greek` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:29Z`
 
 **Versification:** Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62. Numbering anchor for this chapter: `Sixtine/Brenton`. Spelling and punctuation follow `Swete-Amicarelli` where it attests the adopted reading.
 
@@ -18,7 +18,7 @@
 | **Swete (B/A/א)** | Swete Septuagint Diplomatic Uncial Text (Cambridge 1909–1930) | Tier 1 | `0.90` | Public Domain / CC BY-SA 4.0 | Diplomatic Uncial (Codex Vaticanus B; Alexandrinus A in Gen 1:1–46:28a) |
 | **Sixtine/Brenton** | Sixtine-Vaticanus Septuagint (1587 / Brenton 1851 USFM) | Tier 2 | `0.84` | Public Domain | Sixtine Ecclesiastical & Vaticanus Printed Tradition |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,8 +28,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Rahlfs1935 [QUARANTINED] | `QUARANTINED_NC` | DISREGARDED FROM OPEN CRITICAL TEXT (Tier 5 Quarantine): Protected editorial edition (Deutsche Bibelgesellschaft). Blocked from direct ingestion to guarantee 100% clean open-source copyright status for the Saints Critical Text. |
-| CSP-XML [NC-NOTICE] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although placed in Tier 4, XML header <availability> declares CC BY-NC-SA (NonCommercial). CNTR CC BY-SA 01.txt is used instead for clean open-license NT Sinaiticus collation; enable only if ShareAlike/NC is acceptable. |
+| Rahlfs (1935) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted / Study-Only (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| א (01) [CSP-OT] | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (Tier 5 — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Swete-Amicarelli: 126:1 kept in its own chapter (stronger match to its own reference verse)
@@ -52,6 +52,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - 1st1K-LXX: 126:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 128:1 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 128:2 kept in its own chapter (stronger match to its own reference verse)
+- 1st1K-LXX: 128:3 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 128:4 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 128:5 kept in its own chapter (stronger match to its own reference verse)
 - 1st1K-LXX: 128:6 kept in its own chapter (stronger match to its own reference verse)
@@ -64,11 +65,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - Swete (B/A/א): 126:5 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 128:1 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 128:2 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 128:3 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 128:4 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 128:5 kept in its own chapter (stronger match to its own reference verse)
+- Swete (B/A/א): 128:6 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 128:7 kept in its own chapter (stronger match to its own reference verse)
 - Swete (B/A/א): 128:8 kept in its own chapter (stronger match to its own reference verse)
-- Swete (B/A/א): 126:6 folded into verse 1 (the reference prints these words there)
 - LXX-Orthodox (Οʹ): 126:1 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 126:2 kept in its own chapter (stronger match to its own reference verse)
 - LXX-Orthodox (Οʹ): 126:3 kept in its own chapter (stronger match to its own reference verse)
@@ -99,9 +101,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 127:1
-- **Apparatus:** `ᾨδὴ` Swete-Amicarelli Swete (B/A/א) 1st1K-LXX LXX-Orthodox (Οʹ) **]** **Ὠδὴ** Sixtine/Brenton *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: Vaticanus-based LXX (Swete); other reading(s): Sixtine / Ecclesiastical LXX.
-  - *external: two-stream policy:* Policy decision, not independent evidence: Swete (a diplomatic print of Codex Vaticanus) against the Sixtine/Brenton text, itself printed from Vaticanus. Close to a coin flip; the heavier edition is followed.
+- *Disregarded Surface Variant:* kept `ᾨδὴ` over `ᾨδἡ`, `Ὠδὴ` (1st1K-LXX, Sixtine/Brenton, Swete (B/A/א)) — *Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)*
 - *Disregarded Surface Variant:* kept `κύριον,` over `Κύριον,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 127:2
@@ -127,7 +127,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `κύριον.` over `Κύριον.` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 
 ### Psalms 127:5
-- *Disregarded Surface Variant:* kept `om.` over `ᾨδἡ τῶν ἀναβαθμῶν` (Swete (B/A/א)) — *Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant*
 - *Disregarded Surface Variant:* kept `εὐλογήσαι` over `Εὐλογήσαι` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Σιών,` over `Σιὼν,` (Sixtine/Brenton) — *Accentuation / capitalisation / breathing convention*
 - *Disregarded Surface Variant:* kept `Ἰερουσαλὴμ` over `Ἱερουσαλὴμ` (Sixtine/Brenton) — *Accent or breathing differs between accented editions (editorial interpretation)*
@@ -141,15 +140,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
-### Verse 1 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ᾨδὴ τῶν ἀναβαθμῶν. Μακάριοι πάντες οἱ φοβούμενοι τὸν κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
   - `Swete-Amicarelli`: ᾨδὴ τῶν ἀναβαθμῶν. Μακάριοι πάντες οἱ φοβούμενοι τὸν κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
   - `1st1K-LXX`: ᾨδἡ τῶν ἀναβαθμῶν. Μακάριοι πάντες οἱ φοβούμενοι τὸν κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
-  - `Swete (B/A/א)`: ᾨδὴ τῶν ἀναβαθμῶν. Μακάριοι πάντες οἱ φοβούμενοι τὸν κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
+  - `Swete (B/A/א)`: ᾨδἡ τῶν ἀναβαθμῶν. Μακάριοι πάντες οἱ φοβούμενοι τὸν κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
   - `Sixtine/Brenton`: Ὠδὴ τῶν ἀναβαθμῶν. Μακάριοι πάντες οἱ φοβούμενοι τὸν Κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
   - `LXX-Orthodox (Οʹ)`: ᾨδὴ τῶν ἀναβαθμῶν. ΜΑΚΑΡΙΟΙ πάντες οἱ φοβούμενοι τὸν Κύριον, οἱ πορευόμενοι ἐν ταῖς ὁδοῖς αὐτοῦ.
-- **Philological Rationale:** [Iota subscript differs (a case difference such as γῆ / γῇ, not an accent convention)] Adopted 'ᾨδὴ' [Swete-Amicarelli, Swete (B/A/א), 1st1K-LXX] (weight 0.93, confidence 53%) over Ὠδὴ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)).
 
 ### Verse 2 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** τοὺς καρποὺς τῶν πόνων σου φάγεσαι, μακάριος εἶ καὶ καλῶς σοι ἔσται.
@@ -185,10 +183,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** εὐλογήσαι σε Κύριος ἐκ Σιών, καὶ ἴδοις τὰ ἀγαθὰ Ἰερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου,
   - `Swete-Amicarelli`: εὐλογήσαι σε Κύριος ἐκ Σιών, καὶ ἴδοις τὰ ἀγαθὰ Ἰερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου,
   - `1st1K-LXX`: εὐλογήσαι σε Κύριος ἐκ Σιών, καὶ ἴδοις τὰ ἀγαθὰ Ἰερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου,
-  - `Swete (B/A/א)`: ᾨδἡ τῶν ἀναβαθμῶν. εὐλογήσαι σε Κύριος ἐκ Σιών, καὶ ἴδοις τὰ ἀγαθὰ Ἰερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου,
+  - `Swete (B/A/א)`: εὐλογήσαι σε Κύριος ἐκ Σιών, καὶ ἴδοις τὰ ἀγαθὰ Ἰερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου,
   - `Sixtine/Brenton`: Εὐλογήσαι σε Κύριος ἐκ Σιὼν, καὶ ἴδοις τὰ ἀγαθὰ Ἱερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου·
   - `LXX-Orthodox (Οʹ)`: εὐλογήσαι σε Κύριος ἐκ Σιών, καὶ ἴδοις τὰ ἀγαθὰ Ἱερουσαλὴμ πάσας τὰς ἡμέρας τῆς ζωῆς σου·
-- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 5 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Punctuation / spacing difference only).
+- **Philological Rationale:** Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** καὶ ἴδοις υἱοὺς τῶν υἱῶν σου. εἰρήνη ἐπὶ τὸν Ἰσραήλ.

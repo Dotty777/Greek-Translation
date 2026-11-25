@@ -7,7 +7,7 @@
   "usfm_code": "EST",
   "chapter": 6,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:10:52Z",
+  "updated_at": "2026-11-25T00:07:26Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -26,6 +26,7 @@
     "Swete-Amicarelli: 5:12 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 5:13 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 5:14 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 7:2 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 7:3 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 7:4 kept in its own chapter (stronger match to its own reference verse)",
@@ -42,6 +43,7 @@
     "1st1K-LXX: 5:4 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:5 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:6 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 5:7 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:8 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:9 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:10 kept in its own chapter (stronger match to its own reference verse)",
@@ -49,6 +51,7 @@
     "1st1K-LXX: 5:12 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:13 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 5:14 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 7:2 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 7:3 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 7:4 kept in its own chapter (stronger match to its own reference verse)",
@@ -65,6 +68,7 @@
     "Swete (B/A/א): 5:4 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:5 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 5:7 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:8 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:9 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:10 kept in its own chapter (stronger match to its own reference verse)",
@@ -72,6 +76,7 @@
     "Swete (B/A/א): 5:12 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:13 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 5:14 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 7:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 7:2 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 7:3 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 7:4 kept in its own chapter (stronger match to its own reference verse)",
@@ -278,18 +283,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἀπέστησεν / ἀπέστησε",
-            "εἶπεν / εἶπε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'διδασκάλῳ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over διακόνῳ (Sixtine/Brenton). Also normalised 6 orthographic/surface variation(s).",
@@ -371,18 +364,6 @@
             "Swete (B/A/א)"
           ],
           "reason": "Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εὗρεν / εὗρε",
-            "ἀπήγγειλεν / ἀπήγγειλε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant; Punctuation / spacing difference only; Spelling variant pooled before the vote with the reading 'εὗρεν' (same word, different spelling); whether that reading was adopted is shown in the apparatus).",
@@ -476,17 +457,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἶπεν / εἶπε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 6 surface variation(s) (Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -648,17 +618,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Euphonic movable-nu (-ν) variation"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἡτοίμασεν. / ἡτοίμασε."
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Lexical, morphological, or word-order variant] Adopted 'εἶπεν' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over εἶπν (Sixtine/Brenton). Also normalised 8 orthographic/surface variation(s).",
@@ -914,18 +873,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἶπεν / εἶπε",
-            "εἶπεν / εἶπε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "[Omission in some witnesses] Adopted 'ὁ' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over om. (Sixtine/Brenton). Also normalised 7 orthographic/surface variation(s).",
@@ -994,17 +941,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἶπεν / εἶπε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1208,17 +1144,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "εἶπεν / εἶπε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 4 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only).",
@@ -1356,20 +1281,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Accentuation / capitalisation / breathing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἔλαβεν / ἔλαβε",
-            "ἐστόλισεν / ἐστόλισε",
-            "διῆλθεν / διῆλθε",
-            "ἐκήρυσσεν / ἐκήρυσσε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 10 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Encoding difference between digital copies of the same printed edition (the sister copy is the other edition's reading in another spelling); not counted as a variant; Euphonic movable-nu (-ν) variation; Punctuation / spacing difference only; Spelling variant pooled before the vote with the reading 'ἐστόλισεν' (same word, different spelling); whether that reading was adopted is shown in the apparatus).",
@@ -1431,17 +1342,6 @@
             "Swete (B/A/א)"
           ],
           "reason": "Accent or breathing differs between accented editions (editorial interpretation)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐπέστρεψεν / ἐπέστρεψε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 3 surface variation(s) (Accent or breathing differs between accented editions (editorial interpretation); Accentuation / capitalisation / breathing convention; Euphonic movable-nu (-ν) variation).",

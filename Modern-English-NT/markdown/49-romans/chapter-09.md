@@ -1,6 +1,6 @@
 # Romans 9 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (33 verses, 4 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Romans`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -74,6 +74,7 @@
 ## Translator Notes
 
 - **9:5** — The punctuation of the final clause is debated; following the Greek punctuation here, "who is over all, God blessed forever" refers to Christ, though some punctuate it as an independent doxology to God the Father ("May God, who is over all, be blessed forever").
+- **9:7** — Greek σπέρμα ("seed," rendered "offspring" here) echoes Genesis 21:12 (compare Hebrews 11:18 and Romans 1:3, 11:1).
 - **9:22** — Greek katertismena ("fitted" or "prepared") can be read as passive ("prepared") or middle/adjectival ("fit/ready for destruction"), contrasting with the active verb proetoimasen ("He prepared beforehand") in 9:23.
 - **9:28** — Some later Greek manuscripts expand the quotation from Isaiah to read "in righteousness, because the Lord will carry out a shortened word upon the earth."
 - **9:29** — "Sabaoth" is a Greek transliteration of the Hebrew title meaning "hosts" or "armies."

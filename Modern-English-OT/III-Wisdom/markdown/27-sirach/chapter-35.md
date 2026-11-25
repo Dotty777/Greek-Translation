@@ -1,6 +1,6 @@
 # Sirach 35 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (19 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -46,6 +46,8 @@
 ## Translator Notes
 
 - **35:1** — "Deliverance offering" translates Greek σωτηρίου, the standard Septuagint term for the Old Testament peace or fellowship offering.
+- **35:4** — Verse 35:4 combines native Greek manuscript verses 32:4 and 32:5 in the restored Saints.Bible chapter order (see note on 30:25).
 - **35:7** — Literally "with a good eye" (repeated in v. 9), a Hebrew idiom denoting generosity and a willing spirit.
-- **35:12** — "Partiality" translates Greek δόξα προσώπου, literally "glory of a face," meaning favoritism based on outward status or appearance.
-- **35:24** — Greek αὐτοῦ ("his") is masculine singular, referring either to an afflicted person or back to the singular noun "people" (λαός) in v. 22.
+- **35:12** — "Partiality" translates Greek δόξα προσώπου, literally "glory of a face," meaning favoritism based on outward status or appearance. In the Saints.Bible numbering, this verse (native Greek 32:12) combines 35:11 and 35:12, so nothing is omitted from the Greek text.
+- **35:21** — In the Saints.Bible numbering, 35:17 (native Greek 32:17) spans 35:17–18a and this verse (native Greek 32:18) spans 35:18b–21, continuing directly from 35:17 with nothing omitted.
+- **35:24** — Greek αὐτοῦ ("his") is masculine singular, referring either to an afflicted person or back to the singular noun "people" (λαός) in v. 22. Verse 35:23 of the Saints.Bible numbering is combined into 35:22 (native Greek 32:19 spans 35:22–23), so native Greek 32:20 follows 32:19 directly with nothing omitted.

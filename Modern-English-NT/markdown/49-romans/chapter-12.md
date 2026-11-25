@@ -1,6 +1,6 @@
 # Romans 12 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (21 verses, 8 translator notes)  
+> **Status:** `draft: true` (21 verses, 9 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Romans`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -54,6 +54,7 @@
 - **12:3** — Paul uses a fourfold play on the root φρον- (ὑπερφρονεῖν, φρονεῖν, φρονεῖν, σωφρονεῖν), reflected by repeating "think" and closing with "sound judgment."
 - **12:8** — ἁπλότης means "singleness of mind, simplicity," which in contexts of giving carries the nuance of ungrudging generosity.
 - **12:10** — τῇ τιμῇ ἀλλήλους προηγούμενοι literally means "going ahead of one another in honor," rendered "in honor outdo one another."
+- **12:11** — Greek τῷ πνεύματι can refer either to the human spirit ("in spirit") or to the Holy Spirit ("by/in the Spirit").
 - **12:14** — The Saints Greek Critical Text has τοὺς διώκοντας without "you" (ὑμᾶς), so it is rendered "those who persecute."
 - **12:16** — τοῖς ταπεινοῖς can be masculine ("the lowly," i.e. humble people, rendered here) or neuter ("humble tasks/things"), contrasting with the neuter τὰ ὑψηλά ("high things").
 - **12:19** — τῇ ὀργῇ ("to wrath") lacks a possessive pronoun in Greek; the context and the following Scripture quotation show it refers to God's wrath.

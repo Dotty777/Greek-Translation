@@ -1,6 +1,6 @@
 # Isaiah 44 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,7 @@
 ## Translator Notes
 
 - **44:2** — Greek "beloved Israel" translates the Hebrew poetic name "Jeshurun," and the Greek places "You will yet be helped" at the start of the direct address.
+- **44:5** — Greek epigrapsei cheiri autou uses the compound verb epigraphein ("inscribe upon") with a bare dative, which can denote either the instrument ("write with his hand") or the surface inscribed ("inscribe on his hand").
 - **44:6** — Greek "God Sabaoth" leaves Hebrew "Sabaoth" (hosts/armies) transliterated rather than translated, and reads "after these things" where the Hebrew Masoretic Text has "the last."
 - **44:11** — Greek "deaf ones from among people" likely arose from reading Hebrew harashim ("craftsmen") as hereshim ("deaf ones"), and "all from whom they came have dried up" differs from the Hebrew "all his associates will be put to shame."
 - **44:26** — The Greek text reads "the cities of Idumea" (Edom) where the Hebrew Masoretic Text reads "the cities of Judah."

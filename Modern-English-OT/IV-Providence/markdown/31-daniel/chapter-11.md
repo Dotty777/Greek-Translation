@@ -93,7 +93,7 @@
 
 **11:44** And reports and urgencies will trouble him from the east and from the north, and he will come with great fury to destroy many.
 
-**11:45** And he will pitch his tent Ephadano between the seas, at the holy mountain of Sabaein; and he will come to his portion, and there is no one who delivers him.
+**11:45** And he will pitch his tent Ephadano between the seas, at the holy mountain of Sabaein; and he will come to his portion, and there is no one who delivers him."
 
 ## Translator Notes
 

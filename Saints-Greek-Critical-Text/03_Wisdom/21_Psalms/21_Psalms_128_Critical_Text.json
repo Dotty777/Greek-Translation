@@ -7,7 +7,7 @@
   "usfm_code": "PSA",
   "chapter": 128,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:11:35Z",
+  "updated_at": "2026-11-25T00:07:29Z",
   "versification": "Septuagint numbering as in Brenton/eBible (the Saints.Bible numbering) for the OT; standard numbering for the NT. Witnesses that number differently (e.g. Swete in Joel and Malachi) are re-aligned by content. Proverbs is numbered as Saints.Bible numbers it: Hebrew chapter and verse numbers in the Greek order (24:1–22e, 30:1–14, 24:23–34, 30:15–33, 31:1–9, 25–29, 31:10–31), not as the Brenton e-text runs 30:1–31:9 on as 24:22–62.",
   "versification_anchor": "Sixtine/Brenton",
   "orthographic_base": "Swete-Amicarelli",
@@ -20,7 +20,9 @@
     "Swete-Amicarelli: 127:6 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 129:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 129:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 129:3 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 129:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete-Amicarelli: 129:5 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 129:6 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 129:7 kept in its own chapter (stronger match to its own reference verse)",
     "Swete-Amicarelli: 129:8 kept in its own chapter (stronger match to its own reference verse)",
@@ -33,6 +35,9 @@
     "1st1K-LXX: 129:1 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 129:2 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 129:4 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 129:5 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 129:6 kept in its own chapter (stronger match to its own reference verse)",
+    "1st1K-LXX: 129:7 kept in its own chapter (stronger match to its own reference verse)",
     "1st1K-LXX: 129:8 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 127:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 127:2 kept in its own chapter (stronger match to its own reference verse)",
@@ -40,8 +45,12 @@
     "Swete (B/A/א): 127:4 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 127:5 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 127:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 129:1 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 129:2 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 129:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 129:5 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 129:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Swete (B/A/א): 129:7 kept in its own chapter (stronger match to its own reference verse)",
     "Swete (B/A/א): 129:8 kept in its own chapter (stronger match to its own reference verse)",
     "LXX-Orthodox (Οʹ): verse 129:5 runs into its neighbour across the anchor's division between 129:4 and 129:5; re-divided there",
     "LXX-Orthodox (Οʹ): verse 129:6 runs into its neighbour across the anchor's division between 129:6 and 129:7; re-divided there",
@@ -109,7 +118,7 @@
       "witness_readings": {
         "Swete-Amicarelli": "ᾨδὴ τῶν ἀναβαθμῶν. Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, εἰπάτω δὴ Ἰσραήλ·",
         "1st1K-LXX": "ᾨδὴ τῶν ἀναβαθμῶν. Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, εἰπάτω δὴ Ἰσραήλ·",
-        "Swete (B/A/א)": "Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, εἰπάτω δὴ Ἰσραήλ·",
+        "Swete (B/A/א)": "ᾨδὴ τῶν ἀναβαθμῶν. Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, εἰπάτω δὴ Ἰσραήλ·",
         "Sixtine/Brenton": "Ὠδὴ τῶν ἀναβαθμῶν. Πλεονάκις ἐπολέμησάν με ἐκ νεότητός μου, εἰπάτω δὴ Ἰσραήλ·",
         "LXX-Orthodox (Οʹ)": "ᾨδὴ τῶν ἀναβαθμῶν. ΠΛΕΟΝΑΚΙΣ ἐπολέμησάν με ἐκ νεότητός μου, εἰπάτω δὴ Ἰσραήλ·"
       },
@@ -122,17 +131,17 @@
       "disregarded": [
         {
           "slot_index": 0,
-          "kept_form": "ᾨδὴ τῶν ἀναβαθμῶν",
+          "kept_form": "ᾨδὴ",
           "disregarded_forms": [
-            "om."
+            "Ὠδὴ"
           ],
           "witnesses": [
-            "Swete (B/A/א)"
+            "Sixtine/Brenton"
           ],
-          "reason": "Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant"
+          "reason": "Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)"
         }
       ],
-      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant).",
+      "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 1 surface variation(s) (Non-morphological iota-subscript convention (αἴρω aorist / κἀγώ / ἀθῷος / ζῷον / ᾠδή / σῴζω)).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -464,7 +473,7 @@
       "witness_readings": {
         "Swete-Amicarelli": "γενηθήτωσαν ὡς χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·",
         "1st1K-LXX": "γενηθήτωσαν ὡς χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·",
-        "Swete (B/A/א)": "ᾨδὴ τῶν ἀναβαθμῶν. γενηθήτωσαν ὡς χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·",
+        "Swete (B/A/א)": "γενηθήτωσαν ὡς χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·",
         "Sixtine/Brenton": "Γενηθήτωσαν ὡσεὶ χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·",
         "LXX-Orthodox (Οʹ)": "γενηθήτωσαν ὡσεὶ χόρτος δωμάτων, ὃς πρὸ τοῦ ἐκσπασθῆναι ἐξηράνθη·"
       },
@@ -475,7 +484,7 @@
       ],
       "apparatus": [
         {
-          "slot_index": 2,
+          "slot_index": 1,
           "lemma": "ὡς",
           "lemma_witnesses": [
             "Swete-Amicarelli",
@@ -524,17 +533,6 @@
       "disregarded": [
         {
           "slot_index": 0,
-          "kept_form": "om.",
-          "disregarded_forms": [
-            "ᾨδὴ τῶν ἀναβαθμῶν"
-          ],
-          "witnesses": [
-            "Swete (B/A/א)"
-          ],
-          "reason": "Encoding difference between digital copies of the same printed edition (the sister copy agrees with the other editions); not counted as a variant"
-        },
-        {
-          "slot_index": 1,
           "kept_form": "γενηθήτωσαν",
           "disregarded_forms": [
             "Γενηθήτωσαν"
@@ -545,7 +543,7 @@
           "reason": "Accentuation / capitalisation / breathing convention"
         }
       ],
-      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ὡς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὡσεὶ (Sixtine/Brenton). Also normalised 2 orthographic/surface variation(s).",
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ὡς' [Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א)] (weight 0.93, confidence 53%) over ὡσεὶ (Sixtine/Brenton). Also normalised 1 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
@@ -600,17 +598,6 @@
             "Sixtine/Brenton"
           ],
           "reason": "Punctuation / spacing difference only"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "ἐπλήρωσεν / ἐπλήρωσε"
-          ],
-          "witnesses": [
-            "LXX-Orthodox (Οʹ)"
-          ],
-          "reason": "Apparatus witness, not a variant: Euphonic movable-nu (-ν) variation"
         }
       ],
       "rationale": "Substantively unanimous across Swete-Amicarelli, 1st1K-LXX, Swete (B/A/א), Sixtine/Brenton. Normalised 2 surface variation(s) (Accentuation / capitalisation / breathing convention; Punctuation / spacing difference only).",

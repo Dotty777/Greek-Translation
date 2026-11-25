@@ -1,6 +1,6 @@
 # 2 Maccabees 1 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (36 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`2 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,7 +41,7 @@
 
 **1:18** As we are about to observe on the twenty-fifth of Chislev the purification of the temple, we thought it necessary to inform you, so that you yourselves also may observe the festival of Booths and of the fire, when Nehemiah, who at that time built the temple and the altar, offered sacrifices.
 
-**1:19** For indeed, when our fathers were being led away into Persia, the devout priests secretly took some of the fire of the altar and hid it in the hollow of a cistern that was waterless, in which they secured it so that the place was unknown to all.
+**1:19** For indeed, when our fathers were being led away into Persia, the devout priests secretly took some of the fire of the altar and hid it in a waterless hollow having the form of a cistern, in which they secured it so that the place was unknown to all.
 
 **1:20** And after many years had passed, when it seemed good to God, Nehemiah, having been sent by the king of Persia, sent the descendants of the priests who had hidden it for the fire.
 
@@ -82,5 +82,6 @@
 - **1:8** — The Greek text reads ἐξηγάγομεν ("brought out"), whereas other Greek witnesses read ἐξήψαμεν ("lit").
 - **1:10** — The Greek text reads "eighty-eighth year" (ἔτους ὀγδοηκοστοῦ καὶ ὀγδόου) and attaches "in Jerusalem" to the date, whereas other Greek witnesses read "one hundred eighty-eighth year" and begin the greeting with "Those in Jerusalem."
 - **1:12** — The Greek text places "into Persia" (εἰς τὴν Περσίδα) at the end of verse 12 rather than at the beginning of verse 13 as in some other editions.
+- **1:19** — Greek en koilomati phreatos taxin echontos anydron literally reads "in a hollow having the place/form of a cistern, waterless."
 - **1:35** — The Greek text omits the verb "showed favor" (ἐχαρίζετο) found in other Greek witnesses, leaving a compressed relative construction.
 - **1:36** — The Greek text reads Νεφθάρ ("Nephthar") in both occurrences, whereas other Greek witnesses read Νεφθάι ("Nephthai") in the second.

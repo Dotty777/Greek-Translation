@@ -1,6 +1,6 @@
 # Jeremiah 27 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 7 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -99,8 +99,10 @@
 
 ## Translator Notes
 
+- **27:1** — Jeremiah 27 in the Septuagint corresponds to Jeremiah 50 in the Hebrew Bible.
 - **27:2** — The Septuagint describes Bel as "the fearless one" (ἡ ἀπτόητος) and Merodach (Greek Μαιωδάκ) as "the delicate one" delivered up, differing markedly from the Hebrew text and echoing 26:28.
 - **27:8** — Greek δράκοντες ("dragons") differs from the Hebrew "male goats" leading the flock.
+- **27:18** — The adopted Greek text reads epi ton Babylonos ("on the one of Babylon"), omitting the noun basilea ("king") before Babylon.
 - **27:24** — Greek ὡς Βαβυλών ("like Babylon") is translated literally; it likely arose within Greek transmission from vocative ὦ Βαβυλών ("O Babylon").
 - **27:38** — The Septuagint links "upon her water" to the preceding verse ("scattered") and reads "put to shame" and "in the islands" (continued in v. 39 with "apparitions" and "daughters of sirens"), diverging sharply from the Hebrew.
 - **27:44** — "Gaithan" (Γαιθάν) is a Septuagint-distinct place name where the Hebrew reads "an enduring pasture."
