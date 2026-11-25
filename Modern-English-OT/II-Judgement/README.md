@@ -1,7 +1,7 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Greek Septuagint)
 
 > **Status:** `draft: true` — **Complete 15/15 books**  
-> **Coverage:** 322 chapters, 9,412 verses, 1,705 translator notes  
+> **Coverage:** 322 chapters, 9,412 verses, 1,706 translator notes  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
 ## Books Included (15 / 15 Complete)
@@ -15,7 +15,7 @@
 | 10 | 2 Samuel | 24 | 694 | 128 | [`markdown/10-2-samuel/`](markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](json/10-2-samuel.json) |
 | 11 | 1 Kings | 22 | 754 | 122 | [`markdown/11-1-kings/`](markdown/11-1-kings/README.md) | [`11-1-kings.json`](json/11-1-kings.json) |
 | 12 | 2 Kings | 25 | 718 | 132 | [`markdown/12-2-kings/`](markdown/12-2-kings/README.md) | [`12-2-kings.json`](json/12-2-kings.json) |
-| 13 | 1 Chronicles | 29 | 929 | 154 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
+| 13 | 1 Chronicles | 29 | 929 | 155 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 183 | [`markdown/14-2-chronicles/`](markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](json/14-2-chronicles.json) |
 | 15 | Ezra | 10 | 280 | 57 | [`markdown/15-ezra/`](markdown/15-ezra/README.md) | [`15-ezra.json`](json/15-ezra.json) |
 | 16 | Nehemiah | 13 | 388 | 72 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |

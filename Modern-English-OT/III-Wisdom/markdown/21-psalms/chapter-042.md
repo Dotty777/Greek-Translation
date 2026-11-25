@@ -17,5 +17,5 @@
 
 ## Translator Notes
 
-- **42:1** — Septuagint Psalm 42 corresponds to Hebrew Psalm 43 and includes the superscription "A psalm of David," which is absent from the Hebrew Masoretic Text.
+- **42:1** — Septuagint Psalm 42 corresponds to Hebrew Psalm 43 and includes the superscription "A psalm for David" (ψαλμὸς τῷ Δαυίδ, a dative that can also mean "of/by David" or "pertaining to David"), which is absent from the Hebrew Masoretic Text.
 - **42:3** — The Greek uses aorist indicative verbs ("they led me and brought me") rather than the jussive request ("let them lead me and bring me") found in the Hebrew text.

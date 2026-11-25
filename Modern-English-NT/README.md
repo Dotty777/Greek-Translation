@@ -1,7 +1,7 @@
 # Saints Modern English — Complete New Testament (Greek)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Coverage:** **Complete 27 of 27 New Testament books** (260 chapters, 7,942 verses, 1,138 translator notes) — all three NT divisions (**V. Salvation**, **VI. Discipleship**, **VII. Glory**) finished.  
+> **Coverage:** **Complete 27 of 27 New Testament books** (260 chapters, 7,942 verses, 1,139 translator notes) — all three NT divisions (**V. Salvation**, **VI. Discipleship**, **VII. Glory**) finished.  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and full programmatic & scholarly audit (`0` hard failures, `0` soft archaisms).
 
 ## Overview
@@ -26,7 +26,7 @@ This directory contains the complete **Saints Modern English** translation of th
 | 50 | VI. Discipleship | 1 Corinthians | 16 | 437 | 64 | [`markdown/50-1-corinthians/`](markdown/50-1-corinthians/README.md) | [`50-1-corinthians.json`](json/50-1-corinthians.json) |
 | 51 | VI. Discipleship | 2 Corinthians | 13 | 256 | 51 | [`markdown/51-2-corinthians/`](markdown/51-2-corinthians/README.md) | [`51-2-corinthians.json`](json/51-2-corinthians.json) |
 | 52 | VI. Discipleship | Galatians | 6 | 149 | 26 | [`markdown/52-galatians/`](markdown/52-galatians/README.md) | [`52-galatians.json`](json/52-galatians.json) |
-| 53 | VI. Discipleship | Ephesians | 6 | 155 | 29 | [`markdown/53-ephesians/`](markdown/53-ephesians/README.md) | [`53-ephesians.json`](json/53-ephesians.json) |
+| 53 | VI. Discipleship | Ephesians | 6 | 155 | 30 | [`markdown/53-ephesians/`](markdown/53-ephesians/README.md) | [`53-ephesians.json`](json/53-ephesians.json) |
 | 54 | VI. Discipleship | Philippians | 4 | 104 | 17 | [`markdown/54-philippians/`](markdown/54-philippians/README.md) | [`54-philippians.json`](json/54-philippians.json) |
 | 55 | VI. Discipleship | Colossians | 4 | 95 | 20 | [`markdown/55-colossians/`](markdown/55-colossians/README.md) | [`55-colossians.json`](json/55-colossians.json) |
 | 56 | VI. Discipleship | 1 Thessalonians | 5 | 89 | 17 | [`markdown/56-1-thessalonians/`](markdown/56-1-thessalonians/README.md) | [`56-1-thessalonians.json`](json/56-1-thessalonians.json) |

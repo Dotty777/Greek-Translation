@@ -34,7 +34,7 @@
 - [Chapter 26](chapter-26.md) — 19 verses, 5 notes
 - [Chapter 27](chapter-27.md) — 26 verses, 5 notes
 - [Chapter 28](chapter-28.md) — 69 verses, 10 notes
-- [Chapter 29](chapter-29.md) — 28 verses, 5 notes
+- [Chapter 29](chapter-29.md) — 28 verses, 6 notes
 - [Chapter 30](chapter-30.md) — 20 verses, 4 notes
 - [Chapter 31](chapter-31.md) — 30 verses, 5 notes
 - [Chapter 32](chapter-32.md) — 52 verses, 5 notes

@@ -1,11 +1,11 @@
 # Psalm 61 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (13 verses, 4 translator notes)  
+> **Status:** `draft: true` (13 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**61:1** For the end, for Jeduthun; a psalm for David.
+**61:1** For the end, on behalf of Jeduthun; a psalm for David.
 
 **61:2** Will not my soul be subject to God? For from Him is my salvation.
 
@@ -33,6 +33,7 @@
 
 ## Translator Notes
 
+- **61:1** — Greek ὑπὲρ Ἰδιθούν ("on behalf of / concerning Jeduthun," matching 76:1) uses a different construction from the dative τῷ Δαυίδ ("for David"), which is multi-valent and can also mean "of/by David" or "pertaining to David" (see note on 3:1).
 - **61:2** — Greek opens with a rhetorical question ('Will not my soul be subject to God?') where the Hebrew text states 'For God alone my soul waits in silence.'
 - **61:5** — Greek reads 'they ran in thirst' where the Hebrew text reads 'they delight in falsehood.'
 - **61:9** — Greek reads 'all the congregation of the people' (reflecting Hebrew edah, 'congregation') rather than Hebrew 'at all times, O people' (et, 'time').

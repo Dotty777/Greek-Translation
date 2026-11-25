@@ -1,6 +1,6 @@
 # Ephesians 4 — Saints Modern English (Greek NT)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Ephesians`](README.md) · **Style:** [`STYLE.md`](../../STYLE.md)
 
 ## Text
@@ -75,3 +75,4 @@
 - **4:9** — "The lower parts of the earth" can mean either the subterranean realm beneath the earth or, taking the genitive as appositional, the earth itself as the lower region below heaven.
 - **4:12** — Interpreters debate whether the three prepositional phrases ("for the equipping... for the work... for the building up...") are coordinate purposes of the gifted leaders or whether the saints are equipped to perform the work of ministry.
 - **4:16** — "Every joint of supply" is a compressed Greek phrase referring to every joint or ligament through which support and nourishment are provided to the body.
+- **4:23** — Greek uses a bare dative τῷ πνεύματι without a preposition, which can be understood either as a dative of sphere referring to the inner human spirit ("in the spirit of your mind") or instrumentally as referring to the Holy Spirit ("by the Spirit of your mind").

@@ -31,7 +31,7 @@
 
 ## Translator Notes
 
-- **41:1** — Septuagint Psalm 41 corresponds to Hebrew Psalm 42, with verse numbering offset by one because the superscription is counted as verse 1; "For the end; for understanding" is the standard Greek rendering of the Hebrew heading.
+- **41:1** — Septuagint Psalm 41 corresponds to Hebrew Psalm 42, with verse numbering offset by one because the superscription is counted as verse 1; "For the end; for understanding" is the standard Greek rendering of the Hebrew heading. Greek dative τοῖς υἱοῖς Κόρε ("to/for the sons of Korah") is multi-valent and can also denote authorship or collection ownership ("of/by the sons of Korah").
 - **41:6** — The Greek divides the final clause of the refrain across verses 6 and 7 ("the salvation of my face / is my God"), reading "my face" as in 41:12 and 42:5.
 - **41:7** — "Hermoniim" transliterates the Greek plural form of Hermon (Hermonieim), and "from a small mountain" reflects the Septuagint rendering the Hebrew place name Mizar as the adjective "small."
 - **41:9** — The Greek text here reads "He will make it known" (delosei, attested in major uncials such as Vaticanus and Sinaiticus), rather than "His song is with me" as in the Hebrew text and other Greek witnesses.

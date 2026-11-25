@@ -54,7 +54,7 @@
 - [Psalm 46](chapter-046.md) — 10 verses, 2 notes
 - [Psalm 47](chapter-047.md) — 15 verses, 5 notes
 - [Psalm 48](chapter-048.md) — 21 verses, 5 notes
-- [Psalm 49](chapter-049.md) — 23 verses, 5 notes
+- [Psalm 49](chapter-049.md) — 23 verses, 6 notes
 - [Psalm 50](chapter-050.md) — 21 verses, 5 notes
 - [Psalm 51](chapter-051.md) — 11 verses, 5 notes
 - [Psalm 52](chapter-052.md) — 7 verses, 4 notes
@@ -66,7 +66,7 @@
 - [Psalm 58](chapter-058.md) — 18 verses, 5 notes
 - [Psalm 59](chapter-059.md) — 14 verses, 5 notes
 - [Psalm 60](chapter-060.md) — 9 verses, 4 notes
-- [Psalm 61](chapter-061.md) — 13 verses, 4 notes
+- [Psalm 61](chapter-061.md) — 13 verses, 5 notes
 - [Psalm 62](chapter-062.md) — 12 verses, 5 notes
 - [Psalm 63](chapter-063.md) — 11 verses, 5 notes
 - [Psalm 64](chapter-064.md) — 14 verses, 5 notes

@@ -1,6 +1,6 @@
 # Deuteronomy 29 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,7 @@
 
 ## Translator Notes
 
+- **29:1** — In this chapter, Saints.Bible verse numbering follows the 28-verse division (with Greek 29:1 placed at 28:69), so verses 29:1-28 correspond to Greek Deuteronomy 29:2-29 (a -1 offset throughout chapter 29; see note on 28:69).
 - **29:4** — The Greek reads third-person 'He led,' aligning with Moses as narrator, whereas the Hebrew Masoretic Text reads first-person 'I led' (though v. 5 still shifts to divine first-person speech, 'I am the Lord your God').
 - **29:7** — The Greek reads singular 'I gave' (Hebrew: 'we gave') and writes Gaddei, transliterating the Hebrew gentilic 'the Gadite,' paired here with the tribal name Reuben.
 - **29:17** — The Greek 'a root sprouting upward in gall and bitterness' differs from the Hebrew 'a root bearing poison and wormwood' and is closely echoed in Hebrews 12:15.

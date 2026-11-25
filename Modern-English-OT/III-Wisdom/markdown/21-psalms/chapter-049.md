@@ -1,6 +1,6 @@
 # Psalm 49 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,6 +53,7 @@
 
 ## Translator Notes
 
+- **49:1** — Greek dative τῷ Ἀσάφ (rendered "for Asaph" throughout the Asaph psalms) is multi-valent and can also mean "of/by Asaph" or "pertaining to Asaph."
 - **49:5** — The Greek reads third-person pronouns ('to Him ... His ... His') rather than the first-person pronouns ('to Me ... My ... My') of the Hebrew Masoretic Text.
 - **49:10** — Greek 'livestock on the mountains and oxen' reflects reading the Hebrew word behind 'a thousand' (eleph) as 'oxen' (alaphim).
 - **49:11** — The Greek reads 'birds of heaven' (Hebrew: 'of the mountains') and 'the beauty of the field' (Hebrew: 'what moves in the field').

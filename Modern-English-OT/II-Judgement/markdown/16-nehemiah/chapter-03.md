@@ -7,7 +7,7 @@
 
 **3:1** And Eliashib the high priest and his brothers the priests rose up and built the Sheep Gate; they consecrated it and set up its doors, and as far as the Tower of the Hundred they consecrated it, as far as the Tower of Hananel.
 
-**3:2** And at the hands of the men, the sons of Jericho, and at the hands of the sons of Zabaur son of Imri.
+**3:2** And at the side of the men, the sons of Jericho, and at the side of the sons of Zabaur son of Imri.
 
 **3:3** And the sons of Hasan built the Fish Gate; they roofed it, and roofed its doors and its bolts and its bars.
 
@@ -79,7 +79,7 @@
 
 ## Translator Notes
 
-- **3:2** — The Greek text lacks the verb 'built' (reading 'sons of' instead) and has 'Zabaur' for Hebrew 'Zaccur'; verse 7 of the Hebrew text is absent from this Septuagint text.
+- **3:2** — Greek epi cheiras literally reads "upon/at the hands of," an idiom meaning "at the side of / next to" (as in vv. 4-19). The Greek text also lacks the verb "built" (reading "sons of" instead) and has "Zabaur" for Hebrew "Zaccur"; verse 7 of the Hebrew text is absent from this Septuagint text.
 - **3:4** — Greek katecho ('hold fast', vv. 4-5) and krateo ('take hold of/strengthen', translated 'repaired' in vv. 6-32) render the Hebrew verb for repairing the wall. Verse 4 reads 'to Ramoth' (omitting Meshullam's clause), and v. 5 transliterates Hebrew 'their nobles' as Adoreem.
 - **3:15** — This Septuagint text omits the first half of the verse (Shallun and the Fountain Gate) and reads 'Pool of the Fleeces for the king's shearing' where the Hebrew has 'Pool of Shelah of the king's garden'.
 - **3:26** — Greek Katheinim corresponds to the Hebrew Nethinim (temple servants); here and in v. 16 the Greek reads 'garden' where the Hebrew has 'opposite', and elsewhere transliterates several Hebrew titles and terms (such as Nathurim in v. 11, Hachechar in v. 22, and Beth-eliashib in vv. 20-21).
