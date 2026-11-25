@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Greek Septuagint)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **ALL 43/43 OT books COMPLETE** (1,031 chapters, 26,208 verses, 5,057 translator notes; combined with Complete 27/27 NT = **70 of 70 complete Greek books**).  
+> **Current Coverage:** **ALL 43/43 OT books COMPLETE** (1,031 chapters, 26,212 verses, 5,063 translator notes; combined with Complete 27/27 NT = **70 of 70 complete Greek books**).  
 > **Validation:** 100% validated against `Saints-Greek-Critical-Text` with `validate_modern_english.py --strict` and programmatic/scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -10,16 +10,16 @@ This directory contains the **Saints Modern English** translation of the Greek O
 
 - **Method:** Formal-equivalent (literal) Modern English smoothed for natural reading, with zero archaisms, own-source Greek fidelity (`κύριος` → `the Lord`), and original wording.
 - **Saints.Bible versification:** Chapter and verse keys match `Saints-Greek-Critical-Text` and the Saints.Bible Parallel Reader (including LXX Psalm numbering 1–151 and Sirach Prologue `0:0`).
-- **Prologue & additional critical-text verses (`unplaced`):** Includes the **Sirach Prologue** (`III-Wisdom/markdown/27-sirach/chapter-01.md`, `## Prologue`) and all **27 OT `no-site-verse` items** across Exodus, Numbers, 1–2 Kings, 1 Chronicles, Wisdom, Sirach, Jeremiah, and Theodotion Daniel (`28` total OT `unplaced` items in book `json/*.json` and chapter Markdown).
+- **Prologue & additional critical-text verses (`unplaced`):** Includes the **Sirach Prologue** (`III-Wisdom/markdown/27-sirach/chapter-01.md`, `## Prologue`) and all **23 OT `no-site-verse` items** across Numbers, 1–2 Kings, Wisdom, Jeremiah, and Theodotion Daniel (`24` total OT `unplaced` items in book `json/*.json` and chapter Markdown). See [`parallel-verse-map.json`](parallel-verse-map.json) for explicit adopted-Greek-to-Saints.Bible mappings.
 - **Related directories:** Complete 27/27 NT in [`../Modern-English-NT/`](../Modern-English-NT/README.md); original reviewed pilot & projected layers in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Divisions
 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
-| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,797 | 920 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,412 | 1,706 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,698 | 1,243 | [`III-Wisdom/`](III-Wisdom/README.md) |
+| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,798 | 923 | [`I-Law/`](I-Law/README.md) |
+| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,413 | 1,706 | [`II-Judgement/`](II-Judgement/README.md) |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 277 | 5,700 | 1,246 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,301 | 1,188 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
@@ -27,9 +27,9 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Genesis | 50 | 1,531 | 239 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
-| 2 | Exodus | 40 | 1,162 | 174 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
+| 2 | Exodus | 40 | 1,163 | 176 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
 | 3 | Leviticus | 27 | 859 | 133 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
-| 4 | Numbers | 36 | 1,287 | 206 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
+| 4 | Numbers | 36 | 1,287 | 207 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 958 | 168 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
 ## Division II. Judgement (15 / 15 Complete)
@@ -43,7 +43,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 10 | 2 Samuel | 24 | 694 | 128 | [`II-Judgement/markdown/10-2-samuel/`](II-Judgement/markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](II-Judgement/json/10-2-samuel.json) |
 | 11 | 1 Kings | 22 | 754 | 122 | [`II-Judgement/markdown/11-1-kings/`](II-Judgement/markdown/11-1-kings/README.md) | [`11-1-kings.json`](II-Judgement/json/11-1-kings.json) |
 | 12 | 2 Kings | 25 | 718 | 132 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
-| 13 | 1 Chronicles | 29 | 929 | 155 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
+| 13 | 1 Chronicles | 29 | 930 | 155 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 820 | 183 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
 | 15 | Ezra | 10 | 280 | 57 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
 | 16 | Nehemiah | 13 | 388 | 72 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
@@ -62,7 +62,7 @@ This directory contains the **Saints Modern English** translation of the Greek O
 | 24 | Song of Songs | 8 | 117 | 39 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |
 | 25 | Lamentations | 5 | 150 | 28 | [`III-Wisdom/markdown/25-lamentations/`](III-Wisdom/markdown/25-lamentations/README.md) | [`25-lamentations.json`](III-Wisdom/json/25-lamentations.json) |
 | 26 | Wisdom of Solomon | 19 | 435 | 80 | [`III-Wisdom/markdown/26-wisdom-of-solomon/`](III-Wisdom/markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](III-Wisdom/json/26-wisdom-of-solomon.json) |
-| 27 | Sirach | 51 | 1,352 | 237 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
+| 27 | Sirach | 51 | 1,354 | 240 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
 
 ## Division IV. Providence (16 / 16 Complete)
 

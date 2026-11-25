@@ -1,6 +1,6 @@
 # 1 Chronicles 12 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (41 verses, 5 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -12,6 +12,8 @@
 **12:3** the chief, Ahiezer, and Joa the son of Ama the Gibeathite, and Joel and Jophalet, sons of Azmaveth, and Berechiah, and Jehul the Anathothite,
 
 **12:4** and Shemaiah the Gibeonite, a mighty man among the thirty and over the thirty,
+
+**12:5** Jeremiah, and Jezel, and Johanan, and Joazabab the Gederathite,
 
 **12:6** Azai, and Arimoth, and Badaiah, and Shemariah, and Shephatiah the Haruphite,
 
@@ -85,10 +87,6 @@
 
 **12:41** And those bordering on them, as far as Issachar and Zebulun and Naphtali, were bringing to them on camels and donkeys and mules and on calves food, flour, fig cakes, raisins, wine and oil, calves and sheep in abundance, because there was gladness in Israel.
 
-## Additional Verses (Not in Saints Numbering)
-
-**12:5** *(after `12:4`)* Jeremiah, and Jezel, and Johanan, and Joazabab the Gederathite,
-
 ## Translator Notes
 
 - **12:1** — Greek reads "Sokla" here and "Soglam" in 12:21, Septuagint forms corresponding to Hebrew "Ziklag." Several personal names in 12:3-14, 21, and 28 also preserve distinct Greek textual forms (such as Joel for Jeziel, Eliab for Eliel, Eliezer for Elzabad, and Toadas for Jehoiada).
@@ -96,4 +94,3 @@
 - **12:19** — Greek reads "Go, and your people" (taking the Hebrew consonants as an imperative and "your people"), where the Hebrew has "Yours we are... and with you."
 - **12:22** — Greek ton geddour ("the geddur") is an untranslated transliteration (with a d/r shift) of the Hebrew word for "the raiding band."
 - **12:34** — Greek reads "not empty-handed" (Hebrew: "not with a double heart"); in 12:36, Greek reads "twenty-eight thousand eight hundred" (Hebrew: 28,600).
-- **12:5 *(additional)*** — This verse has no separate slot in the Saints.Bible parallel numbering (where Hebrew 12:4 merges these names into 12:4), so it is displayed here after 12:4.

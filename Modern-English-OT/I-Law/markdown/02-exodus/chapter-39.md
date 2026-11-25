@@ -1,6 +1,6 @@
 # Exodus 39 — Saints Modern English (Greek Septuagint)
 
-> **Status:** `draft: true` (22 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Greek-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -45,13 +45,11 @@
 
 **39:20** and the hangings of the courtyard and the pillars, and the curtain of the door of the tent and of the gate of the courtyard,
 
+**39:21** and all the utensils of the tent and all its implements, and the hides, ram skins dyed red, and the coverings, blue skins, and the outer coverings of the rest, and the pegs and all the implements for the works of the tent of testimony.
+
 **39:22** What the Lord commanded Moses, so the sons of Israel made all the equipment.
 
 **39:23** And Moses saw all the works, and they had done them in the manner the Lord commanded Moses; so they did them. And Moses blessed them.
-
-## Additional Verses (Not in Saints Numbering)
-
-**39:21** *(after `39:20`)* and all the utensils of the tent and all its implements, and the hides, ram skins dyed red, and the coverings, blue skins, and the outer coverings of the rest, and the pegs and all the implements for the works of the tent of testimony.
 
 ## Translator Notes
 
@@ -59,4 +57,5 @@
 - **39:2** — Greek renders the half-shekel weight (Hebrew beka) with the Hellenistic measure 'one drachma.'
 - **39:4** — Greek repeats 'one hundred' before both the capitals of the tent and the capitals of the curtain; verse 5 then gives the total of one hundred capitals for one hundred talents.
 - **39:7** — The Septuagint records seventy talents and one thousand five hundred shekels of bronze, where the Hebrew Masoretic Text reads two thousand four hundred shekels.
-- **39:21 *(additional)*** — Translated from the Saints Greek Critical Text; this verse has no separate place in the Saints.Bible numbering, so it is shown after 39:20.
+- **39:14** — In the Saints Greek Critical Text, verses 39:14–21 divide the tabernacle inventory differently from the Saints.Bible numbering: 39:14 combines Saints.Bible 39:13–14 (the tent and the ark with its carrying poles), 39:15 corresponds to 39:15a (the altar and its utensils), 39:16 spans 39:15b–16a (oil, incense, and lampstand), 39:17–20 correspond to 39:16b–19a, and 39:21 spans 39:19b–21.
+- **39:21** — This verse is retained in its adopted Saints Greek Critical Text position between 39:20 and 39:22; in the Saints.Bible numbering its clauses span 39:19b–21 (the tent utensils, dyed ram skins, blue coverings, pegs, and implements).

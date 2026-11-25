@@ -61,6 +61,6 @@
 - **36:5** — Greek ἀλλοίωσον literally means "make other" or "make different," reflecting a Hebrew verb (shanah) that can mean either "change" or "repeat."
 - **36:10** — This verse combines native Greek 33:11 and 36:16 in the restored Saints.Bible order. The clause "And I was the last to keep watch" (Κἀγὼ ἔσχατος ἠγρύπνησα) is a textual dislocation from Sirach 33:16 preserved at the seam of transposed leaves in Greek manuscripts. Also, κατακληρονομήσεις αὐτούς ("give them an inheritance") can alternatively mean "take them as Your inheritance."
 - **36:13** — "Proclamation of Your wonders" renders the rare Greek term ἀρεταλογία (recounting of divine mighty deeds). The Greek text reads "Your people" (τὸν λαόν σου), whereas some witnesses read "Your temple" (τὸν ναόν σου).
-- **36:18** — Verse 36:17 of the parallel numbering has no separate Greek GI line here; native Greek 36:23 follows 36:22 (v. 16 here) directly with nothing omitted.
+- **36:18** — Verse 36:17 of the Saints.Bible numbering is combined into 36:16 (native Greek 36:22 spans 36:16–17), so native Greek 36:23 follows 36:22 directly with nothing omitted.
 - **36:23** — Literally "not according to the sons of men," an idiom meaning that her husband is uniquely fortunate beyond ordinary mortals.
-- **36:26** — The Greek text reads σφαλλομένῳ (literally "stumbling" or "straying"), whereas some witnesses and emendations read ἀφαλλομένῳ ("leaping" or "darting").
+- **36:26** — The Greek text reads σφαλλομένῳ (literally "stumbling" or "straying"), whereas some witnesses and emendations read ἀφαλλομένῳ ("leaping" or "darting"). In the Saints.Bible numbering, this verse (native Greek 36:31) spans 36:26–27.
